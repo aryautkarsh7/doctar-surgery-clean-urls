@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aditi's/@16.70104,74.24202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10196dd5ac76d:0x7d409983fada8fde!8m2!3d16.70104!4d74.24202!16s%2Fg%2F11h5rph5j8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditi's/@16.70104,74.24202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10196dd5ac76d:0x7d409983fada8fde!8m2!3d16.70104!4d74.24202!16s%2Fg%2F11h5rph5j8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -115,8 +115,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aditi's/@16.70104,74.24202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10196dd5ac76d:0x7d409983fada8fde!8m2!3d16.70104!4d74.24202!16s%2Fg%2F11h5rph5j8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advanced-dental-kolhapur",
@@ -165,7 +164,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Advanced+Dental/@16.6808758,74.2401628,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101108905f99b:0x4d3cda47c2933b3e!8m2!3d16.6808758!4d74.2401628!16s%2Fg%2F11q_bj7_zl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Dental/@16.6808758,74.2401628,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101108905f99b:0x4d3cda47c2933b3e!8m2!3d16.6808758!4d74.2401628!16s%2Fg%2F11q_bj7_zl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -231,11 +230,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Advanced+Dental/@16.6808758,74.2401628,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101108905f99b:0x4d3cda47c2933b3e!8m2!3d16.6808758!4d74.2401628!16s%2Fg%2F11q_bj7_zl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advanced-dental-care-kolhapur",
@@ -283,7 +281,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ADVANCED+DENTAL+CARE/@16.6932959,74.2419775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003df1f70171:0xb57cfa45fd7eba3e!8m2!3d16.6932959!4d74.2419775!16s%2Fg%2F11c2kdyfy0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADVANCED+DENTAL+CARE/@16.6932959,74.2419775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003df1f70171:0xb57cfa45fd7eba3e!8m2!3d16.6932959!4d74.2419775!16s%2Fg%2F11c2kdyfy0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -349,11 +347,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ADVANCED+DENTAL+CARE/@16.6932959,74.2419775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003df1f70171:0xb57cfa45fd7eba3e!8m2!3d16.6932959!4d74.2419775!16s%2Fg%2F11c2kdyfy0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "antrang-hospital-kolhapur",
@@ -402,7 +399,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Antrang+Hospital/@16.7136765,74.2313445,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101a0a051669d:0x6fa1522a02b365ad!8m2!3d16.7136765!4d74.2313445!16s%2Fg%2F1tg_k2dr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Antrang+Hospital/@16.7136765,74.2313445,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101a0a051669d:0x6fa1522a02b365ad!8m2!3d16.7136765!4d74.2313445!16s%2Fg%2F1tg_k2dr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -471,8 +468,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Antrang+Hospital/@16.7136765,74.2313445,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101a0a051669d:0x6fa1522a02b365ad!8m2!3d16.7136765!4d74.2313445!16s%2Fg%2F1tg_k2dr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apex-dental-clinic-uchgaon",
@@ -520,7 +516,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apex+dental+clinic/@16.6931867,74.272589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10154a60aa4c3:0x30fa2d3678eb8c39!8m2!3d16.6931867!4d74.272589!16s%2Fg%2F11rmx2s_16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+dental+clinic/@16.6931867,74.272589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10154a60aa4c3:0x30fa2d3678eb8c39!8m2!3d16.6931867!4d74.272589!16s%2Fg%2F11rmx2s_16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -589,8 +585,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apex+dental+clinic/@16.6931867,74.272589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10154a60aa4c3:0x30fa2d3678eb8c39!8m2!3d16.6931867!4d74.272589!16s%2Fg%2F11rmx2s_16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apple-cancer-institute-kolhapur",
@@ -640,7 +635,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apple+Cancer+Institute/@16.7232022,74.2545558,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101444b034a93:0x83ab00fc776b81c7!8m2!3d16.7232022!4d74.2545558!16s%2Fg%2F11gzp57k7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apple+Cancer+Institute/@16.7232022,74.2545558,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101444b034a93:0x83ab00fc776b81c7!8m2!3d16.7232022!4d74.2545558!16s%2Fg%2F11gzp57k7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -709,8 +704,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apple+Cancer+Institute/@16.7232022,74.2545558,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101444b034a93:0x83ab00fc776b81c7!8m2!3d16.7232022!4d74.2545558!16s%2Fg%2F11gzp57k7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apple-hospitals-and-research-institute-limited-kolhapur",
@@ -759,7 +753,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apple+Hospitals+and+Research+institute+Limited/@16.7015472,74.2395063,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100419162d325:0x996087179cda9e9f!8m2!3d16.7015472!4d74.2395063!16s%2Fg%2F1tdqrzzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apple+Hospitals+and+Research+institute+Limited/@16.7015472,74.2395063,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100419162d325:0x996087179cda9e9f!8m2!3d16.7015472!4d74.2395063!16s%2Fg%2F1tdqrzzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -828,8 +822,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apple+Hospitals+and+Research+institute+Limited/@16.7015472,74.2395063,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100419162d325:0x996087179cda9e9f!8m2!3d16.7015472!4d74.2395063!16s%2Fg%2F1tdqrzzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apurva-hospital-kolhapur",
@@ -877,7 +870,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apurva+Hospital/@16.7079385,74.2639682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101b52fffffff:0xfda64d12cbb62023!8m2!3d16.7079385!4d74.2639682!16s%2Fg%2F1tph05h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apurva+Hospital/@16.7079385,74.2639682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101b52fffffff:0xfda64d12cbb62023!8m2!3d16.7079385!4d74.2639682!16s%2Fg%2F1tph05h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -946,8 +939,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apurva+Hospital/@16.7079385,74.2639682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101b52fffffff:0xfda64d12cbb62023!8m2!3d16.7079385!4d74.2639682!16s%2Fg%2F1tph05h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arihant-dental-clinic-kolhapur-kolhapur",
@@ -996,7 +988,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arihant+Dental+Clinic+%7C+Kolhapur/@16.6963591,74.2415364,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000dc5e612ab:0xf151b0fc7f4337e7!8m2!3d16.6963591!4d74.2415364!16s%2Fg%2F11hbnmdsff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arihant+Dental+Clinic+%7C+Kolhapur/@16.6963591,74.2415364,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000dc5e612ab:0xf151b0fc7f4337e7!8m2!3d16.6963591!4d74.2415364!16s%2Fg%2F11hbnmdsff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1065,8 +1057,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arihant+Dental+Clinic+%7C+Kolhapur/@16.6963591,74.2415364,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000dc5e612ab:0xf151b0fc7f4337e7!8m2!3d16.6963591!4d74.2415364!16s%2Fg%2F11hbnmdsff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arya-dental-clinic-kolhapur",
@@ -1114,7 +1105,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arya+Dental+Clinic/@16.694457,74.217996,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000a7633e043:0xead78d8508959d58!8m2!3d16.694457!4d74.217996!16s%2Fg%2F1pyqpbwyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arya+Dental+Clinic/@16.694457,74.217996,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000a7633e043:0xead78d8508959d58!8m2!3d16.694457!4d74.217996!16s%2Fg%2F1pyqpbwyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1183,8 +1174,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arya+Dental+Clinic/@16.694457,74.217996,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000a7633e043:0xead78d8508959d58!8m2!3d16.694457!4d74.217996!16s%2Fg%2F1pyqpbwyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "athaayu-hospital-kolhapur-ujalaiwadi",
@@ -1233,7 +1223,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Athaayu+Hospital+,Kolhapur/@16.673309,74.2717642,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0fe2eb13fcfdd:0x240bb57f6d9148e9!8m2!3d16.673309!4d74.2717642!16s%2Fg%2F11c6ltfzst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Athaayu+Hospital+,Kolhapur/@16.673309,74.2717642,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0fe2eb13fcfdd:0x240bb57f6d9148e9!8m2!3d16.673309!4d74.2717642!16s%2Fg%2F11c6ltfzst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1302,8 +1292,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Athaayu+Hospital+,Kolhapur/@16.673309,74.2717642,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0fe2eb13fcfdd:0x240bb57f6d9148e9!8m2!3d16.673309!4d74.2717642!16s%2Fg%2F11c6ltfzst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-dental-clinic-kolhapur",
@@ -1352,7 +1341,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Dental+Clinic/@16.6753672,74.204862,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1ab2c2bfb3039:0xf007f9a434c484a2!8m2!3d16.6753672!4d74.204862!16s%2Fg%2F11vyr5yvjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Dental+Clinic/@16.6753672,74.204862,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1ab2c2bfb3039:0xf007f9a434c484a2!8m2!3d16.6753672!4d74.204862!16s%2Fg%2F11vyr5yvjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1418,11 +1407,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Dental+Clinic/@16.6753672,74.204862,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1ab2c2bfb3039:0xf007f9a434c484a2!8m2!3d16.6753672!4d74.204862!16s%2Fg%2F11vyr5yvjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cpr-hospital-kolhapur",
@@ -1471,7 +1459,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CPR+Hospital/@16.70168,74.2261256,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1004193c8a4c1:0x8ced248f433ef857!8m2!3d16.70168!4d74.2261256!16s%2Fg%2F1q62bkkrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CPR+Hospital/@16.70168,74.2261256,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1004193c8a4c1:0x8ced248f433ef857!8m2!3d16.70168!4d74.2261256!16s%2Fg%2F1q62bkkrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1537,11 +1525,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CPR+Hospital/@16.70168,74.2261256,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1004193c8a4c1:0x8ced248f433ef857!8m2!3d16.70168!4d74.2261256!16s%2Fg%2F1q62bkkrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-aura-kolhapur",
@@ -1589,7 +1576,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Aura/@16.6942602,74.2423864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10190bf5ea433:0xc411e0a962f92936!8m2!3d16.6942602!4d74.2423864!16s%2Fg%2F11zj0hr8_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Aura/@16.6942602,74.2423864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10190bf5ea433:0xc411e0a962f92936!8m2!3d16.6942602!4d74.2423864!16s%2Fg%2F11zj0hr8_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1655,11 +1642,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Aura/@16.6942602,74.2423864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10190bf5ea433:0xc411e0a962f92936!8m2!3d16.6942602!4d74.2423864!16s%2Fg%2F11zj0hr8_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-decor-smiles-for-generations-kolhapur",
@@ -1707,7 +1693,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Decor+smiles+for+generations/@16.7118939,74.2449635,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100432d01b531:0xa33aac92823e048d!8m2!3d16.7118939!4d74.2449635!16s%2Fg%2F11bzv32c0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Decor+smiles+for+generations/@16.7118939,74.2449635,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100432d01b531:0xa33aac92823e048d!8m2!3d16.7118939!4d74.2449635!16s%2Fg%2F11bzv32c0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1773,11 +1759,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Decor+smiles+for+generations/@16.7118939,74.2449635,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100432d01b531:0xa33aac92823e048d!8m2!3d16.7118939!4d74.2449635!16s%2Fg%2F11bzv32c0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-health-centre-kolhapur",
@@ -1825,7 +1810,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Health+Centre/@16.702024,74.2321445,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100403fffffff:0x2310ffe47e764e44!8m2!3d16.702024!4d74.2321445!16s%2Fg%2F1tdn2jtk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Health+Centre/@16.702024,74.2321445,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100403fffffff:0x2310ffe47e764e44!8m2!3d16.702024!4d74.2321445!16s%2Fg%2F1tdn2jtk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1894,8 +1879,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Health+Centre/@16.702024,74.2321445,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100403fffffff:0x2310ffe47e764e44!8m2!3d16.702024!4d74.2321445!16s%2Fg%2F1tdn2jtk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-implants-and-smile-rehabilitation-centre-kolhapur",
@@ -1943,7 +1927,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+implants+and+smile+rehabilitation+centre/@16.6647017,74.2284231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0fff2b51ff2f1:0x6c3ecbde8361a14b!8m2!3d16.6647017!4d74.2284231!16s%2Fg%2F11txpgyqd8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+implants+and+smile+rehabilitation+centre/@16.6647017,74.2284231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0fff2b51ff2f1:0x6c3ecbde8361a14b!8m2!3d16.6647017!4d74.2284231!16s%2Fg%2F11txpgyqd8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2009,11 +1993,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+implants+and+smile+rehabilitation+centre/@16.6647017,74.2284231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0fff2b51ff2f1:0x6c3ecbde8361a14b!8m2!3d16.6647017!4d74.2284231!16s%2Fg%2F11txpgyqd8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-solutions-kolhapur",
@@ -2061,7 +2044,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Solutions/@16.70213,74.232913,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006b6576a615:0x223d7ea27a79aaf8!8m2!3d16.70213!4d74.232913!16s%2Fg%2F1tfv3l1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Solutions/@16.70213,74.232913,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006b6576a615:0x223d7ea27a79aaf8!8m2!3d16.70213!4d74.232913!16s%2Fg%2F1tfv3l1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2130,8 +2113,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Solutions/@16.70213,74.232913,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006b6576a615:0x223d7ea27a79aaf8!8m2!3d16.70213!4d74.232913!16s%2Fg%2F1tfv3l1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentspa-kolhapur",
@@ -2179,7 +2161,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dentspa/@16.7110783,74.2323647,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101a4449860bf:0xc4a4995628efe8f5!8m2!3d16.7110783!4d74.2323647!16s%2Fg%2F11j7yz_39g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentspa/@16.7110783,74.2323647,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101a4449860bf:0xc4a4995628efe8f5!8m2!3d16.7110783!4d74.2323647!16s%2Fg%2F11j7yz_39g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2248,8 +2230,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dentspa/@16.7110783,74.2323647,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101a4449860bf:0xc4a4995628efe8f5!8m2!3d16.7110783!4d74.2323647!16s%2Fg%2F11j7yz_39g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "diamond-hospital-kolhapur",
@@ -2297,7 +2278,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Diamond+Hospital/@16.7111041,74.2305824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100655b71f805:0x9be7a85094e4946c!8m2!3d16.7111041!4d74.2305824!16s%2Fg%2F11csptx_y4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diamond+Hospital/@16.7111041,74.2305824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100655b71f805:0x9be7a85094e4946c!8m2!3d16.7111041!4d74.2305824!16s%2Fg%2F11csptx_y4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2366,8 +2347,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Diamond+Hospital/@16.7111041,74.2305824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100655b71f805:0x9be7a85094e4946c!8m2!3d16.7111041!4d74.2305824!16s%2Fg%2F11csptx_y4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "durga-dental-clinic-kolhapur",
@@ -2415,7 +2395,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Durga+Dental+Clinic/@16.7100984,74.2400706,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1017f7a4183ed:0x25e6bfe23b4272c8!8m2!3d16.7100984!4d74.2400706!16s%2Fg%2F11qg46rkqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Durga+Dental+Clinic/@16.7100984,74.2400706,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1017f7a4183ed:0x25e6bfe23b4272c8!8m2!3d16.7100984!4d74.2400706!16s%2Fg%2F11qg46rkqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2484,8 +2464,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Durga+Dental+Clinic/@16.7100984,74.2400706,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1017f7a4183ed:0x25e6bfe23b4272c8!8m2!3d16.7100984!4d74.2400706!16s%2Fg%2F11qg46rkqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ekdant-dental-clinic-kalamba-kalambe-turf-thane",
@@ -2533,7 +2512,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ekdant+Dental+Clinic,Kalamba/@16.6651418,74.2110006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0558ca80637eb:0xe4be2887ffb34329!8m2!3d16.6651418!4d74.2110006!16s%2Fg%2F11t58byw8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ekdant+Dental+Clinic,Kalamba/@16.6651418,74.2110006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0558ca80637eb:0xe4be2887ffb34329!8m2!3d16.6651418!4d74.2110006!16s%2Fg%2F11t58byw8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2599,11 +2578,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ekdant+Dental+Clinic,Kalamba/@16.6651418,74.2110006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0558ca80637eb:0xe4be2887ffb34329!8m2!3d16.6651418!4d74.2110006!16s%2Fg%2F11t58byw8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ekdant-implant-dental-clinic-kolhapur",
@@ -2652,7 +2630,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ekdant+Implant+Dental+Clinic/@16.674007,74.2037459,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0552af44d2475:0x3f017f2f7a5fa424!8m2!3d16.674007!4d74.2037459!16s%2Fg%2F11y8jhb7kz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ekdant+Implant+Dental+Clinic/@16.674007,74.2037459,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0552af44d2475:0x3f017f2f7a5fa424!8m2!3d16.674007!4d74.2037459!16s%2Fg%2F11y8jhb7kz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2721,8 +2699,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ekdant+Implant+Dental+Clinic/@16.674007,74.2037459,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0552af44d2475:0x3f017f2f7a5fa424!8m2!3d16.674007!4d74.2037459!16s%2Fg%2F11y8jhb7kz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "flourish-dental-clinic-kolhapur",
@@ -2770,7 +2747,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Flourish+Dental+Clinic/@16.6942472,74.2415433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101cc5caa368f:0x8afd9926a61cf183!8m2!3d16.6942472!4d74.2415433!16s%2Fg%2F11wnzqrqcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Flourish+Dental+Clinic/@16.6942472,74.2415433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101cc5caa368f:0x8afd9926a61cf183!8m2!3d16.6942472!4d74.2415433!16s%2Fg%2F11wnzqrqcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2839,8 +2816,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Flourish+Dental+Clinic/@16.6942472,74.2415433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101cc5caa368f:0x8afd9926a61cf183!8m2!3d16.6942472!4d74.2415433!16s%2Fg%2F11wnzqrqcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "grace-skin-hair-and-dental-implant-kolhapur",
@@ -2888,7 +2864,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Grace+skin,Hair+and+Dental+implant/@16.7098407,74.2409278,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006823ad6b5f:0xe64424e1544840d1!8m2!3d16.7098407!4d74.2409278!16s%2Fg%2F11b6cvk9_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Grace+skin,Hair+and+Dental+implant/@16.7098407,74.2409278,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006823ad6b5f:0xe64424e1544840d1!8m2!3d16.7098407!4d74.2409278!16s%2Fg%2F11b6cvk9_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2957,8 +2933,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Grace+skin,Hair+and+Dental+implant/@16.7098407,74.2409278,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006823ad6b5f:0xe64424e1544840d1!8m2!3d16.7098407!4d74.2409278!16s%2Fg%2F11b6cvk9_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gurukrupa-hospital-kolhapur",
@@ -3007,7 +2982,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gurukrupa+Hospital/data=!4m7!3m6!1s0x3bc101d78721e9a7:0x8de77e788b620e37!8m2!3d16.7083097!4d74.2576057!16s%2Fg%2F11l1dsjnyq!19sChIJp-khh9cBwTsRNw5ii3h-540?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurukrupa+Hospital/data=!4m7!3m6!1s0x3bc101d78721e9a7:0x8de77e788b620e37!8m2!3d16.7083097!4d74.2576057!16s%2Fg%2F11l1dsjnyq!19sChIJp-khh9cBwTsRNw5ii3h-540?authuser=0&hl=en&rclk=1"
@@ -3073,11 +3048,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gurukrupa+Hospital/data=!4m7!3m6!1s0x3bc101d78721e9a7:0x8de77e788b620e37!8m2!3d16.7083097!4d74.2576057!16s%2Fg%2F11l1dsjnyq!19sChIJp-khh9cBwTsRNw5ii3h-540?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "harihar-oral-diagnostics-and-dental-clinic-kolhapur",
@@ -3125,7 +3099,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HARIHAR+ORAL+DIAGNOSTICS+AND+DENTAL+CLINIC/@16.7000626,74.2381056,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10193f46a18f5:0x29e015221e79f93b!8m2!3d16.7000626!4d74.2381056!16s%2Fg%2F11yzl5k2y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HARIHAR+ORAL+DIAGNOSTICS+AND+DENTAL+CLINIC/@16.7000626,74.2381056,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10193f46a18f5:0x29e015221e79f93b!8m2!3d16.7000626!4d74.2381056!16s%2Fg%2F11yzl5k2y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3191,11 +3165,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HARIHAR+ORAL+DIAGNOSTICS+AND+DENTAL+CLINIC/@16.7000626,74.2381056,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10193f46a18f5:0x29e015221e79f93b!8m2!3d16.7000626!4d74.2381056!16s%2Fg%2F11yzl5k2y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "infinite-smiles-dental-clinic-kolhapur-kolhapur",
@@ -3244,7 +3217,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Infinite+Smiles+Dental+Clinic+Kolhapur/@16.7057072,74.2411641,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006a011b12d9:0xf166c65660abb8ac!8m2!3d16.7057072!4d74.2411641!16s%2Fg%2F11cjhqyq3n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Infinite+Smiles+Dental+Clinic+Kolhapur/@16.7057072,74.2411641,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006a011b12d9:0xf166c65660abb8ac!8m2!3d16.7057072!4d74.2411641!16s%2Fg%2F11cjhqyq3n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3313,8 +3286,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Infinite+Smiles+Dental+Clinic+Kolhapur/@16.7057072,74.2411641,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006a011b12d9:0xf166c65660abb8ac!8m2!3d16.7057072!4d74.2411641!16s%2Fg%2F11cjhqyq3n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "isolation-hospital-kolhapur",
@@ -3362,7 +3334,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Isolation+Hospital/@16.676341,74.232147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1001d62e3ce11:0xd8f725b60130d87!8m2!3d16.676341!4d74.232147!16s%2Fg%2F11g_76vzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Isolation+Hospital/@16.676341,74.232147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1001d62e3ce11:0xd8f725b60130d87!8m2!3d16.676341!4d74.232147!16s%2Fg%2F11g_76vzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3428,11 +3400,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Isolation+Hospital/@16.676341,74.232147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1001d62e3ce11:0xd8f725b60130d87!8m2!3d16.676341!4d74.232147!16s%2Fg%2F11g_76vzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "just-smile-kolhapur",
@@ -3481,7 +3452,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Just+Smile/@16.7079621,74.2287824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101c32c55ec07:0x6ae1f9fedd0e0e73!8m2!3d16.7079621!4d74.2287824!16s%2Fg%2F11hhnvmk_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Just+Smile/@16.7079621,74.2287824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101c32c55ec07:0x6ae1f9fedd0e0e73!8m2!3d16.7079621!4d74.2287824!16s%2Fg%2F11hhnvmk_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3550,8 +3521,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Just+Smile/@16.7079621,74.2287824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101c32c55ec07:0x6ae1f9fedd0e0e73!8m2!3d16.7079621!4d74.2287824!16s%2Fg%2F11hhnvmk_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kapadia-s-dental-clinic-kolhapur",
@@ -3599,7 +3569,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kapadia's+Dental+Clinic/@16.7007981,74.2362845,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006ca2278d95:0x2758dc78d3743ba2!8m2!3d16.7007981!4d74.2362845!16s%2Fg%2F1thg8x8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kapadia's+Dental+Clinic/@16.7007981,74.2362845,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006ca2278d95:0x2758dc78d3743ba2!8m2!3d16.7007981!4d74.2362845!16s%2Fg%2F1thg8x8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3668,8 +3638,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kapadia's+Dental+Clinic/@16.7007981,74.2362845,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006ca2278d95:0x2758dc78d3743ba2!8m2!3d16.7007981!4d74.2362845!16s%2Fg%2F1thg8x8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kmc-savitribai-phule-hospital-kolhapur",
@@ -3717,7 +3686,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KMC+Savitribai+Phule+Hospital/@16.6945741,74.2314,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100123e9ecce5:0xde0e2653021ea9b9!8m2!3d16.6945741!4d74.2314!16s%2Fg%2F1v6qg1wg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KMC+Savitribai+Phule+Hospital/@16.6945741,74.2314,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100123e9ecce5:0xde0e2653021ea9b9!8m2!3d16.6945741!4d74.2314!16s%2Fg%2F1v6qg1wg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3786,8 +3755,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KMC+Savitribai+Phule+Hospital/@16.6945741,74.2314,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100123e9ecce5:0xde0e2653021ea9b9!8m2!3d16.6945741!4d74.2314!16s%2Fg%2F1v6qg1wg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kolhapur-cancer-centre-gokul-shirgaon",
@@ -3837,7 +3805,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kolhapur+Cancer+Centre/@16.658189,74.2695264,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100390701b511:0xea1c8486d91b8e56!8m2!3d16.658189!4d74.2695264!16s%2Fg%2F1hm278n47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kolhapur+Cancer+Centre/@16.658189,74.2695264,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100390701b511:0xea1c8486d91b8e56!8m2!3d16.658189!4d74.2695264!16s%2Fg%2F1hm278n47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3906,8 +3874,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kolhapur+Cancer+Centre/@16.658189,74.2695264,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100390701b511:0xea1c8486d91b8e56!8m2!3d16.658189!4d74.2695264!16s%2Fg%2F1hm278n47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kolhapur-dental-clinic-and-implant-center-kolhapur",
@@ -3956,7 +3923,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kolhapur+Dental+Clinic+and+Implant+Center/@16.7039243,74.2337418,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006c12d8a3e1:0xbb5bd58b8eaf0a1!8m2!3d16.7039243!4d74.2337418!16s%2Fg%2F11c5sf34rf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kolhapur+Dental+Clinic+and+Implant+Center/@16.7039243,74.2337418,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006c12d8a3e1:0xbb5bd58b8eaf0a1!8m2!3d16.7039243!4d74.2337418!16s%2Fg%2F11c5sf34rf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4025,8 +3992,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kolhapur+Dental+Clinic+and+Implant+Center/@16.7039243,74.2337418,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006c12d8a3e1:0xbb5bd58b8eaf0a1!8m2!3d16.7039243!4d74.2337418!16s%2Fg%2F11c5sf34rf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kolhapur-s-royal-advanced-aesthetic-implant-smiles-and-multifascility-dental-clinic-kolhapur",
@@ -4075,7 +4041,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kolhapur's+Royal+Advanced+Aesthetic+Implant+Smiles+and+Multifascility+Dental+Clinic/@16.704644,74.2439818,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1012c46c6467f:0x8a2eaed748ae54a3!8m2!3d16.704644!4d74.2439818!16s%2Fg%2F11n99r0rtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kolhapur's+Royal+Advanced+Aesthetic+Implant+Smiles+and+Multifascility+Dental+Clinic/@16.704644,74.2439818,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1012c46c6467f:0x8a2eaed748ae54a3!8m2!3d16.704644!4d74.2439818!16s%2Fg%2F11n99r0rtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4141,11 +4107,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kolhapur's+Royal+Advanced+Aesthetic+Implant+Smiles+and+Multifascility+Dental+Clinic/@16.704644,74.2439818,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1012c46c6467f:0x8a2eaed748ae54a3!8m2!3d16.704644!4d74.2439818!16s%2Fg%2F11n99r0rtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-hospital-kolhapur",
@@ -4194,7 +4159,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Hospital/@16.679605,74.216442,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1aaaa1570b00d:0x5add50f201235e5f!8m2!3d16.679605!4d74.216442!16s%2Fg%2F1tct750v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital/@16.679605,74.216442,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1aaaa1570b00d:0x5add50f201235e5f!8m2!3d16.679605!4d74.216442!16s%2Fg%2F1tct750v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4263,8 +4228,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Hospital/@16.679605,74.216442,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1aaaa1570b00d:0x5add50f201235e5f!8m2!3d16.679605!4d74.216442!16s%2Fg%2F1tct750v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "la-confidence-derma-clinic-kolhapur",
@@ -4313,7 +4277,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/La+Confidence+Derma+Clinic/@16.7088439,74.2427847,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100428a955555:0x95e6facc49e9d4d9!8m2!3d16.7088439!4d74.2427847!16s%2Fg%2F11s7nmc3dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/La+Confidence+Derma+Clinic/@16.7088439,74.2427847,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100428a955555:0x95e6facc49e9d4d9!8m2!3d16.7088439!4d74.2427847!16s%2Fg%2F11s7nmc3dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4382,8 +4346,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/La+Confidence+Derma+Clinic/@16.7088439,74.2427847,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100428a955555:0x95e6facc49e9d4d9!8m2!3d16.7088439!4d74.2427847!16s%2Fg%2F11s7nmc3dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "la-finezza-aesthetica-kolhapur",
@@ -4432,7 +4395,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/La+Finezza+Aesthetica/@16.7101702,74.2400363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10180fcdd2811:0x174cb69fea534dd3!8m2!3d16.7101702!4d74.2400363!16s%2Fg%2F11lckz5kq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/La+Finezza+Aesthetica/@16.7101702,74.2400363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10180fcdd2811:0x174cb69fea534dd3!8m2!3d16.7101702!4d74.2400363!16s%2Fg%2F11lckz5kq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4501,8 +4464,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/La+Finezza+Aesthetica/@16.7101702,74.2400363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10180fcdd2811:0x174cb69fea534dd3!8m2!3d16.7101702!4d74.2400363!16s%2Fg%2F11lckz5kq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "little-smiles-dental-care-for-children-kolhapur",
@@ -4553,7 +4515,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Little+Smiles+Dental+Care+for+children/@16.7015044,74.2386247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006b1be3dd1d:0x22ce900f41259d9c!8m2!3d16.7015044!4d74.2386247!16s%2Fg%2F1ptwt26yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Little+Smiles+Dental+Care+for+children/@16.7015044,74.2386247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006b1be3dd1d:0x22ce900f41259d9c!8m2!3d16.7015044!4d74.2386247!16s%2Fg%2F1ptwt26yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4622,8 +4584,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Little+Smiles+Dental+Care+for+children/@16.7015044,74.2386247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006b1be3dd1d:0x22ce900f41259d9c!8m2!3d16.7015044!4d74.2386247!16s%2Fg%2F1ptwt26yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhav-mission-kolhapur",
@@ -4671,7 +4632,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Madhav+Mission/@16.6882788,74.2196349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000958eb3b09:0x4f3efbeb2b8241dd!8m2!3d16.6882788!4d74.2196349!16s%2Fg%2F1thr5mhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhav+Mission/@16.6882788,74.2196349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000958eb3b09:0x4f3efbeb2b8241dd!8m2!3d16.6882788!4d74.2196349!16s%2Fg%2F1thr5mhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4740,8 +4701,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Madhav+Mission/@16.6882788,74.2196349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000958eb3b09:0x4f3efbeb2b8241dd!8m2!3d16.6882788!4d74.2196349!16s%2Fg%2F1thr5mhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-and-panchakarma-center-rajarampuri-kolhapur-kolhapur",
@@ -4791,7 +4751,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Rajarampuri,+Kolhapur)/@16.6944192,74.2428384,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e91546639:0x4125dcf5267f3fc5!8m2!3d16.6944192!4d74.2428384!16s%2Fg%2F11crs_vz0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Rajarampuri,+Kolhapur)/@16.6944192,74.2428384,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e91546639:0x4125dcf5267f3fc5!8m2!3d16.6944192!4d74.2428384!16s%2Fg%2F11crs_vz0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4860,8 +4820,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Rajarampuri,+Kolhapur)/@16.6944192,74.2428384,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e91546639:0x4125dcf5267f3fc5!8m2!3d16.6944192!4d74.2428384!16s%2Fg%2F11crs_vz0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "magdum-endo-surgery-institute-kolhapur",
@@ -4909,7 +4868,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Magdum+Endo+Surgery+Institute/@16.68957,74.241474,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003d58914cab:0x4a7104ebd1f92ec1!8m2!3d16.68957!4d74.241474!16s%2Fg%2F1tmphz62?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Magdum+Endo+Surgery+Institute/@16.68957,74.241474,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003d58914cab:0x4a7104ebd1f92ec1!8m2!3d16.68957!4d74.241474!16s%2Fg%2F1tmphz62?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4978,8 +4937,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Magdum+Endo+Surgery+Institute/@16.68957,74.241474,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003d58914cab:0x4a7104ebd1f92ec1!8m2!3d16.68957!4d74.241474!16s%2Fg%2F1tmphz62?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "makandar-dental-clinic-kolhapur",
@@ -5027,7 +4985,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Makandar+Dental+Clinic/@16.7030596,74.2344505,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006cb9d33ed9:0xf7e569059ff60584!8m2!3d16.7030596!4d74.2344505!16s%2Fg%2F11g7z04yzr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Makandar+Dental+Clinic/@16.7030596,74.2344505,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006cb9d33ed9:0xf7e569059ff60584!8m2!3d16.7030596!4d74.2344505!16s%2Fg%2F11g7z04yzr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5096,8 +5054,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Makandar+Dental+Clinic/@16.7030596,74.2344505,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006cb9d33ed9:0xf7e569059ff60584!8m2!3d16.7030596!4d74.2344505!16s%2Fg%2F11g7z04yzr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "matoshri-dental-hospital-kolhapur",
@@ -5145,7 +5102,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Matoshri+Dental+hospital/@16.6930394,74.2312369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101ec555f8787:0x8daf7bc681eb99f7!8m2!3d16.6930394!4d74.2312369!16s%2Fg%2F11h71nrrnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matoshri+Dental+hospital/@16.6930394,74.2312369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101ec555f8787:0x8daf7bc681eb99f7!8m2!3d16.6930394!4d74.2312369!16s%2Fg%2F11h71nrrnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5214,8 +5171,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Matoshri+Dental+hospital/@16.6930394,74.2312369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101ec555f8787:0x8daf7bc681eb99f7!8m2!3d16.6930394!4d74.2312369!16s%2Fg%2F11h71nrrnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mj-cosmetic-surgery-and-hair-transplant-center-kolhapur-kolhapur",
@@ -5263,7 +5219,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MJ+Cosmetic+Surgery+and+Hair+Transplant+Center+Kolhapur/@16.7110166,74.2323191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10184d000abe5:0x463765a98a8cd1f1!8m2!3d16.7110166!4d74.2323191!16s%2Fg%2F11j0hlsfx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MJ+Cosmetic+Surgery+and+Hair+Transplant+Center+Kolhapur/@16.7110166,74.2323191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10184d000abe5:0x463765a98a8cd1f1!8m2!3d16.7110166!4d74.2323191!16s%2Fg%2F11j0hlsfx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5332,8 +5288,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MJ+Cosmetic+Surgery+and+Hair+Transplant+Center+Kolhapur/@16.7110166,74.2323191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10184d000abe5:0x463765a98a8cd1f1!8m2!3d16.7110166!4d74.2323191!16s%2Fg%2F11j0hlsfx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "morya-dental-clinic-and-implant-center-kolhapur",
@@ -5381,7 +5336,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Morya+Dental+Clinic+%26+Implant+Center/@16.6999339,74.2381831,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1013f1c3aaa35:0x1b964dacad9df49d!8m2!3d16.6999339!4d74.2381831!16s%2Fg%2F11j13lc7jb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Morya+Dental+Clinic+%26+Implant+Center/@16.6999339,74.2381831,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1013f1c3aaa35:0x1b964dacad9df49d!8m2!3d16.6999339!4d74.2381831!16s%2Fg%2F11j13lc7jb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5450,8 +5405,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Morya+Dental+Clinic+%26+Implant+Center/@16.6999339,74.2381831,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1013f1c3aaa35:0x1b964dacad9df49d!8m2!3d16.6999339!4d74.2381831!16s%2Fg%2F11j13lc7jb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "my-city-dentist-dentistry-redefined-kolhapur",
@@ -5499,7 +5453,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/My+City+Dentist-Dentistry+Redefined/@16.7175962,74.2452195,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1010173a03b93:0xa0ce371d6267cf78!8m2!3d16.7175962!4d74.2452195!16s%2Fg%2F11z13y056q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+City+Dentist-Dentistry+Redefined/@16.7175962,74.2452195,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1010173a03b93:0xa0ce371d6267cf78!8m2!3d16.7175962!4d74.2452195!16s%2Fg%2F11z13y056q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5568,8 +5522,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/My+City+Dentist-Dentistry+Redefined/@16.7175962,74.2452195,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1010173a03b93:0xa0ce371d6267cf78!8m2!3d16.7175962!4d74.2452195!16s%2Fg%2F11z13y056q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirmiti-plastic-cosmetic-and-laser-surgery-center-best-hair-transplant-centre-in-kolhapur-kolhapur",
@@ -5618,7 +5571,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nirmiti+Plastic+Cosmetic+%26+Laser+Surgery+Center+-+Best+Hair+Transplant+Centre+in+Kolhapur/@16.7080332,74.2287047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101b8b799928f:0xac13b8e3d915e9f4!8m2!3d16.7080332!4d74.2287047!16s%2Fg%2F11qqgy8ydz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirmiti+Plastic+Cosmetic+%26+Laser+Surgery+Center+-+Best+Hair+Transplant+Centre+in+Kolhapur/@16.7080332,74.2287047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101b8b799928f:0xac13b8e3d915e9f4!8m2!3d16.7080332!4d74.2287047!16s%2Fg%2F11qqgy8ydz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5684,11 +5637,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nirmiti+Plastic+Cosmetic+%26+Laser+Surgery+Center+-+Best+Hair+Transplant+Centre+in+Kolhapur/@16.7080332,74.2287047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101b8b799928f:0xac13b8e3d915e9f4!8m2!3d16.7080332!4d74.2287047!16s%2Fg%2F11qqgy8ydz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oral-care-orthodontic-kolhapur",
@@ -5737,7 +5689,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oral+Care+Orthodontic/@16.7351263,74.2428781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100ed67f1bca7:0xd626513c01d0a32e!8m2!3d16.7351263!4d74.2428781!16s%2Fg%2F11f2vb0jyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Care+Orthodontic/@16.7351263,74.2428781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100ed67f1bca7:0xd626513c01d0a32e!8m2!3d16.7351263!4d74.2428781!16s%2Fg%2F11f2vb0jyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5803,11 +5755,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oral+Care+Orthodontic/@16.7351263,74.2428781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100ed67f1bca7:0xd626513c01d0a32e!8m2!3d16.7351263!4d74.2428781!16s%2Fg%2F11f2vb0jyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oral-pearls-dental-clinic-kolhapur",
@@ -5855,7 +5806,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oral+Pearls+Dental+Clinic/@16.7071754,74.2407308,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10069e78b8565:0xfb4f1bec8abe7747!8m2!3d16.7071754!4d74.2407308!16s%2Fg%2F11cnbsjr3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Pearls+Dental+Clinic/@16.7071754,74.2407308,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10069e78b8565:0xfb4f1bec8abe7747!8m2!3d16.7071754!4d74.2407308!16s%2Fg%2F11cnbsjr3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5921,11 +5872,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oral+Pearls+Dental+Clinic/@16.7071754,74.2407308,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10069e78b8565:0xfb4f1bec8abe7747!8m2!3d16.7071754!4d74.2407308!16s%2Fg%2F11cnbsjr3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oral-value-dental-clinic-kolhapur",
@@ -5974,7 +5924,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oral+Value+dental+clinic/@16.6969436,74.2411633,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e2aee851d:0xaea089136bffc6ab!8m2!3d16.6969436!4d74.2411633!16s%2Fg%2F1hdzcw5pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Value+dental+clinic/@16.6969436,74.2411633,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e2aee851d:0xaea089136bffc6ab!8m2!3d16.6969436!4d74.2411633!16s%2Fg%2F1hdzcw5pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6043,8 +5993,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oral+Value+dental+clinic/@16.6969436,74.2411633,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e2aee851d:0xaea089136bffc6ab!8m2!3d16.6969436!4d74.2411633!16s%2Fg%2F1hdzcw5pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orocare-dental-clinic-kolhapur",
@@ -6093,7 +6042,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Orocare+Dental+Clinic/@16.7138348,74.2538721,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1005a76751647:0x2e2a99cfc03ad675!8m2!3d16.7138348!4d74.2538721!16s%2Fg%2F11c3s8zf1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orocare+Dental+Clinic/@16.7138348,74.2538721,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1005a76751647:0x2e2a99cfc03ad675!8m2!3d16.7138348!4d74.2538721!16s%2Fg%2F11c3s8zf1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6162,8 +6111,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Orocare+Dental+Clinic/@16.7138348,74.2538721,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1005a76751647:0x2e2a99cfc03ad675!8m2!3d16.7138348!4d74.2538721!16s%2Fg%2F11c3s8zf1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orodontics-kolhapur",
@@ -6209,7 +6157,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Orodontics/@16.7117132,74.2460363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101001bbb0019:0x5cc8fbd3d8a11279!8m2!3d16.7117132!4d74.2460363!16s%2Fg%2F11mlsl8j4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orodontics/@16.7117132,74.2460363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101001bbb0019:0x5cc8fbd3d8a11279!8m2!3d16.7117132!4d74.2460363!16s%2Fg%2F11mlsl8j4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6275,11 +6223,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Orodontics/@16.7117132,74.2460363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101001bbb0019:0x5cc8fbd3d8a11279!8m2!3d16.7117132!4d74.2460363!16s%2Fg%2F11mlsl8j4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orthodent-dental-clinic-and-implant-center-kolhapur",
@@ -6329,7 +6276,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ORTHODENT+Dental+clinic+and+Implant+center/@16.702276,74.2279855,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1007263161bc5:0x6bc15910a515f852!8m2!3d16.702276!4d74.2279855!16s%2Fg%2F11c48nnndp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ORTHODENT+Dental+clinic+and+Implant+center/@16.702276,74.2279855,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1007263161bc5:0x6bc15910a515f852!8m2!3d16.702276!4d74.2279855!16s%2Fg%2F11c48nnndp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6398,8 +6345,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ORTHODENT+Dental+clinic+and+Implant+center/@16.702276,74.2279855,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1007263161bc5:0x6bc15910a515f852!8m2!3d16.702276!4d74.2279855!16s%2Fg%2F11c48nnndp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pk-s-yupiter-multispaciality-hospital-kolhapur",
@@ -6447,7 +6393,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PK's+Yupiter+Multispaciality+Hospital/@16.7048377,74.2415218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10166736c6c9b:0x83d4498b8f4780ed!8m2!3d16.7048377!4d74.2415218!16s%2Fg%2F11ssnq85nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PK's+Yupiter+Multispaciality+Hospital/@16.7048377,74.2415218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10166736c6c9b:0x83d4498b8f4780ed!8m2!3d16.7048377!4d74.2415218!16s%2Fg%2F11ssnq85nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6516,8 +6462,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PK's+Yupiter+Multispaciality+Hospital/@16.7048377,74.2415218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10166736c6c9b:0x83d4498b8f4780ed!8m2!3d16.7048377!4d74.2415218!16s%2Fg%2F11ssnq85nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prabhu-clinic-kolhapur",
@@ -6566,7 +6511,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prabhu+Clinic/@16.701223,74.234227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006ca2278d95:0x984ae9345b8bee5e!8m2!3d16.701223!4d74.234227!16s%2Fg%2F1tgw8byw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prabhu+Clinic/@16.701223,74.234227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006ca2278d95:0x984ae9345b8bee5e!8m2!3d16.701223!4d74.234227!16s%2Fg%2F1tgw8byw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6632,11 +6577,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prabhu+Clinic/@16.701223,74.234227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006ca2278d95:0x984ae9345b8bee5e!8m2!3d16.701223!4d74.234227!16s%2Fg%2F1tgw8byw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pravara-speciality-kolhapur",
@@ -6686,7 +6630,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pravara+Speciality/@16.6963142,74.2434863,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e5af730eb:0x3267cae4a00cdfbc!8m2!3d16.6963142!4d74.2434863!16s%2Fg%2F11gdtqhgg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pravara+Speciality/@16.6963142,74.2434863,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e5af730eb:0x3267cae4a00cdfbc!8m2!3d16.6963142!4d74.2434863!16s%2Fg%2F11gdtqhgg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6752,11 +6696,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pravara+Speciality/@16.6963142,74.2434863,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e5af730eb:0x3267cae4a00cdfbc!8m2!3d16.6963142!4d74.2434863!16s%2Fg%2F11gdtqhgg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saaol-heart-center-kolhapura-kolhapur",
@@ -6805,7 +6748,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saaol+Heart+Center+Kolhapura/@16.6943336,74.2429373,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10176a8903f49:0x2d32ca70ff236aa9!8m2!3d16.6943336!4d74.2429373!16s%2Fg%2F11f615gr4v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+Heart+Center+Kolhapura/@16.6943336,74.2429373,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10176a8903f49:0x2d32ca70ff236aa9!8m2!3d16.6943336!4d74.2429373!16s%2Fg%2F11f615gr4v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6871,11 +6814,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saaol+Heart+Center+Kolhapura/@16.6943336,74.2429373,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10176a8903f49:0x2d32ca70ff236aa9!8m2!3d16.6943336!4d74.2429373!16s%2Fg%2F11f615gr4v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-nursing-home-heart-specialist-kolhapur",
@@ -6924,7 +6866,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Nursing+Home+heart+specialist/@16.6895758,74.2309177,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101cc1524f46f:0xdada03d03630aeea!8m2!3d16.6895758!4d74.2309177!16s%2Fg%2F11fkm96y66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Nursing+Home+heart+specialist/@16.6895758,74.2309177,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101cc1524f46f:0xdada03d03630aeea!8m2!3d16.6895758!4d74.2309177!16s%2Fg%2F11fkm96y66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6990,11 +6932,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Nursing+Home+heart+specialist/@16.6895758,74.2309177,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101cc1524f46f:0xdada03d03630aeea!8m2!3d16.6895758!4d74.2309177!16s%2Fg%2F11fkm96y66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sakhalkar-dental-care-kolhapur",
@@ -7042,7 +6983,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sakhalkar+Dental+Care/@16.6960409,74.2305137,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101951481ad79:0xc55530875f4c6fc7!8m2!3d16.6960409!4d74.2305137!16s%2Fg%2F11fkq22lq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhalkar+Dental+Care/@16.6960409,74.2305137,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101951481ad79:0xc55530875f4c6fc7!8m2!3d16.6960409!4d74.2305137!16s%2Fg%2F11fkq22lq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7108,11 +7049,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sakhalkar+Dental+Care/@16.6960409,74.2305137,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101951481ad79:0xc55530875f4c6fc7!8m2!3d16.6960409!4d74.2305137!16s%2Fg%2F11fkq22lq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevani-oral-surgery-center-kolhapur",
@@ -7160,7 +7100,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevani+Oral+Surgery+Center/data=!4m7!3m6!1s0x3bc1003fec0d2da1:0x7d45cbabccb8fd37!8m2!3d16.6991307!4d74.2425504!16s%2Fg%2F11hbc2gqvz!19sChIJoS0N7D8AwTsRN_24zKvLRX0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Oral+Surgery+Center/data=!4m7!3m6!1s0x3bc1003fec0d2da1:0x7d45cbabccb8fd37!8m2!3d16.6991307!4d74.2425504!16s%2Fg%2F11hbc2gqvz!19sChIJoS0N7D8AwTsRN_24zKvLRX0?authuser=0&hl=en&rclk=1"
@@ -7226,11 +7166,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevani+Oral+Surgery+Center/data=!4m7!3m6!1s0x3bc1003fec0d2da1:0x7d45cbabccb8fd37!8m2!3d16.6991307!4d74.2425504!16s%2Fg%2F11hbc2gqvz!19sChIJoS0N7D8AwTsRN_24zKvLRX0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "secure-hospital-kolhapur",
@@ -7279,7 +7218,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SeCURE+Hospital/@16.7039382,74.2466168,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100412f84fd0f:0xab07ed5ebc03d851!8m2!3d16.7039382!4d74.2466168!16s%2Fg%2F1tgvc1s9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SeCURE+Hospital/@16.7039382,74.2466168,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100412f84fd0f:0xab07ed5ebc03d851!8m2!3d16.7039382!4d74.2466168!16s%2Fg%2F1tgvc1s9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7348,8 +7287,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SeCURE+Hospital/@16.7039382,74.2466168,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100412f84fd0f:0xab07ed5ebc03d851!8m2!3d16.7039382!4d74.2466168!16s%2Fg%2F1tgvc1s9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shah-clinic-kolhapur",
@@ -7397,7 +7335,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shah+Clinic/@16.6885581,74.2257957,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000f6c49f445:0x5745d7a22fd75787!8m2!3d16.6885581!4d74.2257957!16s%2Fg%2F11f3rbhvy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shah+Clinic/@16.6885581,74.2257957,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000f6c49f445:0x5745d7a22fd75787!8m2!3d16.6885581!4d74.2257957!16s%2Fg%2F11f3rbhvy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7466,8 +7404,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shah+Clinic/@16.6885581,74.2257957,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1000f6c49f445:0x5745d7a22fd75787!8m2!3d16.6885581!4d74.2257957!16s%2Fg%2F11f3rbhvy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharanya-heart-care-nursing-home-kolhapur",
@@ -7516,7 +7453,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharanya+Heart+Care+Nursing+Home/@16.6881952,74.2049117,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1abb211ed72dd:0x4d90209ca28a3176!8m2!3d16.6881952!4d74.2049117!16s%2Fg%2F11plr66_2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharanya+Heart+Care+Nursing+Home/@16.6881952,74.2049117,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1abb211ed72dd:0x4d90209ca28a3176!8m2!3d16.6881952!4d74.2049117!16s%2Fg%2F11plr66_2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7585,8 +7522,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharanya+Heart+Care+Nursing+Home/@16.6881952,74.2049117,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1abb211ed72dd:0x4d90209ca28a3176!8m2!3d16.6881952!4d74.2049117!16s%2Fg%2F11plr66_2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharayu-dental-clinic-kolhapur-kolhapur",
@@ -7634,7 +7570,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharayu+Dental+Clinic+Kolhapur/@16.7311802,74.2424227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100f2e580e279:0x3eea611e8b64ec2!8m2!3d16.7311802!4d74.2424227!16s%2Fg%2F11clsz79kj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharayu+Dental+Clinic+Kolhapur/@16.7311802,74.2424227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100f2e580e279:0x3eea611e8b64ec2!8m2!3d16.7311802!4d74.2424227!16s%2Fg%2F11clsz79kj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7703,8 +7639,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharayu+Dental+Clinic+Kolhapur/@16.7311802,74.2424227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100f2e580e279:0x3eea611e8b64ec2!8m2!3d16.7311802!4d74.2424227!16s%2Fg%2F11clsz79kj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shete-dental-clinic-kolhapur",
@@ -7753,7 +7688,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHETE+DENTAL+CLINIC/@16.6948342,74.2441187,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e7f1de2d1:0x19b2b7aea6db0aad!8m2!3d16.6948342!4d74.2441187!16s%2Fg%2F1tdp_l37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHETE+DENTAL+CLINIC/@16.6948342,74.2441187,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e7f1de2d1:0x19b2b7aea6db0aad!8m2!3d16.6948342!4d74.2441187!16s%2Fg%2F1tdp_l37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7819,11 +7754,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHETE+DENTAL+CLINIC/@16.6948342,74.2441187,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e7f1de2d1:0x19b2b7aea6db0aad!8m2!3d16.6948342!4d74.2441187!16s%2Fg%2F1tdp_l37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivam-kolhapur",
@@ -7872,7 +7806,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivam/@16.6949114,74.2306807,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101261a50c04b:0x63710c77b86a13af!8m2!3d16.6949114!4d74.2306807!16s%2Fg%2F11f6l1t9yb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam/@16.6949114,74.2306807,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101261a50c04b:0x63710c77b86a13af!8m2!3d16.6949114!4d74.2306807!16s%2Fg%2F11f6l1t9yb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7938,11 +7872,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivam/@16.6949114,74.2306807,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101261a50c04b:0x63710c77b86a13af!8m2!3d16.6949114!4d74.2306807!16s%2Fg%2F11f6l1t9yb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivsai-360-skin-hair-aesthetics-clinic-and-academy-kolhapur",
@@ -7991,7 +7924,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHIVSAI+360+Skin+hair+Aesthetics+clinic+%26+Academy/@16.6970123,74.243018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e49970f89:0x656f8318bf11539b!8m2!3d16.6970123!4d74.243018!16s%2Fg%2F11hc_3dl9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHIVSAI+360+Skin+hair+Aesthetics+clinic+%26+Academy/@16.6970123,74.243018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e49970f89:0x656f8318bf11539b!8m2!3d16.6970123!4d74.243018!16s%2Fg%2F11hc_3dl9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8060,8 +7993,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHIVSAI+360+Skin+hair+Aesthetics+clinic+%26+Academy/@16.6970123,74.243018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003e49970f89:0x656f8318bf11539b!8m2!3d16.6970123!4d74.243018!16s%2Fg%2F11hc_3dl9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shrawastie-hospital-kolhapur-kolhapur",
@@ -8109,7 +8041,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shrawastie+Hospital+Kolhapur/@16.7106276,74.2168602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1aaa06fcb39d1:0x98ff4b16565b2c34!8m2!3d16.7106276!4d74.2168602!16s%2Fg%2F11nwx86q7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shrawastie+Hospital+Kolhapur/@16.7106276,74.2168602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1aaa06fcb39d1:0x98ff4b16565b2c34!8m2!3d16.7106276!4d74.2168602!16s%2Fg%2F11nwx86q7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8178,8 +8110,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shrawastie+Hospital+Kolhapur/@16.7106276,74.2168602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1aaa06fcb39d1:0x98ff4b16565b2c34!8m2!3d16.7106276!4d74.2168602!16s%2Fg%2F11nwx86q7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-ashtavinayak-dental-clinic-kolhapur",
@@ -8228,7 +8159,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Ashtavinayak+dental+clinic/@16.7011031,74.2410627,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1018f618c2087:0xefd85e3a0bfb881b!8m2!3d16.7011031!4d74.2410627!16s%2Fg%2F11h3mzh5s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Ashtavinayak+dental+clinic/@16.7011031,74.2410627,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1018f618c2087:0xefd85e3a0bfb881b!8m2!3d16.7011031!4d74.2410627!16s%2Fg%2F11h3mzh5s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8297,8 +8228,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Ashtavinayak+dental+clinic/@16.7011031,74.2410627,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1018f618c2087:0xefd85e3a0bfb881b!8m2!3d16.7011031!4d74.2410627!16s%2Fg%2F11h3mzh5s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-sai-cardiac-center-kolhapur",
@@ -8347,7 +8277,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Sai+Cardiac+Center/data=!4m7!3m6!1s0x3bc1003e9650c789:0xa08f9ed9ac91ba8a!8m2!3d16.695414!4d74.245575!16s%2Fg%2F1hm2cpypw!19sChIJicdQlj4AwTsRirqRrNmej6A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Sai+Cardiac+Center/data=!4m7!3m6!1s0x3bc1003e9650c789:0xa08f9ed9ac91ba8a!8m2!3d16.695414!4d74.245575!16s%2Fg%2F1hm2cpypw!19sChIJicdQlj4AwTsRirqRrNmej6A?authuser=0&hl=en&rclk=1"
@@ -8416,8 +8346,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Sai+Cardiac+Center/data=!4m7!3m6!1s0x3bc1003e9650c789:0xa08f9ed9ac91ba8a!8m2!3d16.695414!4d74.245575!16s%2Fg%2F1hm2cpypw!19sChIJicdQlj4AwTsRirqRrNmej6A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-siddhivinayak-heart-hospital-kolhapur",
@@ -8466,7 +8395,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Siddhivinayak+Heart+Hospital+./@16.6884781,74.2373197,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10017611363a5:0x2b7b05e3cb51ece5!8m2!3d16.6884781!4d74.2373197!16s%2Fg%2F11b5pkf1zc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Siddhivinayak+Heart+Hospital+./@16.6884781,74.2373197,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10017611363a5:0x2b7b05e3cb51ece5!8m2!3d16.6884781!4d74.2373197!16s%2Fg%2F11b5pkf1zc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8535,8 +8464,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Siddhivinayak+Heart+Hospital+./@16.6884781,74.2373197,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10017611363a5:0x2b7b05e3cb51ece5!8m2!3d16.6884781!4d74.2373197!16s%2Fg%2F11b5pkf1zc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "siddhivinayak-nursing-home-kolhapur",
@@ -8585,7 +8513,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Siddhivinayak+Nursing+Home/@16.6998001,74.2465173,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1014056903985:0xc84d1c85c6aa9a82!8m2!3d16.6998001!4d74.2465173!16s%2Fg%2F11qp0y302g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddhivinayak+Nursing+Home/@16.6998001,74.2465173,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1014056903985:0xc84d1c85c6aa9a82!8m2!3d16.6998001!4d74.2465173!16s%2Fg%2F11qp0y302g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8654,8 +8582,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Siddhivinayak+Nursing+Home/@16.6998001,74.2465173,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1014056903985:0xc84d1c85c6aa9a82!8m2!3d16.6998001!4d74.2465173!16s%2Fg%2F11qp0y302g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-kolhapur",
@@ -8704,7 +8631,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Dental/@16.7047584,74.2338322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006c5d2e5bbd:0xb0ba7651729fdabe!8m2!3d16.7047584!4d74.2338322!16s%2Fg%2F11d_d279p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental/@16.7047584,74.2338322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006c5d2e5bbd:0xb0ba7651729fdabe!8m2!3d16.7047584!4d74.2338322!16s%2Fg%2F11d_d279p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8770,11 +8697,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Dental/@16.7047584,74.2338322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006c5d2e5bbd:0xb0ba7651729fdabe!8m2!3d16.7047584!4d74.2338322!16s%2Fg%2F11d_d279p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-care-and-implants-center-kolhapur",
@@ -8823,7 +8749,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMILE+DENTAL+CARE+%26+IMPLANTS+CENTER./@16.692959,74.2515351,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003a42a90629:0x5c97dff0d215beac!8m2!3d16.692959!4d74.2515351!16s%2Fg%2F1pv0zvt23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+DENTAL+CARE+%26+IMPLANTS+CENTER./@16.692959,74.2515351,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003a42a90629:0x5c97dff0d215beac!8m2!3d16.692959!4d74.2515351!16s%2Fg%2F1pv0zvt23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8892,8 +8818,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMILE+DENTAL+CARE+%26+IMPLANTS+CENTER./@16.692959,74.2515351,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1003a42a90629:0x5c97dff0d215beac!8m2!3d16.692959!4d74.2515351!16s%2Fg%2F1pv0zvt23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-implants-and-orthodontics-center-kolhapur-kolhapur",
@@ -8943,7 +8868,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMILE+DENTAL+IMPLANTS+%26+ORTHODONTICS+CENTER+,+KOLHAPUR./@16.7058577,74.2306854,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1011f7a129aff:0x120ca04ef8476121!8m2!3d16.7058577!4d74.2306854!16s%2Fg%2F11nc7mhl6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+DENTAL+IMPLANTS+%26+ORTHODONTICS+CENTER+,+KOLHAPUR./@16.7058577,74.2306854,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1011f7a129aff:0x120ca04ef8476121!8m2!3d16.7058577!4d74.2306854!16s%2Fg%2F11nc7mhl6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9009,11 +8934,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMILE+DENTAL+IMPLANTS+%26+ORTHODONTICS+CENTER+,+KOLHAPUR./@16.7058577,74.2306854,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1011f7a129aff:0x120ca04ef8476121!8m2!3d16.7058577!4d74.2306854!16s%2Fg%2F11nc7mhl6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smiles-zone-dental-clinic-kolhapur",
@@ -9062,7 +8986,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smiles+Zone+Dental+Clinic/@16.697141,74.2441604,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101a026157d61:0xbf2ea08d73aca0bf!8m2!3d16.697141!4d74.2441604!16s%2Fg%2F11w49jx431?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smiles+Zone+Dental+Clinic/@16.697141,74.2441604,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101a026157d61:0xbf2ea08d73aca0bf!8m2!3d16.697141!4d74.2441604!16s%2Fg%2F11w49jx431?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9131,8 +9055,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smiles+Zone+Dental+Clinic/@16.697141,74.2441604,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101a026157d61:0xbf2ea08d73aca0bf!8m2!3d16.697141!4d74.2441604!16s%2Fg%2F11w49jx431?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smylexl-dental-clinic-kolhapur-kolhapur",
@@ -9181,7 +9104,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Kolhapur/@16.6938634,74.2195787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101fb448b3657:0xec5c4011e9f02de7!8m2!3d16.6938634!4d74.2195787!16s%2Fg%2F11sttqxhv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Kolhapur/@16.6938634,74.2195787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101fb448b3657:0xec5c4011e9f02de7!8m2!3d16.6938634!4d74.2195787!16s%2Fg%2F11sttqxhv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9247,11 +9170,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Kolhapur/@16.6938634,74.2195787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101fb448b3657:0xec5c4011e9f02de7!8m2!3d16.6938634!4d74.2195787!16s%2Fg%2F11sttqxhv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surya-hospital-and-diagnostic-centre-with-diabetic-foot-care-kolhapur",
@@ -9300,7 +9222,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surya+Hospital+and+Diagnostic+Centre+with+Diabetic+foot+care/@16.701211,74.229231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100729e80796d:0x2aaed69effa0093b!8m2!3d16.701211!4d74.229231!16s%2Fg%2F11clygy0_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+Hospital+and+Diagnostic+Centre+with+Diabetic+foot+care/@16.701211,74.229231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100729e80796d:0x2aaed69effa0093b!8m2!3d16.701211!4d74.229231!16s%2Fg%2F11clygy0_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9369,8 +9291,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surya+Hospital+and+Diagnostic+Centre+with+Diabetic+foot+care/@16.701211,74.229231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100729e80796d:0x2aaed69effa0093b!8m2!3d16.701211!4d74.229231!16s%2Fg%2F11clygy0_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swarup-hospital-kolhapur",
@@ -9418,7 +9339,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swarup+Hospital/@16.6972674,74.2171537,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1aaa00fcfffbf:0x705713fa5e4af103!8m2!3d16.6972674!4d74.2171537!16s%2Fg%2F11g6tsy9xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swarup+Hospital/@16.6972674,74.2171537,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1aaa00fcfffbf:0x705713fa5e4af103!8m2!3d16.6972674!4d74.2171537!16s%2Fg%2F11g6tsy9xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9484,11 +9405,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swarup+Hospital/@16.6972674,74.2171537,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1aaa00fcfffbf:0x705713fa5e4af103!8m2!3d16.6972674!4d74.2171537!16s%2Fg%2F11g6tsy9xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-speciality-dental-care-kolhapur",
@@ -9537,7 +9457,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Speciality+Dental+Care/@16.7009793,74.2374899,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006ca4311f0f:0xd8900d2cc5152036!8m2!3d16.7009793!4d74.2374899!16s%2Fg%2F11cp5qm99p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Speciality+Dental+Care/@16.7009793,74.2374899,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006ca4311f0f:0xd8900d2cc5152036!8m2!3d16.7009793!4d74.2374899!16s%2Fg%2F11cp5qm99p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9606,8 +9526,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Speciality+Dental+Care/@16.7009793,74.2374899,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1006ca4311f0f:0xd8900d2cc5152036!8m2!3d16.7009793!4d74.2374899!16s%2Fg%2F11cp5qm99p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tulasi-hospital-kolhapur",
@@ -9655,7 +9574,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tulasi+Hospital/@16.665726,74.209496,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc055001be49a75:0xd198e05b057f6e57!8m2!3d16.665726!4d74.209496!16s%2Fg%2F11w1wxlhk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tulasi+Hospital/@16.665726,74.209496,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc055001be49a75:0xd198e05b057f6e57!8m2!3d16.665726!4d74.209496!16s%2Fg%2F11w1wxlhk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9724,8 +9643,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tulasi+Hospital/@16.665726,74.209496,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc055001be49a75:0xd198e05b057f6e57!8m2!3d16.665726!4d74.209496!16s%2Fg%2F11w1wxlhk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vimal-hospital-kolhapur",
@@ -9773,7 +9691,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vimal+Hospital/@16.6664726,74.2066683,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0555dcdebadc1:0xc33d8981558a796c!8m2!3d16.6664726!4d74.2066683!16s%2Fg%2F11v17mx18x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vimal+Hospital/@16.6664726,74.2066683,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0555dcdebadc1:0xc33d8981558a796c!8m2!3d16.6664726!4d74.2066683!16s%2Fg%2F11v17mx18x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9842,8 +9760,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vimal+Hospital/@16.6664726,74.2066683,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc0555dcdebadc1:0xc33d8981558a796c!8m2!3d16.6664726!4d74.2066683!16s%2Fg%2F11v17mx18x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wankhede-dental-clinic-kolhapur",
@@ -9889,7 +9806,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Wankhede+Dental+Clinic/@16.7156492,74.2416183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10100730d6f5f:0x232fd60a119428fa!8m2!3d16.7156492!4d74.2416183!16s%2Fg%2F11w9kn3ryh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wankhede+Dental+Clinic/@16.7156492,74.2416183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10100730d6f5f:0x232fd60a119428fa!8m2!3d16.7156492!4d74.2416183!16s%2Fg%2F11w9kn3ryh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9955,11 +9872,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Wankhede+Dental+Clinic/@16.7156492,74.2416183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc10100730d6f5f:0x232fd60a119428fa!8m2!3d16.7156492!4d74.2416183!16s%2Fg%2F11w9kn3ryh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "warana-hospital-warana-institute-of-uro-surgery-kolhapur",
@@ -10008,7 +9924,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Warana+Hospital+-+Warana+Institute+of+Uro-Surgery/@16.6995975,74.2396062,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100153405160d:0xcb72c9b4a193eadd!8m2!3d16.6995975!4d74.2396062!16s%2Fg%2F11c743d269?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Warana+Hospital+-+Warana+Institute+of+Uro-Surgery/@16.6995975,74.2396062,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100153405160d:0xcb72c9b4a193eadd!8m2!3d16.6995975!4d74.2396062!16s%2Fg%2F11c743d269?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10074,11 +9990,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Warana+Hospital+-+Warana+Institute+of+Uro-Surgery/@16.6995975,74.2396062,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc100153405160d:0xcb72c9b4a193eadd!8m2!3d16.6995975!4d74.2396062!16s%2Fg%2F11c743d269?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "whiteline-multi-kolhapur",
@@ -10126,7 +10041,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Whiteline+Multi/data=!4m7!3m6!1s0x3bc10138f5331215:0x5ebc93ce4c1440fa!8m2!3d16.696376!4d74.2431763!16s%2Fg%2F11nx1686mv!19sChIJFRIz9TgBwTsR-kAUTM6TvF4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Whiteline+Multi/data=!4m7!3m6!1s0x3bc10138f5331215:0x5ebc93ce4c1440fa!8m2!3d16.696376!4d74.2431763!16s%2Fg%2F11nx1686mv!19sChIJFRIz9TgBwTsR-kAUTM6TvF4?authuser=0&hl=en&rclk=1"
@@ -10192,10 +10107,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Whiteline+Multi/data=!4m7!3m6!1s0x3bc10138f5331215:0x5ebc93ce4c1440fa!8m2!3d16.696376!4d74.2431763!16s%2Fg%2F11nx1686mv!19sChIJFRIz9TgBwTsR-kAUTM6TvF4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

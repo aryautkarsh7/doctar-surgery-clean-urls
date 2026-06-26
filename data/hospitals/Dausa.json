@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aarogya+clinic/@26.8898949,76.3343863,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dc4c9d5393d:0x2bcd0d940e3024bb!8m2!3d26.8898949!4d76.3343863!16s%2Fg%2F11qbqkvkcf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogya+clinic/@26.8898949,76.3343863,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dc4c9d5393d:0x2bcd0d940e3024bb!8m2!3d26.8898949!4d76.3343863!16s%2Fg%2F11qbqkvkcf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -112,11 +112,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aarogya+clinic/@26.8898949,76.3343863,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dc4c9d5393d:0x2bcd0d940e3024bb!8m2!3d26.8898949!4d76.3343863!16s%2Fg%2F11qbqkvkcf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "acupressure-physiotherapy-naturo-yogic-clinic-dausa",
@@ -165,7 +164,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Acupressure+Physiotherapy+Naturo+Yogic+Clinic/@26.8844684,76.3251719,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cd3c4e125a3:0x4393f70b40fc7653!8m2!3d26.8844684!4d76.3251719!16s%2Fg%2F1hd_9s4zg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Acupressure+Physiotherapy+Naturo+Yogic+Clinic/@26.8844684,76.3251719,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cd3c4e125a3:0x4393f70b40fc7653!8m2!3d26.8844684!4d76.3251719!16s%2Fg%2F1hd_9s4zg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -231,11 +230,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Acupressure+Physiotherapy+Naturo+Yogic+Clinic/@26.8844684,76.3251719,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cd3c4e125a3:0x4393f70b40fc7653!8m2!3d26.8844684!4d76.3251719!16s%2Fg%2F1hd_9s4zg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ansh-physiotherapy-and-rehabilitation-clinic-dausa",
@@ -284,7 +282,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ansh+Physiotherapy+and+Rehabilitation+Clinic/@26.9008182,76.3383337,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dbd4e6433fd:0x46f5c0b61c86b72d!8m2!3d26.9008182!4d76.3383337!16s%2Fg%2F11y46ql2m_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ansh+Physiotherapy+and+Rehabilitation+Clinic/@26.9008182,76.3383337,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dbd4e6433fd:0x46f5c0b61c86b72d!8m2!3d26.9008182!4d76.3383337!16s%2Fg%2F11y46ql2m_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -350,11 +348,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ansh+Physiotherapy+and+Rehabilitation+Clinic/@26.9008182,76.3383337,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dbd4e6433fd:0x46f5c0b61c86b72d!8m2!3d26.9008182!4d76.3383337!16s%2Fg%2F11y46ql2m_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anugraha-homeopathic-clinic-dausa",
@@ -403,7 +400,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anugraha+Homeopathic+clinic/@26.8857414,76.3287796,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d00247f2961:0xebcbaab4957c9fca!8m2!3d26.8857414!4d76.3287796!16s%2Fg%2F11w_knhkhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anugraha+Homeopathic+clinic/@26.8857414,76.3287796,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d00247f2961:0xebcbaab4957c9fca!8m2!3d26.8857414!4d76.3287796!16s%2Fg%2F11w_knhkhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -472,8 +469,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anugraha+Homeopathic+clinic/@26.8857414,76.3287796,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d00247f2961:0xebcbaab4957c9fca!8m2!3d26.8857414!4d76.3287796!16s%2Fg%2F11w_knhkhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ariyant-medical-and-janral-stor-dausa",
@@ -520,7 +516,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ariyant+medical+and+janral+stor/@26.901986,76.3202606,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d006ce98d43:0xe150bbcce069fb60!8m2!3d26.901986!4d76.3202606!16s%2Fg%2F11m70rqzhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ariyant+medical+and+janral+stor/@26.901986,76.3202606,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d006ce98d43:0xe150bbcce069fb60!8m2!3d26.901986!4d76.3202606!16s%2Fg%2F11m70rqzhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -586,11 +582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ariyant+medical+and+janral+stor/@26.901986,76.3202606,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d006ce98d43:0xe150bbcce069fb60!8m2!3d26.901986!4d76.3202606!16s%2Fg%2F11m70rqzhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "astmark-healthcare-dausa",
@@ -638,7 +633,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Astmark+Healthcare/@26.904564,76.3186693,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d92bf1b13cf:0xe3439405af738042!8m2!3d26.904564!4d76.3186693!16s%2Fg%2F11vd364nz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Astmark+Healthcare/@26.904564,76.3186693,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d92bf1b13cf:0xe3439405af738042!8m2!3d26.904564!4d76.3186693!16s%2Fg%2F11vd364nz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -704,11 +699,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Astmark+Healthcare/@26.904564,76.3186693,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d92bf1b13cf:0xe3439405af738042!8m2!3d26.904564!4d76.3186693!16s%2Fg%2F11vd364nz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "babulal-ji-pahadiya-dental-hospital-rghs-dental-clinic-in-dausa-best-dentist-in-dausa-best-implants-center-in-dausa-dausa",
@@ -757,7 +751,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Babulal+Ji+Pahadiya+Dental+Hospital+%7C%7C+RGHS+Dental+Clinic+in+Dausa+%7C%7C+Best+Dentist+in+Dausa+%7C%7C+Best+Implants+Center+in+Dausa/@26.9027327,76.3523104,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbd2b20e951:0xf252a979e6388866!8m2!3d26.9027327!4d76.3523104!16s%2Fg%2F11c61xnrqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Babulal+Ji+Pahadiya+Dental+Hospital+%7C%7C+RGHS+Dental+Clinic+in+Dausa+%7C%7C+Best+Dentist+in+Dausa+%7C%7C+Best+Implants+Center+in+Dausa/@26.9027327,76.3523104,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbd2b20e951:0xf252a979e6388866!8m2!3d26.9027327!4d76.3523104!16s%2Fg%2F11c61xnrqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -826,8 +820,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Babulal+Ji+Pahadiya+Dental+Hospital+%7C%7C+RGHS+Dental+Clinic+in+Dausa+%7C%7C+Best+Dentist+in+Dausa+%7C%7C+Best+Implants+Center+in+Dausa/@26.9027327,76.3523104,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbd2b20e951:0xf252a979e6388866!8m2!3d26.9027327!4d76.3523104!16s%2Fg%2F11c61xnrqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "balaji-dental-hospital-dausa",
@@ -875,7 +868,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Balaji+Dental+Hospital/@26.8910858,76.3343403,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccf4c29837b:0x9f1d963881ce0d96!8m2!3d26.8910858!4d76.3343403!16s%2Fg%2F11cn92ccsg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balaji+Dental+Hospital/@26.8910858,76.3343403,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccf4c29837b:0x9f1d963881ce0d96!8m2!3d26.8910858!4d76.3343403!16s%2Fg%2F11cn92ccsg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -941,11 +934,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Balaji+Dental+Hospital/@26.8910858,76.3343403,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccf4c29837b:0x9f1d963881ce0d96!8m2!3d26.8910858!4d76.3343403!16s%2Fg%2F11cn92ccsg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "balaji-dental-hospital-and-polyclinic-best-dental-clinic-dental-hospital-orthodontic-root-canal-treatment-mahwa",
@@ -994,7 +986,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Balaji+dental+hospital+and+polyclinic+-+Best+Dental+Clinic,+Dental+Hospital,+Orthodontic,+Root+Canal+Treatment/@27.0466204,76.9337798,17z/data=!3m1!4b1!4m6!3m5!1s0x397245594ebd944d:0x6819bd900b5d469d!8m2!3d27.0466204!4d76.9337798!16s%2Fg%2F11jlfmjf_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balaji+dental+hospital+and+polyclinic+-+Best+Dental+Clinic,+Dental+Hospital,+Orthodontic,+Root+Canal+Treatment/@27.0466204,76.9337798,17z/data=!3m1!4b1!4m6!3m5!1s0x397245594ebd944d:0x6819bd900b5d469d!8m2!3d27.0466204!4d76.9337798!16s%2Fg%2F11jlfmjf_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1060,11 +1052,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Balaji+dental+hospital+and+polyclinic+-+Best+Dental+Clinic,+Dental+Hospital,+Orthodontic,+Root+Canal+Treatment/@27.0466204,76.9337798,17z/data=!3m1!4b1!4m6!3m5!1s0x397245594ebd944d:0x6819bd900b5d469d!8m2!3d27.0466204!4d76.9337798!16s%2Fg%2F11jlfmjf_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bansal-hospital-dausa",
@@ -1112,7 +1103,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bansal+Hospital/@26.8893488,76.3334891,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d4badbb7ef3:0xd46feca4e8e69a46!8m2!3d26.8893488!4d76.3334891!16s%2Fg%2F11g_v6rr7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal+Hospital/@26.8893488,76.3334891,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d4badbb7ef3:0xd46feca4e8e69a46!8m2!3d26.8893488!4d76.3334891!16s%2Fg%2F11g_v6rr7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1178,11 +1169,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bansal+Hospital/@26.8893488,76.3334891,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d4badbb7ef3:0xd46feca4e8e69a46!8m2!3d26.8893488!4d76.3334891!16s%2Fg%2F11g_v6rr7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chandra-pharmacy-and-dermatology-center-dausa",
@@ -1232,7 +1222,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CHANDRA+PHARMACY+%26+Dermatology+center/@26.8841786,76.33451,17z/data=!3m1!4b1!4m6!3m5!1s0x396df31fb8bfdeb1:0x87c9a8872f41c3b2!8m2!3d26.8841786!4d76.33451!16s%2Fg%2F11vj1vskc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHANDRA+PHARMACY+%26+Dermatology+center/@26.8841786,76.33451,17z/data=!3m1!4b1!4m6!3m5!1s0x396df31fb8bfdeb1:0x87c9a8872f41c3b2!8m2!3d26.8841786!4d76.33451!16s%2Fg%2F11vj1vskc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1298,11 +1288,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CHANDRA+PHARMACY+%26+Dermatology+center/@26.8841786,76.33451,17z/data=!3m1!4b1!4m6!3m5!1s0x396df31fb8bfdeb1:0x87c9a8872f41c3b2!8m2!3d26.8841786!4d76.33451!16s%2Fg%2F11vj1vskc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "datoniya-general-hospital-dausa",
@@ -1350,7 +1339,7 @@
     "metrics": [
       "Google rating 2.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Datoniya+general+hospital/@26.9102979,76.356849,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d74fc3e6745:0x66c93050e4462ad3!8m2!3d26.9102979!4d76.356849!16s%2Fg%2F11tfcqwl0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Datoniya+general+hospital/@26.9102979,76.356849,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d74fc3e6745:0x66c93050e4462ad3!8m2!3d26.9102979!4d76.356849!16s%2Fg%2F11tfcqwl0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1416,11 +1405,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 2,
+    "rating": 2.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Datoniya+general+hospital/@26.9102979,76.356849,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d74fc3e6745:0x66c93050e4462ad3!8m2!3d26.9102979!4d76.356849!16s%2Fg%2F11tfcqwl0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dausa-dental-clinic-and-implant-center-dausa",
@@ -1469,7 +1457,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dausa+Dental+Clinic+%26+Implant+center+%7C+%E0%A4%A6%E0%A5%8C%E0%A4%B8%E0%A4%BE+%E0%A4%A6%E0%A4%BE%E0%A4%81%E0%A4%A4%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@26.8985437,76.3207383,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dd76acbf127:0x59d16f60ba8d7b03!8m2!3d26.8985437!4d76.3207383!16s%2Fg%2F11ykn_n3sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dausa+Dental+Clinic+%26+Implant+center+%7C+%E0%A4%A6%E0%A5%8C%E0%A4%B8%E0%A4%BE+%E0%A4%A6%E0%A4%BE%E0%A4%81%E0%A4%A4%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@26.8985437,76.3207383,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dd76acbf127:0x59d16f60ba8d7b03!8m2!3d26.8985437!4d76.3207383!16s%2Fg%2F11ykn_n3sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1535,11 +1523,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dausa+Dental+Clinic+%26+Implant+center+%7C+%E0%A4%A6%E0%A5%8C%E0%A4%B8%E0%A4%BE+%E0%A4%A6%E0%A4%BE%E0%A4%81%E0%A4%A4%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@26.8985437,76.3207383,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dd76acbf127:0x59d16f60ba8d7b03!8m2!3d26.8985437!4d76.3207383!16s%2Fg%2F11ykn_n3sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-hospital-dausa",
@@ -1585,7 +1572,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Hospital/@26.901813,76.3450315,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbe60343f5f:0x45fb45886faafe5!8m2!3d26.901813!4d76.3450315!16s%2Fg%2F11dx8n3pq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Hospital/@26.901813,76.3450315,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbe60343f5f:0x45fb45886faafe5!8m2!3d26.901813!4d76.3450315!16s%2Fg%2F11dx8n3pq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1651,11 +1638,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Hospital/@26.901813,76.3450315,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbe60343f5f:0x45fb45886faafe5!8m2!3d26.901813!4d76.3450315!16s%2Fg%2F11dx8n3pq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dev-medical-dausa",
@@ -1702,7 +1688,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dev+medical/@26.9160487,76.3636082,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d006323334b:0xa69b6299c68cbdc!8m2!3d26.9160487!4d76.3636082!16s%2Fg%2F11y2kzzd66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dev+medical/@26.9160487,76.3636082,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d006323334b:0xa69b6299c68cbdc!8m2!3d26.9160487!4d76.3636082!16s%2Fg%2F11y2kzzd66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1768,11 +1754,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dev+medical/@26.9160487,76.3636082,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d006323334b:0xa69b6299c68cbdc!8m2!3d26.9160487!4d76.3636082!16s%2Fg%2F11y2kzzd66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "district-hospital-dausa-dausa",
@@ -1821,7 +1806,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/District+Hospital+Dausa/@26.8830302,76.3360367,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccb7688b0d7:0x1f6e472a6607b5d7!8m2!3d26.8830302!4d76.3360367!16s%2Fg%2F11q9gx096_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital+Dausa/@26.8830302,76.3360367,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccb7688b0d7:0x1f6e472a6607b5d7!8m2!3d26.8830302!4d76.3360367!16s%2Fg%2F11q9gx096_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1890,8 +1875,7 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/District+Hospital+Dausa/@26.8830302,76.3360367,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccb7688b0d7:0x1f6e472a6607b5d7!8m2!3d26.8830302!4d76.3360367!16s%2Fg%2F11q9gx096_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "divyam-hospital-dausa-dausa",
@@ -1939,7 +1923,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DIVYAM+HOSPITAL+DAUSA/@26.8987415,76.3216969,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d00581d62cf:0x8bc682991a1caf6c!8m2!3d26.8987415!4d76.3216969!16s%2Fg%2F11xg5vz82b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DIVYAM+HOSPITAL+DAUSA/@26.8987415,76.3216969,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d00581d62cf:0x8bc682991a1caf6c!8m2!3d26.8987415!4d76.3216969!16s%2Fg%2F11xg5vz82b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2005,11 +1989,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DIVYAM+HOSPITAL+DAUSA/@26.8987415,76.3216969,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d00581d62cf:0x8bc682991a1caf6c!8m2!3d26.8987415!4d76.3216969!16s%2Fg%2F11xg5vz82b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "echs-polyclinic-dausa-dausa",
@@ -2057,7 +2040,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ECHS+POLYCLINIC+DAUSA/@26.9004874,76.3475685,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d059378b89f:0xb9ebe486487f5272!8m2!3d26.9004874!4d76.3475685!16s%2Fg%2F11gky_xrkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ECHS+POLYCLINIC+DAUSA/@26.9004874,76.3475685,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d059378b89f:0xb9ebe486487f5272!8m2!3d26.9004874!4d76.3475685!16s%2Fg%2F11gky_xrkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2123,11 +2106,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ECHS+POLYCLINIC+DAUSA/@26.9004874,76.3475685,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d059378b89f:0xb9ebe486487f5272!8m2!3d26.9004874!4d76.3475685!16s%2Fg%2F11gky_xrkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "geeta-hospital-dausa",
@@ -2175,7 +2157,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Geeta+Hospital/data=!4m7!3m6!1s0x396d8cdc4dc08337:0x617b0242a479b06e!8m2!3d26.8991393!4d76.3254134!16s%2Fg%2F11cn93rx37!19sChIJN4PATdyMbTkRbrB5pEICe2E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Geeta+Hospital/data=!4m7!3m6!1s0x396d8cdc4dc08337:0x617b0242a479b06e!8m2!3d26.8991393!4d76.3254134!16s%2Fg%2F11cn93rx37!19sChIJN4PATdyMbTkRbrB5pEICe2E?authuser=0&hl=en&rclk=1"
@@ -2244,8 +2226,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Geeta+Hospital/data=!4m7!3m6!1s0x396d8cdc4dc08337:0x617b0242a479b06e!8m2!3d26.8991393!4d76.3254134!16s%2Fg%2F11cn93rx37!19sChIJN4PATdyMbTkRbrB5pEICe2E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "goyal-ortho-and-general-hospital-bandikui",
@@ -2294,7 +2275,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Goyal+Ortho+and+general+hospital/@27.0477841,76.5765417,17z/data=!3m1!4b1!4m6!3m5!1s0x39727161e5803467:0x4462085ba140f211!8m2!3d27.0477841!4d76.5765417!16s%2Fg%2F11m_vmvctt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goyal+Ortho+and+general+hospital/@27.0477841,76.5765417,17z/data=!3m1!4b1!4m6!3m5!1s0x39727161e5803467:0x4462085ba140f211!8m2!3d27.0477841!4d76.5765417!16s%2Fg%2F11m_vmvctt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2363,8 +2344,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Goyal+Ortho+and+general+hospital/@27.0477841,76.5765417,17z/data=!3m1!4b1!4m6!3m5!1s0x39727161e5803467:0x4462085ba140f211!8m2!3d27.0477841!4d76.5765417!16s%2Fg%2F11m_vmvctt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gupta-dental-hospital-dausa",
@@ -2412,7 +2392,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gupta+Dental+Hospital/@26.8981984,76.3331003,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cc38d9d032f:0x43f97c3740dc0c1a!8m2!3d26.8981984!4d76.3331003!16s%2Fg%2F11cn93gp_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Dental+Hospital/@26.8981984,76.3331003,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cc38d9d032f:0x43f97c3740dc0c1a!8m2!3d26.8981984!4d76.3331003!16s%2Fg%2F11cn93gp_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2481,8 +2461,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gupta+Dental+Hospital/@26.8981984,76.3331003,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cc38d9d032f:0x43f97c3740dc0c1a!8m2!3d26.8981984!4d76.3331003!16s%2Fg%2F11cn93gp_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "himanshu-physiotherapy-centre-dausa",
@@ -2531,7 +2510,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Himanshu+physiotherapy+centre/@26.8801563,76.3362817,17z/data=!3m1!4b1!4m6!3m5!1s0x396df3006f7eaa1b:0x186635ffd15598e!8m2!3d26.8801563!4d76.3362817!16s%2Fg%2F11y5bv38r1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Himanshu+physiotherapy+centre/@26.8801563,76.3362817,17z/data=!3m1!4b1!4m6!3m5!1s0x396df3006f7eaa1b:0x186635ffd15598e!8m2!3d26.8801563!4d76.3362817!16s%2Fg%2F11y5bv38r1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2597,11 +2576,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Himanshu+physiotherapy+centre/@26.8801563,76.3362817,17z/data=!3m1!4b1!4m6!3m5!1s0x396df3006f7eaa1b:0x186635ffd15598e!8m2!3d26.8801563!4d76.3362817!16s%2Fg%2F11y5bv38r1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospital-dausa",
@@ -2649,7 +2627,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hospital/@26.905584,76.3683342,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8b5e3690fc13:0x4f36d1ab864bc2ab!8m2!3d26.905584!4d76.3683342!16s%2Fg%2F1v16nq32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital/@26.905584,76.3683342,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8b5e3690fc13:0x4f36d1ab864bc2ab!8m2!3d26.905584!4d76.3683342!16s%2Fg%2F1v16nq32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2718,8 +2696,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hospital/@26.905584,76.3683342,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8b5e3690fc13:0x4f36d1ab864bc2ab!8m2!3d26.905584!4d76.3683342!16s%2Fg%2F1v16nq32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospitalizations-dausa",
@@ -2765,7 +2742,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hospitalizations/@26.8916195,76.3344976,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d311317c919:0x8e5c8ff4b56ec5fe!8m2!3d26.8916195!4d76.3344976!16s%2Fg%2F11mvbkp882?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospitalizations/@26.8916195,76.3344976,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d311317c919:0x8e5c8ff4b56ec5fe!8m2!3d26.8916195!4d76.3344976!16s%2Fg%2F11mvbkp882?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2831,11 +2808,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hospitalizations/@26.8916195,76.3344976,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d311317c919:0x8e5c8ff4b56ec5fe!8m2!3d26.8916195!4d76.3344976!16s%2Fg%2F11mvbkp882?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ishwa-ivf-best-ivf-and-fertility-centre-in-jaipur-rajasthan-iui-icsi-ivf-jaipur",
@@ -2885,7 +2861,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ishwa+IVF+-+Best+IVF+%26+Fertility+Centre+in+Jaipur+Rajasthan+%7C+IUI+%7C+ICSI+%7C+IVF/@26.8571122,75.7956547,17z/data=!3m1!4b1!4m6!3m5!1s0x396db589784e6b7b:0x57df595ceb56ce14!8m2!3d26.8571122!4d75.7956547!16s%2Fg%2F11vk2q_k_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ishwa+IVF+-+Best+IVF+%26+Fertility+Centre+in+Jaipur+Rajasthan+%7C+IUI+%7C+ICSI+%7C+IVF/@26.8571122,75.7956547,17z/data=!3m1!4b1!4m6!3m5!1s0x396db589784e6b7b:0x57df595ceb56ce14!8m2!3d26.8571122!4d75.7956547!16s%2Fg%2F11vk2q_k_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2951,11 +2927,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ishwa+IVF+-+Best+IVF+%26+Fertility+Centre+in+Jaipur+Rajasthan+%7C+IUI+%7C+ICSI+%7C+IVF/@26.8571122,75.7956547,17z/data=!3m1!4b1!4m6!3m5!1s0x396db589784e6b7b:0x57df595ceb56ce14!8m2!3d26.8571122!4d75.7956547!16s%2Fg%2F11vk2q_k_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jaipur-dental-clinic-and-implant-centre-best-dental-clinic-in-mahwa-mahwa",
@@ -3003,7 +2978,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JAIPUR+DENTAL+CLINIC+AND+IMPLANT+CENTRE+:+best+dental+clinic+in+mahwa+(%E0%A4%9C%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0+%E0%A4%A1%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95)/@27.0494497,76.9248007,17z/data=!3m1!4b1!4m6!3m5!1s0x3972459dc406cf25:0x6fdb16f993f967da!8m2!3d27.0494497!4d76.9248007!16s%2Fg%2F11qbfmyl0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JAIPUR+DENTAL+CLINIC+AND+IMPLANT+CENTRE+:+best+dental+clinic+in+mahwa+(%E0%A4%9C%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0+%E0%A4%A1%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95)/@27.0494497,76.9248007,17z/data=!3m1!4b1!4m6!3m5!1s0x3972459dc406cf25:0x6fdb16f993f967da!8m2!3d27.0494497!4d76.9248007!16s%2Fg%2F11qbfmyl0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3069,11 +3044,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JAIPUR+DENTAL+CLINIC+AND+IMPLANT+CENTRE+:+best+dental+clinic+in+mahwa+(%E0%A4%9C%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0+%E0%A4%A1%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95)/@27.0494497,76.9248007,17z/data=!3m1!4b1!4m6!3m5!1s0x3972459dc406cf25:0x6fdb16f993f967da!8m2!3d27.0494497!4d76.9248007!16s%2Fg%2F11qbfmyl0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jaipur-eye-hospital-dausa",
@@ -3121,7 +3095,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jaipur+Eye+Hospital/@26.901288,76.34102,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbf78a00b29:0xd6bfc0b2b23de1fe!8m2!3d26.901288!4d76.34102!16s%2Fg%2F11cn95bzjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaipur+Eye+Hospital/@26.901288,76.34102,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbf78a00b29:0xd6bfc0b2b23de1fe!8m2!3d26.901288!4d76.34102!16s%2Fg%2F11cn95bzjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3190,8 +3164,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jaipur+Eye+Hospital/@26.901288,76.34102,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbf78a00b29:0xd6bfc0b2b23de1fe!8m2!3d26.901288!4d76.34102!16s%2Fg%2F11cn95bzjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-hospital-dausa",
@@ -3239,7 +3212,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Hospital/@26.9026141,76.3517498,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8de7841d515b:0x3b59044e0d2833aa!8m2!3d26.9026141!4d76.3517498!16s%2Fg%2F11ffk5qljm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Hospital/@26.9026141,76.3517498,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8de7841d515b:0x3b59044e0d2833aa!8m2!3d26.9026141!4d76.3517498!16s%2Fg%2F11ffk5qljm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3305,11 +3278,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Hospital/@26.9026141,76.3517498,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8de7841d515b:0x3b59044e0d2833aa!8m2!3d26.9026141!4d76.3517498!16s%2Fg%2F11ffk5qljm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevayu-hospital-dausa",
@@ -3357,7 +3329,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevayu+Hospital/@26.9126942,76.3151035,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ddaa23d1b1d:0x8ab93dfdf4957f7a!8m2!3d26.9126942!4d76.3151035!16s%2Fg%2F11nnh4lxlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevayu+Hospital/@26.9126942,76.3151035,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ddaa23d1b1d:0x8ab93dfdf4957f7a!8m2!3d26.9126942!4d76.3151035!16s%2Fg%2F11nnh4lxlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3426,8 +3398,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevayu+Hospital/@26.9126942,76.3151035,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ddaa23d1b1d:0x8ab93dfdf4957f7a!8m2!3d26.9126942!4d76.3151035!16s%2Fg%2F11nnh4lxlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kapil-medical-and-genrel-stor-dausa",
@@ -3474,7 +3445,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KAPIL+MEDICAL+%26+GENREL+STOR/@26.8905964,76.3367233,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d005e4d6235:0xde17e8d632c75e44!8m2!3d26.8905964!4d76.3367233!16s%2Fg%2F11vtbmxctc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KAPIL+MEDICAL+%26+GENREL+STOR/@26.8905964,76.3367233,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d005e4d6235:0xde17e8d632c75e44!8m2!3d26.8905964!4d76.3367233!16s%2Fg%2F11vtbmxctc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3540,11 +3511,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KAPIL+MEDICAL+%26+GENREL+STOR/@26.8905964,76.3367233,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d005e4d6235:0xde17e8d632c75e44!8m2!3d26.8905964!4d76.3367233!16s%2Fg%2F11vtbmxctc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "katta-hospital-bandikui-jageer-rural",
@@ -3592,7 +3562,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Katta+Hospital/@27.0574768,76.5730864,17z/data=!3m1!4b1!4m6!3m5!1s0x397270e9b82c0f5f:0x897f515bb5af9d0b!8m2!3d27.0574768!4d76.5730864!16s%2Fg%2F11fx_56731?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Katta+Hospital/@27.0574768,76.5730864,17z/data=!3m1!4b1!4m6!3m5!1s0x397270e9b82c0f5f:0x897f515bb5af9d0b!8m2!3d27.0574768!4d76.5730864!16s%2Fg%2F11fx_56731?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3661,8 +3631,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Katta+Hospital/@27.0574768,76.5730864,17z/data=!3m1!4b1!4m6!3m5!1s0x397270e9b82c0f5f:0x897f515bb5af9d0b!8m2!3d27.0574768!4d76.5730864!16s%2Fg%2F11fx_56731?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mahatma-gandhi-hospital-jaipur-ramchandpura",
@@ -3711,7 +3680,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mahatma+Gandhi+Hospital+Jaipur/@26.7698706,75.854936,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc9b389e8284f:0xb0816f2d2dde6652!8m2!3d26.7698706!4d75.854936!16s%2Fm%2F0cr412s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahatma+Gandhi+Hospital+Jaipur/@26.7698706,75.854936,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc9b389e8284f:0xb0816f2d2dde6652!8m2!3d26.7698706!4d75.854936!16s%2Fm%2F0cr412s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3780,8 +3749,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mahatma+Gandhi+Hospital+Jaipur/@26.7698706,75.854936,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc9b389e8284f:0xb0816f2d2dde6652!8m2!3d26.7698706!4d75.854936!16s%2Fm%2F0cr412s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manipal-hospital-jaipur-jaipur",
@@ -3830,7 +3798,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manipal+Hospital+Jaipur/@26.9687055,75.7734221,17z/data=!3m1!4b1!4m6!3m5!1s0x396db24e7525bee7:0xe317cb2b004c9f43!8m2!3d26.9687055!4d75.7734221!16s%2Fg%2F11cn8xzn26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospital+Jaipur/@26.9687055,75.7734221,17z/data=!3m1!4b1!4m6!3m5!1s0x396db24e7525bee7:0xe317cb2b004c9f43!8m2!3d26.9687055!4d75.7734221!16s%2Fg%2F11cn8xzn26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3899,8 +3867,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manipal+Hospital+Jaipur/@26.9687055,75.7734221,17z/data=!3m1!4b1!4m6!3m5!1s0x396db24e7525bee7:0xe317cb2b004c9f43!8m2!3d26.9687055!4d75.7734221!16s%2Fg%2F11cn8xzn26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mewal-dental-clinic-dausa",
@@ -3948,7 +3915,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mewal+Dental+Clinic/@26.9002326,76.3215221,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cde43ab23b1:0x844d9a56c456a13!8m2!3d26.9002326!4d76.3215221!16s%2Fg%2F11bxdtk9gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mewal+Dental+Clinic/@26.9002326,76.3215221,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cde43ab23b1:0x844d9a56c456a13!8m2!3d26.9002326!4d76.3215221!16s%2Fg%2F11bxdtk9gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4017,8 +3984,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mewal+Dental+Clinic/@26.9002326,76.3215221,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cde43ab23b1:0x844d9a56c456a13!8m2!3d26.9002326!4d76.3215221!16s%2Fg%2F11bxdtk9gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "modi-dental-hospital-dausa",
@@ -4066,7 +4032,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Modi+dental+hospital/@26.8980947,76.3299246,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d66c6a8853f:0xe8bb5fe4a29b5857!8m2!3d26.8980947!4d76.3299246!16s%2Fg%2F11jjlcdlr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modi+dental+hospital/@26.8980947,76.3299246,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d66c6a8853f:0xe8bb5fe4a29b5857!8m2!3d26.8980947!4d76.3299246!16s%2Fg%2F11jjlcdlr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4132,11 +4098,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Modi+dental+hospital/@26.8980947,76.3299246,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d66c6a8853f:0xe8bb5fe4a29b5857!8m2!3d26.8980947!4d76.3299246!16s%2Fg%2F11jjlcdlr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ms-eye-care-dausa-dausa",
@@ -4185,7 +4150,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MS+Eye+Care,+Dausa/@26.8978282,76.333292,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8de42ad1b6ff:0xbd9990e8da1f07f4!8m2!3d26.8978282!4d76.333292!16s%2Fg%2F11vs_xcs8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MS+Eye+Care,+Dausa/@26.8978282,76.333292,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8de42ad1b6ff:0xbd9990e8da1f07f4!8m2!3d26.8978282!4d76.333292!16s%2Fg%2F11vs_xcs8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4254,8 +4219,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MS+Eye+Care,+Dausa/@26.8978282,76.333292,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8de42ad1b6ff:0xbd9990e8da1f07f4!8m2!3d26.8978282!4d76.333292!16s%2Fg%2F11vs_xcs8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nisha-bone-and-joint-hospital-dausa-dausa",
@@ -4304,7 +4268,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nisha+bone+and+Joint+Hospital+Dausa/@26.9003474,76.3369684,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d5821714663:0xc5c284099c0ae09e!8m2!3d26.9003474!4d76.3369684!16s%2Fg%2F11f698vp76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nisha+bone+and+Joint+Hospital+Dausa/@26.9003474,76.3369684,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d5821714663:0xc5c284099c0ae09e!8m2!3d26.9003474!4d76.3369684!16s%2Fg%2F11f698vp76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4373,8 +4337,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nisha+bone+and+Joint+Hospital+Dausa/@26.9003474,76.3369684,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d5821714663:0xc5c284099c0ae09e!8m2!3d26.9003474!4d76.3369684!16s%2Fg%2F11f698vp76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parashar-eye-hospital-best-eye-hospital-in-dausa-eye-specialist-hospital-eye-ophthalmologist-hospital-in-dausa-dausa",
@@ -4423,7 +4386,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PARASHAR+EYE+HOSPITAL+-+Best+Eye+Hospital+In+Dausa+%7C+Eye+Specialist+Hospital+%7C+Eye+Ophthalmologist+Hospital+In+Dausa/@26.8803169,76.3366398,17z/data=!3m1!4b1!4m6!3m5!1s0x396df3f2d7d73b07:0xe91bbb819ad4e791!8m2!3d26.8803169!4d76.3366398!16s%2Fg%2F11xp6brqww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PARASHAR+EYE+HOSPITAL+-+Best+Eye+Hospital+In+Dausa+%7C+Eye+Specialist+Hospital+%7C+Eye+Ophthalmologist+Hospital+In+Dausa/@26.8803169,76.3366398,17z/data=!3m1!4b1!4m6!3m5!1s0x396df3f2d7d73b07:0xe91bbb819ad4e791!8m2!3d26.8803169!4d76.3366398!16s%2Fg%2F11xp6brqww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4492,8 +4455,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PARASHAR+EYE+HOSPITAL+-+Best+Eye+Hospital+In+Dausa+%7C+Eye+Specialist+Hospital+%7C+Eye+Ophthalmologist+Hospital+In+Dausa/@26.8803169,76.3366398,17z/data=!3m1!4b1!4m6!3m5!1s0x396df3f2d7d73b07:0xe91bbb819ad4e791!8m2!3d26.8803169!4d76.3366398!16s%2Fg%2F11xp6brqww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parashar-eye-hospital-best-eye-hospital-in-dausa-eye-specialist-hospital-eye-ophthalmologist-hospital-in-dausa-dausa",
@@ -4542,7 +4504,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PARASHAR+EYE+HOSPITAL+-+Best+Eye+Hospital+In+Dausa+%7C+Eye+Specialist+Hospital+%7C+Eye+Ophthalmologist+Hospital+In+Dausa/@26.8802399,76.3365567,17z/data=!3m1!4b1!4m6!3m5!1s0x396df3b13a7623e1:0xe22c6bcc0917e5bd!8m2!3d26.8802399!4d76.3365567!16s%2Fg%2F11yq53r_my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PARASHAR+EYE+HOSPITAL+-+Best+Eye+Hospital+In+Dausa+%7C+Eye+Specialist+Hospital+%7C+Eye+Ophthalmologist+Hospital+In+Dausa/@26.8802399,76.3365567,17z/data=!3m1!4b1!4m6!3m5!1s0x396df3b13a7623e1:0xe22c6bcc0917e5bd!8m2!3d26.8802399!4d76.3365567!16s%2Fg%2F11yq53r_my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4608,11 +4570,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PARASHAR+EYE+HOSPITAL+-+Best+Eye+Hospital+In+Dausa+%7C+Eye+Specialist+Hospital+%7C+Eye+Ophthalmologist+Hospital+In+Dausa/@26.8802399,76.3365567,17z/data=!3m1!4b1!4m6!3m5!1s0x396df3b13a7623e1:0xe22c6bcc0917e5bd!8m2!3d26.8802399!4d76.3365567!16s%2Fg%2F11yq53r_my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prakash-hospital-dausa",
@@ -4660,7 +4621,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prakash+Hospital/@26.9043137,76.3629959,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccfaaaaaaab:0x67a0ee81c87af609!8m2!3d26.9043137!4d76.3629959!16s%2Fg%2F11cn94rcl8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prakash+Hospital/@26.9043137,76.3629959,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccfaaaaaaab:0x67a0ee81c87af609!8m2!3d26.9043137!4d76.3629959!16s%2Fg%2F11cn94rcl8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4729,8 +4690,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prakash+Hospital/@26.9043137,76.3629959,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccfaaaaaaab:0x67a0ee81c87af609!8m2!3d26.9043137!4d76.3629959!16s%2Fg%2F11cn94rcl8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pratiksha-helth-care-center-dausa-dausa",
@@ -4778,7 +4738,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PRATIKSHA+HELTH+CARE+CENTER+dausa/@26.8972381,76.3327621,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d007789cbb1:0xb0cab923507fb498!8m2!3d26.8972381!4d76.3327621!16s%2Fg%2F11vpttczm8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRATIKSHA+HELTH+CARE+CENTER+dausa/@26.8972381,76.3327621,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d007789cbb1:0xb0cab923507fb498!8m2!3d26.8972381!4d76.3327621!16s%2Fg%2F11vpttczm8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4844,11 +4804,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PRATIKSHA+HELTH+CARE+CENTER+dausa/@26.8972381,76.3327621,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d007789cbb1:0xb0cab923507fb498!8m2!3d26.8972381!4d76.3327621!16s%2Fg%2F11vpttczm8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "radhey-govind-dental-hospital-dausa",
@@ -4897,7 +4856,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Radhey+govind+dental+hospital/@26.9018386,76.3473321,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8db2a6152157:0xba6753495abd026d!8m2!3d26.9018386!4d76.3473321!16s%2Fg%2F11h5nnpfmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radhey+govind+dental+hospital/@26.9018386,76.3473321,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8db2a6152157:0xba6753495abd026d!8m2!3d26.9018386!4d76.3473321!16s%2Fg%2F11h5nnpfmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4966,8 +4925,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Radhey+govind+dental+hospital/@26.9018386,76.3473321,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8db2a6152157:0xba6753495abd026d!8m2!3d26.9018386!4d76.3473321!16s%2Fg%2F11h5nnpfmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rahat-physiotherapy-clinic-dausa",
@@ -5016,7 +4974,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rahat+physiotherapy+clinic/@26.8825552,76.3350402,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8db86e70042b:0x462e1a3fce845f69!8m2!3d26.8825552!4d76.3350402!16s%2Fg%2F11k4wwngp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rahat+physiotherapy+clinic/@26.8825552,76.3350402,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8db86e70042b:0x462e1a3fce845f69!8m2!3d26.8825552!4d76.3350402!16s%2Fg%2F11k4wwngp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5082,11 +5040,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rahat+physiotherapy+clinic/@26.8825552,76.3350402,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8db86e70042b:0x462e1a3fce845f69!8m2!3d26.8825552!4d76.3350402!16s%2Fg%2F11k4wwngp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rajdhani-hospital-and-maternity-home-general-hospital-in-dausa-dausa",
@@ -5134,7 +5091,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rajdhani+Hospital+and+Maternity+Home+-+General+Hospital+in+Dausa/@26.9028764,76.3507643,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbd22c23b3d:0x382badc4be583c7e!8m2!3d26.9028764!4d76.3507643!16s%2Fg%2F12hxh56wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajdhani+Hospital+and+Maternity+Home+-+General+Hospital+in+Dausa/@26.9028764,76.3507643,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbd22c23b3d:0x382badc4be583c7e!8m2!3d26.9028764!4d76.3507643!16s%2Fg%2F12hxh56wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5203,8 +5160,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rajdhani+Hospital+and+Maternity+Home+-+General+Hospital+in+Dausa/@26.9028764,76.3507643,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbd22c23b3d:0x382badc4be583c7e!8m2!3d26.9028764!4d76.3507643!16s%2Fg%2F12hxh56wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ramma-physiotherapy-hospital-dausa",
@@ -5253,7 +5209,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ramma+physiotherapy+hospital/@26.9009546,76.3385763,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbe5c9ff0f1:0x29becc00a31eb0ef!8m2!3d26.9009546!4d76.3385763!16s%2Fg%2F11hbnt_s8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ramma+physiotherapy+hospital/@26.9009546,76.3385763,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbe5c9ff0f1:0x29becc00a31eb0ef!8m2!3d26.9009546!4d76.3385763!16s%2Fg%2F11hbnt_s8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5322,8 +5278,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ramma+physiotherapy+hospital/@26.9009546,76.3385763,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cbe5c9ff0f1:0x29becc00a31eb0ef!8m2!3d26.9009546!4d76.3385763!16s%2Fg%2F11hbnt_s8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ray-mata-clinical-dausa",
@@ -5369,7 +5324,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ray+Mata+Clinical/@26.8997001,76.332411,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dd3ba1a7e91:0x407243febc62d65d!8m2!3d26.8997001!4d76.332411!16s%2Fg%2F11s0x0pl5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ray+Mata+Clinical/@26.8997001,76.332411,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dd3ba1a7e91:0x407243febc62d65d!8m2!3d26.8997001!4d76.332411!16s%2Fg%2F11s0x0pl5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5435,11 +5390,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ray+Mata+Clinical/@26.8997001,76.332411,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dd3ba1a7e91:0x407243febc62d65d!8m2!3d26.8997001!4d76.332411!16s%2Fg%2F11s0x0pl5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "santosh-hospital-dausa",
@@ -5487,7 +5441,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Santosh+Hospital/@26.8916452,76.3344861,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d3532c3317d:0xdda7d8215c2ffa30!8m2!3d26.8916452!4d76.3344861!16s%2Fg%2F11f7r0qsv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Santosh+Hospital/@26.8916452,76.3344861,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d3532c3317d:0xdda7d8215c2ffa30!8m2!3d26.8916452!4d76.3344861!16s%2Fg%2F11f7r0qsv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5556,8 +5510,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Santosh+Hospital/@26.8916452,76.3344861,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d3532c3317d:0xdda7d8215c2ffa30!8m2!3d26.8916452!4d76.3344861!16s%2Fg%2F11f7r0qsv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shayama-devi-memorial-hospital-dausa",
@@ -5605,7 +5558,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shayama+Devi+Memorial+Hospital/@26.8998786,76.3379984,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cc1100128e9:0x1cb88637a013a172!8m2!3d26.8998786!4d76.3379984!16s%2Fg%2F12hptklwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shayama+Devi+Memorial+Hospital/@26.8998786,76.3379984,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cc1100128e9:0x1cb88637a013a172!8m2!3d26.8998786!4d76.3379984!16s%2Fg%2F12hptklwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5671,11 +5624,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shayama+Devi+Memorial+Hospital/@26.8998786,76.3379984,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8cc1100128e9:0x1cb88637a013a172!8m2!3d26.8998786!4d76.3379984!16s%2Fg%2F12hptklwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiv-medical-and-general-store-dausa",
@@ -5724,7 +5676,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiv+Medical+%26+General+Store/@26.8992367,76.3305968,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d0065d646bd:0x3f3a7fd5178f3242!8m2!3d26.8992367!4d76.3305968!16s%2Fg%2F11yzktg5sh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Medical+%26+General+Store/@26.8992367,76.3305968,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d0065d646bd:0x3f3a7fd5178f3242!8m2!3d26.8992367!4d76.3305968!16s%2Fg%2F11yzktg5sh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5790,11 +5742,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiv+Medical+%26+General+Store/@26.8992367,76.3305968,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d0065d646bd:0x3f3a7fd5178f3242!8m2!3d26.8992367!4d76.3305968!16s%2Fg%2F11yzktg5sh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivam-lab-and-wellness-centre-dausa",
@@ -5843,7 +5794,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHIVAM+LAB+%26+WELLNESS+CENTRE/@26.8842363,76.3348204,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccc77f7e005:0x440a17b930444402!8m2!3d26.8842363!4d76.3348204!16s%2Fg%2F11c5sn4bgg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHIVAM+LAB+%26+WELLNESS+CENTRE/@26.8842363,76.3348204,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccc77f7e005:0x440a17b930444402!8m2!3d26.8842363!4d76.3348204!16s%2Fg%2F11c5sn4bgg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5912,8 +5863,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHIVAM+LAB+%26+WELLNESS+CENTRE/@26.8842363,76.3348204,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccc77f7e005:0x440a17b930444402!8m2!3d26.8842363!4d76.3348204!16s%2Fg%2F11c5sn4bgg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-rupam-hospital-dausa-rajsthan-dausa",
@@ -5961,7 +5911,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHREE+RUPAM+HOSPITAL+DAUSA+RAJSTHAN/data=!4m7!3m6!1s0x396df1061708cbdf:0xa3ec69a8411777e0!8m2!3d26.8839949!4d76.3344856!16s%2Fg%2F11qpz0dyl0!19sChIJ38sIFwbxbTkR4HcXQahp7KM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+RUPAM+HOSPITAL+DAUSA+RAJSTHAN/data=!4m7!3m6!1s0x396df1061708cbdf:0xa3ec69a8411777e0!8m2!3d26.8839949!4d76.3344856!16s%2Fg%2F11qpz0dyl0!19sChIJ38sIFwbxbTkR4HcXQahp7KM?authuser=0&hl=en&rclk=1"
@@ -6027,11 +5977,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHREE+RUPAM+HOSPITAL+DAUSA+RAJSTHAN/data=!4m7!3m6!1s0x396df1061708cbdf:0xa3ec69a8411777e0!8m2!3d26.8839949!4d76.3344856!16s%2Fg%2F11qpz0dyl0!19sChIJ38sIFwbxbTkR4HcXQahp7KM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-ganesh-hospital-and-diagnostic-centre-sainthal-mode-dausa-rajasthan-303303-dausa",
@@ -6081,7 +6030,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Ganesh+hospital+and+Diagnostic+Centre+Sainthal+Mode+Dausa+Rajasthan+303303/@26.8987509,76.3224093,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d77590bafad:0x6a9103e53c95e1d4!8m2!3d26.8987509!4d76.3224093!16s%2Fg%2F11y0ydp0h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Ganesh+hospital+and+Diagnostic+Centre+Sainthal+Mode+Dausa+Rajasthan+303303/@26.8987509,76.3224093,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d77590bafad:0x6a9103e53c95e1d4!8m2!3d26.8987509!4d76.3224093!16s%2Fg%2F11y0ydp0h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6147,11 +6096,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Ganesh+hospital+and+Diagnostic+Centre+Sainthal+Mode+Dausa+Rajasthan+303303/@26.8987509,76.3224093,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d77590bafad:0x6a9103e53c95e1d4!8m2!3d26.8987509!4d76.3224093!16s%2Fg%2F11y0ydp0h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-krishan-hospital-dausa",
@@ -6199,7 +6147,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHRI+KRISHAN+HOSPITAL/@26.8705369,76.3363931,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccb4a902de1:0xd9e6bd35c24067f9!8m2!3d26.8705369!4d76.3363931!16s%2Fg%2F1thn3xv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHRI+KRISHAN+HOSPITAL/@26.8705369,76.3363931,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccb4a902de1:0xd9e6bd35c24067f9!8m2!3d26.8705369!4d76.3363931!16s%2Fg%2F1thn3xv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6268,8 +6216,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHRI+KRISHAN+HOSPITAL/@26.8705369,76.3363931,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccb4a902de1:0xd9e6bd35c24067f9!8m2!3d26.8705369!4d76.3363931!16s%2Fg%2F1thn3xv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-ramkaran-joshi-govt-hospital-dausa-dausa",
@@ -6317,7 +6264,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Ramkaran+Joshi+Govt.+Hospital+Dausa/@26.8242897,76.2623945,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccb7147acc3:0x904dbaeb6807e30f!8m2!3d26.8242897!4d76.2623945!16s%2Fg%2F11c1wyyh1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Ramkaran+Joshi+Govt.+Hospital+Dausa/@26.8242897,76.2623945,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccb7147acc3:0x904dbaeb6807e30f!8m2!3d26.8242897!4d76.2623945!16s%2Fg%2F11c1wyyh1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6386,8 +6333,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Ramkaran+Joshi+Govt.+Hospital+Dausa/@26.8242897,76.2623945,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccb7147acc3:0x904dbaeb6807e30f!8m2!3d26.8242897!4d76.2623945!16s%2Fg%2F11c1wyyh1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-shyam-netra-hospital-dausa-dausa",
@@ -6435,7 +6381,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Shyam+Netra+Hospital,+Dausa/@26.9004258,76.3124423,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d21ee6719fb:0x3e8b56bad155fa96!8m2!3d26.9004258!4d76.3124423!16s%2Fg%2F11sjhg3d1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Shyam+Netra+Hospital,+Dausa/@26.9004258,76.3124423,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d21ee6719fb:0x3e8b56bad155fa96!8m2!3d26.9004258!4d76.3124423!16s%2Fg%2F11sjhg3d1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6504,8 +6450,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Shyam+Netra+Hospital,+Dausa/@26.9004258,76.3124423,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d21ee6719fb:0x3e8b56bad155fa96!8m2!3d26.9004258!4d76.3124423!16s%2Fg%2F11sjhg3d1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-vinayak-medicose-dausa",
@@ -6554,7 +6499,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHRI+VINAYAK+MEDICOSE/@26.8991619,76.3300753,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d005e4d6cb3:0xf5e541fef01b2c54!8m2!3d26.8991619!4d76.3300753!16s%2Fg%2F11wc0lfz_n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHRI+VINAYAK+MEDICOSE/@26.8991619,76.3300753,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d005e4d6cb3:0xf5e541fef01b2c54!8m2!3d26.8991619!4d76.3300753!16s%2Fg%2F11wc0lfz_n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6620,11 +6565,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHRI+VINAYAK+MEDICOSE/@26.8991619,76.3300753,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d005e4d6cb3:0xf5e541fef01b2c54!8m2!3d26.8991619!4d76.3300753!16s%2Fg%2F11wc0lfz_n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sujal-clinic-dausa",
@@ -6673,7 +6617,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SUJAL+CLINIC/@26.9052755,76.3696105,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8b4a44b693c7:0x9bfaae9ae353fed8!8m2!3d26.9052755!4d76.3696105!16s%2Fg%2F11lmx6txv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUJAL+CLINIC/@26.9052755,76.3696105,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8b4a44b693c7:0x9bfaae9ae353fed8!8m2!3d26.9052755!4d76.3696105!16s%2Fg%2F11lmx6txv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6742,8 +6686,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SUJAL+CLINIC/@26.9052755,76.3696105,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8b4a44b693c7:0x9bfaae9ae353fed8!8m2!3d26.9052755!4d76.3696105!16s%2Fg%2F11lmx6txv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vishnu-clinic-jaipur",
@@ -6792,7 +6735,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vishnu+clinic/@26.8858282,75.913855,17z/data=!3m1!4b1!4m6!3m5!1s0x396db95920bbc775:0x3d912a1e7e688a7d!8m2!3d26.8858282!4d75.913855!16s%2Fg%2F11t99lp0qh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishnu+clinic/@26.8858282,75.913855,17z/data=!3m1!4b1!4m6!3m5!1s0x396db95920bbc775:0x3d912a1e7e688a7d!8m2!3d26.8858282!4d75.913855!16s%2Fg%2F11t99lp0qh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6858,11 +6801,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vishnu+clinic/@26.8858282,75.913855,17z/data=!3m1!4b1!4m6!3m5!1s0x396db95920bbc775:0x3d912a1e7e688a7d!8m2!3d26.8858282!4d75.913855!16s%2Fg%2F11t99lp0qh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vishwas-smile-and-spine-centre-dausa",
@@ -6911,7 +6853,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vishwas+Smile+and+Spine+Centre/@26.8813641,76.3360311,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d477af95861:0x2776951ce0facb80!8m2!3d26.8813641!4d76.3360311!16s%2Fg%2F11ykpnb_1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishwas+Smile+and+Spine+Centre/@26.8813641,76.3360311,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d477af95861:0x2776951ce0facb80!8m2!3d26.8813641!4d76.3360311!16s%2Fg%2F11ykpnb_1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6977,11 +6919,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vishwas+Smile+and+Spine+Centre/@26.8813641,76.3360311,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d477af95861:0x2776951ce0facb80!8m2!3d26.8813641!4d76.3360311!16s%2Fg%2F11ykpnb_1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vp-hair-transplant-and-cosmetic-center-dausa",
@@ -7029,7 +6970,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VP+Hair+Transplant+%26+Cosmetic+Center/@26.8983074,76.333052,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dcf70d4a979:0xa51c19860b051838!8m2!3d26.8983074!4d76.333052!16s%2Fg%2F11s765lrxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VP+Hair+Transplant+%26+Cosmetic+Center/@26.8983074,76.333052,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dcf70d4a979:0xa51c19860b051838!8m2!3d26.8983074!4d76.333052!16s%2Fg%2F11s765lrxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7098,8 +7039,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VP+Hair+Transplant+%26+Cosmetic+Center/@26.8983074,76.333052,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8dcf70d4a979:0xa51c19860b051838!8m2!3d26.8983074!4d76.333052!16s%2Fg%2F11s765lrxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wadhawan-dental-hospital-dausa",
@@ -7147,7 +7087,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Wadhawan+Dental+Hospital/@26.8914348,76.3344235,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccf518bc169:0x51a7d3b966948245!8m2!3d26.8914348!4d76.3344235!16s%2Fg%2F11f1wndhvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wadhawan+Dental+Hospital/@26.8914348,76.3344235,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccf518bc169:0x51a7d3b966948245!8m2!3d26.8914348!4d76.3344235!16s%2Fg%2F11f1wndhvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7213,11 +7153,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Wadhawan+Dental+Hospital/@26.8914348,76.3344235,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8ccf518bc169:0x51a7d3b966948245!8m2!3d26.8914348!4d76.3344235!16s%2Fg%2F11f1wndhvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "34-dausa",
@@ -7264,7 +7203,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A4%AC%E0%A4%BE%E0%A4%A1%E0%A4%BC%E0%A5%80+%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+34,+%E0%A4%A6%E0%A5%8C%E0%A4%B8%E0%A4%BE/@26.9043648,76.34012,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d0042d4dd75:0x79b401512f1f07d0!8m2!3d26.9043648!4d76.34012!16s%2Fg%2F11y5d2pfg2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%86%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A4%AC%E0%A4%BE%E0%A4%A1%E0%A4%BC%E0%A5%80+%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+34,+%E0%A4%A6%E0%A5%8C%E0%A4%B8%E0%A4%BE/@26.9043648,76.34012,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d0042d4dd75:0x79b401512f1f07d0!8m2!3d26.9043648!4d76.34012!16s%2Fg%2F11y5d2pfg2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7330,11 +7269,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A4%AC%E0%A4%BE%E0%A4%A1%E0%A4%BC%E0%A5%80+%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+34,+%E0%A4%A6%E0%A5%8C%E0%A4%B8%E0%A4%BE/@26.9043648,76.34012,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d0042d4dd75:0x79b401512f1f07d0!8m2!3d26.9043648!4d76.34012!16s%2Fg%2F11y5d2pfg2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dausa",
@@ -7382,7 +7320,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%9C%E0%A4%97%E0%A4%A6%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE+%E0%A4%A6%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8B+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@26.901338,76.3416509,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d8384fa64a5:0x9dc9dc73a271fc64!8m2!3d26.901338!4d76.3416509!16s%2Fg%2F11tk9s3nfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%9C%E0%A4%97%E0%A4%A6%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE+%E0%A4%A6%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8B+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@26.901338,76.3416509,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d8384fa64a5:0x9dc9dc73a271fc64!8m2!3d26.901338!4d76.3416509!16s%2Fg%2F11tk9s3nfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7451,7 +7389,6 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%9C%E0%A4%97%E0%A4%A6%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE+%E0%A4%A6%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8B+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@26.901338,76.3416509,17z/data=!3m1!4b1!4m6!3m5!1s0x396d8d8384fa64a5:0x9dc9dc73a271fc64!8m2!3d26.901338!4d76.3416509!16s%2Fg%2F11tk9s3nfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

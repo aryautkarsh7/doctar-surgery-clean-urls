@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%23Sanjeevni+clinic+%23+sanjeevni+primary+first+aid+centre/@20.7688268,72.997895,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ed3400b9c51d:0xd9a3c436bbbbc3e9!8m2!3d20.7688268!4d72.997895!16s%2Fg%2F11fq_b7pzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%23Sanjeevni+clinic+%23+sanjeevni+primary+first+aid+centre/@20.7688268,72.997895,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ed3400b9c51d:0xd9a3c436bbbbc3e9!8m2!3d20.7688268!4d72.997895!16s%2Fg%2F11fq_b7pzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -112,11 +112,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%23Sanjeevni+clinic+%23+sanjeevni+primary+first+aid+centre/@20.7688268,72.997895,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ed3400b9c51d:0xd9a3c436bbbbc3e9!8m2!3d20.7688268!4d72.997895!16s%2Fg%2F11fq_b7pzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "adarsh-hospital-bilimora",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Adarsh+Hospital/@20.7660861,72.9725084,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef549f8d105d:0x2aa44d0ca473a6e4!8m2!3d20.7660861!4d72.9725084!16s%2Fg%2F11s6s8wvst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adarsh+Hospital/@20.7660861,72.9725084,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef549f8d105d:0x2aa44d0ca473a6e4!8m2!3d20.7660861!4d72.9725084!16s%2Fg%2F11s6s8wvst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -230,11 +229,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Adarsh+Hospital/@20.7660861,72.9725084,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef549f8d105d:0x2aa44d0ca473a6e4!8m2!3d20.7660861!4d72.9725084!16s%2Fg%2F11s6s8wvst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akruti-clinic-bilimora",
@@ -280,7 +278,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akruti+Clinic/data=!4m7!3m6!1s0x3be0ef4848503ae1:0x90e6845345e4e91a!8m2!3d20.7666397!4d72.9694119!16s%2Fg%2F11v3mx1g18!19sChIJ4TpQSEjv4DsRGunkRVOE5pA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akruti+Clinic/data=!4m7!3m6!1s0x3be0ef4848503ae1:0x90e6845345e4e91a!8m2!3d20.7666397!4d72.9694119!16s%2Fg%2F11v3mx1g18!19sChIJ4TpQSEjv4DsRGunkRVOE5pA?authuser=0&hl=en&rclk=1"
@@ -346,11 +344,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akruti+Clinic/data=!4m7!3m6!1s0x3be0ef4848503ae1:0x90e6845345e4e91a!8m2!3d20.7666397!4d72.9694119!16s%2Fg%2F11v3mx1g18!19sChIJ4TpQSEjv4DsRGunkRVOE5pA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amrutnivas-bilicharrasta-bilimora",
@@ -396,7 +393,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/amrutnivas+bilicharrasta/@20.7690264,72.9777738,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6eee1b8aed:0x2d7c1d9ff60aa48e!8m2!3d20.7690264!4d72.9777738!16s%2Fg%2F11g7zw868_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/amrutnivas+bilicharrasta/@20.7690264,72.9777738,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6eee1b8aed:0x2d7c1d9ff60aa48e!8m2!3d20.7690264!4d72.9777738!16s%2Fg%2F11g7zw868_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -462,11 +459,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/amrutnivas+bilicharrasta/@20.7690264,72.9777738,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6eee1b8aed:0x2d7c1d9ff60aa48e!8m2!3d20.7690264!4d72.9777738!16s%2Fg%2F11g7zw868_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arpan-hospital-bilimora",
@@ -514,7 +510,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arpan+Hospital/@20.7690077,72.9734552,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69110b6f7d:0x70fe3ae1f97e04c0!8m2!3d20.7690077!4d72.9734552!16s%2Fg%2F1hf1s69bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arpan+Hospital/@20.7690077,72.9734552,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69110b6f7d:0x70fe3ae1f97e04c0!8m2!3d20.7690077!4d72.9734552!16s%2Fg%2F1hf1s69bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -583,8 +579,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arpan+Hospital/@20.7690077,72.9734552,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69110b6f7d:0x70fe3ae1f97e04c0!8m2!3d20.7690077!4d72.9734552!16s%2Fg%2F1hf1s69bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "atrik-hospital-bilimora",
@@ -630,7 +625,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Atrik+hospital/@20.7674947,72.9740112,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef007973acfd:0xddc0a94043dd6cdb!8m2!3d20.7674947!4d72.9740112!16s%2Fg%2F11m65l5kql?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Atrik+hospital/@20.7674947,72.9740112,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef007973acfd:0xddc0a94043dd6cdb!8m2!3d20.7674947!4d72.9740112!16s%2Fg%2F11m65l5kql?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -696,11 +691,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Atrik+hospital/@20.7674947,72.9740112,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef007973acfd:0xddc0a94043dd6cdb!8m2!3d20.7674947!4d72.9740112!16s%2Fg%2F11m65l5kql?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bilimora-clinic-bilimora",
@@ -747,7 +741,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bilimora+Clinic/@20.7667681,72.9687206,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efedc058bc57:0xfcdd12f13482809f!8m2!3d20.7667681!4d72.9687206!16s%2Fg%2F11sh7grw1v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bilimora+Clinic/@20.7667681,72.9687206,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efedc058bc57:0xfcdd12f13482809f!8m2!3d20.7667681!4d72.9687206!16s%2Fg%2F11sh7grw1v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -813,11 +807,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bilimora+Clinic/@20.7667681,72.9687206,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efedc058bc57:0xfcdd12f13482809f!8m2!3d20.7667681!4d72.9687206!16s%2Fg%2F11sh7grw1v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bilimora-imaging-centre-bilimora",
@@ -866,7 +859,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bilimora+Imaging+Centre/@20.7672451,72.9770569,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef294d6ce9cd:0x91837ddafac39b06!8m2!3d20.7672451!4d72.9770569!16s%2Fg%2F11fp3rlk0s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bilimora+Imaging+Centre/@20.7672451,72.9770569,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef294d6ce9cd:0x91837ddafac39b06!8m2!3d20.7672451!4d72.9770569!16s%2Fg%2F11fp3rlk0s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -935,8 +928,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bilimora+Imaging+Centre/@20.7672451,72.9770569,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef294d6ce9cd:0x91837ddafac39b06!8m2!3d20.7672451!4d72.9770569!16s%2Fg%2F11fp3rlk0s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bilimora-imaging-centre-bilimora",
@@ -984,7 +976,7 @@
     "metrics": [
       "Google rating 2.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BILIMORA+IMAGING+CENTRE/@20.7676888,72.9654576,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efb36c6e38fd:0x63732468802ad981!8m2!3d20.7676888!4d72.9654576!16s%2Fg%2F11fp3rm9y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BILIMORA+IMAGING+CENTRE/@20.7676888,72.9654576,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efb36c6e38fd:0x63732468802ad981!8m2!3d20.7676888!4d72.9654576!16s%2Fg%2F11fp3rm9y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1053,8 +1045,7 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BILIMORA+IMAGING+CENTRE/@20.7676888,72.9654576,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efb36c6e38fd:0x63732468802ad981!8m2!3d20.7676888!4d72.9654576!16s%2Fg%2F11fp3rm9y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "clinic-bilimora",
@@ -1103,7 +1094,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Clinic/@20.7672442,72.9623847,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef38471f50a7:0xb56a1592435f76da!8m2!3d20.7672442!4d72.9623847!16s%2Fg%2F11fp7vkpt4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic/@20.7672442,72.9623847,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef38471f50a7:0xb56a1592435f76da!8m2!3d20.7672442!4d72.9623847!16s%2Fg%2F11fp7vkpt4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1169,11 +1160,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Clinic/@20.7672442,72.9623847,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef38471f50a7:0xb56a1592435f76da!8m2!3d20.7672442!4d72.9623847!16s%2Fg%2F11fp7vkpt4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-clinic-trupti-desai-bilimora",
@@ -1221,7 +1211,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Clinic+(Trupti+Desai)/@20.7667028,72.9745086,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef11b2edc571:0x3ed853e1f1e0d652!8m2!3d20.7667028!4d72.9745086!16s%2Fg%2F11vlc3rq_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Clinic+(Trupti+Desai)/@20.7667028,72.9745086,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef11b2edc571:0x3ed853e1f1e0d652!8m2!3d20.7667028!4d72.9745086!16s%2Fg%2F11vlc3rq_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1287,11 +1277,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Clinic+(Trupti+Desai)/@20.7667028,72.9745086,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef11b2edc571:0x3ed853e1f1e0d652!8m2!3d20.7667028!4d72.9745086!16s%2Fg%2F11vlc3rq_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-square-bilimora",
@@ -1339,7 +1328,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Square/@20.7666297,72.9763594,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6f340f0571:0xa31e64d669014aaf!8m2!3d20.7666297!4d72.9763594!16s%2Fg%2F11b8_zwmd4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Square/@20.7666297,72.9763594,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6f340f0571:0xa31e64d669014aaf!8m2!3d20.7666297!4d72.9763594!16s%2Fg%2F11b8_zwmd4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1408,8 +1397,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Square/@20.7666297,72.9763594,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6f340f0571:0xa31e64d669014aaf!8m2!3d20.7666297!4d72.9763594!16s%2Fg%2F11b8_zwmd4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "desai-eye-hospital-bilimora",
@@ -1457,7 +1445,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Desai+Eye+Hospital/@20.769539,72.970837,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69f2895d89:0x4c76a3ff2a253418!8m2!3d20.769539!4d72.970837!16s%2Fg%2F1tgyv4r0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Desai+Eye+Hospital/@20.769539,72.970837,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69f2895d89:0x4c76a3ff2a253418!8m2!3d20.769539!4d72.970837!16s%2Fg%2F1tgyv4r0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1526,8 +1514,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Desai+Eye+Hospital/@20.769539,72.970837,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69f2895d89:0x4c76a3ff2a253418!8m2!3d20.769539!4d72.970837!16s%2Fg%2F1tgyv4r0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhanwantari-clinic-20vinayak-homes-opp-iti-college-bilimora",
@@ -1575,7 +1562,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dhanwantari+Clinic,+20vinayak+Homes+Opp.+Iti+College/@20.7658968,72.9863308,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee7a098d58fb:0xdfe92e65f67c299f!8m2!3d20.7658968!4d72.9863308!16s%2Fg%2F11d_d78gyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhanwantari+Clinic,+20vinayak+Homes+Opp.+Iti+College/@20.7658968,72.9863308,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee7a098d58fb:0xdfe92e65f67c299f!8m2!3d20.7658968!4d72.9863308!16s%2Fg%2F11d_d78gyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1641,11 +1628,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dhanwantari+Clinic,+20vinayak+Homes+Opp.+Iti+College/@20.7658968,72.9863308,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee7a098d58fb:0xdfe92e65f67c299f!8m2!3d20.7658968!4d72.9863308!16s%2Fg%2F11d_d78gyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dinamani-dental-clinic-bilimora",
@@ -1693,7 +1679,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dinamani+Dental+Clinic/@20.7667611,72.97457,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68c4eede1f:0x179f240b5d6fb2d6!8m2!3d20.7667611!4d72.97457!16s%2Fg%2F11gfmnc_m9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dinamani+Dental+Clinic/@20.7667611,72.97457,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68c4eede1f:0x179f240b5d6fb2d6!8m2!3d20.7667611!4d72.97457!16s%2Fg%2F11gfmnc_m9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1759,11 +1745,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dinamani+Dental+Clinic/@20.7667611,72.97457,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68c4eede1f:0x179f240b5d6fb2d6!8m2!3d20.7667611!4d72.97457!16s%2Fg%2F11gfmnc_m9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "empower-health-bilimora-by-physio-maitry-parekh-bilimora",
@@ -1813,7 +1798,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Empower+health+bilimora+by+physio+Maitry+Parekh/@20.7675691,72.9860283,14z/data=!3m1!4b1!4m6!3m5!1s0x62334b8af832bfc9:0xa160ddc624acf1f2!8m2!3d20.7675692!4d72.9860284!16s%2Fg%2F11w1k38qqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Empower+health+bilimora+by+physio+Maitry+Parekh/@20.7675691,72.9860283,14z/data=!3m1!4b1!4m6!3m5!1s0x62334b8af832bfc9:0xa160ddc624acf1f2!8m2!3d20.7675692!4d72.9860284!16s%2Fg%2F11w1k38qqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1882,8 +1867,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Empower+health+bilimora+by+physio+Maitry+Parekh/@20.7675691,72.9860283,14z/data=!3m1!4b1!4m6!3m5!1s0x62334b8af832bfc9:0xa160ddc624acf1f2!8m2!3d20.7675692!4d72.9860284!16s%2Fg%2F11w1k38qqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "family-dental-care-bilimora",
@@ -1931,7 +1915,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Family+Dental+Care/@20.7651954,72.9722637,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee686370b557:0x357a96d90fa07e75!8m2!3d20.7651954!4d72.9722637!16s%2Fg%2F11f2l55vz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Family+Dental+Care/@20.7651954,72.9722637,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee686370b557:0x357a96d90fa07e75!8m2!3d20.7651954!4d72.9722637!16s%2Fg%2F11f2l55vz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1997,11 +1981,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Family+Dental+Care/@20.7651954,72.9722637,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee686370b557:0x357a96d90fa07e75!8m2!3d20.7651954!4d72.9722637!16s%2Fg%2F11f2l55vz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ghaswala-clinic-bilimora",
@@ -2049,7 +2032,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ghaswala+Clinic/@20.7614918,72.9710707,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef00211961bf:0x87b6e0343f640919!8m2!3d20.7614918!4d72.9710707!16s%2Fg%2F11w4y3b9ms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ghaswala+Clinic/@20.7614918,72.9710707,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef00211961bf:0x87b6e0343f640919!8m2!3d20.7614918!4d72.9710707!16s%2Fg%2F11w4y3b9ms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2115,11 +2098,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ghaswala+Clinic/@20.7614918,72.9710707,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef00211961bf:0x87b6e0343f640919!8m2!3d20.7614918!4d72.9710707!16s%2Fg%2F11w4y3b9ms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gupta-hospital-bilimora",
@@ -2167,7 +2149,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gupta+hospital/@20.7678894,72.9685916,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee4265f93857:0xd7bab30087971d7f!8m2!3d20.7678894!4d72.9685916!16s%2Fg%2F11cn6g26gl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+hospital/@20.7678894,72.9685916,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee4265f93857:0xd7bab30087971d7f!8m2!3d20.7678894!4d72.9685916!16s%2Fg%2F11cn6g26gl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2236,8 +2218,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gupta+hospital/@20.7678894,72.9685916,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee4265f93857:0xd7bab30087971d7f!8m2!3d20.7678894!4d72.9685916!16s%2Fg%2F11cn6g26gl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hasu-kishor-ayurvedic-panchkarm-hospital-bilimora",
@@ -2285,7 +2266,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hasu+Kishor+Ayurvedic+Panchkarm+Hospital/@20.7631435,73.0172186,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eda7da592aad:0x47552e200ffb3316!8m2!3d20.7631435!4d73.0172186!16s%2Fg%2F11f6j1g6pp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hasu+Kishor+Ayurvedic+Panchkarm+Hospital/@20.7631435,73.0172186,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eda7da592aad:0x47552e200ffb3316!8m2!3d20.7631435!4d73.0172186!16s%2Fg%2F11f6j1g6pp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2351,11 +2332,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hasu+Kishor+Ayurvedic+Panchkarm+Hospital/@20.7631435,73.0172186,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eda7da592aad:0x47552e200ffb3316!8m2!3d20.7631435!4d73.0172186!16s%2Fg%2F11f6j1g6pp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "het-physiotherapy-clinic-bilimora-bilimora",
@@ -2404,7 +2384,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Het+Physiotherapy+Clinic+Bilimora/@20.7669987,72.97445,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef90619252f7:0xc7f4eccd47277b3b!8m2!3d20.7669987!4d72.97445!16s%2Fg%2F11g0dt_r5b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Het+Physiotherapy+Clinic+Bilimora/@20.7669987,72.97445,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef90619252f7:0xc7f4eccd47277b3b!8m2!3d20.7669987!4d72.97445!16s%2Fg%2F11g0dt_r5b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2470,11 +2450,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Het+Physiotherapy+Clinic+Bilimora/@20.7669987,72.97445,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef90619252f7:0xc7f4eccd47277b3b!8m2!3d20.7669987!4d72.97445!16s%2Fg%2F11g0dt_r5b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "homeopathy-consultant-bilimora",
@@ -2522,7 +2501,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HOMEOPATHY+CONSULTANT/@20.7715556,72.9714036,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef64a965fa99:0xf09b1532b097276b!8m2!3d20.7715556!4d72.9714036!16s%2Fg%2F11w4g39yvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HOMEOPATHY+CONSULTANT/@20.7715556,72.9714036,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef64a965fa99:0xf09b1532b097276b!8m2!3d20.7715556!4d72.9714036!16s%2Fg%2F11w4g39yvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2588,11 +2567,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HOMEOPATHY+CONSULTANT/@20.7715556,72.9714036,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef64a965fa99:0xf09b1532b097276b!8m2!3d20.7715556!4d72.9714036!16s%2Fg%2F11w4g39yvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospital-bilimora",
@@ -2639,7 +2617,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hospital/@20.7702789,72.9823816,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efc88dcc0725:0xb4467a18d771fd78!8m2!3d20.7702789!4d72.9823816!16s%2Fg%2F11kjzs69s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital/@20.7702789,72.9823816,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efc88dcc0725:0xb4467a18d771fd78!8m2!3d20.7702789!4d72.9823816!16s%2Fg%2F11kjzs69s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2705,11 +2683,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hospital/@20.7702789,72.9823816,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efc88dcc0725:0xb4467a18d771fd78!8m2!3d20.7702789!4d72.9823816!16s%2Fg%2F11kjzs69s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jay-ambe-dental-clinic-bilimora",
@@ -2757,7 +2734,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jay+Ambe+Dental+Clinic/@20.7676383,72.9656741,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef2130878b95:0xdc55f01bf88240cd!8m2!3d20.7676383!4d72.9656741!16s%2Fg%2F11t6mpx0cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jay+Ambe+Dental+Clinic/@20.7676383,72.9656741,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef2130878b95:0xdc55f01bf88240cd!8m2!3d20.7676383!4d72.9656741!16s%2Fg%2F11t6mpx0cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2823,11 +2800,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jay+Ambe+Dental+Clinic/@20.7676383,72.9656741,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef2130878b95:0xdc55f01bf88240cd!8m2!3d20.7676383!4d72.9656741!16s%2Fg%2F11t6mpx0cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevandeep-hospital-bilimora",
@@ -2875,7 +2851,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevandeep+Hospital/@20.7682247,72.9594022,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef29c47378ef:0x77de6fd6e7968b4c!8m2!3d20.7682247!4d72.9594022!16s%2Fg%2F11h6sbdc02?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevandeep+Hospital/@20.7682247,72.9594022,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef29c47378ef:0x77de6fd6e7968b4c!8m2!3d20.7682247!4d72.9594022!16s%2Fg%2F11h6sbdc02?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2941,11 +2917,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevandeep+Hospital/@20.7682247,72.9594022,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef29c47378ef:0x77de6fd6e7968b4c!8m2!3d20.7682247!4d72.9594022!16s%2Fg%2F11h6sbdc02?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jivanraksha-medical-store-bilimora",
@@ -2994,7 +2969,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jivanraksha+Medical+Store/@20.7688843,72.9733034,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6973300013:0xc56a19e71bb0e26b!8m2!3d20.7688843!4d72.9733034!16s%2Fg%2F11c1tm05cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jivanraksha+Medical+Store/@20.7688843,72.9733034,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6973300013:0xc56a19e71bb0e26b!8m2!3d20.7688843!4d72.9733034!16s%2Fg%2F11c1tm05cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3063,8 +3038,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jivanraksha+Medical+Store/@20.7688843,72.9733034,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6973300013:0xc56a19e71bb0e26b!8m2!3d20.7688843!4d72.9733034!16s%2Fg%2F11c1tm05cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "joshi-dental-care-bilimora",
@@ -3113,7 +3087,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Joshi+Dental+Care/@20.7676383,72.9656741,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee43b9380bd5:0xb01f7ee35ad810e3!8m2!3d20.7676383!4d72.9656741!16s%2Fg%2F11b8t31r1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Joshi+Dental+Care/@20.7676383,72.9656741,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee43b9380bd5:0xb01f7ee35ad810e3!8m2!3d20.7676383!4d72.9656741!16s%2Fg%2F11b8t31r1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3179,11 +3153,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Joshi+Dental+Care/@20.7676383,72.9656741,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee43b9380bd5:0xb01f7ee35ad810e3!8m2!3d20.7676383!4d72.9656741!16s%2Fg%2F11b8t31r1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jyoti-care-eye-hospital-bilimora",
@@ -3231,7 +3204,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jyoti+care+eye+hospital./@20.7676345,72.9744952,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68d8ab7da7:0x9e2d8ea565ed03d1!8m2!3d20.7676345!4d72.9744952!16s%2Fg%2F11bwy_2l8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jyoti+care+eye+hospital./@20.7676345,72.9744952,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68d8ab7da7:0x9e2d8ea565ed03d1!8m2!3d20.7676345!4d72.9744952!16s%2Fg%2F11bwy_2l8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3300,8 +3273,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jyoti+care+eye+hospital./@20.7676345,72.9744952,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68d8ab7da7:0x9e2d8ea565ed03d1!8m2!3d20.7676345!4d72.9744952!16s%2Fg%2F11bwy_2l8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "k-r-das-hospital-bilimora",
@@ -3349,7 +3321,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/K+R+Das+Hospital/@20.7684493,72.9642301,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee43f16482e1:0x9907b44cd00e8450!8m2!3d20.7684493!4d72.9642301!16s%2Fg%2F11r8_z2fj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K+R+Das+Hospital/@20.7684493,72.9642301,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee43f16482e1:0x9907b44cd00e8450!8m2!3d20.7684493!4d72.9642301!16s%2Fg%2F11r8_z2fj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3418,8 +3390,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/K+R+Das+Hospital/@20.7684493,72.9642301,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee43f16482e1:0x9907b44cd00e8450!8m2!3d20.7684493!4d72.9642301!16s%2Fg%2F11r8_z2fj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kheti-vikas-kendra-bilimora",
@@ -3467,7 +3438,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KHETI+VIKAS+KENDRA/@20.7600528,72.9775462,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef1797a36eb9:0x43191d35a9963ee6!8m2!3d20.7600528!4d72.9775462!16s%2Fg%2F11y3_xzbb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KHETI+VIKAS+KENDRA/@20.7600528,72.9775462,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef1797a36eb9:0x43191d35a9963ee6!8m2!3d20.7600528!4d72.9775462!16s%2Fg%2F11y3_xzbb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3533,11 +3504,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KHETI+VIKAS+KENDRA/@20.7600528,72.9775462,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef1797a36eb9:0x43191d35a9963ee6!8m2!3d20.7600528!4d72.9775462!16s%2Fg%2F11y3_xzbb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "littlestar-children-hospital-bilimora",
@@ -3587,7 +3557,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Littlestar+Children+Hospital/@20.7668007,72.9732921,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68f00c38e1:0xd242632bc5281517!8m2!3d20.7668007!4d72.9732921!16s%2Fg%2F1v82_kly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Littlestar+Children+Hospital/@20.7668007,72.9732921,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68f00c38e1:0xd242632bc5281517!8m2!3d20.7668007!4d72.9732921!16s%2Fg%2F1v82_kly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3656,8 +3626,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Littlestar+Children+Hospital/@20.7668007,72.9732921,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68f00c38e1:0xd242632bc5281517!8m2!3d20.7668007!4d72.9732921!16s%2Fg%2F1v82_kly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mamta-ent-hospital-bilimora",
@@ -3705,7 +3674,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MAMTA+ENT+HOSPITAL/@20.7671518,72.9708031,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6855b00c9d:0x256dabb7a85803b7!8m2!3d20.7671518!4d72.9708031!16s%2Fg%2F11bxfjhbn8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAMTA+ENT+HOSPITAL/@20.7671518,72.9708031,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6855b00c9d:0x256dabb7a85803b7!8m2!3d20.7671518!4d72.9708031!16s%2Fg%2F11bxfjhbn8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3771,11 +3740,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MAMTA+ENT+HOSPITAL/@20.7671518,72.9708031,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6855b00c9d:0x256dabb7a85803b7!8m2!3d20.7671518!4d72.9708031!16s%2Fg%2F11bxfjhbn8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mandaliya-hospital-bilimora",
@@ -3824,7 +3792,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mandaliya+Hospital/@20.7694371,72.9732938,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6971e3190b:0xbf33048609ba76c1!8m2!3d20.7694371!4d72.9732938!16s%2Fg%2F11cly7pmm8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mandaliya+Hospital/@20.7694371,72.9732938,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6971e3190b:0xbf33048609ba76c1!8m2!3d20.7694371!4d72.9732938!16s%2Fg%2F11cly7pmm8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3893,8 +3861,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mandaliya+Hospital/@20.7694371,72.9732938,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6971e3190b:0xbf33048609ba76c1!8m2!3d20.7694371!4d72.9732938!16s%2Fg%2F11cly7pmm8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mangalmurti-dental-clinic-and-implant-centre-bilimora",
@@ -3943,7 +3910,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mangalmurti+Dental+Clinic+%26+Implant+Centre/@20.7665902,72.9813348,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef86b0062411:0xa2312359093675c7!8m2!3d20.7665902!4d72.9813348!16s%2Fg%2F11fl9bd32j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalmurti+Dental+Clinic+%26+Implant+Centre/@20.7665902,72.9813348,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef86b0062411:0xa2312359093675c7!8m2!3d20.7665902!4d72.9813348!16s%2Fg%2F11fl9bd32j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4009,11 +3976,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mangalmurti+Dental+Clinic+%26+Implant+Centre/@20.7665902,72.9813348,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef86b0062411:0xa2312359093675c7!8m2!3d20.7665902!4d72.9813348!16s%2Fg%2F11fl9bd32j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manvant-dental-clinic-bilimora",
@@ -4061,7 +4027,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manvant+Dental+Clinic/@20.7672995,72.9716891,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee684ce8e5eb:0x4c17d02295ea49a7!8m2!3d20.7672995!4d72.9716891!16s%2Fg%2F1262k2p3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manvant+Dental+Clinic/@20.7672995,72.9716891,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee684ce8e5eb:0x4c17d02295ea49a7!8m2!3d20.7672995!4d72.9716891!16s%2Fg%2F1262k2p3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4130,8 +4096,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manvant+Dental+Clinic/@20.7672995,72.9716891,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee684ce8e5eb:0x4c17d02295ea49a7!8m2!3d20.7672995!4d72.9716891!16s%2Fg%2F1262k2p3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maple-leaf-ayurveda-bilimora",
@@ -4179,7 +4144,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maple+leaf+Ayurveda/@20.770241,72.9820025,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eff5c906995f:0x89d163d1eabd449f!8m2!3d20.770241!4d72.9820025!16s%2Fg%2F11gxt5k4ws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maple+leaf+Ayurveda/@20.770241,72.9820025,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eff5c906995f:0x89d163d1eabd449f!8m2!3d20.770241!4d72.9820025!16s%2Fg%2F11gxt5k4ws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4248,8 +4213,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maple+leaf+Ayurveda/@20.770241,72.9820025,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eff5c906995f:0x89d163d1eabd449f!8m2!3d20.770241!4d72.9820025!16s%2Fg%2F11gxt5k4ws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mengushi-general-hospital-bilimora",
@@ -4297,7 +4261,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mengushi+General+Hospital/@20.7694547,72.9621324,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee469f03ec71:0x34f5d6a2bdbcf25a!8m2!3d20.7694547!4d72.9621324!16s%2Fg%2F1hdzbx_h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mengushi+General+Hospital/@20.7694547,72.9621324,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee469f03ec71:0x34f5d6a2bdbcf25a!8m2!3d20.7694547!4d72.9621324!16s%2Fg%2F1hdzbx_h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4366,8 +4330,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mengushi+General+Hospital/@20.7694547,72.9621324,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee469f03ec71:0x34f5d6a2bdbcf25a!8m2!3d20.7694547!4d72.9621324!16s%2Fg%2F1hdzbx_h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-navsari-bilimora",
@@ -4417,7 +4380,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Navsari/@20.7674101,72.9746201,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef58cd8b96d5:0x83676ed7ea23ed4d!8m2!3d20.7674101!4d72.9746201!16s%2Fg%2F11l1fqt0kc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Navsari/@20.7674101,72.9746201,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef58cd8b96d5:0x83676ed7ea23ed4d!8m2!3d20.7674101!4d72.9746201!16s%2Fg%2F11l1fqt0kc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4483,11 +4446,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Navsari/@20.7674101,72.9746201,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef58cd8b96d5:0x83676ed7ea23ed4d!8m2!3d20.7674101!4d72.9746201!16s%2Fg%2F11l1fqt0kc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "my-dental-clinic-bilimora",
@@ -4535,7 +4497,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/My+Dental+Clinic/@20.7691542,72.963182,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee441b8473f5:0xb54b56445999502a!8m2!3d20.7691542!4d72.963182!16s%2Fg%2F1ptwpn_0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+Dental+Clinic/@20.7691542,72.963182,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee441b8473f5:0xb54b56445999502a!8m2!3d20.7691542!4d72.963182!16s%2Fg%2F1ptwpn_0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4601,11 +4563,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/My+Dental+Clinic/@20.7691542,72.963182,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee441b8473f5:0xb54b56445999502a!8m2!3d20.7691542!4d72.963182!16s%2Fg%2F1ptwpn_0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nandita-piles-care-bilimora",
@@ -4651,7 +4612,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nandita+piles+care/@20.7742711,72.9722161,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef906b7bfce9:0xcd65c951a42d9104!8m2!3d20.7742711!4d72.9722161!16s%2Fg%2F11vsd5b_kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nandita+piles+care/@20.7742711,72.9722161,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef906b7bfce9:0xcd65c951a42d9104!8m2!3d20.7742711!4d72.9722161!16s%2Fg%2F11vsd5b_kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4717,11 +4678,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nandita+piles+care/@20.7742711,72.9722161,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef906b7bfce9:0xcd65c951a42d9104!8m2!3d20.7742711!4d72.9722161!16s%2Fg%2F11vsd5b_kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navdeep-hospital-bilimora",
@@ -4769,7 +4729,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navdeep+hospital/@20.7719091,72.9729827,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efdbe3e3a42b:0xe80c8f684df03ba8!8m2!3d20.7719091!4d72.9729827!16s%2Fg%2F11j53cq05d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navdeep+hospital/@20.7719091,72.9729827,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efdbe3e3a42b:0xe80c8f684df03ba8!8m2!3d20.7719091!4d72.9729827!16s%2Fg%2F11j53cq05d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4835,11 +4795,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navdeep+hospital/@20.7719091,72.9729827,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efdbe3e3a42b:0xe80c8f684df03ba8!8m2!3d20.7719091!4d72.9729827!16s%2Fg%2F11j53cq05d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "olive-hospital-bilimora",
@@ -4887,7 +4846,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Olive+Hospital/@20.7632281,73.0191726,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ed1355bf99d3:0x1e041689ec36ee3!8m2!3d20.7632281!4d73.0191726!16s%2Fg%2F11p5qh81w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Olive+Hospital/@20.7632281,73.0191726,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ed1355bf99d3:0x1e041689ec36ee3!8m2!3d20.7632281!4d73.0191726!16s%2Fg%2F11p5qh81w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4956,8 +4915,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Olive+Hospital/@20.7632281,73.0191726,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ed1355bf99d3:0x1e041689ec36ee3!8m2!3d20.7632281!4d73.0191726!16s%2Fg%2F11p5qh81w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-sai-physiotherapy-clinic-bilimora-bilimora",
@@ -5006,7 +4964,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Om+Sai+Physiotherapy+Clinic+-+Bilimora/@20.771059,72.9625733,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef38f865a1fd:0x510a8e44905a6db1!8m2!3d20.771059!4d72.9625733!16s%2Fg%2F11jsg8xc92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Sai+Physiotherapy+Clinic+-+Bilimora/@20.771059,72.9625733,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef38f865a1fd:0x510a8e44905a6db1!8m2!3d20.771059!4d72.9625733!16s%2Fg%2F11jsg8xc92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5075,8 +5033,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Om+Sai+Physiotherapy+Clinic+-+Bilimora/@20.771059,72.9625733,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef38f865a1fd:0x510a8e44905a6db1!8m2!3d20.771059!4d72.9625733!16s%2Fg%2F11jsg8xc92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orthocare-centre-bilimora",
@@ -5126,7 +5083,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Orthocare+Centre/@20.7699102,72.9821261,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0effd1d750bdb:0xad6bfa303ed27273!8m2!3d20.7699102!4d72.9821261!16s%2Fg%2F11scyns4vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orthocare+Centre/@20.7699102,72.9821261,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0effd1d750bdb:0xad6bfa303ed27273!8m2!3d20.7699102!4d72.9821261!16s%2Fg%2F11scyns4vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5192,11 +5149,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Orthocare+Centre/@20.7699102,72.9821261,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0effd1d750bdb:0xad6bfa303ed27273!8m2!3d20.7699102!4d72.9821261!16s%2Fg%2F11scyns4vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "panchal-hospital-prosthetic-and-orthotic-centre-bilimora",
@@ -5245,7 +5201,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Panchal+Hospital.+Prosthetic+%26+Orthotic+Centre/@20.7681298,72.9706558,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69c5bac211:0x148a7a92c4480d58!8m2!3d20.7681298!4d72.9706558!16s%2Fg%2F1tgtcz11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Panchal+Hospital.+Prosthetic+%26+Orthotic+Centre/@20.7681298,72.9706558,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69c5bac211:0x148a7a92c4480d58!8m2!3d20.7681298!4d72.9706558!16s%2Fg%2F1tgtcz11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5314,8 +5270,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Panchal+Hospital.+Prosthetic+%26+Orthotic+Centre/@20.7681298,72.9706558,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69c5bac211:0x148a7a92c4480d58!8m2!3d20.7681298!4d72.9706558!16s%2Fg%2F1tgtcz11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parshwa-plastics-bilimora",
@@ -5365,7 +5320,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PARSHWA+PLASTICS/@20.7737581,72.9722564,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6aef0c7b57:0xf5627a6ffd93165c!8m2!3d20.7737581!4d72.9722564!16s%2Fg%2F11b6_tc2vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PARSHWA+PLASTICS/@20.7737581,72.9722564,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6aef0c7b57:0xf5627a6ffd93165c!8m2!3d20.7737581!4d72.9722564!16s%2Fg%2F11b6_tc2vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5431,11 +5386,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PARSHWA+PLASTICS/@20.7737581,72.9722564,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6aef0c7b57:0xf5627a6ffd93165c!8m2!3d20.7737581!4d72.9722564!16s%2Fg%2F11b6_tc2vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "purohit-clinic-bilimora",
@@ -5483,7 +5437,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PUROHIT+CLINIC/@20.7779211,72.9769488,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee1341b94cd9:0xb0ab64cab231aa1b!8m2!3d20.7779211!4d72.9769488!16s%2Fg%2F11c1zlknq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PUROHIT+CLINIC/@20.7779211,72.9769488,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee1341b94cd9:0xb0ab64cab231aa1b!8m2!3d20.7779211!4d72.9769488!16s%2Fg%2F11c1zlknq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5552,8 +5506,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PUROHIT+CLINIC/@20.7779211,72.9769488,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee1341b94cd9:0xb0ab64cab231aa1b!8m2!3d20.7779211!4d72.9769488!16s%2Fg%2F11c1zlknq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "reborn-skin-care-bilimora",
@@ -5601,7 +5554,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Reborn+Skin+Care/@20.7673256,72.9568231,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eff4cff4c8ad:0x7144c45b67c931a2!8m2!3d20.7673256!4d72.9568231!16s%2Fg%2F11rb9k4_8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Reborn+Skin+Care/@20.7673256,72.9568231,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eff4cff4c8ad:0x7144c45b67c931a2!8m2!3d20.7673256!4d72.9568231!16s%2Fg%2F11rb9k4_8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5670,8 +5623,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Reborn+Skin+Care/@20.7673256,72.9568231,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eff4cff4c8ad:0x7144c45b67c931a2!8m2!3d20.7673256!4d72.9568231!16s%2Fg%2F11rb9k4_8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rhushiki-ayurveda-clinic-bilimora",
@@ -5719,7 +5671,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rhushiki+Ayurveda+clinic/@20.7632582,72.9727733,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef0aca5b93bf:0x64767e863d7e946!8m2!3d20.7632582!4d72.9727733!16s%2Fg%2F11mdpchn50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rhushiki+Ayurveda+clinic/@20.7632582,72.9727733,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef0aca5b93bf:0x64767e863d7e946!8m2!3d20.7632582!4d72.9727733!16s%2Fg%2F11mdpchn50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5785,11 +5737,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rhushiki+Ayurveda+clinic/@20.7632582,72.9727733,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef0aca5b93bf:0x64767e863d7e946!8m2!3d20.7632582!4d72.9727733!16s%2Fg%2F11mdpchn50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samved-hospital-bilimora",
@@ -5837,7 +5788,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samved+Hospital/@20.7668401,72.973193,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68f9863b5b:0x50a79bdd9345c169!8m2!3d20.7668401!4d72.973193!16s%2Fg%2F11byts1xfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samved+Hospital/@20.7668401,72.973193,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68f9863b5b:0x50a79bdd9345c169!8m2!3d20.7668401!4d72.973193!16s%2Fg%2F11byts1xfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5906,8 +5857,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samved+Hospital/@20.7668401,72.973193,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68f9863b5b:0x50a79bdd9345c169!8m2!3d20.7668401!4d72.973193!16s%2Fg%2F11byts1xfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samvedana-hospital-navsari",
@@ -5955,7 +5905,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samvedana+Hospital/@20.9496047,72.9286612,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7f89b205a9f:0x607c21b375ed5eb8!8m2!3d20.9496047!4d72.9286612!16s%2Fg%2F11h5vdfnfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samvedana+Hospital/@20.9496047,72.9286612,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7f89b205a9f:0x607c21b375ed5eb8!8m2!3d20.9496047!4d72.9286612!16s%2Fg%2F11h5vdfnfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6024,8 +5974,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samvedana+Hospital/@20.9496047,72.9286612,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7f89b205a9f:0x607c21b375ed5eb8!8m2!3d20.9496047!4d72.9286612!16s%2Fg%2F11h5vdfnfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjivni-clinic-bilimora",
@@ -6071,7 +6020,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjivni+Clinic/@20.772793,72.9603199,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efd2f22ff663:0xa7beca6336807228!8m2!3d20.772793!4d72.9603199!16s%2Fg%2F11n0g2x3kb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjivni+Clinic/@20.772793,72.9603199,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efd2f22ff663:0xa7beca6336807228!8m2!3d20.772793!4d72.9603199!16s%2Fg%2F11n0g2x3kb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6137,11 +6086,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjivni+Clinic/@20.772793,72.9603199,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efd2f22ff663:0xa7beca6336807228!8m2!3d20.772793!4d72.9603199!16s%2Fg%2F11n0g2x3kb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sankalp-children-hospital-bilimora",
@@ -6191,7 +6139,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sankalp+Children+Hospital/@20.7670775,72.9747907,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef457a4afc85:0x25705a6dff1bab32!8m2!3d20.7670775!4d72.9747907!16s%2Fg%2F11tby_tlxb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sankalp+Children+Hospital/@20.7670775,72.9747907,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef457a4afc85:0x25705a6dff1bab32!8m2!3d20.7670775!4d72.9747907!16s%2Fg%2F11tby_tlxb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6257,11 +6205,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sankalp+Children+Hospital/@20.7670775,72.9747907,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef457a4afc85:0x25705a6dff1bab32!8m2!3d20.7670775!4d72.9747907!16s%2Fg%2F11tby_tlxb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarang-hospital-bilimora",
@@ -6310,7 +6257,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarang+Hospital/@20.7680825,72.9710393,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69c7dc7159:0x2311cdd355ce57e8!8m2!3d20.7680825!4d72.9710393!16s%2Fg%2F11ckthh92v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarang+Hospital/@20.7680825,72.9710393,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69c7dc7159:0x2311cdd355ce57e8!8m2!3d20.7680825!4d72.9710393!16s%2Fg%2F11ckthh92v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6376,11 +6323,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarang+Hospital/@20.7680825,72.9710393,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee69c7dc7159:0x2311cdd355ce57e8!8m2!3d20.7680825!4d72.9710393!16s%2Fg%2F11ckthh92v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarvajanik-clinic-and-h-k-panchkarma-bilimora",
@@ -6428,7 +6374,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarvajanik+Clinic+and+H.K+Panchkarma/@20.7696524,73.015542,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eda4445b7721:0xd3d8528fa4be0d51!8m2!3d20.7696524!4d73.015542!16s%2Fg%2F11scfg4k2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarvajanik+Clinic+and+H.K+Panchkarma/@20.7696524,73.015542,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eda4445b7721:0xd3d8528fa4be0d51!8m2!3d20.7696524!4d73.015542!16s%2Fg%2F11scfg4k2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6494,11 +6440,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarvajanik+Clinic+and+H.K+Panchkarma/@20.7696524,73.015542,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eda4445b7721:0xd3d8528fa4be0d51!8m2!3d20.7696524!4d73.015542!16s%2Fg%2F11scfg4k2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shravan-ent-care-bilimora",
@@ -6547,7 +6492,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shravan+ENT+Care/@20.7669448,72.9708689,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef0bf18c0f85:0x9119971f597cb1d1!8m2!3d20.7669448!4d72.9708689!16s%2Fg%2F11svn_kdh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shravan+ENT+Care/@20.7669448,72.9708689,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef0bf18c0f85:0x9119971f597cb1d1!8m2!3d20.7669448!4d72.9708689!16s%2Fg%2F11svn_kdh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6616,8 +6561,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shravan+ENT+Care/@20.7669448,72.9708689,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef0bf18c0f85:0x9119971f597cb1d1!8m2!3d20.7669448!4d72.9708689!16s%2Fg%2F11svn_kdh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-care-dental-clinic-bilimora",
@@ -6665,7 +6609,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMILE+CARE+DENTAL+CLINIC/@20.764777,72.9941149,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee78737cb8d7:0x9f0054ef82f76b0f!8m2!3d20.764777!4d72.9941149!16s%2Fg%2F11bycm43c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+CARE+DENTAL+CLINIC/@20.764777,72.9941149,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee78737cb8d7:0x9f0054ef82f76b0f!8m2!3d20.764777!4d72.9941149!16s%2Fg%2F11bycm43c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6734,8 +6678,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMILE+CARE+DENTAL+CLINIC/@20.764777,72.9941149,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee78737cb8d7:0x9f0054ef82f76b0f!8m2!3d20.764777!4d72.9941149!16s%2Fg%2F11bycm43c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "snehal-hospital-gauhar-baig-bilimora-bilimora",
@@ -6783,7 +6726,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Snehal+Hospital:Gauhar+Baig:Bilimora./@20.766981,72.9768542,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6f3c4d1cab:0x13387c0fd6e11843!8m2!3d20.766981!4d72.9768542!16s%2Fg%2F1v1vbnlh?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Snehal+Hospital:Gauhar+Baig:Bilimora./@20.766981,72.9768542,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6f3c4d1cab:0x13387c0fd6e11843!8m2!3d20.766981!4d72.9768542!16s%2Fg%2F1v1vbnlh?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6852,8 +6795,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Snehal+Hospital:Gauhar+Baig:Bilimora./@20.766981,72.9768542,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6f3c4d1cab:0x13387c0fd6e11843!8m2!3d20.766981!4d72.9768542!16s%2Fg%2F1v1vbnlh?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "soham-dental-clinic-bilimora",
@@ -6901,7 +6843,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Soham+Dental+Clinic/@20.7668354,72.9685689,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef1a597d1283:0xb8d89f0565c0080d!8m2!3d20.7668354!4d72.9685689!16s%2Fg%2F11g3h5b_8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soham+Dental+Clinic/@20.7668354,72.9685689,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef1a597d1283:0xb8d89f0565c0080d!8m2!3d20.7668354!4d72.9685689!16s%2Fg%2F11g3h5b_8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6967,11 +6909,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Soham+Dental+Clinic/@20.7668354,72.9685689,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef1a597d1283:0xb8d89f0565c0080d!8m2!3d20.7668354!4d72.9685689!16s%2Fg%2F11g3h5b_8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "somnath-hospital-bilimora",
@@ -7020,7 +6961,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Somnath+Hospital/@20.7670477,72.976362,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef001045ab71:0xb6851de551d2c0ed!8m2!3d20.7670477!4d72.976362!16s%2Fg%2F11zb42fyj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Somnath+Hospital/@20.7670477,72.976362,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef001045ab71:0xb6851de551d2c0ed!8m2!3d20.7670477!4d72.976362!16s%2Fg%2F11zb42fyj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7089,8 +7030,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Somnath+Hospital/@20.7670477,72.976362,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ef001045ab71:0xb6851de551d2c0ed!8m2!3d20.7670477!4d72.976362!16s%2Fg%2F11zb42fyj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sparsh-children-hospital-bilimora",
@@ -7139,7 +7079,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sparsh+Children+Hospital/@20.7655507,72.9728848,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee698c18eab3:0x1ba3fe0fb86c3b8!8m2!3d20.7655507!4d72.9728848!16s%2Fg%2F11c6mkfjn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+Children+Hospital/@20.7655507,72.9728848,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee698c18eab3:0x1ba3fe0fb86c3b8!8m2!3d20.7655507!4d72.9728848!16s%2Fg%2F11c6mkfjn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7208,8 +7148,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sparsh+Children+Hospital/@20.7655507,72.9728848,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee698c18eab3:0x1ba3fe0fb86c3b8!8m2!3d20.7655507!4d72.9728848!16s%2Fg%2F11c6mkfjn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sun-eye-hospital-bilimora",
@@ -7257,7 +7196,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sun+Eye+Hospital/@20.7637913,72.9769876,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68649cde09:0xe0652d393401fd3e!8m2!3d20.7637913!4d72.9769876!16s%2Fg%2F11f3zj2cfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sun+Eye+Hospital/@20.7637913,72.9769876,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68649cde09:0xe0652d393401fd3e!8m2!3d20.7637913!4d72.9769876!16s%2Fg%2F11f3zj2cfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7326,8 +7265,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sun+Eye+Hospital/@20.7637913,72.9769876,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee68649cde09:0xe0652d393401fd3e!8m2!3d20.7637913!4d72.9769876!16s%2Fg%2F11f3zj2cfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-smile-canvas-bilimora",
@@ -7373,7 +7311,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Smile+Canvas/@20.7671235,72.9741602,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efdc7a658e0b:0x6e37d1c12a7704f7!8m2!3d20.7671235!4d72.9741602!16s%2Fg%2F11yxzzjpcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Smile+Canvas/@20.7671235,72.9741602,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efdc7a658e0b:0x6e37d1c12a7704f7!8m2!3d20.7671235!4d72.9741602!16s%2Fg%2F11yxzzjpcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7439,11 +7377,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Smile+Canvas/@20.7671235,72.9741602,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efdc7a658e0b:0x6e37d1c12a7704f7!8m2!3d20.7671235!4d72.9741602!16s%2Fg%2F11yxzzjpcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "urban-health-centre-bilimora-bilimora",
@@ -7492,7 +7429,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Urban+Health+Centre+-+Bilimora/@20.7635569,72.9682463,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0effeaab62e55:0xc08f0e2c028c0d76!8m2!3d20.7635569!4d72.9682463!16s%2Fg%2F11q268ypb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Urban+Health+Centre+-+Bilimora/@20.7635569,72.9682463,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0effeaab62e55:0xc08f0e2c028c0d76!8m2!3d20.7635569!4d72.9682463!16s%2Fg%2F11q268ypb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7561,8 +7498,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Urban+Health+Centre+-+Bilimora/@20.7635569,72.9682463,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0effeaab62e55:0xc08f0e2c028c0d76!8m2!3d20.7635569!4d72.9682463!16s%2Fg%2F11q268ypb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "urmi-skin-care-and-general-hospital-and-hair-transplant-center-chikhli",
@@ -7610,7 +7546,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/URMI+skin+care+%26+General+hospital+%26+hair+transplant+center/@20.7578479,73.055495,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eda305fbe1a7:0x6abcc1ca31a633a9!8m2!3d20.7578479!4d73.055495!16s%2Fg%2F11qx94vkc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/URMI+skin+care+%26+General+hospital+%26+hair+transplant+center/@20.7578479,73.055495,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eda305fbe1a7:0x6abcc1ca31a633a9!8m2!3d20.7578479!4d73.055495!16s%2Fg%2F11qx94vkc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7679,8 +7615,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/URMI+skin+care+%26+General+hospital+%26+hair+transplant+center/@20.7578479,73.055495,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0eda305fbe1a7:0x6abcc1ca31a633a9!8m2!3d20.7578479!4d73.055495!16s%2Fg%2F11qx94vkc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "usha-oral-care-dental-clinic-bilimora",
@@ -7728,7 +7663,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Usha+Oral+Care+Dental+Clinic/@20.7709797,72.9634231,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee4135782501:0xc0ba59854ddca781!8m2!3d20.7709797!4d72.9634231!16s%2Fg%2F11b6j_bfkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Usha+Oral+Care+Dental+Clinic/@20.7709797,72.9634231,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee4135782501:0xc0ba59854ddca781!8m2!3d20.7709797!4d72.9634231!16s%2Fg%2F11b6j_bfkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7794,11 +7729,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Usha+Oral+Care+Dental+Clinic/@20.7709797,72.9634231,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee4135782501:0xc0ba59854ddca781!8m2!3d20.7709797!4d72.9634231!16s%2Fg%2F11b6j_bfkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vedant-dental-clinic-bilimora",
@@ -7847,7 +7781,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VEDANT+DENTAL+CLINIC/@20.7699853,72.9698704,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efb04c27f25b:0x5cd77298982aa71d!8m2!3d20.7699853!4d72.9698704!16s%2Fg%2F11lrsf1dv1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VEDANT+DENTAL+CLINIC/@20.7699853,72.9698704,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efb04c27f25b:0x5cd77298982aa71d!8m2!3d20.7699853!4d72.9698704!16s%2Fg%2F11lrsf1dv1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7916,8 +7850,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VEDANT+DENTAL+CLINIC/@20.7699853,72.9698704,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efb04c27f25b:0x5cd77298982aa71d!8m2!3d20.7699853!4d72.9698704!16s%2Fg%2F11lrsf1dv1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijaybhai-patawada-bilimora",
@@ -7965,7 +7898,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vijaybhai+Patawada/@20.7725481,72.9846216,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efc90c681b71:0xa615797f4d9e67b2!8m2!3d20.7725481!4d72.9846216!16s%2Fg%2F11rgr081l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaybhai+Patawada/@20.7725481,72.9846216,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efc90c681b71:0xa615797f4d9e67b2!8m2!3d20.7725481!4d72.9846216!16s%2Fg%2F11rgr081l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8031,11 +7964,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vijaybhai+Patawada/@20.7725481,72.9846216,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efc90c681b71:0xa615797f4d9e67b2!8m2!3d20.7725481!4d72.9846216!16s%2Fg%2F11rgr081l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vivek-nursing-home-bilimora",
@@ -8081,7 +8013,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vivek+Nursing+Home/@20.7670564,72.9714824,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee684bf0149d:0x4b84360644251044!8m2!3d20.7670564!4d72.9714824!16s%2Fg%2F11c53cx8n5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vivek+Nursing+Home/@20.7670564,72.9714824,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee684bf0149d:0x4b84360644251044!8m2!3d20.7670564!4d72.9714824!16s%2Fg%2F11c53cx8n5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8147,11 +8079,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vivek+Nursing+Home/@20.7670564,72.9714824,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee684bf0149d:0x4b84360644251044!8m2!3d20.7670564!4d72.9714824!16s%2Fg%2F11c53cx8n5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yogesh-tandel-bilimora",
@@ -8197,7 +8128,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yogesh+Tandel/@20.7690264,72.9777738,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6eee1b8aed:0x14f8f52a914a3a9c!8m2!3d20.7690264!4d72.9777738!16s%2Fg%2F11c5fyh9gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yogesh+Tandel/@20.7690264,72.9777738,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6eee1b8aed:0x14f8f52a914a3a9c!8m2!3d20.7690264!4d72.9777738!16s%2Fg%2F11c5fyh9gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8263,11 +8194,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yogesh+Tandel/@20.7690264,72.9777738,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee6eee1b8aed:0x14f8f52a914a3a9c!8m2!3d20.7690264!4d72.9777738!16s%2Fg%2F11c5fyh9gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bilimora",
@@ -8313,7 +8243,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%AA%B0%E0%AA%BE%E0%AA%B9%E0%AA%A4+%E0%AA%B9%E0%AB%87%E0%AA%B2%E0%AB%8D%E0%AA%A5+%E0%AA%B8%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B0/@20.7684429,72.964625,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee43eddec317:0x718490b65110f83b!8m2!3d20.7684429!4d72.964625!16s%2Fg%2F11kbbs5wjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%AA%B0%E0%AA%BE%E0%AA%B9%E0%AA%A4+%E0%AA%B9%E0%AB%87%E0%AA%B2%E0%AB%8D%E0%AA%A5+%E0%AA%B8%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B0/@20.7684429,72.964625,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee43eddec317:0x718490b65110f83b!8m2!3d20.7684429!4d72.964625!16s%2Fg%2F11kbbs5wjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8379,11 +8309,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%AA%B0%E0%AA%BE%E0%AA%B9%E0%AA%A4+%E0%AA%B9%E0%AB%87%E0%AA%B2%E0%AB%8D%E0%AA%A5+%E0%AA%B8%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B0/@20.7684429,72.964625,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0ee43eddec317:0x718490b65110f83b!8m2!3d20.7684429!4d72.964625!16s%2Fg%2F11kbbs5wjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bilimora",
@@ -8431,7 +8360,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%AA%B6%E0%AA%BE%E0%AA%82%E0%AA%A4%E0%AB%87%E0%AA%B6%E0%AB%8D%E0%AA%B5%E0%AA%B0+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@20.7670559,72.9676059,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efc39180715b:0xf1b83cbaa766bc10!8m2!3d20.7670559!4d72.9676059!16s%2Fg%2F11vj7r0c5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%AA%B6%E0%AA%BE%E0%AA%82%E0%AA%A4%E0%AB%87%E0%AA%B6%E0%AB%8D%E0%AA%B5%E0%AA%B0+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@20.7670559,72.9676059,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efc39180715b:0xf1b83cbaa766bc10!8m2!3d20.7670559!4d72.9676059!16s%2Fg%2F11vj7r0c5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8497,10 +8426,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%AA%B6%E0%AA%BE%E0%AA%82%E0%AA%A4%E0%AB%87%E0%AA%B6%E0%AB%8D%E0%AA%B5%E0%AA%B0+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@20.7670559,72.9676059,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0efc39180715b:0xf1b83cbaa766bc10!8m2!3d20.7670559!4d72.9676059!16s%2Fg%2F11vj7r0c5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

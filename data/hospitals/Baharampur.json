@@ -46,7 +46,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AAHIL+HOSPITEX/data=!4m7!3m6!1s0x39f97dbb54de8745:0x30e13261b4cf2218!8m2!3d24.1042074!4d88.2752239!16s%2Fg%2F11b7jt_4cy!19sChIJRYfeVLt9-TkRGCLPtGEy4TA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AAHIL+HOSPITEX/data=!4m7!3m6!1s0x39f97dbb54de8745:0x30e13261b4cf2218!8m2!3d24.1042074!4d88.2752239!16s%2Fg%2F11b7jt_4cy!19sChIJRYfeVLt9-TkRGCLPtGEy4TA?authuser=0&hl=en&rclk=1"
@@ -115,8 +115,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AAHIL+HOSPITEX/data=!4m7!3m6!1s0x39f97dbb54de8745:0x30e13261b4cf2218!8m2!3d24.1042074!4d88.2752239!16s%2Fg%2F11b7jt_4cy!19sChIJRYfeVLt9-TkRGCLPtGEy4TA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advance-health-care-berhampore",
@@ -165,7 +164,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ADVANCE+HEALTH+CARE/data=!4m7!3m6!1s0x7398b48aa5115cd:0x78f6d7d9e4df859a!8m2!3d24.1012973!4d88.2545251!16s%2Fg%2F11yqk4vfd8!19sChIJzRVRqkiLOQcRmoXf5NnX9ng?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADVANCE+HEALTH+CARE/data=!4m7!3m6!1s0x7398b48aa5115cd:0x78f6d7d9e4df859a!8m2!3d24.1012973!4d88.2545251!16s%2Fg%2F11yqk4vfd8!19sChIJzRVRqkiLOQcRmoXf5NnX9ng?authuser=0&hl=en&rclk=1"
@@ -234,8 +233,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ADVANCE+HEALTH+CARE/data=!4m7!3m6!1s0x7398b48aa5115cd:0x78f6d7d9e4df859a!8m2!3d24.1012973!4d88.2545251!16s%2Fg%2F11yqk4vfd8!19sChIJzRVRqkiLOQcRmoXf5NnX9ng?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ahir-dental-clinic-berhampore",
@@ -283,7 +281,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ahir+dental+clinic/data=!4m7!3m6!1s0x39f97dc32621bee7:0xfb7de0c6e1271bee!8m2!3d24.1064617!4d88.2502764!16s%2Fg%2F11t7hdlgcd!19sChIJ574hJsN9-TkR7hsn4cbgffs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahir+dental+clinic/data=!4m7!3m6!1s0x39f97dc32621bee7:0xfb7de0c6e1271bee!8m2!3d24.1064617!4d88.2502764!16s%2Fg%2F11t7hdlgcd!19sChIJ574hJsN9-TkR7hsn4cbgffs?authuser=0&hl=en&rclk=1"
@@ -349,11 +347,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ahir+dental+clinic/data=!4m7!3m6!1s0x39f97dc32621bee7:0xfb7de0c6e1271bee!8m2!3d24.1064617!4d88.2502764!16s%2Fg%2F11t7hdlgcd!19sChIJ574hJsN9-TkR7hsn4cbgffs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-24-7-lab-tests-near-me-khagra-home-collection-berhampore-berhampore",
@@ -403,7 +400,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Tests+Near+Me+%7C+Khagra+%7C+Home+Collection+%7C+Berhampore/data=!4m7!3m6!1s0x39f97d524b2c7749:0x27ffa32ab44f4245!8m2!3d24.1096544!4d88.2493084!16s%2Fg%2F11w3l74dd8!19sChIJSXcsS1J9-TkRRUJPtCqj_yc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Tests+Near+Me+%7C+Khagra+%7C+Home+Collection+%7C+Berhampore/data=!4m7!3m6!1s0x39f97d524b2c7749:0x27ffa32ab44f4245!8m2!3d24.1096544!4d88.2493084!16s%2Fg%2F11w3l74dd8!19sChIJSXcsS1J9-TkRRUJPtCqj_yc?authuser=0&hl=en&rclk=1"
@@ -469,11 +466,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Tests+Near+Me+%7C+Khagra+%7C+Home+Collection+%7C+Berhampore/data=!4m7!3m6!1s0x39f97d524b2c7749:0x27ffa32ab44f4245!8m2!3d24.1096544!4d88.2493084!16s%2Fg%2F11w3l74dd8!19sChIJSXcsS1J9-TkRRUJPtCqj_yc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-diagnostics-blood-tests-home-collection-and-full-body-checkups-murshidabad-berhampore",
@@ -523,7 +519,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Diagnostics+-+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups+Murshidabad/data=!4m7!3m6!1s0x39f97d4c70945e21:0x3fd2e923cc8ba41f!8m2!3d24.0865297!4d88.2512573!16s%2Fg%2F11vlf6m3j8!19sChIJIV6UcEx9-TkRH6SLzCPp0j8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Diagnostics+-+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups+Murshidabad/data=!4m7!3m6!1s0x39f97d4c70945e21:0x3fd2e923cc8ba41f!8m2!3d24.0865297!4d88.2512573!16s%2Fg%2F11vlf6m3j8!19sChIJIV6UcEx9-TkRH6SLzCPp0j8?authuser=0&hl=en&rclk=1"
@@ -592,8 +588,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Diagnostics+-+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups+Murshidabad/data=!4m7!3m6!1s0x39f97d4c70945e21:0x3fd2e923cc8ba41f!8m2!3d24.0865297!4d88.2512573!16s%2Fg%2F11vlf6m3j8!19sChIJIV6UcEx9-TkRH6SLzCPp0j8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospitals-chennai-information-centre-berhampore-gora-bazar",
@@ -643,7 +638,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+Chennai+Information+Centre+Berhampore/data=!4m7!3m6!1s0x39f97d9eccd804eb:0x5ef84355a619206f!8m2!3d24.086691!4d88.247091!16s%2Fg%2F11wc5prmgh!19sChIJ6wTYzJ59-TkRbyAZplVD-F4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospitals+Chennai+Information+Centre+Berhampore/data=!4m7!3m6!1s0x39f97d9eccd804eb:0x5ef84355a619206f!8m2!3d24.086691!4d88.247091!16s%2Fg%2F11wc5prmgh!19sChIJ6wTYzJ59-TkRbyAZplVD-F4?authuser=0&hl=en&rclk=1"
@@ -712,8 +707,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospitals+Chennai+Information+Centre+Berhampore/data=!4m7!3m6!1s0x39f97d9eccd804eb:0x5ef84355a619206f!8m2!3d24.086691!4d88.247091!16s%2Fg%2F11wc5prmgh!19sChIJ6wTYzJ59-TkRbyAZplVD-F4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "auditone-speech-and-hearing-clinic-in-berhampore-berhampore",
@@ -764,7 +758,7 @@
       "66+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Auditone+%7C+Speech+%26+Hearing+Clinic+in+Berhampore/data=!4m7!3m6!1s0x39f97dba25d5551b:0x75c1659bf3b67fcd!8m2!3d24.0876987!4d88.2589971!16s%2Fg%2F11j2lxwh8w!19sChIJG1XVJbp9-TkRzX-285tlwXU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Auditone+%7C+Speech+%26+Hearing+Clinic+in+Berhampore/data=!4m7!3m6!1s0x39f97dba25d5551b:0x75c1659bf3b67fcd!8m2!3d24.0876987!4d88.2589971!16s%2Fg%2F11j2lxwh8w!19sChIJG1XVJbp9-TkRzX-285tlwXU?authuser=0&hl=en&rclk=1"
@@ -833,8 +827,7 @@
     "rating": 4.9,
     "reviews": 66,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Auditone+%7C+Speech+%26+Hearing+Clinic+in+Berhampore/data=!4m7!3m6!1s0x39f97dba25d5551b:0x75c1659bf3b67fcd!8m2!3d24.0876987!4d88.2589971!16s%2Fg%2F11j2lxwh8w!19sChIJG1XVJbp9-TkRzX-285tlwXU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bangiya-chikitsalay-berhampore",
@@ -883,7 +876,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BANGIYA+CHIKITSALAY/data=!4m7!3m6!1s0x39f97d6f5ef5337b:0x3e6d51268b498c87!8m2!3d24.0874962!4d88.2597684!16s%2Fg%2F11m7pm4q6r!19sChIJezP1Xm99-TkRh4xJiyZRbT4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BANGIYA+CHIKITSALAY/data=!4m7!3m6!1s0x39f97d6f5ef5337b:0x3e6d51268b498c87!8m2!3d24.0874962!4d88.2597684!16s%2Fg%2F11m7pm4q6r!19sChIJezP1Xm99-TkRh4xJiyZRbT4?authuser=0&hl=en&rclk=1"
@@ -952,8 +945,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BANGIYA+CHIKITSALAY/data=!4m7!3m6!1s0x39f97d6f5ef5337b:0x3e6d51268b498c87!8m2!3d24.0874962!4d88.2597684!16s%2Fg%2F11m7pm4q6r!19sChIJezP1Xm99-TkRh4xJiyZRbT4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "beacon-hospital-and-research-centre-private-limited-berhampore",
@@ -1001,7 +993,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BEACON+HOSPITAL+%26+RESEARCH+CENTRE+PRIVATE+LIMITED/data=!4m7!3m6!1s0x39f97dc25add809f:0xe909e76cb6c1c32!8m2!3d24.0926345!4d88.2645265!16s%2Fg%2F11jkzl34vz!19sChIJn4DdWsJ9-TkRMhxsy3aekA4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BEACON+HOSPITAL+%26+RESEARCH+CENTRE+PRIVATE+LIMITED/data=!4m7!3m6!1s0x39f97dc25add809f:0xe909e76cb6c1c32!8m2!3d24.0926345!4d88.2645265!16s%2Fg%2F11jkzl34vz!19sChIJn4DdWsJ9-TkRMhxsy3aekA4?authuser=0&hl=en&rclk=1"
@@ -1070,8 +1062,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BEACON+HOSPITAL+%26+RESEARCH+CENTRE+PRIVATE+LIMITED/data=!4m7!3m6!1s0x39f97dc25add809f:0xe909e76cb6c1c32!8m2!3d24.0926345!4d88.2645265!16s%2Fg%2F11jkzl34vz!19sChIJn4DdWsJ9-TkRMhxsy3aekA4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bengal-gastroliv-care-llp-berhampore",
@@ -1121,7 +1112,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bengal+GastroLiv+Care+LLP+%E0%A6%AC%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%B2+%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%AD+%E0%A6%95%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0/data=!4m7!3m6!1s0x39f97d0059540eaf:0x6af13f72d8ea9714!8m2!3d24.0773482!4d88.2589039!16s%2Fg%2F11wxhdp4_0!19sChIJrw5UWQB9-TkRFJfq2HI_8Wo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bengal+GastroLiv+Care+LLP+%E0%A6%AC%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%B2+%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%AD+%E0%A6%95%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0/data=!4m7!3m6!1s0x39f97d0059540eaf:0x6af13f72d8ea9714!8m2!3d24.0773482!4d88.2589039!16s%2Fg%2F11wxhdp4_0!19sChIJrw5UWQB9-TkRFJfq2HI_8Wo?authuser=0&hl=en&rclk=1"
@@ -1190,8 +1181,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bengal+GastroLiv+Care+LLP+%E0%A6%AC%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%B2+%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%AD+%E0%A6%95%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0/data=!4m7!3m6!1s0x39f97d0059540eaf:0x6af13f72d8ea9714!8m2!3d24.0773482!4d88.2589039!16s%2Fg%2F11wxhdp4_0!19sChIJrw5UWQB9-TkRFJfq2HI_8Wo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "berhampore-city-hospital-chaltia",
@@ -1241,7 +1231,7 @@
       "6+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Berhampore+City+Hospital/data=!4m7!3m6!1s0x39f97c2e054f3fd5:0x90e2442dbcce0c71!8m2!3d24.0796755!4d88.2551476!16s%2Fg%2F11ddxswtcx!19sChIJ1T9PBS58-TkRcQzOvC1E4pA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Berhampore+City+Hospital/data=!4m7!3m6!1s0x39f97c2e054f3fd5:0x90e2442dbcce0c71!8m2!3d24.0796755!4d88.2551476!16s%2Fg%2F11ddxswtcx!19sChIJ1T9PBS58-TkRcQzOvC1E4pA?authuser=0&hl=en&rclk=1"
@@ -1310,8 +1300,7 @@
     "rating": 3.7,
     "reviews": 6,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Berhampore+City+Hospital/data=!4m7!3m6!1s0x39f97c2e054f3fd5:0x90e2442dbcce0c71!8m2!3d24.0796755!4d88.2551476!16s%2Fg%2F11ddxswtcx!19sChIJ1T9PBS58-TkRcQzOvC1E4pA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "berhampore-ent-clinic-dr-abir-chowdhury-berhampore",
@@ -1360,7 +1349,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Berhampore+ENT+Clinic+%28Dr+Abir+Chowdhury%29/data=!4m7!3m6!1s0x39f97d9c98d70ad1:0xeda9d0f06844c18d!8m2!3d24.1027724!4d88.2534583!16s%2Fg%2F11svdn2qq_!19sChIJ0QrXmJx9-TkRjcFEaPDQqe0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Berhampore+ENT+Clinic+%28Dr+Abir+Chowdhury%29/data=!4m7!3m6!1s0x39f97d9c98d70ad1:0xeda9d0f06844c18d!8m2!3d24.1027724!4d88.2534583!16s%2Fg%2F11svdn2qq_!19sChIJ0QrXmJx9-TkRjcFEaPDQqe0?authuser=0&hl=en&rclk=1"
@@ -1426,11 +1415,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Berhampore+ENT+Clinic+%28Dr+Abir+Chowdhury%29/data=!4m7!3m6!1s0x39f97d9c98d70ad1:0xeda9d0f06844c18d!8m2!3d24.1027724!4d88.2534583!16s%2Fg%2F11svdn2qq_!19sChIJ0QrXmJx9-TkRjcFEaPDQqe0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "berhampore-health-care-berhampore",
@@ -1479,7 +1467,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Berhampore+Health+Care/data=!4m7!3m6!1s0x39f97d2d878a99a3:0xed07417d452ec593!8m2!3d24.0787398!4d88.2680442!16s%2Fg%2F11pvgc49_h!19sChIJo5mKhy19-TkRk8UuRX1BB-0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Berhampore+Health+Care/data=!4m7!3m6!1s0x39f97d2d878a99a3:0xed07417d452ec593!8m2!3d24.0787398!4d88.2680442!16s%2Fg%2F11pvgc49_h!19sChIJo5mKhy19-TkRk8UuRX1BB-0?authuser=0&hl=en&rclk=1"
@@ -1548,8 +1536,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Berhampore+Health+Care/data=!4m7!3m6!1s0x39f97d2d878a99a3:0xed07417d452ec593!8m2!3d24.0787398!4d88.2680442!16s%2Fg%2F11pvgc49_h!19sChIJo5mKhy19-TkRk8UuRX1BB-0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhagirathi-medical-center-berhampore",
@@ -1598,7 +1585,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhagirathi+Medical+Center/data=!4m7!3m6!1s0x39f97d9fefbc4011:0x72beb5ea973d14bf!8m2!3d24.0948704!4d88.2553216!16s%2Fg%2F11t5sxxqhf!19sChIJEUC87599-TkRvxQ9l-q1vnI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagirathi+Medical+Center/data=!4m7!3m6!1s0x39f97d9fefbc4011:0x72beb5ea973d14bf!8m2!3d24.0948704!4d88.2553216!16s%2Fg%2F11t5sxxqhf!19sChIJEUC87599-TkRvxQ9l-q1vnI?authuser=0&hl=en&rclk=1"
@@ -1667,8 +1654,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhagirathi+Medical+Center/data=!4m7!3m6!1s0x39f97d9fefbc4011:0x72beb5ea973d14bf!8m2!3d24.0948704!4d88.2553216!16s%2Fg%2F11t5sxxqhf!19sChIJEUC87599-TkRvxQ9l-q1vnI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "birth-fertility-clinic-kolkata",
@@ -1719,7 +1705,7 @@
       "135+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BIRTH+Fertility+Clinic/data=!4m7!3m6!1s0x3a02773da687ed73:0xfc4017809f6e24c6!8m2!3d22.5373281!4d88.3499037!16s%2Fg%2F1vm78wgt!19sChIJc-2Hpj13AjoRxiRun4AXQPw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BIRTH+Fertility+Clinic/data=!4m7!3m6!1s0x3a02773da687ed73:0xfc4017809f6e24c6!8m2!3d22.5373281!4d88.3499037!16s%2Fg%2F1vm78wgt!19sChIJc-2Hpj13AjoRxiRun4AXQPw?authuser=0&hl=en&rclk=1"
@@ -1788,8 +1774,7 @@
     "rating": 4.2,
     "reviews": 135,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BIRTH+Fertility+Clinic/data=!4m7!3m6!1s0x3a02773da687ed73:0xfc4017809f6e24c6!8m2!3d22.5373281!4d88.3499037!16s%2Fg%2F1vm78wgt!19sChIJc-2Hpj13AjoRxiRun4AXQPw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bm-birla-heart-hospital-ck-birla-hospitals-kolkata",
@@ -1840,7 +1825,7 @@
       "48+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BM+Birla+Heart+Hospital+%7C+CK+Birla+Hospitals/data=!4m7!3m6!1s0x3a027a8d5360be41:0xd3c85b2644df4490!8m2!3d22.5328893!4d88.3282827!16s%2Fg%2F1tvw3bwl!19sChIJQb5gU416AjoRkETfRCZbyNM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BM+Birla+Heart+Hospital+%7C+CK+Birla+Hospitals/data=!4m7!3m6!1s0x3a027a8d5360be41:0xd3c85b2644df4490!8m2!3d22.5328893!4d88.3282827!16s%2Fg%2F1tvw3bwl!19sChIJQb5gU416AjoRkETfRCZbyNM?authuser=0&hl=en&rclk=1"
@@ -1909,8 +1894,7 @@
     "rating": 4.8,
     "reviews": 48,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BM+Birla+Heart+Hospital+%7C+CK+Birla+Hospitals/data=!4m7!3m6!1s0x3a027a8d5360be41:0xd3c85b2644df4490!8m2!3d22.5328893!4d88.3282827!16s%2Fg%2F1tvw3bwl!19sChIJQb5gU416AjoRkETfRCZbyNM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "brain-and-spine-clinic-berhampore",
@@ -1961,7 +1945,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Brain+%26+Spine+Clinic/data=!4m7!3m6!1s0x39f97d004908926f:0x7af2963882ae6b97!8m2!3d24.087798!4d88.2582697!16s%2Fg%2F11y38ybkcs!19sChIJb5IISQB9-TkRl2uugjiW8no?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brain+%26+Spine+Clinic/data=!4m7!3m6!1s0x39f97d004908926f:0x7af2963882ae6b97!8m2!3d24.087798!4d88.2582697!16s%2Fg%2F11y38ybkcs!19sChIJb5IISQB9-TkRl2uugjiW8no?authuser=0&hl=en&rclk=1"
@@ -2027,11 +2011,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Brain+%26+Spine+Clinic/data=!4m7!3m6!1s0x39f97d004908926f:0x7af2963882ae6b97!8m2!3d24.087798!4d88.2582697!16s%2Fg%2F11y38ybkcs!19sChIJb5IISQB9-TkRl2uugjiW8no?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-point-berhampore",
@@ -2081,7 +2064,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CARE+POINT/data=!4m7!3m6!1s0x39f97dc153c0150f:0x2e0b1d15885ba800!8m2!3d24.0868522!4d88.247336!16s%2Fg%2F11rw8z2114!19sChIJDxXAU8F9-TkRAKhbiBUdCy4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CARE+POINT/data=!4m7!3m6!1s0x39f97dc153c0150f:0x2e0b1d15885ba800!8m2!3d24.0868522!4d88.247336!16s%2Fg%2F11rw8z2114!19sChIJDxXAU8F9-TkRAKhbiBUdCy4?authuser=0&hl=en&rclk=1"
@@ -2150,8 +2133,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CARE+POINT/data=!4m7!3m6!1s0x39f97dc153c0150f:0x2e0b1d15885ba800!8m2!3d24.0868522!4d88.247336!16s%2Fg%2F11rw8z2114!19sChIJDxXAU8F9-TkRAKhbiBUdCy4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-well-cosmetic-clinic-berhampore",
@@ -2201,7 +2183,7 @@
       "125+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Care+Well+Cosmetic+Clinic/data=!4m7!3m6!1s0x39f97d9cad13c857:0x6ea7f6cf5e0a229b!8m2!3d24.1013988!4d88.2573613!16s%2Fg%2F11j_2bxr36!19sChIJV8gTrZx9-TkRmyIKXs_2p24?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+Well+Cosmetic+Clinic/data=!4m7!3m6!1s0x39f97d9cad13c857:0x6ea7f6cf5e0a229b!8m2!3d24.1013988!4d88.2573613!16s%2Fg%2F11j_2bxr36!19sChIJV8gTrZx9-TkRmyIKXs_2p24?authuser=0&hl=en&rclk=1"
@@ -2270,8 +2252,7 @@
     "rating": 4.2,
     "reviews": 125,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Care+Well+Cosmetic+Clinic/data=!4m7!3m6!1s0x39f97d9cad13c857:0x6ea7f6cf5e0a229b!8m2!3d24.1013988!4d88.2573613!16s%2Fg%2F11j_2bxr36!19sChIJV8gTrZx9-TkRmyIKXs_2p24?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "charak-square-berhampore",
@@ -2322,7 +2303,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Charak+Square/@24.0957757,88.2564465,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97de6dc97c099:0x29ada36fa123271d!8m2!3d24.0957757!4d88.2564465!16s%2Fg%2F11fsnbvhxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Charak+Square/@24.0957757,88.2564465,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97de6dc97c099:0x29ada36fa123271d!8m2!3d24.0957757!4d88.2564465!16s%2Fg%2F11fsnbvhxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2391,8 +2372,7 @@
     "rating": 2.9,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Charak+Square/@24.0957757,88.2564465,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97de6dc97c099:0x29ada36fa123271d!8m2!3d24.0957757!4d88.2564465!16s%2Fg%2F11fsnbvhxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "charak-square-hospitech-berhampore",
@@ -2441,7 +2421,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Charak+Square+Hospitech/data=!4m7!3m6!1s0x39f97d003f395825:0xf054f544e41b275!8m2!3d24.0954052!4d88.2704342!16s%2Fg%2F11y83jk9wx!19sChIJJVg5PwB9-TkRdbJBTlRPBQ8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Charak+Square+Hospitech/data=!4m7!3m6!1s0x39f97d003f395825:0xf054f544e41b275!8m2!3d24.0954052!4d88.2704342!16s%2Fg%2F11y83jk9wx!19sChIJJVg5PwB9-TkRdbJBTlRPBQ8?authuser=0&hl=en&rclk=1"
@@ -2510,8 +2490,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Charak+Square+Hospitech/data=!4m7!3m6!1s0x39f97d003f395825:0xf054f544e41b275!8m2!3d24.0954052!4d88.2704342!16s%2Fg%2F11y83jk9wx!19sChIJJVg5PwB9-TkRdbJBTlRPBQ8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "curesetu-diagnostic-centre-and-polyclinic-regd-under-msme-govt-of-india-best-diagnostic-centre-in-kalipark-bablatala-kolkata",
@@ -2561,7 +2540,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CureSetu+-+Diagnostic+Centre+%26+Polyclinic;+Regd.+under+MSME,+Govt+of+India;+Best+diagnostic+centre+in+Kalipark+Bablatala/data=!4m7!3m6!1s0x39f89f0eb2c2698b:0x20a44e9748f4721c!8m2!3d22.6362612!4d88.4522218!16s%2Fg%2F11xkf7bqq9!19sChIJi2nCsg6f-DkRHHL0SJdOpCA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CureSetu+-+Diagnostic+Centre+%26+Polyclinic;+Regd.+under+MSME,+Govt+of+India;+Best+diagnostic+centre+in+Kalipark+Bablatala/data=!4m7!3m6!1s0x39f89f0eb2c2698b:0x20a44e9748f4721c!8m2!3d22.6362612!4d88.4522218!16s%2Fg%2F11xkf7bqq9!19sChIJi2nCsg6f-DkRHHL0SJdOpCA?authuser=0&hl=en&rclk=1"
@@ -2627,11 +2606,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CureSetu+-+Diagnostic+Centre+%26+Polyclinic;+Regd.+under+MSME,+Govt+of+India;+Best+diagnostic+centre+in+Kalipark+Bablatala/data=!4m7!3m6!1s0x39f89f0eb2c2698b:0x20a44e9748f4721c!8m2!3d22.6362612!4d88.4522218!16s%2Fg%2F11xkf7bqq9!19sChIJi2nCsg6f-DkRHHL0SJdOpCA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-care-plus-berhampore",
@@ -2680,7 +2658,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Care+Plus/data=!4m7!3m6!1s0x39f97dc27ff74b83:0x36f64d6844212304!8m2!3d24.10004!4d88.2565154!16s%2Fg%2F11h0vt2p_r!19sChIJg0v3f8J9-TkRBCMhRGhN9jY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Care+Plus/data=!4m7!3m6!1s0x39f97dc27ff74b83:0x36f64d6844212304!8m2!3d24.10004!4d88.2565154!16s%2Fg%2F11h0vt2p_r!19sChIJg0v3f8J9-TkRBCMhRGhN9jY?authuser=0&hl=en&rclk=1"
@@ -2749,8 +2727,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Care+Plus/data=!4m7!3m6!1s0x39f97dc27ff74b83:0x36f64d6844212304!8m2!3d24.10004!4d88.2565154!16s%2Fg%2F11h0vt2p_r!19sChIJg0v3f8J9-TkRBCMhRGhN9jY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-zone-top-dentist-in-murshidabad-top-dentist-in-berhampore-murshidabad-berhampore",
@@ -2798,7 +2775,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Zone+%7C+Top+dentist+in+murshidabad+%7CTop+dentist+in+berhampore+murshidabad/data=!4m7!3m6!1s0x39f97d8a224706cf:0xe8d6715ad77384a6!8m2!3d24.1023219!4d88.2562735!16s%2Fg%2F11y030shhf!19sChIJzwZHIop9-TkRpoRz11px1ug?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Zone+%7C+Top+dentist+in+murshidabad+%7CTop+dentist+in+berhampore+murshidabad/data=!4m7!3m6!1s0x39f97d8a224706cf:0xe8d6715ad77384a6!8m2!3d24.1023219!4d88.2562735!16s%2Fg%2F11y030shhf!19sChIJzwZHIop9-TkRpoRz11px1ug?authuser=0&hl=en&rclk=1"
@@ -2864,11 +2841,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Zone+%7C+Top+dentist+in+murshidabad+%7CTop+dentist+in+berhampore+murshidabad/data=!4m7!3m6!1s0x39f97d8a224706cf:0xe8d6715ad77384a6!8m2!3d24.1023219!4d88.2562735!16s%2Fg%2F11y030shhf!19sChIJzwZHIop9-TkRpoRz11px1ug?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "desun-hospital-kolkata",
@@ -2917,7 +2893,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Desun+Hospital/data=!4m7!3m6!1s0x3a0273ffba333285:0xe26fc1c3cb8a0d70!8m2!3d22.5146288!4d88.4032479!16s%2Fm%2F0pclsf5!19sChIJhTIzuv9zAjoRcA2Ky8PBb-I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Desun+Hospital/data=!4m7!3m6!1s0x3a0273ffba333285:0xe26fc1c3cb8a0d70!8m2!3d22.5146288!4d88.4032479!16s%2Fm%2F0pclsf5!19sChIJhTIzuv9zAjoRcA2Ky8PBb-I?authuser=0&hl=en&rclk=1"
@@ -2986,8 +2962,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Desun+Hospital/data=!4m7!3m6!1s0x3a0273ffba333285:0xe26fc1c3cb8a0d70!8m2!3d22.5146288!4d88.4032479!16s%2Fm%2F0pclsf5!19sChIJhTIzuv9zAjoRcA2Ky8PBb-I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dialysis-unit-murshidabad-mch-berhampore",
@@ -3037,7 +3012,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dialysis+Unit,+Murshidabad+MCH/data=!4m7!3m6!1s0x39f97d001269b505:0x19de1120bd47edd6!8m2!3d24.0899751!4d88.258259!16s%2Fg%2F11x5yqp9nw!19sChIJBbVpEgB9-TkR1u1HvSAR3hk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dialysis+Unit,+Murshidabad+MCH/data=!4m7!3m6!1s0x39f97d001269b505:0x19de1120bd47edd6!8m2!3d24.0899751!4d88.258259!16s%2Fg%2F11x5yqp9nw!19sChIJBbVpEgB9-TkR1u1HvSAR3hk?authuser=0&hl=en&rclk=1"
@@ -3106,8 +3081,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dialysis+Unit,+Murshidabad+MCH/data=!4m7!3m6!1s0x39f97d001269b505:0x19de1120bd47edd6!8m2!3d24.0899751!4d88.258259!16s%2Fg%2F11x5yqp9nw!19sChIJBbVpEgB9-TkR1u1HvSAR3hk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "disha-eye-hospital-berhampore-berhampore",
@@ -3157,7 +3131,7 @@
       "7+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Disha+Eye+Hospital+Berhampore/data=!4m7!3m6!1s0x39f97dd1bc3ff79b:0x9c650a9ed72cf182!8m2!3d24.0951376!4d88.2546708!16s%2Fg%2F11bw46g2s5!19sChIJm_c_vNF9-TkRgvEs154KZZw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Disha+Eye+Hospital+Berhampore/data=!4m7!3m6!1s0x39f97dd1bc3ff79b:0x9c650a9ed72cf182!8m2!3d24.0951376!4d88.2546708!16s%2Fg%2F11bw46g2s5!19sChIJm_c_vNF9-TkRgvEs154KZZw?authuser=0&hl=en&rclk=1"
@@ -3226,8 +3200,7 @@
     "rating": 3.3,
     "reviews": 7,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Disha+Eye+Hospital+Berhampore/data=!4m7!3m6!1s0x39f97dd1bc3ff79b:0x9c650a9ed72cf182!8m2!3d24.0951376!4d88.2546708!16s%2Fg%2F11bw46g2s5!19sChIJm_c_vNF9-TkRgvEs154KZZw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fast-opd-berhampore",
@@ -3277,7 +3250,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fast+OPD/data=!4m7!3m6!1s0x39fbd823ffffffff:0xff02487826e73029!8m2!3d24.0956124!4d88.2548265!16s%2Fg%2F11v418j_qh!19sChIJ_____yPY-zkRKTDnJnhIAv8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fast+OPD/data=!4m7!3m6!1s0x39fbd823ffffffff:0xff02487826e73029!8m2!3d24.0956124!4d88.2548265!16s%2Fg%2F11v418j_qh!19sChIJ_____yPY-zkRKTDnJnhIAv8?authuser=0&hl=en&rclk=1"
@@ -3343,11 +3316,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fast+OPD/data=!4m7!3m6!1s0x39fbd823ffffffff:0xff02487826e73029!8m2!3d24.0956124!4d88.2548265!16s%2Fg%2F11v418j_qh!19sChIJ_____yPY-zkRKTDnJnhIAv8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "flemming-hospital-kolkata",
@@ -3396,7 +3368,7 @@
       "Google rating 2.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Flemming+Hospital/data=!4m7!3m6!1s0x3a0276962cd072e1:0xdcc52a5527ba8f19!8m2!3d22.5409396!4d88.3895125!16s%2Fg%2F124t07fh5!19sChIJ4XLQLJZ2AjoRGY-6J1Uqxdw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Flemming+Hospital/data=!4m7!3m6!1s0x3a0276962cd072e1:0xdcc52a5527ba8f19!8m2!3d22.5409396!4d88.3895125!16s%2Fg%2F124t07fh5!19sChIJ4XLQLJZ2AjoRGY-6J1Uqxdw?authuser=0&hl=en&rclk=1"
@@ -3465,8 +3437,7 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Flemming+Hospital/data=!4m7!3m6!1s0x3a0276962cd072e1:0xdcc52a5527ba8f19!8m2!3d22.5409396!4d88.3895125!16s%2Fg%2F124t07fh5!19sChIJ4XLQLJZ2AjoRGY-6J1Uqxdw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gd-healthcare-berhampore",
@@ -3515,7 +3486,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GD+Healthcare/data=!4m7!3m6!1s0x39f97db11483a285:0xab7a424c8771984e!8m2!3d24.0870098!4d88.2573145!16s%2Fg%2F11scflj7pq!19sChIJhaKDFLF9-TkRTphxh0xCeqs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GD+Healthcare/data=!4m7!3m6!1s0x39f97db11483a285:0xab7a424c8771984e!8m2!3d24.0870098!4d88.2573145!16s%2Fg%2F11scflj7pq!19sChIJhaKDFLF9-TkRTphxh0xCeqs?authuser=0&hl=en&rclk=1"
@@ -3584,8 +3555,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GD+Healthcare/data=!4m7!3m6!1s0x39f97db11483a285:0xab7a424c8771984e!8m2!3d24.0870098!4d88.2573145!16s%2Fg%2F11scflj7pq!19sChIJhaKDFLF9-TkRTphxh0xCeqs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "genesis-healthcare-berhampore",
@@ -3635,7 +3605,7 @@
       "7+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Genesis+Healthcare/data=!4m7!3m6!1s0x39f97d8a8876bc99:0x9da3f5f9787e4d7e!8m2!3d24.0885689!4d88.2524982!16s%2Fg%2F11g07f6wvy!19sChIJmbx2iIp9-TkRfk1-ePn1o50?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Genesis+Healthcare/data=!4m7!3m6!1s0x39f97d8a8876bc99:0x9da3f5f9787e4d7e!8m2!3d24.0885689!4d88.2524982!16s%2Fg%2F11g07f6wvy!19sChIJmbx2iIp9-TkRfk1-ePn1o50?authuser=0&hl=en&rclk=1"
@@ -3701,11 +3671,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 7,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Genesis+Healthcare/data=!4m7!3m6!1s0x39f97d8a8876bc99:0x9da3f5f9787e4d7e!8m2!3d24.0885689!4d88.2524982!16s%2Fg%2F11g07f6wvy!19sChIJmbx2iIp9-TkRfk1-ePn1o50?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "genix-laboratory-and-diagnostic-centre-berhampore",
@@ -3755,7 +3724,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Genix+Laboratory+%26+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97ddb27e45c31:0xde1df8682c20c19!8m2!3d24.1011801!4d88.2570253!16s%2Fg%2F11d_74qsy8!19sChIJMVzkJ9t9-TkRGQzCgobf4Q0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Genix+Laboratory+%26+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97ddb27e45c31:0xde1df8682c20c19!8m2!3d24.1011801!4d88.2570253!16s%2Fg%2F11d_74qsy8!19sChIJMVzkJ9t9-TkRGQzCgobf4Q0?authuser=0&hl=en&rclk=1"
@@ -3824,8 +3793,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Genix+Laboratory+%26+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97ddb27e45c31:0xde1df8682c20c19!8m2!3d24.1011801!4d88.2570253!16s%2Fg%2F11d_74qsy8!19sChIJMVzkJ9t9-TkRGQzCgobf4Q0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gitaram-hospital-murshidabad",
@@ -3875,7 +3843,7 @@
       "7+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GitaRam+Hospital/data=!4m7!3m6!1s0x39f97e6cbb129351:0xbe3e1caf133c78af!8m2!3d24.108899!4d88.2324229!16s%2Fg%2F12602nls4!19sChIJUZMSu2x--TkRr3g8E68cPr4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GitaRam+Hospital/data=!4m7!3m6!1s0x39f97e6cbb129351:0xbe3e1caf133c78af!8m2!3d24.108899!4d88.2324229!16s%2Fg%2F12602nls4!19sChIJUZMSu2x--TkRr3g8E68cPr4?authuser=0&hl=en&rclk=1"
@@ -3944,8 +3912,7 @@
     "rating": 3.5,
     "reviews": 7,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GitaRam+Hospital/data=!4m7!3m6!1s0x39f97e6cbb129351:0xbe3e1caf133c78af!8m2!3d24.108899!4d88.2324229!16s%2Fg%2F12602nls4!19sChIJUZMSu2x--TkRr3g8E68cPr4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "glenwood-health-care-berhampore",
@@ -3993,7 +3960,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GLENWOOD+HEALTH+CARE/data=!4m7!3m6!1s0x39f97d2f0da11a8d:0xa731f52d46a1ed9f!8m2!3d24.0927697!4d88.2642899!16s%2Fg%2F11ry75st6p!19sChIJjRqhDS99-TkRn-2hRi31Mac?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GLENWOOD+HEALTH+CARE/data=!4m7!3m6!1s0x39f97d2f0da11a8d:0xa731f52d46a1ed9f!8m2!3d24.0927697!4d88.2642899!16s%2Fg%2F11ry75st6p!19sChIJjRqhDS99-TkRn-2hRi31Mac?authuser=0&hl=en&rclk=1"
@@ -4062,8 +4029,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GLENWOOD+HEALTH+CARE/data=!4m7!3m6!1s0x39f97d2f0da11a8d:0xa731f52d46a1ed9f!8m2!3d24.0927697!4d88.2642899!16s%2Fg%2F11ry75st6p!19sChIJjRqhDS99-TkRn-2hRi31Mac?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hcg-cancer-hospital-newtown-kolkata-kolkata",
@@ -4114,7 +4080,7 @@
       "467+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+%28Newtown,+Kolkata%29/data=!4m7!3m6!1s0x3a027532de56b615:0x1a40a2fd10cf5aa7!8m2!3d22.5799338!4d88.4773993!16s%2Fg%2F11c6cgyqch!19sChIJFbZW3jJ1AjoRp1rPEP2iQBo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+%28Newtown,+Kolkata%29/data=!4m7!3m6!1s0x3a027532de56b615:0x1a40a2fd10cf5aa7!8m2!3d22.5799338!4d88.4773993!16s%2Fg%2F11c6cgyqch!19sChIJFbZW3jJ1AjoRp1rPEP2iQBo?authuser=0&hl=en&rclk=1"
@@ -4183,8 +4149,7 @@
     "rating": 4.5,
     "reviews": 467,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+%28Newtown,+Kolkata%29/data=!4m7!3m6!1s0x3a027532de56b615:0x1a40a2fd10cf5aa7!8m2!3d22.5799338!4d88.4773993!16s%2Fg%2F11c6cgyqch!19sChIJFbZW3jJ1AjoRp1rPEP2iQBo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "health-point-berhampore",
@@ -4234,7 +4199,7 @@
       "Google rating 3.2",
       "1+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Health+Point/data=!4m7!3m6!1s0x39f97daf3f8ba229:0x5d405a695bbc0dd!8m2!3d24.1000791!4d88.2565324!16s%2Fg%2F11fqym2mx7!19sChIJKaKLP699-TkR3cC7laYF1AU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Health+Point/data=!4m7!3m6!1s0x39f97daf3f8ba229:0x5d405a695bbc0dd!8m2!3d24.1000791!4d88.2565324!16s%2Fg%2F11fqym2mx7!19sChIJKaKLP699-TkR3cC7laYF1AU?authuser=0&hl=en&rclk=1"
@@ -4303,8 +4268,7 @@
     "rating": 3.2,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Health+Point/data=!4m7!3m6!1s0x39f97daf3f8ba229:0x5d405a695bbc0dd!8m2!3d24.1000791!4d88.2565324!16s%2Fg%2F11fqym2mx7!19sChIJKaKLP699-TkR3cC7laYF1AU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healthcare-gora-bazar",
@@ -4353,7 +4317,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Healthcare/data=!4m7!3m6!1s0x39f97db698638be1:0x9765688f17ffa7e5!8m2!3d24.083328!4d88.2493016!16s%2Fg%2F11h42p1g1v!19sChIJ4YtjmLZ9-TkR5af_F49oZZc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthcare/data=!4m7!3m6!1s0x39f97db698638be1:0x9765688f17ffa7e5!8m2!3d24.083328!4d88.2493016!16s%2Fg%2F11h42p1g1v!19sChIJ4YtjmLZ9-TkR5af_F49oZZc?authuser=0&hl=en&rclk=1"
@@ -4422,8 +4386,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Healthcare/data=!4m7!3m6!1s0x39f97db698638be1:0x9765688f17ffa7e5!8m2!3d24.083328!4d88.2493016!16s%2Fg%2F11h42p1g1v!19sChIJ4YtjmLZ9-TkR5af_F49oZZc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indian-institute-of-liver-and-digestive-sciences-kolkata",
@@ -4475,7 +4438,7 @@
       "29+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/data=!4m7!3m6!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r!19sChIJ77X66JByAjoRMD8iLlFtvNA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/data=!4m7!3m6!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r!19sChIJ77X66JByAjoRMD8iLlFtvNA?authuser=0&hl=en&rclk=1"
@@ -4544,8 +4507,7 @@
     "rating": 3.8,
     "reviews": 29,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/data=!4m7!3m6!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r!19sChIJ77X66JByAjoRMD8iLlFtvNA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "k-b-dental-care-berhampore",
@@ -4593,7 +4555,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/K.B.DENTAL+CARE/data=!4m7!3m6!1s0x39f97d0a46736711:0xfce350de1ce272e0!8m2!3d24.1020145!4d88.2517962!16s%2Fg%2F11h71fdsyh!19sChIJEWdzRgp9-TkR4HLiHN5Q4_w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K.B.DENTAL+CARE/data=!4m7!3m6!1s0x39f97d0a46736711:0xfce350de1ce272e0!8m2!3d24.1020145!4d88.2517962!16s%2Fg%2F11h71fdsyh!19sChIJEWdzRgp9-TkR4HLiHN5Q4_w?authuser=0&hl=en&rclk=1"
@@ -4659,11 +4621,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/K.B.DENTAL+CARE/data=!4m7!3m6!1s0x39f97d0a46736711:0xfce350de1ce272e0!8m2!3d24.1020145!4d88.2517962!16s%2Fg%2F11h71fdsyh!19sChIJEWdzRgp9-TkR4HLiHN5Q4_w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kidney-plus-clinics-kolkata-kolkata",
@@ -4714,7 +4675,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/data=!4m7!3m6!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1!19sChIJ0W9cWP5xAjoRjp1vXrBPH9A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/data=!4m7!3m6!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1!19sChIJ0W9cWP5xAjoRjp1vXrBPH9A?authuser=0&hl=en&rclk=1"
@@ -4783,8 +4744,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/data=!4m7!3m6!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1!19sChIJ0W9cWP5xAjoRjp1vXrBPH9A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "know-your-kidney-kolkata",
@@ -4835,7 +4795,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/data=!4m7!3m6!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6!19sChIJzR892w53AjoR6XBjwgR241I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/data=!4m7!3m6!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6!19sChIJzR892w53AjoR6XBjwgR241I?authuser=0&hl=en&rclk=1"
@@ -4901,11 +4861,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/data=!4m7!3m6!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6!19sChIJzR892w53AjoR6XBjwgR241I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kolkata-global-ivf-clinic-kolkata",
@@ -4956,7 +4915,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kolkata+Global+IVF+Clinic/data=!4m7!3m6!1s0x3a02713875137301:0x56d4eea1e6f3d7ab!8m2!3d22.5028987!4d88.3821153!16s%2Fg%2F11bzs4mk0l!19sChIJAXMTdThxAjoRq9fz5qHu1FY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kolkata+Global+IVF+Clinic/data=!4m7!3m6!1s0x3a02713875137301:0x56d4eea1e6f3d7ab!8m2!3d22.5028987!4d88.3821153!16s%2Fg%2F11bzs4mk0l!19sChIJAXMTdThxAjoRq9fz5qHu1FY?authuser=0&hl=en&rclk=1"
@@ -5025,8 +4984,7 @@
     "rating": 4.1,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kolkata+Global+IVF+Clinic/data=!4m7!3m6!1s0x3a02713875137301:0x56d4eea1e6f3d7ab!8m2!3d22.5028987!4d88.3821153!16s%2Fg%2F11bzs4mk0l!19sChIJAXMTdThxAjoRq9fz5qHu1FY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kolkata-kidney-institute-kolkata",
@@ -5076,7 +5034,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KOLKATA+KIDNEY+INSTITUTE/data=!4m7!3m6!1s0x3a027120ecfb01b3:0xd0b9d152082694a1!8m2!3d22.503913!4d88.3979072!16s%2Fg%2F11hg29sfdb!19sChIJswH77CBxAjoRoZQmCFLRudA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KOLKATA+KIDNEY+INSTITUTE/data=!4m7!3m6!1s0x3a027120ecfb01b3:0xd0b9d152082694a1!8m2!3d22.503913!4d88.3979072!16s%2Fg%2F11hg29sfdb!19sChIJswH77CBxAjoRoZQmCFLRudA?authuser=0&hl=en&rclk=1"
@@ -5145,8 +5103,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KOLKATA+KIDNEY+INSTITUTE/data=!4m7!3m6!1s0x3a027120ecfb01b3:0xd0b9d152082694a1!8m2!3d22.503913!4d88.3979072!16s%2Fg%2F11hg29sfdb!19sChIJswH77CBxAjoRoZQmCFLRudA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lakeview-hospital-berhampore-berhampore",
@@ -5195,7 +5152,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lakeview+Hospital+Berhampore/data=!4m7!3m6!1s0x39f97d0001ab416d:0x1c759ec08a721108!8m2!3d24.0955896!4d88.256528!16s%2Fg%2F11wwq81v33!19sChIJbUGrAQB9-TkRCBFyisCedRw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lakeview+Hospital+Berhampore/data=!4m7!3m6!1s0x39f97d0001ab416d:0x1c759ec08a721108!8m2!3d24.0955896!4d88.256528!16s%2Fg%2F11wwq81v33!19sChIJbUGrAQB9-TkRCBFyisCedRw?authuser=0&hl=en&rclk=1"
@@ -5264,8 +5221,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lakeview+Hospital+Berhampore/data=!4m7!3m6!1s0x39f97d0001ab416d:0x1c759ec08a721108!8m2!3d24.0955896!4d88.256528!16s%2Fg%2F11wwq81v33!19sChIJbUGrAQB9-TkRCBFyisCedRw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "laldighi-medical-centre-pvt-ltd-berhampore",
@@ -5314,7 +5270,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Laldighi+Medical+Centre+Pvt.+Ltd./data=!4m7!3m6!1s0x39f97dcfd4239a13:0x26a845b3fd6bcde3!8m2!3d24.095671!4d88.2561065!16s%2Fg%2F11bzq3_z1f!19sChIJE5oj1M99-TkR481r_bNFqCY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laldighi+Medical+Centre+Pvt.+Ltd./data=!4m7!3m6!1s0x39f97dcfd4239a13:0x26a845b3fd6bcde3!8m2!3d24.095671!4d88.2561065!16s%2Fg%2F11bzq3_z1f!19sChIJE5oj1M99-TkR481r_bNFqCY?authuser=0&hl=en&rclk=1"
@@ -5383,8 +5339,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Laldighi+Medical+Centre+Pvt.+Ltd./data=!4m7!3m6!1s0x39f97dcfd4239a13:0x26a845b3fd6bcde3!8m2!3d24.095671!4d88.2561065!16s%2Fg%2F11bzq3_z1f!19sChIJE5oj1M99-TkR481r_bNFqCY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "laldighi-nursing-home-pvt-ltd-berhampore",
@@ -5432,7 +5387,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Laldighi+Nursing+Home+Pvt+Ltd/data=!4m7!3m6!1s0x39f97dd029d142dd:0x18514a4ee9681924!8m2!3d24.0959802!4d88.2557558!16s%2Fg%2F1hm329618!19sChIJ3ULRKdB9-TkRJBlo6U5KURg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laldighi+Nursing+Home+Pvt+Ltd/data=!4m7!3m6!1s0x39f97dd029d142dd:0x18514a4ee9681924!8m2!3d24.0959802!4d88.2557558!16s%2Fg%2F1hm329618!19sChIJ3ULRKdB9-TkRJBlo6U5KURg?authuser=0&hl=en&rclk=1"
@@ -5501,8 +5456,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Laldighi+Nursing+Home+Pvt+Ltd/data=!4m7!3m6!1s0x39f97dd029d142dd:0x18514a4ee9681924!8m2!3d24.0959802!4d88.2557558!16s%2Fg%2F1hm329618!19sChIJ3ULRKdB9-TkRJBlo6U5KURg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lifespan-nursing-home-gora-bazar",
@@ -5551,7 +5505,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lifespan+Nursing+Home/data=!4m7!3m6!1s0x39f97e7ff0acb35f:0x176ef46f69423cc4!8m2!3d24.0865267!4d88.2455668!16s%2Fg%2F1q62fxz3z!19sChIJX7Os8H9--TkRxDxCaW_0bhc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lifespan+Nursing+Home/data=!4m7!3m6!1s0x39f97e7ff0acb35f:0x176ef46f69423cc4!8m2!3d24.0865267!4d88.2455668!16s%2Fg%2F1q62fxz3z!19sChIJX7Os8H9--TkRxDxCaW_0bhc?authuser=0&hl=en&rclk=1"
@@ -5620,8 +5574,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lifespan+Nursing+Home/data=!4m7!3m6!1s0x39f97e7ff0acb35f:0x176ef46f69423cc4!8m2!3d24.0865267!4d88.2455668!16s%2Fg%2F1q62fxz3z!19sChIJX7Os8H9--TkRxDxCaW_0bhc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lila-clinic-berhampore",
@@ -5670,7 +5623,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lila+Clinic/data=!4m7!3m6!1s0x39f97d33069827a3:0x5ad742bbb1d73304!8m2!3d24.0991637!4d88.2563452!16s%2Fg%2F11h718glfn!19sChIJoyeYBjN9-TkRBDPXsbtC11o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lila+Clinic/data=!4m7!3m6!1s0x39f97d33069827a3:0x5ad742bbb1d73304!8m2!3d24.0991637!4d88.2563452!16s%2Fg%2F11h718glfn!19sChIJoyeYBjN9-TkRBDPXsbtC11o?authuser=0&hl=en&rclk=1"
@@ -5739,8 +5692,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lila+Clinic/data=!4m7!3m6!1s0x39f97d33069827a3:0x5ad742bbb1d73304!8m2!3d24.0991637!4d88.2563452!16s%2Fg%2F11h718glfn!19sChIJoyeYBjN9-TkRBDPXsbtC11o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lila-hospitals-pvt-ltd-berhampore",
@@ -5789,7 +5741,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lila+Hospitals+Pvt.+Ltd./data=!4m7!3m6!1s0x39f97d007eec4df1:0x7bed271d45c919c6!8m2!3d24.105529!4d88.2574177!16s%2Fg%2F11vy4zhwft!19sChIJ8U3sfgB9-TkRxhnJRR0n7Xs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lila+Hospitals+Pvt.+Ltd./data=!4m7!3m6!1s0x39f97d007eec4df1:0x7bed271d45c919c6!8m2!3d24.105529!4d88.2574177!16s%2Fg%2F11vy4zhwft!19sChIJ8U3sfgB9-TkRxhnJRR0n7Xs?authuser=0&hl=en&rclk=1"
@@ -5855,11 +5807,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lila+Hospitals+Pvt.+Ltd./data=!4m7!3m6!1s0x39f97d007eec4df1:0x7bed271d45c919c6!8m2!3d24.105529!4d88.2574177!16s%2Fg%2F11vy4zhwft!19sChIJ8U3sfgB9-TkRxhnJRR0n7Xs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "little-heart-diagnostic-and-imagine-centre-berhampore",
@@ -5909,7 +5860,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Little+Heart+Diagnostic+%26+Imagine+Centre/data=!4m7!3m6!1s0x39f97dc53912dc57:0x9ce6241e3087ee31!8m2!3d24.1003782!4d88.2566716!16s%2Fg%2F11c32bqb5x!19sChIJV9wSOcV9-TkRMe6HMB4k5pw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Little+Heart+Diagnostic+%26+Imagine+Centre/data=!4m7!3m6!1s0x39f97dc53912dc57:0x9ce6241e3087ee31!8m2!3d24.1003782!4d88.2566716!16s%2Fg%2F11c32bqb5x!19sChIJV9wSOcV9-TkRMe6HMB4k5pw?authuser=0&hl=en&rclk=1"
@@ -5975,11 +5926,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Little+Heart+Diagnostic+%26+Imagine+Centre/data=!4m7!3m6!1s0x39f97dc53912dc57:0x9ce6241e3087ee31!8m2!3d24.1003782!4d88.2566716!16s%2Fg%2F11c32bqb5x!19sChIJV9wSOcV9-TkRMe6HMB4k5pw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lupin-diagnostics-pathology-lab-and-full-body-checkup-in-behrampore-gora-bazar",
@@ -6029,7 +5979,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lupin+Diagnostics+%7C+Pathology+Lab+%26+Full+Body+Checkup+in+Behrampore/data=!4m7!3m6!1s0x39f97d52db9a3687:0x93826b55659e2798!8m2!3d24.0870859!4d88.2469805!16s%2Fg%2F11vj3ypbr4!19sChIJhzaa21J9-TkRmCeeZVVrgpM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lupin+Diagnostics+%7C+Pathology+Lab+%26+Full+Body+Checkup+in+Behrampore/data=!4m7!3m6!1s0x39f97d52db9a3687:0x93826b55659e2798!8m2!3d24.0870859!4d88.2469805!16s%2Fg%2F11vj3ypbr4!19sChIJhzaa21J9-TkRmCeeZVVrgpM?authuser=0&hl=en&rclk=1"
@@ -6098,8 +6048,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lupin+Diagnostics+%7C+Pathology+Lab+%26+Full+Body+Checkup+in+Behrampore/data=!4m7!3m6!1s0x39f97d52db9a3687:0x93826b55659e2798!8m2!3d24.0870859!4d88.2469805!16s%2Fg%2F11vj3ypbr4!19sChIJhzaa21J9-TkRmCeeZVVrgpM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manipal-hospitals-dhakuria-kolkata",
@@ -6149,7 +6098,7 @@
       "201+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manipal+Hospitals+-+Dhakuria/data=!4m7!3m6!1s0x3a02712ca643102b:0xafedc989326211fb!8m2!3d22.512609!4d88.3676693!16s%2Fg%2F11c558_tp6!19sChIJKxBDpixxAjoR-xFiMonJ7a8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospitals+-+Dhakuria/data=!4m7!3m6!1s0x3a02712ca643102b:0xafedc989326211fb!8m2!3d22.512609!4d88.3676693!16s%2Fg%2F11c558_tp6!19sChIJKxBDpixxAjoR-xFiMonJ7a8?authuser=0&hl=en&rclk=1"
@@ -6218,8 +6167,7 @@
     "rating": 4.7,
     "reviews": 201,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manipal+Hospitals+-+Dhakuria/data=!4m7!3m6!1s0x3a02712ca643102b:0xafedc989326211fb!8m2!3d22.512609!4d88.3676693!16s%2Fg%2F11c558_tp6!19sChIJKxBDpixxAjoR-xFiMonJ7a8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manipal-hospitals-mukundapur-kolkata",
@@ -6269,7 +6217,7 @@
       "13+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manipal+Hospitals+-+Mukundapur/data=!4m7!3m6!1s0x3a0273e010a87231:0x28450505db01cf79!8m2!3d22.4941477!4d88.402129!16s%2Fg%2F1q69xq6dy!19sChIJMXKoEOBzAjoRec8B2wUFRSg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospitals+-+Mukundapur/data=!4m7!3m6!1s0x3a0273e010a87231:0x28450505db01cf79!8m2!3d22.4941477!4d88.402129!16s%2Fg%2F1q69xq6dy!19sChIJMXKoEOBzAjoRec8B2wUFRSg?authuser=0&hl=en&rclk=1"
@@ -6338,8 +6286,7 @@
     "rating": 4.7,
     "reviews": 13,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manipal+Hospitals+-+Mukundapur/data=!4m7!3m6!1s0x3a0273e010a87231:0x28450505db01cf79!8m2!3d22.4941477!4d88.402129!16s%2Fg%2F1q69xq6dy!19sChIJMXKoEOBzAjoRec8B2wUFRSg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manipal-hospitals-broadway-kolkata",
@@ -6389,7 +6336,7 @@
       "1821+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manipal+Hospitals+Broadway/data=!4m7!3m6!1s0x3a0275d28237dd49:0xb24c98f0b227ce0b!8m2!3d22.568423!4d88.4116369!16s%2Fg%2F1tf6q63b!19sChIJSd03gtJ1AjoRC84nsvCYTLI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospitals+Broadway/data=!4m7!3m6!1s0x3a0275d28237dd49:0xb24c98f0b227ce0b!8m2!3d22.568423!4d88.4116369!16s%2Fg%2F1tf6q63b!19sChIJSd03gtJ1AjoRC84nsvCYTLI?authuser=0&hl=en&rclk=1"
@@ -6458,8 +6405,7 @@
     "rating": 4.7,
     "reviews": 1821,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manipal+Hospitals+Broadway/data=!4m7!3m6!1s0x3a0275d28237dd49:0xb24c98f0b227ce0b!8m2!3d22.568423!4d88.4116369!16s%2Fg%2F1tf6q63b!19sChIJSd03gtJ1AjoRC84nsvCYTLI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manmohini-health-care-pvt-ltd-gar-baharampur-p",
@@ -6508,7 +6454,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manmohini+Health+Care+Pvt+Ltd/data=!4m7!3m6!1s0x39f97dca22da85f5:0x8ed8cdcf1790d3a7!8m2!3d24.0917984!4d88.2642446!16s%2Fg%2F11b8ykvkrz!19sChIJ9YXaIsp9-TkRp9OQF8_N2I4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manmohini+Health+Care+Pvt+Ltd/data=!4m7!3m6!1s0x39f97dca22da85f5:0x8ed8cdcf1790d3a7!8m2!3d24.0917984!4d88.2642446!16s%2Fg%2F11b8ykvkrz!19sChIJ9YXaIsp9-TkRp9OQF8_N2I4?authuser=0&hl=en&rclk=1"
@@ -6577,8 +6523,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manmohini+Health+Care+Pvt+Ltd/data=!4m7!3m6!1s0x39f97dca22da85f5:0x8ed8cdcf1790d3a7!8m2!3d24.0917984!4d88.2642446!16s%2Fg%2F11b8ykvkrz!19sChIJ9YXaIsp9-TkRp9OQF8_N2I4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medconnectplus-eclinic-full-body-health-checkup-sugar-pressure-heart-kidney-chest-liver-thyroid-gastritis-ibs-clinic-berhampore",
@@ -6631,7 +6576,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MedConnectPlus+eClinic+-+Full+Body+Health+Checkup,+Sugar+Pressure+Heart+Kidney+Chest+Liver+Thyroid+Gastritis+IBS+Clinic/data=!4m7!3m6!1s0x39f97dc55019889b:0x6c9387bb6c48ef8c!8m2!3d24.1002465!4d88.2571631!16s%2Fg%2F11hbn41sq9!19sChIJm4gZUMV9-TkRjO9IbLuHk2w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MedConnectPlus+eClinic+-+Full+Body+Health+Checkup,+Sugar+Pressure+Heart+Kidney+Chest+Liver+Thyroid+Gastritis+IBS+Clinic/data=!4m7!3m6!1s0x39f97dc55019889b:0x6c9387bb6c48ef8c!8m2!3d24.1002465!4d88.2571631!16s%2Fg%2F11hbn41sq9!19sChIJm4gZUMV9-TkRjO9IbLuHk2w?authuser=0&hl=en&rclk=1"
@@ -6700,8 +6645,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MedConnectPlus+eClinic+-+Full+Body+Health+Checkup,+Sugar+Pressure+Heart+Kidney+Chest+Liver+Thyroid+Gastritis+IBS+Clinic/data=!4m7!3m6!1s0x39f97dc55019889b:0x6c9387bb6c48ef8c!8m2!3d24.1002465!4d88.2571631!16s%2Fg%2F11hbn41sq9!19sChIJm4gZUMV9-TkRjO9IbLuHk2w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mediflora-berhampore",
@@ -6750,7 +6694,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mediflora/data=!4m7!3m6!1s0x39f97d2685abf857:0xfdce7b29e6f70086!8m2!3d24.1006034!4d88.256674!16s%2Fg%2F11rghgr01j!19sChIJV_irhSZ9-TkRhgD35il7zv0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mediflora/data=!4m7!3m6!1s0x39f97d2685abf857:0xfdce7b29e6f70086!8m2!3d24.1006034!4d88.256674!16s%2Fg%2F11rghgr01j!19sChIJV_irhSZ9-TkRhgD35il7zv0?authuser=0&hl=en&rclk=1"
@@ -6819,8 +6763,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mediflora/data=!4m7!3m6!1s0x39f97d2685abf857:0xfdce7b29e6f70086!8m2!3d24.1006034!4d88.256674!16s%2Fg%2F11rghgr01j!19sChIJV_irhSZ9-TkRhgD35il7zv0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mediflora-medicine-shop-little-heart-diagnostic-centre-berhampore",
@@ -6870,7 +6813,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mediflora+medicine+shop+%2F+Little+Heart+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97d303f4c67bf:0xfc2ef0a271ac95b6!8m2!3d24.0993448!4d88.2564269!16s%2Fg%2F11kxdpwcjm!19sChIJv2dMPzB9-TkRtpWscaLwLvw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mediflora+medicine+shop+%2F+Little+Heart+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97d303f4c67bf:0xfc2ef0a271ac95b6!8m2!3d24.0993448!4d88.2564269!16s%2Fg%2F11kxdpwcjm!19sChIJv2dMPzB9-TkRtpWscaLwLvw?authuser=0&hl=en&rclk=1"
@@ -6936,11 +6879,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mediflora+medicine+shop+%2F+Little+Heart+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97d303f4c67bf:0xfc2ef0a271ac95b6!8m2!3d24.0993448!4d88.2564269!16s%2Fg%2F11kxdpwcjm!19sChIJv2dMPzB9-TkRtpWscaLwLvw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mission-medical-center-berhampore",
@@ -6990,7 +6932,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mission+medical+center/data=!4m7!3m6!1s0x39f97d6b98eb685f:0xc8ff39cbcc38bb4f!8m2!3d24.0951339!4d88.2552126!16s%2Fg%2F11hzz05d1d!19sChIJX2jrmGt9-TkRT7s4zMs5_8g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mission+medical+center/data=!4m7!3m6!1s0x39f97d6b98eb685f:0xc8ff39cbcc38bb4f!8m2!3d24.0951339!4d88.2552126!16s%2Fg%2F11hzz05d1d!19sChIJX2jrmGt9-TkRT7s4zMs5_8g?authuser=0&hl=en&rclk=1"
@@ -7059,8 +7001,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mission+medical+center/data=!4m7!3m6!1s0x39f97d6b98eb685f:0xc8ff39cbcc38bb4f!8m2!3d24.0951339!4d88.2552126!16s%2Fg%2F11hzz05d1d!19sChIJX2jrmGt9-TkRT7s4zMs5_8g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "murshidabad-medical-college-and-hospital-record-section-berhampore",
@@ -7108,7 +7049,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Murshidabad+Medical+College+%26+Hospital+Record+Section/data=!4m7!3m6!1s0x39f97d57059b309d:0x6c0b093c7832a2ad!8m2!3d24.0883984!4d88.2585263!16s%2Fg%2F11ry_1xyck!19sChIJnTCbBVd9-TkRraIyeDwJC2w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Murshidabad+Medical+College+%26+Hospital+Record+Section/data=!4m7!3m6!1s0x39f97d57059b309d:0x6c0b093c7832a2ad!8m2!3d24.0883984!4d88.2585263!16s%2Fg%2F11ry_1xyck!19sChIJnTCbBVd9-TkRraIyeDwJC2w?authuser=0&hl=en&rclk=1"
@@ -7177,8 +7118,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Murshidabad+Medical+College+%26+Hospital+Record+Section/data=!4m7!3m6!1s0x39f97d57059b309d:0x6c0b093c7832a2ad!8m2!3d24.0883984!4d88.2585263!16s%2Fg%2F11ry_1xyck!19sChIJnTCbBVd9-TkRraIyeDwJC2w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "murshidabad-medical-college-and-hospital-berhampore",
@@ -7228,7 +7168,7 @@
       "40+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MURSHIDABAD+MEDICAL+COLLEGE+AND+HOSPITAL/data=!4m7!3m6!1s0x39f97dcb7440e841:0xfee57094b0ad337f!8m2!3d24.089055!4d88.2590565!16s%2Fm%2F0gyspb2!19sChIJQehAdMt9-TkRfzOtsJRw5f4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MURSHIDABAD+MEDICAL+COLLEGE+AND+HOSPITAL/data=!4m7!3m6!1s0x39f97dcb7440e841:0xfee57094b0ad337f!8m2!3d24.089055!4d88.2590565!16s%2Fm%2F0gyspb2!19sChIJQehAdMt9-TkRfzOtsJRw5f4?authuser=0&hl=en&rclk=1"
@@ -7297,8 +7237,7 @@
     "rating": 4.1,
     "reviews": 40,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MURSHIDABAD+MEDICAL+COLLEGE+AND+HOSPITAL/data=!4m7!3m6!1s0x39f97dcb7440e841:0xfee57094b0ad337f!8m2!3d24.089055!4d88.2590565!16s%2Fm%2F0gyspb2!19sChIJQehAdMt9-TkRfzOtsJRw5f4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "naba-jiban-hospital-private-limited-kolkata",
@@ -7347,7 +7286,7 @@
       "Google rating 4.0",
       "1+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Naba+Jiban+Hospital+Private+Limited/data=!4m7!3m6!1s0x3a02763a9e4ceffd:0x97269320269862e7!8m2!3d22.5985986!4d88.3735678!16s%2Fg%2F1pt_4f88k!19sChIJ_e9Mnjp2AjoR52KYJiCTJpc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naba+Jiban+Hospital+Private+Limited/data=!4m7!3m6!1s0x3a02763a9e4ceffd:0x97269320269862e7!8m2!3d22.5985986!4d88.3735678!16s%2Fg%2F1pt_4f88k!19sChIJ_e9Mnjp2AjoR52KYJiCTJpc?authuser=0&hl=en&rclk=1"
@@ -7413,11 +7352,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Naba+Jiban+Hospital+Private+Limited/data=!4m7!3m6!1s0x3a02763a9e4ceffd:0x97269320269862e7!8m2!3d22.5985986!4d88.3735678!16s%2Fg%2F1pt_4f88k!19sChIJ_e9Mnjp2AjoR52KYJiCTJpc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nabaasha-medical-centre-and-dental-clinic-berhampore",
@@ -7465,7 +7403,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NabaAsha+Medical+Centre+and+Dental+Clinic/data=!4m7!3m6!1s0x39f97dc26c120913:0xee8fc4b0f3ca6a67!8m2!3d24.1092423!4d88.2593241!16s%2Fg%2F11dzdvs_s1!19sChIJEwkSbMJ9-TkRZ2rK87DEj-4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NabaAsha+Medical+Centre+and+Dental+Clinic/data=!4m7!3m6!1s0x39f97dc26c120913:0xee8fc4b0f3ca6a67!8m2!3d24.1092423!4d88.2593241!16s%2Fg%2F11dzdvs_s1!19sChIJEwkSbMJ9-TkRZ2rK87DEj-4?authuser=0&hl=en&rclk=1"
@@ -7534,8 +7472,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NabaAsha+Medical+Centre+and+Dental+Clinic/data=!4m7!3m6!1s0x39f97dc26c120913:0xee8fc4b0f3ca6a67!8m2!3d24.1092423!4d88.2593241!16s%2Fg%2F11dzdvs_s1!19sChIJEwkSbMJ9-TkRZ2rK87DEj-4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "narayana-rn-tagore-hospital-mukundapur-kolkata",
@@ -7585,7 +7522,7 @@
       "29+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Narayana+RN+Tagore+Hospital,+Mukundapur/data=!4m7!3m6!1s0x3a0273dff60b2adb:0xa56571cbd5cfa88b!8m2!3d22.4912281!4d88.4024062!16s%2Fg%2F11jp12zg65!19sChIJ2yoL9t9zAjoRi6jP1ctxZaU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narayana+RN+Tagore+Hospital,+Mukundapur/data=!4m7!3m6!1s0x3a0273dff60b2adb:0xa56571cbd5cfa88b!8m2!3d22.4912281!4d88.4024062!16s%2Fg%2F11jp12zg65!19sChIJ2yoL9t9zAjoRi6jP1ctxZaU?authuser=0&hl=en&rclk=1"
@@ -7654,8 +7591,7 @@
     "rating": 4.8,
     "reviews": 29,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Narayana+RN+Tagore+Hospital,+Mukundapur/data=!4m7!3m6!1s0x3a0273dff60b2adb:0xa56571cbd5cfa88b!8m2!3d22.4912281!4d88.4024062!16s%2Fg%2F11jp12zg65!19sChIJ2yoL9t9zAjoRi6jP1ctxZaU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nehru-memorial-techno-global-hospital-barrackpore",
@@ -7704,7 +7640,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nehru+Memorial+Techno+Global+Hospital/data=!4m7!3m6!1s0x39f89a59d69b5d19:0x69936de4845c6321!8m2!3d22.766876!4d88.3677048!16s%2Fg%2F1tg9r2vl!19sChIJGV2b1lma-DkRIWNchORtk2k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nehru+Memorial+Techno+Global+Hospital/data=!4m7!3m6!1s0x39f89a59d69b5d19:0x69936de4845c6321!8m2!3d22.766876!4d88.3677048!16s%2Fg%2F1tg9r2vl!19sChIJGV2b1lma-DkRIWNchORtk2k?authuser=0&hl=en&rclk=1"
@@ -7773,8 +7709,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nehru+Memorial+Techno+Global+Hospital/data=!4m7!3m6!1s0x39f89a59d69b5d19:0x69936de4845c6321!8m2!3d22.766876!4d88.3677048!16s%2Fg%2F1tg9r2vl!19sChIJGV2b1lma-DkRIWNchORtk2k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neodent-dental-clinic-berhampore",
@@ -7822,7 +7757,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neodent+Dental+Clinic/data=!4m7!3m6!1s0x39f97de0f8870b3d:0x94aa2e4675086dca!8m2!3d24.0887324!4d88.2560327!16s%2Fg%2F11krpt37wh!19sChIJPQuH-OB9-TkRym0IdUYuqpQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neodent+Dental+Clinic/data=!4m7!3m6!1s0x39f97de0f8870b3d:0x94aa2e4675086dca!8m2!3d24.0887324!4d88.2560327!16s%2Fg%2F11krpt37wh!19sChIJPQuH-OB9-TkRym0IdUYuqpQ?authuser=0&hl=en&rclk=1"
@@ -7888,11 +7823,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neodent+Dental+Clinic/data=!4m7!3m6!1s0x39f97de0f8870b3d:0x94aa2e4675086dca!8m2!3d24.0887324!4d88.2560327!16s%2Fg%2F11krpt37wh!19sChIJPQuH-OB9-TkRym0IdUYuqpQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nephro-care-kolkata",
@@ -7943,7 +7877,7 @@
       "396+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nephro+Care/data=!4m7!3m6!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05!19sChIJxUt4MsR1AjoRMrFuabFTedY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephro+Care/data=!4m7!3m6!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05!19sChIJxUt4MsR1AjoRMrFuabFTedY?authuser=0&hl=en&rclk=1"
@@ -8012,8 +7946,7 @@
     "rating": 4.8,
     "reviews": 396,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nephro+Care/data=!4m7!3m6!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05!19sChIJxUt4MsR1AjoRMrFuabFTedY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nibedita-health-care-berhampore",
@@ -8062,7 +7995,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nibedita+Health+Care/data=!4m7!3m6!1s0x39f97d23b1d5afd3:0x4c2625be3f0c0134!8m2!3d24.0985826!4d88.2579026!16s%2Fg%2F11jm_tzs_x!19sChIJ06_VsSN9-TkRNAEMP74lJkw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nibedita+Health+Care/data=!4m7!3m6!1s0x39f97d23b1d5afd3:0x4c2625be3f0c0134!8m2!3d24.0985826!4d88.2579026!16s%2Fg%2F11jm_tzs_x!19sChIJ06_VsSN9-TkRNAEMP74lJkw?authuser=0&hl=en&rclk=1"
@@ -8131,8 +8064,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nibedita+Health+Care/data=!4m7!3m6!1s0x39f97d23b1d5afd3:0x4c2625be3f0c0134!8m2!3d24.0985826!4d88.2579026!16s%2Fg%2F11jm_tzs_x!19sChIJ06_VsSN9-TkRNAEMP74lJkw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nightingale-diagnostic-berhampore",
@@ -8182,7 +8114,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nightingale+Diagnostic/data=!4m7!3m6!1s0x39f97d823fac111d:0xd46fd1f37cdb7a44!8m2!3d24.0988558!4d88.2573595!16s%2Fg%2F11l4c19c6q!19sChIJHRGsP4J9-TkRRHrbfPPRb9Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nightingale+Diagnostic/data=!4m7!3m6!1s0x39f97d823fac111d:0xd46fd1f37cdb7a44!8m2!3d24.0988558!4d88.2573595!16s%2Fg%2F11l4c19c6q!19sChIJHRGsP4J9-TkRRHrbfPPRb9Q?authuser=0&hl=en&rclk=1"
@@ -8251,8 +8183,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nightingale+Diagnostic/data=!4m7!3m6!1s0x39f97d823fac111d:0xd46fd1f37cdb7a44!8m2!3d24.0988558!4d88.2573595!16s%2Fg%2F11l4c19c6q!19sChIJHRGsP4J9-TkRRHrbfPPRb9Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nilanjana-roy-physio-and-rehab-clinic-children-rehab-center-berhampore-berhampore",
@@ -8303,7 +8234,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nilanjana+Roy+Physio+and+Rehab+Clinic+Children+Rehab+Center+Berhampore/data=!4m7!3m6!1s0x39f97d98a3e9fb6b:0x830b19991940b045!8m2!3d24.0845193!4d88.2549012!16s%2Fg%2F11rg9bn4vj!19sChIJa_vpo5h9-TkRRbBAGZkZC4M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nilanjana+Roy+Physio+and+Rehab+Clinic+Children+Rehab+Center+Berhampore/data=!4m7!3m6!1s0x39f97d98a3e9fb6b:0x830b19991940b045!8m2!3d24.0845193!4d88.2549012!16s%2Fg%2F11rg9bn4vj!19sChIJa_vpo5h9-TkRRbBAGZkZC4M?authuser=0&hl=en&rclk=1"
@@ -8372,8 +8303,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nilanjana+Roy+Physio+and+Rehab+Clinic+Children+Rehab+Center+Berhampore/data=!4m7!3m6!1s0x39f97d98a3e9fb6b:0x830b19991940b045!8m2!3d24.0845193!4d88.2549012!16s%2Fg%2F11rg9bn4vj!19sChIJa_vpo5h9-TkRRbBAGZkZC4M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "niranjan-ortho-medical-centre-berhampore",
@@ -8423,7 +8353,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Niranjan+Ortho+Medical+Centre/data=!4m7!3m6!1s0x39f97dd2554dee85:0x2b0682db899a57fd!8m2!3d24.0895723!4d88.2532381!16s%2Fg%2F11f3x5b0ss!19sChIJhe5NVdJ9-TkR_VeaiduCBis?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Niranjan+Ortho+Medical+Centre/data=!4m7!3m6!1s0x39f97dd2554dee85:0x2b0682db899a57fd!8m2!3d24.0895723!4d88.2532381!16s%2Fg%2F11f3x5b0ss!19sChIJhe5NVdJ9-TkR_VeaiduCBis?authuser=0&hl=en&rclk=1"
@@ -8492,8 +8422,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Niranjan+Ortho+Medical+Centre/data=!4m7!3m6!1s0x39f97dd2554dee85:0x2b0682db899a57fd!8m2!3d24.0895723!4d88.2532381!16s%2Fg%2F11f3x5b0ss!19sChIJhe5NVdJ9-TkR_VeaiduCBis?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nkpc-kidney-clinic-kolkata",
@@ -8543,7 +8472,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1"
@@ -8612,8 +8541,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oro-max-dento-care-baharampur",
@@ -8661,7 +8589,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ORO+MAX+DENTO+CARE/data=!4m7!3m6!1s0x39f97d0ddc009235:0x3c86c9a5503ed6ee!8m2!3d21.0680074!4d82.7525294!16s%2Fg%2F11k6rgfzfc!19sChIJNZIA3A19-TkR7tY-UKXJhjw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ORO+MAX+DENTO+CARE/data=!4m7!3m6!1s0x39f97d0ddc009235:0x3c86c9a5503ed6ee!8m2!3d21.0680074!4d82.7525294!16s%2Fg%2F11k6rgfzfc!19sChIJNZIA3A19-TkR7tY-UKXJhjw?authuser=0&hl=en&rclk=1"
@@ -8730,8 +8658,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ORO+MAX+DENTO+CARE/data=!4m7!3m6!1s0x39f97d0ddc009235:0x3c86c9a5503ed6ee!8m2!3d21.0680074!4d82.7525294!16s%2Fg%2F11k6rgfzfc!19sChIJNZIA3A19-TkR7tY-UKXJhjw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orogenesis-dental-clinic-berhampore",
@@ -8780,7 +8707,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Orogenesis+Dental+Clinic/data=!4m7!3m6!1s0x39f97c2d65888e53:0xb8968be8f42dc8a2!8m2!3d24.0868075!4d88.2513609!16s%2Fg%2F11c31qjlj7!19sChIJU46IZS18-TkRosgt9OiLlrg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orogenesis+Dental+Clinic/data=!4m7!3m6!1s0x39f97c2d65888e53:0xb8968be8f42dc8a2!8m2!3d24.0868075!4d88.2513609!16s%2Fg%2F11c31qjlj7!19sChIJU46IZS18-TkRosgt9OiLlrg?authuser=0&hl=en&rclk=1"
@@ -8849,8 +8776,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Orogenesis+Dental+Clinic/data=!4m7!3m6!1s0x39f97c2d65888e53:0xb8968be8f42dc8a2!8m2!3d24.0868075!4d88.2513609!16s%2Fg%2F11c31qjlj7!19sChIJU46IZS18-TkRosgt9OiLlrg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "plasma-diagnostic-berhampore",
@@ -8900,7 +8826,7 @@
       "Google rating 2.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Plasma+Diagnostic/@24.0948053,88.2544562,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97dd1b7491f1d:0x2d543d69531ec589!8m2!3d24.0948053!4d88.2544562!16s%2Fg%2F11bbwx1gz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Plasma+Diagnostic/@24.0948053,88.2544562,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97dd1b7491f1d:0x2d543d69531ec589!8m2!3d24.0948053!4d88.2544562!16s%2Fg%2F11bbwx1gz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -8969,8 +8895,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Plasma+Diagnostic/@24.0948053,88.2544562,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97dd1b7491f1d:0x2d543d69531ec589!8m2!3d24.0948053!4d88.2544562!16s%2Fg%2F11bbwx1gz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prime-diagnostic-and-polyclinic-berhampore",
@@ -9019,7 +8944,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PRIME+DIAGNOSTIC+AND+POLYCLINIC/data=!4m7!3m6!1s0x39f97d0043845225:0x3eac7e7e5e37dcc5!8m2!3d24.0994591!4d88.2561066!16s%2Fg%2F11x65hslzp!19sChIJJVKEQwB9-TkRxdw3Xn5-rD4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRIME+DIAGNOSTIC+AND+POLYCLINIC/data=!4m7!3m6!1s0x39f97d0043845225:0x3eac7e7e5e37dcc5!8m2!3d24.0994591!4d88.2561066!16s%2Fg%2F11x65hslzp!19sChIJJVKEQwB9-TkRxdw3Xn5-rD4?authuser=0&hl=en&rclk=1"
@@ -9085,11 +9010,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PRIME+DIAGNOSTIC+AND+POLYCLINIC/data=!4m7!3m6!1s0x39f97d0043845225:0x3eac7e7e5e37dcc5!8m2!3d24.0994591!4d88.2561066!16s%2Fg%2F11x65hslzp!19sChIJJVKEQwB9-TkRxdw3Xn5-rD4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-n-tagore-uphc-i-berhampore-municipality-murshidabad-medical-college-urban-training-centre-berhampore",
@@ -9138,7 +9062,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R.N+TAGORE+UPHC+I,+Berhampore+Municipality+%28Murshidabad+Medical+College+Urban+Training+Centre%29/data=!4m7!3m6!1s0x39f97db2fa36edf1:0x27471e4075e78472!8m2!3d24.0939305!4d88.2553789!16s%2Fg%2F11s0t65_k_!19sChIJ8e02-rJ9-TkRcoTndUAeRyc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.N+TAGORE+UPHC+I,+Berhampore+Municipality+%28Murshidabad+Medical+College+Urban+Training+Centre%29/data=!4m7!3m6!1s0x39f97db2fa36edf1:0x27471e4075e78472!8m2!3d24.0939305!4d88.2553789!16s%2Fg%2F11s0t65_k_!19sChIJ8e02-rJ9-TkRcoTndUAeRyc?authuser=0&hl=en&rclk=1"
@@ -9207,8 +9131,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R.N+TAGORE+UPHC+I,+Berhampore+Municipality+%28Murshidabad+Medical+College+Urban+Training+Centre%29/data=!4m7!3m6!1s0x39f97db2fa36edf1:0x27471e4075e78472!8m2!3d24.0939305!4d88.2553789!16s%2Fg%2F11s0t65_k_!19sChIJ8e02-rJ9-TkRcoTndUAeRyc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ranibagan-diagnostic-center-berhampore",
@@ -9257,7 +9180,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ranibagan+Diagnostic+Center/data=!4m7!3m6!1s0x39f97dbe7d2985e5:0x8277dbc975cad81d!8m2!3d24.0992954!4d88.2564016!16s%2Fg%2F11nxs_b28j!19sChIJ5YUpfb59-TkRHdjKdcnbd4I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ranibagan+Diagnostic+Center/data=!4m7!3m6!1s0x39f97dbe7d2985e5:0x8277dbc975cad81d!8m2!3d24.0992954!4d88.2564016!16s%2Fg%2F11nxs_b28j!19sChIJ5YUpfb59-TkRHdjKdcnbd4I?authuser=0&hl=en&rclk=1"
@@ -9326,8 +9249,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ranibagan+Diagnostic+Center/data=!4m7!3m6!1s0x39f97dbe7d2985e5:0x8277dbc975cad81d!8m2!3d24.0992954!4d88.2564016!16s%2Fg%2F11nxs_b28j!19sChIJ5YUpfb59-TkRHdjKdcnbd4I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "re-move-pain-clinic-chiropractor-in-kolkata-best-chiropractor-kolkata",
@@ -9377,7 +9299,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/re%2BMOVE+Pain+Clinic+%7C+Chiropractor+in+Kolkata+%7C+Best+Chiropractor/data=!4m7!3m6!1s0x39f89dea1e561219:0x743193140594c2ed!8m2!3d22.6153449!4d88.3873742!16s%2Fg%2F11fqp6sb23!19sChIJGRJWHuqd-DkR7cKUBRSTMXQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/re%2BMOVE+Pain+Clinic+%7C+Chiropractor+in+Kolkata+%7C+Best+Chiropractor/data=!4m7!3m6!1s0x39f89dea1e561219:0x743193140594c2ed!8m2!3d22.6153449!4d88.3873742!16s%2Fg%2F11fqp6sb23!19sChIJGRJWHuqd-DkR7cKUBRSTMXQ?authuser=0&hl=en&rclk=1"
@@ -9446,8 +9368,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/re%2BMOVE+Pain+Clinic+%7C+Chiropractor+in+Kolkata+%7C+Best+Chiropractor/data=!4m7!3m6!1s0x39f89dea1e561219:0x743193140594c2ed!8m2!3d22.6153449!4d88.3873742!16s%2Fg%2F11fqp6sb23!19sChIJGRJWHuqd-DkR7cKUBRSTMXQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "refyn-clinic-liposuction-gynaecomastia-hair-treatments-lasers-baranagar",
@@ -9496,7 +9417,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/REFYN+CLINIC+%7C%7C+Liposuction,+Gynaecomastia,+Hair+treatments,+Lasers/data=!4m7!3m6!1s0x39f89dfc24ca56d1:0xfa6a715dd41fb627!8m2!3d22.6496567!4d88.3821946!16s%2Fg%2F11ytgx3bjp!19sChIJ0VbKJPyd-DkRJ7Yf1F1xavo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/REFYN+CLINIC+%7C%7C+Liposuction,+Gynaecomastia,+Hair+treatments,+Lasers/data=!4m7!3m6!1s0x39f89dfc24ca56d1:0xfa6a715dd41fb627!8m2!3d22.6496567!4d88.3821946!16s%2Fg%2F11ytgx3bjp!19sChIJ0VbKJPyd-DkRJ7Yf1F1xavo?authuser=0&hl=en&rclk=1"
@@ -9565,8 +9486,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/REFYN+CLINIC+%7C%7C+Liposuction,+Gynaecomastia,+Hair+treatments,+Lasers/data=!4m7!3m6!1s0x39f89dfc24ca56d1:0xfa6a715dd41fb627!8m2!3d22.6496567!4d88.3821946!16s%2Fg%2F11ytgx3bjp!19sChIJ0VbKJPyd-DkRJ7Yf1F1xavo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "relief-diagnostic-and-health-care-berhampore",
@@ -9615,7 +9535,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Relief+Diagnostic+%26+Health+Care/data=!4m7!3m6!1s0x39f97da792279e23:0x5750d8d2d4da0b0c!8m2!3d24.098868!4d88.2568078!16s%2Fg%2F11n15829w_!19sChIJI54nkqd9-TkRDAva1NLYUFc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Relief+Diagnostic+%26+Health+Care/data=!4m7!3m6!1s0x39f97da792279e23:0x5750d8d2d4da0b0c!8m2!3d24.098868!4d88.2568078!16s%2Fg%2F11n15829w_!19sChIJI54nkqd9-TkRDAva1NLYUFc?authuser=0&hl=en&rclk=1"
@@ -9684,8 +9604,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Relief+Diagnostic+%26+Health+Care/data=!4m7!3m6!1s0x39f97da792279e23:0x5750d8d2d4da0b0c!8m2!3d24.098868!4d88.2568078!16s%2Fg%2F11n15829w_!19sChIJI54nkqd9-TkRDAva1NLYUFc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "remove-pain-clinic-mandir-tala-howrah-howrah",
@@ -9735,7 +9654,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Remove+Pain+clinic,+Mandir+Tala,Howrah/data=!4m7!3m6!1s0x3a027978305a6455:0x6c373d9bd74150e4!8m2!3d22.5685897!4d88.3167221!16s%2Fg%2F11t8_pzl62!19sChIJVWRaMHh5AjoR5FBB15s9N2w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Remove+Pain+clinic,+Mandir+Tala,Howrah/data=!4m7!3m6!1s0x3a027978305a6455:0x6c373d9bd74150e4!8m2!3d22.5685897!4d88.3167221!16s%2Fg%2F11t8_pzl62!19sChIJVWRaMHh5AjoR5FBB15s9N2w?authuser=0&hl=en&rclk=1"
@@ -9804,8 +9723,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Remove+Pain+clinic,+Mandir+Tala,Howrah/data=!4m7!3m6!1s0x3a027978305a6455:0x6c373d9bd74150e4!8m2!3d22.5685897!4d88.3167221!16s%2Fg%2F11t8_pzl62!19sChIJVWRaMHh5AjoR5FBB15s9N2w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rs-fertility-centre-and-health-care-domkol-natunpara",
@@ -9856,7 +9774,7 @@
       "1+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RS+Fertility+Centre+%26+Health+Care/data=!4m7!3m6!1s0x6a1a904c3d8d45c7:0xbebcc738762df8e!8m2!3d24.1225426!4d88.5524693!16s%2Fg%2F11w9tphr4z!19sChIJx0WNPUyQGmoRjt9ih3PM6ws?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RS+Fertility+Centre+%26+Health+Care/data=!4m7!3m6!1s0x6a1a904c3d8d45c7:0xbebcc738762df8e!8m2!3d24.1225426!4d88.5524693!16s%2Fg%2F11w9tphr4z!19sChIJx0WNPUyQGmoRjt9ih3PM6ws?authuser=0&hl=en&rclk=1"
@@ -9925,8 +9843,7 @@
     "rating": 4.9,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RS+Fertility+Centre+%26+Health+Care/data=!4m7!3m6!1s0x6a1a904c3d8d45c7:0xbebcc738762df8e!8m2!3d24.1225426!4d88.5524693!16s%2Fg%2F11w9tphr4z!19sChIJx0WNPUyQGmoRjt9ih3PM6ws?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saaol-heart-center-berhampore-berhampore",
@@ -9975,7 +9892,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saaol+Heart+Center+-+Berhampore/data=!4m7!3m6!1s0x39f97d2570945bc5:0xad3b389c3e66ec3e!8m2!3d24.0854966!4d88.2487212!16s%2Fg%2F11z232czr9!19sChIJxVuUcCV9-TkRPuxmPpw4O60?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+Heart+Center+-+Berhampore/data=!4m7!3m6!1s0x39f97d2570945bc5:0xad3b389c3e66ec3e!8m2!3d24.0854966!4d88.2487212!16s%2Fg%2F11z232czr9!19sChIJxVuUcCV9-TkRPuxmPpw4O60?authuser=0&hl=en&rclk=1"
@@ -10041,11 +9958,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saaol+Heart+Center+-+Berhampore/data=!4m7!3m6!1s0x39f97d2570945bc5:0xad3b389c3e66ec3e!8m2!3d24.0854966!4d88.2487212!16s%2Fg%2F11z232czr9!19sChIJxVuUcCV9-TkRPuxmPpw4O60?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sagira-dental-clinic-berhampore",
@@ -10094,7 +10010,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAGIRA+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f97d1cac86343f:0xb5de89b67bbebd3d!8m2!3d24.0972546!4d88.2769486!16s%2Fg%2F11w4gczfh7!19sChIJPzSGrBx9-TkRPb2-e7aJ3rU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAGIRA+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f97d1cac86343f:0xb5de89b67bbebd3d!8m2!3d24.0972546!4d88.2769486!16s%2Fg%2F11w4gczfh7!19sChIJPzSGrBx9-TkRPb2-e7aJ3rU?authuser=0&hl=en&rclk=1"
@@ -10160,11 +10076,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAGIRA+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f97d1cac86343f:0xb5de89b67bbebd3d!8m2!3d24.0972546!4d88.2769486!16s%2Fg%2F11w4gczfh7!19sChIJPzSGrBx9-TkRPb2-e7aJ3rU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samriddhi-aesthetics-skin-and-hair-clinic-in-berhampore-berhampore",
@@ -10213,7 +10128,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samriddhi+Aesthetics-+Skin+and+Hair+Clinic+in+Berhampore/data=!4m7!3m6!1s0x39f97dc0ad9ee6fd:0xfc34cc0403ff9dec!8m2!3d24.097881!4d88.2566216!16s%2Fg%2F11xct22796!19sChIJ_eaercB9-TkR7J3_AwTMNPw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samriddhi+Aesthetics-+Skin+and+Hair+Clinic+in+Berhampore/data=!4m7!3m6!1s0x39f97dc0ad9ee6fd:0xfc34cc0403ff9dec!8m2!3d24.097881!4d88.2566216!16s%2Fg%2F11xct22796!19sChIJ_eaercB9-TkR7J3_AwTMNPw?authuser=0&hl=en&rclk=1"
@@ -10279,11 +10194,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samriddhi+Aesthetics-+Skin+and+Hair+Clinic+in+Berhampore/data=!4m7!3m6!1s0x39f97dc0ad9ee6fd:0xfc34cc0403ff9dec!8m2!3d24.097881!4d88.2566216!16s%2Fg%2F11xct22796!19sChIJ_eaercB9-TkR7J3_AwTMNPw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samridhi-dental-clinic-berhampore",
@@ -10332,7 +10246,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAMRIDHI+Dental+clinic/data=!4m7!3m6!1s0x39f97d10378ed6f9:0x8b6ef992f873ea06!8m2!3d24.0949658!4d88.2545461!16s%2Fg%2F11rby_qyh4!19sChIJ-daONxB9-TkRBupz-JL5bos?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAMRIDHI+Dental+clinic/data=!4m7!3m6!1s0x39f97d10378ed6f9:0x8b6ef992f873ea06!8m2!3d24.0949658!4d88.2545461!16s%2Fg%2F11rby_qyh4!19sChIJ-daONxB9-TkRBupz-JL5bos?authuser=0&hl=en&rclk=1"
@@ -10401,8 +10315,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAMRIDHI+Dental+clinic/data=!4m7!3m6!1s0x39f97d10378ed6f9:0x8b6ef992f873ea06!8m2!3d24.0949658!4d88.2545461!16s%2Fg%2F11rby_qyh4!19sChIJ-daONxB9-TkRBupz-JL5bos?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samvriti-diagnostic-centre-chaltia",
@@ -10451,7 +10364,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samvriti+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97dccf3a4ea97:0xc6f686978ffa7468!8m2!3d24.0873664!4d88.2593727!16s%2Fg%2F11g7czfd59!19sChIJl-qk88x9-TkRaHT6j5eG9sY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samvriti+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97dccf3a4ea97:0xc6f686978ffa7468!8m2!3d24.0873664!4d88.2593727!16s%2Fg%2F11g7czfd59!19sChIJl-qk88x9-TkRaHT6j5eG9sY?authuser=0&hl=en&rclk=1"
@@ -10520,8 +10433,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samvriti+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97dccf3a4ea97:0xc6f686978ffa7468!8m2!3d24.0873664!4d88.2593727!16s%2Fg%2F11g7czfd59!19sChIJl-qk88x9-TkRaHT6j5eG9sY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sankalpo-clinic-berhampore-berhampore",
@@ -10569,7 +10481,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sankalpo+Clinic+Berhampore/data=!4m7!3m6!1s0x39f97db82b661fcf:0x84c198622b2e1ea5!8m2!3d24.1002396!4d88.2569936!16s%2Fg%2F11h9xf6byx!19sChIJzx9mK7h9-TkRpR4uK2KYwYQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sankalpo+Clinic+Berhampore/data=!4m7!3m6!1s0x39f97db82b661fcf:0x84c198622b2e1ea5!8m2!3d24.1002396!4d88.2569936!16s%2Fg%2F11h9xf6byx!19sChIJzx9mK7h9-TkRpR4uK2KYwYQ?authuser=0&hl=en&rclk=1"
@@ -10638,8 +10550,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sankalpo+Clinic+Berhampore/data=!4m7!3m6!1s0x39f97db82b661fcf:0x84c198622b2e1ea5!8m2!3d24.1002396!4d88.2569936!16s%2Fg%2F11h9xf6byx!19sChIJzx9mK7h9-TkRpR4uK2KYwYQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarala-surgical-clinic-nursing-home-baharampur",
@@ -10689,7 +10600,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SARALA+SURGICAL+CLINIC,+NURSING+HOME./data=!4m7!3m6!1s0x3a02765321b3ac7b:0x17bf99ce80245f9e!8m2!3d22.6501231!4d88.365524!16s%2Fg%2F1tjcmwbq!19sChIJe6yzIVN2AjoRnl8kgM6Zvxc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SARALA+SURGICAL+CLINIC,+NURSING+HOME./data=!4m7!3m6!1s0x3a02765321b3ac7b:0x17bf99ce80245f9e!8m2!3d22.6501231!4d88.365524!16s%2Fg%2F1tjcmwbq!19sChIJe6yzIVN2AjoRnl8kgM6Zvxc?authuser=0&hl=en&rclk=1"
@@ -10758,8 +10669,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SARALA+SURGICAL+CLINIC,+NURSING+HOME./data=!4m7!3m6!1s0x3a02765321b3ac7b:0x17bf99ce80245f9e!8m2!3d22.6501231!4d88.365524!16s%2Fg%2F1tjcmwbq!19sChIJe6yzIVN2AjoRnl8kgM6Zvxc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sb-rahab-centre-berhampore",
@@ -10808,7 +10718,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SB+RAHAB+CENTRE/data=!4m7!3m6!1s0x39f97d39c231ca99:0x6d8caec72310054e!8m2!3d24.0858126!4d88.2581877!16s%2Fg%2F11v5vq4_20!19sChIJmcoxwjl9-TkRTgUQI8eujG0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SB+RAHAB+CENTRE/data=!4m7!3m6!1s0x39f97d39c231ca99:0x6d8caec72310054e!8m2!3d24.0858126!4d88.2581877!16s%2Fg%2F11v5vq4_20!19sChIJmcoxwjl9-TkRTgUQI8eujG0?authuser=0&hl=en&rclk=1"
@@ -10874,11 +10784,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SB+RAHAB+CENTRE/data=!4m7!3m6!1s0x39f97d39c231ca99:0x6d8caec72310054e!8m2!3d24.0858126!4d88.2581877!16s%2Fg%2F11v5vq4_20!19sChIJmcoxwjl9-TkRTgUQI8eujG0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sc-bagchi-arogya-sadan-pvt-ltd-howrah",
@@ -10927,7 +10836,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SC+BAGCHI+AROGYA+SADAN+Pvt.+Ltd./@22.5858545,88.3035204,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027840137d4685:0x89ae97a629b95661!8m2!3d22.5858545!4d88.3035204!16s%2Fg%2F11c531z3jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SC+BAGCHI+AROGYA+SADAN+Pvt.+Ltd./@22.5858545,88.3035204,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027840137d4685:0x89ae97a629b95661!8m2!3d22.5858545!4d88.3035204!16s%2Fg%2F11c531z3jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10996,8 +10905,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SC+BAGCHI+AROGYA+SADAN+Pvt.+Ltd./@22.5858545,88.3035204,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027840137d4685:0x89ae97a629b95661!8m2!3d22.5858545!4d88.3035204!16s%2Fg%2F11c531z3jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sm-clinic-and-pharmacy-berhampore",
@@ -11046,7 +10954,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SM+CLINIC+%26+PHARMACY/data=!4m7!3m6!1s0x39f97dbe8d99b343:0x6854ddeb89957eca!8m2!3d24.0953198!4d88.2555673!16s%2Fg%2F11lgldhdm0!19sChIJQ7OZjb59-TkRyn6VievdVGg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SM+CLINIC+%26+PHARMACY/data=!4m7!3m6!1s0x39f97dbe8d99b343:0x6854ddeb89957eca!8m2!3d24.0953198!4d88.2555673!16s%2Fg%2F11lgldhdm0!19sChIJQ7OZjb59-TkRyn6VievdVGg?authuser=0&hl=en&rclk=1"
@@ -11115,8 +11023,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SM+CLINIC+%26+PHARMACY/data=!4m7!3m6!1s0x39f97dbe8d99b343:0x6854ddeb89957eca!8m2!3d24.0953198!4d88.2555673!16s%2Fg%2F11lgldhdm0!19sChIJQ7OZjb59-TkRyn6VievdVGg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-heaven-dental-clinic-berhampore",
@@ -11164,7 +11071,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+heaven+dental+clinic/data=!4m7!3m6!1s0x39f97d006d25d077:0x3084aafbab6d1578!8m2!3d24.1062755!4d88.2491564!16s%2Fg%2F11wwt7_d5f!19sChIJd9AlbQB9-TkReBVtq_uqhDA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+heaven+dental+clinic/data=!4m7!3m6!1s0x39f97d006d25d077:0x3084aafbab6d1578!8m2!3d24.1062755!4d88.2491564!16s%2Fg%2F11wwt7_d5f!19sChIJd9AlbQB9-TkReBVtq_uqhDA?authuser=0&hl=en&rclk=1"
@@ -11230,11 +11137,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+heaven+dental+clinic/data=!4m7!3m6!1s0x39f97d006d25d077:0x3084aafbab6d1578!8m2!3d24.1062755!4d88.2491564!16s%2Fg%2F11wwt7_d5f!19sChIJd9AlbQB9-TkReBVtq_uqhDA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-zone-in-berhampore",
@@ -11283,7 +11189,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Zone+in/data=!4m7!3m6!1s0x39f97d91fd92cbd3:0xbfd33aca3558c789!8m2!3d24.0983836!4d88.2573988!16s%2Fg%2F1q64b3hl8!19sChIJ08uS_ZF9-TkRicdYNco6078?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Zone+in/data=!4m7!3m6!1s0x39f97d91fd92cbd3:0xbfd33aca3558c789!8m2!3d24.0983836!4d88.2573988!16s%2Fg%2F1q64b3hl8!19sChIJ08uS_ZF9-TkRicdYNco6078?authuser=0&hl=en&rclk=1"
@@ -11352,8 +11258,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Zone+in/data=!4m7!3m6!1s0x39f97d91fd92cbd3:0xbfd33aca3558c789!8m2!3d24.0983836!4d88.2573988!16s%2Fg%2F1q64b3hl8!19sChIJ08uS_ZF9-TkRicdYNco6078?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smilebay-dental-clinic-gora-bazar",
@@ -11401,7 +11306,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smilebay+Dental+Clinic/data=!4m7!3m6!1s0x39f97c2b2a0e3a71:0xd337c314845d8e47!8m2!3d24.0861001!4d88.2485142!16s%2Fg%2F11f1lf4xnx!19sChIJcToOKit8-TkRR45dhBTDN9M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilebay+Dental+Clinic/data=!4m7!3m6!1s0x39f97c2b2a0e3a71:0xd337c314845d8e47!8m2!3d24.0861001!4d88.2485142!16s%2Fg%2F11f1lf4xnx!19sChIJcToOKit8-TkRR45dhBTDN9M?authuser=0&hl=en&rclk=1"
@@ -11467,11 +11372,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smilebay+Dental+Clinic/data=!4m7!3m6!1s0x39f97c2b2a0e3a71:0xd337c314845d8e47!8m2!3d24.0861001!4d88.2485142!16s%2Fg%2F11f1lf4xnx!19sChIJcToOKit8-TkRR45dhBTDN9M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sonoscan-kolkata",
@@ -11521,7 +11425,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SONOSCAN/data=!4m7!3m6!1s0x3a0277f2f1c2d6af:0xa78d1e267271b362!8m2!3d22.5488865!4d88.3711417!16s%2Fg%2F11c7sxrdgq!19sChIJr9bC8fJ3AjoRYrNxciYejac?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SONOSCAN/data=!4m7!3m6!1s0x3a0277f2f1c2d6af:0xa78d1e267271b362!8m2!3d22.5488865!4d88.3711417!16s%2Fg%2F11c7sxrdgq!19sChIJr9bC8fJ3AjoRYrNxciYejac?authuser=0&hl=en&rclk=1"
@@ -11590,8 +11494,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SONOSCAN/data=!4m7!3m6!1s0x3a0277f2f1c2d6af:0xa78d1e267271b362!8m2!3d22.5488865!4d88.3711417!16s%2Fg%2F11c7sxrdgq!19sChIJr9bC8fJ3AjoRYrNxciYejac?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sparsha-infertility-centre-best-ivf-centre-and-pregnancy-care-in-kolkata-kolkata",
@@ -11642,7 +11545,7 @@
       "77+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sparsha+Infertility+Centre+-+Best+IVF+Centre+%26+Pregnancy+Care+in+Kolkata/data=!4m7!3m6!1s0x39f89f46839d2bf1:0x8fadab97c14c4f35!8m2!3d22.6874405!4d88.4636274!16s%2Fg%2F1pxw9sx5b!19sChIJ8Sudg0af-DkRNU9MwZerrY8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsha+Infertility+Centre+-+Best+IVF+Centre+%26+Pregnancy+Care+in+Kolkata/data=!4m7!3m6!1s0x39f89f46839d2bf1:0x8fadab97c14c4f35!8m2!3d22.6874405!4d88.4636274!16s%2Fg%2F1pxw9sx5b!19sChIJ8Sudg0af-DkRNU9MwZerrY8?authuser=0&hl=en&rclk=1"
@@ -11711,8 +11614,7 @@
     "rating": 4.8,
     "reviews": 77,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sparsha+Infertility+Centre+-+Best+IVF+Centre+%26+Pregnancy+Care+in+Kolkata/data=!4m7!3m6!1s0x39f89f46839d2bf1:0x8fadab97c14c4f35!8m2!3d22.6874405!4d88.4636274!16s%2Fg%2F1pxw9sx5b!19sChIJ8Sudg0af-DkRNU9MwZerrY8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srl-diagnostics-berhampore-agilus-diagnostics-best-pathology-in-murshidabad-free-blood-sample-collection-berhampore",
@@ -11762,7 +11664,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRL+Diagnostics+Berhampore+%28Agilus+Diagnostics%29+%7C%7C+Best+Pathology+in+Murshidabad+%7C%7C+Free+Blood+Sample+Collection+%7C%7C/data=!4m7!3m6!1s0x39f97db517bdc811:0x105f36d5bfdf1596!8m2!3d24.1055714!4d88.2537515!16s%2Fg%2F11ss2ddd4x!19sChIJEci9F7V9-TkRlhXfv9U2XxA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRL+Diagnostics+Berhampore+%28Agilus+Diagnostics%29+%7C%7C+Best+Pathology+in+Murshidabad+%7C%7C+Free+Blood+Sample+Collection+%7C%7C/data=!4m7!3m6!1s0x39f97db517bdc811:0x105f36d5bfdf1596!8m2!3d24.1055714!4d88.2537515!16s%2Fg%2F11ss2ddd4x!19sChIJEci9F7V9-TkRlhXfv9U2XxA?authuser=0&hl=en&rclk=1"
@@ -11831,8 +11733,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRL+Diagnostics+Berhampore+%28Agilus+Diagnostics%29+%7C%7C+Best+Pathology+in+Murshidabad+%7C%7C+Free+Blood+Sample+Collection+%7C%7C/data=!4m7!3m6!1s0x39f97db517bdc811:0x105f36d5bfdf1596!8m2!3d24.1055714!4d88.2537515!16s%2Fg%2F11ss2ddd4x!19sChIJEci9F7V9-TkRlhXfv9U2XxA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sskm-hospital-and-pg-opd-counter-kolkata",
@@ -11881,7 +11782,7 @@
       "Google rating 4.0",
       "3+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SSKM+Hospital+%26+PG+OPD+Counter/data=!4m7!3m6!1s0x3a02774e126750f7:0x811d7a5bc765e76b!8m2!3d22.5389877!4d88.3439071!16s%2Fg%2F11g1mcv0kn!19sChIJ91BnEk53AjoRa-dlx1t6HYE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SSKM+Hospital+%26+PG+OPD+Counter/data=!4m7!3m6!1s0x3a02774e126750f7:0x811d7a5bc765e76b!8m2!3d22.5389877!4d88.3439071!16s%2Fg%2F11g1mcv0kn!19sChIJ91BnEk53AjoRa-dlx1t6HYE?authuser=0&hl=en&rclk=1"
@@ -11947,11 +11848,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SSKM+Hospital+%26+PG+OPD+Counter/data=!4m7!3m6!1s0x3a02774e126750f7:0x811d7a5bc765e76b!8m2!3d22.5389877!4d88.3439071!16s%2Fg%2F11g1mcv0kn!19sChIJ91BnEk53AjoRa-dlx1t6HYE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "stark-medical-centre-berhampore",
@@ -12000,7 +11900,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/STARK+MEDICAL+CENTRE/data=!4m7!3m6!1s0x39f97d36e99b972d:0x959e60015daf2cf!8m2!3d24.0891034!4d88.2536332!16s%2Fg%2F11fpjwbxj9!19sChIJLZeb6TZ9-TkRz_LaFQDmWQk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STARK+MEDICAL+CENTRE/data=!4m7!3m6!1s0x39f97d36e99b972d:0x959e60015daf2cf!8m2!3d24.0891034!4d88.2536332!16s%2Fg%2F11fpjwbxj9!19sChIJLZeb6TZ9-TkRz_LaFQDmWQk?authuser=0&hl=en&rclk=1"
@@ -12069,8 +11969,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/STARK+MEDICAL+CENTRE/data=!4m7!3m6!1s0x39f97d36e99b972d:0x959e60015daf2cf!8m2!3d24.0891034!4d88.2536332!16s%2Fg%2F11fpjwbxj9!19sChIJLZeb6TZ9-TkRz_LaFQDmWQk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sudipta-s-dental-clinic-baharampur",
@@ -12118,7 +12017,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sudipta%27s+Dental+Clinic/data=!4m7!3m6!1s0x39f97c353d5bdce5:0x9f7685764eb45311!8m2!3d24.0851063!4d88.2638115!16s%2Fg%2F11fxct7_5m!19sChIJ5dxbPTV8-TkREVO0TnaFdp8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudipta%27s+Dental+Clinic/data=!4m7!3m6!1s0x39f97c353d5bdce5:0x9f7685764eb45311!8m2!3d24.0851063!4d88.2638115!16s%2Fg%2F11fxct7_5m!19sChIJ5dxbPTV8-TkREVO0TnaFdp8?authuser=0&hl=en&rclk=1"
@@ -12187,8 +12086,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sudipta%27s+Dental+Clinic/data=!4m7!3m6!1s0x39f97c353d5bdce5:0x9f7685764eb45311!8m2!3d24.0851063!4d88.2638115!16s%2Fg%2F11fxct7_5m!19sChIJ5dxbPTV8-TkREVO0TnaFdp8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunirnoy-clinic-berhampore",
@@ -12236,7 +12134,7 @@
     "metrics": [
       "Google rating 2.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sunirnoy+Clinic/data=!4m7!3m6!1s0x39f97ddb00de835f:0x1943f1da3ed9d6dd!8m2!3d24.1014791!4d88.2537169!16s%2Fg%2F11hd6n0029!19sChIJX4PeANt9-TkR3dbZPtrxQxk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunirnoy+Clinic/data=!4m7!3m6!1s0x39f97ddb00de835f:0x1943f1da3ed9d6dd!8m2!3d24.1014791!4d88.2537169!16s%2Fg%2F11hd6n0029!19sChIJX4PeANt9-TkR3dbZPtrxQxk?authuser=0&hl=en&rclk=1"
@@ -12305,8 +12203,7 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sunirnoy+Clinic/data=!4m7!3m6!1s0x39f97ddb00de835f:0x1943f1da3ed9d6dd!8m2!3d24.1014791!4d88.2537169!16s%2Fg%2F11hd6n0029!19sChIJX4PeANt9-TkR3dbZPtrxQxk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunirnoy-imaging-centre-berhampore",
@@ -12356,7 +12253,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sunirnoy+Imaging+Centre/data=!4m7!3m6!1s0x39f97d4b9bf0911f:0xd161cf3a9dd4010c!8m2!3d24.1008327!4d88.2561612!16s%2Fg%2F11q2lzs7r9!19sChIJH5Hwm0t9-TkRDAHUnTrPYdE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunirnoy+Imaging+Centre/data=!4m7!3m6!1s0x39f97d4b9bf0911f:0xd161cf3a9dd4010c!8m2!3d24.1008327!4d88.2561612!16s%2Fg%2F11q2lzs7r9!19sChIJH5Hwm0t9-TkRDAHUnTrPYdE?authuser=0&hl=en&rclk=1"
@@ -12425,8 +12322,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sunirnoy+Imaging+Centre/data=!4m7!3m6!1s0x39f97d4b9bf0911f:0xd161cf3a9dd4010c!8m2!3d24.1008327!4d88.2561612!16s%2Fg%2F11q2lzs7r9!19sChIJH5Hwm0t9-TkRDAHUnTrPYdE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "taj-medical-center-berhampore",
@@ -12475,7 +12371,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Taj+Medical+Center/data=!4m7!3m6!1s0x39f97dc52932cb47:0x9dcb5099fc55c7ca!8m2!3d24.1006144!4d88.2566636!16s%2Fg%2F11c5g5k0dz!19sChIJR8syKcV9-TkRysdV_JlQy50?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Taj+Medical+Center/data=!4m7!3m6!1s0x39f97dc52932cb47:0x9dcb5099fc55c7ca!8m2!3d24.1006144!4d88.2566636!16s%2Fg%2F11c5g5k0dz!19sChIJR8syKcV9-TkRysdV_JlQy50?authuser=0&hl=en&rclk=1"
@@ -12541,11 +12437,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Taj+Medical+Center/data=!4m7!3m6!1s0x39f97dc52932cb47:0x9dcb5099fc55c7ca!8m2!3d24.1006144!4d88.2566636!16s%2Fg%2F11c5g5k0dz!19sChIJR8syKcV9-TkRysdV_JlQy50?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tertiary-cancer-care-center-tccc-berhampore",
@@ -12595,7 +12490,7 @@
       "Google rating 3.7",
       "2+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tertiary+Cancer+Care+Center+%28+TCCC+%29/data=!4m7!3m6!1s0x39f97d4c05959fd9:0x28608459b7bd0b11!8m2!3d24.0892552!4d88.2580907!16s%2Fg%2F11jyynqr3n!19sChIJ2Z-VBUx9-TkREQu9t1mEYCg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tertiary+Cancer+Care+Center+%28+TCCC+%29/data=!4m7!3m6!1s0x39f97d4c05959fd9:0x28608459b7bd0b11!8m2!3d24.0892552!4d88.2580907!16s%2Fg%2F11jyynqr3n!19sChIJ2Z-VBUx9-TkREQu9t1mEYCg?authuser=0&hl=en&rclk=1"
@@ -12664,8 +12559,7 @@
     "rating": 3.7,
     "reviews": 2,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tertiary+Cancer+Care+Center+%28+TCCC+%29/data=!4m7!3m6!1s0x39f97d4c05959fd9:0x28608459b7bd0b11!8m2!3d24.0892552!4d88.2580907!16s%2Fg%2F11jyynqr3n!19sChIJ2Z-VBUx9-TkREQu9t1mEYCg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-gariahat-kidney-care-centre-kolkata",
@@ -12714,7 +12608,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Gariahat+Kidney+Care+Centre/data=!4m7!3m6!1s0x3a0276d36732d7df:0x579604391f441b72!8m2!3d22.5181153!4d88.3677804!16s%2Fg%2F11c55ryfrg!19sChIJ39cyZ9N2AjoRchtEHzkEllc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Gariahat+Kidney+Care+Centre/data=!4m7!3m6!1s0x3a0276d36732d7df:0x579604391f441b72!8m2!3d22.5181153!4d88.3677804!16s%2Fg%2F11c55ryfrg!19sChIJ39cyZ9N2AjoRchtEHzkEllc?authuser=0&hl=en&rclk=1"
@@ -12783,8 +12677,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Gariahat+Kidney+Care+Centre/data=!4m7!3m6!1s0x3a0276d36732d7df:0x579604391f441b72!8m2!3d22.5181153!4d88.3677804!16s%2Fg%2F11c55ryfrg!19sChIJ39cyZ9N2AjoRchtEHzkEllc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -12834,7 +12727,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
@@ -12900,11 +12793,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-perfect-32-dental-care-berhampore",
@@ -12952,7 +12844,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Perfect+32+Dental+care/@24.0949427,88.2551556,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97d7dd4623107:0xf5eedf98ccd2c6dc!8m2!3d24.0949427!4d88.2551556!16s%2Fg%2F11kr8t_qqr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Perfect+32+Dental+care/@24.0949427,88.2551556,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97d7dd4623107:0xf5eedf98ccd2c6dc!8m2!3d24.0949427!4d88.2551556!16s%2Fg%2F11kr8t_qqr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -13018,11 +12910,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Perfect+32+Dental+care/@24.0949427,88.2551556,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97d7dd4623107:0xf5eedf98ccd2c6dc!8m2!3d24.0949427!4d88.2551556!16s%2Fg%2F11kr8t_qqr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "we-care-wellness-clinic-skin-laser-and-hair-berhampore",
@@ -13071,7 +12962,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/We+Care+Wellness+Clinic+%7C+Skin+,+Laser+%26+Hair+%7C/data=!4m7!3m6!1s0x39f97dc530e6289d:0x7f2dd3c4605ef105!8m2!3d24.1064107!4d88.2498687!16s%2Fg%2F11g6xgq30t!19sChIJnSjmMMV9-TkRBfFeYMTTLX8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/We+Care+Wellness+Clinic+%7C+Skin+,+Laser+%26+Hair+%7C/data=!4m7!3m6!1s0x39f97dc530e6289d:0x7f2dd3c4605ef105!8m2!3d24.1064107!4d88.2498687!16s%2Fg%2F11g6xgq30t!19sChIJnSjmMMV9-TkRBfFeYMTTLX8?authuser=0&hl=en&rclk=1"
@@ -13140,8 +13031,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/We+Care+Wellness+Clinic+%7C+Skin+,+Laser+%26+Hair+%7C/data=!4m7!3m6!1s0x39f97dc530e6289d:0x7f2dd3c4605ef105!8m2!3d24.1064107!4d88.2498687!16s%2Fg%2F11g6xgq30t!19sChIJnSjmMMV9-TkRBfFeYMTTLX8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "well-bred-nurshing-home-murshidabad",
@@ -13189,7 +13079,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Well+Bred+Nurshing+Home/data=!4m7!3m6!1s0x39fbd650b0f02bc9:0x62ab8deea8492420!8m2!3d24.1752441!4d88.2761117!16s%2Fg%2F11css65c17!19sChIJySvwsFDW-zkRICRJqO6Nq2I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Well+Bred+Nurshing+Home/data=!4m7!3m6!1s0x39fbd650b0f02bc9:0x62ab8deea8492420!8m2!3d24.1752441!4d88.2761117!16s%2Fg%2F11css65c17!19sChIJySvwsFDW-zkRICRJqO6Nq2I?authuser=0&hl=en&rclk=1"
@@ -13258,8 +13148,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Well+Bred+Nurshing+Home/data=!4m7!3m6!1s0x39fbd650b0f02bc9:0x62ab8deea8492420!8m2!3d24.1752441!4d88.2761117!16s%2Fg%2F11css65c17!19sChIJySvwsFDW-zkRICRJqO6Nq2I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "winpain-advanced-chiropractic-and-physiotherapy-clinic-kolkata",
@@ -13309,7 +13198,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Winpain+-+Advanced+Chiropractic+And+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39f89ffad8eb5a7d:0xfa756b85fad824d8!8m2!3d22.6939279!4d88.4636137!16s%2Fg%2F11jz3gl5m_!19sChIJfVrr2Pqf-DkR2CTY-oVrdfo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Winpain+-+Advanced+Chiropractic+And+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39f89ffad8eb5a7d:0xfa756b85fad824d8!8m2!3d22.6939279!4d88.4636137!16s%2Fg%2F11jz3gl5m_!19sChIJfVrr2Pqf-DkR2CTY-oVrdfo?authuser=0&hl=en&rclk=1"
@@ -13378,7 +13267,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Winpain+-+Advanced+Chiropractic+And+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39f89ffad8eb5a7d:0xfa756b85fad824d8!8m2!3d22.6939279!4d88.4636137!16s%2Fg%2F11jz3gl5m_!19sChIJfVrr2Pqf-DkR2CTY-oVrdfo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

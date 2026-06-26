@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Abhipriya+Dental+Clinic/data=!4m7!3m6!1s0x396cbbbb403008ab:0xda299c005ba4551c!8m2!3d27.6210361!4d75.157132!16s%2Fg%2F11c6lwrn3t!19sChIJqwgwQLu7bDkRHFWkWwCcKdo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abhipriya+Dental+Clinic/data=!4m7!3m6!1s0x396cbbbb403008ab:0xda299c005ba4551c!8m2!3d27.6210361!4d75.157132!16s%2Fg%2F11c6lwrn3t!19sChIJqwgwQLu7bDkRHFWkWwCcKdo?authuser=0&hl=en&rclk=1"
@@ -114,8 +114,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Abhipriya+Dental+Clinic/data=!4m7!3m6!1s0x396cbbbb403008ab:0xda299c005ba4551c!8m2!3d27.6210361!4d75.157132!16s%2Fg%2F11c6lwrn3t!19sChIJqwgwQLu7bDkRHFWkWwCcKdo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advance-urology-clinic-sikar",
@@ -161,7 +160,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ADVANCE+UROLOGY+CLINIC/data=!4m7!3m6!1s0x396ca4c775b12e3f:0x30f6e62be08f3fb8!8m2!3d27.6094371!4d75.1397875!16s%2Fg%2F11pct3m590!19sChIJPy6xdcekbDkRuD-P4Cvm9jA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADVANCE+UROLOGY+CLINIC/data=!4m7!3m6!1s0x396ca4c775b12e3f:0x30f6e62be08f3fb8!8m2!3d27.6094371!4d75.1397875!16s%2Fg%2F11pct3m590!19sChIJPy6xdcekbDkRuD-P4Cvm9jA?authuser=0&hl=en&rclk=1"
@@ -227,11 +226,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ADVANCE+UROLOGY+CLINIC/data=!4m7!3m6!1s0x396ca4c775b12e3f:0x30f6e62be08f3fb8!8m2!3d27.6094371!4d75.1397875!16s%2Fg%2F11pct3m590!19sChIJPy6xdcekbDkRuD-P4Cvm9jA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apple-hospital-and-test-tube-baby-centre-sikar",
@@ -279,7 +277,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apple+Hospital+and+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x396ca4c84904c2bf:0x2a15af8e835b6115!8m2!3d27.6105025!4d75.1453681!16s%2Fg%2F11dfgd5drs!19sChIJv8IEScikbDkRFWFbg46vFSo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apple+Hospital+and+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x396ca4c84904c2bf:0x2a15af8e835b6115!8m2!3d27.6105025!4d75.1453681!16s%2Fg%2F11dfgd5drs!19sChIJv8IEScikbDkRFWFbg46vFSo?authuser=0&hl=en&rclk=1"
@@ -348,8 +346,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apple+Hospital+and+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x396ca4c84904c2bf:0x2a15af8e835b6115!8m2!3d27.6105025!4d75.1453681!16s%2Fg%2F11dfgd5drs!19sChIJv8IEScikbDkRFWFbg46vFSo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arihant-hospital-and-ivf-center-sikar",
@@ -399,7 +396,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arihant+Hospital+%26+IVF+Center/data=!4m7!3m6!1s0x396ca4ce90b4844f:0x894ff22028afd96e!8m2!3d27.6169617!4d75.1478125!16s%2Fg%2F12hq230tv!19sChIJT4S0kM6kbDkRbtmvKCDyT4k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arihant+Hospital+%26+IVF+Center/data=!4m7!3m6!1s0x396ca4ce90b4844f:0x894ff22028afd96e!8m2!3d27.6169617!4d75.1478125!16s%2Fg%2F12hq230tv!19sChIJT4S0kM6kbDkRbtmvKCDyT4k?authuser=0&hl=en&rclk=1"
@@ -468,8 +465,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arihant+Hospital+%26+IVF+Center/data=!4m7!3m6!1s0x396ca4ce90b4844f:0x894ff22028afd96e!8m2!3d27.6169617!4d75.1478125!16s%2Fg%2F12hq230tv!19sChIJT4S0kM6kbDkRbtmvKCDyT4k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirwad-dental-hospital-best-dentist-in-sikar-best-dental-clinic-in-sikar-dental-implant-root-canal-treatment-sikar",
@@ -519,7 +515,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashirwad+Dental+Hospital+%7C+Best+Dentist+In+Sikar+%7C+Best+Dental+Clinic+In+Sikar+%7C+Dental+Implant+%7C+Root+Canal+Treatment/data=!4m7!3m6!1s0x396cbb0e55fa5367:0xa28383e6f7fed3e3!8m2!3d27.6265579!4d75.1748809!16s%2Fg%2F11vctt32ys!19sChIJZ1P6VQ67bDkR49P-9-aDg6I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirwad+Dental+Hospital+%7C+Best+Dentist+In+Sikar+%7C+Best+Dental+Clinic+In+Sikar+%7C+Dental+Implant+%7C+Root+Canal+Treatment/data=!4m7!3m6!1s0x396cbb0e55fa5367:0xa28383e6f7fed3e3!8m2!3d27.6265579!4d75.1748809!16s%2Fg%2F11vctt32ys!19sChIJZ1P6VQ67bDkR49P-9-aDg6I?authuser=0&hl=en&rclk=1"
@@ -588,8 +584,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashirwad+Dental+Hospital+%7C+Best+Dentist+In+Sikar+%7C+Best+Dental+Clinic+In+Sikar+%7C+Dental+Implant+%7C+Root+Canal+Treatment/data=!4m7!3m6!1s0x396cbb0e55fa5367:0xa28383e6f7fed3e3!8m2!3d27.6265579!4d75.1748809!16s%2Fg%2F11vctt32ys!19sChIJZ1P6VQ67bDkR49P-9-aDg6I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bagaria-urology-and-gynae-hospital-sikar",
@@ -638,7 +633,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bagaria+Urology+And+Gynae+Hospital/data=!4m7!3m6!1s0x396ca4e85feb6d63:0xa88e4cf5fd7ed1e9!8m2!3d27.616953!4d75.128368!16s%2Fg%2F11c6sr71rm!19sChIJY23rX-ikbDkR6dF-_fVMjqg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bagaria+Urology+And+Gynae+Hospital/data=!4m7!3m6!1s0x396ca4e85feb6d63:0xa88e4cf5fd7ed1e9!8m2!3d27.616953!4d75.128368!16s%2Fg%2F11c6sr71rm!19sChIJY23rX-ikbDkR6dF-_fVMjqg?authuser=0&hl=en&rclk=1"
@@ -707,8 +702,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bagaria+Urology+And+Gynae+Hospital/data=!4m7!3m6!1s0x396ca4e85feb6d63:0xa88e4cf5fd7ed1e9!8m2!3d27.616953!4d75.128368!16s%2Fg%2F11c6sr71rm!19sChIJY23rX-ikbDkR6dF-_fVMjqg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhaskar-heights-sikar",
@@ -757,7 +751,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhaskar+Heights/data=!4m7!3m6!1s0x396ca4cba0415783:0x8f40228c95d42a7c!8m2!3d27.6055193!4d75.1552449!16s%2Fg%2F1hg4y1fgn!19sChIJg1dBoMukbDkRfCrUlYwiQI8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhaskar+Heights/data=!4m7!3m6!1s0x396ca4cba0415783:0x8f40228c95d42a7c!8m2!3d27.6055193!4d75.1552449!16s%2Fg%2F1hg4y1fgn!19sChIJg1dBoMukbDkRfCrUlYwiQI8?authuser=0&hl=en&rclk=1"
@@ -823,11 +817,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhaskar+Heights/data=!4m7!3m6!1s0x396ca4cba0415783:0x8f40228c95d42a7c!8m2!3d27.6055193!4d75.1552449!16s%2Fg%2F1hg4y1fgn!19sChIJg1dBoMukbDkRfCrUlYwiQI8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhumika-hospital-sikar",
@@ -875,7 +868,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhumika+Hospital/data=!4m7!3m6!1s0x396ca4d1d58a263d:0xce939fc7e0cd4614!8m2!3d27.620281!4d75.1460696!16s%2Fg%2F1td5k2lw!19sChIJPSaK1dGkbDkRFEbN4Mefk84?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhumika+Hospital/data=!4m7!3m6!1s0x396ca4d1d58a263d:0xce939fc7e0cd4614!8m2!3d27.620281!4d75.1460696!16s%2Fg%2F1td5k2lw!19sChIJPSaK1dGkbDkRFEbN4Mefk84?authuser=0&hl=en&rclk=1"
@@ -944,8 +937,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhumika+Hospital/data=!4m7!3m6!1s0x396ca4d1d58a263d:0xce939fc7e0cd4614!8m2!3d27.620281!4d75.1460696!16s%2Fg%2F1td5k2lw!19sChIJPSaK1dGkbDkRFEbN4Mefk84?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bindal-hospital-sikar",
@@ -993,7 +985,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bindal+Hospital/data=!4m7!3m6!1s0x396ca4cf2b543141:0x8bb577266d3e8c2!8m2!3d27.6145569!4d75.145457!16s%2Fg%2F1hjh5609j!19sChIJQTFUK8-kbDkRwujTZnJXuwg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bindal+Hospital/data=!4m7!3m6!1s0x396ca4cf2b543141:0x8bb577266d3e8c2!8m2!3d27.6145569!4d75.145457!16s%2Fg%2F1hjh5609j!19sChIJQTFUK8-kbDkRwujTZnJXuwg?authuser=0&hl=en&rclk=1"
@@ -1062,8 +1054,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bindal+Hospital/data=!4m7!3m6!1s0x396ca4cf2b543141:0x8bb577266d3e8c2!8m2!3d27.6145569!4d75.145457!16s%2Fg%2F1hjh5609j!19sChIJQTFUK8-kbDkRwujTZnJXuwg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "birakh-s-dental-planet-sikar",
@@ -1111,7 +1102,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BIRAKH%27S+DENTAL+PLANET/data=!4m7!3m6!1s0x396ca59c39e736ad:0xc419b72af7a0ca8a!8m2!3d27.6138065!4d75.1497604!16s%2Fg%2F11syf4z27n!19sChIJrTbnOZylbDkRisqg9yq3GcQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BIRAKH%27S+DENTAL+PLANET/data=!4m7!3m6!1s0x396ca59c39e736ad:0xc419b72af7a0ca8a!8m2!3d27.6138065!4d75.1497604!16s%2Fg%2F11syf4z27n!19sChIJrTbnOZylbDkRisqg9yq3GcQ?authuser=0&hl=en&rclk=1"
@@ -1177,11 +1168,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BIRAKH%27S+DENTAL+PLANET/data=!4m7!3m6!1s0x396ca59c39e736ad:0xc419b72af7a0ca8a!8m2!3d27.6138065!4d75.1497604!16s%2Fg%2F11syf4z27n!19sChIJrTbnOZylbDkRisqg9yq3GcQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bright-smile-dental-care-sikar",
@@ -1229,7 +1219,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bright+Smile+Dental+Care/data=!4m7!3m6!1s0x396ca5e94265a93d:0xadd89cc76ea4a8cb!8m2!3d27.6029763!4d75.1508892!16s%2Fg%2F11wmwhhxss!19sChIJPallQumlbDkRy6ikbsec2K0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bright+Smile+Dental+Care/data=!4m7!3m6!1s0x396ca5e94265a93d:0xadd89cc76ea4a8cb!8m2!3d27.6029763!4d75.1508892!16s%2Fg%2F11wmwhhxss!19sChIJPallQumlbDkRy6ikbsec2K0?authuser=0&hl=en&rclk=1"
@@ -1295,11 +1285,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bright+Smile+Dental+Care/data=!4m7!3m6!1s0x396ca5e94265a93d:0xadd89cc76ea4a8cb!8m2!3d27.6029763!4d75.1508892!16s%2Fg%2F11wmwhhxss!19sChIJPallQumlbDkRy6ikbsec2K0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cancer-clinic-sikar-dr-kapil-dev-dr-jitendra-kumar-pehlajani-sikar",
@@ -1349,7 +1338,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cancer+Clinic+Sikar+%28Dr+kapil+dev,Dr+jitendra+kumar+pehlajani%29/data=!4m7!3m6!1s0x396ca31dc73dca27:0xad7b7c77c5b84b1e!8m2!3d27.5721617!4d75.1396499!16s%2Fg%2F11x8p9kzkd!19sChIJJ8o9xx2jbDkRHku4xXd8e60?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cancer+Clinic+Sikar+%28Dr+kapil+dev,Dr+jitendra+kumar+pehlajani%29/data=!4m7!3m6!1s0x396ca31dc73dca27:0xad7b7c77c5b84b1e!8m2!3d27.5721617!4d75.1396499!16s%2Fg%2F11x8p9kzkd!19sChIJJ8o9xx2jbDkRHku4xXd8e60?authuser=0&hl=en&rclk=1"
@@ -1415,11 +1404,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cancer+Clinic+Sikar+%28Dr+kapil+dev,Dr+jitendra+kumar+pehlajani%29/data=!4m7!3m6!1s0x396ca31dc73dca27:0xad7b7c77c5b84b1e!8m2!3d27.5721617!4d75.1396499!16s%2Fg%2F11x8p9kzkd!19sChIJJ8o9xx2jbDkRHku4xXd8e60?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cardiac-incharge-of-shekhawati-sikar",
@@ -1468,7 +1456,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cardiac+incharge+of+shekhawati/data=!4m7!3m6!1s0x396ca50026b463ab:0x56a152307c167b87!8m2!3d27.6094371!4d75.1397875!16s%2Fg%2F11y8nwxql_!19sChIJq2O0JgClbDkRh3sWfDBSoVY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cardiac+incharge+of+shekhawati/data=!4m7!3m6!1s0x396ca50026b463ab:0x56a152307c167b87!8m2!3d27.6094371!4d75.1397875!16s%2Fg%2F11y8nwxql_!19sChIJq2O0JgClbDkRh3sWfDBSoVY?authuser=0&hl=en&rclk=1"
@@ -1534,11 +1522,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cardiac+incharge+of+shekhawati/data=!4m7!3m6!1s0x396ca50026b463ab:0x56a152307c167b87!8m2!3d27.6094371!4d75.1397875!16s%2Fg%2F11y8nwxql_!19sChIJq2O0JgClbDkRh3sWfDBSoVY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "derma-shine-skin-care-hair-transplant-and-laser-clinic-sikar",
@@ -1587,7 +1574,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DERMA+SHINE+SKIN+CARE,HAIR+TRANSPLANT+%26+LASER+CLINIC/data=!4m7!3m6!1s0x396ca5a4123e979f:0xcad90487a298a9d9!8m2!3d27.6131128!4d75.1479646!16s%2Fg%2F11g0hxygdm!19sChIJn5c-EqSlbDkR2amYoocE2co?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DERMA+SHINE+SKIN+CARE,HAIR+TRANSPLANT+%26+LASER+CLINIC/data=!4m7!3m6!1s0x396ca5a4123e979f:0xcad90487a298a9d9!8m2!3d27.6131128!4d75.1479646!16s%2Fg%2F11g0hxygdm!19sChIJn5c-EqSlbDkR2amYoocE2co?authuser=0&hl=en&rclk=1"
@@ -1656,8 +1643,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DERMA+SHINE+SKIN+CARE,HAIR+TRANSPLANT+%26+LASER+CLINIC/data=!4m7!3m6!1s0x396ca5a4123e979f:0xcad90487a298a9d9!8m2!3d27.6131128!4d75.1479646!16s%2Fg%2F11g0hxygdm!19sChIJn5c-EqSlbDkR2amYoocE2co?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhaka-hospital-sikar",
@@ -1705,7 +1691,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dhaka+Hospital/data=!4m7!3m6!1s0x396ca4b3a7b37f25:0xf8477f0079057521!8m2!3d27.6017038!4d75.1514478!16s%2Fg%2F11cjkq3z4x!19sChIJJX-zp7OkbDkRIXUFeQB_R_g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhaka+Hospital/data=!4m7!3m6!1s0x396ca4b3a7b37f25:0xf8477f0079057521!8m2!3d27.6017038!4d75.1514478!16s%2Fg%2F11cjkq3z4x!19sChIJJX-zp7OkbDkRIXUFeQB_R_g?authuser=0&hl=en&rclk=1"
@@ -1774,8 +1760,7 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dhaka+Hospital/data=!4m7!3m6!1s0x396ca4b3a7b37f25:0xf8477f0079057521!8m2!3d27.6017038!4d75.1514478!16s%2Fg%2F11cjkq3z4x!19sChIJJX-zp7OkbDkRIXUFeQB_R_g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhayal-hospital-and-fertility-centre-sikar-sikar",
@@ -1825,7 +1810,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dhayal+Hospital+and+Fertility+Centre,Sikar/data=!4m7!3m6!1s0x396ca59e1af7c355:0xb0f013f3575209d3!8m2!3d27.6111635!4d75.1498506!16s%2Fg%2F11ypb3d52w!19sChIJVcP3Gp6lbDkR0wlSV_MT8LA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhayal+Hospital+and+Fertility+Centre,Sikar/data=!4m7!3m6!1s0x396ca59e1af7c355:0xb0f013f3575209d3!8m2!3d27.6111635!4d75.1498506!16s%2Fg%2F11ypb3d52w!19sChIJVcP3Gp6lbDkR0wlSV_MT8LA?authuser=0&hl=en&rclk=1"
@@ -1894,8 +1879,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dhayal+Hospital+and+Fertility+Centre,Sikar/data=!4m7!3m6!1s0x396ca59e1af7c355:0xb0f013f3575209d3!8m2!3d27.6111635!4d75.1498506!16s%2Fg%2F11ypb3d52w!19sChIJVcP3Gp6lbDkR0wlSV_MT8LA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gadwal-hospital-sikar-sikar",
@@ -1943,7 +1927,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gadwal+Hospital+Sikar/data=!4m7!3m6!1s0x396ca4cbd6abbd37:0xc0e910d53f22cec7!8m2!3d27.6125476!4d75.149138!16s%2Fg%2F1pp2ty_2_!19sChIJN72r1sukbDkRx84iP9UQ6cA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gadwal+Hospital+Sikar/data=!4m7!3m6!1s0x396ca4cbd6abbd37:0xc0e910d53f22cec7!8m2!3d27.6125476!4d75.149138!16s%2Fg%2F1pp2ty_2_!19sChIJN72r1sukbDkRx84iP9UQ6cA?authuser=0&hl=en&rclk=1"
@@ -2012,8 +1996,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gadwal+Hospital+Sikar/data=!4m7!3m6!1s0x396ca4cbd6abbd37:0xc0e910d53f22cec7!8m2!3d27.6125476!4d75.149138!16s%2Fg%2F1pp2ty_2_!19sChIJN72r1sukbDkRx84iP9UQ6cA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "getwell-hospital-and-research-center-sikar",
@@ -2062,7 +2045,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Getwell+Hospital+%26+Research+Center/data=!4m7!3m6!1s0x396ca4ca40069877:0x6ae226f55fe84bed!8m2!3d27.6102577!4d75.1501241!16s%2Fg%2F1hdzyvpnd!19sChIJd5gGQMqkbDkR7UvoX_Um4mo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Getwell+Hospital+%26+Research+Center/data=!4m7!3m6!1s0x396ca4ca40069877:0x6ae226f55fe84bed!8m2!3d27.6102577!4d75.1501241!16s%2Fg%2F1hdzyvpnd!19sChIJd5gGQMqkbDkR7UvoX_Um4mo?authuser=0&hl=en&rclk=1"
@@ -2131,8 +2114,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Getwell+Hospital+%26+Research+Center/data=!4m7!3m6!1s0x396ca4ca40069877:0x6ae226f55fe84bed!8m2!3d27.6102577!4d75.1501241!16s%2Fg%2F1hdzyvpnd!19sChIJd5gGQMqkbDkR7UvoX_Um4mo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "himanshu-dental-care-sikar",
@@ -2180,7 +2162,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Himanshu+Dental+Care/data=!4m7!3m6!1s0x396ca4cc0b5fd7cb:0xc2d2c53a0c6926fd!8m2!3d27.612016!4d75.1477661!16s%2Fg%2F11bxjncwlz!19sChIJy9dfC8ykbDkR_SZpDDrF0sI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Himanshu+Dental+Care/data=!4m7!3m6!1s0x396ca4cc0b5fd7cb:0xc2d2c53a0c6926fd!8m2!3d27.612016!4d75.1477661!16s%2Fg%2F11bxjncwlz!19sChIJy9dfC8ykbDkR_SZpDDrF0sI?authuser=0&hl=en&rclk=1"
@@ -2249,8 +2231,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Himanshu+Dental+Care/data=!4m7!3m6!1s0x396ca4cc0b5fd7cb:0xc2d2c53a0c6926fd!8m2!3d27.612016!4d75.1477661!16s%2Fg%2F11bxjncwlz!19sChIJy9dfC8ykbDkR_SZpDDrF0sI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-sikar-best-ivf-centre-sikar",
@@ -2300,7 +2281,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Sikar+-+Best+IVF+Centre/data=!4m7!3m6!1s0x396ca50079abf169:0x294b45ead7476011!8m2!3d27.6007973!4d75.1434276!16s%2Fg%2F11ygs703wl!19sChIJafGreQClbDkREWBH1-pFSyk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Sikar+-+Best+IVF+Centre/data=!4m7!3m6!1s0x396ca50079abf169:0x294b45ead7476011!8m2!3d27.6007973!4d75.1434276!16s%2Fg%2F11ygs703wl!19sChIJafGreQClbDkREWBH1-pFSyk?authuser=0&hl=en&rclk=1"
@@ -2369,8 +2350,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Sikar+-+Best+IVF+Centre/data=!4m7!3m6!1s0x396ca50079abf169:0x294b45ead7476011!8m2!3d27.6007973!4d75.1434276!16s%2Fg%2F11ygs703wl!19sChIJafGreQClbDkREWBH1-pFSyk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-line-hospital-and-research-center-sikar",
@@ -2419,7 +2399,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+Line+Hospital+%26+Research+Center/data=!4m7!3m6!1s0x396ca4c7758c2db1:0xebe42aa2fab6a600!8m2!3d27.6154504!4d75.1390725!16s%2Fg%2F11b6c9z2t1!19sChIJsS2MdcekbDkRAKa2-qIq5Os?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Line+Hospital+%26+Research+Center/data=!4m7!3m6!1s0x396ca4c7758c2db1:0xebe42aa2fab6a600!8m2!3d27.6154504!4d75.1390725!16s%2Fg%2F11b6c9z2t1!19sChIJsS2MdcekbDkRAKa2-qIq5Os?authuser=0&hl=en&rclk=1"
@@ -2488,8 +2468,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+Line+Hospital+%26+Research+Center/data=!4m7!3m6!1s0x396ca4c7758c2db1:0xebe42aa2fab6a600!8m2!3d27.6154504!4d75.1390725!16s%2Fg%2F11b6c9z2t1!19sChIJsS2MdcekbDkRAKa2-qIq5Os?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manavata-hospital-and-research-centre-sikar",
@@ -2538,7 +2517,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manavata+Hospital+and+Research+Centre/data=!4m7!3m6!1s0x396ca391ebbea355:0xe3e5d44bf855d8a7!8m2!3d27.5800355!4d75.1473116!16s%2Fg%2F11kj70xf5g!19sChIJVaO-65GjbDkRp9hV-EvU5eM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manavata+Hospital+and+Research+Centre/data=!4m7!3m6!1s0x396ca391ebbea355:0xe3e5d44bf855d8a7!8m2!3d27.5800355!4d75.1473116!16s%2Fg%2F11kj70xf5g!19sChIJVaO-65GjbDkRp9hV-EvU5eM?authuser=0&hl=en&rclk=1"
@@ -2607,8 +2586,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manavata+Hospital+and+Research+Centre/data=!4m7!3m6!1s0x396ca391ebbea355:0xe3e5d44bf855d8a7!8m2!3d27.5800355!4d75.1473116!16s%2Fg%2F11kj70xf5g!19sChIJVaO-65GjbDkRp9hV-EvU5eM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neerja-hospital-sikar",
@@ -2657,7 +2635,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neerja+Hospital/data=!4m7!3m6!1s0x396ca4b480f3bced:0x1172df033c5d865!8m2!3d27.6040573!4d75.1517852!16s%2Fg%2F12hnctc78!19sChIJ7bzzgLSkbDkRZdjFM_AtFwE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neerja+Hospital/data=!4m7!3m6!1s0x396ca4b480f3bced:0x1172df033c5d865!8m2!3d27.6040573!4d75.1517852!16s%2Fg%2F12hnctc78!19sChIJ7bzzgLSkbDkRZdjFM_AtFwE?authuser=0&hl=en&rclk=1"
@@ -2726,8 +2704,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neerja+Hospital/data=!4m7!3m6!1s0x396ca4b480f3bced:0x1172df033c5d865!8m2!3d27.6040573!4d75.1517852!16s%2Fg%2F12hnctc78!19sChIJ7bzzgLSkbDkRZdjFM_AtFwE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neerja-ivf-sikar",
@@ -2777,7 +2754,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neerja+IVF/data=!4m7!3m6!1s0x396cbba33e701eb9:0x948fa77363df8f3b!8m2!3d27.6040485!4d75.151793!16s%2Fg%2F11yhsfms3b!19sChIJuR5wPqO7bDkRO4_fY3Onj5Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neerja+IVF/data=!4m7!3m6!1s0x396cbba33e701eb9:0x948fa77363df8f3b!8m2!3d27.6040485!4d75.151793!16s%2Fg%2F11yhsfms3b!19sChIJuR5wPqO7bDkRO4_fY3Onj5Q?authuser=0&hl=en&rclk=1"
@@ -2843,11 +2820,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neerja+IVF/data=!4m7!3m6!1s0x396cbba33e701eb9:0x948fa77363df8f3b!8m2!3d27.6040485!4d75.151793!16s%2Fg%2F11yhsfms3b!19sChIJuR5wPqO7bDkRO4_fY3Onj5Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "noble-care-hospital-sikar",
@@ -2895,7 +2871,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Noble+Care+Hospital/data=!4m7!3m6!1s0x396ca4b3f3651f63:0xf5cc2f64ba6ff414!8m2!3d27.6026026!4d75.152798!16s%2Fg%2F11bwyznvl1!19sChIJYx9l87OkbDkRFPRvumQvzPU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Noble+Care+Hospital/data=!4m7!3m6!1s0x396ca4b3f3651f63:0xf5cc2f64ba6ff414!8m2!3d27.6026026!4d75.152798!16s%2Fg%2F11bwyznvl1!19sChIJYx9l87OkbDkRFPRvumQvzPU?authuser=0&hl=en&rclk=1"
@@ -2964,8 +2940,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Noble+Care+Hospital/data=!4m7!3m6!1s0x396ca4b3f3651f63:0xf5cc2f64ba6ff414!8m2!3d27.6026026!4d75.152798!16s%2Fg%2F11bwyznvl1!19sChIJYx9l87OkbDkRFPRvumQvzPU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pinkcity-dental-care-and-implant-centre-best-dental-clinic-in-sikar-orthodontist-fixed-teeth-in24-hour-root-canal-treatment-sikar",
@@ -3015,7 +2990,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pinkcity+Dental+Care+%26+Implant+Centre+,Best+dental+clinic+in+sikar,+Orthodontist,+Fixed+teeth+in24+hour,+Root+canal+treatment/data=!4m7!3m6!1s0x396ca4b45c03b7d3:0xf93fd1529a0f5439!8m2!3d27.6054808!4d75.151241!16s%2Fg%2F11vf3x7d_n!19sChIJ07cDXLSkbDkROVQPmlLRP_k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pinkcity+Dental+Care+%26+Implant+Centre+,Best+dental+clinic+in+sikar,+Orthodontist,+Fixed+teeth+in24+hour,+Root+canal+treatment/data=!4m7!3m6!1s0x396ca4b45c03b7d3:0xf93fd1529a0f5439!8m2!3d27.6054808!4d75.151241!16s%2Fg%2F11vf3x7d_n!19sChIJ07cDXLSkbDkROVQPmlLRP_k?authuser=0&hl=en&rclk=1"
@@ -3081,11 +3056,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pinkcity+Dental+Care+%26+Implant+Centre+,Best+dental+clinic+in+sikar,+Orthodontist,+Fixed+teeth+in24+hour,+Root+canal+treatment/data=!4m7!3m6!1s0x396ca4b45c03b7d3:0xf93fd1529a0f5439!8m2!3d27.6054808!4d75.151241!16s%2Fg%2F11vf3x7d_n!19sChIJ07cDXLSkbDkROVQPmlLRP_k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pratap-ivf-sikar-sikar",
@@ -3135,7 +3109,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pratap+IVF+Sikar/data=!4m7!3m6!1s0x396ca52ced7dd387:0x3438166b7dbbba97!8m2!3d27.6188143!4d75.1237775!16s%2Fg%2F11wp6wqcn8!19sChIJh9N97SylbDkRl7q7fWsWODQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pratap+IVF+Sikar/data=!4m7!3m6!1s0x396ca52ced7dd387:0x3438166b7dbbba97!8m2!3d27.6188143!4d75.1237775!16s%2Fg%2F11wp6wqcn8!19sChIJh9N97SylbDkRl7q7fWsWODQ?authuser=0&hl=en&rclk=1"
@@ -3201,11 +3175,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pratap+IVF+Sikar/data=!4m7!3m6!1s0x396ca52ced7dd387:0x3438166b7dbbba97!8m2!3d27.6188143!4d75.1237775!16s%2Fg%2F11wp6wqcn8!19sChIJh9N97SylbDkRl7q7fWsWODQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-c-dental-clinic-sikar",
@@ -3253,7 +3226,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R.+C.+Dental+Clinic/data=!4m7!3m6!1s0x396ca5363a207bdf:0xdbc446f6deaf5fbf!8m2!3d27.6011913!4d75.1404589!16s%2Fg%2F11ptm6bk7t!19sChIJ33sgOjalbDkRv1-v3vZGxNs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.+C.+Dental+Clinic/data=!4m7!3m6!1s0x396ca5363a207bdf:0xdbc446f6deaf5fbf!8m2!3d27.6011913!4d75.1404589!16s%2Fg%2F11ptm6bk7t!19sChIJ33sgOjalbDkRv1-v3vZGxNs?authuser=0&hl=en&rclk=1"
@@ -3319,11 +3292,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R.+C.+Dental+Clinic/data=!4m7!3m6!1s0x396ca5363a207bdf:0xdbc446f6deaf5fbf!8m2!3d27.6011913!4d75.1404589!16s%2Fg%2F11ptm6bk7t!19sChIJ33sgOjalbDkRv1-v3vZGxNs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rahul-laboriya-dialysis-specialist-kidney-dialysis-hemodialysis-crrt-peritoneal-dialysis-sikar",
@@ -3373,7 +3345,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rahul+laboriya+%7C+Dialysis+specialist+%7C+kidney+Dialysis%7C+Hemodialysis+,CRRT,+Peritoneal+Dialysis/data=!4m7!3m6!1s0x396ca5609435a2f7:0x89db1c08a3f33a36!8m2!3d27.6108799!4d75.150825!16s%2Fg%2F11z4ysscfn!19sChIJ96I1lGClbDkRNjrzowgc24k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rahul+laboriya+%7C+Dialysis+specialist+%7C+kidney+Dialysis%7C+Hemodialysis+,CRRT,+Peritoneal+Dialysis/data=!4m7!3m6!1s0x396ca5609435a2f7:0x89db1c08a3f33a36!8m2!3d27.6108799!4d75.150825!16s%2Fg%2F11z4ysscfn!19sChIJ96I1lGClbDkRNjrzowgc24k?authuser=0&hl=en&rclk=1"
@@ -3439,11 +3411,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rahul+laboriya+%7C+Dialysis+specialist+%7C+kidney+Dialysis%7C+Hemodialysis+,CRRT,+Peritoneal+Dialysis/data=!4m7!3m6!1s0x396ca5609435a2f7:0x89db1c08a3f33a36!8m2!3d27.6108799!4d75.150825!16s%2Fg%2F11z4ysscfn!19sChIJ96I1lGClbDkRNjrzowgc24k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rathi-hospital-sikar-sikar",
@@ -3491,7 +3462,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RATHI+HOSPITAL+SIKAR/data=!4m7!3m6!1s0x396ca4a8b7ecbe99:0x2c7e44b27c29e86c!8m2!3d27.5907883!4d75.1441212!16s%2Fg%2F11dxqfzb4m!19sChIJmb7st6ikbDkRbOgpfLJEfiw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RATHI+HOSPITAL+SIKAR/data=!4m7!3m6!1s0x396ca4a8b7ecbe99:0x2c7e44b27c29e86c!8m2!3d27.5907883!4d75.1441212!16s%2Fg%2F11dxqfzb4m!19sChIJmb7st6ikbDkRbOgpfLJEfiw?authuser=0&hl=en&rclk=1"
@@ -3560,8 +3531,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RATHI+HOSPITAL+SIKAR/data=!4m7!3m6!1s0x396ca4a8b7ecbe99:0x2c7e44b27c29e86c!8m2!3d27.5907883!4d75.1441212!16s%2Fg%2F11dxqfzb4m!19sChIJmb7st6ikbDkRbOgpfLJEfiw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rathi-surgical-and-cancer-clinic-sikar",
@@ -3608,7 +3578,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rathi+Surgical+%26+Cancer+Clinic/data=!4m7!3m6!1s0x396ca4b4c140efcf:0x75c7f1fd5c2ac64d!8m2!3d27.5908614!4d75.1440684!16s%2Fg%2F11g9grn66w!19sChIJz-9AwbSkbDkRTcYqXP3xx3U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rathi+Surgical+%26+Cancer+Clinic/data=!4m7!3m6!1s0x396ca4b4c140efcf:0x75c7f1fd5c2ac64d!8m2!3d27.5908614!4d75.1440684!16s%2Fg%2F11g9grn66w!19sChIJz-9AwbSkbDkRTcYqXP3xx3U?authuser=0&hl=en&rclk=1"
@@ -3674,11 +3644,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rathi+Surgical+%26+Cancer+Clinic/data=!4m7!3m6!1s0x396ca4b4c140efcf:0x75c7f1fd5c2ac64d!8m2!3d27.5908614!4d75.1440684!16s%2Fg%2F11g9grn66w!19sChIJz-9AwbSkbDkRTcYqXP3xx3U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rghs-dental-hospital-dr-anita-dhaka-hospital-sikar-sikar",
@@ -3727,7 +3696,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rghs+dental+hospital+%28dr+anita,dhaka+hospital%29+sikar/data=!4m7!3m6!1s0x396ca57724f5f9ab:0x4ba429275b45758d!8m2!3d27.6016809!4d75.1513765!16s%2Fg%2F11vxk7t6yb!19sChIJq_n1JHelbDkRjXVFWycppEs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rghs+dental+hospital+%28dr+anita,dhaka+hospital%29+sikar/data=!4m7!3m6!1s0x396ca57724f5f9ab:0x4ba429275b45758d!8m2!3d27.6016809!4d75.1513765!16s%2Fg%2F11vxk7t6yb!19sChIJq_n1JHelbDkRjXVFWycppEs?authuser=0&hl=en&rclk=1"
@@ -3796,8 +3765,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rghs+dental+hospital+%28dr+anita,dhaka+hospital%29+sikar/data=!4m7!3m6!1s0x396ca57724f5f9ab:0x4ba429275b45758d!8m2!3d27.6016809!4d75.1513765!16s%2Fg%2F11vxk7t6yb!19sChIJq_n1JHelbDkRjXVFWycppEs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ritu-ivf-fertility-centre-sikar",
@@ -3847,7 +3815,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ritu+IVF+Fertility+Centre/data=!4m7!3m6!1s0x396ca503ef487d4b:0xde6497986c6d363c!8m2!3d27.6145706!4d75.1419837!16s%2Fg%2F11mzqxdyr1!19sChIJS31I7wOlbDkRPDZtbJiXZN4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ritu+IVF+Fertility+Centre/data=!4m7!3m6!1s0x396ca503ef487d4b:0xde6497986c6d363c!8m2!3d27.6145706!4d75.1419837!16s%2Fg%2F11mzqxdyr1!19sChIJS31I7wOlbDkRPDZtbJiXZN4?authuser=0&hl=en&rclk=1"
@@ -3913,11 +3881,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ritu+IVF+Fertility+Centre/data=!4m7!3m6!1s0x396ca503ef487d4b:0xde6497986c6d363c!8m2!3d27.6145706!4d75.1419837!16s%2Fg%2F11mzqxdyr1!19sChIJS31I7wOlbDkRPDZtbJiXZN4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-b-mittal-memorial-heart-and-critical-care-hospital-sikar-sikar",
@@ -3967,7 +3934,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S.B.+Mittal+Memorial+Heart+%26+Critical+Care+Hospital,+Sikar/data=!4m7!3m6!1s0x396ca4c7758c2db1:0xc2a890c768cee6f!8m2!3d27.6105367!4d75.151141!16s%2Fg%2F11bzq39b0n!19sChIJsS2MdcekbDkRb-6MdgyJKgw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.B.+Mittal+Memorial+Heart+%26+Critical+Care+Hospital,+Sikar/data=!4m7!3m6!1s0x396ca4c7758c2db1:0xc2a890c768cee6f!8m2!3d27.6105367!4d75.151141!16s%2Fg%2F11bzq39b0n!19sChIJsS2MdcekbDkRb-6MdgyJKgw?authuser=0&hl=en&rclk=1"
@@ -4036,8 +4003,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S.B.+Mittal+Memorial+Heart+%26+Critical+Care+Hospital,+Sikar/data=!4m7!3m6!1s0x396ca4c7758c2db1:0xc2a890c768cee6f!8m2!3d27.6105367!4d75.151141!16s%2Fg%2F11bzq39b0n!19sChIJsS2MdcekbDkRb-6MdgyJKgw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-k-hospital-sikar-sikar",
@@ -4085,7 +4051,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S.K.+Hospital,+Sikar/data=!4m7!3m6!1s0x396ca55aa9359d13:0x24f709dabf8a6c7!8m2!3d27.6126307!4d75.1505219!16s%2Fg%2F11h5vjsthb!19sChIJE501qVqlbDkRx6b4q51wTwI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.K.+Hospital,+Sikar/data=!4m7!3m6!1s0x396ca55aa9359d13:0x24f709dabf8a6c7!8m2!3d27.6126307!4d75.1505219!16s%2Fg%2F11h5vjsthb!19sChIJE501qVqlbDkRx6b4q51wTwI?authuser=0&hl=en&rclk=1"
@@ -4154,8 +4120,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S.K.+Hospital,+Sikar/data=!4m7!3m6!1s0x396ca55aa9359d13:0x24f709dabf8a6c7!8m2!3d27.6126307!4d75.1505219!16s%2Fg%2F11h5vjsthb!19sChIJE501qVqlbDkRx6b4q51wTwI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sewada-dental-care-and-research-center-sikar",
@@ -4203,7 +4168,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sewada+Dental+Care+%26+Research+Center/data=!4m7!3m6!1s0x396ca4cbe3dd99a1:0x9af099fa7199a6e3!8m2!3d27.6138436!4d75.1488507!16s%2Fg%2F11ckr6fbwm!19sChIJoZnd48ukbDkR46aZcfqZ8Jo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sewada+Dental+Care+%26+Research+Center/data=!4m7!3m6!1s0x396ca4cbe3dd99a1:0x9af099fa7199a6e3!8m2!3d27.6138436!4d75.1488507!16s%2Fg%2F11ckr6fbwm!19sChIJoZnd48ukbDkR46aZcfqZ8Jo?authuser=0&hl=en&rclk=1"
@@ -4272,8 +4237,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sewada+Dental+Care+%26+Research+Center/data=!4m7!3m6!1s0x396ca4cbe3dd99a1:0x9af099fa7199a6e3!8m2!3d27.6138436!4d75.1488507!16s%2Fg%2F11ckr6fbwm!19sChIJoZnd48ukbDkR46aZcfqZ8Jo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivalik-hospital-best-neuro-and-gynae-sikar",
@@ -4323,7 +4287,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivalik+Hospital+%28Best+NEURO+%26+GYNAE%29/data=!4m7!3m6!1s0x396ca561a3b7d669:0x3b3fbfb97a4252be!8m2!3d27.6124428!4d75.1494285!16s%2Fg%2F11pttn818x!19sChIJada3o2GlbDkRvlJCerm_Pzs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivalik+Hospital+%28Best+NEURO+%26+GYNAE%29/data=!4m7!3m6!1s0x396ca561a3b7d669:0x3b3fbfb97a4252be!8m2!3d27.6124428!4d75.1494285!16s%2Fg%2F11pttn818x!19sChIJada3o2GlbDkRvlJCerm_Pzs?authuser=0&hl=en&rclk=1"
@@ -4392,8 +4356,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivalik+Hospital+%28Best+NEURO+%26+GYNAE%29/data=!4m7!3m6!1s0x396ca561a3b7d669:0x3b3fbfb97a4252be!8m2!3d27.6124428!4d75.1494285!16s%2Fg%2F11pttn818x!19sChIJada3o2GlbDkRvlJCerm_Pzs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-k-m-memorial-jain-heart-and-general-hospital-sikar",
@@ -4442,7 +4405,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+K.M.+Memorial+Jain+Heart+%26+General+Hospital/data=!4m7!3m6!1s0x396ca4c8dc5ad877:0xa5371b2561cdd153!8m2!3d27.6379624!4d75.1779155!16s%2Fg%2F1vd749jj!19sChIJd9ha3MikbDkRU9HNYSUbN6U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+K.M.+Memorial+Jain+Heart+%26+General+Hospital/data=!4m7!3m6!1s0x396ca4c8dc5ad877:0xa5371b2561cdd153!8m2!3d27.6379624!4d75.1779155!16s%2Fg%2F1vd749jj!19sChIJd9ha3MikbDkRU9HNYSUbN6U?authuser=0&hl=en&rclk=1"
@@ -4511,8 +4474,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+K.M.+Memorial+Jain+Heart+%26+General+Hospital/data=!4m7!3m6!1s0x396ca4c8dc5ad877:0xa5371b2561cdd153!8m2!3d27.6379624!4d75.1779155!16s%2Fg%2F1vd749jj!19sChIJd9ha3MikbDkRU9HNYSUbN6U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sikar-dental-hospital-sikar",
@@ -4560,7 +4522,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sikar+Dental+Hospital/data=!4m7!3m6!1s0x396ca4cb9fcdb9b3:0x6f4ebc2a7740eada!8m2!3d27.613947!4d75.1515658!16s%2Fg%2F11fxzrjp58!19sChIJs7nNn8ukbDkR2upAdyq8Tm8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sikar+Dental+Hospital/data=!4m7!3m6!1s0x396ca4cb9fcdb9b3:0x6f4ebc2a7740eada!8m2!3d27.613947!4d75.1515658!16s%2Fg%2F11fxzrjp58!19sChIJs7nNn8ukbDkR2upAdyq8Tm8?authuser=0&hl=en&rclk=1"
@@ -4629,8 +4591,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sikar+Dental+Hospital/data=!4m7!3m6!1s0x396ca4cb9fcdb9b3:0x6f4ebc2a7740eada!8m2!3d27.613947!4d75.1515658!16s%2Fg%2F11fxzrjp58!19sChIJs7nNn8ukbDkR2upAdyq8Tm8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sikar-hospital-and-research-institute-sikar",
@@ -4679,7 +4640,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SIKAR+HOSPITAL+%26+RESEARCH+INSTITUTE/data=!4m7!3m6!1s0x396ca4cc57db6845:0x6f34dc9103638fe7!8m2!3d27.6175197!4d75.1516285!16s%2Fg%2F1tg5sgfh!19sChIJRWjbV8ykbDkR549jA5HcNG8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SIKAR+HOSPITAL+%26+RESEARCH+INSTITUTE/data=!4m7!3m6!1s0x396ca4cc57db6845:0x6f34dc9103638fe7!8m2!3d27.6175197!4d75.1516285!16s%2Fg%2F1tg5sgfh!19sChIJRWjbV8ykbDkR549jA5HcNG8?authuser=0&hl=en&rclk=1"
@@ -4748,8 +4709,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SIKAR+HOSPITAL+%26+RESEARCH+INSTITUTE/data=!4m7!3m6!1s0x396ca4cc57db6845:0x6f34dc9103638fe7!8m2!3d27.6175197!4d75.1516285!16s%2Fg%2F1tg5sgfh!19sChIJRWjbV8ykbDkR549jA5HcNG8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sneha-ivf-and-fertility-hospital-sikar",
@@ -4798,7 +4758,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SNEHA+IVF+AND+FERTILITY+HOSPITAL/data=!4m7!3m6!1s0x396cbad65985a49b:0x1dd0119a701f84ea!8m2!3d27.636132!4d75.16242!16s%2Fg%2F11bxg466kz!19sChIJm6SFWda6bDkR6oQfcJoR0B0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SNEHA+IVF+AND+FERTILITY+HOSPITAL/data=!4m7!3m6!1s0x396cbad65985a49b:0x1dd0119a701f84ea!8m2!3d27.636132!4d75.16242!16s%2Fg%2F11bxg466kz!19sChIJm6SFWda6bDkR6oQfcJoR0B0?authuser=0&hl=en&rclk=1"
@@ -4864,11 +4824,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SNEHA+IVF+AND+FERTILITY+HOSPITAL/data=!4m7!3m6!1s0x396cbad65985a49b:0x1dd0119a701f84ea!8m2!3d27.636132!4d75.16242!16s%2Fg%2F11bxg466kz!19sChIJm6SFWda6bDkR6oQfcJoR0B0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srs-jhuria-s-dental-clinic-sikar",
@@ -4917,7 +4876,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRS+JHURIA%27S+DENTAL+CLINIC/data=!4m7!3m6!1s0x396ca5b0b53db5a9:0x7f8933b20a97a5ac!8m2!3d27.6166722!4d75.1517961!16s%2Fg%2F11v9f27h62!19sChIJqbU9tbClbDkRrKWXCrIziX8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRS+JHURIA%27S+DENTAL+CLINIC/data=!4m7!3m6!1s0x396ca5b0b53db5a9:0x7f8933b20a97a5ac!8m2!3d27.6166722!4d75.1517961!16s%2Fg%2F11v9f27h62!19sChIJqbU9tbClbDkRrKWXCrIziX8?authuser=0&hl=en&rclk=1"
@@ -4983,11 +4942,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRS+JHURIA%27S+DENTAL+CLINIC/data=!4m7!3m6!1s0x396ca5b0b53db5a9:0x7f8933b20a97a5ac!8m2!3d27.6166722!4d75.1517961!16s%2Fg%2F11v9f27h62!19sChIJqbU9tbClbDkRrKWXCrIziX8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sushrut-hospital-sikar",
@@ -5035,7 +4993,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SUSHRUT+HOSPITAL/data=!4m7!3m6!1s0x396cbb2838f94347:0x483595711e67d0a9!8m2!3d27.6114365!4d75.1490343!16s%2Fg%2F11gk6cg8lg!19sChIJR0P5OCi7bDkRqdBnHnGVNUg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUSHRUT+HOSPITAL/data=!4m7!3m6!1s0x396cbb2838f94347:0x483595711e67d0a9!8m2!3d27.6114365!4d75.1490343!16s%2Fg%2F11gk6cg8lg!19sChIJR0P5OCi7bDkRqdBnHnGVNUg?authuser=0&hl=en&rclk=1"
@@ -5104,8 +5062,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SUSHRUT+HOSPITAL/data=!4m7!3m6!1s0x396cbb2838f94347:0x483595711e67d0a9!8m2!3d27.6114365!4d75.1490343!16s%2Fg%2F11gk6cg8lg!19sChIJR0P5OCi7bDkRqdBnHnGVNUg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-dentist-sikar",
@@ -5153,7 +5110,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Dentist/data=!4m7!3m6!1s0x396ca5cb06768f37:0xbfee968e5c209a58!8m2!3d27.6251266!4d75.1535614!16s%2Fg%2F11fq_cyh_v!19sChIJN492BsulbDkRWJogXI6W7r8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dentist/data=!4m7!3m6!1s0x396ca5cb06768f37:0xbfee968e5c209a58!8m2!3d27.6251266!4d75.1535614!16s%2Fg%2F11fq_cyh_v!19sChIJN492BsulbDkRWJogXI6W7r8?authuser=0&hl=en&rclk=1"
@@ -5222,8 +5179,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Dentist/data=!4m7!3m6!1s0x396ca5cb06768f37:0xbfee968e5c209a58!8m2!3d27.6251266!4d75.1535614!16s%2Fg%2F11fq_cyh_v!19sChIJN492BsulbDkRWJogXI6W7r8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "usha-smile-care-sikar",
@@ -5272,7 +5228,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Usha+Smile+Care/data=!4m7!3m6!1s0x396ca4b4c26b9787:0x3e17d846c0cfa223!8m2!3d27.6057898!4d75.1531179!16s%2Fg%2F11b6dkfymw!19sChIJh5drwrSkbDkRI6LPwEbYFz4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Usha+Smile+Care/data=!4m7!3m6!1s0x396ca4b4c26b9787:0x3e17d846c0cfa223!8m2!3d27.6057898!4d75.1531179!16s%2Fg%2F11b6dkfymw!19sChIJh5drwrSkbDkRI6LPwEbYFz4?authuser=0&hl=en&rclk=1"
@@ -5341,8 +5297,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Usha+Smile+Care/data=!4m7!3m6!1s0x396ca4b4c26b9787:0x3e17d846c0cfa223!8m2!3d27.6057898!4d75.1531179!16s%2Fg%2F11b6dkfymw!19sChIJh5drwrSkbDkRI6LPwEbYFz4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vinayak-sikar",
@@ -5391,7 +5346,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vinayak/data=!4m7!3m6!1s0x396cbbdf86b9c5a5:0x723ada50f0abec30!8m2!3d27.5939157!4d75.1568315!16s%2Fg%2F11xmzc7vj0!19sChIJpcW5ht-7bDkRMOyr8FDaOnI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinayak/data=!4m7!3m6!1s0x396cbbdf86b9c5a5:0x723ada50f0abec30!8m2!3d27.5939157!4d75.1568315!16s%2Fg%2F11xmzc7vj0!19sChIJpcW5ht-7bDkRMOyr8FDaOnI?authuser=0&hl=en&rclk=1"
@@ -5460,8 +5415,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vinayak/data=!4m7!3m6!1s0x396cbbdf86b9c5a5:0x723ada50f0abec30!8m2!3d27.5939157!4d75.1568315!16s%2Fg%2F11xmzc7vj0!19sChIJpcW5ht-7bDkRMOyr8FDaOnI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vinayak-hospital-sikar",
@@ -5510,7 +5464,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vinayak+hospital/data=!4m7!3m6!1s0x396ca4b385b95d53:0x3ff7d62ef4bc62af!8m2!3d27.6044966!4d75.1527107!16s%2Fg%2F11b6wdfcyj!19sChIJU125hbOkbDkRr2K89C7W9z8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinayak+hospital/data=!4m7!3m6!1s0x396ca4b385b95d53:0x3ff7d62ef4bc62af!8m2!3d27.6044966!4d75.1527107!16s%2Fg%2F11b6wdfcyj!19sChIJU125hbOkbDkRr2K89C7W9z8?authuser=0&hl=en&rclk=1"
@@ -5579,8 +5533,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vinayak+hospital/data=!4m7!3m6!1s0x396ca4b385b95d53:0x3ff7d62ef4bc62af!8m2!3d27.6044966!4d75.1527107!16s%2Fg%2F11b6wdfcyj!19sChIJU125hbOkbDkRr2K89C7W9z8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vrmch-hospital-sikar",
@@ -5629,7 +5582,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VRMCH+Hospital/data=!4m7!3m6!1s0x396ca4a8b89e181d:0xe9aaaa6ea885e788!8m2!3d27.5907969!4d75.1442353!16s%2Fg%2F11cjp7lzgm!19sChIJHRieuKikbDkRiOeFqG6qquk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VRMCH+Hospital/data=!4m7!3m6!1s0x396ca4a8b89e181d:0xe9aaaa6ea885e788!8m2!3d27.5907969!4d75.1442353!16s%2Fg%2F11cjp7lzgm!19sChIJHRieuKikbDkRiOeFqG6qquk?authuser=0&hl=en&rclk=1"
@@ -5698,8 +5651,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VRMCH+Hospital/data=!4m7!3m6!1s0x396ca4a8b89e181d:0xe9aaaa6ea885e788!8m2!3d27.5907969!4d75.1442353!16s%2Fg%2F11cjp7lzgm!19sChIJHRieuKikbDkRiOeFqG6qquk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tibra-hospital-and-robotic-surgery-centre-sikar",
@@ -5748,7 +5700,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%9F%E0%A5%80%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2%28TIBRA+HOSPITAL%29+%26+ROBOTIC+SURGERY+CENTRE/data=!4m7!3m6!1s0x396ca4cb091ff179:0x82152498690e2fb8!8m2!3d27.6057777!4d75.1522968!16s%2Fg%2F12cp26ysv!19sChIJefEfCcukbDkRuC8OaZgkFYI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%9F%E0%A5%80%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2%28TIBRA+HOSPITAL%29+%26+ROBOTIC+SURGERY+CENTRE/data=!4m7!3m6!1s0x396ca4cb091ff179:0x82152498690e2fb8!8m2!3d27.6057777!4d75.1522968!16s%2Fg%2F12cp26ysv!19sChIJefEfCcukbDkRuC8OaZgkFYI?authuser=0&hl=en&rclk=1"
@@ -5817,8 +5769,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%9F%E0%A5%80%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2%28TIBRA+HOSPITAL%29+%26+ROBOTIC+SURGERY+CENTRE/data=!4m7!3m6!1s0x396ca4cb091ff179:0x82152498690e2fb8!8m2!3d27.6057777!4d75.1522968!16s%2Fg%2F12cp26ysv!19sChIJefEfCcukbDkRuC8OaZgkFYI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sikar",
@@ -5867,7 +5818,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%A6.%F0%9D%97%A0.%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%A2%F0%9D%97%BF%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF+%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1+%F0%9D%97%B5%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/data=!4m7!3m6!1s0x396ca500399530fb:0xf47f7d5206a9b2c!8m2!3d27.6040908!4d75.1471326!16s%2Fg%2F11vq_61xtz!19sChIJ-zCVOQClbDkRLJtqINX3Rw8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%A6.%F0%9D%97%A0.%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%A2%F0%9D%97%BF%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF+%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1+%F0%9D%97%B5%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/data=!4m7!3m6!1s0x396ca500399530fb:0xf47f7d5206a9b2c!8m2!3d27.6040908!4d75.1471326!16s%2Fg%2F11vq_61xtz!19sChIJ-zCVOQClbDkRLJtqINX3Rw8?authuser=0&hl=en&rclk=1"
@@ -5936,7 +5887,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%A6.%F0%9D%97%A0.%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%A2%F0%9D%97%BF%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF+%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1+%F0%9D%97%B5%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/data=!4m7!3m6!1s0x396ca500399530fb:0xf47f7d5206a9b2c!8m2!3d27.6040908!4d75.1471326!16s%2Fg%2F11vq_61xtz!19sChIJ-zCVOQClbDkRLJtqINX3Rw8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

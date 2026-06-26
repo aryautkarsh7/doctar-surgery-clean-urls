@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aashirwad+Dental+Clinic/@20.7139184,70.9784262,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d464a6f8515:0xf6f0a92af66e518!8m2!3d20.7139184!4d70.9784262!16s%2Fg%2F11wtn5yd9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aashirwad+Dental+Clinic/@20.7139184,70.9784262,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d464a6f8515:0xf6f0a92af66e518!8m2!3d20.7139184!4d70.9784262!16s%2Fg%2F11wtn5yd9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -111,11 +111,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aashirwad+Dental+Clinic/@20.7139184,70.9784262,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d464a6f8515:0xf6f0a92af66e518!8m2!3d20.7139184!4d70.9784262!16s%2Fg%2F11wtn5yd9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advanced-dental-clinic-and-implant-center-delvada-delvada",
@@ -164,7 +163,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Advanced+Dental+Clinic+%26+Implant+Center,+Delvada/@20.7763411,71.0446429,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fd907758f8a1:0xfdffc3e1b6029d69!8m2!3d20.7763411!4d71.0446429!16s%2Fg%2F11xgntxwg4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Dental+Clinic+%26+Implant+Center,+Delvada/@20.7763411,71.0446429,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fd907758f8a1:0xfdffc3e1b6029d69!8m2!3d20.7763411!4d71.0446429!16s%2Fg%2F11xgntxwg4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -230,11 +229,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Advanced+Dental+Clinic+%26+Implant+Center,+Delvada/@20.7763411,71.0446429,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fd907758f8a1:0xfdffc3e1b6029d69!8m2!3d20.7763411!4d71.0446429!16s%2Fg%2F11xgntxwg4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashtha-clinic-and-hospital-delvada",
@@ -282,7 +280,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashtha+clinic+and+hospital/@20.7761248,71.0444277,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fd9b756a344d:0x99e2f656c5209fe3!8m2!3d20.7761248!4d71.0444277!16s%2Fg%2F11jmyx2ptv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashtha+clinic+and+hospital/@20.7761248,71.0444277,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fd9b756a344d:0x99e2f656c5209fe3!8m2!3d20.7761248!4d71.0444277!16s%2Fg%2F11jmyx2ptv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -348,11 +346,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashtha+clinic+and+hospital/@20.7761248,71.0444277,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fd9b756a344d:0x99e2f656c5209fe3!8m2!3d20.7761248!4d71.0444277!16s%2Fg%2F11jmyx2ptv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "birdbee-dental-clinic-damanwada",
@@ -401,7 +398,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Birdbee+Dental+Clinic/@20.4028368,72.8330661,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d09739d231b5:0x5749f5a18ce8db2d!8m2!3d20.4028368!4d72.8330661!16s%2Fg%2F11crzjfw0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Birdbee+Dental+Clinic/@20.4028368,72.8330661,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d09739d231b5:0x5749f5a18ce8db2d!8m2!3d20.4028368!4d72.8330661!16s%2Fg%2F11crzjfw0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -470,8 +467,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Birdbee+Dental+Clinic/@20.4028368,72.8330661,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d09739d231b5:0x5749f5a18ce8db2d!8m2!3d20.4028368!4d72.8330661!16s%2Fg%2F11crzjfw0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "calcutta-institute-of-maxillofacial-surgery-and-research-kolkata",
@@ -521,7 +517,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Calcutta+Institute+Of+Maxillofacial+Surgery+%26+Research/@22.5151785,88.3904724,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02714d43d032db:0xcb0f54f721d844d3!8m2!3d22.5151785!4d88.3904724!16s%2Fg%2F1tmbtjpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Calcutta+Institute+Of+Maxillofacial+Surgery+%26+Research/@22.5151785,88.3904724,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02714d43d032db:0xcb0f54f721d844d3!8m2!3d22.5151785!4d88.3904724!16s%2Fg%2F1tmbtjpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -590,8 +586,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Calcutta+Institute+Of+Maxillofacial+Surgery+%26+Research/@22.5151785,88.3904724,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02714d43d032db:0xcb0f54f721d844d3!8m2!3d22.5151785!4d88.3904724!16s%2Fg%2F1tmbtjpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "community-health-centre-daman",
@@ -639,7 +634,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Community+Health+Centre/@20.4082072,72.8325758,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d09912563f33:0x25550755f926a806!8m2!3d20.4082072!4d72.8325758!16s%2Fg%2F1wz5159g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Community+Health+Centre/@20.4082072,72.8325758,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d09912563f33:0x25550755f926a806!8m2!3d20.4082072!4d72.8325758!16s%2Fg%2F1wz5159g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -708,8 +703,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Community+Health+Centre/@20.4082072,72.8325758,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d09912563f33:0x25550755f926a806!8m2!3d20.4082072!4d72.8325758!16s%2Fg%2F1wz5159g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "community-health-centre-ghoghla-diu-ghoghola",
@@ -759,7 +753,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Community+Health+Centre+Ghoghla,+Diu/@20.7261432,70.9842804,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d212d6c1a81:0xdfe40e306c3ac75!8m2!3d20.7261432!4d70.9842804!16s%2Fg%2F11cnzjqld8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Community+Health+Centre+Ghoghla,+Diu/@20.7261432,70.9842804,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d212d6c1a81:0xdfe40e306c3ac75!8m2!3d20.7261432!4d70.9842804!16s%2Fg%2F11cnzjqld8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -825,11 +819,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Community+Health+Centre+Ghoghla,+Diu/@20.7261432,70.9842804,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d212d6c1a81:0xdfe40e306c3ac75!8m2!3d20.7261432!4d70.9842804!16s%2Fg%2F11cnzjqld8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cusp-dental-clinic-diu",
@@ -877,7 +870,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cusp+Dental+Clinic/@20.7175562,70.9822931,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31cdc035bd031:0xe0a9b844a32518b0!8m2!3d20.7175562!4d70.9822931!16s%2Fg%2F1tgyv4r4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cusp+Dental+Clinic/@20.7175562,70.9822931,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31cdc035bd031:0xe0a9b844a32518b0!8m2!3d20.7175562!4d70.9822931!16s%2Fg%2F1tgyv4r4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -946,8 +939,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cusp+Dental+Clinic/@20.7175562,70.9822931,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31cdc035bd031:0xe0a9b844a32518b0!8m2!3d20.7175562!4d70.9822931!16s%2Fg%2F1tgyv4r4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "d-max-face-kolkata",
@@ -996,7 +988,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/D%60MAX+Face/@22.518381,88.3650666,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277b6f14b6067:0x4f569264b4bd8a49!8m2!3d22.518381!4d88.3650666!16s%2Fg%2F11fsw4n8zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D%60MAX+Face/@22.518381,88.3650666,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277b6f14b6067:0x4f569264b4bd8a49!8m2!3d22.518381!4d88.3650666!16s%2Fg%2F11fsw4n8zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1062,11 +1054,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/D%60MAX+Face/@22.518381,88.3650666,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277b6f14b6067:0x4f569264b4bd8a49!8m2!3d22.518381!4d88.3650666!16s%2Fg%2F11fsw4n8zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "deb-s-dental-and-braces-care-crafting-beautiful-smiles-best-dentist-at-rajdanga-kasba-sakher-bajar-behala-newtown-kolkata",
@@ -1115,7 +1106,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Deb's+Dental+%26+Braces+Care+(+Crafting+Beautiful+Smiles..+)+-+Best+Dentist+at+Rajdanga+-+Kasba,+Sakher+Bajar+-+Behala,+Newtown/@22.513307,88.3905852,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710ce146e6cd:0x39a0f1aa8867515e!8m2!3d22.513307!4d88.3905852!16s%2Fg%2F11vk_9fmkw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deb's+Dental+%26+Braces+Care+(+Crafting+Beautiful+Smiles..+)+-+Best+Dentist+at+Rajdanga+-+Kasba,+Sakher+Bajar+-+Behala,+Newtown/@22.513307,88.3905852,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710ce146e6cd:0x39a0f1aa8867515e!8m2!3d22.513307!4d88.3905852!16s%2Fg%2F11vk_9fmkw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1181,11 +1172,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Deb's+Dental+%26+Braces+Care+(+Crafting+Beautiful+Smiles..+)+-+Best+Dentist+at+Rajdanga+-+Kasba,+Sakher+Bajar+-+Behala,+Newtown/@22.513307,88.3905852,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710ce146e6cd:0x39a0f1aa8867515e!8m2!3d22.513307!4d88.3905852!16s%2Fg%2F11vk_9fmkw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-and-oral-maxillofacial-clinic-kolkata",
@@ -1234,7 +1224,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1300,11 +1290,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-and-oral-surgery-clinic-kolkata",
@@ -1352,7 +1341,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+%26+Oral+Surgery+Clinic/@22.5907736,88.4273072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c1513d0b19:0x34e6364044b7ad5c!8m2!3d22.5907736!4d88.4273072!16s%2Fg%2F1tj4x3ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+%26+Oral+Surgery+Clinic/@22.5907736,88.4273072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c1513d0b19:0x34e6364044b7ad5c!8m2!3d22.5907736!4d88.4273072!16s%2Fg%2F1tj4x3ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1418,11 +1407,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+%26+Oral+Surgery+Clinic/@22.5907736,88.4273072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c1513d0b19:0x34e6364044b7ad5c!8m2!3d22.5907736!4d88.4273072!16s%2Fg%2F1tj4x3ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-and-oral-health-clinic-kolkata",
@@ -1471,7 +1459,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+and+Oral+Health+Clinic/@22.5121315,88.3491495,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271b790fe888d:0x498295f279919d7d!8m2!3d22.5121315!4d88.3491495!16s%2Fg%2F1pzvbhyyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+and+Oral+Health+Clinic/@22.5121315,88.3491495,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271b790fe888d:0x498295f279919d7d!8m2!3d22.5121315!4d88.3491495!16s%2Fg%2F1pzvbhyyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1540,8 +1528,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+and+Oral+Health+Clinic/@22.5121315,88.3491495,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271b790fe888d:0x498295f279919d7d!8m2!3d22.5121315!4d88.3491495!16s%2Fg%2F1pzvbhyyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "derma-nest-skin-clinic-daman",
@@ -1589,7 +1576,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DERMA+NEST+SKIN+CLINIC/@20.4173064,72.8401889,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0db252748cd3f:0x277a73a21104d60a!8m2!3d20.4173064!4d72.8401889!16s%2Fg%2F11x6nqh6vc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DERMA+NEST+SKIN+CLINIC/@20.4173064,72.8401889,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0db252748cd3f:0x277a73a21104d60a!8m2!3d20.4173064!4d72.8401889!16s%2Fg%2F11x6nqh6vc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1655,11 +1642,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DERMA+NEST+SKIN+CLINIC/@20.4173064,72.8401889,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0db252748cd3f:0x277a73a21104d60a!8m2!3d20.4173064!4d72.8401889!16s%2Fg%2F11x6nqh6vc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "diu-diu",
@@ -1705,7 +1691,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Diu,+Dadra+and+Nagar+Haveli+and+Daman+and+Diu+362520/@20.711091,70.9803852,15z/data=!3m1!4b1!4m6!3m5!1s0x3be31ce77c7a67bf:0x4664503a0396202!8m2!3d20.7180924!4d70.9857903!16s%2Fm%2F0h1fl2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diu,+Dadra+and+Nagar+Haveli+and+Daman+and+Diu+362520/@20.711091,70.9803852,15z/data=!3m1!4b1!4m6!3m5!1s0x3be31ce77c7a67bf:0x4664503a0396202!8m2!3d20.7180924!4d70.9857903!16s%2Fm%2F0h1fl2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1771,11 +1757,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Diu,+Dadra+and+Nagar+Haveli+and+Daman+and+Diu+362520/@20.711091,70.9803852,15z/data=!3m1!4b1!4m6!3m5!1s0x3be31ce77c7a67bf:0x4664503a0396202!8m2!3d20.7180924!4d70.9857903!16s%2Fm%2F0h1fl2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dream-vision-guest-house-diu",
@@ -1824,7 +1809,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dream+Vision+Guest+House/@20.7163644,70.9840642,17z/data=!3m1!4b1!4m9!3m8!1s0x3be31cdc0643d13d:0xa855eacc106d085a!5m2!4m1!1i2!8m2!3d20.7163644!4d70.9840642!16s%2Fg%2F1hm4fmmfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dream+Vision+Guest+House/@20.7163644,70.9840642,17z/data=!3m1!4b1!4m9!3m8!1s0x3be31cdc0643d13d:0xa855eacc106d085a!5m2!4m1!1i2!8m2!3d20.7163644!4d70.9840642!16s%2Fg%2F1hm4fmmfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1893,8 +1878,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dream+Vision+Guest+House/@20.7163644,70.9840642,17z/data=!3m1!4b1!4m9!3m8!1s0x3be31cdc0643d13d:0xa855eacc106d085a!5m2!4m1!1i2!8m2!3d20.7163644!4d70.9840642!16s%2Fg%2F1hm4fmmfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ekdant-dental-clinic-diu",
@@ -1942,7 +1926,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ekdant+Dental+Clinic/@20.7171575,70.9824604,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d572d15c675:0x6fe9100ee29e6d25!8m2!3d20.7171575!4d70.9824604!16s%2Fg%2F11s8md09nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ekdant+Dental+Clinic/@20.7171575,70.9824604,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d572d15c675:0x6fe9100ee29e6d25!8m2!3d20.7171575!4d70.9824604!16s%2Fg%2F11s8md09nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2011,8 +1995,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ekdant+Dental+Clinic/@20.7171575,70.9824604,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d572d15c675:0x6fe9100ee29e6d25!8m2!3d20.7171575!4d70.9824604!16s%2Fg%2F11s8md09nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "face-mouth-dental-clinic-and-maxillofacial-centre-rajpur-sonarpur",
@@ -2061,7 +2044,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Face+Mouth+Dental+Clinic+%26+Maxillofacial+Centre/@22.4401271,88.4396288,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e31ebf9335:0x6ea6f3948e19573a!8m2!3d22.4401271!4d88.4396288!16s%2Fg%2F11fhv9s7lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Face+Mouth+Dental+Clinic+%26+Maxillofacial+Centre/@22.4401271,88.4396288,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e31ebf9335:0x6ea6f3948e19573a!8m2!3d22.4401271!4d88.4396288!16s%2Fg%2F11fhv9s7lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2130,8 +2113,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Face+Mouth+Dental+Clinic+%26+Maxillofacial+Centre/@22.4401271,88.4396288,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e31ebf9335:0x6ea6f3948e19573a!8m2!3d22.4401271!4d88.4396288!16s%2Fg%2F11fhv9s7lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fimadi-ayurvedic-beauty-therapy-centre-diu",
@@ -2180,7 +2162,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/FIMADI+Ayurvedic+Beauty+therapy+Centre/@20.7115068,70.9903667,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d4db4d138db:0xc12ada5ec2bfdebb!8m2!3d20.7115068!4d70.9903667!16s%2Fg%2F11myjbldrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FIMADI+Ayurvedic+Beauty+therapy+Centre/@20.7115068,70.9903667,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d4db4d138db:0xc12ada5ec2bfdebb!8m2!3d20.7115068!4d70.9903667!16s%2Fg%2F11myjbldrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2249,8 +2231,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/FIMADI+Ayurvedic+Beauty+therapy+Centre/@20.7115068,70.9903667,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d4db4d138db:0xc12ada5ec2bfdebb!8m2!3d20.7115068!4d70.9903667!16s%2Fg%2F11myjbldrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "glamsmile-dental-maxillofacial-polyclinic-best-clinic-for-affordable-dental-implants-kolkata",
@@ -2299,7 +2280,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GlamSmile+Dental+Maxillofacial+Polyclinic+-+Best+Clinic+for+Affordable+Dental+Implants/@22.4772734,88.3777484,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271feef80cd19:0x5b15abd08e170907!8m2!3d22.4772734!4d88.3777484!16s%2Fg%2F11txzbrsr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GlamSmile+Dental+Maxillofacial+Polyclinic+-+Best+Clinic+for+Affordable+Dental+Implants/@22.4772734,88.3777484,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271feef80cd19:0x5b15abd08e170907!8m2!3d22.4772734!4d88.3777484!16s%2Fg%2F11txzbrsr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2365,11 +2346,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GlamSmile+Dental+Maxillofacial+Polyclinic+-+Best+Clinic+for+Affordable+Dental+Implants/@22.4772734,88.3777484,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271feef80cd19:0x5b15abd08e170907!8m2!3d22.4772734!4d88.3777484!16s%2Fg%2F11txzbrsr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-hospital-diu-diu",
@@ -2418,7 +2398,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+Hospital+Diu/@20.7155892,70.9782514,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31ce759b636f1:0x389b3d38862754ae!8m2!3d20.7155892!4d70.9782514!16s%2Fg%2F11dxl9lt4r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Hospital+Diu/@20.7155892,70.9782514,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31ce759b636f1:0x389b3d38862754ae!8m2!3d20.7155892!4d70.9782514!16s%2Fg%2F11dxl9lt4r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2487,8 +2467,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+Hospital+Diu/@20.7155892,70.9782514,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31ce759b636f1:0x389b3d38862754ae!8m2!3d20.7155892!4d70.9782514!16s%2Fg%2F11dxl9lt4r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hansa-hospital-daman",
@@ -2536,7 +2515,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hansa+Hospital/@20.4091516,72.8828574,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d011eeb814f3:0xafac513e3d7a121a!8m2!3d20.4091516!4d72.8828574!16s%2Fg%2F11b6j1j_p9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hansa+Hospital/@20.4091516,72.8828574,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d011eeb814f3:0xafac513e3d7a121a!8m2!3d20.4091516!4d72.8828574!16s%2Fg%2F11b6j1j_p9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2605,8 +2584,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hansa+Hospital/@20.4091516,72.8828574,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d011eeb814f3:0xafac513e3d7a121a!8m2!3d20.4091516!4d72.8828574!16s%2Fg%2F11b6j1j_p9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "health1homeopathy-diu",
@@ -2652,7 +2630,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/health1homeopathy/@20.7173673,70.9831973,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d3b5df41363:0x4bbaaeb5cb3189ff!8m2!3d20.7173673!4d70.9831973!16s%2Fg%2F11yp3f4_8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/health1homeopathy/@20.7173673,70.9831973,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d3b5df41363:0x4bbaaeb5cb3189ff!8m2!3d20.7173673!4d70.9831973!16s%2Fg%2F11yp3f4_8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2718,11 +2696,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/health1homeopathy/@20.7173673,70.9831973,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d3b5df41363:0x4bbaaeb5cb3189ff!8m2!3d20.7173673!4d70.9831973!16s%2Fg%2F11yp3f4_8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indian-institute-of-liver-and-digestive-sciences-kolkata",
@@ -2773,7 +2750,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/@22.4362319,88.4537972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/@22.4362319,88.4537972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2842,8 +2819,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/@22.4362319,88.4537972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-hiland-park-best-ivf-centre-kolkata",
@@ -2893,7 +2869,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Hiland+Park+-+Best+IVF+Centre/@22.4834743,88.3927866,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027b9c99424ae9:0x3eaabdaf35717ff0!8m2!3d22.4834743!4d88.3927866!16s%2Fg%2F11f5tw18ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Hiland+Park+-+Best+IVF+Centre/@22.4834743,88.3927866,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027b9c99424ae9:0x3eaabdaf35717ff0!8m2!3d22.4834743!4d88.3927866!16s%2Fg%2F11f5tw18ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2962,8 +2938,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Hiland+Park+-+Best+IVF+Centre/@22.4834743,88.3927866,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027b9c99424ae9:0x3eaabdaf35717ff0!8m2!3d22.4834743!4d88.3927866!16s%2Fg%2F11f5tw18ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "j-k-hospital-dadra",
@@ -3012,7 +2987,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/J.K.+Hospital/@20.3234039,72.9729694,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cc1655903129:0xcc2ff65bd5ef4cf8!8m2!3d20.3234039!4d72.9729694!16s%2Fg%2F11bz_05xj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J.K.+Hospital/@20.3234039,72.9729694,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cc1655903129:0xcc2ff65bd5ef4cf8!8m2!3d20.3234039!4d72.9729694!16s%2Fg%2F11bz_05xj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3081,8 +3056,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/J.K.+Hospital/@20.3234039,72.9729694,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cc1655903129:0xcc2ff65bd5ef4cf8!8m2!3d20.3234039!4d72.9729694!16s%2Fg%2F11bz_05xj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jimeet-dental-clinic-marwad",
@@ -3130,7 +3104,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jimeet+Dental+Clinic/@20.4178009,72.8332414,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da75db999bfb:0x1297865d29053687!8m2!3d20.4178009!4d72.8332414!16s%2Fg%2F11g8vd3_qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jimeet+Dental+Clinic/@20.4178009,72.8332414,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da75db999bfb:0x1297865d29053687!8m2!3d20.4178009!4d72.8332414!16s%2Fg%2F11g8vd3_qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3199,8 +3173,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jimeet+Dental+Clinic/@20.4178009,72.8332414,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da75db999bfb:0x1297865d29053687!8m2!3d20.4178009!4d72.8332414!16s%2Fg%2F11g8vd3_qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jiya-hospital-and-children-general-and-surgical-nursing-home-vapi",
@@ -3249,7 +3222,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JIYA+HOSPITAL+%26+CHILDREN,+GENERAL+%26+SURGICAL+NURSING+HOME/@20.408468,72.883271,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d011c6196b93:0x70cb4005fd41f69a!8m2!3d20.408468!4d72.883271!16s%2Fg%2F11jzqqpptr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JIYA+HOSPITAL+%26+CHILDREN,+GENERAL+%26+SURGICAL+NURSING+HOME/@20.408468,72.883271,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d011c6196b93:0x70cb4005fd41f69a!8m2!3d20.408468!4d72.883271!16s%2Fg%2F11jzqqpptr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3315,11 +3288,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JIYA+HOSPITAL+%26+CHILDREN,+GENERAL+%26+SURGICAL+NURSING+HOME/@20.408468,72.883271,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d011c6196b93:0x70cb4005fd41f69a!8m2!3d20.408468!4d72.883271!16s%2Fg%2F11jzqqpptr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kraft-smile-dental-clinic-silvassa",
@@ -3367,7 +3339,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kraft+Smile+Dental+Clinic/@20.2604704,73.0068618,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cb00394657f5:0x21090d8170b8b0b0!8m2!3d20.2604704!4d73.0068618!16s%2Fg%2F11w4cv7gxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kraft+Smile+Dental+Clinic/@20.2604704,73.0068618,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cb00394657f5:0x21090d8170b8b0b0!8m2!3d20.2604704!4d73.0068618!16s%2Fg%2F11w4cv7gxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3433,11 +3405,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kraft+Smile+Dental+Clinic/@20.2604704,73.0068618,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cb00394657f5:0x21090d8170b8b0b0!8m2!3d20.2604704!4d73.0068618!16s%2Fg%2F11w4cv7gxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kural-dental-and-skin-hair-hair-transplant-centre-una",
@@ -3485,7 +3456,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kural+Dental+%26+Skin-Hair,+Hair+Transplant+Centre/@20.8188444,71.0407216,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fdfc1a5d7391:0xf262d810c9440779!8m2!3d20.8188444!4d71.0407216!16s%2Fg%2F11srzwxtkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kural+Dental+%26+Skin-Hair,+Hair+Transplant+Centre/@20.8188444,71.0407216,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fdfc1a5d7391:0xf262d810c9440779!8m2!3d20.8188444!4d71.0407216!16s%2Fg%2F11srzwxtkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3554,8 +3525,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kural+Dental+%26+Skin-Hair,+Hair+Transplant+Centre/@20.8188444,71.0407216,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fdfc1a5d7391:0xf262d810c9440779!8m2!3d20.8188444!4d71.0407216!16s%2Fg%2F11srzwxtkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "laser-cosmetic-surgery-center-ahmedabad",
@@ -3604,7 +3574,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Laser+Cosmetic+Surgery+Center/@23.017316,72.5582778,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84f83fffffff:0xe11f4f0f008787be!8m2!3d23.017316!4d72.5582778!16s%2Fg%2F1tlw7gn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laser+Cosmetic+Surgery+Center/@23.017316,72.5582778,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84f83fffffff:0xe11f4f0f008787be!8m2!3d23.017316!4d72.5582778!16s%2Fg%2F1tlw7gn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3673,8 +3643,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Laser+Cosmetic+Surgery+Center/@23.017316,72.5582778,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84f83fffffff:0xe11f4f0f008787be!8m2!3d23.017316!4d72.5582778!16s%2Fg%2F1tlw7gn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "laxmi-clinic-diu",
@@ -3722,7 +3691,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Laxmi+clinic/@20.7143989,70.9794668,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d3c40a8f957:0x360b996edfe72d85!8m2!3d20.7143989!4d70.9794668!16s%2Fg%2F11l32zwfrc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+clinic/@20.7143989,70.9794668,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d3c40a8f957:0x360b996edfe72d85!8m2!3d20.7143989!4d70.9794668!16s%2Fg%2F11l32zwfrc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3788,11 +3757,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Laxmi+clinic/@20.7143989,70.9794668,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d3c40a8f957:0x360b996edfe72d85!8m2!3d20.7143989!4d70.9794668!16s%2Fg%2F11l32zwfrc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "liv-gastro-kolkata",
@@ -3842,7 +3810,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Liv+Gastro/@22.5120619,88.3671985,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027161f0bf24a7:0x4fdc9363695d88cc!8m2!3d22.5120619!4d88.3671985!16s%2Fg%2F11vm81gzv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Liv+Gastro/@22.5120619,88.3671985,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027161f0bf24a7:0x4fdc9363695d88cc!8m2!3d22.5120619!4d88.3671985!16s%2Fg%2F11vm81gzv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3911,8 +3879,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Liv+Gastro/@22.5120619,88.3671985,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027161f0bf24a7:0x4fdc9363695d88cc!8m2!3d22.5120619!4d88.3671985!16s%2Fg%2F11vm81gzv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-krupa-dental-care-silvassa",
@@ -3960,7 +3927,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maa+Krupa+Dental+Care/@20.2678574,72.9718482,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cd20e7b349fb:0x6b70e0cd80e594e6!8m2!3d20.2678574!4d72.9718482!16s%2Fg%2F11vb2t_r_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Krupa+Dental+Care/@20.2678574,72.9718482,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cd20e7b349fb:0x6b70e0cd80e594e6!8m2!3d20.2678574!4d72.9718482!16s%2Fg%2F11vb2t_r_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4026,11 +3993,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maa+Krupa+Dental+Care/@20.2678574,72.9718482,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cd20e7b349fb:0x6b70e0cd80e594e6!8m2!3d20.2678574!4d72.9718482!16s%2Fg%2F11vb2t_r_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mandeep-clinic-ghoghola",
@@ -4078,7 +4044,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mandeep+clinic/@20.7242333,70.988132,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d2797388c6d:0x9afffc6de4895ca0!8m2!3d20.7242333!4d70.988132!16s%2Fg%2F11fxdyvwx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mandeep+clinic/@20.7242333,70.988132,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d2797388c6d:0x9afffc6de4895ca0!8m2!3d20.7242333!4d70.988132!16s%2Fg%2F11fxdyvwx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4144,11 +4110,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mandeep+clinic/@20.7242333,70.988132,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d2797388c6d:0x9afffc6de4895ca0!8m2!3d20.7242333!4d70.988132!16s%2Fg%2F11fxdyvwx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "marwad-hospital-daman",
@@ -4196,7 +4161,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Marwad+Hospital/@20.4332407,72.8311877,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da6b80c5fc01:0x3fb8bf5e182d811d!8m2!3d20.4332407!4d72.8311877!16s%2Fg%2F1tdlsr8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Marwad+Hospital/@20.4332407,72.8311877,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da6b80c5fc01:0x3fb8bf5e182d811d!8m2!3d20.4332407!4d72.8311877!16s%2Fg%2F1tdlsr8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4262,11 +4227,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Marwad+Hospital/@20.4332407,72.8311877,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da6b80c5fc01:0x3fb8bf5e182d811d!8m2!3d20.4332407!4d72.8311877!16s%2Fg%2F1tdlsr8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maxillofacial-and-dental-clinic-kolkata",
@@ -4315,7 +4279,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maxillofacial+and+Dental+Clinic/@22.6150907,88.3788789,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89dcf58c75153:0x3444f9349a2340f3!8m2!3d22.6150907!4d88.3788789!16s%2Fg%2F11nsvkx0_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxillofacial+and+Dental+Clinic/@22.6150907,88.3788789,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89dcf58c75153:0x3444f9349a2340f3!8m2!3d22.6150907!4d88.3788789!16s%2Fg%2F11nsvkx0_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4381,11 +4345,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maxillofacial+and+Dental+Clinic/@22.6150907,88.3788789,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89dcf58c75153:0x3444f9349a2340f3!8m2!3d22.6150907!4d88.3788789!16s%2Fg%2F11nsvkx0_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maxillofacial-center-kolkata",
@@ -4434,7 +4397,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maxillofacial+Center/@22.5048725,88.3462854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0270c88f907f77:0x86348de6544b0499!8m2!3d22.5048725!4d88.3462854!16s%2Fg%2F11s8dq9z42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxillofacial+Center/@22.5048725,88.3462854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0270c88f907f77:0x86348de6544b0499!8m2!3d22.5048725!4d88.3462854!16s%2Fg%2F11s8dq9z42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4500,11 +4463,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maxillofacial+Center/@22.5048725,88.3462854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0270c88f907f77:0x86348de6544b0499!8m2!3d22.5048725!4d88.3462854!16s%2Fg%2F11s8dq9z42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meru-nursing-home-bhavnagar",
@@ -4554,7 +4516,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Meru+Nursing+Home/@21.7612056,72.1394595,17z/data=!3m1!4b1!4m6!3m5!1s0x395f5082efe604c7:0xb5cb0e14784d471e!8m2!3d21.7612056!4d72.1394595!16s%2Fg%2F11c5bg8xx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meru+Nursing+Home/@21.7612056,72.1394595,17z/data=!3m1!4b1!4m6!3m5!1s0x395f5082efe604c7:0xb5cb0e14784d471e!8m2!3d21.7612056!4d72.1394595!16s%2Fg%2F11c5bg8xx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4623,8 +4585,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Meru+Nursing+Home/@21.7612056,72.1394595,17z/data=!3m1!4b1!4m6!3m5!1s0x395f5082efe604c7:0xb5cb0e14784d471e!8m2!3d21.7612056!4d72.1394595!16s%2Fg%2F11c5bg8xx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "naroli-s-solanki-clinic-not-daman-or-silvassa-naroli",
@@ -4673,7 +4634,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Naroli's+SOLANKI+CLINIC.(Not+DAMAN+or+SILVASSA)/@20.2601098,72.940042,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cdeab553f071:0xba85550c69f0ca1c!8m2!3d20.2601098!4d72.940042!16s%2Fg%2F11j6ybdzfv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naroli's+SOLANKI+CLINIC.(Not+DAMAN+or+SILVASSA)/@20.2601098,72.940042,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cdeab553f071:0xba85550c69f0ca1c!8m2!3d20.2601098!4d72.940042!16s%2Fg%2F11j6ybdzfv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4742,8 +4703,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Naroli's+SOLANKI+CLINIC.(Not+DAMAN+or+SILVASSA)/@20.2601098,72.940042,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cdeab553f071:0xba85550c69f0ca1c!8m2!3d20.2601098!4d72.940042!16s%2Fg%2F11j6ybdzfv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "newlook-cosmetic-surgery-clinic-bhubaneswar",
@@ -4789,7 +4749,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Newlook+Cosmetic+Surgery+Clinic/@20.2961204,85.8249846,17z/data=!3m1!4b1!4m6!3m5!1s0x3a1909c307f1ee85:0x8e7b60642dc0df7c!8m2!3d20.2961204!4d85.8249846!16s%2Fg%2F11c2lb4jdq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Newlook+Cosmetic+Surgery+Clinic/@20.2961204,85.8249846,17z/data=!3m1!4b1!4m6!3m5!1s0x3a1909c307f1ee85:0x8e7b60642dc0df7c!8m2!3d20.2961204!4d85.8249846!16s%2Fg%2F11c2lb4jdq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4855,11 +4815,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Newlook+Cosmetic+Surgery+Clinic/@20.2961204,85.8249846,17z/data=!3m1!4b1!4m6!3m5!1s0x3a1909c307f1ee85:0x8e7b60642dc0df7c!8m2!3d20.2961204!4d85.8249846!16s%2Fg%2F11c2lb4jdq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "olive-dental-and-maxillofacial-solutions-best-dental-clinic-in-kalighat-kolkata-best-dentist-in-kalighat-kolkata",
@@ -4909,7 +4868,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Olive+Dental+%26+Maxillofacial+Solutions+-+Best+dental+clinic+in+Kalighat,+Kolkata+%7C+Best+dentist+in+Kalighat/@22.511316,88.349055,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271d1d4afa8d9:0xff6714f959aab6d!8m2!3d22.511316!4d88.349055!16s%2Fg%2F11zh_p6zw2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Olive+Dental+%26+Maxillofacial+Solutions+-+Best+dental+clinic+in+Kalighat,+Kolkata+%7C+Best+dentist+in+Kalighat/@22.511316,88.349055,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271d1d4afa8d9:0xff6714f959aab6d!8m2!3d22.511316!4d88.349055!16s%2Fg%2F11zh_p6zw2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4975,11 +4934,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Olive+Dental+%26+Maxillofacial+Solutions+-+Best+dental+clinic+in+Kalighat,+Kolkata+%7C+Best+dentist+in+Kalighat/@22.511316,88.349055,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271d1d4afa8d9:0xff6714f959aab6d!8m2!3d22.511316!4d88.349055!16s%2Fg%2F11zh_p6zw2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-dental-clinic-ghoghola",
@@ -5027,7 +4985,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Om+Dental+Clinic/@20.7254636,70.9878521,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d0a48454f5f:0x357665343ffc9c80!8m2!3d20.7254636!4d70.9878521!16s%2Fg%2F11ks0gblv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Dental+Clinic/@20.7254636,70.9878521,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d0a48454f5f:0x357665343ffc9c80!8m2!3d20.7254636!4d70.9878521!16s%2Fg%2F11ks0gblv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5093,11 +5051,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Om+Dental+Clinic/@20.7254636,70.9878521,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d0a48454f5f:0x357665343ffc9c80!8m2!3d20.7254636!4d70.9878521!16s%2Fg%2F11ks0gblv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oramax-bidhannagar",
@@ -5146,7 +5103,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oramax/@22.5944779,88.4051283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275e3de77f5a7:0xe466e6dbc0a51913!8m2!3d22.5944779!4d88.4051283!16s%2Fg%2F11c1wkl7zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oramax/@22.5944779,88.4051283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275e3de77f5a7:0xe466e6dbc0a51913!8m2!3d22.5944779!4d88.4051283!16s%2Fg%2F11c1wkl7zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5215,8 +5172,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oramax/@22.5944779,88.4051283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275e3de77f5a7:0xe466e6dbc0a51913!8m2!3d22.5944779!4d88.4051283!16s%2Fg%2F11c1wkl7zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "panchal-s-dental-and-skin-clinic-silvassa",
@@ -5262,7 +5218,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Panchal%E2%80%99s+dental+%26+skin+clinic/@20.2670001,73.0039748,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cbba010b2d05:0x742f357fc6836d30!8m2!3d20.2670001!4d73.0039748!16s%2Fg%2F11j0tl9r42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Panchal%E2%80%99s+dental+%26+skin+clinic/@20.2670001,73.0039748,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cbba010b2d05:0x742f357fc6836d30!8m2!3d20.2670001!4d73.0039748!16s%2Fg%2F11j0tl9r42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5328,11 +5284,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Panchal%E2%80%99s+dental+%26+skin+clinic/@20.2670001,73.0039748,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cbba010b2d05:0x742f357fc6836d30!8m2!3d20.2670001!4d73.0039748!16s%2Fg%2F11j0tl9r42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "plarecos-aesthetica-plastic-surgery-clinic-in-bhubaneswar-bhubaneswar",
@@ -5380,7 +5335,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PLARECOS+AESTHETICA+-+Plastic+surgery+clinic+in+Bhubaneswar/@20.2666215,85.81875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a70015d48ed3:0xc950fbe462f9ab4f!8m2!3d20.2666215!4d85.81875!16s%2Fg%2F11wnnlhndk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PLARECOS+AESTHETICA+-+Plastic+surgery+clinic+in+Bhubaneswar/@20.2666215,85.81875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a70015d48ed3:0xc950fbe462f9ab4f!8m2!3d20.2666215!4d85.81875!16s%2Fg%2F11wnnlhndk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5446,11 +5401,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PLARECOS+AESTHETICA+-+Plastic+surgery+clinic+in+Bhubaneswar/@20.2666215,85.81875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a70015d48ed3:0xc950fbe462f9ab4f!8m2!3d20.2666215!4d85.81875!16s%2Fg%2F11wnnlhndk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pooja-hospital-marwad",
@@ -5498,7 +5452,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pooja+Hospital/@20.4221976,72.8414396,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0db4f418cca3b:0xbd22e3102c1aed91!8m2!3d20.4221976!4d72.8414396!16s%2Fg%2F11h0_n5tzj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pooja+Hospital/@20.4221976,72.8414396,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0db4f418cca3b:0xbd22e3102c1aed91!8m2!3d20.4221976!4d72.8414396!16s%2Fg%2F11h0_n5tzj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5567,8 +5521,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pooja+Hospital/@20.4221976,72.8414396,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0db4f418cca3b:0xbd22e3102c1aed91!8m2!3d20.4221976!4d72.8414396!16s%2Fg%2F11h0_n5tzj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "praveg-beach-resort-nagoa-diu-diu",
@@ -5617,7 +5570,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Praveg+Beach+Resort,+Nagoa,+Diu/@20.7021532,70.9139741,17z/data=!3m1!4b1!4m9!3m8!1s0x3be31dbf91ba4713:0x7988ea5a94d9d8c1!5m2!4m1!1i2!8m2!3d20.7021532!4d70.9139741!16s%2Fg%2F11vxpg2qpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Praveg+Beach+Resort,+Nagoa,+Diu/@20.7021532,70.9139741,17z/data=!3m1!4b1!4m9!3m8!1s0x3be31dbf91ba4713:0x7988ea5a94d9d8c1!5m2!4m1!1i2!8m2!3d20.7021532!4d70.9139741!16s%2Fg%2F11vxpg2qpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5686,8 +5639,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Praveg+Beach+Resort,+Nagoa,+Diu/@20.7021532,70.9139741,17z/data=!3m1!4b1!4m9!3m8!1s0x3be31dbf91ba4713:0x7988ea5a94d9d8c1!5m2!4m1!1i2!8m2!3d20.7021532!4d70.9139741!16s%2Fg%2F11vxpg2qpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "primary-health-centre-vanakbara",
@@ -5735,7 +5687,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Primary+Health+Centre/@20.7166321,70.8778949,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31e5c0469d069:0xb8ef24c96447eb0e!8m2!3d20.7166321!4d70.8778949!16s%2Fg%2F11gzzh196?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Primary+Health+Centre/@20.7166321,70.8778949,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31e5c0469d069:0xb8ef24c96447eb0e!8m2!3d20.7166321!4d70.8778949!16s%2Fg%2F11gzzh196?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5804,8 +5756,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Primary+Health+Centre/@20.7166321,70.8778949,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31e5c0469d069:0xb8ef24c96447eb0e!8m2!3d20.7166321!4d70.8778949!16s%2Fg%2F11gzzh196?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sadbhavana-clinic-daman",
@@ -5853,7 +5804,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sadbhavana+Clinic/@20.4113379,72.8788529,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d1f9cdd60d0b:0x91466e3c09557266!8m2!3d20.4113379!4d72.8788529!16s%2Fg%2F11z70mctbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadbhavana+Clinic/@20.4113379,72.8788529,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d1f9cdd60d0b:0x91466e3c09557266!8m2!3d20.4113379!4d72.8788529!16s%2Fg%2F11z70mctbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5919,11 +5870,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sadbhavana+Clinic/@20.4113379,72.8788529,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d1f9cdd60d0b:0x91466e3c09557266!8m2!3d20.4113379!4d72.8788529!16s%2Fg%2F11z70mctbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-clinic-dagachi",
@@ -5970,7 +5920,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+clinic/@20.7254724,70.9068251,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31f189d037815:0x3a5eca505246dcaa!8m2!3d20.7254724!4d70.9068251!16s%2Fg%2F11w1bz9g0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+clinic/@20.7254724,70.9068251,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31f189d037815:0x3a5eca505246dcaa!8m2!3d20.7254724!4d70.9068251!16s%2Fg%2F11w1bz9g0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6036,11 +5986,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+clinic/@20.7254724,70.9068251,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31f189d037815:0x3a5eca505246dcaa!8m2!3d20.7254724!4d70.9068251!16s%2Fg%2F11w1bz9g0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sakhiya-skin-clinic-best-skin-clinic-chain-in-india-rajkot",
@@ -6089,7 +6038,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+Clinic+chain+in+India/@22.2794369,70.7641216,17z/data=!3m1!4b1!4m6!3m5!1s0x3959d392ada1b1b9:0x53db88cbb575fd8b!8m2!3d22.2794369!4d70.7641216!16s%2Fg%2F11m9pz3dfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+Clinic+chain+in+India/@22.2794369,70.7641216,17z/data=!3m1!4b1!4m6!3m5!1s0x3959d392ada1b1b9:0x53db88cbb575fd8b!8m2!3d22.2794369!4d70.7641216!16s%2Fg%2F11m9pz3dfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6158,8 +6107,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+Clinic+chain+in+India/@22.2794369,70.7641216,17z/data=!3m1!4b1!4m6!3m5!1s0x3959d392ada1b1b9:0x53db88cbb575fd8b!8m2!3d22.2794369!4d70.7641216!16s%2Fg%2F11m9pz3dfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sapna-rawal-glowdrip-skin-and-laser-nani-daman",
@@ -6207,7 +6155,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sapna+rawal,+glowdrip+skin+%26+laser,/@20.4172235,72.8385389,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0db46c9da9ffb:0xfd6df3c002d4e01a!8m2!3d20.4172235!4d72.8385389!16s%2Fg%2F11yv7l9h4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sapna+rawal,+glowdrip+skin+%26+laser,/@20.4172235,72.8385389,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0db46c9da9ffb:0xfd6df3c002d4e01a!8m2!3d20.4172235!4d72.8385389!16s%2Fg%2F11yv7l9h4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6273,11 +6221,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sapna+rawal,+glowdrip+skin+%26+laser,/@20.4172235,72.8385389,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0db46c9da9ffb:0xfd6df3c002d4e01a!8m2!3d20.4172235!4d72.8385389!16s%2Fg%2F11yv7l9h4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-clinic-general-and-pediatric-hospital-ghoghola",
@@ -6325,7 +6272,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharma+clinic+(+general+%26+pediatric+hospital+)/@20.7258689,70.9892168,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d7462152a21:0x5be6c3fbf38e1067!8m2!3d20.7258689!4d70.9892168!16s%2Fg%2F11ykmk6x_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+clinic+(+general+%26+pediatric+hospital+)/@20.7258689,70.9892168,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d7462152a21:0x5be6c3fbf38e1067!8m2!3d20.7258689!4d70.9892168!16s%2Fg%2F11ykmk6x_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6391,11 +6338,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharma+clinic+(+general+%26+pediatric+hospital+)/@20.7258689,70.9892168,17z/data=!3m1!4b1!4m6!3m5!1s0x3be31d7462152a21:0x5be6c3fbf38e1067!8m2!3d20.7258689!4d70.9892168!16s%2Fg%2F11ykmk6x_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiv-dental-care-daman",
@@ -6443,7 +6389,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiv+Dental+Care/@20.4203234,72.8375256,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da771d98c873:0xb29cd88ecaf9d37c!8m2!3d20.4203234!4d72.8375256!16s%2Fg%2F11b5pht1pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Dental+Care/@20.4203234,72.8375256,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da771d98c873:0xb29cd88ecaf9d37c!8m2!3d20.4203234!4d72.8375256!16s%2Fg%2F11b5pht1pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6509,11 +6455,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiv+Dental+Care/@20.4203234,72.8375256,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da771d98c873:0xb29cd88ecaf9d37c!8m2!3d20.4203234!4d72.8375256!16s%2Fg%2F11b5pht1pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivam-hospital-dr-brijal-patel-daman",
@@ -6561,7 +6506,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivam+Hospital+(Dr+Brijal+Patel)/@20.4180059,72.8376404,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d09deaaaaaab:0xf20d3acb7f08f04a!8m2!3d20.4180059!4d72.8376404!16s%2Fg%2F11gfly6m4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam+Hospital+(Dr+Brijal+Patel)/@20.4180059,72.8376404,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d09deaaaaaab:0xf20d3acb7f08f04a!8m2!3d20.4180059!4d72.8376404!16s%2Fg%2F11gfly6m4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6630,8 +6575,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivam+Hospital+(Dr+Brijal+Patel)/@20.4180059,72.8376404,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0d09deaaaaaab:0xf20d3acb7f08f04a!8m2!3d20.4180059!4d72.8376404!16s%2Fg%2F11gfly6m4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-sainath-hospital-silvassa",
@@ -6679,7 +6623,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Sainath+Hospital/@20.2734768,73.0063541,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cb6814d11b63:0xefb2f3c56aaf44a1!8m2!3d20.2734768!4d73.0063541!16s%2Fg%2F1q6j35gty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Sainath+Hospital/@20.2734768,73.0063541,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cb6814d11b63:0xefb2f3c56aaf44a1!8m2!3d20.2734768!4d73.0063541!16s%2Fg%2F1q6j35gty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6748,8 +6692,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Sainath+Hospital/@20.2734768,73.0063541,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cb6814d11b63:0xefb2f3c56aaf44a1!8m2!3d20.2734768!4d73.0063541!16s%2Fg%2F1q6j35gty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-vinoba-bhave-civil-hospital-silvassa",
@@ -6798,7 +6741,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Vinoba+Bhave+Civil+Hospital/@20.2707155,73.0076634,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cb42616d641b:0xb60b3a17730a1a75!8m2!3d20.2707155!4d73.0076634!16s%2Fg%2F11fgj7yc5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Vinoba+Bhave+Civil+Hospital/@20.2707155,73.0076634,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cb42616d641b:0xb60b3a17730a1a75!8m2!3d20.2707155!4d73.0076634!16s%2Fg%2F11fgj7yc5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6867,8 +6810,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Vinoba+Bhave+Civil+Hospital/@20.2707155,73.0076634,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cb42616d641b:0xb60b3a17730a1a75!8m2!3d20.2707155!4d73.0076634!16s%2Fg%2F11fgj7yc5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "silvacare-hospital-silvassa",
@@ -6917,7 +6859,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SilvaCare+Hospital/@20.2857104,72.9952966,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cbacce6d7471:0xced0c47721250698!8m2!3d20.2857104!4d72.9952966!16s%2Fg%2F11kgpg4gvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SilvaCare+Hospital/@20.2857104,72.9952966,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cbacce6d7471:0xced0c47721250698!8m2!3d20.2857104!4d72.9952966!16s%2Fg%2F11kgpg4gvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6986,8 +6928,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SilvaCare+Hospital/@20.2857104,72.9952966,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0cbacce6d7471:0xced0c47721250698!8m2!3d20.2857104!4d72.9952966!16s%2Fg%2F11kgpg4gvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-and-shine-clinic-silvassa",
@@ -7035,7 +6976,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMILE+%26+SHINE+CLINIC/data=!4m7!3m6!1s0x3be0cb71d1119d21:0xf1cbf458654a86e0!8m2!3d20.2718739!4d73.001704!16s%2Fg%2F11vbj9_rqk!19sChIJIZ0R0XHL4DsR4IZKZVj0y_E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+%26+SHINE+CLINIC/data=!4m7!3m6!1s0x3be0cb71d1119d21:0xf1cbf458654a86e0!8m2!3d20.2718739!4d73.001704!16s%2Fg%2F11vbj9_rqk!19sChIJIZ0R0XHL4DsR4IZKZVj0y_E?authuser=0&hl=en&rclk=1"
@@ -7101,11 +7042,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMILE+%26+SHINE+CLINIC/data=!4m7!3m6!1s0x3be0cb71d1119d21:0xf1cbf458654a86e0!8m2!3d20.2718739!4d73.001704!16s%2Fg%2F11vbj9_rqk!19sChIJIZ0R0XHL4DsR4IZKZVj0y_E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "soundarya-cosmetic-bhubaneswar",
@@ -7154,7 +7094,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Soundarya+Cosmetic/@20.2782825,85.7950164,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a78859e5c23b:0x5febb30f5b2d6608!8m2!3d20.2782825!4d85.7950164!16s%2Fg%2F11fxb7s3_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soundarya+Cosmetic/@20.2782825,85.7950164,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a78859e5c23b:0x5febb30f5b2d6608!8m2!3d20.2782825!4d85.7950164!16s%2Fg%2F11fxb7s3_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7223,8 +7163,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Soundarya+Cosmetic/@20.2782825,85.7950164,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a78859e5c23b:0x5febb30f5b2d6608!8m2!3d20.2782825!4d85.7950164!16s%2Fg%2F11fxb7s3_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surgident-oral-and-maxillofacial-dental-clinic-and-implant-centre-kolkata",
@@ -7274,7 +7213,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7343,8 +7282,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -7394,7 +7332,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7460,11 +7398,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-oral-clinic-kolkata",
@@ -7512,7 +7449,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Oral+Clinic/@22.6271174,88.4339311,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89e310905f157:0x2cfc4e7c09c0bdfa!8m2!3d22.6271174!4d88.4339311!16s%2Fg%2F11hbk4dzny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Oral+Clinic/@22.6271174,88.4339311,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89e310905f157:0x2cfc4e7c09c0bdfa!8m2!3d22.6271174!4d88.4339311!16s%2Fg%2F11hbk4dzny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7578,11 +7515,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Oral+Clinic/@22.6271174,88.4339311,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89e310905f157:0x2cfc4e7c09c0bdfa!8m2!3d22.6271174!4d88.4339311!16s%2Fg%2F11hbk4dzny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-perfect-smile-dental-clinic-daman",
@@ -7630,7 +7566,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/THE+PERFECT+SMILE+DENTAL+CLINIC/@20.4174393,72.8384194,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0dbf4f2cb2c63:0xd8dda5ff391b7346!8m2!3d20.4174393!4d72.8384194!16s%2Fg%2F11h5lvng_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THE+PERFECT+SMILE+DENTAL+CLINIC/@20.4174393,72.8384194,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0dbf4f2cb2c63:0xd8dda5ff391b7346!8m2!3d20.4174393!4d72.8384194!16s%2Fg%2F11h5lvng_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7699,8 +7635,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/THE+PERFECT+SMILE+DENTAL+CLINIC/@20.4174393,72.8384194,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0dbf4f2cb2c63:0xd8dda5ff391b7346!8m2!3d20.4174393!4d72.8384194!16s%2Fg%2F11h5lvng_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vaidik-dental-college-and-research-centre-daman",
@@ -7750,7 +7685,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vaidik+Dental+College+and+Research+Centre/@20.4447827,72.8536573,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da8a2d461275:0x438ed2ca434bbdd1!8m2!3d20.4447827!4d72.8536573!16s%2Fg%2F11b7y9mpnj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaidik+Dental+College+and+Research+Centre/@20.4447827,72.8536573,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da8a2d461275:0x438ed2ca434bbdd1!8m2!3d20.4447827!4d72.8536573!16s%2Fg%2F11b7y9mpnj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7819,8 +7754,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vaidik+Dental+College+and+Research+Centre/@20.4447827,72.8536573,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0da8a2d461275:0x438ed2ca434bbdd1!8m2!3d20.4447827!4d72.8536573!16s%2Fg%2F11b7y9mpnj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "best-eye-care-eye-hospital-eye-surgery-cataract-surgery-laser-eye-operation-una",
@@ -7868,7 +7802,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%AA%A8%E0%AA%BF%E0%AA%B0%E0%AA%BE%E0%AA%AE%E0%AA%AF+%E0%AA%86%E0%AA%88+%E0%AA%95%E0%AB%87%E0%AA%B0+-+Best+Eye+Care,+Eye+Hospital,+Eye+Surgery,+Cataract+Surgery,+Laser+Eye+Operation/@20.8248989,71.0414094,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fd747aed3487:0xb13941ee3f0fe733!8m2!3d20.8248989!4d71.0414094!16s%2Fg%2F11fnxt8ytf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%AA%A8%E0%AA%BF%E0%AA%B0%E0%AA%BE%E0%AA%AE%E0%AA%AF+%E0%AA%86%E0%AA%88+%E0%AA%95%E0%AB%87%E0%AA%B0+-+Best+Eye+Care,+Eye+Hospital,+Eye+Surgery,+Cataract+Surgery,+Laser+Eye+Operation/@20.8248989,71.0414094,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fd747aed3487:0xb13941ee3f0fe733!8m2!3d20.8248989!4d71.0414094!16s%2Fg%2F11fnxt8ytf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7937,7 +7871,6 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%AA%A8%E0%AA%BF%E0%AA%B0%E0%AA%BE%E0%AA%AE%E0%AA%AF+%E0%AA%86%E0%AA%88+%E0%AA%95%E0%AB%87%E0%AA%B0+-+Best+Eye+Care,+Eye+Hospital,+Eye+Surgery,+Cataract+Surgery,+Laser+Eye+Operation/@20.8248989,71.0414094,17z/data=!3m1!4b1!4m6!3m5!1s0x3be2fd747aed3487:0xb13941ee3f0fe733!8m2!3d20.8248989!4d71.0414094!16s%2Fg%2F11fnxt8ytf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

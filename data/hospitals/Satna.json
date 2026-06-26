@@ -47,7 +47,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aakash+Physiotherapy+Clinic+:+Paralysis+%28%E0%A4%B2%E0%A4%95%E0%A4%B5%E0%A4%BE%29,+Osteopathy+and+Chiropractic+Manual+Therapy+Center/data=!4m7!3m6!1s0x39847f87488bf6f1:0x742766dadf2f722f!8m2!3d24.5732144!4d80.8402317!16s%2Fg%2F11slrsncdj!19sChIJ8faLSId_hDkRL3Iv39pmJ3Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aakash+Physiotherapy+Clinic+:+Paralysis+%28%E0%A4%B2%E0%A4%95%E0%A4%B5%E0%A4%BE%29,+Osteopathy+and+Chiropractic+Manual+Therapy+Center/data=!4m7!3m6!1s0x39847f87488bf6f1:0x742766dadf2f722f!8m2!3d24.5732144!4d80.8402317!16s%2Fg%2F11slrsncdj!19sChIJ8faLSId_hDkRL3Iv39pmJ3Q?authuser=0&hl=en&rclk=1"
@@ -113,11 +113,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aakash+Physiotherapy+Clinic+:+Paralysis+%28%E0%A4%B2%E0%A4%95%E0%A4%B5%E0%A4%BE%29,+Osteopathy+and+Chiropractic+Manual+Therapy+Center/data=!4m7!3m6!1s0x39847f87488bf6f1:0x742766dadf2f722f!8m2!3d24.5732144!4d80.8402317!16s%2Fg%2F11slrsncdj!19sChIJ8faLSId_hDkRL3Iv39pmJ3Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advance-hair-transplant-clinic-satna",
@@ -165,7 +164,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Advance+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x39847f07157fd1df:0x6d8f4209b994fb93!8m2!3d24.5762775!4d80.8474634!16s%2Fg%2F11f5hlfrk_!19sChIJ39F_FQd_hDkRk_uUuQlCj20?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x39847f07157fd1df:0x6d8f4209b994fb93!8m2!3d24.5762775!4d80.8474634!16s%2Fg%2F11f5hlfrk_!19sChIJ39F_FQd_hDkRk_uUuQlCj20?authuser=0&hl=en&rclk=1"
@@ -231,11 +230,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Advance+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x39847f07157fd1df:0x6d8f4209b994fb93!8m2!3d24.5762775!4d80.8474634!16s%2Fg%2F11f5hlfrk_!19sChIJ39F_FQd_hDkRk_uUuQlCj20?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ayushman-hospital-satna",
@@ -281,7 +279,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ayushman+hospital/data=!4m7!3m6!1s0x39847f00070edd3b:0xab94c72ff4023694!8m2!3d24.5729587!4d80.8326965!16s%2Fg%2F11xmxzb0lj!19sChIJO90OBwB_hDkRlDYC9C_HlKs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayushman+hospital/data=!4m7!3m6!1s0x39847f00070edd3b:0xab94c72ff4023694!8m2!3d24.5729587!4d80.8326965!16s%2Fg%2F11xmxzb0lj!19sChIJO90OBwB_hDkRlDYC9C_HlKs?authuser=0&hl=en&rclk=1"
@@ -347,11 +345,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ayushman+hospital/data=!4m7!3m6!1s0x39847f00070edd3b:0xab94c72ff4023694!8m2!3d24.5729587!4d80.8326965!16s%2Fg%2F11xmxzb0lj!19sChIJO90OBwB_hDkRlDYC9C_HlKs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cardiac-care-center-satna-mp-birla-hospital-satna",
@@ -401,7 +398,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cardiac+Care+Center+Satna+MP+Birla+Hospital/data=!4m7!3m6!1s0x39847f726e039df3:0xbaaed80665d41718!8m2!3d24.5852891!4d80.8563813!16s%2Fg%2F11mz5d9k8c!19sChIJ850DbnJ_hDkRGBfUZQbYrro?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cardiac+Care+Center+Satna+MP+Birla+Hospital/data=!4m7!3m6!1s0x39847f726e039df3:0xbaaed80665d41718!8m2!3d24.5852891!4d80.8563813!16s%2Fg%2F11mz5d9k8c!19sChIJ850DbnJ_hDkRGBfUZQbYrro?authuser=0&hl=en&rclk=1"
@@ -467,11 +464,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cardiac+Care+Center+Satna+MP+Birla+Hospital/data=!4m7!3m6!1s0x39847f726e039df3:0xbaaed80665d41718!8m2!3d24.5852891!4d80.8563813!16s%2Fg%2F11mz5d9k8c!19sChIJ850DbnJ_hDkRGBfUZQbYrro?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dayawati-hospital-satna",
@@ -519,7 +515,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dayawati+Hospital/data=!4m7!3m6!1s0x39847f705f649905:0xdbaf48b11034fbba!8m2!3d24.5676182!4d80.8228014!16s%2Fg%2F11b6dp304t!19sChIJBZlkX3B_hDkRuvs0ELFIr9s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dayawati+Hospital/data=!4m7!3m6!1s0x39847f705f649905:0xdbaf48b11034fbba!8m2!3d24.5676182!4d80.8228014!16s%2Fg%2F11b6dp304t!19sChIJBZlkX3B_hDkRuvs0ELFIr9s?authuser=0&hl=en&rclk=1"
@@ -588,8 +584,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dayawati+Hospital/data=!4m7!3m6!1s0x39847f705f649905:0xdbaf48b11034fbba!8m2!3d24.5676182!4d80.8228014!16s%2Fg%2F11b6dp304t!19sChIJBZlkX3B_hDkRuvs0ELFIr9s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-clinic-dr-chandni-agrawal-satna",
@@ -638,7 +633,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+clinic%2FDr+Chandni+agrawal/data=!4m7!3m6!1s0x39847f09d32c4a55:0x4c59904c375c4ccb!8m2!3d24.5778836!4d80.8364287!16s%2Fg%2F11ckvg3clk!19sChIJVUos0wl_hDkRy0xcN0yQWUw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+clinic%2FDr+Chandni+agrawal/data=!4m7!3m6!1s0x39847f09d32c4a55:0x4c59904c375c4ccb!8m2!3d24.5778836!4d80.8364287!16s%2Fg%2F11ckvg3clk!19sChIJVUos0wl_hDkRy0xcN0yQWUw?authuser=0&hl=en&rclk=1"
@@ -707,8 +702,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+clinic%2FDr+Chandni+agrawal/data=!4m7!3m6!1s0x39847f09d32c4a55:0x4c59904c375c4ccb!8m2!3d24.5778836!4d80.8364287!16s%2Fg%2F11ckvg3clk!19sChIJVUos0wl_hDkRy0xcN0yQWUw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-home-and-implant-center-best-dentist-in-satna-best-dental-clinic-in-satna-best-root-canal-treatment-in-satna-satna",
@@ -757,7 +751,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Home+%26+Implant+Center+-+Best+Dentist+in+Satna+%7C+Best+Dental+Clinic+in+Satna+%7CBest+Root+Canal+Treatment+in+Satna/data=!4m7!3m6!1s0x39847f6a7563ff8b:0x48a79c3fafecec41!8m2!3d24.5709336!4d80.864853!16s%2Fg%2F11y9j09bmy!19sChIJi_9jdWp_hDkRQezsrz-cp0g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Home+%26+Implant+Center+-+Best+Dentist+in+Satna+%7C+Best+Dental+Clinic+in+Satna+%7CBest+Root+Canal+Treatment+in+Satna/data=!4m7!3m6!1s0x39847f6a7563ff8b:0x48a79c3fafecec41!8m2!3d24.5709336!4d80.864853!16s%2Fg%2F11y9j09bmy!19sChIJi_9jdWp_hDkRQezsrz-cp0g?authuser=0&hl=en&rclk=1"
@@ -823,11 +817,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Home+%26+Implant+Center+-+Best+Dentist+in+Satna+%7C+Best+Dental+Clinic+in+Satna+%7CBest+Root+Canal+Treatment+in+Satna/data=!4m7!3m6!1s0x39847f6a7563ff8b:0x48a79c3fafecec41!8m2!3d24.5709336!4d80.864853!16s%2Fg%2F11y9j09bmy!19sChIJi_9jdWp_hDkRQezsrz-cp0g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "district-hospital-satna-satna",
@@ -875,7 +868,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/District+Hospital+Satna/data=!4m7!3m6!1s0x39847f72d529def5:0xbc1b702d72953d87!8m2!3d24.5683341!4d80.8320856!16s%2Fg%2F1tj94v56!19sChIJ9d4p1XJ_hDkRhz2Vci1wG7w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital+Satna/data=!4m7!3m6!1s0x39847f72d529def5:0xbc1b702d72953d87!8m2!3d24.5683341!4d80.8320856!16s%2Fg%2F1tj94v56!19sChIJ9d4p1XJ_hDkRhz2Vci1wG7w?authuser=0&hl=en&rclk=1"
@@ -944,8 +937,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/District+Hospital+Satna/data=!4m7!3m6!1s0x39847f72d529def5:0xbc1b702d72953d87!8m2!3d24.5683341!4d80.8320856!16s%2Fg%2F1tj94v56!19sChIJ9d4p1XJ_hDkRhz2Vci1wG7w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospital-anya-health-care-satna",
@@ -994,7 +986,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hospital+Anya+Health+Care/@24.576569,80.8431403,17z/data=!3m1!4b1!4m6!3m5!1s0x39847f810588e4cb:0x813985219c3c3c84!8m2!3d24.576569!4d80.8431403!16s%2Fg%2F11h1934tfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital+Anya+Health+Care/@24.576569,80.8431403,17z/data=!3m1!4b1!4m6!3m5!1s0x39847f810588e4cb:0x813985219c3c3c84!8m2!3d24.576569!4d80.8431403!16s%2Fg%2F11h1934tfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1063,8 +1055,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hospital+Anya+Health+Care/@24.576569,80.8431403,17z/data=!3m1!4b1!4m6!3m5!1s0x39847f810588e4cb:0x813985219c3c3c84!8m2!3d24.576569!4d80.8431403!16s%2Fg%2F11h1934tfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-jyoti-hospital-rajendra-nagar-satna-mp-satna",
@@ -1112,7 +1103,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital+Rajendra+Nagar+Satna+Mp/data=!4m7!3m6!1s0x39847f71408d3d2b:0xbcbb7391b146b253!8m2!3d24.5720046!4d80.8228413!16s%2Fg%2F11f624g9dj!19sChIJKz2NQHF_hDkRU7JGsZFzu7w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital+Rajendra+Nagar+Satna+Mp/data=!4m7!3m6!1s0x39847f71408d3d2b:0xbcbb7391b146b253!8m2!3d24.5720046!4d80.8228413!16s%2Fg%2F11f624g9dj!19sChIJKz2NQHF_hDkRU7JGsZFzu7w?authuser=0&hl=en&rclk=1"
@@ -1181,8 +1172,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital+Rajendra+Nagar+Satna+Mp/data=!4m7!3m6!1s0x39847f71408d3d2b:0xbcbb7391b146b253!8m2!3d24.5720046!4d80.8228413!16s%2Fg%2F11f624g9dj!19sChIJKz2NQHF_hDkRU7JGsZFzu7w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "m-b-medical-and-neuro-center-satna",
@@ -1232,7 +1222,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/M+B+Medical+%26+NEURO+Center/data=!4m7!3m6!1s0x39847f0052a9a6a3:0xdcce886062f622c5!8m2!3d24.5700871!4d80.8305111!16s%2Fg%2F11mf7lb2xt!19sChIJo6apUgB_hDkRxSL2YmCIztw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+B+Medical+%26+NEURO+Center/data=!4m7!3m6!1s0x39847f0052a9a6a3:0xdcce886062f622c5!8m2!3d24.5700871!4d80.8305111!16s%2Fg%2F11mf7lb2xt!19sChIJo6apUgB_hDkRxSL2YmCIztw?authuser=0&hl=en&rclk=1"
@@ -1298,11 +1288,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/M+B+Medical+%26+NEURO+Center/data=!4m7!3m6!1s0x39847f0052a9a6a3:0xdcce886062f622c5!8m2!3d24.5700871!4d80.8305111!16s%2Fg%2F11mf7lb2xt!19sChIJo6apUgB_hDkRxSL2YmCIztw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "m-p-birla-hospital-satna",
@@ -1351,7 +1340,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/M.P.+BIRLA+HOSPITAL/data=!4m7!3m6!1s0x3985961a9aee2d95:0x12285281fb107be0!8m2!3d24.5850651!4d80.8564603!16s%2Fg%2F1tf7f22l!19sChIJlS3umhqWhTkR4HsQ-4FSKBI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.P.+BIRLA+HOSPITAL/data=!4m7!3m6!1s0x3985961a9aee2d95:0x12285281fb107be0!8m2!3d24.5850651!4d80.8564603!16s%2Fg%2F1tf7f22l!19sChIJlS3umhqWhTkR4HsQ-4FSKBI?authuser=0&hl=en&rclk=1"
@@ -1420,8 +1409,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/M.P.+BIRLA+HOSPITAL/data=!4m7!3m6!1s0x3985961a9aee2d95:0x12285281fb107be0!8m2!3d24.5850651!4d80.8564603!16s%2Fg%2F1tf7f22l!19sChIJlS3umhqWhTkR4HsQ-4FSKBI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manik-chandra-gupta-hospital-satna",
@@ -1469,7 +1457,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manik+Chandra+Gupta+Hospital/data=!4m7!3m6!1s0x39847f05e37e0c21:0xde57154ef258aaa3!8m2!3d24.5772175!4d80.8491567!16s%2Fg%2F11lfzbv7_t!19sChIJIQx-4wV_hDkRo6pY8k4VV94?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manik+Chandra+Gupta+Hospital/data=!4m7!3m6!1s0x39847f05e37e0c21:0xde57154ef258aaa3!8m2!3d24.5772175!4d80.8491567!16s%2Fg%2F11lfzbv7_t!19sChIJIQx-4wV_hDkRo6pY8k4VV94?authuser=0&hl=en&rclk=1"
@@ -1538,8 +1526,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manik+Chandra+Gupta+Hospital/data=!4m7!3m6!1s0x39847f05e37e0c21:0xde57154ef258aaa3!8m2!3d24.5772175!4d80.8491567!16s%2Fg%2F11lfzbv7_t!19sChIJIQx-4wV_hDkRo6pY8k4VV94?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-satna-satna",
@@ -1589,7 +1576,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Satna/data=!4m7!3m6!1s0x39847fdff7cd7715:0xb2299b56a541da!8m2!3d24.5751656!4d80.8381005!16s%2Fg%2F11wmmp97bc!19sChIJFXfN999_hDkR2kGlVpspsgA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Satna/data=!4m7!3m6!1s0x39847fdff7cd7715:0xb2299b56a541da!8m2!3d24.5751656!4d80.8381005!16s%2Fg%2F11wmmp97bc!19sChIJFXfN999_hDkR2kGlVpspsgA?authuser=0&hl=en&rclk=1"
@@ -1658,8 +1645,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Satna/data=!4m7!3m6!1s0x39847fdff7cd7715:0xb2299b56a541da!8m2!3d24.5751656!4d80.8381005!16s%2Fg%2F11wmmp97bc!19sChIJFXfN999_hDkR2kGlVpspsgA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-satna-satna",
@@ -1708,7 +1694,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Satna/data=!4m7!3m6!1s0x39847f87dceea8fd:0xbae7f7aec7a876e!8m2!3d24.569229!4d80.836306!16s%2Fg%2F11y8yz3n7z!19sChIJ_aju3Id_hDkRbod67Hp_rgs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Satna/data=!4m7!3m6!1s0x39847f87dceea8fd:0xbae7f7aec7a876e!8m2!3d24.569229!4d80.836306!16s%2Fg%2F11y8yz3n7z!19sChIJ_aju3Id_hDkRbod67Hp_rgs?authuser=0&hl=en&rclk=1"
@@ -1774,11 +1760,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Satna/data=!4m7!3m6!1s0x39847f87dceea8fd:0xbae7f7aec7a876e!8m2!3d24.569229!4d80.836306!16s%2Fg%2F11y8yz3n7z!19sChIJ_aju3Id_hDkRbod67Hp_rgs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mp-birla-hospital-and-priyamvada-birla-cancer-research-institute-blood-bank-satna",
@@ -1827,7 +1812,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mp+Birla+Hospital+And+Priyamvada+Birla+Cancer+Research+Institute+Blood+Bank/data=!4m7!3m6!1s0x39847e536555555b:0x6f64b377a1f2ff83!8m2!3d24.5802548!4d80.8530527!16s%2Fg%2F11jdzzsbhd!19sChIJW1VVZVN-hDkRg__yoXezZG8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mp+Birla+Hospital+And+Priyamvada+Birla+Cancer+Research+Institute+Blood+Bank/data=!4m7!3m6!1s0x39847e536555555b:0x6f64b377a1f2ff83!8m2!3d24.5802548!4d80.8530527!16s%2Fg%2F11jdzzsbhd!19sChIJW1VVZVN-hDkRg__yoXezZG8?authuser=0&hl=en&rclk=1"
@@ -1896,8 +1881,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mp+Birla+Hospital+And+Priyamvada+Birla+Cancer+Research+Institute+Blood+Bank/data=!4m7!3m6!1s0x39847e536555555b:0x6f64b377a1f2ff83!8m2!3d24.5802548!4d80.8530527!16s%2Fg%2F11jdzzsbhd!19sChIJW1VVZVN-hDkRg__yoXezZG8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pandey-accupressure-clinic-satna",
@@ -1945,7 +1929,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pandey+accupressure+clinic/data=!4m7!3m6!1s0x39847fbc8a40912d:0x1ea6d39e6c4d6f93!8m2!3d24.554592!4d80.8243015!16s%2Fg%2F11l362w33b!19sChIJLZFAirx_hDkRk29NbJ7Tph4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pandey+accupressure+clinic/data=!4m7!3m6!1s0x39847fbc8a40912d:0x1ea6d39e6c4d6f93!8m2!3d24.554592!4d80.8243015!16s%2Fg%2F11l362w33b!19sChIJLZFAirx_hDkRk29NbJ7Tph4?authuser=0&hl=en&rclk=1"
@@ -2011,11 +1995,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pandey+accupressure+clinic/data=!4m7!3m6!1s0x39847fbc8a40912d:0x1ea6d39e6c4d6f93!8m2!3d24.554592!4d80.8243015!16s%2Fg%2F11l362w33b!19sChIJLZFAirx_hDkRk29NbJ7Tph4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pathak-hospital-satna",
@@ -2063,7 +2046,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pathak+Hospital/data=!4m7!3m6!1s0x39847f0154cb7d61:0xf1cd720ce21d43c0!8m2!3d24.5719826!4d80.8486029!16s%2Fg%2F11g6nhl_fl!19sChIJYX3LVAF_hDkRwEMd4gxyzfE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pathak+Hospital/data=!4m7!3m6!1s0x39847f0154cb7d61:0xf1cd720ce21d43c0!8m2!3d24.5719826!4d80.8486029!16s%2Fg%2F11g6nhl_fl!19sChIJYX3LVAF_hDkRwEMd4gxyzfE?authuser=0&hl=en&rclk=1"
@@ -2132,8 +2115,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pathak+Hospital/data=!4m7!3m6!1s0x39847f0154cb7d61:0xf1cd720ce21d43c0!8m2!3d24.5719826!4d80.8486029!16s%2Fg%2F11g6nhl_fl!19sChIJYX3LVAF_hDkRwEMd4gxyzfE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pathak-hospital-satna",
@@ -2181,7 +2163,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pathak+hospital/data=!4m7!3m6!1s0x39847f06a798dbad:0x260213ab49a7554!8m2!3d24.5721295!4d80.8478956!16s%2Fg%2F11hcdz3x_z!19sChIJrduYpwZ_hDkRVHWatDohYAI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pathak+hospital/data=!4m7!3m6!1s0x39847f06a798dbad:0x260213ab49a7554!8m2!3d24.5721295!4d80.8478956!16s%2Fg%2F11hcdz3x_z!19sChIJrduYpwZ_hDkRVHWatDohYAI?authuser=0&hl=en&rclk=1"
@@ -2250,8 +2232,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pathak+hospital/data=!4m7!3m6!1s0x39847f06a798dbad:0x260213ab49a7554!8m2!3d24.5721295!4d80.8478956!16s%2Fg%2F11hcdz3x_z!19sChIJrduYpwZ_hDkRVHWatDohYAI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pathkind-labs-satna",
@@ -2301,7 +2282,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pathkind+Labs/data=!4m7!3m6!1s0x39847ffc5fd9e301:0xcf95737490e81638!8m2!3d24.5646226!4d80.8220712!16s%2Fg%2F11pzbprvqk!19sChIJAePZX_x_hDkROBbokHRzlc8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pathkind+Labs/data=!4m7!3m6!1s0x39847ffc5fd9e301:0xcf95737490e81638!8m2!3d24.5646226!4d80.8220712!16s%2Fg%2F11pzbprvqk!19sChIJAePZX_x_hDkROBbokHRzlc8?authuser=0&hl=en&rclk=1"
@@ -2367,11 +2348,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pathkind+Labs/data=!4m7!3m6!1s0x39847ffc5fd9e301:0xcf95737490e81638!8m2!3d24.5646226!4d80.8220712!16s%2Fg%2F11pzbprvqk!19sChIJAePZX_x_hDkROBbokHRzlc8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "perfect-skin-asethetic-clinic-satna",
@@ -2420,7 +2400,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Perfect+Skin+Asethetic+Clinic/data=!4m7!3m6!1s0x39847f77114c8647:0x3ce3a16669a5780d!8m2!3d24.5685638!4d80.8227867!16s%2Fg%2F11c6y_7v0p!19sChIJR4ZMEXd_hDkRDXilaWah4zw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Perfect+Skin+Asethetic+Clinic/data=!4m7!3m6!1s0x39847f77114c8647:0x3ce3a16669a5780d!8m2!3d24.5685638!4d80.8227867!16s%2Fg%2F11c6y_7v0p!19sChIJR4ZMEXd_hDkRDXilaWah4zw?authuser=0&hl=en&rclk=1"
@@ -2486,11 +2466,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Perfect+Skin+Asethetic+Clinic/data=!4m7!3m6!1s0x39847f77114c8647:0x3ce3a16669a5780d!8m2!3d24.5685638!4d80.8227867!16s%2Fg%2F11c6y_7v0p!19sChIJR4ZMEXd_hDkRDXilaWah4zw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pooja-critical-care-neuro-and-trauma-hospital-satna",
@@ -2539,7 +2518,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pooja+critical+care+neuro+and+trauma+hospital/data=!4m7!3m6!1s0x39847fc70e221c87:0x5d3d74107c7c3b08!8m2!3d24.576139!4d80.813198!16s%2Fg%2F11sz3vjqvz!19sChIJhxwiDsd_hDkRCDt8fBB0PV0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pooja+critical+care+neuro+and+trauma+hospital/data=!4m7!3m6!1s0x39847fc70e221c87:0x5d3d74107c7c3b08!8m2!3d24.576139!4d80.813198!16s%2Fg%2F11sz3vjqvz!19sChIJhxwiDsd_hDkRCDt8fBB0PV0?authuser=0&hl=en&rclk=1"
@@ -2608,8 +2587,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pooja+critical+care+neuro+and+trauma+hospital/data=!4m7!3m6!1s0x39847fc70e221c87:0x5d3d74107c7c3b08!8m2!3d24.576139!4d80.813198!16s%2Fg%2F11sz3vjqvz!19sChIJhxwiDsd_hDkRCDt8fBB0PV0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prem-nursing-home-satna",
@@ -2657,7 +2635,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prem+Nursing+Home/data=!4m7!3m6!1s0x39847fffbff6fc53:0x80ae4429820828b!8m2!3d24.5728141!4d80.8302723!16s%2Fg%2F11j90nydpd!19sChIJU_z2v_9_hDkRi4IgmELkCgg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prem+Nursing+Home/data=!4m7!3m6!1s0x39847fffbff6fc53:0x80ae4429820828b!8m2!3d24.5728141!4d80.8302723!16s%2Fg%2F11j90nydpd!19sChIJU_z2v_9_hDkRi4IgmELkCgg?authuser=0&hl=en&rclk=1"
@@ -2726,8 +2704,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prem+Nursing+Home/data=!4m7!3m6!1s0x39847fffbff6fc53:0x80ae4429820828b!8m2!3d24.5728141!4d80.8302723!16s%2Fg%2F11j90nydpd!19sChIJU_z2v_9_hDkRi4IgmELkCgg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rishabh-best-dental-and-physiotherapy-clinic-satna",
@@ -2775,7 +2752,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rishabh+Best+Dental+and+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39847fab15049df3:0x277c717f117b9a62!8m2!3d24.5701715!4d80.8495746!16s%2Fg%2F11h0w9dznk!19sChIJ850EFat_hDkRYpp7EX9xfCc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rishabh+Best+Dental+and+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39847fab15049df3:0x277c717f117b9a62!8m2!3d24.5701715!4d80.8495746!16s%2Fg%2F11h0w9dznk!19sChIJ850EFat_hDkRYpp7EX9xfCc?authuser=0&hl=en&rclk=1"
@@ -2844,8 +2821,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rishabh+Best+Dental+and+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39847fab15049df3:0x277c717f117b9a62!8m2!3d24.5701715!4d80.8495746!16s%2Fg%2F11h0w9dznk!19sChIJ850EFat_hDkRYpp7EX9xfCc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-twacha-satna",
@@ -2893,7 +2869,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S+Twacha-/data=!4m7!3m6!1s0x39847ee552c52029:0x65bc27f5b2f18b37!8m2!3d24.5668601!4d80.8333336!16s%2Fg%2F11f1211cv3!19sChIJKSDFUuV-hDkRN4vxsvUnvGU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+Twacha-/data=!4m7!3m6!1s0x39847ee552c52029:0x65bc27f5b2f18b37!8m2!3d24.5668601!4d80.8333336!16s%2Fg%2F11f1211cv3!19sChIJKSDFUuV-hDkRN4vxsvUnvGU?authuser=0&hl=en&rclk=1"
@@ -2962,8 +2938,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S+Twacha-/data=!4m7!3m6!1s0x39847ee552c52029:0x65bc27f5b2f18b37!8m2!3d24.5668601!4d80.8333336!16s%2Fg%2F11f1211cv3!19sChIJKSDFUuV-hDkRN4vxsvUnvGU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saraf-dental-clinic-satna",
@@ -3012,7 +2987,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saraf+Dental+Clinic/data=!4m7!3m6!1s0x39847f8458643a3f:0x1de0710e6221811f!8m2!3d24.5727139!4d80.8302569!16s%2Fg%2F11vcyg_tl8!19sChIJPzpkWIR_hDkRH4EhYg5x4B0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saraf+Dental+Clinic/data=!4m7!3m6!1s0x39847f8458643a3f:0x1de0710e6221811f!8m2!3d24.5727139!4d80.8302569!16s%2Fg%2F11vcyg_tl8!19sChIJPzpkWIR_hDkRH4EhYg5x4B0?authuser=0&hl=en&rclk=1"
@@ -3078,11 +3053,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saraf+Dental+Clinic/data=!4m7!3m6!1s0x39847f8458643a3f:0x1de0710e6221811f!8m2!3d24.5727139!4d80.8302569!16s%2Fg%2F11vcyg_tl8!19sChIJPzpkWIR_hDkRH4EhYg5x4B0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarthak-hospital-satna",
@@ -3131,7 +3105,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarthak+Hospital/data=!4m7!3m6!1s0x39838062a5515889:0x1f809c2f2077a06f!8m2!3d24.5757051!4d80.7982967!16s%2Fg%2F11b6_nv_l8!19sChIJiVhRpWKAgzkRb6B3IC-cgB8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarthak+Hospital/data=!4m7!3m6!1s0x39838062a5515889:0x1f809c2f2077a06f!8m2!3d24.5757051!4d80.7982967!16s%2Fg%2F11b6_nv_l8!19sChIJiVhRpWKAgzkRb6B3IC-cgB8?authuser=0&hl=en&rclk=1"
@@ -3200,8 +3174,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarthak+Hospital/data=!4m7!3m6!1s0x39838062a5515889:0x1f809c2f2077a06f!8m2!3d24.5757051!4d80.7982967!16s%2Fg%2F11b6_nv_l8!19sChIJiVhRpWKAgzkRb6B3IC-cgB8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satna-diagnostic-center-satna",
@@ -3249,7 +3222,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Satna+Diagnostic+Center/@24.5727368,80.8302697,17z/data=!3m1!4b1!4m6!3m5!1s0x39847f74edc3ea1f:0x69637a6a19c747c9!8m2!3d24.5727368!4d80.8302697!16s%2Fg%2F11hcjt6c5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satna+Diagnostic+Center/@24.5727368,80.8302697,17z/data=!3m1!4b1!4m6!3m5!1s0x39847f74edc3ea1f:0x69637a6a19c747c9!8m2!3d24.5727368!4d80.8302697!16s%2Fg%2F11hcjt6c5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3318,8 +3291,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Satna+Diagnostic+Center/@24.5727368,80.8302697,17z/data=!3m1!4b1!4m6!3m5!1s0x39847f74edc3ea1f:0x69637a6a19c747c9!8m2!3d24.5727368!4d80.8302697!16s%2Fg%2F11hcjt6c5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satna-swastik-hospital-satna",
@@ -3368,7 +3340,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Satna+Swastik+Hospital/data=!4m7!3m6!1s0x39847f699b5a2dcb:0x24e0ddaf72ecb3e1!8m2!3d24.5657392!4d80.8310703!16s%2Fg%2F11x1gk2dyl!19sChIJyy1am2l_hDkR4bPscq_d4CQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satna+Swastik+Hospital/data=!4m7!3m6!1s0x39847f699b5a2dcb:0x24e0ddaf72ecb3e1!8m2!3d24.5657392!4d80.8310703!16s%2Fg%2F11x1gk2dyl!19sChIJyy1am2l_hDkR4bPscq_d4CQ?authuser=0&hl=en&rclk=1"
@@ -3437,8 +3409,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Satna+Swastik+Hospital/data=!4m7!3m6!1s0x39847f699b5a2dcb:0x24e0ddaf72ecb3e1!8m2!3d24.5657392!4d80.8310703!16s%2Fg%2F11x1gk2dyl!19sChIJyy1am2l_hDkR4bPscq_d4CQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "singh-dental-care-best-dentist-in-satna-satna",
@@ -3487,7 +3458,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Singh+Dental+Care+:+Best+Dentist+in+Satna/data=!4m7!3m6!1s0x39847f09113b10e5:0xb28edd5bebce22d9!8m2!3d24.5743778!4d80.8476563!16s%2Fg%2F11b6dfb3qd!19sChIJ5RA7EQl_hDkR2SLO61vdjrI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singh+Dental+Care+:+Best+Dentist+in+Satna/data=!4m7!3m6!1s0x39847f09113b10e5:0xb28edd5bebce22d9!8m2!3d24.5743778!4d80.8476563!16s%2Fg%2F11b6dfb3qd!19sChIJ5RA7EQl_hDkR2SLO61vdjrI?authuser=0&hl=en&rclk=1"
@@ -3553,11 +3524,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Singh+Dental+Care+:+Best+Dentist+in+Satna/data=!4m7!3m6!1s0x39847f09113b10e5:0xb28edd5bebce22d9!8m2!3d24.5743778!4d80.8476563!16s%2Fg%2F11b6dfb3qd!19sChIJ5RA7EQl_hDkR2SLO61vdjrI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -3607,7 +3577,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
@@ -3673,11 +3643,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vindhya-hospital-and-research-center-satna-satna",
@@ -3725,7 +3694,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vindhya+hospital+and+research+center+satna/data=!4m7!3m6!1s0x3983816b5e891afb:0xdff8684062186c3b!8m2!3d24.5675749!4d80.7956676!16s%2Fg%2F11ssfb5ysj!19sChIJ-xqJXmuBgzkRO2wYYkBo-N8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vindhya+hospital+and+research+center+satna/data=!4m7!3m6!1s0x3983816b5e891afb:0xdff8684062186c3b!8m2!3d24.5675749!4d80.7956676!16s%2Fg%2F11ssfb5ysj!19sChIJ-xqJXmuBgzkRO2wYYkBo-N8?authuser=0&hl=en&rclk=1"
@@ -3794,8 +3763,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vindhya+hospital+and+research+center+satna/data=!4m7!3m6!1s0x3983816b5e891afb:0xdff8684062186c3b!8m2!3d24.5675749!4d80.7956676!16s%2Fg%2F11ssfb5ysj!19sChIJ-xqJXmuBgzkRO2wYYkBo-N8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yash-hospital-formerly-known-as-kids-critical-care-centre-ladies-and-child-hospital-satna",
@@ -3844,7 +3812,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/YASH+HOSPITAL+%28Formerly+known+as+Kids+critical+care+centre%29+ladies+and+child+hospital/data=!4m7!3m6!1s0x39847f36041f170d:0x940bd5cbbab2541b!8m2!3d24.5740032!4d80.8357506!16s%2Fg%2F11gy6cxkqn!19sChIJDRcfBDZ_hDkRG1SyusvVC5Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/YASH+HOSPITAL+%28Formerly+known+as+Kids+critical+care+centre%29+ladies+and+child+hospital/data=!4m7!3m6!1s0x39847f36041f170d:0x940bd5cbbab2541b!8m2!3d24.5740032!4d80.8357506!16s%2Fg%2F11gy6cxkqn!19sChIJDRcfBDZ_hDkRG1SyusvVC5Q?authuser=0&hl=en&rclk=1"
@@ -3913,7 +3881,6 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/YASH+HOSPITAL+%28Formerly+known+as+Kids+critical+care+centre%29+ladies+and+child+hospital/data=!4m7!3m6!1s0x39847f36041f170d:0x940bd5cbbab2541b!8m2!3d24.5740032!4d80.8357506!16s%2Fg%2F11gy6cxkqn!19sChIJDRcfBDZ_hDkRG1SyusvVC5Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

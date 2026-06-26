@@ -47,7 +47,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Imphal+Heart+Institute/@24.803135,93.9268089,17z/data=!3m1!4b1!4m6!3m5!1s0x3749264a9c7bc141:0x55604e8d841112ee!8m2!3d24.803135!4d93.9268089!16s%2Fg%2F11f_1ttbvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Imphal+Heart+Institute/@24.803135,93.9268089,17z/data=!3m1!4b1!4m6!3m5!1s0x3749264a9c7bc141:0x55604e8d841112ee!8m2!3d24.803135!4d93.9268089!16s%2Fg%2F11f_1ttbvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -116,8 +116,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Imphal+Heart+Institute/@24.803135,93.9268089,17z/data=!3m1!4b1!4m6!3m5!1s0x3749264a9c7bc141:0x55604e8d841112ee!8m2!3d24.803135!4d93.9268089!16s%2Fg%2F11f_1ttbvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sky-hospital-and-research-centre-imphal",
@@ -165,7 +164,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sky+Hospital+%26+Research+Centre/@24.8130175,93.9280891,17z/data=!3m1!4b1!4m6!3m5!1s0x374927b6473551f7:0x1467683ef53ffc3c!8m2!3d24.8130175!4d93.9280891!16s%2Fg%2F1tkb3gp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sky+Hospital+%26+Research+Centre/@24.8130175,93.9280891,17z/data=!3m1!4b1!4m6!3m5!1s0x374927b6473551f7:0x1467683ef53ffc3c!8m2!3d24.8130175!4d93.9280891!16s%2Fg%2F1tkb3gp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -231,10 +230,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sky+Hospital+%26+Research+Centre/@24.8130175,93.9280891,17z/data=!3m1!4b1!4m6!3m5!1s0x374927b6473551f7:0x1467683ef53ffc3c!8m2!3d24.8130175!4d93.9280891!16s%2Fg%2F1tkb3gp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

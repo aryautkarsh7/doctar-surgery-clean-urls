@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/32+Carat+Dental+hospital/data=!4m7!3m6!1s0x3bd6a5e9841d483f:0xea9b58f31a427a2e!8m2!3d20.9276999!4d77.7537743!16s%2Fg%2F11vq72gfjz!19sChIJP0gdhOml1jsRLnpCGvNYm-o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+Carat+Dental+hospital/data=!4m7!3m6!1s0x3bd6a5e9841d483f:0xea9b58f31a427a2e!8m2!3d20.9276999!4d77.7537743!16s%2Fg%2F11vq72gfjz!19sChIJP0gdhOml1jsRLnpCGvNYm-o?authuser=0&hl=en&rclk=1"
@@ -115,8 +115,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/32+Carat+Dental+hospital/data=!4m7!3m6!1s0x3bd6a5e9841d483f:0xea9b58f31a427a2e!8m2!3d20.9276999!4d77.7537743!16s%2Fg%2F11vq72gfjz!19sChIJP0gdhOml1jsRLnpCGvNYm-o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "adatiya-hospital-amravati",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Adatiya+Hospital/data=!4m7!3m6!1s0x3bd6a4c0db280989:0xc403eef6a0c51338!8m2!3d20.9109792!4d77.763272!16s%2Fg%2F11gg_tv5qq!19sChIJiQko28Ck1jsROBPFoPbuA8Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adatiya+Hospital/data=!4m7!3m6!1s0x3bd6a4c0db280989:0xc403eef6a0c51338!8m2!3d20.9109792!4d77.763272!16s%2Fg%2F11gg_tv5qq!19sChIJiQko28Ck1jsROBPFoPbuA8Q?authuser=0&hl=en&rclk=1"
@@ -233,8 +232,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Adatiya+Hospital/data=!4m7!3m6!1s0x3bd6a4c0db280989:0xc403eef6a0c51338!8m2!3d20.9109792!4d77.763272!16s%2Fg%2F11gg_tv5qq!19sChIJiQko28Ck1jsROBPFoPbuA8Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "agrawal-maternity-hospital-amravati",
@@ -282,7 +280,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Agrawal+Maternity+Hospital/data=!4m7!3m6!1s0x3bd6a5b394f10b5d:0x5614d79380a42263!8m2!3d20.8970088!4d77.7465175!16s%2Fg%2F11h12tj64y!19sChIJXQvxlLOl1jsRYyKkgJPXFFY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agrawal+Maternity+Hospital/data=!4m7!3m6!1s0x3bd6a5b394f10b5d:0x5614d79380a42263!8m2!3d20.8970088!4d77.7465175!16s%2Fg%2F11h12tj64y!19sChIJXQvxlLOl1jsRYyKkgJPXFFY?authuser=0&hl=en&rclk=1"
@@ -348,11 +346,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Agrawal+Maternity+Hospital/data=!4m7!3m6!1s0x3bd6a5b394f10b5d:0x5614d79380a42263!8m2!3d20.8970088!4d77.7465175!16s%2Fg%2F11h12tj64y!19sChIJXQvxlLOl1jsRYyKkgJPXFFY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aig-hospital-amravati",
@@ -400,7 +397,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AIG+HOSPITAL/data=!4m7!3m6!1s0x3bd6a53e766fed37:0x3bc6aea33fe7b612!8m2!3d20.9339312!4d77.7583754!16s%2Fg%2F11llk8__cn!19sChIJN-1vdj6l1jsRErbnP6Ouxjs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AIG+HOSPITAL/data=!4m7!3m6!1s0x3bd6a53e766fed37:0x3bc6aea33fe7b612!8m2!3d20.9339312!4d77.7583754!16s%2Fg%2F11llk8__cn!19sChIJN-1vdj6l1jsRErbnP6Ouxjs?authuser=0&hl=en&rclk=1"
@@ -469,8 +466,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AIG+HOSPITAL/data=!4m7!3m6!1s0x3bd6a53e766fed37:0x3bc6aea33fe7b612!8m2!3d20.9339312!4d77.7583754!16s%2Fg%2F11llk8__cn!19sChIJN-1vdj6l1jsRErbnP6Ouxjs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akansha-heart-and-ent-clinic-amravati",
@@ -519,7 +515,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akansha+Heart+%26+ENT+Clinic/data=!4m7!3m6!1s0x3bd6a596aa39994d:0x161d01ce8acb4f3d!8m2!3d20.9337891!4d77.7593137!16s%2Fg%2F11fljhytbg!19sChIJTZk5qpal1jsRPU_Lis4BHRY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akansha+Heart+%26+ENT+Clinic/data=!4m7!3m6!1s0x3bd6a596aa39994d:0x161d01ce8acb4f3d!8m2!3d20.9337891!4d77.7593137!16s%2Fg%2F11fljhytbg!19sChIJTZk5qpal1jsRPU_Lis4BHRY?authuser=0&hl=en&rclk=1"
@@ -588,8 +584,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akansha+Heart+%26+ENT+Clinic/data=!4m7!3m6!1s0x3bd6a596aa39994d:0x161d01ce8acb4f3d!8m2!3d20.9337891!4d77.7593137!16s%2Fg%2F11fljhytbg!19sChIJTZk5qpal1jsRPU_Lis4BHRY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "alliance-hospital-amravati-amravati",
@@ -638,7 +633,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Alliance+Hospital+Amravati/data=!4m7!3m6!1s0x3bd6a5f49a7a9af7:0x1ee07afcdaeb1b26!8m2!3d20.9256066!4d77.7667872!16s%2Fg%2F11v5bxtxz5!19sChIJ95p6mvSl1jsRJhvr2vx64B4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alliance+Hospital+Amravati/data=!4m7!3m6!1s0x3bd6a5f49a7a9af7:0x1ee07afcdaeb1b26!8m2!3d20.9256066!4d77.7667872!16s%2Fg%2F11v5bxtxz5!19sChIJ95p6mvSl1jsRJhvr2vx64B4?authuser=0&hl=en&rclk=1"
@@ -707,8 +702,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Alliance+Hospital+Amravati/data=!4m7!3m6!1s0x3bd6a5f49a7a9af7:0x1ee07afcdaeb1b26!8m2!3d20.9256066!4d77.7667872!16s%2Fg%2F11v5bxtxz5!19sChIJ95p6mvSl1jsRJhvr2vx64B4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anushree-speciality-hospital-amravati",
@@ -757,7 +751,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anushree+speciality+hospital/data=!4m7!3m6!1s0x3bd6a51398096257:0x565bb8db66d00582!8m2!3d20.9241465!4d77.7692402!16s%2Fg%2F11y3l14yty!19sChIJV2IJmBOl1jsRggXQZtu4W1Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anushree+speciality+hospital/data=!4m7!3m6!1s0x3bd6a51398096257:0x565bb8db66d00582!8m2!3d20.9241465!4d77.7692402!16s%2Fg%2F11y3l14yty!19sChIJV2IJmBOl1jsRggXQZtu4W1Y?authuser=0&hl=en&rclk=1"
@@ -823,11 +817,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anushree+speciality+hospital/data=!4m7!3m6!1s0x3bd6a51398096257:0x565bb8db66d00582!8m2!3d20.9241465!4d77.7692402!16s%2Fg%2F11y3l14yty!19sChIJV2IJmBOl1jsRggXQZtu4W1Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-proton-therapy-in-amravati-amravati",
@@ -876,7 +869,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Amravati/data=!4m7!3m6!1s0x3bd6a5c14d01236b:0xcd4a3e679a232d41!8m2!3d20.9238!4d77.7554!16s%2Fg%2F11xs7qb19d!19sChIJayMBTcGl1jsRQS0jmmc-Ss0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Amravati/data=!4m7!3m6!1s0x3bd6a5c14d01236b:0xcd4a3e679a232d41!8m2!3d20.9238!4d77.7554!16s%2Fg%2F11xs7qb19d!19sChIJayMBTcGl1jsRQS0jmmc-Ss0?authuser=0&hl=en&rclk=1"
@@ -942,11 +935,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Amravati/data=!4m7!3m6!1s0x3bd6a5c14d01236b:0xcd4a3e679a232d41!8m2!3d20.9238!4d77.7554!16s%2Fg%2F11xs7qb19d!19sChIJayMBTcGl1jsRQS0jmmc-Ss0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apoorv-physiotherapy-clinic-physiotherapist-in-amravati-amravati",
@@ -995,7 +987,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apoorv+Physiotherapy+Clinic+%28+Physiotherapist+in+Amravati%29/data=!4m7!3m6!1s0x3bd6a5da4139d1f1:0x25149329591852ab!8m2!3d20.930514!4d77.7776194!16s%2Fg%2F11ghwyglym!19sChIJ8dE5Qdql1jsRq1IYWSmTFCU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apoorv+Physiotherapy+Clinic+%28+Physiotherapist+in+Amravati%29/data=!4m7!3m6!1s0x3bd6a5da4139d1f1:0x25149329591852ab!8m2!3d20.930514!4d77.7776194!16s%2Fg%2F11ghwyglym!19sChIJ8dE5Qdql1jsRq1IYWSmTFCU?authuser=0&hl=en&rclk=1"
@@ -1064,8 +1056,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apoorv+Physiotherapy+Clinic+%28+Physiotherapist+in+Amravati%29/data=!4m7!3m6!1s0x3bd6a5da4139d1f1:0x25149329591852ab!8m2!3d20.930514!4d77.7776194!16s%2Fg%2F11ghwyglym!19sChIJ8dE5Qdql1jsRq1IYWSmTFCU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirvad-dental-clinic-amravati",
@@ -1113,7 +1104,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ASHIRVAD+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bd6a5c2b52b3c5b:0x7db6ef6838f9cbea!8m2!3d20.9058425!4d77.7656232!16s%2Fg%2F11k2g_869p!19sChIJWzwrtcKl1jsR6sv5OGjvtn0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASHIRVAD+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bd6a5c2b52b3c5b:0x7db6ef6838f9cbea!8m2!3d20.9058425!4d77.7656232!16s%2Fg%2F11k2g_869p!19sChIJWzwrtcKl1jsR6sv5OGjvtn0?authuser=0&hl=en&rclk=1"
@@ -1182,8 +1173,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ASHIRVAD+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bd6a5c2b52b3c5b:0x7db6ef6838f9cbea!8m2!3d20.9058425!4d77.7656232!16s%2Fg%2F11k2g_869p!19sChIJWzwrtcKl1jsR6sv5OGjvtn0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "augad-s-dental-and-smile-care-clinic-amravati",
@@ -1231,7 +1221,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Augad%27s+Dental+%26+Smile+Care+Clinic/data=!4m7!3m6!1s0x3bd6a3b917b95505:0xc9d97425ba9a2eb2!8m2!3d20.9649675!4d77.7511157!16s%2Fg%2F11g4g630fn!19sChIJBVW5F7mj1jsRsi6auiV02ck?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Augad%27s+Dental+%26+Smile+Care+Clinic/data=!4m7!3m6!1s0x3bd6a3b917b95505:0xc9d97425ba9a2eb2!8m2!3d20.9649675!4d77.7511157!16s%2Fg%2F11g4g630fn!19sChIJBVW5F7mj1jsRsi6auiV02ck?authuser=0&hl=en&rclk=1"
@@ -1300,8 +1290,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Augad%27s+Dental+%26+Smile+Care+Clinic/data=!4m7!3m6!1s0x3bd6a3b917b95505:0xc9d97425ba9a2eb2!8m2!3d20.9649675!4d77.7511157!16s%2Fg%2F11g4g630fn!19sChIJBVW5F7mj1jsRsi6auiV02ck?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ayumedic-healthcare-amravati",
@@ -1348,7 +1337,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ayumedic+Healthcare/data=!4m7!3m6!1s0x3bd6a59348e5e805:0xa599fb119b8ecc98!8m2!3d20.9319655!4d77.7560282!16s%2Fg%2F11t9x2z6b4!19sChIJBejlSJOl1jsRmMyOmxH7maU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayumedic+Healthcare/data=!4m7!3m6!1s0x3bd6a59348e5e805:0xa599fb119b8ecc98!8m2!3d20.9319655!4d77.7560282!16s%2Fg%2F11t9x2z6b4!19sChIJBejlSJOl1jsRmMyOmxH7maU?authuser=0&hl=en&rclk=1"
@@ -1414,11 +1403,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ayumedic+Healthcare/data=!4m7!3m6!1s0x3bd6a59348e5e805:0xa599fb119b8ecc98!8m2!3d20.9319655!4d77.7560282!16s%2Fg%2F11t9x2z6b4!19sChIJBejlSJOl1jsRmMyOmxH7maU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "babysure-ivf-best-fertility-center-nagpur",
@@ -1469,7 +1457,7 @@
       "871+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Babysure+IVF+Best+Fertility+Center/data=!4m7!3m6!1s0x3bd4c1356963ff1d:0x67532462a7a4f0b2!8m2!3d21.1464293!4d79.0621663!16s%2Fg%2F11fm6jpd7q!19sChIJHf9jaTXB1DsRsvCkp2IkU2c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Babysure+IVF+Best+Fertility+Center/data=!4m7!3m6!1s0x3bd4c1356963ff1d:0x67532462a7a4f0b2!8m2!3d21.1464293!4d79.0621663!16s%2Fg%2F11fm6jpd7q!19sChIJHf9jaTXB1DsRsvCkp2IkU2c?authuser=0&hl=en&rclk=1"
@@ -1538,8 +1526,7 @@
     "rating": 4.9,
     "reviews": 871,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Babysure+IVF+Best+Fertility+Center/data=!4m7!3m6!1s0x3bd4c1356963ff1d:0x67532462a7a4f0b2!8m2!3d21.1464293!4d79.0621663!16s%2Fg%2F11fm6jpd7q!19sChIJHf9jaTXB1DsRsvCkp2IkU2c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bakhtar-hospital-amravati",
@@ -1587,7 +1574,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BAKHTAR+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4ba696aef1d:0x99ba601fe93a39d!8m2!3d20.9204375!4d77.7578125!16s%2Fg%2F11gddjn54t!19sChIJHe9qabqk1jsRnaOT_gGmmwk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BAKHTAR+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4ba696aef1d:0x99ba601fe93a39d!8m2!3d20.9204375!4d77.7578125!16s%2Fg%2F11gddjn54t!19sChIJHe9qabqk1jsRnaOT_gGmmwk?authuser=0&hl=en&rclk=1"
@@ -1656,8 +1643,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BAKHTAR+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4ba696aef1d:0x99ba601fe93a39d!8m2!3d20.9204375!4d77.7578125!16s%2Fg%2F11gddjn54t!19sChIJHe9qabqk1jsRnaOT_gGmmwk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "baporikar-dental-clinic-amravati",
@@ -1705,7 +1691,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Baporikar+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5e72169aa45:0xda181678308be2b5!8m2!3d20.9244974!4d77.7486592!16s%2Fg%2F11rznmwvvy!19sChIJRappIeel1jsRteKLMHgWGNo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Baporikar+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5e72169aa45:0xda181678308be2b5!8m2!3d20.9244974!4d77.7486592!16s%2Fg%2F11rznmwvvy!19sChIJRappIeel1jsRteKLMHgWGNo?authuser=0&hl=en&rclk=1"
@@ -1771,11 +1757,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Baporikar+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5e72169aa45:0xda181678308be2b5!8m2!3d20.9244974!4d77.7486592!16s%2Fg%2F11rznmwvvy!19sChIJRappIeel1jsRteKLMHgWGNo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "belokar-hospital-amravati",
@@ -1823,7 +1808,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Belokar+Hospital/data=!4m7!3m6!1s0x3bd6a56cfd7a0659:0x25c13330426d3501!8m2!3d20.9252665!4d77.7671832!16s%2Fg%2F11f7796_l8!19sChIJWQZ6_Wyl1jsRATVtQjAzwSU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Belokar+Hospital/data=!4m7!3m6!1s0x3bd6a56cfd7a0659:0x25c13330426d3501!8m2!3d20.9252665!4d77.7671832!16s%2Fg%2F11f7796_l8!19sChIJWQZ6_Wyl1jsRATVtQjAzwSU?authuser=0&hl=en&rclk=1"
@@ -1892,8 +1877,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Belokar+Hospital/data=!4m7!3m6!1s0x3bd6a56cfd7a0659:0x25c13330426d3501!8m2!3d20.9252665!4d77.7671832!16s%2Fg%2F11f7796_l8!19sChIJWQZ6_Wyl1jsRATVtQjAzwSU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "belsare-orthocare-hospital-amravati",
@@ -1942,7 +1926,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Belsare+Orthocare+Hospital/data=!4m7!3m6!1s0x3bd6a5ddcbbddfc3:0x42dea7e4f2ea1d00!8m2!3d20.9217473!4d77.7533471!16s%2Fg%2F11rgljmy_g!19sChIJw9-9y92l1jsRAB3q8uSn3kI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Belsare+Orthocare+Hospital/data=!4m7!3m6!1s0x3bd6a5ddcbbddfc3:0x42dea7e4f2ea1d00!8m2!3d20.9217473!4d77.7533471!16s%2Fg%2F11rgljmy_g!19sChIJw9-9y92l1jsRAB3q8uSn3kI?authuser=0&hl=en&rclk=1"
@@ -2011,8 +1995,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Belsare+Orthocare+Hospital/data=!4m7!3m6!1s0x3bd6a5ddcbbddfc3:0x42dea7e4f2ea1d00!8m2!3d20.9217473!4d77.7533471!16s%2Fg%2F11rgljmy_g!19sChIJw9-9y92l1jsRAB3q8uSn3kI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhojane-maternity-and-nursing-home-amravati",
@@ -2060,7 +2043,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhojane+Maternity+%26+Nursing+Home/data=!4m7!3m6!1s0x3bd6a4b05b571f37:0x882922e4148e62ea!8m2!3d20.9220144!4d77.7547821!16s%2Fg%2F11c6w2sp8p!19sChIJNx9XW7Ck1jsR6mKOFOQiKYg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhojane+Maternity+%26+Nursing+Home/data=!4m7!3m6!1s0x3bd6a4b05b571f37:0x882922e4148e62ea!8m2!3d20.9220144!4d77.7547821!16s%2Fg%2F11c6w2sp8p!19sChIJNx9XW7Ck1jsR6mKOFOQiKYg?authuser=0&hl=en&rclk=1"
@@ -2129,8 +2112,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhojane+Maternity+%26+Nursing+Home/data=!4m7!3m6!1s0x3bd6a4b05b571f37:0x882922e4148e62ea!8m2!3d20.9220144!4d77.7547821!16s%2Fg%2F11c6w2sp8p!19sChIJNx9XW7Ck1jsR6mKOFOQiKYg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhuyar-maternity-and-eye-hospital-amravati",
@@ -2178,7 +2160,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhuyar+Maternity+and+Eye+Hospital/data=!4m7!3m6!1s0x3bd6a343f6f30e1f:0x7f0a227062273a6!8m2!3d20.9530024!4d77.7626327!16s%2Fg%2F11c600lhxm!19sChIJHw7z9kOj1jsRpnMiBiei8Ac?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhuyar+Maternity+and+Eye+Hospital/data=!4m7!3m6!1s0x3bd6a343f6f30e1f:0x7f0a227062273a6!8m2!3d20.9530024!4d77.7626327!16s%2Fg%2F11c600lhxm!19sChIJHw7z9kOj1jsRpnMiBiei8Ac?authuser=0&hl=en&rclk=1"
@@ -2247,8 +2229,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhuyar+Maternity+and+Eye+Hospital/data=!4m7!3m6!1s0x3bd6a343f6f30e1f:0x7f0a227062273a6!8m2!3d20.9530024!4d77.7626327!16s%2Fg%2F11c600lhxm!19sChIJHw7z9kOj1jsRpnMiBiei8Ac?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "birthplace-hospital-mother-and-child-care-hospital-jamel-colony-square",
@@ -2299,7 +2280,7 @@
       "Google rating 5.0",
       "49+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BirthPlace+Hospital+%28Mother+and+Child+Care+Hospital%29/data=!4m7!3m6!1s0x3bd6bd7e493b3b33:0x97ecf29a64549c1a!8m2!3d20.9438989!4d77.7419317!16s%2Fg%2F11rhpqc91m!19sChIJMzs7SX691jsRGpxUZJry7Jc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BirthPlace+Hospital+%28Mother+and+Child+Care+Hospital%29/data=!4m7!3m6!1s0x3bd6bd7e493b3b33:0x97ecf29a64549c1a!8m2!3d20.9438989!4d77.7419317!16s%2Fg%2F11rhpqc91m!19sChIJMzs7SX691jsRGpxUZJry7Jc?authuser=0&hl=en&rclk=1"
@@ -2365,11 +2346,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 49,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BirthPlace+Hospital+%28Mother+and+Child+Care+Hospital%29/data=!4m7!3m6!1s0x3bd6bd7e493b3b33:0x97ecf29a64549c1a!8m2!3d20.9438989!4d77.7419317!16s%2Fg%2F11rhpqc91m!19sChIJMzs7SX691jsRGpxUZJry7Jc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "blood-clinic-amravati",
@@ -2418,7 +2398,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Blood+Clinic/data=!4m7!3m6!1s0x3bd6a5d0563b5b49:0x174155f7c027fcaf!8m2!3d20.9304982!4d77.7544136!16s%2Fg%2F11mvb335zw!19sChIJSVs7VtCl1jsRr_wnwPdVQRc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Blood+Clinic/data=!4m7!3m6!1s0x3bd6a5d0563b5b49:0x174155f7c027fcaf!8m2!3d20.9304982!4d77.7544136!16s%2Fg%2F11mvb335zw!19sChIJSVs7VtCl1jsRr_wnwPdVQRc?authuser=0&hl=en&rclk=1"
@@ -2484,11 +2464,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Blood+Clinic/data=!4m7!3m6!1s0x3bd6a5d0563b5b49:0x174155f7c027fcaf!8m2!3d20.9304982!4d77.7544136!16s%2Fg%2F11mvb335zw!19sChIJSVs7VtCl1jsRr_wnwPdVQRc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "brush-dental-clinic-amravati",
@@ -2537,7 +2516,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Brush+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5004dec59c7:0xf69399ffaf077add!8m2!3d20.9207231!4d77.7538163!16s%2Fg%2F11y750j3rj!19sChIJx1nsTQCl1jsR3XoHr_-Zk_Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brush+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5004dec59c7:0xf69399ffaf077add!8m2!3d20.9207231!4d77.7538163!16s%2Fg%2F11y750j3rj!19sChIJx1nsTQCl1jsR3XoHr_-Zk_Y?authuser=0&hl=en&rclk=1"
@@ -2603,11 +2582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Brush+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5004dec59c7:0xf69399ffaf077add!8m2!3d20.9207231!4d77.7538163!16s%2Fg%2F11y750j3rj!19sChIJx1nsTQCl1jsR3XoHr_-Zk_Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cancer-hospital-foundation-amravati",
@@ -2655,7 +2633,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cancer+Hospital+foundation/data=!4m7!3m6!1s0x3bd6a5f9ad5ab3f5:0xd3dd72a88d9f9db2!8m2!3d20.9131176!4d77.7562758!16s%2Fg%2F11gy3590q9!19sChIJ9bNarfml1jsRsp2fjahy3dM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cancer+Hospital+foundation/data=!4m7!3m6!1s0x3bd6a5f9ad5ab3f5:0xd3dd72a88d9f9db2!8m2!3d20.9131176!4d77.7562758!16s%2Fg%2F11gy3590q9!19sChIJ9bNarfml1jsRsp2fjahy3dM?authuser=0&hl=en&rclk=1"
@@ -2721,11 +2699,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cancer+Hospital+foundation/data=!4m7!3m6!1s0x3bd6a5f9ad5ab3f5:0xd3dd72a88d9f9db2!8m2!3d20.9131176!4d77.7562758!16s%2Fg%2F11gy3590q9!19sChIJ9bNarfml1jsRsp2fjahy3dM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "certified-clinical-nutritionist-aarti-daga-dietitian-amravati",
@@ -2775,7 +2752,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Certified+Clinical+Nutritionist+Aarti+Daga+-+Dietitian/data=!4m7!3m6!1s0x3bd6a536f563f8f5:0x2584314f99a82869!8m2!3d20.9528613!4d77.7620757!16s%2Fg%2F11kb0_51rg!19sChIJ9fhj9Tal1jsRaSiomU8xhCU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Certified+Clinical+Nutritionist+Aarti+Daga+-+Dietitian/data=!4m7!3m6!1s0x3bd6a536f563f8f5:0x2584314f99a82869!8m2!3d20.9528613!4d77.7620757!16s%2Fg%2F11kb0_51rg!19sChIJ9fhj9Tal1jsRaSiomU8xhCU?authuser=0&hl=en&rclk=1"
@@ -2844,8 +2821,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Certified+Clinical+Nutritionist+Aarti+Daga+-+Dietitian/data=!4m7!3m6!1s0x3bd6a536f563f8f5:0x2584314f99a82869!8m2!3d20.9528613!4d77.7620757!16s%2Fg%2F11kb0_51rg!19sChIJ9fhj9Tal1jsRaSiomU8xhCU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chaudhary-hospital-maternity-home-amravati",
@@ -2893,7 +2869,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chaudhary+Hospital+-+Maternity+Home/data=!4m7!3m6!1s0x3bd6a343a18a87c5:0x491b60616db6dbf5!8m2!3d20.951712!4d77.7638701!16s%2Fg%2F11fzwh04lw!19sChIJxYeKoUOj1jsR9du2bWFgG0k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaudhary+Hospital+-+Maternity+Home/data=!4m7!3m6!1s0x3bd6a343a18a87c5:0x491b60616db6dbf5!8m2!3d20.951712!4d77.7638701!16s%2Fg%2F11fzwh04lw!19sChIJxYeKoUOj1jsR9du2bWFgG0k?authuser=0&hl=en&rclk=1"
@@ -2962,8 +2938,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chaudhary+Hospital+-+Maternity+Home/data=!4m7!3m6!1s0x3bd6a343a18a87c5:0x491b60616db6dbf5!8m2!3d20.951712!4d77.7638701!16s%2Fg%2F11fzwh04lw!19sChIJxYeKoUOj1jsR9du2bWFgG0k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chaudhary-maternity-and-nursing-hospital-amravati",
@@ -3011,7 +2986,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chaudhary+Maternity+And+Nursing+Hospital/data=!4m7!3m6!1s0x3bd6a4a2b9b4d5e7:0xfcfb045d5f931b83!8m2!3d20.9260399!4d77.766845!16s%2Fg%2F11c6z0z1hr!19sChIJ59W0uaKk1jsRgxuTX10E-_w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaudhary+Maternity+And+Nursing+Hospital/data=!4m7!3m6!1s0x3bd6a4a2b9b4d5e7:0xfcfb045d5f931b83!8m2!3d20.9260399!4d77.766845!16s%2Fg%2F11c6z0z1hr!19sChIJ59W0uaKk1jsRgxuTX10E-_w?authuser=0&hl=en&rclk=1"
@@ -3077,11 +3052,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chaudhary+Maternity+And+Nursing+Hospital/data=!4m7!3m6!1s0x3bd6a4a2b9b4d5e7:0xfcfb045d5f931b83!8m2!3d20.9260399!4d77.766845!16s%2Fg%2F11c6z0z1hr!19sChIJ59W0uaKk1jsRgxuTX10E-_w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "clinic-amravati",
@@ -3129,7 +3103,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Clinic/data=!4m7!3m6!1s0x3bd6a56c5821e54b:0x2dd36803fb4a6956!8m2!3d20.9139088!4d77.7466917!16s%2Fg%2F11h6qlgf6g!19sChIJS-UhWGyl1jsRVmlK-wNo0y0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic/data=!4m7!3m6!1s0x3bd6a56c5821e54b:0x2dd36803fb4a6956!8m2!3d20.9139088!4d77.7466917!16s%2Fg%2F11h6qlgf6g!19sChIJS-UhWGyl1jsRVmlK-wNo0y0?authuser=0&hl=en&rclk=1"
@@ -3195,11 +3169,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Clinic/data=!4m7!3m6!1s0x3bd6a56c5821e54b:0x2dd36803fb4a6956!8m2!3d20.9139088!4d77.7466917!16s%2Fg%2F11h6qlgf6g!19sChIJS-UhWGyl1jsRVmlK-wNo0y0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dammani-dental-care-laser-and-implants-dental-clinic-amravati",
@@ -3249,7 +3222,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dammani+Dental+Care+%28Laser+%26+Implants+Dental+Clinic%29%29/data=!4m7!3m6!1s0x3bd6a5bc1cf3bfdd:0xd0a83eec15db1770!8m2!3d20.9370433!4d77.7737813!16s%2Fg%2F11v5bjxph1!19sChIJ3b_zHLyl1jsRcBfbFew-qNA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dammani+Dental+Care+%28Laser+%26+Implants+Dental+Clinic%29%29/data=!4m7!3m6!1s0x3bd6a5bc1cf3bfdd:0xd0a83eec15db1770!8m2!3d20.9370433!4d77.7737813!16s%2Fg%2F11v5bjxph1!19sChIJ3b_zHLyl1jsRcBfbFew-qNA?authuser=0&hl=en&rclk=1"
@@ -3315,11 +3288,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dammani+Dental+Care+%28Laser+%26+Implants+Dental+Clinic%29%29/data=!4m7!3m6!1s0x3bd6a5bc1cf3bfdd:0xd0a83eec15db1770!8m2!3d20.9370433!4d77.7737813!16s%2Fg%2F11v5bjxph1!19sChIJ3b_zHLyl1jsRcBfbFew-qNA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "danish-s-eye-clinic-amravati",
@@ -3367,7 +3339,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Danish%27s+Eye+Clinic/data=!4m7!3m6!1s0x3bd6a391dfe55f05:0xb7d02632c7c1d2b6!8m2!3d20.9396564!4d77.7856022!16s%2Fg%2F11ypvy47y9!19sChIJBV_l35Gj1jsRttLBxzIm0Lc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Danish%27s+Eye+Clinic/data=!4m7!3m6!1s0x3bd6a391dfe55f05:0xb7d02632c7c1d2b6!8m2!3d20.9396564!4d77.7856022!16s%2Fg%2F11ypvy47y9!19sChIJBV_l35Gj1jsRttLBxzIm0Lc?authuser=0&hl=en&rclk=1"
@@ -3433,11 +3405,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Danish%27s+Eye+Clinic/data=!4m7!3m6!1s0x3bd6a391dfe55f05:0xb7d02632c7c1d2b6!8m2!3d20.9396564!4d77.7856022!16s%2Fg%2F11ypvy47y9!19sChIJBV_l35Gj1jsRttLBxzIm0Lc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "daphale-hospital-amravati",
@@ -3485,7 +3456,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Daphale+Hospital/data=!4m7!3m6!1s0x3bd6a4a4ac6cdff5:0x984f05c4026aedef!8m2!3d20.9250089!4d77.761965!16s%2Fg%2F11bxflkg_v!19sChIJ9d9srKSk1jsR7-1qAsQFT5g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Daphale+Hospital/data=!4m7!3m6!1s0x3bd6a4a4ac6cdff5:0x984f05c4026aedef!8m2!3d20.9250089!4d77.761965!16s%2Fg%2F11bxflkg_v!19sChIJ9d9srKSk1jsR7-1qAsQFT5g?authuser=0&hl=en&rclk=1"
@@ -3554,8 +3525,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Daphale+Hospital/data=!4m7!3m6!1s0x3bd6a4a4ac6cdff5:0x984f05c4026aedef!8m2!3d20.9250089!4d77.761965!16s%2Fg%2F11bxflkg_v!19sChIJ9d9srKSk1jsR7-1qAsQFT5g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dayasagar-hospital-amravati",
@@ -3604,7 +3574,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dayasagar+Hospital/data=!4m7!3m6!1s0x3bd6a49fd20db4c3:0xa7895e4cbd18201f!8m2!3d20.9364102!4d77.770707!16s%2Fg%2F11b8zdr5lt!19sChIJw7QN0p-k1jsRHyAYvUxeiac?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dayasagar+Hospital/data=!4m7!3m6!1s0x3bd6a49fd20db4c3:0xa7895e4cbd18201f!8m2!3d20.9364102!4d77.770707!16s%2Fg%2F11b8zdr5lt!19sChIJw7QN0p-k1jsRHyAYvUxeiac?authuser=0&hl=en&rclk=1"
@@ -3673,8 +3643,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dayasagar+Hospital/data=!4m7!3m6!1s0x3bd6a49fd20db4c3:0xa7895e4cbd18201f!8m2!3d20.9364102!4d77.770707!16s%2Fg%2F11b8zdr5lt!19sChIJw7QN0p-k1jsRHyAYvUxeiac?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "deshmukh-eye-hospital-amravati",
@@ -3723,7 +3692,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Deshmukh+Eye+Hospital/data=!4m7!3m6!1s0x3bd6a4a6c7c23109:0x8f400a1f93046acc!8m2!3d20.9323048!4d77.7614791!16s%2Fg%2F1thkvqv4!19sChIJCTHCx6ak1jsRzGoEkx8KQI8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deshmukh+Eye+Hospital/data=!4m7!3m6!1s0x3bd6a4a6c7c23109:0x8f400a1f93046acc!8m2!3d20.9323048!4d77.7614791!16s%2Fg%2F1thkvqv4!19sChIJCTHCx6ak1jsRzGoEkx8KQI8?authuser=0&hl=en&rclk=1"
@@ -3792,8 +3761,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Deshmukh+Eye+Hospital/data=!4m7!3m6!1s0x3bd6a4a6c7c23109:0x8f400a1f93046acc!8m2!3d20.9323048!4d77.7614791!16s%2Fg%2F1thkvqv4!19sChIJCTHCx6ak1jsRzGoEkx8KQI8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "devi-hospital-rajapeth-amravati-amravati",
@@ -3842,7 +3810,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DeVI+HOSPITAL,+Rajapeth,+Amravati/data=!4m7!3m6!1s0x3bd6a36e7e1c8c49:0xae9b05e9d7f84816!8m2!3d20.9191477!4d77.7532703!16s%2Fg%2F11bwf7z6l0!19sChIJSYwcfm6j1jsRFkj41-kFm64?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DeVI+HOSPITAL,+Rajapeth,+Amravati/data=!4m7!3m6!1s0x3bd6a36e7e1c8c49:0xae9b05e9d7f84816!8m2!3d20.9191477!4d77.7532703!16s%2Fg%2F11bwf7z6l0!19sChIJSYwcfm6j1jsRFkj41-kFm64?authuser=0&hl=en&rclk=1"
@@ -3911,8 +3879,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DeVI+HOSPITAL,+Rajapeth,+Amravati/data=!4m7!3m6!1s0x3bd6a36e7e1c8c49:0xae9b05e9d7f84816!8m2!3d20.9191477!4d77.7532703!16s%2Fg%2F11bwf7z6l0!19sChIJSYwcfm6j1jsRFkj41-kFm64?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "durvankur-hospital-amravati",
@@ -3961,7 +3928,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Durvankur+Hospital/data=!4m7!3m6!1s0x3bd6a5db69678c7f:0xefbe8939ed36c235!8m2!3d20.9212741!4d77.7613899!16s%2Fg%2F11h0b22g05!19sChIJf4xnadul1jsRNcI27TmJvu8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Durvankur+Hospital/data=!4m7!3m6!1s0x3bd6a5db69678c7f:0xefbe8939ed36c235!8m2!3d20.9212741!4d77.7613899!16s%2Fg%2F11h0b22g05!19sChIJf4xnadul1jsRNcI27TmJvu8?authuser=0&hl=en&rclk=1"
@@ -4030,8 +3997,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Durvankur+Hospital/data=!4m7!3m6!1s0x3bd6a5db69678c7f:0xefbe8939ed36c235!8m2!3d20.9212741!4d77.7613899!16s%2Fg%2F11h0b22g05!19sChIJf4xnadul1jsRNcI27TmJvu8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "elara-healthcare-centre-for-women-s-health-heda-hospital-amravati",
@@ -4081,7 +4047,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Elara+Healthcare:+Centre+for+Women%27s+Health+%28Heda+Hospital%29/data=!4m7!3m6!1s0x3bd6a5fdbe35a079:0x13868c5af20fa948!8m2!3d20.9303711!4d77.7632013!16s%2Fg%2F11x6prvn_7!19sChIJeaA1vv2l1jsRSKkP8lqMhhM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elara+Healthcare:+Centre+for+Women%27s+Health+%28Heda+Hospital%29/data=!4m7!3m6!1s0x3bd6a5fdbe35a079:0x13868c5af20fa948!8m2!3d20.9303711!4d77.7632013!16s%2Fg%2F11x6prvn_7!19sChIJeaA1vv2l1jsRSKkP8lqMhhM?authuser=0&hl=en&rclk=1"
@@ -4150,8 +4116,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Elara+Healthcare:+Centre+for+Women%27s+Health+%28Heda+Hospital%29/data=!4m7!3m6!1s0x3bd6a5fdbe35a079:0x13868c5af20fa948!8m2!3d20.9303711!4d77.7632013!16s%2Fg%2F11x6prvn_7!19sChIJeaA1vv2l1jsRSKkP8lqMhhM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "elite-o-clinic-amravati",
@@ -4201,7 +4166,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Elite-O-Clinic/data=!4m7!3m6!1s0x3bd6a58eb2b1472f:0xc909c85f47a55f40!8m2!3d20.9139351!4d77.7582686!16s%2Fg%2F11ks61lj7q!19sChIJL0exso6l1jsRQF-lR1_ICck?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elite-O-Clinic/data=!4m7!3m6!1s0x3bd6a58eb2b1472f:0xc909c85f47a55f40!8m2!3d20.9139351!4d77.7582686!16s%2Fg%2F11ks61lj7q!19sChIJL0exso6l1jsRQF-lR1_ICck?authuser=0&hl=en&rclk=1"
@@ -4267,11 +4232,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Elite-O-Clinic/data=!4m7!3m6!1s0x3bd6a58eb2b1472f:0xc909c85f47a55f40!8m2!3d20.9139351!4d77.7582686!16s%2Fg%2F11ks61lj7q!19sChIJL0exso6l1jsRQF-lR1_ICck?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ganeshkrupa-speciality-dental-clinic-and-implant-center-amravati",
@@ -4322,7 +4286,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ganeshkrupa+Speciality+Dental+Clinic+and+Implant+Center/data=!4m7!3m6!1s0x3bd6a5fac438f53b:0x56c42f18a40a9db3!8m2!3d20.9261203!4d77.7656959!16s%2Fg%2F11ym1fhl6l!19sChIJO_U4xPql1jsRs50KpBgvxFY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganeshkrupa+Speciality+Dental+Clinic+and+Implant+Center/data=!4m7!3m6!1s0x3bd6a5fac438f53b:0x56c42f18a40a9db3!8m2!3d20.9261203!4d77.7656959!16s%2Fg%2F11ym1fhl6l!19sChIJO_U4xPql1jsRs50KpBgvxFY?authuser=0&hl=en&rclk=1"
@@ -4391,8 +4355,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ganeshkrupa+Speciality+Dental+Clinic+and+Implant+Center/data=!4m7!3m6!1s0x3bd6a5fac438f53b:0x56c42f18a40a9db3!8m2!3d20.9261203!4d77.7656959!16s%2Fg%2F11ym1fhl6l!19sChIJO_U4xPql1jsRs50KpBgvxFY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "geetai-hospitals-amravati",
@@ -4441,7 +4404,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Geetai+Hospitals/data=!4m7!3m6!1s0x3bd6a4a40e6f2633:0xf9d275e86e2a98f8!8m2!3d20.9296193!4d77.7617399!16s%2Fg%2F11bxdsnbdr!19sChIJMyZvDqSk1jsR-Jgqbuh10vk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Geetai+Hospitals/data=!4m7!3m6!1s0x3bd6a4a40e6f2633:0xf9d275e86e2a98f8!8m2!3d20.9296193!4d77.7617399!16s%2Fg%2F11bxdsnbdr!19sChIJMyZvDqSk1jsR-Jgqbuh10vk?authuser=0&hl=en&rclk=1"
@@ -4510,8 +4473,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Geetai+Hospitals/data=!4m7!3m6!1s0x3bd6a4a40e6f2633:0xf9d275e86e2a98f8!8m2!3d20.9296193!4d77.7617399!16s%2Fg%2F11bxdsnbdr!19sChIJMyZvDqSk1jsR-Jgqbuh10vk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "genesis-hospital-amravati-amravati",
@@ -4559,7 +4521,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Genesis+Hospital+Amravati/data=!4m7!3m6!1s0x3bd6a59f058b08a1:0x43f7e29fac412e3b!8m2!3d20.9237244!4d77.7674022!16s%2Fg%2F11x5g0gxn4!19sChIJoQiLBZ-l1jsROy5BrJ_i90M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Genesis+Hospital+Amravati/data=!4m7!3m6!1s0x3bd6a59f058b08a1:0x43f7e29fac412e3b!8m2!3d20.9237244!4d77.7674022!16s%2Fg%2F11x5g0gxn4!19sChIJoQiLBZ-l1jsROy5BrJ_i90M?authuser=0&hl=en&rclk=1"
@@ -4625,11 +4587,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Genesis+Hospital+Amravati/data=!4m7!3m6!1s0x3bd6a59f058b08a1:0x43f7e29fac412e3b!8m2!3d20.9237244!4d77.7674022!16s%2Fg%2F11x5g0gxn4!19sChIJoQiLBZ-l1jsROy5BrJ_i90M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "getlife-laser-piles-hospital-amravati",
@@ -4678,7 +4639,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Getlife+Laser+Piles+hospital/data=!4m7!3m6!1s0x3bd6a5502a50485f:0x12d69831a0949265!8m2!3d20.8735124!4d77.7516172!16s%2Fg%2F11kqfcvvfl!19sChIJX0hQKlCl1jsRZZKUoDGY1hI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Getlife+Laser+Piles+hospital/data=!4m7!3m6!1s0x3bd6a5502a50485f:0x12d69831a0949265!8m2!3d20.8735124!4d77.7516172!16s%2Fg%2F11kqfcvvfl!19sChIJX0hQKlCl1jsRZZKUoDGY1hI?authuser=0&hl=en&rclk=1"
@@ -4744,11 +4705,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Getlife+Laser+Piles+hospital/data=!4m7!3m6!1s0x3bd6a5502a50485f:0x12d69831a0949265!8m2!3d20.8735124!4d77.7516172!16s%2Fg%2F11kqfcvvfl!19sChIJX0hQKlCl1jsRZZKUoDGY1hI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gleaming-smile-dental-and-cosmetic-clinic-amravati",
@@ -4796,7 +4756,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gleaming+Smile+Dental+%26+Cosmetic+Clinic/data=!4m7!3m6!1s0x3bd6a50005df7567:0x64777ca05a2f9484!8m2!3d20.8998529!4d77.7469447!16s%2Fg%2F11y_gqwcdp!19sChIJZ3XfBQCl1jsRhJQvWqB8d2Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gleaming+Smile+Dental+%26+Cosmetic+Clinic/data=!4m7!3m6!1s0x3bd6a50005df7567:0x64777ca05a2f9484!8m2!3d20.8998529!4d77.7469447!16s%2Fg%2F11y_gqwcdp!19sChIJZ3XfBQCl1jsRhJQvWqB8d2Q?authuser=0&hl=en&rclk=1"
@@ -4862,11 +4822,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gleaming+Smile+Dental+%26+Cosmetic+Clinic/data=!4m7!3m6!1s0x3bd6a50005df7567:0x64777ca05a2f9484!8m2!3d20.8998529!4d77.7469447!16s%2Fg%2F11y_gqwcdp!19sChIJZ3XfBQCl1jsRhJQvWqB8d2Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-dentistry-the-dental-implant-clinic-dental-clinic-in-amravati-amravati",
@@ -4916,7 +4875,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Global+Dentistry+-+The+Dental+Implant+Clinic+%7C+Dental+Clinic+in+Amravati/data=!4m7!3m6!1s0x3bd6a58cd33b2d73:0xa4b677dab7b3e2!8m2!3d20.9230068!4d77.7633433!16s%2Fg%2F11r9194_xg!19sChIJcy0704yl1jsR4rO32ne2pAA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Dentistry+-+The+Dental+Implant+Clinic+%7C+Dental+Clinic+in+Amravati/data=!4m7!3m6!1s0x3bd6a58cd33b2d73:0xa4b677dab7b3e2!8m2!3d20.9230068!4d77.7633433!16s%2Fg%2F11r9194_xg!19sChIJcy0704yl1jsR4rO32ne2pAA?authuser=0&hl=en&rclk=1"
@@ -4985,8 +4944,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Global+Dentistry+-+The+Dental+Implant+Clinic+%7C+Dental+Clinic+in+Amravati/data=!4m7!3m6!1s0x3bd6a58cd33b2d73:0xa4b677dab7b3e2!8m2!3d20.9230068!4d77.7633433!16s%2Fg%2F11r9194_xg!19sChIJcy0704yl1jsR4rO32ne2pAA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-hospital-amravati",
@@ -5034,7 +4992,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+Hospital/data=!4m7!3m6!1s0x3bd6bdf430ff47a9:0x73ccce3b9ae38816!8m2!3d20.9464595!4d77.7440275!16s%2Fg%2F11j8vr1k5w!19sChIJqUf_MPS91jsRFojjmjvOzHM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Hospital/data=!4m7!3m6!1s0x3bd6bdf430ff47a9:0x73ccce3b9ae38816!8m2!3d20.9464595!4d77.7440275!16s%2Fg%2F11j8vr1k5w!19sChIJqUf_MPS91jsRFojjmjvOzHM?authuser=0&hl=en&rclk=1"
@@ -5103,8 +5061,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+Hospital/data=!4m7!3m6!1s0x3bd6bdf430ff47a9:0x73ccce3b9ae38816!8m2!3d20.9464595!4d77.7440275!16s%2Fg%2F11j8vr1k5w!19sChIJqUf_MPS91jsRFojjmjvOzHM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gupta-hospital-amravati",
@@ -5152,7 +5109,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gupta+Hospital/data=!4m7!3m6!1s0x3bd6a356045dc24d:0xb57ecef3d7eaebe0!8m2!3d20.9359718!4d77.7526682!16s%2Fg%2F11dx9gq2js!19sChIJTcJdBFaj1jsR4Ovq1_POfrU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Hospital/data=!4m7!3m6!1s0x3bd6a356045dc24d:0xb57ecef3d7eaebe0!8m2!3d20.9359718!4d77.7526682!16s%2Fg%2F11dx9gq2js!19sChIJTcJdBFaj1jsR4Ovq1_POfrU?authuser=0&hl=en&rclk=1"
@@ -5221,8 +5178,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gupta+Hospital/data=!4m7!3m6!1s0x3bd6a356045dc24d:0xb57ecef3d7eaebe0!8m2!3d20.9359718!4d77.7526682!16s%2Fg%2F11dx9gq2js!19sChIJTcJdBFaj1jsR4Ovq1_POfrU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gynoveda-nagpur-dharampeth-ayurveda-fertility-clinic-nagpur",
@@ -5273,7 +5229,7 @@
       "871+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gynoveda,+Nagpur,+Dharampeth.+Ayurveda+Fertility+Clinic/data=!4m7!3m6!1s0x3bd4c1c1569b22a1:0x7322887bde88c06d!8m2!3d21.146195!4d79.0638271!16s%2Fg%2F11wbx3l4kz!19sChIJoSKbVsHB1DsRbcCI3nuIInM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gynoveda,+Nagpur,+Dharampeth.+Ayurveda+Fertility+Clinic/data=!4m7!3m6!1s0x3bd4c1c1569b22a1:0x7322887bde88c06d!8m2!3d21.146195!4d79.0638271!16s%2Fg%2F11wbx3l4kz!19sChIJoSKbVsHB1DsRbcCI3nuIInM?authuser=0&hl=en&rclk=1"
@@ -5342,8 +5298,7 @@
     "rating": 4.8,
     "reviews": 871,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gynoveda,+Nagpur,+Dharampeth.+Ayurveda+Fertility+Clinic/data=!4m7!3m6!1s0x3bd4c1c1569b22a1:0x7322887bde88c06d!8m2!3d21.146195!4d79.0638271!16s%2Fg%2F11wbx3l4kz!19sChIJoSKbVsHB1DsRbcCI3nuIInM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hantodkar-hospital-surgical-and-maternity-home-amravati",
@@ -5391,7 +5346,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HANTODKAR+HOSPITAL+Surgical+%26+Maternity+Home/data=!4m7!3m6!1s0x3bd6a3d8d6ad3659:0xb2a2df5e5ea95cd9!8m2!3d20.9503806!4d77.765985!16s%2Fg%2F11j92xxh8f!19sChIJWTat1tij1jsR2VypXl7forI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HANTODKAR+HOSPITAL+Surgical+%26+Maternity+Home/data=!4m7!3m6!1s0x3bd6a3d8d6ad3659:0xb2a2df5e5ea95cd9!8m2!3d20.9503806!4d77.765985!16s%2Fg%2F11j92xxh8f!19sChIJWTat1tij1jsR2VypXl7forI?authuser=0&hl=en&rclk=1"
@@ -5460,8 +5415,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HANTODKAR+HOSPITAL+Surgical+%26+Maternity+Home/data=!4m7!3m6!1s0x3bd6a3d8d6ad3659:0xb2a2df5e5ea95cd9!8m2!3d20.9503806!4d77.765985!16s%2Fg%2F11j92xxh8f!19sChIJWTat1tij1jsR2VypXl7forI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "heda-root-canal-and-implant-center-amravati",
@@ -5509,7 +5463,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Heda+Root+Canal+and+Implant+center/data=!4m7!3m6!1s0x3bd6a5d9bce9e3cd:0x2b9b8ad707d20819!8m2!3d20.9325006!4d77.7533118!16s%2Fg%2F11q3lwpp5m!19sChIJzePpvNml1jsRGQjSB9eKmys?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heda+Root+Canal+and+Implant+center/data=!4m7!3m6!1s0x3bd6a5d9bce9e3cd:0x2b9b8ad707d20819!8m2!3d20.9325006!4d77.7533118!16s%2Fg%2F11q3lwpp5m!19sChIJzePpvNml1jsRGQjSB9eKmys?authuser=0&hl=en&rclk=1"
@@ -5578,8 +5532,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Heda+Root+Canal+and+Implant+center/data=!4m7!3m6!1s0x3bd6a5d9bce9e3cd:0x2b9b8ad707d20819!8m2!3d20.9325006!4d77.7533118!16s%2Fg%2F11q3lwpp5m!19sChIJzePpvNml1jsRGQjSB9eKmys?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hillview-hospital-amravati",
@@ -5627,7 +5580,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HillView+Hospital/data=!4m7!3m6!1s0x3bd6a5a0fb5bee1b:0x4c2c3dfec4cbdc97!8m2!3d20.9082099!4d77.7705378!16s%2Fg%2F11jz3tqjlp!19sChIJG-5b-6Cl1jsRl9zLxP49LEw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HillView+Hospital/data=!4m7!3m6!1s0x3bd6a5a0fb5bee1b:0x4c2c3dfec4cbdc97!8m2!3d20.9082099!4d77.7705378!16s%2Fg%2F11jz3tqjlp!19sChIJG-5b-6Cl1jsRl9zLxP49LEw?authuser=0&hl=en&rclk=1"
@@ -5696,8 +5649,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HillView+Hospital/data=!4m7!3m6!1s0x3bd6a5a0fb5bee1b:0x4c2c3dfec4cbdc97!8m2!3d20.9082099!4d77.7705378!16s%2Fg%2F11jz3tqjlp!19sChIJG-5b-6Cl1jsRl9zLxP49LEw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hope-hospital-amravati",
@@ -5746,7 +5698,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hope+Hospital/data=!4m7!3m6!1s0x3bd6a4ae375755eb:0x58d29bfd636d2b6c!8m2!3d20.9253534!4d77.7530973!16s%2Fg%2F11bxd9xk8v!19sChIJ61VXN66k1jsRbCttY_2b0lg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+Hospital/data=!4m7!3m6!1s0x3bd6a4ae375755eb:0x58d29bfd636d2b6c!8m2!3d20.9253534!4d77.7530973!16s%2Fg%2F11bxd9xk8v!19sChIJ61VXN66k1jsRbCttY_2b0lg?authuser=0&hl=en&rclk=1"
@@ -5815,8 +5767,7 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hope+Hospital/data=!4m7!3m6!1s0x3bd6a4ae375755eb:0x58d29bfd636d2b6c!8m2!3d20.9253534!4d77.7530973!16s%2Fg%2F11bxd9xk8v!19sChIJ61VXN66k1jsRbCttY_2b0lg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "icchamani-hospital-amravati",
@@ -5865,7 +5816,7 @@
       "Google rating 4.5",
       "2+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Icchamani+Hospital/data=!4m7!3m6!1s0x3bd6a3383d9fb3b5:0xd04c425ecd628d63!8m2!3d20.9611675!4d77.7575418!16s%2Fg%2F11b6xhjvw_!19sChIJtbOfPTij1jsRY41izV5CTNA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Icchamani+Hospital/data=!4m7!3m6!1s0x3bd6a3383d9fb3b5:0xd04c425ecd628d63!8m2!3d20.9611675!4d77.7575418!16s%2Fg%2F11b6xhjvw_!19sChIJtbOfPTij1jsRY41izV5CTNA?authuser=0&hl=en&rclk=1"
@@ -5934,8 +5885,7 @@
     "rating": 4.5,
     "reviews": 2,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Icchamani+Hospital/data=!4m7!3m6!1s0x3bd6a3383d9fb3b5:0xd04c425ecd628d63!8m2!3d20.9611675!4d77.7575418!16s%2Fg%2F11b6xhjvw_!19sChIJtbOfPTij1jsRY41izV5CTNA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "inamdar-hospital-amravati",
@@ -5984,7 +5934,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Inamdar+Hospital/data=!4m7!3m6!1s0x3bd6bd724b0b40f7:0x5f1292ff8da20879!8m2!3d20.9546158!4d77.7379416!16s%2Fg%2F11n6gqtlgp!19sChIJ90ALS3K91jsReQiijf-SEl8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Inamdar+Hospital/data=!4m7!3m6!1s0x3bd6bd724b0b40f7:0x5f1292ff8da20879!8m2!3d20.9546158!4d77.7379416!16s%2Fg%2F11n6gqtlgp!19sChIJ90ALS3K91jsReQiijf-SEl8?authuser=0&hl=en&rclk=1"
@@ -6053,8 +6003,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Inamdar+Hospital/data=!4m7!3m6!1s0x3bd6bd724b0b40f7:0x5f1292ff8da20879!8m2!3d20.9546158!4d77.7379416!16s%2Fg%2F11n6gqtlgp!19sChIJ90ALS3K91jsReQiijf-SEl8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-civil-lines-best-ivf-centre-in-nagpur-nagpur",
@@ -6104,7 +6053,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Civil+Lines+-+Best+IVF+Centre+in+Nagpur/data=!4m7!3m6!1s0x3bd6a5d7776a541d:0x5d13954446105ef6!8m2!3d21.1534864!4d79.0784799!16s%2Fg%2F11xd1xf6j9!19sChIJHVRqd9el1jsR9l4QRkSVE10?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Civil+Lines+-+Best+IVF+Centre+in+Nagpur/data=!4m7!3m6!1s0x3bd6a5d7776a541d:0x5d13954446105ef6!8m2!3d21.1534864!4d79.0784799!16s%2Fg%2F11xd1xf6j9!19sChIJHVRqd9el1jsR9l4QRkSVE10?authuser=0&hl=en&rclk=1"
@@ -6173,8 +6122,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Civil+Lines+-+Best+IVF+Centre+in+Nagpur/data=!4m7!3m6!1s0x3bd6a5d7776a541d:0x5d13954446105ef6!8m2!3d21.1534864!4d79.0784799!16s%2Fg%2F11xd1xf6j9!19sChIJHVRqd9el1jsR9l4QRkSVE10?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ingole-hospital-and-breast-cancer-surgical-center-amravati",
@@ -6222,7 +6170,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ingole+Hospital+and+Breast+Cancer+Surgical+Center/data=!4m7!3m6!1s0x3bd6a49830c89157:0xd00c6f95f80f144b!8m2!3d20.9265145!4d77.7703453!16s%2Fg%2F11d_tw7k5f!19sChIJV5HIMJik1jsRSxQP-JVvDNA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ingole+Hospital+and+Breast+Cancer+Surgical+Center/data=!4m7!3m6!1s0x3bd6a49830c89157:0xd00c6f95f80f144b!8m2!3d20.9265145!4d77.7703453!16s%2Fg%2F11d_tw7k5f!19sChIJV5HIMJik1jsRSxQP-JVvDNA?authuser=0&hl=en&rclk=1"
@@ -6291,8 +6239,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ingole+Hospital+and+Breast+Cancer+Surgical+Center/data=!4m7!3m6!1s0x3bd6a49830c89157:0xd00c6f95f80f144b!8m2!3d20.9265145!4d77.7703453!16s%2Fg%2F11d_tw7k5f!19sChIJV5HIMJik1jsRSxQP-JVvDNA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jamthe-hospital-amravati",
@@ -6340,7 +6287,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jamthe+Hospital/data=!4m7!3m6!1s0x3bd6a5d07300a5dd:0xe600fc4b3b869f2a!8m2!3d20.9272034!4d77.7673844!16s%2Fg%2F11gtd13fkg!19sChIJ3aUAc9Cl1jsRKp-GO0v8AOY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jamthe+Hospital/data=!4m7!3m6!1s0x3bd6a5d07300a5dd:0xe600fc4b3b869f2a!8m2!3d20.9272034!4d77.7673844!16s%2Fg%2F11gtd13fkg!19sChIJ3aUAc9Cl1jsRKp-GO0v8AOY?authuser=0&hl=en&rclk=1"
@@ -6409,8 +6356,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jamthe+Hospital/data=!4m7!3m6!1s0x3bd6a5d07300a5dd:0xe600fc4b3b869f2a!8m2!3d20.9272034!4d77.7673844!16s%2Fg%2F11gtd13fkg!19sChIJ3aUAc9Cl1jsRKp-GO0v8AOY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kabra-hospital-amravati",
@@ -6458,7 +6404,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kabra+Hospital/data=!4m7!3m6!1s0x3bd6a4be8e286e47:0x8e9fbef9a9466d71!8m2!3d20.9182692!4d77.7645443!16s%2Fg%2F11f_4r_v17!19sChIJR24ojr6k1jsRcW1Gqfm-n44?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kabra+Hospital/data=!4m7!3m6!1s0x3bd6a4be8e286e47:0x8e9fbef9a9466d71!8m2!3d20.9182692!4d77.7645443!16s%2Fg%2F11f_4r_v17!19sChIJR24ojr6k1jsRcW1Gqfm-n44?authuser=0&hl=en&rclk=1"
@@ -6527,8 +6473,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kabra+Hospital/data=!4m7!3m6!1s0x3bd6a4be8e286e47:0x8e9fbef9a9466d71!8m2!3d20.9182692!4d77.7645443!16s%2Fg%2F11f_4r_v17!19sChIJR24ojr6k1jsRcW1Gqfm-n44?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kale-nursing-home-amravati",
@@ -6576,7 +6521,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kale+Nursing+Home/data=!4m7!3m6!1s0x3bd6a4a6aec68d8b:0x4af649d4258f1e92!8m2!3d20.9311769!4d77.7619013!16s%2Fg%2F1v3kfzb1!19sChIJi43Grqak1jsRkh6PJdRJ9ko?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kale+Nursing+Home/data=!4m7!3m6!1s0x3bd6a4a6aec68d8b:0x4af649d4258f1e92!8m2!3d20.9311769!4d77.7619013!16s%2Fg%2F1v3kfzb1!19sChIJi43Grqak1jsRkh6PJdRJ9ko?authuser=0&hl=en&rclk=1"
@@ -6645,8 +6590,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kale+Nursing+Home/data=!4m7!3m6!1s0x3bd6a4a6aec68d8b:0x4af649d4258f1e92!8m2!3d20.9311769!4d77.7619013!16s%2Fg%2F1v3kfzb1!19sChIJi43Grqak1jsRkh6PJdRJ9ko?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kalode-hospital-amravati",
@@ -6694,7 +6638,7 @@
     "metrics": [
       "Google rating 1.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kalode+Hospital/data=!4m7!3m6!1s0x3bd6a4a226cb6ad1:0xfe7cce31c0ef1a9c!8m2!3d20.9307679!4d77.7662856!16s%2Fg%2F11cs4h75q4!19sChIJ0WrLJqKk1jsRnBrvwDHOfP4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalode+Hospital/data=!4m7!3m6!1s0x3bd6a4a226cb6ad1:0xfe7cce31c0ef1a9c!8m2!3d20.9307679!4d77.7662856!16s%2Fg%2F11cs4h75q4!19sChIJ0WrLJqKk1jsRnBrvwDHOfP4?authuser=0&hl=en&rclk=1"
@@ -6763,8 +6707,7 @@
     "rating": 1.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kalode+Hospital/data=!4m7!3m6!1s0x3bd6a4a226cb6ad1:0xfe7cce31c0ef1a9c!8m2!3d20.9307679!4d77.7662856!16s%2Fg%2F11cs4h75q4!19sChIJ0WrLJqKk1jsRnBrvwDHOfP4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kaware-s-ayurveda-panchakarma-hospital-amravati",
@@ -6813,7 +6756,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kaware%27s+Ayurveda,+Panchakarma+Hospital/data=!4m7!3m6!1s0x3bd6a3eea3b58b87:0xfc01f4a665ad7b7b!8m2!3d20.946514!4d77.7656687!16s%2Fg%2F11j0qd8lws!19sChIJh4u1o-6j1jsRe3utZab0Afw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kaware%27s+Ayurveda,+Panchakarma+Hospital/data=!4m7!3m6!1s0x3bd6a3eea3b58b87:0xfc01f4a665ad7b7b!8m2!3d20.946514!4d77.7656687!16s%2Fg%2F11j0qd8lws!19sChIJh4u1o-6j1jsRe3utZab0Afw?authuser=0&hl=en&rclk=1"
@@ -6882,8 +6825,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kaware%27s+Ayurveda,+Panchakarma+Hospital/data=!4m7!3m6!1s0x3bd6a3eea3b58b87:0xfc01f4a665ad7b7b!8m2!3d20.946514!4d77.7656687!16s%2Fg%2F11j0qd8lws!19sChIJh4u1o-6j1jsRe3utZab0Afw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kidney-dialysis-center-in-amravati-the-renal-project-amravati",
@@ -6936,7 +6878,7 @@
       "14+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kidney+Dialysis+Center+in+Amravati+%7C+The+Renal+Project/data=!4m7!3m6!1s0x3bd6a5bcf212bba1:0xc95550876e5c9168!8m2!3d20.932816!4d77.7615357!16s%2Fg%2F11tx1rj014!19sChIJobsS8ryl1jsRaJFcbodQVck?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kidney+Dialysis+Center+in+Amravati+%7C+The+Renal+Project/data=!4m7!3m6!1s0x3bd6a5bcf212bba1:0xc95550876e5c9168!8m2!3d20.932816!4d77.7615357!16s%2Fg%2F11tx1rj014!19sChIJobsS8ryl1jsRaJFcbodQVck?authuser=0&hl=en&rclk=1"
@@ -7005,8 +6947,7 @@
     "rating": 4.5,
     "reviews": 14,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kidney+Dialysis+Center+in+Amravati+%7C+The+Renal+Project/data=!4m7!3m6!1s0x3bd6a5bcf212bba1:0xc95550876e5c9168!8m2!3d20.932816!4d77.7615357!16s%2Fg%2F11tx1rj014!19sChIJobsS8ryl1jsRaJFcbodQVck?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kitukale-hospital-amravati",
@@ -7054,7 +6995,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kitukale+Hospital/data=!4m7!3m6!1s0x3bd6a3e9ecc5c649:0xaee5edd261a9f799!8m2!3d20.9637362!4d77.756884!16s%2Fg%2F11rk8c8dtn!19sChIJScbF7Omj1jsRmfepYdLt5a4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kitukale+Hospital/data=!4m7!3m6!1s0x3bd6a3e9ecc5c649:0xaee5edd261a9f799!8m2!3d20.9637362!4d77.756884!16s%2Fg%2F11rk8c8dtn!19sChIJScbF7Omj1jsRmfepYdLt5a4?authuser=0&hl=en&rclk=1"
@@ -7123,8 +7064,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kitukale+Hospital/data=!4m7!3m6!1s0x3bd6a3e9ecc5c649:0xaee5edd261a9f799!8m2!3d20.9637362!4d77.756884!16s%2Fg%2F11rk8c8dtn!19sChIJScbF7Omj1jsRmfepYdLt5a4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kolhe-s-superspecility-dental-clinic-and-implant-center-amravati",
@@ -7173,7 +7113,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kolhe%27s+Superspecility+Dental+Clinic+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a3c070eb0d0f:0xf52709aa4d32bd76!8m2!3d20.9522632!4d77.7618453!16s%2Fg%2F11h75_rpgq!19sChIJDw3rcMCj1jsRdr0yTaoJJ_U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kolhe%27s+Superspecility+Dental+Clinic+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a3c070eb0d0f:0xf52709aa4d32bd76!8m2!3d20.9522632!4d77.7618453!16s%2Fg%2F11h75_rpgq!19sChIJDw3rcMCj1jsRdr0yTaoJJ_U?authuser=0&hl=en&rclk=1"
@@ -7242,8 +7182,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kolhe%27s+Superspecility+Dental+Clinic+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a3c070eb0d0f:0xf52709aa4d32bd76!8m2!3d20.9522632!4d77.7618453!16s%2Fg%2F11h75_rpgq!19sChIJDw3rcMCj1jsRdr0yTaoJJ_U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kulkarni-hospital-amravati",
@@ -7291,7 +7230,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kulkarni+Hospital/data=!4m7!3m6!1s0x3bd6a4b1b05aebc1:0x120961260b5223c1!8m2!3d20.9217929!4d77.753398!16s%2Fg%2F1vcl26wq!19sChIJwetasLGk1jsRwSNSCyZhCRI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kulkarni+Hospital/data=!4m7!3m6!1s0x3bd6a4b1b05aebc1:0x120961260b5223c1!8m2!3d20.9217929!4d77.753398!16s%2Fg%2F1vcl26wq!19sChIJwetasLGk1jsRwSNSCyZhCRI?authuser=0&hl=en&rclk=1"
@@ -7360,8 +7299,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kulkarni+Hospital/data=!4m7!3m6!1s0x3bd6a4b1b05aebc1:0x120961260b5223c1!8m2!3d20.9217929!4d77.753398!16s%2Fg%2F1vcl26wq!19sChIJwetasLGk1jsRwSNSCyZhCRI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kuthe-hospital-amravati",
@@ -7409,7 +7347,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KUTHE+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4ae2ef37c7b:0x8121ead7c0779730!8m2!3d20.9246523!4d77.753605!16s%2Fg%2F11g6p2wh7t!19sChIJe3zzLq6k1jsRMJd3wNfqIYE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KUTHE+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4ae2ef37c7b:0x8121ead7c0779730!8m2!3d20.9246523!4d77.753605!16s%2Fg%2F11g6p2wh7t!19sChIJe3zzLq6k1jsRMJd3wNfqIYE?authuser=0&hl=en&rclk=1"
@@ -7475,11 +7413,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KUTHE+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4ae2ef37c7b:0x8121ead7c0779730!8m2!3d20.9246523!4d77.753605!16s%2Fg%2F11g6p2wh7t!19sChIJe3zzLq6k1jsRMJd3wNfqIYE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "laddha-s-advanced-dental-care-amravati",
@@ -7527,7 +7464,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LADDHA%27S+ADVANCED+DENTAL+CARE/data=!4m7!3m6!1s0x3bd6a5a6e0f7f119:0x2c32faadf285fcff!8m2!3d20.9272269!4d77.7536186!16s%2Fg%2F11p_8kcldf!19sChIJGfH34Kal1jsR__yF8q36Miw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LADDHA%27S+ADVANCED+DENTAL+CARE/data=!4m7!3m6!1s0x3bd6a5a6e0f7f119:0x2c32faadf285fcff!8m2!3d20.9272269!4d77.7536186!16s%2Fg%2F11p_8kcldf!19sChIJGfH34Kal1jsR__yF8q36Miw?authuser=0&hl=en&rclk=1"
@@ -7593,11 +7530,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LADDHA%27S+ADVANCED+DENTAL+CARE/data=!4m7!3m6!1s0x3bd6a5a6e0f7f119:0x2c32faadf285fcff!8m2!3d20.9272269!4d77.7536186!16s%2Fg%2F11p_8kcldf!19sChIJGfH34Kal1jsR__yF8q36Miw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "let-s-conceive-amravati",
@@ -7647,7 +7583,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Let%27s+Conceive/data=!4m7!3m6!1s0x3bd6a54689b69efb:0xe514a6a321b8b610!8m2!3d20.9322841!4d77.7453665!16s%2Fg%2F11wc2lz9kd!19sChIJ-562iUal1jsRELa4IaOmFOU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Let%27s+Conceive/data=!4m7!3m6!1s0x3bd6a54689b69efb:0xe514a6a321b8b610!8m2!3d20.9322841!4d77.7453665!16s%2Fg%2F11wc2lz9kd!19sChIJ-562iUal1jsRELa4IaOmFOU?authuser=0&hl=en&rclk=1"
@@ -7713,11 +7649,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Let%27s+Conceive/data=!4m7!3m6!1s0x3bd6a54689b69efb:0xe514a6a321b8b610!8m2!3d20.9322841!4d77.7453665!16s%2Fg%2F11wc2lz9kd!19sChIJ-562iUal1jsRELa4IaOmFOU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lifecare-children-hospital-amravati",
@@ -7766,7 +7701,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LifeCare+Children+Hospital/data=!4m7!3m6!1s0x3bd6a4a34212e8b5:0x69b7c4278bf0b!8m2!3d20.924556!4d77.7631242!16s%2Fg%2F11fxzrqvyg!19sChIJtegSQqOk1jsRC794QnybBgA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LifeCare+Children+Hospital/data=!4m7!3m6!1s0x3bd6a4a34212e8b5:0x69b7c4278bf0b!8m2!3d20.924556!4d77.7631242!16s%2Fg%2F11fxzrqvyg!19sChIJtegSQqOk1jsRC794QnybBgA?authuser=0&hl=en&rclk=1"
@@ -7835,8 +7770,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LifeCare+Children+Hospital/data=!4m7!3m6!1s0x3bd6a4a34212e8b5:0x69b7c4278bf0b!8m2!3d20.924556!4d77.7631242!16s%2Fg%2F11fxzrqvyg!19sChIJtegSQqOk1jsRC794QnybBgA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lifeline-hospital-amravati-amravati",
@@ -7884,7 +7818,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lifeline+Hospital,+Amravati/data=!4m7!3m6!1s0x3bd6a4a2c1ed13dd:0x37e02c007f49b8c9!8m2!3d20.9266596!4d77.7663666!16s%2Fg%2F11f30w7nw7!19sChIJ3RPtwaKk1jsRybhJfwAs4Dc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lifeline+Hospital,+Amravati/data=!4m7!3m6!1s0x3bd6a4a2c1ed13dd:0x37e02c007f49b8c9!8m2!3d20.9266596!4d77.7663666!16s%2Fg%2F11f30w7nw7!19sChIJ3RPtwaKk1jsRybhJfwAs4Dc?authuser=0&hl=en&rclk=1"
@@ -7953,8 +7887,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lifeline+Hospital,+Amravati/data=!4m7!3m6!1s0x3bd6a4a2c1ed13dd:0x37e02c007f49b8c9!8m2!3d20.9266596!4d77.7663666!16s%2Fg%2F11f30w7nw7!19sChIJ3RPtwaKk1jsRybhJfwAs4Dc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lotus-sonography-and-xray-clinic-irwin-square-amravati",
@@ -8003,7 +7936,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lotus+Sonography+%26+Xray+Clinic,Irwin+Square/data=!4m7!3m6!1s0x3bd6a5559d75d1f5:0x77fffc4396785629!8m2!3d20.9339136!4d77.7609159!16s%2Fg%2F11w832ryv2!19sChIJ9dF1nVWl1jsRKVZ4lkP8_3c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lotus+Sonography+%26+Xray+Clinic,Irwin+Square/data=!4m7!3m6!1s0x3bd6a5559d75d1f5:0x77fffc4396785629!8m2!3d20.9339136!4d77.7609159!16s%2Fg%2F11w832ryv2!19sChIJ9dF1nVWl1jsRKVZ4lkP8_3c?authuser=0&hl=en&rclk=1"
@@ -8072,8 +8005,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lotus+Sonography+%26+Xray+Clinic,Irwin+Square/data=!4m7!3m6!1s0x3bd6a5559d75d1f5:0x77fffc4396785629!8m2!3d20.9339136!4d77.7609159!16s%2Fg%2F11w832ryv2!19sChIJ9dF1nVWl1jsRKVZ4lkP8_3c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhavbaug-rajapeth-clinic-amravati",
@@ -8121,7 +8053,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Madhavbaug+Rajapeth+clinic/data=!4m7!3m6!1s0x3bd6a57f486f2907:0x688932c2f536f622!8m2!3d20.9246507!4d77.7530728!16s%2Fg%2F11kyj_1nrh!19sChIJBylvSH-l1jsRIvY29cIyiWg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+Rajapeth+clinic/data=!4m7!3m6!1s0x3bd6a57f486f2907:0x688932c2f536f622!8m2!3d20.9246507!4d77.7530728!16s%2Fg%2F11kyj_1nrh!19sChIJBylvSH-l1jsRIvY29cIyiWg?authuser=0&hl=en&rclk=1"
@@ -8187,11 +8119,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Madhavbaug+Rajapeth+clinic/data=!4m7!3m6!1s0x3bd6a57f486f2907:0x688932c2f536f622!8m2!3d20.9246507!4d77.7530728!16s%2Fg%2F11kyj_1nrh!19sChIJBylvSH-l1jsRIvY29cIyiWg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "malviya-dent-o-care-amravati",
@@ -8239,7 +8170,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Malviya+Dent-O-Care/data=!4m7!3m6!1s0x3bd6a54036258fb3:0xa07f55e26a4cf950!8m2!3d20.9128036!4d77.7583276!16s%2Fg%2F11rch8z0yx!19sChIJs48lNkCl1jsRUPlMauJVf6A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malviya+Dent-O-Care/data=!4m7!3m6!1s0x3bd6a54036258fb3:0xa07f55e26a4cf950!8m2!3d20.9128036!4d77.7583276!16s%2Fg%2F11rch8z0yx!19sChIJs48lNkCl1jsRUPlMauJVf6A?authuser=0&hl=en&rclk=1"
@@ -8305,11 +8236,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Malviya+Dent-O-Care/data=!4m7!3m6!1s0x3bd6a54036258fb3:0xa07f55e26a4cf950!8m2!3d20.9128036!4d77.7583276!16s%2Fg%2F11rch8z0yx!19sChIJs48lNkCl1jsRUPlMauJVf6A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mangalmurti-surgical-and-homeopathy-clinic-amravati",
@@ -8358,7 +8288,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mangalmurti+Surgical+And+Homeopathy+clinic/data=!4m7!3m6!1s0x3bd6a5adbf841b97:0xcfe36a1ecc9387f2!8m2!3d20.9087339!4d77.7515227!16s%2Fg%2F11x7z1t4b5!19sChIJlxuEv62l1jsR8oeTzB5q488?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalmurti+Surgical+And+Homeopathy+clinic/data=!4m7!3m6!1s0x3bd6a5adbf841b97:0xcfe36a1ecc9387f2!8m2!3d20.9087339!4d77.7515227!16s%2Fg%2F11x7z1t4b5!19sChIJlxuEv62l1jsR8oeTzB5q488?authuser=0&hl=en&rclk=1"
@@ -8427,8 +8357,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mangalmurti+Surgical+And+Homeopathy+clinic/data=!4m7!3m6!1s0x3bd6a5adbf841b97:0xcfe36a1ecc9387f2!8m2!3d20.9087339!4d77.7515227!16s%2Fg%2F11x7z1t4b5!19sChIJlxuEv62l1jsR8oeTzB5q488?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "matruchhaya-hospital-amravati",
@@ -8476,7 +8405,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Matruchhaya+Hospital/data=!4m7!3m6!1s0x3bd6a4ba151c3407:0x8a24effbe51851db!8m2!3d20.920115!4d77.7579736!16s%2Fg%2F11c6193st0!19sChIJBzQcFbqk1jsR21EY5fvvJIo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matruchhaya+Hospital/data=!4m7!3m6!1s0x3bd6a4ba151c3407:0x8a24effbe51851db!8m2!3d20.920115!4d77.7579736!16s%2Fg%2F11c6193st0!19sChIJBzQcFbqk1jsR21EY5fvvJIo?authuser=0&hl=en&rclk=1"
@@ -8545,8 +8474,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Matruchhaya+Hospital/data=!4m7!3m6!1s0x3bd6a4ba151c3407:0x8a24effbe51851db!8m2!3d20.920115!4d77.7579736!16s%2Fg%2F11c6193st0!19sChIJBzQcFbqk1jsR21EY5fvvJIo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mauli-dentoperio-and-implant-clinic-amravati",
@@ -8594,7 +8522,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mauli+Dentoperio+and+Implant+clinic/data=!4m7!3m6!1s0x3bd6a3854c44a335:0xa4251a318c604088!8m2!3d20.9177161!4d77.7604496!16s%2Fg%2F11txlpp2h7!19sChIJNaNETIWj1jsRiEBgjDEaJaQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mauli+Dentoperio+and+Implant+clinic/data=!4m7!3m6!1s0x3bd6a3854c44a335:0xa4251a318c604088!8m2!3d20.9177161!4d77.7604496!16s%2Fg%2F11txlpp2h7!19sChIJNaNETIWj1jsRiEBgjDEaJaQ?authuser=0&hl=en&rclk=1"
@@ -8660,11 +8588,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mauli+Dentoperio+and+Implant+clinic/data=!4m7!3m6!1s0x3bd6a3854c44a335:0xa4251a318c604088!8m2!3d20.9177161!4d77.7604496!16s%2Fg%2F11txlpp2h7!19sChIJNaNETIWj1jsRiEBgjDEaJaQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mauli-neurocare-and-neurosurgery-hospital-amravati",
@@ -8713,7 +8640,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mauli+Neurocare+and+Neurosurgery+Hospital/data=!4m7!3m6!1s0x3bd6a516d6f0441b:0xae5f6fd436717d7a!8m2!3d20.9273003!4d77.764483!16s%2Fg%2F11rv1krm66!19sChIJG0Tw1hal1jsRen1xNtRvX64?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mauli+Neurocare+and+Neurosurgery+Hospital/data=!4m7!3m6!1s0x3bd6a516d6f0441b:0xae5f6fd436717d7a!8m2!3d20.9273003!4d77.764483!16s%2Fg%2F11rv1krm66!19sChIJG0Tw1hal1jsRen1xNtRvX64?authuser=0&hl=en&rclk=1"
@@ -8782,8 +8709,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mauli+Neurocare+and+Neurosurgery+Hospital/data=!4m7!3m6!1s0x3bd6a516d6f0441b:0xae5f6fd436717d7a!8m2!3d20.9273003!4d77.764483!16s%2Fg%2F11rv1krm66!19sChIJG0Tw1hal1jsRen1xNtRvX64?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medi-tech-hospital-amravati",
@@ -8831,7 +8757,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medi-tech+Hospital/data=!4m7!3m6!1s0x3bd6a4b078c5d745:0xde402f447c625741!8m2!3d20.9219484!4d77.7565393!16s%2Fg%2F11cscc2ln_!19sChIJRdfFeLCk1jsRQVdifEQvQN4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medi-tech+Hospital/data=!4m7!3m6!1s0x3bd6a4b078c5d745:0xde402f447c625741!8m2!3d20.9219484!4d77.7565393!16s%2Fg%2F11cscc2ln_!19sChIJRdfFeLCk1jsRQVdifEQvQN4?authuser=0&hl=en&rclk=1"
@@ -8900,8 +8826,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medi-tech+Hospital/data=!4m7!3m6!1s0x3bd6a4b078c5d745:0xde402f447c625741!8m2!3d20.9219484!4d77.7565393!16s%2Fg%2F11cscc2ln_!19sChIJRdfFeLCk1jsRQVdifEQvQN4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meshram-amravati",
@@ -8947,7 +8872,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Meshram/data=!4m7!3m6!1s0x3bd6a55041b1306b:0xf516827aff5eff8e!8m2!3d20.9230972!4d77.7676436!16s%2Fg%2F11pvmljn3z!19sChIJazCxQVCl1jsRjv9e_3qCFvU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meshram/data=!4m7!3m6!1s0x3bd6a55041b1306b:0xf516827aff5eff8e!8m2!3d20.9230972!4d77.7676436!16s%2Fg%2F11pvmljn3z!19sChIJazCxQVCl1jsRjv9e_3qCFvU?authuser=0&hl=en&rclk=1"
@@ -9013,11 +8938,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Meshram/data=!4m7!3m6!1s0x3bd6a55041b1306b:0xf516827aff5eff8e!8m2!3d20.9230972!4d77.7676436!16s%2Fg%2F11pvmljn3z!19sChIJazCxQVCl1jsRjv9e_3qCFvU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "milke-orthocare-and-dental-clinic-amravati",
@@ -9066,7 +8990,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Milke+orthocare+and+dental+clinic/data=!4m7!3m6!1s0x3bd6a3ce9fc7af5f:0xe6018c76b22f3ede!8m2!3d20.9640054!4d77.7501115!16s%2Fg%2F11h3z7mtyj!19sChIJX6_Hn86j1jsR3j4vsnaMAeY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Milke+orthocare+and+dental+clinic/data=!4m7!3m6!1s0x3bd6a3ce9fc7af5f:0xe6018c76b22f3ede!8m2!3d20.9640054!4d77.7501115!16s%2Fg%2F11h3z7mtyj!19sChIJX6_Hn86j1jsR3j4vsnaMAeY?authuser=0&hl=en&rclk=1"
@@ -9135,8 +9059,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Milke+orthocare+and+dental+clinic/data=!4m7!3m6!1s0x3bd6a3ce9fc7af5f:0xe6018c76b22f3ede!8m2!3d20.9640054!4d77.7501115!16s%2Fg%2F11h3z7mtyj!19sChIJX6_Hn86j1jsR3j4vsnaMAeY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "misar-hospital-amravati",
@@ -9184,7 +9107,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Misar+Hospital/data=!4m7!3m6!1s0x3bd6a4bd646abe91:0x1e57275cdcd6cb41!8m2!3d20.9233397!4d77.7676577!16s%2Fg%2F11bxfs_86s!19sChIJkb5qZL2k1jsRQcvW3FwnVx4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Misar+Hospital/data=!4m7!3m6!1s0x3bd6a4bd646abe91:0x1e57275cdcd6cb41!8m2!3d20.9233397!4d77.7676577!16s%2Fg%2F11bxfs_86s!19sChIJkb5qZL2k1jsRQcvW3FwnVx4?authuser=0&hl=en&rclk=1"
@@ -9253,8 +9176,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Misar+Hospital/data=!4m7!3m6!1s0x3bd6a4bd646abe91:0x1e57275cdcd6cb41!8m2!3d20.9233397!4d77.7676577!16s%2Fg%2F11bxfs_86s!19sChIJkb5qZL2k1jsRQcvW3FwnVx4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "morpheus-shubham-international-ivf-center-amravati",
@@ -9303,7 +9225,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Morpheus+Shubham+International+IVF+Center/data=!4m7!3m6!1s0x3bd6a4b6cb6de94d:0x579dfbfc1996543c!8m2!3d20.9180966!4d77.7528096!16s%2Fg%2F11b7b_76m8!19sChIJTelty7ak1jsRPFSWGfz7nVc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Morpheus+Shubham+International+IVF+Center/data=!4m7!3m6!1s0x3bd6a4b6cb6de94d:0x579dfbfc1996543c!8m2!3d20.9180966!4d77.7528096!16s%2Fg%2F11b7b_76m8!19sChIJTelty7ak1jsRPFSWGfz7nVc?authuser=0&hl=en&rclk=1"
@@ -9369,11 +9291,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Morpheus+Shubham+International+IVF+Center/data=!4m7!3m6!1s0x3bd6a4b6cb6de94d:0x579dfbfc1996543c!8m2!3d20.9180966!4d77.7528096!16s%2Fg%2F11b7b_76m8!19sChIJTelty7ak1jsRPFSWGfz7nVc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mugdha-eecp-and-heart-care-center-amravati",
@@ -9423,7 +9344,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mugdha+EECP+%26+Heart+Care+Center/data=!4m7!3m6!1s0x3bd6a531066cbbeb:0x352ec8f72ce35189!8m2!3d20.9266456!4d77.7647211!16s%2Fg%2F11n48r0tzm!19sChIJ67tsBjGl1jsRiVHjLPfILjU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mugdha+EECP+%26+Heart+Care+Center/data=!4m7!3m6!1s0x3bd6a531066cbbeb:0x352ec8f72ce35189!8m2!3d20.9266456!4d77.7647211!16s%2Fg%2F11n48r0tzm!19sChIJ67tsBjGl1jsRiVHjLPfILjU?authuser=0&hl=en&rclk=1"
@@ -9489,11 +9410,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mugdha+EECP+%26+Heart+Care+Center/data=!4m7!3m6!1s0x3bd6a531066cbbeb:0x352ec8f72ce35189!8m2!3d20.9266456!4d77.7647211!16s%2Fg%2F11n48r0tzm!19sChIJ67tsBjGl1jsRiVHjLPfILjU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mulmule-hospital-amravati",
@@ -9541,7 +9461,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mulmule+Hospital/data=!4m7!3m6!1s0x3bd6a4ebd4c681e3:0x9d04e99f6296a254!8m2!3d20.9081725!4d77.7710128!16s%2Fg%2F11cs5x3y46!19sChIJ44HG1Ouk1jsRVKKWYp_pBJ0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mulmule+Hospital/data=!4m7!3m6!1s0x3bd6a4ebd4c681e3:0x9d04e99f6296a254!8m2!3d20.9081725!4d77.7710128!16s%2Fg%2F11cs5x3y46!19sChIJ44HG1Ouk1jsRVKKWYp_pBJ0?authuser=0&hl=en&rclk=1"
@@ -9607,11 +9527,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mulmule+Hospital/data=!4m7!3m6!1s0x3bd6a4ebd4c681e3:0x9d04e99f6296a254!8m2!3d20.9081725!4d77.7710128!16s%2Fg%2F11cs5x3y46!19sChIJ44HG1Ouk1jsRVKKWYp_pBJ0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mundada-s-advance-dental-and-implant-clinic-amravati",
@@ -9660,7 +9579,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mundada%27s+Advance+Dental+and+Implant+Clinic/data=!4m7!3m6!1s0x3bd6a4a4a7d30015:0xf4beecc697f9e826!8m2!3d20.9259902!4d77.7625145!16s%2Fg%2F11dfr4m4kq!19sChIJFQDTp6Sk1jsRJuj5l8bsvvQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mundada%27s+Advance+Dental+and+Implant+Clinic/data=!4m7!3m6!1s0x3bd6a4a4a7d30015:0xf4beecc697f9e826!8m2!3d20.9259902!4d77.7625145!16s%2Fg%2F11dfr4m4kq!19sChIJFQDTp6Sk1jsRJuj5l8bsvvQ?authuser=0&hl=en&rclk=1"
@@ -9726,11 +9645,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mundada%27s+Advance+Dental+and+Implant+Clinic/data=!4m7!3m6!1s0x3bd6a4a4a7d30015:0xf4beecc697f9e826!8m2!3d20.9259902!4d77.7625145!16s%2Fg%2F11dfr4m4kq!19sChIJFQDTp6Sk1jsRJuj5l8bsvvQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nagalkar-nursing-home-and-polyclinic-amravati",
@@ -9780,7 +9698,7 @@
       "20+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nagalkar+Nursing+Home+%26+Polyclinic/data=!4m7!3m6!1s0x3bd6a4c70d399479:0xc67f11f9a83c6aa5!8m2!3d20.9085683!4d77.762392!16s%2Fg%2F11b7fb9slt!19sChIJeZQ5Dcek1jsRpWo8qPkRf8Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nagalkar+Nursing+Home+%26+Polyclinic/data=!4m7!3m6!1s0x3bd6a4c70d399479:0xc67f11f9a83c6aa5!8m2!3d20.9085683!4d77.762392!16s%2Fg%2F11b7fb9slt!19sChIJeZQ5Dcek1jsRpWo8qPkRf8Y?authuser=0&hl=en&rclk=1"
@@ -9849,8 +9767,7 @@
     "rating": 4.4,
     "reviews": 20,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nagalkar+Nursing+Home+%26+Polyclinic/data=!4m7!3m6!1s0x3bd6a4c70d399479:0xc67f11f9a83c6aa5!8m2!3d20.9085683!4d77.762392!16s%2Fg%2F11b7fb9slt!19sChIJeZQ5Dcek1jsRpWo8qPkRf8Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nagmata-hospital-amravati",
@@ -9898,7 +9815,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nagmata+Hospital/data=!4m7!3m6!1s0x3bd6a531adabe559:0xa34761f1e89e2211!8m2!3d20.9280869!4d77.7597446!16s%2Fg%2F11pz8fmn92!19sChIJWeWrrTGl1jsRESKe6PFhR6M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nagmata+Hospital/data=!4m7!3m6!1s0x3bd6a531adabe559:0xa34761f1e89e2211!8m2!3d20.9280869!4d77.7597446!16s%2Fg%2F11pz8fmn92!19sChIJWeWrrTGl1jsRESKe6PFhR6M?authuser=0&hl=en&rclk=1"
@@ -9967,8 +9884,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nagmata+Hospital/data=!4m7!3m6!1s0x3bd6a531adabe559:0xa34761f1e89e2211!8m2!3d20.9280869!4d77.7597446!16s%2Fg%2F11pz8fmn92!19sChIJWeWrrTGl1jsRESKe6PFhR6M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "naphade-dental-clinic-rukmini-nagar-main-road-bank-of-maharashtra-lane",
@@ -10016,7 +9932,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Naphade+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a4a317bf6f5d:0x5c198bd375f2a017!8m2!3d20.9266336!4d77.7645005!16s%2Fg%2F11c85dn6bc!19sChIJXW-_F6Ok1jsRF6DyddOLGVw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naphade+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a4a317bf6f5d:0x5c198bd375f2a017!8m2!3d20.9266336!4d77.7645005!16s%2Fg%2F11c85dn6bc!19sChIJXW-_F6Ok1jsRF6DyddOLGVw?authuser=0&hl=en&rclk=1"
@@ -10082,11 +9998,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Naphade+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a4a317bf6f5d:0x5c198bd375f2a017!8m2!3d20.9266336!4d77.7645005!16s%2Fg%2F11c85dn6bc!19sChIJXW-_F6Ok1jsRF6DyddOLGVw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "naphade-dental-clinic-amravati",
@@ -10134,7 +10049,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Naphade+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a558e6e6337d:0x33763d0ef038fc2d!8m2!3d20.9266491!4d77.7644866!16s%2Fg%2F11k7y6hg_y!19sChIJfTPm5lil1jsRLfw48A49djM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naphade+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a558e6e6337d:0x33763d0ef038fc2d!8m2!3d20.9266491!4d77.7644866!16s%2Fg%2F11k7y6hg_y!19sChIJfTPm5lil1jsRLfw48A49djM?authuser=0&hl=en&rclk=1"
@@ -10200,11 +10115,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Naphade+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a558e6e6337d:0x33763d0ef038fc2d!8m2!3d20.9266491!4d77.7644866!16s%2Fg%2F11k7y6hg_y!19sChIJfTPm5lil1jsRLfw48A49djM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navjivan-hospital-amravati",
@@ -10253,7 +10167,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navjivan+Hospital/data=!4m7!3m6!1s0x3bd6a495a652acbf:0x24bb6b32cd74a651!8m2!3d20.9364485!4d77.7711862!16s%2Fg%2F11f5btkj67!19sChIJv6xSppWk1jsRUaZ0zTJruyQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navjivan+Hospital/data=!4m7!3m6!1s0x3bd6a495a652acbf:0x24bb6b32cd74a651!8m2!3d20.9364485!4d77.7711862!16s%2Fg%2F11f5btkj67!19sChIJv6xSppWk1jsRUaZ0zTJruyQ?authuser=0&hl=en&rclk=1"
@@ -10322,8 +10236,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navjivan+Hospital/data=!4m7!3m6!1s0x3bd6a495a652acbf:0x24bb6b32cd74a651!8m2!3d20.9364485!4d77.7711862!16s%2Fg%2F11f5btkj67!19sChIJv6xSppWk1jsRUaZ0zTJruyQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navle-hospital-spine-specialist-amravati",
@@ -10372,7 +10285,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navle+Hospital+Spine+Specialist/data=!4m7!3m6!1s0x3bd6a5000b32cd7b:0x89a6e7f181e72231!8m2!3d20.9262895!4d77.7676818!16s%2Fg%2F11y8zwtl59!19sChIJe80yCwCl1jsRMSLngfHnpok?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navle+Hospital+Spine+Specialist/data=!4m7!3m6!1s0x3bd6a5000b32cd7b:0x89a6e7f181e72231!8m2!3d20.9262895!4d77.7676818!16s%2Fg%2F11y8zwtl59!19sChIJe80yCwCl1jsRMSLngfHnpok?authuser=0&hl=en&rclk=1"
@@ -10441,8 +10354,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navle+Hospital+Spine+Specialist/data=!4m7!3m6!1s0x3bd6a5000b32cd7b:0x89a6e7f181e72231!8m2!3d20.9262895!4d77.7676818!16s%2Fg%2F11y8zwtl59!19sChIJe80yCwCl1jsRMSLngfHnpok?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-dental-clinic-amravati",
@@ -10491,7 +10403,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Om+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5f9b12510bb:0x56bccb769b159bc5!8m2!3d20.9146065!4d77.7626057!16s%2Fg%2F11pkjzkvz9!19sChIJuxAlsfml1jsRxZsVm3bLvFY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5f9b12510bb:0x56bccb769b159bc5!8m2!3d20.9146065!4d77.7626057!16s%2Fg%2F11pkjzkvz9!19sChIJuxAlsfml1jsRxZsVm3bLvFY?authuser=0&hl=en&rclk=1"
@@ -10560,8 +10472,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Om+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5f9b12510bb:0x56bccb769b159bc5!8m2!3d20.9146065!4d77.7626057!16s%2Fg%2F11pkjzkvz9!19sChIJuxAlsfml1jsRxZsVm3bLvFY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orchid-hospital-amravati",
@@ -10609,7 +10520,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ORCHID+HOSPITAL/data=!4m7!3m6!1s0x3bd6a36e7a9c95a7:0xe1f699cd7881b646!8m2!3d20.947142!4d77.7591141!16s%2Fg%2F11kwn576xq!19sChIJp5Wcem6j1jsRRraBeM2Z9uE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ORCHID+HOSPITAL/data=!4m7!3m6!1s0x3bd6a36e7a9c95a7:0xe1f699cd7881b646!8m2!3d20.947142!4d77.7591141!16s%2Fg%2F11kwn576xq!19sChIJp5Wcem6j1jsRRraBeM2Z9uE?authuser=0&hl=en&rclk=1"
@@ -10678,8 +10589,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ORCHID+HOSPITAL/data=!4m7!3m6!1s0x3bd6a36e7a9c95a7:0xe1f699cd7881b646!8m2!3d20.947142!4d77.7591141!16s%2Fg%2F11kwn576xq!19sChIJp5Wcem6j1jsRRraBeM2Z9uE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pachbuddhe-children-and-maternity-hospital-amravati",
@@ -10728,7 +10638,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pachbuddhe+children+and+maternity+hospital/data=!4m7!3m6!1s0x3bd6a553fdea5809:0xd64d13118e6f95b5!8m2!3d20.9244376!4d77.7673585!16s%2Fg%2F11f6z3nm0l!19sChIJCVjq_VOl1jsRtZVvjhETTdY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pachbuddhe+children+and+maternity+hospital/data=!4m7!3m6!1s0x3bd6a553fdea5809:0xd64d13118e6f95b5!8m2!3d20.9244376!4d77.7673585!16s%2Fg%2F11f6z3nm0l!19sChIJCVjq_VOl1jsRtZVvjhETTdY?authuser=0&hl=en&rclk=1"
@@ -10797,8 +10707,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pachbuddhe+children+and+maternity+hospital/data=!4m7!3m6!1s0x3bd6a553fdea5809:0xd64d13118e6f95b5!8m2!3d20.9244376!4d77.7673585!16s%2Fg%2F11f6z3nm0l!19sChIJCVjq_VOl1jsRtZVvjhETTdY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parashree-speciality-hospital-amravati",
@@ -10847,7 +10756,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Parashree+Speciality+Hospital/data=!4m7!3m6!1s0x3bd6a4a406477373:0x71cf1e290dc4638a!8m2!3d20.9300825!4d77.7621185!16s%2Fg%2F1tfq336j!19sChIJc3NHBqSk1jsRimPEDSkez3E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parashree+Speciality+Hospital/data=!4m7!3m6!1s0x3bd6a4a406477373:0x71cf1e290dc4638a!8m2!3d20.9300825!4d77.7621185!16s%2Fg%2F1tfq336j!19sChIJc3NHBqSk1jsRimPEDSkez3E?authuser=0&hl=en&rclk=1"
@@ -10916,8 +10825,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Parashree+Speciality+Hospital/data=!4m7!3m6!1s0x3bd6a4a406477373:0x71cf1e290dc4638a!8m2!3d20.9300825!4d77.7621185!16s%2Fg%2F1tfq336j!19sChIJc3NHBqSk1jsRimPEDSkez3E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parijat-hospital-amravati",
@@ -10967,7 +10875,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PARIJAT+HOSPITAL/data=!4m7!3m6!1s0x3bd6a3f603f65f71:0x1b8f031d3ab6d7bc!8m2!3d20.945068!4d77.7703128!16s%2Fg%2F11fkqylmsk!19sChIJcV_2A_aj1jsRvNe2Oh0Djxs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PARIJAT+HOSPITAL/data=!4m7!3m6!1s0x3bd6a3f603f65f71:0x1b8f031d3ab6d7bc!8m2!3d20.945068!4d77.7703128!16s%2Fg%2F11fkqylmsk!19sChIJcV_2A_aj1jsRvNe2Oh0Djxs?authuser=0&hl=en&rclk=1"
@@ -11036,8 +10944,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PARIJAT+HOSPITAL/data=!4m7!3m6!1s0x3bd6a3f603f65f71:0x1b8f031d3ab6d7bc!8m2!3d20.945068!4d77.7703128!16s%2Fg%2F11fkqylmsk!19sChIJcV_2A_aj1jsRvNe2Oh0Djxs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parvani-hospital-amravati",
@@ -11086,7 +10993,7 @@
       "Google rating 3.2",
       "9+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Parvani+Hospital/data=!4m7!3m6!1s0x3bd6a4ae02ae124b:0xa628d48676a200ec!8m2!3d20.9241241!4d77.7515884!16s%2Fg%2F11f347lr80!19sChIJSxKuAq6k1jsR7ACidobUKKY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parvani+Hospital/data=!4m7!3m6!1s0x3bd6a4ae02ae124b:0xa628d48676a200ec!8m2!3d20.9241241!4d77.7515884!16s%2Fg%2F11f347lr80!19sChIJSxKuAq6k1jsR7ACidobUKKY?authuser=0&hl=en&rclk=1"
@@ -11155,8 +11062,7 @@
     "rating": 3.2,
     "reviews": 9,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Parvani+Hospital/data=!4m7!3m6!1s0x3bd6a4ae02ae124b:0xa628d48676a200ec!8m2!3d20.9241241!4d77.7515884!16s%2Fg%2F11f347lr80!19sChIJSxKuAq6k1jsR7ACidobUKKY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parwani-dental-care-amravati",
@@ -11204,7 +11110,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Parwani+Dental+Care/data=!4m7!3m6!1s0x3bd6a500566ca447:0x5a26f32628a6f922!8m2!3d20.9117959!4d77.7556404!16s%2Fg%2F11wj3x_5s0!19sChIJR6RsVgCl1jsRIvmmKCbzJlo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parwani+Dental+Care/data=!4m7!3m6!1s0x3bd6a500566ca447:0x5a26f32628a6f922!8m2!3d20.9117959!4d77.7556404!16s%2Fg%2F11wj3x_5s0!19sChIJR6RsVgCl1jsRIvmmKCbzJlo?authuser=0&hl=en&rclk=1"
@@ -11270,11 +11176,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Parwani+Dental+Care/data=!4m7!3m6!1s0x3bd6a500566ca447:0x5a26f32628a6f922!8m2!3d20.9117959!4d77.7556404!16s%2Fg%2F11wj3x_5s0!19sChIJR6RsVgCl1jsRIvmmKCbzJlo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patankar-hospital-and-icu-amravati",
@@ -11322,7 +11227,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patankar+Hospital+and+ICU/data=!4m7!3m6!1s0x3bd6a4a7a20688af:0x9b7e099c79c5e27f!8m2!3d20.9348394!4d77.7591742!16s%2Fg%2F11c1qrw75x!19sChIJr4gGoqek1jsRf-LFeZwJfps?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patankar+Hospital+and+ICU/data=!4m7!3m6!1s0x3bd6a4a7a20688af:0x9b7e099c79c5e27f!8m2!3d20.9348394!4d77.7591742!16s%2Fg%2F11c1qrw75x!19sChIJr4gGoqek1jsRf-LFeZwJfps?authuser=0&hl=en&rclk=1"
@@ -11391,8 +11296,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patankar+Hospital+and+ICU/data=!4m7!3m6!1s0x3bd6a4a7a20688af:0x9b7e099c79c5e27f!8m2!3d20.9348394!4d77.7591742!16s%2Fg%2F11c1qrw75x!19sChIJr4gGoqek1jsRf-LFeZwJfps?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patel-hospital-amravati",
@@ -11438,7 +11342,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patel+Hospital/data=!4m7!3m6!1s0x3bd6bd51d55077d1:0xad7f95728a3bcbc!8m2!3d20.9421139!4d77.743777!16s%2Fg%2F11k8hklzgr!19sChIJ0XdQ1VG91jsRvLyjKFf51wo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patel+Hospital/data=!4m7!3m6!1s0x3bd6bd51d55077d1:0xad7f95728a3bcbc!8m2!3d20.9421139!4d77.743777!16s%2Fg%2F11k8hklzgr!19sChIJ0XdQ1VG91jsRvLyjKFf51wo?authuser=0&hl=en&rclk=1"
@@ -11504,11 +11408,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patel+Hospital/data=!4m7!3m6!1s0x3bd6bd51d55077d1:0xad7f95728a3bcbc!8m2!3d20.9421139!4d77.743777!16s%2Fg%2F11k8hklzgr!19sChIJ0XdQ1VG91jsRvLyjKFf51wo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patil-ent-and-rhinoplasty-speciality-hospital-amravati",
@@ -11558,7 +11461,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patil+ENT+%26+Rhinoplasty+speciality+Hospital/data=!4m7!3m6!1s0x3bd6a4b0de097119:0x13dc8aaa66aeb99b!8m2!3d20.9198249!4d77.7541249!16s%2Fg%2F1260vxc33!19sChIJGXEJ3rCk1jsRm7muZqqK3BM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patil+ENT+%26+Rhinoplasty+speciality+Hospital/data=!4m7!3m6!1s0x3bd6a4b0de097119:0x13dc8aaa66aeb99b!8m2!3d20.9198249!4d77.7541249!16s%2Fg%2F1260vxc33!19sChIJGXEJ3rCk1jsRm7muZqqK3BM?authuser=0&hl=en&rclk=1"
@@ -11627,8 +11530,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patil+ENT+%26+Rhinoplasty+speciality+Hospital/data=!4m7!3m6!1s0x3bd6a4b0de097119:0x13dc8aaa66aeb99b!8m2!3d20.9198249!4d77.7541249!16s%2Fg%2F1260vxc33!19sChIJGXEJ3rCk1jsRm7muZqqK3BM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pearlz-32-dental-clinic-amravati",
@@ -11678,7 +11580,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pearlz-32+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5307ef97051:0x63fef24f0a622d23!8m2!3d20.9094103!4d77.7662329!16s%2Fg%2F11nfbtnxvc!19sChIJUXD5fjCl1jsRIy1iCk_y_mM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pearlz-32+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5307ef97051:0x63fef24f0a622d23!8m2!3d20.9094103!4d77.7662329!16s%2Fg%2F11nfbtnxvc!19sChIJUXD5fjCl1jsRIy1iCk_y_mM?authuser=0&hl=en&rclk=1"
@@ -11744,11 +11646,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pearlz-32+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5307ef97051:0x63fef24f0a622d23!8m2!3d20.9094103!4d77.7662329!16s%2Fg%2F11nfbtnxvc!19sChIJUXD5fjCl1jsRIy1iCk_y_mM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "progenesis-fertility-center-best-ivf-center-in-amravati-amravati",
@@ -11798,7 +11699,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Amravati/data=!4m7!3m6!1s0x3bd6a52222b7fb23:0xcde6a394cc3b9185!8m2!3d20.9157935!4d77.7531131!16s%2Fg%2F11x2045nk0!19sChIJI_u3IiKl1jsRhZE7zJSj5s0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Amravati/data=!4m7!3m6!1s0x3bd6a52222b7fb23:0xcde6a394cc3b9185!8m2!3d20.9157935!4d77.7531131!16s%2Fg%2F11x2045nk0!19sChIJI_u3IiKl1jsRhZE7zJSj5s0?authuser=0&hl=en&rclk=1"
@@ -11864,11 +11765,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Amravati/data=!4m7!3m6!1s0x3bd6a52222b7fb23:0xcde6a394cc3b9185!8m2!3d20.9157935!4d77.7531131!16s%2Fg%2F11x2045nk0!19sChIJI_u3IiKl1jsRhZE7zJSj5s0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "proton-critical-care-centre-amravati",
@@ -11916,7 +11816,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PROTON+CRITICAL+CARE+CENTRE/data=!4m7!3m6!1s0x3bd6a50002a16a1f:0xea90f6e4b0b0c057!8m2!3d20.9198617!4d77.7619553!16s%2Fg%2F11vycb89jn!19sChIJH2qhAgCl1jsRV8CwsOT2kOo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PROTON+CRITICAL+CARE+CENTRE/data=!4m7!3m6!1s0x3bd6a50002a16a1f:0xea90f6e4b0b0c057!8m2!3d20.9198617!4d77.7619553!16s%2Fg%2F11vycb89jn!19sChIJH2qhAgCl1jsRV8CwsOT2kOo?authuser=0&hl=en&rclk=1"
@@ -11985,8 +11885,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PROTON+CRITICAL+CARE+CENTRE/data=!4m7!3m6!1s0x3bd6a50002a16a1f:0xea90f6e4b0b0c057!8m2!3d20.9198617!4d77.7619553!16s%2Fg%2F11vycb89jn!19sChIJH2qhAgCl1jsRV8CwsOT2kOo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prudent-dental-care-and-implant-centre-amravati",
@@ -12035,7 +11934,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prudent+Dental+Care+And+Implant+Centre/data=!4m7!3m6!1s0x3bd6a573ff106521:0x3d7ec7116ec48fc2!8m2!3d20.9445362!4d77.7680826!16s%2Fg%2F11h3zrym9r!19sChIJIWUQ_3Ol1jsRwo_EbhHHfj0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prudent+Dental+Care+And+Implant+Centre/data=!4m7!3m6!1s0x3bd6a573ff106521:0x3d7ec7116ec48fc2!8m2!3d20.9445362!4d77.7680826!16s%2Fg%2F11h3zrym9r!19sChIJIWUQ_3Ol1jsRwo_EbhHHfj0?authuser=0&hl=en&rclk=1"
@@ -12101,11 +12000,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prudent+Dental+Care+And+Implant+Centre/data=!4m7!3m6!1s0x3bd6a573ff106521:0x3d7ec7116ec48fc2!8m2!3d20.9445362!4d77.7680826!16s%2Fg%2F11h3zrym9r!19sChIJIWUQ_3Ol1jsRwo_EbhHHfj0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pundkar-ent-n-dental-clinic-amravati",
@@ -12154,7 +12052,7 @@
       "Google rating 4.3",
       "17+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pundkar+ENT+n+Dental+clinic/data=!4m7!3m6!1s0x3bd6a3437fd4f861:0x9a9e960850f75a59!8m2!3d20.9512407!4d77.7623527!16s%2Fg%2F11hd5b2fhr!19sChIJYfjUf0Oj1jsRWVr3UAiWnpo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pundkar+ENT+n+Dental+clinic/data=!4m7!3m6!1s0x3bd6a3437fd4f861:0x9a9e960850f75a59!8m2!3d20.9512407!4d77.7623527!16s%2Fg%2F11hd5b2fhr!19sChIJYfjUf0Oj1jsRWVr3UAiWnpo?authuser=0&hl=en&rclk=1"
@@ -12223,8 +12121,7 @@
     "rating": 4.3,
     "reviews": 17,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pundkar+ENT+n+Dental+clinic/data=!4m7!3m6!1s0x3bd6a3437fd4f861:0x9a9e960850f75a59!8m2!3d20.9512407!4d77.7623527!16s%2Fg%2F11hd5b2fhr!19sChIJYfjUf0Oj1jsRWVr3UAiWnpo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "quality-dental-care-amravati",
@@ -12273,7 +12170,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Quality+dental+care/data=!4m7!3m6!1s0x3bd6bb2ddd8443e5:0xdc9ac718f8ebe549!8m2!3d20.8966205!4d77.7438798!16s%2Fg%2F11swlfd6cw!19sChIJ5UOE3S271jsRSeXr-BjHmtw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Quality+dental+care/data=!4m7!3m6!1s0x3bd6bb2ddd8443e5:0xdc9ac718f8ebe549!8m2!3d20.8966205!4d77.7438798!16s%2Fg%2F11swlfd6cw!19sChIJ5UOE3S271jsRSeXr-BjHmtw?authuser=0&hl=en&rclk=1"
@@ -12339,11 +12236,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Quality+dental+care/data=!4m7!3m6!1s0x3bd6bb2ddd8443e5:0xdc9ac718f8ebe549!8m2!3d20.8966205!4d77.7438798!16s%2Fg%2F11swlfd6cw!19sChIJ5UOE3S271jsRSeXr-BjHmtw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rajusai-multispecility-dental-clinic-and-implant-center-amravati",
@@ -12392,7 +12288,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rajusai+Multispecility+Dental+Clinic+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a5f7e8749141:0x92d20d3634393651!8m2!3d20.9091171!4d77.7674418!16s%2Fg%2F11rmv4blrx!19sChIJQZF06Pel1jsRUTY5NDYN0pI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajusai+Multispecility+Dental+Clinic+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a5f7e8749141:0x92d20d3634393651!8m2!3d20.9091171!4d77.7674418!16s%2Fg%2F11rmv4blrx!19sChIJQZF06Pel1jsRUTY5NDYN0pI?authuser=0&hl=en&rclk=1"
@@ -12458,11 +12354,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rajusai+Multispecility+Dental+Clinic+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a5f7e8749141:0x92d20d3634393651!8m2!3d20.9091171!4d77.7674418!16s%2Fg%2F11rmv4blrx!19sChIJQZF06Pel1jsRUTY5NDYN0pI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ratanshree-hospital-opp-meghe-complex",
@@ -12510,7 +12405,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ratanshree+Hospital/data=!4m7!3m6!1s0x3bd6a33678f473c9:0x8da661e318e3783a!8m2!3d20.9613094!4d77.7514565!16s%2Fg%2F1264h05c6!19sChIJyXP0eDaj1jsROnjjGONhpo0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ratanshree+Hospital/data=!4m7!3m6!1s0x3bd6a33678f473c9:0x8da661e318e3783a!8m2!3d20.9613094!4d77.7514565!16s%2Fg%2F1264h05c6!19sChIJyXP0eDaj1jsROnjjGONhpo0?authuser=0&hl=en&rclk=1"
@@ -12579,8 +12474,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ratanshree+Hospital/data=!4m7!3m6!1s0x3bd6a33678f473c9:0x8da661e318e3783a!8m2!3d20.9613094!4d77.7514565!16s%2Fg%2F1264h05c6!19sChIJyXP0eDaj1jsROnjjGONhpo0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rathi-dental-clinic-amravati",
@@ -12629,7 +12523,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rathi+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a4c97da4c11f:0x49f3b55ff46b323c!8m2!3d20.9086691!4d77.7516009!16s%2Fg%2F11c2052xh5!19sChIJH8Gkfcmk1jsRPDJr9F-180k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rathi+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a4c97da4c11f:0x49f3b55ff46b323c!8m2!3d20.9086691!4d77.7516009!16s%2Fg%2F11c2052xh5!19sChIJH8Gkfcmk1jsRPDJr9F-180k?authuser=0&hl=en&rclk=1"
@@ -12698,8 +12592,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rathi+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a4c97da4c11f:0x49f3b55ff46b323c!8m2!3d20.9086691!4d77.7516009!16s%2Fg%2F11c2052xh5!19sChIJH8Gkfcmk1jsRPDJr9F-180k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rathi-hospital-amravati",
@@ -12747,7 +12640,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rathi+Hospital/data=!4m7!3m6!1s0x3bd6a36746d18f0d:0x1691918662a6cef!8m2!3d20.9440325!4d77.7693211!16s%2Fg%2F11c6sll086!19sChIJDY_RRmej1jsR72wqZhgZaQE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rathi+Hospital/data=!4m7!3m6!1s0x3bd6a36746d18f0d:0x1691918662a6cef!8m2!3d20.9440325!4d77.7693211!16s%2Fg%2F11c6sll086!19sChIJDY_RRmej1jsR72wqZhgZaQE?authuser=0&hl=en&rclk=1"
@@ -12816,8 +12709,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rathi+Hospital/data=!4m7!3m6!1s0x3bd6a36746d18f0d:0x1691918662a6cef!8m2!3d20.9440325!4d77.7693211!16s%2Fg%2F11c6sll086!19sChIJDY_RRmej1jsR72wqZhgZaQE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "relief-dental-clinic-amravati",
@@ -12865,7 +12757,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RELIEF+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bd6a49b5ed36441:0x46e0d74730aeaf93!8m2!3d20.9317956!4d77.7776991!16s%2Fg%2F11ck08ljxc!19sChIJQWTTXpuk1jsRk6-uMEfX4EY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RELIEF+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bd6a49b5ed36441:0x46e0d74730aeaf93!8m2!3d20.9317956!4d77.7776991!16s%2Fg%2F11ck08ljxc!19sChIJQWTTXpuk1jsRk6-uMEfX4EY?authuser=0&hl=en&rclk=1"
@@ -12934,8 +12826,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RELIEF+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bd6a49b5ed36441:0x46e0d74730aeaf93!8m2!3d20.9317956!4d77.7776991!16s%2Fg%2F11ck08ljxc!19sChIJQWTTXpuk1jsRk6-uMEfX4EY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rims-hospital-amravati",
@@ -12984,7 +12875,7 @@
       "Google rating 3.4",
       "32+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RIMS+Hospital/data=!4m7!3m6!1s0x3bd6a5a54f4424a1:0x3a0f51f65951108!8m2!3d20.9155475!4d77.752639!16s%2Fg%2F11n5ht5bnt!19sChIJoSRET6Wl1jsRCBGVZR_1oAM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RIMS+Hospital/data=!4m7!3m6!1s0x3bd6a5a54f4424a1:0x3a0f51f65951108!8m2!3d20.9155475!4d77.752639!16s%2Fg%2F11n5ht5bnt!19sChIJoSRET6Wl1jsRCBGVZR_1oAM?authuser=0&hl=en&rclk=1"
@@ -13053,8 +12944,7 @@
     "rating": 3.4,
     "reviews": 32,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RIMS+Hospital/data=!4m7!3m6!1s0x3bd6a5a54f4424a1:0x3a0f51f65951108!8m2!3d20.9155475!4d77.752639!16s%2Fg%2F11n5ht5bnt!19sChIJoSRET6Wl1jsRCBGVZR_1oAM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rode-hospital-and-pathology-laboratory-ramnagar-besides-prashant-nagar-garden",
@@ -13102,7 +12992,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rode+Hospital+and+Pathology+Laboratory/data=!4m7!3m6!1s0x3bd6a4bd9aa549e1:0x502926fd0d92a7e8!8m2!3d20.9216091!4d77.7673788!16s%2Fg%2F1vd93j_g!19sChIJ4Umlmr2k1jsR6KeSDf0mKVA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rode+Hospital+and+Pathology+Laboratory/data=!4m7!3m6!1s0x3bd6a4bd9aa549e1:0x502926fd0d92a7e8!8m2!3d20.9216091!4d77.7673788!16s%2Fg%2F1vd93j_g!19sChIJ4Umlmr2k1jsR6KeSDf0mKVA?authuser=0&hl=en&rclk=1"
@@ -13168,11 +13058,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rode+Hospital+and+Pathology+Laboratory/data=!4m7!3m6!1s0x3bd6a4bd9aa549e1:0x502926fd0d92a7e8!8m2!3d20.9216091!4d77.7673788!16s%2Fg%2F1vd93j_g!19sChIJ4Umlmr2k1jsR6KeSDf0mKVA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "root-rise-hair-transplant-and-cosmetic-centre-amravati",
@@ -13221,7 +13110,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Root+Rise+Hair+Transplant+and+cosmetic+centre/data=!4m7!3m6!1s0x3bd6a51f6e4313c1:0xb1320d081308c1b!8m2!3d20.9366623!4d77.7713493!16s%2Fg%2F11yg8g06tn!19sChIJwRNDbh-l1jsRG4wwgdAgEws?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Root+Rise+Hair+Transplant+and+cosmetic+centre/data=!4m7!3m6!1s0x3bd6a51f6e4313c1:0xb1320d081308c1b!8m2!3d20.9366623!4d77.7713493!16s%2Fg%2F11yg8g06tn!19sChIJwRNDbh-l1jsRG4wwgdAgEws?authuser=0&hl=en&rclk=1"
@@ -13287,11 +13176,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Root+Rise+Hair+Transplant+and+cosmetic+centre/data=!4m7!3m6!1s0x3bd6a51f6e4313c1:0xb1320d081308c1b!8m2!3d20.9366623!4d77.7713493!16s%2Fg%2F11yg8g06tn!19sChIJwRNDbh-l1jsRG4wwgdAgEws?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "roots-and-braces-amravati",
@@ -13339,7 +13227,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Roots+%26+Braces/@20.897944,77.7479201,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd6a57c344236bb:0xfbc031a5cac48cee!8m2!3d20.897944!4d77.7479201!16s%2Fg%2F11sv36yy8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Roots+%26+Braces/@20.897944,77.7479201,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd6a57c344236bb:0xfbc031a5cac48cee!8m2!3d20.897944!4d77.7479201!16s%2Fg%2F11sv36yy8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -13405,11 +13293,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Roots+%26+Braces/@20.897944,77.7479201,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd6a57c344236bb:0xfbc031a5cac48cee!8m2!3d20.897944!4d77.7479201!16s%2Fg%2F11sv36yy8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saai-vedanta-hospital-amravati",
@@ -13458,7 +13345,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saai+Vedanta+Hospital/data=!4m7!3m6!1s0x3bd6a561b29aa01d:0x999b8a2ac6e4e0a0!8m2!3d20.9308529!4d77.7616328!16s%2Fg%2F11mdlgp8m9!19sChIJHaCasmGl1jsRoODkxiqKm5k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saai+Vedanta+Hospital/data=!4m7!3m6!1s0x3bd6a561b29aa01d:0x999b8a2ac6e4e0a0!8m2!3d20.9308529!4d77.7616328!16s%2Fg%2F11mdlgp8m9!19sChIJHaCasmGl1jsRoODkxiqKm5k?authuser=0&hl=en&rclk=1"
@@ -13527,8 +13414,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saai+Vedanta+Hospital/data=!4m7!3m6!1s0x3bd6a561b29aa01d:0x999b8a2ac6e4e0a0!8m2!3d20.9308529!4d77.7616328!16s%2Fg%2F11mdlgp8m9!19sChIJHaCasmGl1jsRoODkxiqKm5k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saisharan-asha-hospital-amravati",
@@ -13576,7 +13462,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAISHARAN+ASHA+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4eaf3772627:0x6f69935b1819a05c!8m2!3d20.9114289!4d77.7697411!16s%2Fg%2F11c1v166zx!19sChIJJyZ38-qk1jsRXKAZGFuTaW8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAISHARAN+ASHA+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4eaf3772627:0x6f69935b1819a05c!8m2!3d20.9114289!4d77.7697411!16s%2Fg%2F11c1v166zx!19sChIJJyZ38-qk1jsRXKAZGFuTaW8?authuser=0&hl=en&rclk=1"
@@ -13645,8 +13531,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAISHARAN+ASHA+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4eaf3772627:0x6f69935b1819a05c!8m2!3d20.9114289!4d77.7697411!16s%2Fg%2F11c1v166zx!19sChIJJyZ38-qk1jsRXKAZGFuTaW8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevni-dental-wellness-amravati",
@@ -13694,7 +13579,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevni+Dental+Wellness/data=!4m7!3m6!1s0x3bd6a55c1737c975:0x59a88665fd0e08fb!8m2!3d20.9104687!4d77.7684191!16s%2Fg%2F11v0n3kdd8!19sChIJdck3F1yl1jsR-wgO_WWGqFk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevni+Dental+Wellness/data=!4m7!3m6!1s0x3bd6a55c1737c975:0x59a88665fd0e08fb!8m2!3d20.9104687!4d77.7684191!16s%2Fg%2F11v0n3kdd8!19sChIJdck3F1yl1jsR-wgO_WWGqFk?authuser=0&hl=en&rclk=1"
@@ -13760,11 +13645,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevni+Dental+Wellness/data=!4m7!3m6!1s0x3bd6a55c1737c975:0x59a88665fd0e08fb!8m2!3d20.9104687!4d77.7684191!16s%2Fg%2F11v0n3kdd8!19sChIJdck3F1yl1jsR-wgO_WWGqFk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sankalp-chaudhari-maternity-hospital-and-dialysis-center-amravati",
@@ -13812,7 +13696,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sankalp+Chaudhari+Maternity+Hospital+And+Dialysis+Center/data=!4m7!3m6!1s0x3bd6a4a6adc29075:0xee9de03f165759e!8m2!3d20.931358!4d77.762069!16s%2Fg%2F11r48py152!19sChIJdZDCraak1jsRnnVl8QPe6Q4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sankalp+Chaudhari+Maternity+Hospital+And+Dialysis+Center/data=!4m7!3m6!1s0x3bd6a4a6adc29075:0xee9de03f165759e!8m2!3d20.931358!4d77.762069!16s%2Fg%2F11r48py152!19sChIJdZDCraak1jsRnnVl8QPe6Q4?authuser=0&hl=en&rclk=1"
@@ -13878,11 +13762,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sankalp+Chaudhari+Maternity+Hospital+And+Dialysis+Center/data=!4m7!3m6!1s0x3bd6a4a6adc29075:0xee9de03f165759e!8m2!3d20.931358!4d77.762069!16s%2Fg%2F11r48py152!19sChIJdZDCraak1jsRnnVl8QPe6Q4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saras-prega-world-prenatal-health-care-and-garbhasanskar-foetal-programming-centre-amravati-amravati",
@@ -13932,7 +13815,7 @@
       "Google rating 5.0",
       "382+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saras+Prega+World+,Prenatal+Health+care+%26+Garbhasanskar%28foetal+programming+%29centre,Amravati/data=!4m7!3m6!1s0x3bd6a4d54f94fcbb:0xda4a4aaafbe7544!8m2!3d20.9236142!4d77.7532387!16s%2Fg%2F11ggg6wpbh!19sChIJu_yUT9Wk1jsRRHW-r6qkpA0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saras+Prega+World+,Prenatal+Health+care+%26+Garbhasanskar%28foetal+programming+%29centre,Amravati/data=!4m7!3m6!1s0x3bd6a4d54f94fcbb:0xda4a4aaafbe7544!8m2!3d20.9236142!4d77.7532387!16s%2Fg%2F11ggg6wpbh!19sChIJu_yUT9Wk1jsRRHW-r6qkpA0?authuser=0&hl=en&rclk=1"
@@ -13998,11 +13881,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 382,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saras+Prega+World+,Prenatal+Health+care+%26+Garbhasanskar%28foetal+programming+%29centre,Amravati/data=!4m7!3m6!1s0x3bd6a4d54f94fcbb:0xda4a4aaafbe7544!8m2!3d20.9236142!4d77.7532387!16s%2Fg%2F11ggg6wpbh!19sChIJu_yUT9Wk1jsRRHW-r6qkpA0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarda-hospital-amravati",
@@ -14050,7 +13932,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarda+Hospital/data=!4m7!3m6!1s0x3bd6a4b1c374179b:0x30375e79828e8f16!8m2!3d20.9233294!4d77.7526457!16s%2Fg%2F11f0_gl0ww!19sChIJmxd0w7Gk1jsRFo-OgnleNzA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarda+Hospital/data=!4m7!3m6!1s0x3bd6a4b1c374179b:0x30375e79828e8f16!8m2!3d20.9233294!4d77.7526457!16s%2Fg%2F11f0_gl0ww!19sChIJmxd0w7Gk1jsRFo-OgnleNzA?authuser=0&hl=en&rclk=1"
@@ -14119,8 +14001,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarda+Hospital/data=!4m7!3m6!1s0x3bd6a4b1c374179b:0x30375e79828e8f16!8m2!3d20.9233294!4d77.7526457!16s%2Fg%2F11f0_gl0ww!19sChIJmxd0w7Gk1jsRFo-OgnleNzA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sawai-maternity-and-children-hospital-amravati",
@@ -14171,7 +14052,7 @@
       "Google rating 4.6",
       "9+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sawai+Maternity+%26+Children+Hospital/data=!4m7!3m6!1s0x3bd6a4bd05a5fc1b:0xbe794180d78887cf!8m2!3d20.9238744!4d77.7665479!16s%2Fg%2F1pyqhc9hp!19sChIJG_ylBb2k1jsRz4eI14BBeb4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sawai+Maternity+%26+Children+Hospital/data=!4m7!3m6!1s0x3bd6a4bd05a5fc1b:0xbe794180d78887cf!8m2!3d20.9238744!4d77.7665479!16s%2Fg%2F1pyqhc9hp!19sChIJG_ylBb2k1jsRz4eI14BBeb4?authuser=0&hl=en&rclk=1"
@@ -14240,8 +14121,7 @@
     "rating": 4.6,
     "reviews": 9,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sawai+Maternity+%26+Children+Hospital/data=!4m7!3m6!1s0x3bd6a4bd05a5fc1b:0xbe794180d78887cf!8m2!3d20.9238744!4d77.7665479!16s%2Fg%2F1pyqhc9hp!19sChIJG_ylBb2k1jsRz4eI14BBeb4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sawarkar-hospital-amravati",
@@ -14290,7 +14170,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sawarkar+Hospital/data=!4m7!3m6!1s0x3bd6a49a1afea89b:0x8fc8f6af5bb15d4d!8m2!3d20.9265283!4d77.7703811!16s%2Fg%2F11b86wngvd!19sChIJm6j-Gpqk1jsRTV2xW6_2yI8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sawarkar+Hospital/data=!4m7!3m6!1s0x3bd6a49a1afea89b:0x8fc8f6af5bb15d4d!8m2!3d20.9265283!4d77.7703811!16s%2Fg%2F11b86wngvd!19sChIJm6j-Gpqk1jsRTV2xW6_2yI8?authuser=0&hl=en&rclk=1"
@@ -14359,8 +14239,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sawarkar+Hospital/data=!4m7!3m6!1s0x3bd6a49a1afea89b:0x8fc8f6af5bb15d4d!8m2!3d20.9265283!4d77.7703811!16s%2Fg%2F11b86wngvd!19sChIJm6j-Gpqk1jsRTV2xW6_2yI8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-children-and-maternity-hospital-amravati",
@@ -14409,7 +14288,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharma+Children+And+Maternity+Hospital/data=!4m7!3m6!1s0x3bd6a4b650847bd3:0x891ed262324bcbbe!8m2!3d20.9146353!4d77.7533273!16s%2Fg%2F1pyqwktk3!19sChIJ03uEULak1jsRvstLMmLSHok?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Children+And+Maternity+Hospital/data=!4m7!3m6!1s0x3bd6a4b650847bd3:0x891ed262324bcbbe!8m2!3d20.9146353!4d77.7533273!16s%2Fg%2F1pyqwktk3!19sChIJ03uEULak1jsRvstLMmLSHok?authuser=0&hl=en&rclk=1"
@@ -14478,8 +14357,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharma+Children+And+Maternity+Hospital/data=!4m7!3m6!1s0x3bd6a4b650847bd3:0x891ed262324bcbbe!8m2!3d20.9146353!4d77.7533273!16s%2Fg%2F1pyqwktk3!19sChIJ03uEULak1jsRvstLMmLSHok?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shashwat-piles-care-and-surgical-center-laser-piles-surgery-centre-amravati-amravati",
@@ -14527,7 +14405,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shashwat+Piles+Care+And+Surgical+Center+.+Laser+Piles+Surgery+Centre,Amravati/data=!4m7!3m6!1s0x3bd6a5518fe7fef9:0x10c435504ca12f42!8m2!3d20.9275339!4d77.7657226!16s%2Fg%2F11hzkf4b5_!19sChIJ-f7nj1Gl1jsRQi-hTFA1xBA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shashwat+Piles+Care+And+Surgical+Center+.+Laser+Piles+Surgery+Centre,Amravati/data=!4m7!3m6!1s0x3bd6a5518fe7fef9:0x10c435504ca12f42!8m2!3d20.9275339!4d77.7657226!16s%2Fg%2F11hzkf4b5_!19sChIJ-f7nj1Gl1jsRQi-hTFA1xBA?authuser=0&hl=en&rclk=1"
@@ -14596,8 +14474,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shashwat+Piles+Care+And+Surgical+Center+.+Laser+Piles+Surgery+Centre,Amravati/data=!4m7!3m6!1s0x3bd6a5518fe7fef9:0x10c435504ca12f42!8m2!3d20.9275339!4d77.7657226!16s%2Fg%2F11hzkf4b5_!19sChIJ-f7nj1Gl1jsRQi-hTFA1xBA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivlahri-hospital-amravati",
@@ -14645,7 +14522,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivlahri+Hospital/data=!4m7!3m6!1s0x3bd6a4a904c2dcf3:0xaea86e36da868c5b!8m2!3d20.9325409!4d77.7533565!16s%2Fg%2F11cryd2lqv!19sChIJ89zCBKmk1jsRW4yG2jZuqK4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivlahri+Hospital/data=!4m7!3m6!1s0x3bd6a4a904c2dcf3:0xaea86e36da868c5b!8m2!3d20.9325409!4d77.7533565!16s%2Fg%2F11cryd2lqv!19sChIJ89zCBKmk1jsRW4yG2jZuqK4?authuser=0&hl=en&rclk=1"
@@ -14711,11 +14588,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivlahri+Hospital/data=!4m7!3m6!1s0x3bd6a4a904c2dcf3:0xaea86e36da868c5b!8m2!3d20.9325409!4d77.7533565!16s%2Fg%2F11cryd2lqv!19sChIJ89zCBKmk1jsRW4yG2jZuqK4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shraddha-s-dental-clinic-amravati",
@@ -14763,7 +14639,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shraddha%27s+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a31449a420f5:0x875995a2e44ad848!8m2!3d20.9510197!4d77.7623396!16s%2Fg%2F11q1vspvv1!19sChIJ9SCkSRSj1jsRSNhK5KKVWYc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddha%27s+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a31449a420f5:0x875995a2e44ad848!8m2!3d20.9510197!4d77.7623396!16s%2Fg%2F11q1vspvv1!19sChIJ9SCkSRSj1jsRSNhK5KKVWYc?authuser=0&hl=en&rclk=1"
@@ -14832,8 +14708,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shraddha%27s+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a31449a420f5:0x875995a2e44ad848!8m2!3d20.9510197!4d77.7623396!16s%2Fg%2F11q1vspvv1!19sChIJ9SCkSRSj1jsRSNhK5KKVWYc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-hari-kidney-care-and-dialysis-center-amravati",
@@ -14882,7 +14757,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Hari+Kidney+care+and+dialysis+center/data=!4m7!3m6!1s0x3bd6a52217a951eb:0xc9e87f78831282ac!8m2!3d20.9275339!4d77.7657226!16s%2Fg%2F11qng9b_tr!19sChIJ61GpFyKl1jsRrIISg3h_6Mk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Hari+Kidney+care+and+dialysis+center/data=!4m7!3m6!1s0x3bd6a52217a951eb:0xc9e87f78831282ac!8m2!3d20.9275339!4d77.7657226!16s%2Fg%2F11qng9b_tr!19sChIJ61GpFyKl1jsRrIISg3h_6Mk?authuser=0&hl=en&rclk=1"
@@ -14951,8 +14826,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Hari+Kidney+care+and+dialysis+center/data=!4m7!3m6!1s0x3bd6a52217a951eb:0xc9e87f78831282ac!8m2!3d20.9275339!4d77.7657226!16s%2Fg%2F11qng9b_tr!19sChIJ61GpFyKl1jsRrIISg3h_6Mk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-manmukund-hospital-radient-hospital-road",
@@ -15001,7 +14875,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Manmukund+Hospital/data=!4m7!3m6!1s0x3bd6a4ba8f3b5637:0x9babd68d48986015!8m2!3d20.9222743!4d77.7617005!16s%2Fg%2F11g8ty4w19!19sChIJN1Y7j7qk1jsRFWCYSI3Wq5s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Manmukund+Hospital/data=!4m7!3m6!1s0x3bd6a4ba8f3b5637:0x9babd68d48986015!8m2!3d20.9222743!4d77.7617005!16s%2Fg%2F11g8ty4w19!19sChIJN1Y7j7qk1jsRFWCYSI3Wq5s?authuser=0&hl=en&rclk=1"
@@ -15070,8 +14944,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Manmukund+Hospital/data=!4m7!3m6!1s0x3bd6a4ba8f3b5637:0x9babd68d48986015!8m2!3d20.9222743!4d77.7617005!16s%2Fg%2F11g8ty4w19!19sChIJN1Y7j7qk1jsRFWCYSI3Wq5s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-manmukund-hospital-amravati",
@@ -15119,7 +14992,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Manmukund+Hospital/data=!4m7!3m6!1s0x3bd6a4ba8600b775:0x5bda44ff16df037e!8m2!3d20.9223103!4d77.761709!16s%2Fg%2F11c32fvtdg!19sChIJdbcAhrqk1jsRfgPfFv9E2ls?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Manmukund+Hospital/data=!4m7!3m6!1s0x3bd6a4ba8600b775:0x5bda44ff16df037e!8m2!3d20.9223103!4d77.761709!16s%2Fg%2F11c32fvtdg!19sChIJdbcAhrqk1jsRfgPfFv9E2ls?authuser=0&hl=en&rclk=1"
@@ -15188,8 +15061,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Manmukund+Hospital/data=!4m7!3m6!1s0x3bd6a4ba8600b775:0x5bda44ff16df037e!8m2!3d20.9223103!4d77.761709!16s%2Fg%2F11c32fvtdg!19sChIJdbcAhrqk1jsRfgPfFv9E2ls?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-samarth-hospital-and-surgical-centre-amravati-amravati",
@@ -15237,7 +15109,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Samarth+Hospital+%26+Surgical+Centre,+Amravati/data=!4m7!3m6!1s0x3bd6a5003ce2f989:0x6cf66a92585b45bb!8m2!3d20.9218979!4d77.7574628!16s%2Fg%2F11xnykpy6z!19sChIJifniPACl1jsRu0VbWJJq9mw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Samarth+Hospital+%26+Surgical+Centre,+Amravati/data=!4m7!3m6!1s0x3bd6a5003ce2f989:0x6cf66a92585b45bb!8m2!3d20.9218979!4d77.7574628!16s%2Fg%2F11xnykpy6z!19sChIJifniPACl1jsRu0VbWJJq9mw?authuser=0&hl=en&rclk=1"
@@ -15303,11 +15175,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Samarth+Hospital+%26+Surgical+Centre,+Amravati/data=!4m7!3m6!1s0x3bd6a5003ce2f989:0x6cf66a92585b45bb!8m2!3d20.9218979!4d77.7574628!16s%2Fg%2F11xnykpy6z!19sChIJifniPACl1jsRu0VbWJJq9mw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-sant-achyut-maharaj-heart-hospital-amravati",
@@ -15358,7 +15229,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Sant+Achyut+Maharaj+Heart+Hospital/data=!4m7!3m6!1s0x3bd6a155fd7aea6b:0x57c3ad44c598e901!8m2!3d20.948393!4d77.8374441!16s%2Fg%2F11c1n5sngs!19sChIJa-p6_VWh1jsRAemYxUStw1c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Sant+Achyut+Maharaj+Heart+Hospital/data=!4m7!3m6!1s0x3bd6a155fd7aea6b:0x57c3ad44c598e901!8m2!3d20.948393!4d77.8374441!16s%2Fg%2F11c1n5sngs!19sChIJa-p6_VWh1jsRAemYxUStw1c?authuser=0&hl=en&rclk=1"
@@ -15427,8 +15298,7 @@
     "rating": 4.4,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Sant+Achyut+Maharaj+Heart+Hospital/data=!4m7!3m6!1s0x3bd6a155fd7aea6b:0x57c3ad44c598e901!8m2!3d20.948393!4d77.8374441!16s%2Fg%2F11c1n5sngs!19sChIJa-p6_VWh1jsRAemYxUStw1c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shrikrushna-hospital-amravati",
@@ -15476,7 +15346,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shrikrushna+Hospital/data=!4m7!3m6!1s0x3bd6a4b14df45f55:0xe2a2a00d9fc53012!8m2!3d20.9183507!4d77.7528322!16s%2Fg%2F11c3_06sq8!19sChIJVV_0TbGk1jsREjDFnw2gouI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shrikrushna+Hospital/data=!4m7!3m6!1s0x3bd6a4b14df45f55:0xe2a2a00d9fc53012!8m2!3d20.9183507!4d77.7528322!16s%2Fg%2F11c3_06sq8!19sChIJVV_0TbGk1jsREjDFnw2gouI?authuser=0&hl=en&rclk=1"
@@ -15545,8 +15415,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shrikrushna+Hospital/data=!4m7!3m6!1s0x3bd6a4b14df45f55:0xe2a2a00d9fc53012!8m2!3d20.9183507!4d77.7528322!16s%2Fg%2F11c3_06sq8!19sChIJVV_0TbGk1jsREjDFnw2gouI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shubham-hi-tech-hospital-best-infertility-and-laparoscopy-centre-in-amravati-amravati",
@@ -15597,7 +15466,7 @@
       "1112+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shubham+Hi-Tech+Hospital+%7C+Best+Infertility+and+Laparoscopy+Centre+in+Amravati/data=!4m7!3m6!1s0x3bd6a4b6d2740995:0xa42a7376ae60551b!8m2!3d20.9182075!4d77.7526648!16s%2Fg%2F11b5ysl9kb!19sChIJlQl00rak1jsRG1VgrnZzKqQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubham+Hi-Tech+Hospital+%7C+Best+Infertility+and+Laparoscopy+Centre+in+Amravati/data=!4m7!3m6!1s0x3bd6a4b6d2740995:0xa42a7376ae60551b!8m2!3d20.9182075!4d77.7526648!16s%2Fg%2F11b5ysl9kb!19sChIJlQl00rak1jsRG1VgrnZzKqQ?authuser=0&hl=en&rclk=1"
@@ -15666,8 +15535,7 @@
     "rating": 4.8,
     "reviews": 1112,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shubham+Hi-Tech+Hospital+%7C+Best+Infertility+and+Laparoscopy+Centre+in+Amravati/data=!4m7!3m6!1s0x3bd6a4b6d2740995:0xa42a7376ae60551b!8m2!3d20.9182075!4d77.7526648!16s%2Fg%2F11b5ysl9kb!19sChIJlQl00rak1jsRG1VgrnZzKqQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sir-yunus-medical-and-clinic-amravati",
@@ -15716,7 +15584,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sir+Yunus+Medical+and+Clinic/data=!4m7!3m6!1s0x3bd6bde8b9c1e5c5:0xc2d7464e38302941!8m2!3d20.9407068!4d77.7378963!16s%2Fg%2F11vcbdlgkw!19sChIJxeXBuei91jsRQSkwOE5G18I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sir+Yunus+Medical+and+Clinic/data=!4m7!3m6!1s0x3bd6bde8b9c1e5c5:0xc2d7464e38302941!8m2!3d20.9407068!4d77.7378963!16s%2Fg%2F11vcbdlgkw!19sChIJxeXBuei91jsRQSkwOE5G18I?authuser=0&hl=en&rclk=1"
@@ -15782,11 +15650,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sir+Yunus+Medical+and+Clinic/data=!4m7!3m6!1s0x3bd6bde8b9c1e5c5:0xc2d7464e38302941!8m2!3d20.9407068!4d77.7378963!16s%2Fg%2F11vcbdlgkw!19sChIJxeXBuei91jsRQSkwOE5G18I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "skin-avenue-skin-and-hair-clinic-amravati-amravati",
@@ -15834,7 +15701,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Skin+Avenue+Skin+%26+Hair+Clinic+Amravati/data=!4m7!3m6!1s0x3bd6a5c3807d682b:0xd4830889e8f91c59!8m2!3d20.9109268!4d77.7651944!16s%2Fg%2F11h6d8zvly!19sChIJK2h9gMOl1jsRWRz56IkIg9Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+Avenue+Skin+%26+Hair+Clinic+Amravati/data=!4m7!3m6!1s0x3bd6a5c3807d682b:0xd4830889e8f91c59!8m2!3d20.9109268!4d77.7651944!16s%2Fg%2F11h6d8zvly!19sChIJK2h9gMOl1jsRWRz56IkIg9Q?authuser=0&hl=en&rclk=1"
@@ -15903,8 +15770,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Skin+Avenue+Skin+%26+Hair+Clinic+Amravati/data=!4m7!3m6!1s0x3bd6a5c3807d682b:0xd4830889e8f91c59!8m2!3d20.9109268!4d77.7651944!16s%2Fg%2F11h6d8zvly!19sChIJK2h9gMOl1jsRWRz56IkIg9Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-square-amravati",
@@ -15952,7 +15818,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Square/data=!4m7!3m6!1s0x3bd6a566475c8ad1:0x620573ab6402306c!8m2!3d20.9342611!4d77.7631493!16s%2Fg%2F11nyc6nft6!19sChIJ0YpcR2al1jsRbDACZKtzBWI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Square/data=!4m7!3m6!1s0x3bd6a566475c8ad1:0x620573ab6402306c!8m2!3d20.9342611!4d77.7631493!16s%2Fg%2F11nyc6nft6!19sChIJ0YpcR2al1jsRbDACZKtzBWI?authuser=0&hl=en&rclk=1"
@@ -16021,8 +15887,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Square/data=!4m7!3m6!1s0x3bd6a566475c8ad1:0x620573ab6402306c!8m2!3d20.9342611!4d77.7631493!16s%2Fg%2F11nyc6nft6!19sChIJ0YpcR2al1jsRbDACZKtzBWI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sujan-surgical-cancer-hospital-amravati",
@@ -16071,7 +15936,7 @@
       "Google rating 2.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sujan+Surgical+Cancer+Hospital/data=!4m7!3m6!1s0x3bd6a482acb24e0d:0xd3e09d67e91cab85!8m2!3d20.9139207!4d77.7573295!16s%2Fg%2F11c61h9d2p!19sChIJDU6yrIKk1jsRhasc6Wed4NM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sujan+Surgical+Cancer+Hospital/data=!4m7!3m6!1s0x3bd6a482acb24e0d:0xd3e09d67e91cab85!8m2!3d20.9139207!4d77.7573295!16s%2Fg%2F11c61h9d2p!19sChIJDU6yrIKk1jsRhasc6Wed4NM?authuser=0&hl=en&rclk=1"
@@ -16140,8 +16005,7 @@
     "rating": 2.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sujan+Surgical+Cancer+Hospital/data=!4m7!3m6!1s0x3bd6a482acb24e0d:0xd3e09d67e91cab85!8m2!3d20.9139207!4d77.7573295!16s%2Fg%2F11c61h9d2p!19sChIJDU6yrIKk1jsRhasc6Wed4NM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunshine-superspeciaality-hospital-branch",
@@ -16189,7 +16053,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sunshine+Superspeciaality+Hospital/data=!4m7!3m6!1s0x3bd6a54af5e07c19:0x9a569f2a386cbe78!8m2!3d20.9137054!4d77.7633786!16s%2Fg%2F11jcbj985s!19sChIJGXzg9Uql1jsReL5sOCqfVpo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunshine+Superspeciaality+Hospital/data=!4m7!3m6!1s0x3bd6a54af5e07c19:0x9a569f2a386cbe78!8m2!3d20.9137054!4d77.7633786!16s%2Fg%2F11jcbj985s!19sChIJGXzg9Uql1jsReL5sOCqfVpo?authuser=0&hl=en&rclk=1"
@@ -16258,8 +16122,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sunshine+Superspeciaality+Hospital/data=!4m7!3m6!1s0x3bd6a54af5e07c19:0x9a569f2a386cbe78!8m2!3d20.9137054!4d77.7633786!16s%2Fg%2F11jcbj985s!19sChIJGXzg9Uql1jsReL5sOCqfVpo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sushrut-dental-care-and-cosmetic-facial-surgery-center-amravati",
@@ -16307,7 +16170,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sushrut+Dental+Care+And+Cosmetic+Facial+Surgery+Center/data=!4m7!3m6!1s0x3bd6a5c5ee4fd0a3:0xa34b9160e94870da!8m2!3d20.9282131!4d77.7626957!16s%2Fg%2F11fky_c091!19sChIJo9BP7sWl1jsR2nBI6WCRS6M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sushrut+Dental+Care+And+Cosmetic+Facial+Surgery+Center/data=!4m7!3m6!1s0x3bd6a5c5ee4fd0a3:0xa34b9160e94870da!8m2!3d20.9282131!4d77.7626957!16s%2Fg%2F11fky_c091!19sChIJo9BP7sWl1jsR2nBI6WCRS6M?authuser=0&hl=en&rclk=1"
@@ -16373,11 +16236,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sushrut+Dental+Care+And+Cosmetic+Facial+Surgery+Center/data=!4m7!3m6!1s0x3bd6a5c5ee4fd0a3:0xa34b9160e94870da!8m2!3d20.9282131!4d77.7626957!16s%2Fg%2F11fky_c091!19sChIJo9BP7sWl1jsR2nBI6WCRS6M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swasthya-siddhi-ayurved-and-panchakarma-clinic-amravati-amravati",
@@ -16427,7 +16289,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SWASTHYA+SIDDHI+AYURVED+%26+PANCHAKARMA+CLINIC+AMRAVATI/data=!4m7!3m6!1s0x3bd6a5e4f7a43d71:0xa75e02db0a951097!8m2!3d20.9108575!4d77.7608684!16s%2Fg%2F11vyxvvyy1!19sChIJcT2k9-Sl1jsRlxCVCtsCXqc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SWASTHYA+SIDDHI+AYURVED+%26+PANCHAKARMA+CLINIC+AMRAVATI/data=!4m7!3m6!1s0x3bd6a5e4f7a43d71:0xa75e02db0a951097!8m2!3d20.9108575!4d77.7608684!16s%2Fg%2F11vyxvvyy1!19sChIJcT2k9-Sl1jsRlxCVCtsCXqc?authuser=0&hl=en&rclk=1"
@@ -16493,11 +16355,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SWASTHYA+SIDDHI+AYURVED+%26+PANCHAKARMA+CLINIC+AMRAVATI/data=!4m7!3m6!1s0x3bd6a5e4f7a43d71:0xa75e02db0a951097!8m2!3d20.9108575!4d77.7608684!16s%2Fg%2F11vyxvvyy1!19sChIJcT2k9-Sl1jsRlxCVCtsCXqc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-face-dental-implant-hospital-dental-implants-fixed-teeth-implantologist-implantology-implant-surgery-amravati",
@@ -16545,7 +16406,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Face+Dental+Implant+hospital-Dental+Implants%2FFixed+teeth%2FImplantologist%2FImplantology%2FImplant+Surgery/data=!4m7!3m6!1s0x3bd6a54641558d35:0x8dca27b79a73b8b3!8m2!3d20.9244033!4d77.7535641!16s%2Fg%2F11tmjcmqgt!19sChIJNY1VQUal1jsRs7hzmrcnyo0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Face+Dental+Implant+hospital-Dental+Implants%2FFixed+teeth%2FImplantologist%2FImplantology%2FImplant+Surgery/data=!4m7!3m6!1s0x3bd6a54641558d35:0x8dca27b79a73b8b3!8m2!3d20.9244033!4d77.7535641!16s%2Fg%2F11tmjcmqgt!19sChIJNY1VQUal1jsRs7hzmrcnyo0?authuser=0&hl=en&rclk=1"
@@ -16614,8 +16475,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Face+Dental+Implant+hospital-Dental+Implants%2FFixed+teeth%2FImplantologist%2FImplantology%2FImplant+Surgery/data=!4m7!3m6!1s0x3bd6a54641558d35:0x8dca27b79a73b8b3!8m2!3d20.9244033!4d77.7535641!16s%2Fg%2F11tmjcmqgt!19sChIJNY1VQUal1jsRs7hzmrcnyo0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tirupati-clinic-and-dialysis-centre-amravati",
@@ -16663,7 +16523,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/TIRUPATI+CLINIC+AND+DIALYSIS+CENTRE/data=!4m7!3m6!1s0x3bd6a50bf49f7e4f:0xf1be9cebf4d25227!8m2!3d20.9249399!4d77.76704!16s%2Fg%2F11gyxj0hmy!19sChIJT36f9Aul1jsRJ1LS9OucvvE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TIRUPATI+CLINIC+AND+DIALYSIS+CENTRE/data=!4m7!3m6!1s0x3bd6a50bf49f7e4f:0xf1be9cebf4d25227!8m2!3d20.9249399!4d77.76704!16s%2Fg%2F11gyxj0hmy!19sChIJT36f9Aul1jsRJ1LS9OucvvE?authuser=0&hl=en&rclk=1"
@@ -16729,11 +16589,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/TIRUPATI+CLINIC+AND+DIALYSIS+CENTRE/data=!4m7!3m6!1s0x3bd6a50bf49f7e4f:0xf1be9cebf4d25227!8m2!3d20.9249399!4d77.76704!16s%2Fg%2F11gyxj0hmy!19sChIJT36f9Aul1jsRJ1LS9OucvvE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "trident-dental-hub-and-implant-center-amravati",
@@ -16781,7 +16640,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/TRIDENT+Dental+Hub+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a5e3acca7465:0xf014a7bf7b5ce6ac!8m2!3d20.9337636!4d77.7609764!16s%2Fg%2F11rn78_h0t!19sChIJZXTKrOOl1jsRrOZce7-nFPA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TRIDENT+Dental+Hub+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a5e3acca7465:0xf014a7bf7b5ce6ac!8m2!3d20.9337636!4d77.7609764!16s%2Fg%2F11rn78_h0t!19sChIJZXTKrOOl1jsRrOZce7-nFPA?authuser=0&hl=en&rclk=1"
@@ -16850,8 +16709,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/TRIDENT+Dental+Hub+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a5e3acca7465:0xf014a7bf7b5ce6ac!8m2!3d20.9337636!4d77.7609764!16s%2Fg%2F11rn78_h0t!19sChIJZXTKrOOl1jsRrOZce7-nFPA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "umang-hospital-amravati",
@@ -16899,7 +16757,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/UMANG+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4c027aaaae5:0xed38fc33c25a471e!8m2!3d20.9115429!4d77.7679169!16s%2Fg%2F11dyrcw7sr!19sChIJ5aqqJ8Ck1jsRHkdawjP8OO0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UMANG+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4c027aaaae5:0xed38fc33c25a471e!8m2!3d20.9115429!4d77.7679169!16s%2Fg%2F11dyrcw7sr!19sChIJ5aqqJ8Ck1jsRHkdawjP8OO0?authuser=0&hl=en&rclk=1"
@@ -16968,8 +16826,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/UMANG+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4c027aaaae5:0xed38fc33c25a471e!8m2!3d20.9115429!4d77.7679169!16s%2Fg%2F11dyrcw7sr!19sChIJ5aqqJ8Ck1jsRHkdawjP8OO0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "v-y-w-s-dental-college-and-hospital-amravati",
@@ -17019,7 +16876,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/V.Y.W.S.+Dental+College+%26+Hospital/data=!4m7!3m6!1s0x3bd6a48088171a99:0xe478826c482a49d9!8m2!3d20.9337128!4d77.7928661!16s%2Fg%2F1tf56bc9!19sChIJmRoXiICk1jsR2UkqSGyCeOQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V.Y.W.S.+Dental+College+%26+Hospital/data=!4m7!3m6!1s0x3bd6a48088171a99:0xe478826c482a49d9!8m2!3d20.9337128!4d77.7928661!16s%2Fg%2F1tf56bc9!19sChIJmRoXiICk1jsR2UkqSGyCeOQ?authuser=0&hl=en&rclk=1"
@@ -17085,11 +16942,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/V.Y.W.S.+Dental+College+%26+Hospital/data=!4m7!3m6!1s0x3bd6a48088171a99:0xe478826c482a49d9!8m2!3d20.9337128!4d77.7928661!16s%2Fg%2F1tf56bc9!19sChIJmRoXiICk1jsR2UkqSGyCeOQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "varhade-hospital-amravati",
@@ -17137,7 +16993,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Varhade+hospital/data=!4m7!3m6!1s0x3bd6a30859f445a5:0xfa8eafd5250af7bd!8m2!3d20.9521898!4d77.7650563!16s%2Fg%2F11h6tpk6qc!19sChIJpUX0WQij1jsRvfcKJdWvjvo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varhade+hospital/data=!4m7!3m6!1s0x3bd6a30859f445a5:0xfa8eafd5250af7bd!8m2!3d20.9521898!4d77.7650563!16s%2Fg%2F11h6tpk6qc!19sChIJpUX0WQij1jsRvfcKJdWvjvo?authuser=0&hl=en&rclk=1"
@@ -17206,8 +17062,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Varhade+hospital/data=!4m7!3m6!1s0x3bd6a30859f445a5:0xfa8eafd5250af7bd!8m2!3d20.9521898!4d77.7650563!16s%2Fg%2F11h6tpk6qc!19sChIJpUX0WQij1jsRvfcKJdWvjvo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vatsalya-hospital-and-fertility-centre-amravati",
@@ -17256,7 +17111,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vatsalya+Hospital+and+Fertility+Centre/data=!4m7!3m6!1s0x3bd6a4a366ce027b:0x6e0baddc60220f9f!8m2!3d20.9264625!4d77.7627552!16s%2Fg%2F11f3vkntdc!19sChIJewLOZqOk1jsRnw8iYNytC24?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vatsalya+Hospital+and+Fertility+Centre/data=!4m7!3m6!1s0x3bd6a4a366ce027b:0x6e0baddc60220f9f!8m2!3d20.9264625!4d77.7627552!16s%2Fg%2F11f3vkntdc!19sChIJewLOZqOk1jsRnw8iYNytC24?authuser=0&hl=en&rclk=1"
@@ -17325,8 +17180,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vatsalya+Hospital+and+Fertility+Centre/data=!4m7!3m6!1s0x3bd6a4a366ce027b:0x6e0baddc60220f9f!8m2!3d20.9264625!4d77.7627552!16s%2Fg%2F11f3vkntdc!19sChIJewLOZqOk1jsRnw8iYNytC24?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vimss-hospital-amravati",
@@ -17375,7 +17229,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VIMSS+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4bd681108fb:0x4ce3443de40b60c6!8m2!3d20.9236273!4d77.7672943!16s%2Fg%2F11f_t7g1tb!19sChIJ-wgRaL2k1jsRxmAL5D1E40w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIMSS+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4bd681108fb:0x4ce3443de40b60c6!8m2!3d20.9236273!4d77.7672943!16s%2Fg%2F11f_t7g1tb!19sChIJ-wgRaL2k1jsRxmAL5D1E40w?authuser=0&hl=en&rclk=1"
@@ -17441,11 +17295,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VIMSS+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4bd681108fb:0x4ce3443de40b60c6!8m2!3d20.9236273!4d77.7672943!16s%2Fg%2F11f_t7g1tb!19sChIJ-wgRaL2k1jsRxmAL5D1E40w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wadal-hospital-amravati",
@@ -17494,7 +17347,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Wadal+Hospital/data=!4m7!3m6!1s0x3bd6a30ebfa9b2e9:0x883384115e38053f!8m2!3d20.9620579!4d77.757187!16s%2Fg%2F11n56nz77f!19sChIJ6bKpvw6j1jsRPwU4XhGEM4g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wadal+Hospital/data=!4m7!3m6!1s0x3bd6a30ebfa9b2e9:0x883384115e38053f!8m2!3d20.9620579!4d77.757187!16s%2Fg%2F11n56nz77f!19sChIJ6bKpvw6j1jsRPwU4XhGEM4g?authuser=0&hl=en&rclk=1"
@@ -17560,11 +17413,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Wadal+Hospital/data=!4m7!3m6!1s0x3bd6a30ebfa9b2e9:0x883384115e38053f!8m2!3d20.9620579!4d77.757187!16s%2Fg%2F11n56nz77f!19sChIJ6bKpvw6j1jsRPwU4XhGEM4g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "well-woman-clinic-amravati",
@@ -17613,7 +17465,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Well+Woman+Clinic/data=!4m7!3m6!1s0x3bd6bdc038c6de3b:0xccdc93ec58db76b9!8m2!3d20.9630158!4d77.7335022!16s%2Fg%2F11rk4fvjd8!19sChIJO97GOMC91jsRuXbbWOyT3Mw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Well+Woman+Clinic/data=!4m7!3m6!1s0x3bd6bdc038c6de3b:0xccdc93ec58db76b9!8m2!3d20.9630158!4d77.7335022!16s%2Fg%2F11rk4fvjd8!19sChIJO97GOMC91jsRuXbbWOyT3Mw?authuser=0&hl=en&rclk=1"
@@ -17679,11 +17531,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Well+Woman+Clinic/data=!4m7!3m6!1s0x3bd6bdc038c6de3b:0xccdc93ec58db76b9!8m2!3d20.9630158!4d77.7335022!16s%2Fg%2F11rk4fvjd8!19sChIJO97GOMC91jsRuXbbWOyT3Mw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amravati",
@@ -17732,7 +17583,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE+%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%AE%E0%A5%81%E0%A4%96+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/data=!4m7!3m6!1s0x3bd6a4a0f0c0ae3d:0xd283cfc4d45670da!8m2!3d20.9349636!4d77.7643338!16s%2Fg%2F11c4bcpd25!19sChIJPa7A8KCk1jsR2nBW1MTPg9I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE+%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%AE%E0%A5%81%E0%A4%96+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/data=!4m7!3m6!1s0x3bd6a4a0f0c0ae3d:0xd283cfc4d45670da!8m2!3d20.9349636!4d77.7643338!16s%2Fg%2F11c4bcpd25!19sChIJPa7A8KCk1jsR2nBW1MTPg9I?authuser=0&hl=en&rclk=1"
@@ -17801,8 +17652,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE+%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%AE%E0%A5%81%E0%A4%96+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/data=!4m7!3m6!1s0x3bd6a4a0f0c0ae3d:0xd283cfc4d45670da!8m2!3d20.9349636!4d77.7643338!16s%2Fg%2F11c4bcpd25!19sChIJPa7A8KCk1jsR2nBW1MTPg9I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "eye-transplant-computerized-eye-probe-laser-lasik-best-phaco-surgery-centre-in-amravati-amravati",
@@ -17851,7 +17701,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%A7%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%98%F0%9D%98%86%F0%9D%97%B2+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Eye+Transplant%2FComputerized+Eye+Probe+Laser%2FLasik%2FBest+Phaco+Surgery+Centre+in+Amravati/data=!4m7!3m6!1s0x3bd6a4a67774bc15:0x5adfcd551df3f112!8m2!3d20.9484822!4d77.7641115!16s%2Fg%2F1td7rnj3!19sChIJFbx0d6ak1jsREvHzHVXN31o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%A7%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%98%F0%9D%98%86%F0%9D%97%B2+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Eye+Transplant%2FComputerized+Eye+Probe+Laser%2FLasik%2FBest+Phaco+Surgery+Centre+in+Amravati/data=!4m7!3m6!1s0x3bd6a4a67774bc15:0x5adfcd551df3f112!8m2!3d20.9484822!4d77.7641115!16s%2Fg%2F1td7rnj3!19sChIJFbx0d6ak1jsREvHzHVXN31o?authuser=0&hl=en&rclk=1"
@@ -17920,8 +17770,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%A7%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%98%F0%9D%98%86%F0%9D%97%B2+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Eye+Transplant%2FComputerized+Eye+Probe+Laser%2FLasik%2FBest+Phaco+Surgery+Centre+in+Amravati/data=!4m7!3m6!1s0x3bd6a4a67774bc15:0x5adfcd551df3f112!8m2!3d20.9484822!4d77.7641115!16s%2Fg%2F1td7rnj3!19sChIJFbx0d6ak1jsREvHzHVXN31o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentist-in-amravati-dental-clinic-dental-implant-centre-root-canal-specialist-cosmetic-treatment-amravati",
@@ -17970,7 +17819,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%AE+%F0%9D%97%A6%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%B1%F0%9D%97%B2%F0%9D%98%83+%F0%9D%97%9E%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B6+-Dentist+in+Amravati%2FDental+Clinic%2FDental+Implant+Centre%2FRoot+Canal+Specialist%2FCosmetic+Treatment/data=!4m7!3m6!1s0x3bd6a3c1d41f2eaf:0x2d49c2d59cff1e5a!8m2!3d20.9296306!4d77.7609828!16s%2Fg%2F11svfb1rrr!19sChIJry4f1MGj1jsRWh7_nNXCSS0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%AE+%F0%9D%97%A6%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%B1%F0%9D%97%B2%F0%9D%98%83+%F0%9D%97%9E%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B6+-Dentist+in+Amravati%2FDental+Clinic%2FDental+Implant+Centre%2FRoot+Canal+Specialist%2FCosmetic+Treatment/data=!4m7!3m6!1s0x3bd6a3c1d41f2eaf:0x2d49c2d59cff1e5a!8m2!3d20.9296306!4d77.7609828!16s%2Fg%2F11svfb1rrr!19sChIJry4f1MGj1jsRWh7_nNXCSS0?authuser=0&hl=en&rclk=1"
@@ -18039,7 +17888,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%AE+%F0%9D%97%A6%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%B1%F0%9D%97%B2%F0%9D%98%83+%F0%9D%97%9E%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B6+-Dentist+in+Amravati%2FDental+Clinic%2FDental+Implant+Centre%2FRoot+Canal+Specialist%2FCosmetic+Treatment/data=!4m7!3m6!1s0x3bd6a3c1d41f2eaf:0x2d49c2d59cff1e5a!8m2!3d20.9296306!4d77.7609828!16s%2Fg%2F11svfb1rrr!19sChIJry4f1MGj1jsRWh7_nNXCSS0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

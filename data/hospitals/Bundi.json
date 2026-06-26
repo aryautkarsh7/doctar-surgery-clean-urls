@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aloriya+Dental+Clinic/@25.4341017,75.6369635,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095b46524ffd:0x6e3f3d4072febe87!8m2!3d25.4341017!4d75.6369635!16s%2Fg%2F11c5_3bv7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aloriya+Dental+Clinic/@25.4341017,75.6369635,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095b46524ffd:0x6e3f3d4072febe87!8m2!3d25.4341017!4d75.6369635!16s%2Fg%2F11c5_3bv7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -112,11 +112,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aloriya+Dental+Clinic/@25.4341017,75.6369635,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095b46524ffd:0x6e3f3d4072febe87!8m2!3d25.4341017!4d75.6369635!16s%2Fg%2F11c5_3bv7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apex-ranthambore-sevika-hospital-alanpur-rural",
@@ -165,7 +164,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apex+Ranthambore+Sevika+Hospital/@25.9981324,76.3603147,17z/data=!3m1!4b1!4m6!3m5!1s0x396e25d429b436bf:0x5e509b62c0326d95!8m2!3d25.9981324!4d76.3603147!16s%2Fg%2F11cs3h2jqn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Ranthambore+Sevika+Hospital/@25.9981324,76.3603147,17z/data=!3m1!4b1!4m6!3m5!1s0x396e25d429b436bf:0x5e509b62c0326d95!8m2!3d25.9981324!4d76.3603147!16s%2Fg%2F11cs3h2jqn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -234,8 +233,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apex+Ranthambore+Sevika+Hospital/@25.9981324,76.3603147,17z/data=!3m1!4b1!4m6!3m5!1s0x396e25d429b436bf:0x5e509b62c0326d95!8m2!3d25.9981324!4d76.3603147!16s%2Fg%2F11cs3h2jqn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhagwan-mahaveer-cancer-hospital-and-research-centre-jaipur",
@@ -285,7 +283,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhagwan+Mahaveer+Cancer+Hospital+%26+Research+Centre/@26.8650674,75.8046254,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5d7eee9a05f:0xddf910fecf66939a!8m2!3d26.8650674!4d75.8046254!16s%2Fg%2F1tp0c221?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagwan+Mahaveer+Cancer+Hospital+%26+Research+Centre/@26.8650674,75.8046254,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5d7eee9a05f:0xddf910fecf66939a!8m2!3d26.8650674!4d75.8046254!16s%2Fg%2F1tp0c221?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -354,8 +352,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhagwan+Mahaveer+Cancer+Hospital+%26+Research+Centre/@26.8650674,75.8046254,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5d7eee9a05f:0xddf910fecf66939a!8m2!3d26.8650674!4d75.8046254!16s%2Fg%2F1tp0c221?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "brain-and-spine-physiotherapy-bundi-bundi",
@@ -405,7 +402,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Brain+and+spine+physiotherapy,+bundi/@25.4312043,75.644587,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09dcec2da1f9:0xe9e04df0c95002f7!8m2!3d25.4312043!4d75.644587!16s%2Fg%2F11qpm55bpv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brain+and+spine+physiotherapy,+bundi/@25.4312043,75.644587,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09dcec2da1f9:0xe9e04df0c95002f7!8m2!3d25.4312043!4d75.644587!16s%2Fg%2F11qpm55bpv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -474,8 +471,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Brain+and+spine+physiotherapy,+bundi/@25.4312043,75.644587,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09dcec2da1f9:0xe9e04df0c95002f7!8m2!3d25.4312043!4d75.644587!16s%2Fg%2F11qpm55bpv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bundi-hospital-and-research-centre-bundi",
@@ -523,7 +519,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bundi+hospital+And+Research+Centre/@25.434911,75.6408519,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095cd68f9b2b:0x8abb74a84fe76cb8!8m2!3d25.434911!4d75.6408519!16s%2Fg%2F11bwmfgfmz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bundi+hospital+And+Research+Centre/@25.434911,75.6408519,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095cd68f9b2b:0x8abb74a84fe76cb8!8m2!3d25.434911!4d75.6408519!16s%2Fg%2F11bwmfgfmz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -592,8 +588,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bundi+hospital+And+Research+Centre/@25.434911,75.6408519,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095cd68f9b2b:0x8abb74a84fe76cb8!8m2!3d25.434911!4d75.6408519!16s%2Fg%2F11bwmfgfmz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "delight-physiotherapy-clinic-bundi",
@@ -643,7 +638,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Delight+physiotherapy+Clinic/@25.4412122,75.6620727,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09004f620d23:0xd9cb85f09f39f999!8m2!3d25.4412122!4d75.6620727!16s%2Fg%2F11wppmyh1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Delight+physiotherapy+Clinic/@25.4412122,75.6620727,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09004f620d23:0xd9cb85f09f39f999!8m2!3d25.4412122!4d75.6620727!16s%2Fg%2F11wppmyh1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -709,11 +704,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Delight+physiotherapy+Clinic/@25.4412122,75.6620727,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09004f620d23:0xd9cb85f09f39f999!8m2!3d25.4412122!4d75.6620727!16s%2Fg%2F11wppmyh1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "first-aid-clinic-sant-nirankari-bhawan-mochi-bazar",
@@ -761,7 +755,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/First+Aid+Clinic/@25.4450173,75.6407347,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09131c686a07:0xc646bbfcfd6b04f4!8m2!3d25.4450173!4d75.6407347!16s%2Fg%2F11g3_9xg47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/First+Aid+Clinic/@25.4450173,75.6407347,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09131c686a07:0xc646bbfcfd6b04f4!8m2!3d25.4450173!4d75.6407347!16s%2Fg%2F11g3_9xg47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -827,11 +821,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/First+Aid+Clinic/@25.4450173,75.6407347,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09131c686a07:0xc646bbfcfd6b04f4!8m2!3d25.4450173!4d75.6407347!16s%2Fg%2F11g3_9xg47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "goswami-s-neuro-musculoskeletal-pain-and-rehab-center-bundi",
@@ -878,7 +871,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Goswami's+NEURO-MUSCULOSKELETAL+PAIN+%26+REHAB+center/@25.4241463,75.6512153,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0b001d5c29fd:0xcda6d91d5fb492dd!8m2!3d25.4241463!4d75.6512153!16s%2Fg%2F11lmnmnrh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goswami's+NEURO-MUSCULOSKELETAL+PAIN+%26+REHAB+center/@25.4241463,75.6512153,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0b001d5c29fd:0xcda6d91d5fb492dd!8m2!3d25.4241463!4d75.6512153!16s%2Fg%2F11lmnmnrh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -944,11 +937,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Goswami's+NEURO-MUSCULOSKELETAL+PAIN+%26+REHAB+center/@25.4241463,75.6512153,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0b001d5c29fd:0xcda6d91d5fb492dd!8m2!3d25.4241463!4d75.6512153!16s%2Fg%2F11lmnmnrh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-ayurvedic-hospital-bundi",
@@ -996,7 +988,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+ayurvedic+hospital/@25.4472976,75.6353817,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0900324297a3:0x142c2a0238d26c75!8m2!3d25.4472976!4d75.6353817!16s%2Fg%2F11y5yvwk42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+ayurvedic+hospital/@25.4472976,75.6353817,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0900324297a3:0x142c2a0238d26c75!8m2!3d25.4472976!4d75.6353817!16s%2Fg%2F11y5yvwk42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1062,11 +1054,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+ayurvedic+hospital/@25.4472976,75.6353817,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0900324297a3:0x142c2a0238d26c75!8m2!3d25.4472976!4d75.6353817!16s%2Fg%2F11y5yvwk42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-hospital-bundi",
@@ -1114,7 +1105,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+Hospital/@25.4422214,75.6615857,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0976ca766dcf:0xe7aaf559a06375a8!8m2!3d25.4422214!4d75.6615857!16s%2Fg%2F11ddxs10tl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Hospital/@25.4422214,75.6615857,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0976ca766dcf:0xe7aaf559a06375a8!8m2!3d25.4422214!4d75.6615857!16s%2Fg%2F11ddxs10tl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1180,11 +1171,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+Hospital/@25.4422214,75.6615857,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0976ca766dcf:0xe7aaf559a06375a8!8m2!3d25.4422214!4d75.6615857!16s%2Fg%2F11ddxs10tl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "govt-homoeopathic-hospital-rajasthan-sarkarbundi-bundi",
@@ -1232,7 +1222,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Govt.+Homoeopathic+hospital+Rajasthan+sarkarBundi/@25.4391616,75.6462484,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0900518d1977:0x66c10b06cdca329b!8m2!3d25.4391616!4d75.6462484!16s%2Fg%2F11vrn5mlgh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt.+Homoeopathic+hospital+Rajasthan+sarkarBundi/@25.4391616,75.6462484,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0900518d1977:0x66c10b06cdca329b!8m2!3d25.4391616!4d75.6462484!16s%2Fg%2F11vrn5mlgh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1298,11 +1288,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Govt.+Homoeopathic+hospital+Rajasthan+sarkarBundi/@25.4391616,75.6462484,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0900518d1977:0x66c10b06cdca329b!8m2!3d25.4391616!4d75.6462484!16s%2Fg%2F11vrn5mlgh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "govt-hospital-bundi",
@@ -1350,7 +1339,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Govt.+Hospital/@25.4398141,75.6453343,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969c7264e0d:0x21a2d99b4275857c!8m2!3d25.4398141!4d75.6453343!16s%2Fg%2F1tftzyzd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt.+Hospital/@25.4398141,75.6453343,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969c7264e0d:0x21a2d99b4275857c!8m2!3d25.4398141!4d75.6453343!16s%2Fg%2F1tftzyzd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1419,8 +1408,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Govt.+Hospital/@25.4398141,75.6453343,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969c7264e0d:0x21a2d99b4275857c!8m2!3d25.4398141!4d75.6453343!16s%2Fg%2F1tftzyzd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "goyal-hospital-endo-laproscopy-center-surgery-center-in-kota-kota",
@@ -1469,7 +1457,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GOYAL+HOSPITAL+ENDO-LAPROSCOPY+CENTER+%7C+Surgery+center+in+Kota/@25.1454242,75.8264914,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84be55555555:0x89ebb528cdff02fa!8m2!3d25.1454242!4d75.8264914!16s%2Fg%2F11hd2509kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GOYAL+HOSPITAL+ENDO-LAPROSCOPY+CENTER+%7C+Surgery+center+in+Kota/@25.1454242,75.8264914,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84be55555555:0x89ebb528cdff02fa!8m2!3d25.1454242!4d75.8264914!16s%2Fg%2F11hd2509kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1538,8 +1526,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GOYAL+HOSPITAL+ENDO-LAPROSCOPY+CENTER+%7C+Surgery+center+in+Kota/@25.1454242,75.8264914,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84be55555555:0x89ebb528cdff02fa!8m2!3d25.1454242!4d75.8264914!16s%2Fg%2F11hd2509kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gupta-mother-and-child-health-care-bundi",
@@ -1588,7 +1575,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gupta+Mother+And+Child+Health+Care/@25.4270282,75.6417596,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095e52678625:0xafbc0b8cd9b67874!8m2!3d25.4270282!4d75.6417596!16s%2Fg%2F11csbt15nf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Mother+And+Child+Health+Care/@25.4270282,75.6417596,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095e52678625:0xafbc0b8cd9b67874!8m2!3d25.4270282!4d75.6417596!16s%2Fg%2F11csbt15nf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1657,8 +1644,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gupta+Mother+And+Child+Health+Care/@25.4270282,75.6417596,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095e52678625:0xafbc0b8cd9b67874!8m2!3d25.4270282!4d75.6417596!16s%2Fg%2F11csbt15nf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospital-area-bundi",
@@ -1704,7 +1690,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hospital+Area,+Bundi,+Rajasthan+323001/@25.4398584,75.6456425,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969b8cb035f:0xbf108f5b42575491!8m2!3d25.440871!4d75.6448115!16s%2Fg%2F1pv0wy_dl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital+Area,+Bundi,+Rajasthan+323001/@25.4398584,75.6456425,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969b8cb035f:0xbf108f5b42575491!8m2!3d25.440871!4d75.6448115!16s%2Fg%2F1pv0wy_dl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1770,11 +1756,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hospital+Area,+Bundi,+Rajasthan+323001/@25.4398584,75.6456425,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969b8cb035f:0xbf108f5b42575491!8m2!3d25.440871!4d75.6448115!16s%2Fg%2F1pv0wy_dl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jain-dental-clinic-best-dental-clinic-dentist-dental-implant-centre-in-bundi-bundi",
@@ -1823,7 +1808,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jain+Dental+Clinic+-+Best+Dental+Clinic,+Dentist,+Dental+Implant+Centre+In+Bundi/@25.4380625,75.6468125,17z/data=!3m1!4b1!4m6!3m5!1s0x396f096858347731:0xcc6a266606d82c8b!8m2!3d25.4380625!4d75.6468125!16s%2Fg%2F11gf95ns0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jain+Dental+Clinic+-+Best+Dental+Clinic,+Dentist,+Dental+Implant+Centre+In+Bundi/@25.4380625,75.6468125,17z/data=!3m1!4b1!4m6!3m5!1s0x396f096858347731:0xcc6a266606d82c8b!8m2!3d25.4380625!4d75.6468125!16s%2Fg%2F11gf95ns0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1889,11 +1874,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jain+Dental+Clinic+-+Best+Dental+Clinic,+Dentist,+Dental+Implant+Centre+In+Bundi/@25.4380625,75.6468125,17z/data=!3m1!4b1!4m6!3m5!1s0x396f096858347731:0xcc6a266606d82c8b!8m2!3d25.4380625!4d75.6468125!16s%2Fg%2F11gf95ns0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jain-surgical-hospital-kota",
@@ -1942,7 +1926,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jain+Surgical+Hospital/@25.1343165,75.8238891,17z/data=!3m1!4b1!4m6!3m5!1s0x396f8497ac948a49:0x7184f1587c027fa2!8m2!3d25.1343165!4d75.8238891!16s%2Fg%2F11b6dyxf74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jain+Surgical+Hospital/@25.1343165,75.8238891,17z/data=!3m1!4b1!4m6!3m5!1s0x396f8497ac948a49:0x7184f1587c027fa2!8m2!3d25.1343165!4d75.8238891!16s%2Fg%2F11b6dyxf74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2011,8 +1995,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jain+Surgical+Hospital/@25.1343165,75.8238891,17z/data=!3m1!4b1!4m6!3m5!1s0x396f8497ac948a49:0x7184f1587c027fa2!8m2!3d25.1343165!4d75.8238891!16s%2Fg%2F11b6dyxf74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "k-k-hospital-bundi-bundi",
@@ -2058,7 +2041,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/K.+K.+Hospital+Bundi/@25.4382296,75.6314814,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09e0a98640f3:0x79ffcac35886f70f!8m2!3d25.4382296!4d75.6314814!16s%2Fg%2F11l5f7jk7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K.+K.+Hospital+Bundi/@25.4382296,75.6314814,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09e0a98640f3:0x79ffcac35886f70f!8m2!3d25.4382296!4d75.6314814!16s%2Fg%2F11l5f7jk7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2124,11 +2107,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/K.+K.+Hospital+Bundi/@25.4382296,75.6314814,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09e0a98640f3:0x79ffcac35886f70f!8m2!3d25.4382296!4d75.6314814!16s%2Fg%2F11l5f7jk7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kiran-physiotherapy-health-care-center-bundi",
@@ -2177,7 +2159,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kiran+physiotherapy+health+care+center/@25.431367,75.6768,17z/data=!3m1!4b1!4m6!3m5!1s0x396f090bd456d57b:0x10c08a0455db8fbf!8m2!3d25.431367!4d75.6768!16s%2Fg%2F11rqgxlrj_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kiran+physiotherapy+health+care+center/@25.431367,75.6768,17z/data=!3m1!4b1!4m6!3m5!1s0x396f090bd456d57b:0x10c08a0455db8fbf!8m2!3d25.431367!4d75.6768!16s%2Fg%2F11rqgxlrj_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2243,11 +2225,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kiran+physiotherapy+health+care+center/@25.431367,75.6768,17z/data=!3m1!4b1!4m6!3m5!1s0x396f090bd456d57b:0x10c08a0455db8fbf!8m2!3d25.431367!4d75.6768!16s%2Fg%2F11rqgxlrj_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-medicals-bundi",
@@ -2296,7 +2277,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Medicals/@25.4380766,75.656242,17z/data=!3m1!4b1!4m6!3m5!1s0x396f097019115d93:0x54534046172aded2!8m2!3d25.4380766!4d75.656242!16s%2Fg%2F11bwdrdr1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Medicals/@25.4380766,75.656242,17z/data=!3m1!4b1!4m6!3m5!1s0x396f097019115d93:0x54534046172aded2!8m2!3d25.4380766!4d75.656242!16s%2Fg%2F11bwdrdr1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2362,11 +2343,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Medicals/@25.4380766,75.656242,17z/data=!3m1!4b1!4m6!3m5!1s0x396f097019115d93:0x54534046172aded2!8m2!3d25.4380766!4d75.656242!16s%2Fg%2F11bwdrdr1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maheshwari-children-hospital-and-research-center-best-pathology-lab-nicu-and-picu-services-malnutrition-dietician-bundi",
@@ -2416,7 +2396,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maheshwari+Children+Hospital+and+Research+Center+-+Best+Pathology+Lab,+NICU+%26+PICU+Services,+Malnutrition+Dietician/@25.4347997,75.6414219,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095d2859fc4f:0xa7c3c3553ac28e63!8m2!3d25.4347997!4d75.6414219!16s%2Fg%2F11c70hm9rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maheshwari+Children+Hospital+and+Research+Center+-+Best+Pathology+Lab,+NICU+%26+PICU+Services,+Malnutrition+Dietician/@25.4347997,75.6414219,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095d2859fc4f:0xa7c3c3553ac28e63!8m2!3d25.4347997!4d75.6414219!16s%2Fg%2F11c70hm9rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2485,8 +2465,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maheshwari+Children+Hospital+and+Research+Center+-+Best+Pathology+Lab,+NICU+%26+PICU+Services,+Malnutrition+Dietician/@25.4347997,75.6414219,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095d2859fc4f:0xa7c3c3553ac28e63!8m2!3d25.4347997!4d75.6414219!16s%2Fg%2F11c70hm9rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maheshwari-dental-bundi",
@@ -2534,7 +2513,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maheshwari+Dental/@25.4356177,75.6423248,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0933b164c3f5:0x2f2c693b3c252235!8m2!3d25.4356177!4d75.6423248!16s%2Fg%2F11tp8vqj2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maheshwari+Dental/@25.4356177,75.6423248,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0933b164c3f5:0x2f2c693b3c252235!8m2!3d25.4356177!4d75.6423248!16s%2Fg%2F11tp8vqj2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2600,11 +2579,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maheshwari+Dental/@25.4356177,75.6423248,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0933b164c3f5:0x2f2c693b3c252235!8m2!3d25.4356177!4d75.6423248!16s%2Fg%2F11tp8vqj2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mateshwari-hospital-bundi",
@@ -2652,7 +2630,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mateshwari+Hospital/@25.4388149,75.657181,17z/data=!3m1!4b1!4m6!3m5!1s0x396f097040a98d3b:0x85d8f4bbf58532a4!8m2!3d25.4388149!4d75.657181!16s%2Fg%2F11byypl4m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mateshwari+Hospital/@25.4388149,75.657181,17z/data=!3m1!4b1!4m6!3m5!1s0x396f097040a98d3b:0x85d8f4bbf58532a4!8m2!3d25.4388149!4d75.657181!16s%2Fg%2F11byypl4m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2721,8 +2699,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mateshwari+Hospital/@25.4388149,75.657181,17z/data=!3m1!4b1!4m6!3m5!1s0x396f097040a98d3b:0x85d8f4bbf58532a4!8m2!3d25.4388149!4d75.657181!16s%2Fg%2F11byypl4m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maya-hospital-bundi",
@@ -2770,7 +2747,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maya+Hospital/@25.4287582,75.6416931,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095e5c60fe2b:0x4f0acc6c19e39d2c!8m2!3d25.4287582!4d75.6416931!16s%2Fg%2F11csb24nbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maya+Hospital/@25.4287582,75.6416931,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095e5c60fe2b:0x4f0acc6c19e39d2c!8m2!3d25.4287582!4d75.6416931!16s%2Fg%2F11csb24nbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2839,8 +2816,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maya+Hospital/@25.4287582,75.6416931,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095e5c60fe2b:0x4f0acc6c19e39d2c!8m2!3d25.4287582!4d75.6416931!16s%2Fg%2F11csb24nbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nangal-cancer-hospital-and-research-institute-bikaner",
@@ -2889,7 +2865,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/data=!4m7!3m6!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc!19sChIJ_____2_dPzkR018yC81jhrU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/data=!4m7!3m6!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc!19sChIJ_____2_dPzkR018yC81jhrU?authuser=0&hl=en&rclk=1"
@@ -2958,8 +2934,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/data=!4m7!3m6!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc!19sChIJ_____2_dPzkR018yC81jhrU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navkar-hospital-kota-kota",
@@ -3007,7 +2982,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navkar+hospital+kota/@25.1926137,75.8310057,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9bd0e9346e95:0x86e3570c5acb8dcd!8m2!3d25.1926137!4d75.8310057!16s%2Fg%2F11kmr6lw_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navkar+hospital+kota/@25.1926137,75.8310057,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9bd0e9346e95:0x86e3570c5acb8dcd!8m2!3d25.1926137!4d75.8310057!16s%2Fg%2F11kmr6lw_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3076,8 +3051,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navkar+hospital+kota/@25.1926137,75.8310057,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9bd0e9346e95:0x86e3570c5acb8dcd!8m2!3d25.1926137!4d75.8310057!16s%2Fg%2F11kmr6lw_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nimach-eye-hospital-eye-hospital-and-phaco-centre-bundi",
@@ -3126,7 +3100,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nimach+Eye+Hospital+-+Eye+Hospital+%26+Phaco+Centre/@25.415184,75.655,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0bda98206d2b:0xd4333d28e1f9a96f!8m2!3d25.415184!4d75.655!16s%2Fg%2F11c5btjryp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nimach+Eye+Hospital+-+Eye+Hospital+%26+Phaco+Centre/@25.415184,75.655,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0bda98206d2b:0xd4333d28e1f9a96f!8m2!3d25.415184!4d75.655!16s%2Fg%2F11c5btjryp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3195,8 +3169,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nimach+Eye+Hospital+-+Eye+Hospital+%26+Phaco+Centre/@25.415184,75.655,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0bda98206d2b:0xd4333d28e1f9a96f!8m2!3d25.415184!4d75.655!16s%2Fg%2F11c5btjryp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pandit-brij-sundar-sharma-general-hospital-bundi",
@@ -3244,7 +3217,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pandit+Brij+Sundar+Sharma+General+Hospital/@25.4395213,75.6456787,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969b82888df:0x5c0713e5229a238d!8m2!3d25.4395213!4d75.6456787!16s%2Fg%2F11c5zmk4x7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pandit+Brij+Sundar+Sharma+General+Hospital/@25.4395213,75.6456787,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969b82888df:0x5c0713e5229a238d!8m2!3d25.4395213!4d75.6456787!16s%2Fg%2F11c5zmk4x7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3313,8 +3286,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pandit+Brij+Sundar+Sharma+General+Hospital/@25.4395213,75.6456787,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969b82888df:0x5c0713e5229a238d!8m2!3d25.4395213!4d75.6456787!16s%2Fg%2F11c5zmk4x7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "primary-health-center-bundi",
@@ -3362,7 +3334,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Primary+health+center/@25.4462834,75.6318234,17z/data=!3m1!4b1!4m6!3m5!1s0x396f093e94ba519f:0xa456011d533c7a5b!8m2!3d25.4462834!4d75.6318234!16s%2Fg%2F11h3k15h1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Primary+health+center/@25.4462834,75.6318234,17z/data=!3m1!4b1!4m6!3m5!1s0x396f093e94ba519f:0xa456011d533c7a5b!8m2!3d25.4462834!4d75.6318234!16s%2Fg%2F11h3k15h1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3428,11 +3400,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Primary+health+center/@25.4462834,75.6318234,17z/data=!3m1!4b1!4m6!3m5!1s0x396f093e94ba519f:0xa456011d533c7a5b!8m2!3d25.4462834!4d75.6318234!16s%2Fg%2F11h3k15h1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raghuvar-fracture-and-general-hospital-bundi",
@@ -3480,7 +3451,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raghuvar+Fracture+And+General+Hospital/@25.4321132,75.634524,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09dc27446761:0xafac635ad4001fdf!8m2!3d25.4321132!4d75.634524!16s%2Fg%2F11g4fdzds9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raghuvar+Fracture+And+General+Hospital/@25.4321132,75.634524,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09dc27446761:0xafac635ad4001fdf!8m2!3d25.4321132!4d75.634524!16s%2Fg%2F11g4fdzds9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3549,8 +3520,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raghuvar+Fracture+And+General+Hospital/@25.4321132,75.634524,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09dc27446761:0xafac635ad4001fdf!8m2!3d25.4321132!4d75.634524!16s%2Fg%2F11g4fdzds9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharad-dental-clinic-bundi",
@@ -3598,7 +3568,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharad+Dental+Clinic/@25.4356886,75.6420741,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09d6c380ddb1:0x81961c2550a2d391!8m2!3d25.4356886!4d75.6420741!16s%2Fg%2F11g0zwxl4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharad+Dental+Clinic/@25.4356886,75.6420741,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09d6c380ddb1:0x81961c2550a2d391!8m2!3d25.4356886!4d75.6420741!16s%2Fg%2F11g0zwxl4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3664,11 +3634,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharad+Dental+Clinic/@25.4356886,75.6420741,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09d6c380ddb1:0x81961c2550a2d391!8m2!3d25.4356886!4d75.6420741!16s%2Fg%2F11g0zwxl4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiv-medical-bundi",
@@ -3717,7 +3686,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiv+Medical/@25.4362066,75.6603181,17z/data=!3m1!4b1!4m6!3m5!1s0x396f097a1465f155:0x196ecfa6d1356829!8m2!3d25.4362066!4d75.6603181!16s%2Fg%2F11bwdlz6k2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Medical/@25.4362066,75.6603181,17z/data=!3m1!4b1!4m6!3m5!1s0x396f097a1465f155:0x196ecfa6d1356829!8m2!3d25.4362066!4d75.6603181!16s%2Fg%2F11bwdlz6k2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3783,11 +3752,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiv+Medical/@25.4362066,75.6603181,17z/data=!3m1!4b1!4m6!3m5!1s0x396f097a1465f155:0x196ecfa6d1356829!8m2!3d25.4362066!4d75.6603181!16s%2Fg%2F11bwdlz6k2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-dhanvantri-ayurvedic-hospital-bundi",
@@ -3835,7 +3803,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Dhanvantri+Ayurvedic+Hospital/@25.4364141,75.6302896,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095a16ffa043:0x18ca853913f2d5d3!8m2!3d25.4364141!4d75.6302896!16s%2Fg%2F11h4cx61zd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Dhanvantri+Ayurvedic+Hospital/@25.4364141,75.6302896,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095a16ffa043:0x18ca853913f2d5d3!8m2!3d25.4364141!4d75.6302896!16s%2Fg%2F11h4cx61zd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3904,8 +3872,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Dhanvantri+Ayurvedic+Hospital/@25.4364141,75.6302896,17z/data=!3m1!4b1!4m6!3m5!1s0x396f095a16ffa043:0x18ca853913f2d5d3!8m2!3d25.4364141!4d75.6302896!16s%2Fg%2F11h4cx61zd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-medical-store-bundi-bundi",
@@ -3954,7 +3921,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+medical+store+Bundi/data=!4m7!3m6!1s0x396f0900246106fb:0x2e723b43d24071ad!8m2!3d25.4380643!4d75.6557738!16s%2Fg%2F11y8ggssx_!19sChIJ-wZhJAAJbzkRrXFA0kM7ci4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+medical+store+Bundi/data=!4m7!3m6!1s0x396f0900246106fb:0x2e723b43d24071ad!8m2!3d25.4380643!4d75.6557738!16s%2Fg%2F11y8ggssx_!19sChIJ-wZhJAAJbzkRrXFA0kM7ci4?authuser=0&hl=en&rclk=1"
@@ -4020,11 +3987,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+medical+store+Bundi/data=!4m7!3m6!1s0x396f0900246106fb:0x2e723b43d24071ad!8m2!3d25.4380643!4d75.6557738!16s%2Fg%2F11y8ggssx_!19sChIJ-wZhJAAJbzkRrXFA0kM7ci4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-dev-eye-care-bundi",
@@ -4074,7 +4040,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Dev+Eye+Care/@25.4308169,75.6416296,17z/data=!3m1!4b1!4m6!3m5!1s0x396f098b145b04ff:0x4e4092347b9d5fc0!8m2!3d25.4308169!4d75.6416296!16s%2Fg%2F11ybt4ykgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Dev+Eye+Care/@25.4308169,75.6416296,17z/data=!3m1!4b1!4m6!3m5!1s0x396f098b145b04ff:0x4e4092347b9d5fc0!8m2!3d25.4308169!4d75.6416296!16s%2Fg%2F11ybt4ykgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4143,8 +4109,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Dev+Eye+Care/@25.4308169,75.6416296,17z/data=!3m1!4b1!4m6!3m5!1s0x396f098b145b04ff:0x4e4092347b9d5fc0!8m2!3d25.4308169!4d75.6416296!16s%2Fg%2F11ybt4ykgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-hari-hospital-kota",
@@ -4193,7 +4158,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Hari+hospital/@25.2020482,75.8354169,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b533ee13fb5:0x959082b76988dd35!8m2!3d25.2020482!4d75.8354169!16s%2Fg%2F11sdnvr34j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Hari+hospital/@25.2020482,75.8354169,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b533ee13fb5:0x959082b76988dd35!8m2!3d25.2020482!4d75.8354169!16s%2Fg%2F11sdnvr34j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4262,8 +4227,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Hari+hospital/@25.2020482,75.8354169,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b533ee13fb5:0x959082b76988dd35!8m2!3d25.2020482!4d75.8354169!16s%2Fg%2F11sdnvr34j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "soni-dialysis-center-bundi-bundi",
@@ -4310,7 +4274,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Soni+Dialysis+Center(Bundi)/@25.4395225,75.645679,17z/data=!3m1!4b1!4m6!3m5!1s0x396f092b1fccb3d1:0xb2a8c8a6a1b49649!8m2!3d25.4395225!4d75.645679!16s%2Fg%2F11f61gyjcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soni+Dialysis+Center(Bundi)/@25.4395225,75.645679,17z/data=!3m1!4b1!4m6!3m5!1s0x396f092b1fccb3d1:0xb2a8c8a6a1b49649!8m2!3d25.4395225!4d75.645679!16s%2Fg%2F11f61gyjcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4376,11 +4340,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Soni+Dialysis+Center(Bundi)/@25.4395225,75.645679,17z/data=!3m1!4b1!4m6!3m5!1s0x396f092b1fccb3d1:0xb2a8c8a6a1b49649!8m2!3d25.4395225!4d75.645679!16s%2Fg%2F11f61gyjcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suresh-sharma-hospital-bundi",
@@ -4426,7 +4389,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Suresh+Sharma+hospital/@25.4325869,75.6482726,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09005bd4544f:0xbfbc9cba75cf81ba!8m2!3d25.4325869!4d75.6482726!16s%2Fg%2F11m75zcqfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suresh+Sharma+hospital/@25.4325869,75.6482726,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09005bd4544f:0xbfbc9cba75cf81ba!8m2!3d25.4325869!4d75.6482726!16s%2Fg%2F11m75zcqfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4492,11 +4455,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Suresh+Sharma+hospital/@25.4325869,75.6482726,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09005bd4544f:0xbfbc9cba75cf81ba!8m2!3d25.4325869!4d75.6482726!16s%2Fg%2F11m75zcqfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vision-vatika-bundi",
@@ -4546,7 +4508,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vision+Vatika/@25.4279737,75.6490682,17z/data=!3m1!4b1!4m6!3m5!1s0x396f094de5984dff:0x342490be733bbb07!8m2!3d25.4279737!4d75.6490682!16s%2Fg%2F11yrws89ld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vision+Vatika/@25.4279737,75.6490682,17z/data=!3m1!4b1!4m6!3m5!1s0x396f094de5984dff:0x342490be733bbb07!8m2!3d25.4279737!4d75.6490682!16s%2Fg%2F11yrws89ld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4612,11 +4574,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vision+Vatika/@25.4279737,75.6490682,17z/data=!3m1!4b1!4m6!3m5!1s0x396f094de5984dff:0x342490be733bbb07!8m2!3d25.4279737!4d75.6490682!16s%2Fg%2F11yrws89ld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bundi",
@@ -4662,7 +4623,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%A7%E0%A4%A8%E0%A4%B0%E0%A4%BE%E0%A4%9C+%E0%A4%AE%E0%A5%80%E0%A4%A8%E0%A4%BE/@25.4333359,75.6509217,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09007c9a413d:0x2cf63cdc4d13ccf0!8m2!3d25.4333359!4d75.6509217!16s%2Fg%2F11wfx0783x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%A7%E0%A4%A8%E0%A4%B0%E0%A4%BE%E0%A4%9C+%E0%A4%AE%E0%A5%80%E0%A4%A8%E0%A4%BE/@25.4333359,75.6509217,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09007c9a413d:0x2cf63cdc4d13ccf0!8m2!3d25.4333359!4d75.6509217!16s%2Fg%2F11wfx0783x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4728,11 +4689,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%A7%E0%A4%A8%E0%A4%B0%E0%A4%BE%E0%A4%9C+%E0%A4%AE%E0%A5%80%E0%A4%A8%E0%A4%BE/@25.4333359,75.6509217,17z/data=!3m1!4b1!4m6!3m5!1s0x396f09007c9a413d:0x2cf63cdc4d13ccf0!8m2!3d25.4333359!4d75.6509217!16s%2Fg%2F11wfx0783x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bundi",
@@ -4780,7 +4740,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%83+%E0%A4%8F%E0%A4%B5%E0%A4%82+%E0%A4%B6%E0%A4%BF%E0%A4%B6%E0%A5%81+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF+%E0%A4%AC%E0%A5%82%E0%A4%82%E0%A4%A6%E0%A5%80/@25.4407638,75.6450792,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969ee42b651:0x92d54fc12396c477!8m2!3d25.4407638!4d75.6450792!16s%2Fg%2F11gg66djtx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%83+%E0%A4%8F%E0%A4%B5%E0%A4%82+%E0%A4%B6%E0%A4%BF%E0%A4%B6%E0%A5%81+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF+%E0%A4%AC%E0%A5%82%E0%A4%82%E0%A4%A6%E0%A5%80/@25.4407638,75.6450792,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969ee42b651:0x92d54fc12396c477!8m2!3d25.4407638!4d75.6450792!16s%2Fg%2F11gg66djtx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4849,8 +4809,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%83+%E0%A4%8F%E0%A4%B5%E0%A4%82+%E0%A4%B6%E0%A4%BF%E0%A4%B6%E0%A5%81+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF+%E0%A4%AC%E0%A5%82%E0%A4%82%E0%A4%A6%E0%A5%80/@25.4407638,75.6450792,17z/data=!3m1!4b1!4m6!3m5!1s0x396f0969ee42b651:0x92d54fc12396c477!8m2!3d25.4407638!4d75.6450792!16s%2Fg%2F11gg66djtx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "and-best-multispeciaity-hospital-in-kota-best-hospital-in-kota-kota",
@@ -4899,7 +4858,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%BC%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%98%F0%9D%97%BB%F0%9D%98%81+%26+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+-+Best+Multispeciaity+Hospital+in+Kota+%7C+Best+Hospital+in+Kota/@25.1499375,75.8594544,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85021a8f9dc9:0x4ac339267b486f60!8m2!3d25.1499375!4d75.8594544!16s%2Fg%2F11h7dd_3n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%BC%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%98%F0%9D%97%BB%F0%9D%98%81+%26+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+-+Best+Multispeciaity+Hospital+in+Kota+%7C+Best+Hospital+in+Kota/@25.1499375,75.8594544,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85021a8f9dc9:0x4ac339267b486f60!8m2!3d25.1499375!4d75.8594544!16s%2Fg%2F11h7dd_3n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4968,7 +4927,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%BC%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%98%F0%9D%97%BB%F0%9D%98%81+%26+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+-+Best+Multispeciaity+Hospital+in+Kota+%7C+Best+Hospital+in+Kota/@25.1499375,75.8594544,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85021a8f9dc9:0x4ac339267b486f60!8m2!3d25.1499375!4d75.8594544!16s%2Fg%2F11h7dd_3n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

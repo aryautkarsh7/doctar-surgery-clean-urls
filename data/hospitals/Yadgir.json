@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aashirwad+Hospital/data=!4m7!3m6!1s0x3bc853b06a51563f:0x146c8925422f83a6!8m2!3d16.7527169!4d77.1353854!16s%2Fg%2F1hm4tjgxl!19sChIJP1ZRarBTyDsRpoMvQiWJbBQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aashirwad+Hospital/data=!4m7!3m6!1s0x3bc853b06a51563f:0x146c8925422f83a6!8m2!3d16.7527169!4d77.1353854!16s%2Fg%2F1hm4tjgxl!19sChIJP1ZRarBTyDsRpoMvQiWJbBQ?authuser=0&hl=en&rclk=1"
@@ -114,8 +114,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aashirwad+Hospital/data=!4m7!3m6!1s0x3bc853b06a51563f:0x146c8925422f83a6!8m2!3d16.7527169!4d77.1353854!16s%2Fg%2F1hm4tjgxl!19sChIJP1ZRarBTyDsRpoMvQiWJbBQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "absolute-dental-care-best-dental-clinic-yadgir-yadgiri",
@@ -163,7 +162,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Absolute+Dental+Care+%7C+Best+Dental+Clinic+Yadgir/data=!4m7!3m6!1s0x3bc85d5c88974da5:0xfcf9cfa657c55e1!8m2!3d16.7494922!4d77.1317862!16s%2Fg%2F11tnbbmqtw!19sChIJpU2XiFxdyDsR4VV8Zfqczw8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Absolute+Dental+Care+%7C+Best+Dental+Clinic+Yadgir/data=!4m7!3m6!1s0x3bc85d5c88974da5:0xfcf9cfa657c55e1!8m2!3d16.7494922!4d77.1317862!16s%2Fg%2F11tnbbmqtw!19sChIJpU2XiFxdyDsR4VV8Zfqczw8?authuser=0&hl=en&rclk=1"
@@ -229,11 +228,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Absolute+Dental+Care+%7C+Best+Dental+Clinic+Yadgir/data=!4m7!3m6!1s0x3bc85d5c88974da5:0xfcf9cfa657c55e1!8m2!3d16.7494922!4d77.1317862!16s%2Fg%2F11tnbbmqtw!19sChIJpU2XiFxdyDsR4VV8Zfqczw8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "belly-dental-care-best-dental-clinic-yadgir-beside-rathnam-school",
@@ -281,7 +279,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Belly+Dental+Care+%7Cbest+dental+clinic+,+yadgir%7C/data=!4m7!3m6!1s0x3bc8533d93590d9f:0xe3432fe1f808c78e!8m2!3d16.7521688!4d77.1427075!16s%2Fg%2F11trxfjsxz!19sChIJnw1Zkz1TyDsRjscI-OEvQ-M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Belly+Dental+Care+%7Cbest+dental+clinic+,+yadgir%7C/data=!4m7!3m6!1s0x3bc8533d93590d9f:0xe3432fe1f808c78e!8m2!3d16.7521688!4d77.1427075!16s%2Fg%2F11trxfjsxz!19sChIJnw1Zkz1TyDsRjscI-OEvQ-M?authuser=0&hl=en&rclk=1"
@@ -350,8 +348,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Belly+Dental+Care+%7Cbest+dental+clinic+,+yadgir%7C/data=!4m7!3m6!1s0x3bc8533d93590d9f:0xe3432fe1f808c78e!8m2!3d16.7521688!4d77.1427075!16s%2Fg%2F11trxfjsxz!19sChIJnw1Zkz1TyDsRjscI-OEvQ-M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "girish-hospital-yadgir-yadgiri",
@@ -399,7 +396,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Girish+Hospital+Yadgir/data=!4m7!3m6!1s0x3bc85388567a43e3:0x8f6c48f6e4d3f47d!8m2!3d16.747794!4d77.1328578!16s%2Fg%2F11s179hkq7!19sChIJ40N6VohTyDsRffTT5PZIbI8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Girish+Hospital+Yadgir/data=!4m7!3m6!1s0x3bc85388567a43e3:0x8f6c48f6e4d3f47d!8m2!3d16.747794!4d77.1328578!16s%2Fg%2F11s179hkq7!19sChIJ40N6VohTyDsRffTT5PZIbI8?authuser=0&hl=en&rclk=1"
@@ -465,11 +462,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Girish+Hospital+Yadgir/data=!4m7!3m6!1s0x3bc85388567a43e3:0x8f6c48f6e4d3f47d!8m2!3d16.747794!4d77.1328578!16s%2Fg%2F11s179hkq7!19sChIJ40N6VohTyDsRffTT5PZIbI8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "laser-veda-kalmani-healthcare-foundation-yadgir-k-rural",
@@ -517,7 +513,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LASER+VEDA+KALMANI+HEALTHCARE+FOUNDATION/data=!4m7!3m6!1s0x3bc8539960e81947:0x3b43a3e4d71f2cb2!8m2!3d16.7713985!4d77.1411956!16s%2Fg%2F11l6tm9xn2!19sChIJRxnoYJlTyDsRsiwf1-SjQzs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LASER+VEDA+KALMANI+HEALTHCARE+FOUNDATION/data=!4m7!3m6!1s0x3bc8539960e81947:0x3b43a3e4d71f2cb2!8m2!3d16.7713985!4d77.1411956!16s%2Fg%2F11l6tm9xn2!19sChIJRxnoYJlTyDsRsiwf1-SjQzs?authuser=0&hl=en&rclk=1"
@@ -583,11 +579,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LASER+VEDA+KALMANI+HEALTHCARE+FOUNDATION/data=!4m7!3m6!1s0x3bc8539960e81947:0x3b43a3e4d71f2cb2!8m2!3d16.7713985!4d77.1411956!16s%2Fg%2F11l6tm9xn2!19sChIJRxnoYJlTyDsRsiwf1-SjQzs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-line-hospital-yadgir-k-rural",
@@ -635,7 +630,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+Line+Hospital/data=!4m7!3m6!1s0x3bc85395f6f72437:0x5b6b02608c4c851f!8m2!3d16.7653955!4d77.1303052!16s%2Fg%2F124ycd54x!19sChIJNyT39pVTyDsRH4VMjGACa1s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Line+Hospital/data=!4m7!3m6!1s0x3bc85395f6f72437:0x5b6b02608c4c851f!8m2!3d16.7653955!4d77.1303052!16s%2Fg%2F124ycd54x!19sChIJNyT39pVTyDsRH4VMjGACa1s?authuser=0&hl=en&rclk=1"
@@ -704,8 +699,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+Line+Hospital/data=!4m7!3m6!1s0x3bc85395f6f72437:0x5b6b02608c4c851f!8m2!3d16.7653955!4d77.1303052!16s%2Fg%2F124ycd54x!19sChIJNyT39pVTyDsRH4VMjGACa1s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mahadev-skin-hair-and-cosmetology-clinic-yadgiri",
@@ -753,7 +747,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mahadev+skin,+hair+and+cosmetology+clinic/data=!4m7!3m6!1s0x3bc853279c25afdf:0xa1a069575f382946!8m2!3d16.7568295!4d77.1295029!16s%2Fg%2F11ww2dj72h!19sChIJ368lnCdTyDsRRik4X1dpoKE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahadev+skin,+hair+and+cosmetology+clinic/data=!4m7!3m6!1s0x3bc853279c25afdf:0xa1a069575f382946!8m2!3d16.7568295!4d77.1295029!16s%2Fg%2F11ww2dj72h!19sChIJ368lnCdTyDsRRik4X1dpoKE?authuser=0&hl=en&rclk=1"
@@ -819,11 +813,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mahadev+skin,+hair+and+cosmetology+clinic/data=!4m7!3m6!1s0x3bc853279c25afdf:0xa1a069575f382946!8m2!3d16.7568295!4d77.1295029!16s%2Fg%2F11ww2dj72h!19sChIJ368lnCdTyDsRRik4X1dpoKE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mailaralingeshwara-dental-clinic-yadgiri",
@@ -871,7 +864,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mailaralingeshwara+dental+clinic/data=!4m7!3m6!1s0x3bc85310727d5edd:0xe72e74f6a0ffdd00!8m2!3d16.7488912!4d77.1308913!16s%2Fg%2F11y8k3n4gl!19sChIJ3V59chBTyDsRAN3_oPZ0Luc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mailaralingeshwara+dental+clinic/data=!4m7!3m6!1s0x3bc85310727d5edd:0xe72e74f6a0ffdd00!8m2!3d16.7488912!4d77.1308913!16s%2Fg%2F11y8k3n4gl!19sChIJ3V59chBTyDsRAN3_oPZ0Luc?authuser=0&hl=en&rclk=1"
@@ -937,11 +930,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mailaralingeshwara+dental+clinic/data=!4m7!3m6!1s0x3bc85310727d5edd:0xe72e74f6a0ffdd00!8m2!3d16.7488912!4d77.1308913!16s%2Fg%2F11y8k3n4gl!19sChIJ3V59chBTyDsRAN3_oPZ0Luc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maya-skin-care-yadgiri",
@@ -989,7 +981,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maya+Skin+Care/data=!4m7!3m6!1s0x3bc853af6b54bb1f:0x1b717c7d9dd16e0a!8m2!3d16.7528564!4d77.1409857!16s%2Fg%2F11l663hyv4!19sChIJH7tUa69TyDsRCm7RnX18cRs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maya+Skin+Care/data=!4m7!3m6!1s0x3bc853af6b54bb1f:0x1b717c7d9dd16e0a!8m2!3d16.7528564!4d77.1409857!16s%2Fg%2F11l663hyv4!19sChIJH7tUa69TyDsRCm7RnX18cRs?authuser=0&hl=en&rclk=1"
@@ -1055,11 +1047,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maya+Skin+Care/data=!4m7!3m6!1s0x3bc853af6b54bb1f:0x1b717c7d9dd16e0a!8m2!3d16.7528564!4d77.1409857!16s%2Fg%2F11l663hyv4!19sChIJH7tUa69TyDsRCm7RnX18cRs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "naikodi-dental-clinic-yadgiri",
@@ -1109,7 +1100,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Naikodi+Dental+Clinic/data=!4m7!3m6!1s0x3bc853f97b858ea3:0x98d15e54c0ec3cdc!8m2!3d16.7533878!4d77.1348152!16s%2Fg%2F11g4lpnqt6!19sChIJo46Fe_lTyDsR3DzswFRe0Zg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naikodi+Dental+Clinic/data=!4m7!3m6!1s0x3bc853f97b858ea3:0x98d15e54c0ec3cdc!8m2!3d16.7533878!4d77.1348152!16s%2Fg%2F11g4lpnqt6!19sChIJo46Fe_lTyDsR3DzswFRe0Zg?authuser=0&hl=en&rclk=1"
@@ -1178,8 +1169,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Naikodi+Dental+Clinic/data=!4m7!3m6!1s0x3bc853f97b858ea3:0x98d15e54c0ec3cdc!8m2!3d16.7533878!4d77.1348152!16s%2Fg%2F11g4lpnqt6!19sChIJo46Fe_lTyDsR3DzswFRe0Zg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "naikodi-s-ent-speciality-hospital-yadgiri",
@@ -1228,7 +1218,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Naikodi%27s+ENT+Speciality+Hospital/data=!4m7!3m6!1s0x3bc8533bb824f8e9:0x3cd3bcf9e386ffd5!8m2!3d16.7533767!4d77.1347892!16s%2Fg%2F11rkgmjms0!19sChIJ6fgkuDtTyDsR1f-G4_m80zw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naikodi%27s+ENT+Speciality+Hospital/data=!4m7!3m6!1s0x3bc8533bb824f8e9:0x3cd3bcf9e386ffd5!8m2!3d16.7533767!4d77.1347892!16s%2Fg%2F11rkgmjms0!19sChIJ6fgkuDtTyDsR1f-G4_m80zw?authuser=0&hl=en&rclk=1"
@@ -1294,11 +1284,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Naikodi%27s+ENT+Speciality+Hospital/data=!4m7!3m6!1s0x3bc8533bb824f8e9:0x3cd3bcf9e386ffd5!8m2!3d16.7533767!4d77.1347892!16s%2Fg%2F11rkgmjms0!19sChIJ6fgkuDtTyDsR1f-G4_m80zw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patil-skin-clinic-yadgiri",
@@ -1346,7 +1335,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patil+skin+clinic/data=!4m7!3m6!1s0x3bc8530028ac9d97:0xa6a1a9f1a689b8b8!8m2!3d16.7532103!4d77.1350426!16s%2Fg%2F11y8kmxs7y!19sChIJl52sKABTyDsRuLiJpvGpoaY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patil+skin+clinic/data=!4m7!3m6!1s0x3bc8530028ac9d97:0xa6a1a9f1a689b8b8!8m2!3d16.7532103!4d77.1350426!16s%2Fg%2F11y8kmxs7y!19sChIJl52sKABTyDsRuLiJpvGpoaY?authuser=0&hl=en&rclk=1"
@@ -1412,11 +1401,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patil+skin+clinic/data=!4m7!3m6!1s0x3bc8530028ac9d97:0xa6a1a9f1a689b8b8!8m2!3d16.7532103!4d77.1350426!16s%2Fg%2F11y8kmxs7y!19sChIJl52sKABTyDsRuLiJpvGpoaY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "plaza-dental-care-beside-maragamma-gudi",
@@ -1464,7 +1452,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PLAZA+DENTAL+CARE/data=!4m7!3m6!1s0x3bc8533ceb3900f1:0x9dbc5fef5f7ce7e3!8m2!3d16.759042!4d77.1369188!16s%2Fg%2F1yg4d_mpm!19sChIJ8QA56zxTyDsR4-d8X-9fvJ0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PLAZA+DENTAL+CARE/data=!4m7!3m6!1s0x3bc8533ceb3900f1:0x9dbc5fef5f7ce7e3!8m2!3d16.759042!4d77.1369188!16s%2Fg%2F1yg4d_mpm!19sChIJ8QA56zxTyDsR4-d8X-9fvJ0?authuser=0&hl=en&rclk=1"
@@ -1533,8 +1521,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PLAZA+DENTAL+CARE/data=!4m7!3m6!1s0x3bc8533ceb3900f1:0x9dbc5fef5f7ce7e3!8m2!3d16.759042!4d77.1369188!16s%2Fg%2F1yg4d_mpm!19sChIJ8QA56zxTyDsR4-d8X-9fvJ0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prakruthi-dental-care-govt-hospital-road-yadgir-58502",
@@ -1582,7 +1569,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PRAKRUTHI+DENTAL+CARE/@16.7531642,77.1376973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc85348603d89bb:0xc9f331c28440d326!8m2!3d16.7531642!4d77.1376973!16s%2Fg%2F11q8t4618r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRAKRUTHI+DENTAL+CARE/@16.7531642,77.1376973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc85348603d89bb:0xc9f331c28440d326!8m2!3d16.7531642!4d77.1376973!16s%2Fg%2F11q8t4618r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1648,11 +1635,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PRAKRUTHI+DENTAL+CARE/@16.7531642,77.1376973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc85348603d89bb:0xc9f331c28440d326!8m2!3d16.7531642!4d77.1376973!16s%2Fg%2F11q8t4618r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sagri-skin-care-yadgiri",
@@ -1700,7 +1686,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAGRI+SKIN+CARE/data=!4m7!3m6!1s0x3bc8530066846c71:0x78c99a09c5b2abc0!8m2!3d16.7486041!4d77.1373719!16s%2Fg%2F11w9j3q3ds!19sChIJcWyEZgBTyDsRwKuyxQmayXg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAGRI+SKIN+CARE/data=!4m7!3m6!1s0x3bc8530066846c71:0x78c99a09c5b2abc0!8m2!3d16.7486041!4d77.1373719!16s%2Fg%2F11w9j3q3ds!19sChIJcWyEZgBTyDsRwKuyxQmayXg?authuser=0&hl=en&rclk=1"
@@ -1766,11 +1752,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAGRI+SKIN+CARE/data=!4m7!3m6!1s0x3bc8530066846c71:0x78c99a09c5b2abc0!8m2!3d16.7486041!4d77.1373719!16s%2Fg%2F11w9j3q3ds!19sChIJcWyEZgBTyDsRwKuyxQmayXg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sajjalashree-dental-clinic-hyderabad-road",
@@ -1816,7 +1801,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sajjalashree+Dental+Clinic/@16.7475853,77.1366585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8536439ffddb9:0xd37e6d7d12c8f61d!8m2!3d16.7475853!4d77.1366585!16s%2Fg%2F11p7111smb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sajjalashree+Dental+Clinic/@16.7475853,77.1366585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8536439ffddb9:0xd37e6d7d12c8f61d!8m2!3d16.7475853!4d77.1366585!16s%2Fg%2F11p7111smb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1882,11 +1867,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sajjalashree+Dental+Clinic/@16.7475853,77.1366585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8536439ffddb9:0xd37e6d7d12c8f61d!8m2!3d16.7475853!4d77.1366585!16s%2Fg%2F11p7111smb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sajjalashree-hospital-yadgiri",
@@ -1934,7 +1918,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sajjalashree+Hospital/data=!4m7!3m6!1s0x3bc853b20609eb97:0x8cf60e41c4c168f9!8m2!3d16.7475816!4d77.1366566!16s%2Fg%2F1hc16bdtv!19sChIJl-sJBrJTyDsR-WjBxEEO9ow?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sajjalashree+Hospital/data=!4m7!3m6!1s0x3bc853b20609eb97:0x8cf60e41c4c168f9!8m2!3d16.7475816!4d77.1366566!16s%2Fg%2F1hc16bdtv!19sChIJl-sJBrJTyDsR-WjBxEEO9ow?authuser=0&hl=en&rclk=1"
@@ -2000,11 +1984,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sajjalashree+Hospital/data=!4m7!3m6!1s0x3bc853b20609eb97:0x8cf60e41c4c168f9!8m2!3d16.7475816!4d77.1366566!16s%2Fg%2F1hc16bdtv!19sChIJl-sJBrJTyDsR-WjBxEEO9ow?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevini-dental-care-opposite-veterinary-hospital",
@@ -2052,7 +2035,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SANJEEVINI+DENTAL+CARE/data=!4m7!3m6!1s0x3bc85335b25d57a5:0x7e061cb1fe60cd1!8m2!3d16.7475841!4d77.1323019!16s%2Fg%2F11fgm200s9!19sChIJpVddsjVTyDsR0QzmH8th4Ac?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SANJEEVINI+DENTAL+CARE/data=!4m7!3m6!1s0x3bc85335b25d57a5:0x7e061cb1fe60cd1!8m2!3d16.7475841!4d77.1323019!16s%2Fg%2F11fgm200s9!19sChIJpVddsjVTyDsR0QzmH8th4Ac?authuser=0&hl=en&rclk=1"
@@ -2121,8 +2104,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SANJEEVINI+DENTAL+CARE/data=!4m7!3m6!1s0x3bc85335b25d57a5:0x7e061cb1fe60cd1!8m2!3d16.7475841!4d77.1323019!16s%2Fg%2F11fgm200s9!19sChIJpVddsjVTyDsR0QzmH8th4Ac?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saudagar-hospital-dr-zakir-husain-chowk",
@@ -2170,7 +2152,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saudagar+Hospital/data=!4m7!3m6!1s0x3bc853afefec0a75:0x3fea6f9511af0a49!8m2!3d16.7533663!4d77.1379928!16s%2Fg%2F1hm6dmxtk!19sChIJdQrs769TyDsRSQqvEZVv6j8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saudagar+Hospital/data=!4m7!3m6!1s0x3bc853afefec0a75:0x3fea6f9511af0a49!8m2!3d16.7533663!4d77.1379928!16s%2Fg%2F1hm6dmxtk!19sChIJdQrs769TyDsRSQqvEZVv6j8?authuser=0&hl=en&rclk=1"
@@ -2239,8 +2221,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saudagar+Hospital/data=!4m7!3m6!1s0x3bc853afefec0a75:0x3fea6f9511af0a49!8m2!3d16.7533663!4d77.1379928!16s%2Fg%2F1hm6dmxtk!19sChIJdQrs769TyDsRSQqvEZVv6j8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shankarappagouda-hospital-and-eye-care-yadgiri",
@@ -2288,7 +2269,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shankarappagouda+hospital+and+eye+care/@16.7525552,77.1359443,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc853cefa8540a9:0xe68806276dfdd2a3!8m2!3d16.7525552!4d77.1359443!16s%2Fg%2F11fwbcs45g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shankarappagouda+hospital+and+eye+care/@16.7525552,77.1359443,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc853cefa8540a9:0xe68806276dfdd2a3!8m2!3d16.7525552!4d77.1359443!16s%2Fg%2F11fwbcs45g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2357,8 +2338,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shankarappagouda+hospital+and+eye+care/@16.7525552,77.1359443,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc853cefa8540a9:0xe68806276dfdd2a3!8m2!3d16.7525552!4d77.1359443!16s%2Fg%2F11fwbcs45g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-sugureshwar-hospital-g-m-mooknoor-complex-yadgiri",
@@ -2406,7 +2386,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Sugureshwar+Hospital+G+M+Mooknoor+Complex/data=!4m7!3m6!1s0x3bc853667cba3a61:0x3d18908637275164!8m2!3d16.7649642!4d77.1518967!16s%2Fg%2F11ghznfgd4!19sChIJYTq6fGZTyDsRZFEnN4aQGD0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Sugureshwar+Hospital+G+M+Mooknoor+Complex/data=!4m7!3m6!1s0x3bc853667cba3a61:0x3d18908637275164!8m2!3d16.7649642!4d77.1518967!16s%2Fg%2F11ghznfgd4!19sChIJYTq6fGZTyDsRZFEnN4aQGD0?authuser=0&hl=en&rclk=1"
@@ -2475,8 +2455,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Sugureshwar+Hospital+G+M+Mooknoor+Complex/data=!4m7!3m6!1s0x3bc853667cba3a61:0x3d18908637275164!8m2!3d16.7649642!4d77.1518967!16s%2Fg%2F11ghznfgd4!19sChIJYTq6fGZTyDsRZFEnN4aQGD0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sm-care-hospital-yadgir-k-rural",
@@ -2524,7 +2503,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SM+Care+Hospital/data=!4m7!3m6!1s0x3bc85395f00aa7d1:0x8559e8b498cd1df8!8m2!3d16.7660267!4d77.1306789!16s%2Fg%2F11f_j9bfwz!19sChIJ0acK8JVTyDsR-B3NmLToWYU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SM+Care+Hospital/data=!4m7!3m6!1s0x3bc85395f00aa7d1:0x8559e8b498cd1df8!8m2!3d16.7660267!4d77.1306789!16s%2Fg%2F11f_j9bfwz!19sChIJ0acK8JVTyDsR-B3NmLToWYU?authuser=0&hl=en&rclk=1"
@@ -2593,8 +2572,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SM+Care+Hospital/data=!4m7!3m6!1s0x3bc85395f00aa7d1:0x8559e8b498cd1df8!8m2!3d16.7660267!4d77.1306789!16s%2Fg%2F11f_j9bfwz!19sChIJ0acK8JVTyDsR-B3NmLToWYU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-solutions-dental-clinic-yadgir-k-rural",
@@ -2642,7 +2620,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Solutions+dental+clinic/data=!4m7!3m6!1s0x3bc853693e2e3179:0xeb265e249735d7fb!8m2!3d16.7715881!4d77.137279!16s%2Fg%2F11tp3tbxrv!19sChIJeTEuPmlTyDsR-9c1lyReJus?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Solutions+dental+clinic/data=!4m7!3m6!1s0x3bc853693e2e3179:0xeb265e249735d7fb!8m2!3d16.7715881!4d77.137279!16s%2Fg%2F11tp3tbxrv!19sChIJeTEuPmlTyDsR-9c1lyReJus?authuser=0&hl=en&rclk=1"
@@ -2708,11 +2686,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Solutions+dental+clinic/data=!4m7!3m6!1s0x3bc853693e2e3179:0xeb265e249735d7fb!8m2!3d16.7715881!4d77.137279!16s%2Fg%2F11tp3tbxrv!19sChIJeTEuPmlTyDsR-9c1lyReJus?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijay-clinic-yadgiri",
@@ -2761,7 +2738,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vijay+Clinic/data=!4m7!3m6!1s0x3bc853b217733c55:0x6121358a97ca7319!8m2!3d16.7478311!4d77.1355673!16s%2Fg%2F11bv1lkbsq!19sChIJVTxzF7JTyDsRGXPKl4o1IWE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijay+Clinic/data=!4m7!3m6!1s0x3bc853b217733c55:0x6121358a97ca7319!8m2!3d16.7478311!4d77.1355673!16s%2Fg%2F11bv1lkbsq!19sChIJVTxzF7JTyDsRGXPKl4o1IWE?authuser=0&hl=en&rclk=1"
@@ -2827,11 +2804,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vijay+Clinic/data=!4m7!3m6!1s0x3bc853b217733c55:0x6121358a97ca7319!8m2!3d16.7478311!4d77.1355673!16s%2Fg%2F11bv1lkbsq!19sChIJVTxzF7JTyDsRGXPKl4o1IWE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wellcare-hospital-yadgir-k-rural",
@@ -2879,7 +2855,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Wellcare+hospital/@16.7657701,77.1319621,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8533c7906a9a7:0x2a15ee63820e0106!8m2!3d16.7657701!4d77.1319621!16s%2Fg%2F11tsmfytv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wellcare+hospital/@16.7657701,77.1319621,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8533c7906a9a7:0x2a15ee63820e0106!8m2!3d16.7657701!4d77.1319621!16s%2Fg%2F11tsmfytv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2945,11 +2921,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Wellcare+hospital/@16.7657701,77.1319621,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8533c7906a9a7:0x2a15ee63820e0106!8m2!3d16.7657701!4d77.1319621!16s%2Fg%2F11tsmfytv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yadgir-dental-hospital-1st-floor",
@@ -2997,7 +2972,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yadgir+dental+hospital/data=!4m7!3m6!1s0x3bc85357bc5b45b3:0xd92c9c9e728b48b7!8m2!3d16.7714851!4d77.1371918!16s%2Fg%2F11s3qbwj6h!19sChIJs0VbvFdTyDsRt0iLcp6cLNk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yadgir+dental+hospital/data=!4m7!3m6!1s0x3bc85357bc5b45b3:0xd92c9c9e728b48b7!8m2!3d16.7714851!4d77.1371918!16s%2Fg%2F11s3qbwj6h!19sChIJs0VbvFdTyDsRt0iLcp6cLNk?authuser=0&hl=en&rclk=1"
@@ -3066,8 +3041,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yadgir+dental+hospital/data=!4m7!3m6!1s0x3bc85357bc5b45b3:0xd92c9c9e728b48b7!8m2!3d16.7714851!4d77.1371918!16s%2Fg%2F11s3qbwj6h!19sChIJs0VbvFdTyDsRt0iLcp6cLNk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yadgir-government-hospital-yadgiri",
@@ -3115,7 +3089,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yadgir+Government+Hospital/@16.7525027,77.1388785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc853af9595d769:0x18e5607b20b058bc!8m2!3d16.7525027!4d77.1388785!16s%2Fg%2F124sqvc12?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yadgir+Government+Hospital/@16.7525027,77.1388785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc853af9595d769:0x18e5607b20b058bc!8m2!3d16.7525027!4d77.1388785!16s%2Fg%2F124sqvc12?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3184,8 +3158,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yadgir+Government+Hospital/@16.7525027,77.1388785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc853af9595d769:0x18e5607b20b058bc!8m2!3d16.7525027!4d77.1388785!16s%2Fg%2F124sqvc12?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yadgir-institute-of-medical-sciences-mudnal",
@@ -3233,7 +3206,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/YADGIR+INSTITUTE+OF+MEDICAL+SCIENCES/data=!4m7!3m6!1s0x3bc857dcf2a94f0d:0xc5805bcbaf86e488!8m2!3d16.7968569!4d77.098481!16s%2Fg%2F11fnwdkn5y!19sChIJDU-p8txXyDsRiOSGr8tbgMU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/YADGIR+INSTITUTE+OF+MEDICAL+SCIENCES/data=!4m7!3m6!1s0x3bc857dcf2a94f0d:0xc5805bcbaf86e488!8m2!3d16.7968569!4d77.098481!16s%2Fg%2F11fnwdkn5y!19sChIJDU-p8txXyDsRiOSGr8tbgMU?authuser=0&hl=en&rclk=1"
@@ -3302,8 +3275,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/YADGIR+INSTITUTE+OF+MEDICAL+SCIENCES/data=!4m7!3m6!1s0x3bc857dcf2a94f0d:0xc5805bcbaf86e488!8m2!3d16.7968569!4d77.098481!16s%2Fg%2F11fnwdkn5y!19sChIJDU-p8txXyDsRiOSGr8tbgMU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yadgiri-kidney-centre-hospital-y-k-c-yadgiri",
@@ -3352,7 +3324,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yadgiri+kidney+centre+Hospital+Y.K.C/data=!4m7!3m6!1s0x3bc85381e2c8f1b3:0x2934306bddbeae7d!8m2!3d16.7554985!4d77.1287772!16s%2Fg%2F11t5ds18d5!19sChIJs_HI4oFTyDsRfa6-3WswNCk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yadgiri+kidney+centre+Hospital+Y.K.C/data=!4m7!3m6!1s0x3bc85381e2c8f1b3:0x2934306bddbeae7d!8m2!3d16.7554985!4d77.1287772!16s%2Fg%2F11t5ds18d5!19sChIJs_HI4oFTyDsRfa6-3WswNCk?authuser=0&hl=en&rclk=1"
@@ -3421,7 +3393,6 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yadgiri+kidney+centre+Hospital+Y.K.C/data=!4m7!3m6!1s0x3bc85381e2c8f1b3:0x2934306bddbeae7d!8m2!3d16.7554985!4d77.1287772!16s%2Fg%2F11t5ds18d5!19sChIJs_HI4oFTyDsRfa6-3WswNCk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

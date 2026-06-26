@@ -46,7 +46,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+Shirdi+%7C+Home+Collection+%7C+Shirdi/data=!4m7!3m6!1s0x3bdc5bb6f31bf6a1:0xcffe0a5b8728fb20!8m2!3d19.7629161!4d74.4759108!16s%2Fg%2F11x60v4z0_!19sChIJofYb87Zb3DsRIPsoh1sK_s8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+Shirdi+%7C+Home+Collection+%7C+Shirdi/data=!4m7!3m6!1s0x3bdc5bb6f31bf6a1:0xcffe0a5b8728fb20!8m2!3d19.7629161!4d74.4759108!16s%2Fg%2F11x60v4z0_!19sChIJofYb87Zb3DsRIPsoh1sK_s8?authuser=0&hl=en&rclk=1"
@@ -112,11 +112,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+Shirdi+%7C+Home+Collection+%7C+Shirdi/data=!4m7!3m6!1s0x3bdc5bb6f31bf6a1:0xcffe0a5b8728fb20!8m2!3d19.7629161!4d74.4759108!16s%2Fg%2F11x60v4z0_!19sChIJofYb87Zb3DsRIPsoh1sK_s8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "atma-malik-hospital-kopargaon",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ATMA+MALIK+HOSPITAL/data=!4m7!3m6!1s0x3bdc5b4bd2e3a797:0x7c54c498da7b11ed!8m2!3d19.8322217!4d74.4761563!16s%2Fg%2F11b5wdg8vs!19sChIJl6fj0ktb3DsR7RF72pjEVHw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ATMA+MALIK+HOSPITAL/data=!4m7!3m6!1s0x3bdc5b4bd2e3a797:0x7c54c498da7b11ed!8m2!3d19.8322217!4d74.4761563!16s%2Fg%2F11b5wdg8vs!19sChIJl6fj0ktb3DsR7RF72pjEVHw?authuser=0&hl=en&rclk=1"
@@ -233,8 +232,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ATMA+MALIK+HOSPITAL/data=!4m7!3m6!1s0x3bdc5b4bd2e3a797:0x7c54c498da7b11ed!8m2!3d19.8322217!4d74.4761563!16s%2Fg%2F11b5wdg8vs!19sChIJl6fj0ktb3DsR7RF72pjEVHw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chintamani-medical-shirdi",
@@ -283,7 +281,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CHINTAMANI+MEDICAL/data=!4m7!3m6!1s0x3bdc5bbfb15727e9:0x4aefaa84af813064!8m2!3d19.7651872!4d74.4742148!16s%2Fg%2F11c1wsdq7t!19sChIJ6SdXsb9b3DsRZDCBr4Sq70o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHINTAMANI+MEDICAL/data=!4m7!3m6!1s0x3bdc5bbfb15727e9:0x4aefaa84af813064!8m2!3d19.7651872!4d74.4742148!16s%2Fg%2F11c1wsdq7t!19sChIJ6SdXsb9b3DsRZDCBr4Sq70o?authuser=0&hl=en&rclk=1"
@@ -352,8 +350,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CHINTAMANI+MEDICAL/data=!4m7!3m6!1s0x3bdc5bbfb15727e9:0x4aefaa84af813064!8m2!3d19.7651872!4d74.4742148!16s%2Fg%2F11c1wsdq7t!19sChIJ6SdXsb9b3DsRZDCBr4Sq70o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "clinic-shirdi",
@@ -399,7 +396,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Clinic/data=!4m7!3m6!1s0x3bdc5b49ad894f0f:0x2de87ef8bb98904b!8m2!3d19.7597549!4d74.4818854!16s%2Fg%2F11yck79rxf!19sChIJD0-JrUlb3DsRS5CYu_h-6C0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic/data=!4m7!3m6!1s0x3bdc5b49ad894f0f:0x2de87ef8bb98904b!8m2!3d19.7597549!4d74.4818854!16s%2Fg%2F11yck79rxf!19sChIJD0-JrUlb3DsRS5CYu_h-6C0?authuser=0&hl=en&rclk=1"
@@ -465,11 +462,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Clinic/data=!4m7!3m6!1s0x3bdc5b49ad894f0f:0x2de87ef8bb98904b!8m2!3d19.7597549!4d74.4818854!16s%2Fg%2F11yck79rxf!19sChIJD0-JrUlb3DsRS5CYu_h-6C0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "craftsman-plastic-reconstruction-and-cosmetic-surgery-centre-mumbai-mumbai",
@@ -518,7 +514,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Craftsman+Plastic+Reconstruction+and+Cosmetic+Surgery+Centre+-+Mumbai/data=!4m7!3m6!1s0x3be7b778bb6e97c1:0x2b72b2c09aaa0359!8m2!3d19.1785534!4d72.846703!16s%2Fg%2F11hfgn6sc4!19sChIJwZduu3i35zsRWQOqmsCycis?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Craftsman+Plastic+Reconstruction+and+Cosmetic+Surgery+Centre+-+Mumbai/data=!4m7!3m6!1s0x3be7b778bb6e97c1:0x2b72b2c09aaa0359!8m2!3d19.1785534!4d72.846703!16s%2Fg%2F11hfgn6sc4!19sChIJwZduu3i35zsRWQOqmsCycis?authuser=0&hl=en&rclk=1"
@@ -587,8 +583,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Craftsman+Plastic+Reconstruction+and+Cosmetic+Surgery+Centre+-+Mumbai/data=!4m7!3m6!1s0x3be7b778bb6e97c1:0x2b72b2c09aaa0359!8m2!3d19.1785534!4d72.846703!16s%2Fg%2F11hfgn6sc4!19sChIJwZduu3i35zsRWQOqmsCycis?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "divya-amrut-ayurvedic-center-shirdi",
@@ -634,7 +629,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Divya+Amrut+Ayurvedic+Center/data=!4m7!3m6!1s0x3bdc5b8dc0a1a1bf:0x5f8f15599115e874!8m2!3d19.7682818!4d74.489481!16s%2Fg%2F11rtdbmf4s!19sChIJv6GhwI1b3DsRdOgVkVkVj18?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divya+Amrut+Ayurvedic+Center/data=!4m7!3m6!1s0x3bdc5b8dc0a1a1bf:0x5f8f15599115e874!8m2!3d19.7682818!4d74.489481!16s%2Fg%2F11rtdbmf4s!19sChIJv6GhwI1b3DsRdOgVkVkVj18?authuser=0&hl=en&rclk=1"
@@ -700,11 +695,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Divya+Amrut+Ayurvedic+Center/data=!4m7!3m6!1s0x3bdc5b8dc0a1a1bf:0x5f8f15599115e874!8m2!3d19.7682818!4d74.489481!16s%2Fg%2F11rtdbmf4s!19sChIJv6GhwI1b3DsRdOgVkVkVj18?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gore-hospital-piles-clinic-rahata",
@@ -752,7 +746,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gore+Hospital+,Piles+clinic/data=!4m7!3m6!1s0x3bdc593dcc8fea93:0x67c4e68504c1e95d!8m2!3d19.7097568!4d74.4789552!16s%2Fg%2F11bvv_7mpd!19sChIJk-qPzD1Z3DsRXenBBIXmxGc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gore+Hospital+,Piles+clinic/data=!4m7!3m6!1s0x3bdc593dcc8fea93:0x67c4e68504c1e95d!8m2!3d19.7097568!4d74.4789552!16s%2Fg%2F11bvv_7mpd!19sChIJk-qPzD1Z3DsRXenBBIXmxGc?authuser=0&hl=en&rclk=1"
@@ -821,8 +815,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gore+Hospital+,Piles+clinic/data=!4m7!3m6!1s0x3bdc593dcc8fea93:0x67c4e68504c1e95d!8m2!3d19.7097568!4d74.4789552!16s%2Fg%2F11bvv_7mpd!19sChIJk-qPzD1Z3DsRXenBBIXmxGc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healthassure-joshi-hospital-imaging-and-diagnostics-ct-scans-x-ray-blood-test-ultrasound-in-shirdi-shirdi",
@@ -871,7 +864,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HealthAssure+-+Joshi+Hospital+%7C+Imaging+And+Diagnostics+-+CT+SCANS+%7C+X-Ray+%7C+Blood+Test+%7C+Ultrasound+in+Shirdi/data=!4m7!3m6!1s0x3bdc5b80d64dd171:0x2c247640385ec0d8!8m2!3d19.7597104!4d74.4769017!16s%2Fg%2F11xf2yj8g9!19sChIJcdFN1oBb3DsR2MBeOEB2JCw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HealthAssure+-+Joshi+Hospital+%7C+Imaging+And+Diagnostics+-+CT+SCANS+%7C+X-Ray+%7C+Blood+Test+%7C+Ultrasound+in+Shirdi/data=!4m7!3m6!1s0x3bdc5b80d64dd171:0x2c247640385ec0d8!8m2!3d19.7597104!4d74.4769017!16s%2Fg%2F11xf2yj8g9!19sChIJcdFN1oBb3DsR2MBeOEB2JCw?authuser=0&hl=en&rclk=1"
@@ -937,11 +930,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HealthAssure+-+Joshi+Hospital+%7C+Imaging+And+Diagnostics+-+CT+SCANS+%7C+X-Ray+%7C+Blood+Test+%7C+Ultrasound+in+Shirdi/data=!4m7!3m6!1s0x3bdc5b80d64dd171:0x2c247640385ec0d8!8m2!3d19.7597104!4d74.4769017!16s%2Fg%2F11xf2yj8g9!19sChIJcdFN1oBb3DsR2MBeOEB2JCw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "joshi-hospital-and-man-arogya-kendra-shirdi",
@@ -989,7 +981,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Joshi+Hospital+%26+Man+Arogya+Kendra/data=!4m7!3m6!1s0x3bdc5bea62e0d15d:0xf5b82b1d1d161d93!8m2!3d19.7597036!4d74.4769041!16s%2Fg%2F1hc2f7v5x!19sChIJXdHgYupb3DsRkx0WHR0ruPU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Joshi+Hospital+%26+Man+Arogya+Kendra/data=!4m7!3m6!1s0x3bdc5bea62e0d15d:0xf5b82b1d1d161d93!8m2!3d19.7597036!4d74.4769041!16s%2Fg%2F1hc2f7v5x!19sChIJXdHgYupb3DsRkx0WHR0ruPU?authuser=0&hl=en&rclk=1"
@@ -1058,8 +1050,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Joshi+Hospital+%26+Man+Arogya+Kendra/data=!4m7!3m6!1s0x3bdc5bea62e0d15d:0xf5b82b1d1d161d93!8m2!3d19.7597036!4d74.4769041!16s%2Fg%2F1hc2f7v5x!19sChIJXdHgYupb3DsRkx0WHR0ruPU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kalajay-dental-clinic-rahata",
@@ -1108,7 +1099,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kalajay+Dental+Clinic/data=!4m7!3m6!1s0x3bdc59fff79215e5:0xacc29a8bb50db869!8m2!3d19.7103741!4d74.4801007!16s%2Fg%2F11lcwnxv5c!19sChIJ5RWS9_9Z3DsRabgNtYuawqw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalajay+Dental+Clinic/data=!4m7!3m6!1s0x3bdc59fff79215e5:0xacc29a8bb50db869!8m2!3d19.7103741!4d74.4801007!16s%2Fg%2F11lcwnxv5c!19sChIJ5RWS9_9Z3DsRabgNtYuawqw?authuser=0&hl=en&rclk=1"
@@ -1174,11 +1165,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kalajay+Dental+Clinic/data=!4m7!3m6!1s0x3bdc59fff79215e5:0xacc29a8bb50db869!8m2!3d19.7103741!4d74.4801007!16s%2Fg%2F11lcwnxv5c!19sChIJ5RWS9_9Z3DsRabgNtYuawqw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kanawade-spine-hospital-sangamner",
@@ -1228,7 +1218,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kanawade+Spine+Hospital/data=!4m7!3m6!1s0x3bdd0145d4bf7329:0x4d74762e23f83256!8m2!3d19.5701255!4d74.2004464!16s%2Fg%2F11g_ym67v1!19sChIJKXO_1EUB3TsRVjL4Iy52dE0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kanawade+Spine+Hospital/data=!4m7!3m6!1s0x3bdd0145d4bf7329:0x4d74762e23f83256!8m2!3d19.5701255!4d74.2004464!16s%2Fg%2F11g_ym67v1!19sChIJKXO_1EUB3TsRVjL4Iy52dE0?authuser=0&hl=en&rclk=1"
@@ -1297,8 +1287,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kanawade+Spine+Hospital/data=!4m7!3m6!1s0x3bdd0145d4bf7329:0x4d74762e23f83256!8m2!3d19.5701255!4d74.2004464!16s%2Fg%2F11g_ym67v1!19sChIJKXO_1EUB3TsRVjL4Iy52dE0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kotasthane-hospital-shirdi",
@@ -1346,7 +1335,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kotasthane+hospital/data=!4m7!3m6!1s0x3bdc5bbfb0d7050b:0x194ede7701aab427!8m2!3d19.7649052!4d74.4741404!16s%2Fg%2F1hjggpjvp!19sChIJCwXXsL9b3DsRJ7SqAXfeThk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kotasthane+hospital/data=!4m7!3m6!1s0x3bdc5bbfb0d7050b:0x194ede7701aab427!8m2!3d19.7649052!4d74.4741404!16s%2Fg%2F1hjggpjvp!19sChIJCwXXsL9b3DsRJ7SqAXfeThk?authuser=0&hl=en&rclk=1"
@@ -1412,11 +1401,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kotasthane+hospital/data=!4m7!3m6!1s0x3bdc5bbfb0d7050b:0x194ede7701aab427!8m2!3d19.7649052!4d74.4741404!16s%2Fg%2F1hjggpjvp!19sChIJCwXXsL9b3DsRJ7SqAXfeThk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kothari-dental-care-surgical-and-implant-centre-kopargaon",
@@ -1465,7 +1453,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kothari+Dental+Care+Surgical+and+Implant+Centre./data=!4m7!3m6!1s0x3bdc45c4e8618f05:0x5027ce2bc1e1fd4!8m2!3d19.8850665!4d74.4725123!16s%2Fg%2F11t519s9ph!19sChIJBY9h6MRF3DsR1B8evOJ8AgU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kothari+Dental+Care+Surgical+and+Implant+Centre./data=!4m7!3m6!1s0x3bdc45c4e8618f05:0x5027ce2bc1e1fd4!8m2!3d19.8850665!4d74.4725123!16s%2Fg%2F11t519s9ph!19sChIJBY9h6MRF3DsR1B8evOJ8AgU?authuser=0&hl=en&rclk=1"
@@ -1531,11 +1519,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kothari+Dental+Care+Surgical+and+Implant+Centre./data=!4m7!3m6!1s0x3bdc45c4e8618f05:0x5027ce2bc1e1fd4!8m2!3d19.8850665!4d74.4725123!16s%2Fg%2F11t519s9ph!19sChIJBY9h6MRF3DsR1B8evOJ8AgU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kothari-dental-clinic-shirdi",
@@ -1583,7 +1570,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kothari+Dental+Clinic/data=!4m7!3m6!1s0x3bdc5bdbb2069b33:0xa99b766d867932b0!8m2!3d19.7701142!4d74.4742477!16s%2Fg%2F11spmvtgvb!19sChIJM5sGsttb3DsRsDJ5hm12m6k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kothari+Dental+Clinic/data=!4m7!3m6!1s0x3bdc5bdbb2069b33:0xa99b766d867932b0!8m2!3d19.7701142!4d74.4742477!16s%2Fg%2F11spmvtgvb!19sChIJM5sGsttb3DsRsDJ5hm12m6k?authuser=0&hl=en&rclk=1"
@@ -1649,11 +1636,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kothari+Dental+Clinic/data=!4m7!3m6!1s0x3bdc5bdbb2069b33:0xa99b766d867932b0!8m2!3d19.7701142!4d74.4742477!16s%2Fg%2F11spmvtgvb!19sChIJM5sGsttb3DsRsDJ5hm12m6k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krsnaa-diagnostics-shri-saibaba-sansthan-trust-s-shri-saibaba-hospital-shirdi",
@@ -1703,7 +1689,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%28Shri+Saibaba+Sansthan+Trust%E2%80%99s+Shri+Saibaba+Hospital%29/data=!4m7!3m6!1s0x3bdc5bbf456bf3e9:0xc0e0ded0c7a05ad3!8m2!3d19.7631194!4d74.4709534!16s%2Fg%2F11hb63c6vk!19sChIJ6fNrRb9b3DsR01qgx9De4MA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krsnaa+Diagnostics+%28Shri+Saibaba+Sansthan+Trust%E2%80%99s+Shri+Saibaba+Hospital%29/data=!4m7!3m6!1s0x3bdc5bbf456bf3e9:0xc0e0ded0c7a05ad3!8m2!3d19.7631194!4d74.4709534!16s%2Fg%2F11hb63c6vk!19sChIJ6fNrRb9b3DsR01qgx9De4MA?authuser=0&hl=en&rclk=1"
@@ -1772,8 +1758,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%28Shri+Saibaba+Sansthan+Trust%E2%80%99s+Shri+Saibaba+Hospital%29/data=!4m7!3m6!1s0x3bdc5bbf456bf3e9:0xc0e0ded0c7a05ad3!8m2!3d19.7631194!4d74.4709534!16s%2Fg%2F11hb63c6vk!19sChIJ6fNrRb9b3DsR01qgx9De4MA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kute-hospital-and-laparoscopy-centre-sangamner",
@@ -1822,7 +1807,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kute+Hospital+%26+Laparoscopy+Centre/data=!4m7!3m6!1s0x3bdd01d403a147b9:0x1efc641bb9b87504!8m2!3d19.5720412!4d74.2125019!16s%2Fg%2F1tfjp4st!19sChIJuUehA9QB3TsRBHW4uRtk_B4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kute+Hospital+%26+Laparoscopy+Centre/data=!4m7!3m6!1s0x3bdd01d403a147b9:0x1efc641bb9b87504!8m2!3d19.5720412!4d74.2125019!16s%2Fg%2F1tfjp4st!19sChIJuUehA9QB3TsRBHW4uRtk_B4?authuser=0&hl=en&rclk=1"
@@ -1891,8 +1876,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kute+Hospital+%26+Laparoscopy+Centre/data=!4m7!3m6!1s0x3bdd01d403a147b9:0x1efc641bb9b87504!8m2!3d19.5720412!4d74.2125019!16s%2Fg%2F1tfjp4st!19sChIJuUehA9QB3TsRBHW4uRtk_B4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "leangrik-shirdi",
@@ -1938,7 +1922,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Leangrik/data=!4m7!3m6!1s0x3bdc5bb82a9b024f:0x8e2b42b0315e1ae2!8m2!3d19.7645364!4d74.4762124!16s%2Fg%2F11s619n1w2!19sChIJTwKbKrhb3DsR4hpeMbBCK44?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Leangrik/data=!4m7!3m6!1s0x3bdc5bb82a9b024f:0x8e2b42b0315e1ae2!8m2!3d19.7645364!4d74.4762124!16s%2Fg%2F11s619n1w2!19sChIJTwKbKrhb3DsR4hpeMbBCK44?authuser=0&hl=en&rclk=1"
@@ -2004,11 +1988,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Leangrik/data=!4m7!3m6!1s0x3bdc5bb82a9b024f:0x8e2b42b0315e1ae2!8m2!3d19.7645364!4d74.4762124!16s%2Fg%2F11s619n1w2!19sChIJTwKbKrhb3DsR4hpeMbBCK44?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lodha-hospital-sakori",
@@ -2056,7 +2039,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lodha+Hospital/data=!4m7!3m6!1s0x3bdc5940ffe2a337:0x1385ee160a3382ce!8m2!3d19.7195534!4d74.4787588!16s%2Fg%2F11c5fzq_8h!19sChIJN6Pi_0BZ3DsRzoIzChbuhRM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lodha+Hospital/data=!4m7!3m6!1s0x3bdc5940ffe2a337:0x1385ee160a3382ce!8m2!3d19.7195534!4d74.4787588!16s%2Fg%2F11c5fzq_8h!19sChIJN6Pi_0BZ3DsRzoIzChbuhRM?authuser=0&hl=en&rclk=1"
@@ -2122,11 +2105,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lodha+Hospital/data=!4m7!3m6!1s0x3bdc5940ffe2a337:0x1385ee160a3382ce!8m2!3d19.7195534!4d74.4787588!16s%2Fg%2F11c5fzq_8h!19sChIJN6Pi_0BZ3DsRzoIzChbuhRM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "marsi-cear-clinic-rahata",
@@ -2172,7 +2154,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Marsi+cear+clinic/data=!4m7!3m6!1s0x3bdc59225037a833:0x4d087b104e71e462!8m2!3d19.7174933!4d74.4801094!16s%2Fg%2F11lrqvpphm!19sChIJM6g3UCJZ3DsRYuRxThB7CE0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Marsi+cear+clinic/data=!4m7!3m6!1s0x3bdc59225037a833:0x4d087b104e71e462!8m2!3d19.7174933!4d74.4801094!16s%2Fg%2F11lrqvpphm!19sChIJM6g3UCJZ3DsRYuRxThB7CE0?authuser=0&hl=en&rclk=1"
@@ -2238,11 +2220,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Marsi+cear+clinic/data=!4m7!3m6!1s0x3bdc59225037a833:0x4d087b104e71e462!8m2!3d19.7174933!4d74.4801094!16s%2Fg%2F11lrqvpphm!19sChIJM6g3UCJZ3DsRYuRxThB7CE0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mateshwari-accupuncture-healthcare-centre-shirdi",
@@ -2288,7 +2269,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mateshwari+Accupuncture+Healthcare+Centre/data=!4m7!3m6!1s0x3bdc5b5cd5637b1f:0x1dd5225c7b6afcb2!8m2!3d19.7673737!4d74.4814121!16s%2Fg%2F11vzr_8zlj!19sChIJH3tj1Vxb3DsRsvxqe1wi1R0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mateshwari+Accupuncture+Healthcare+Centre/data=!4m7!3m6!1s0x3bdc5b5cd5637b1f:0x1dd5225c7b6afcb2!8m2!3d19.7673737!4d74.4814121!16s%2Fg%2F11vzr_8zlj!19sChIJH3tj1Vxb3DsRsvxqe1wi1R0?authuser=0&hl=en&rclk=1"
@@ -2354,11 +2335,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mateshwari+Accupuncture+Healthcare+Centre/data=!4m7!3m6!1s0x3bdc5b5cd5637b1f:0x1dd5225c7b6afcb2!8m2!3d19.7673737!4d74.4814121!16s%2Fg%2F11vzr_8zlj!19sChIJH3tj1Vxb3DsRsvxqe1wi1R0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "miracle-beauti-center-shirdi",
@@ -2406,7 +2386,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Miracle+Beauti+Center/data=!4m7!3m6!1s0x3bdc5b004380d8c5:0xfd41ed3e89be429a!8m2!3d19.7604355!4d74.4921555!16s%2Fg%2F11n48tpkhs!19sChIJxdiAQwBb3DsRmkK-iT7tQf0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Miracle+Beauti+Center/data=!4m7!3m6!1s0x3bdc5b004380d8c5:0xfd41ed3e89be429a!8m2!3d19.7604355!4d74.4921555!16s%2Fg%2F11n48tpkhs!19sChIJxdiAQwBb3DsRmkK-iT7tQf0?authuser=0&hl=en&rclk=1"
@@ -2472,11 +2452,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Miracle+Beauti+Center/data=!4m7!3m6!1s0x3bdc5b004380d8c5:0xfd41ed3e89be429a!8m2!3d19.7604355!4d74.4921555!16s%2Fg%2F11n48tpkhs!19sChIJxdiAQwBb3DsRmkK-iT7tQf0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "miracle-beauty-centre-shirdi",
@@ -2525,7 +2504,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Miracle+Beauty+Centre/data=!4m7!3m6!1s0x3bdc5b0007f24a47:0x5e492cbb4284decc!8m2!3d19.7588422!4d74.4777889!16s%2Fg%2F11w1xv7gm2!19sChIJR0ryBwBb3DsRzN6EQrssSV4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Miracle+Beauty+Centre/data=!4m7!3m6!1s0x3bdc5b0007f24a47:0x5e492cbb4284decc!8m2!3d19.7588422!4d74.4777889!16s%2Fg%2F11w1xv7gm2!19sChIJR0ryBwBb3DsRzN6EQrssSV4?authuser=0&hl=en&rclk=1"
@@ -2591,11 +2570,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Miracle+Beauty+Centre/data=!4m7!3m6!1s0x3bdc5b0007f24a47:0x5e492cbb4284decc!8m2!3d19.7588422!4d74.4777889!16s%2Fg%2F11w1xv7gm2!19sChIJR0ryBwBb3DsRzN6EQrssSV4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-sai-nature-care-center-shirdi",
@@ -2642,7 +2620,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Om+Sai+Nature+Care+Center/data=!4m7!3m6!1s0x3bdc5b15113a55fb:0x1ecb6b76bc52f58c!8m2!3d19.7636927!4d74.4735808!16s%2Fg%2F11v3tpkcrw!19sChIJ-1U6ERVb3DsRjPVSvHZryx4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Sai+Nature+Care+Center/data=!4m7!3m6!1s0x3bdc5b15113a55fb:0x1ecb6b76bc52f58c!8m2!3d19.7636927!4d74.4735808!16s%2Fg%2F11v3tpkcrw!19sChIJ-1U6ERVb3DsRjPVSvHZryx4?authuser=0&hl=en&rclk=1"
@@ -2708,11 +2686,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Om+Sai+Nature+Care+Center/data=!4m7!3m6!1s0x3bdc5b15113a55fb:0x1ecb6b76bc52f58c!8m2!3d19.7636927!4d74.4735808!16s%2Fg%2F11v3tpkcrw!19sChIJ-1U6ERVb3DsRjPVSvHZryx4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-sai-speech-and-hearing-clinic-shirdi-shirdi",
@@ -2759,7 +2736,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Om+Sai+Speech+and+Hearing+Clinic+%28Shirdi%29/data=!4m7!3m6!1s0x3bdc5b18cf3e9f53:0xb725658b0d581beb!8m2!3d19.7651553!4d74.4753367!16s%2Fg%2F11g3hjkfc5!19sChIJU58-zxhb3DsR6xtYDYtlJbc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Sai+Speech+and+Hearing+Clinic+%28Shirdi%29/data=!4m7!3m6!1s0x3bdc5b18cf3e9f53:0xb725658b0d581beb!8m2!3d19.7651553!4d74.4753367!16s%2Fg%2F11g3hjkfc5!19sChIJU58-zxhb3DsR6xtYDYtlJbc?authuser=0&hl=en&rclk=1"
@@ -2825,11 +2802,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Om+Sai+Speech+and+Hearing+Clinic+%28Shirdi%29/data=!4m7!3m6!1s0x3bdc5b18cf3e9f53:0xb725658b0d581beb!8m2!3d19.7651553!4d74.4753367!16s%2Fg%2F11g3hjkfc5!19sChIJU58-zxhb3DsR6xtYDYtlJbc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-k-dent-care-center-shirdi",
@@ -2877,7 +2853,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S+K+Dent+Care+center/data=!4m7!3m6!1s0x3bdc5b178119c05d:0xee7a3d35931f51a0!8m2!3d19.7653683!4d74.4731477!16s%2Fg%2F11n03n7lth!19sChIJXcAZgRdb3DsRoFEfkzU9eu4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+K+Dent+Care+center/data=!4m7!3m6!1s0x3bdc5b178119c05d:0xee7a3d35931f51a0!8m2!3d19.7653683!4d74.4731477!16s%2Fg%2F11n03n7lth!19sChIJXcAZgRdb3DsRoFEfkzU9eu4?authuser=0&hl=en&rclk=1"
@@ -2943,11 +2919,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S+K+Dent+Care+center/data=!4m7!3m6!1s0x3bdc5b178119c05d:0xee7a3d35931f51a0!8m2!3d19.7653683!4d74.4731477!16s%2Fg%2F11n03n7lth!19sChIJXcAZgRdb3DsRoFEfkzU9eu4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-amrut-health-care-shirdi",
@@ -2993,7 +2968,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Amrut+Health+Care/data=!4m7!3m6!1s0x3bdc5b57506a9919:0x841b62d6e6f175aa!8m2!3d19.7622604!4d74.4785151!16s%2Fg%2F11smkwgw8t!19sChIJGZlqUFdb3DsRqnXx5tZiG4Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Amrut+Health+Care/data=!4m7!3m6!1s0x3bdc5b57506a9919:0x841b62d6e6f175aa!8m2!3d19.7622604!4d74.4785151!16s%2Fg%2F11smkwgw8t!19sChIJGZlqUFdb3DsRqnXx5tZiG4Q?authuser=0&hl=en&rclk=1"
@@ -3059,11 +3034,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Amrut+Health+Care/data=!4m7!3m6!1s0x3bdc5b57506a9919:0x841b62d6e6f175aa!8m2!3d19.7622604!4d74.4785151!16s%2Fg%2F11smkwgw8t!19sChIJGZlqUFdb3DsRqnXx5tZiG4Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-anandi-clinic-nandurkhi-bk",
@@ -3111,7 +3085,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Anandi+Clinic/data=!4m7!3m6!1s0x3bdc5b027af765b5:0xe0ee58deabf91f92!8m2!3d19.7412297!4d74.4483371!16s%2Fg%2F11qpjjgz7l!19sChIJtWX3egJb3DsRkh_5q95Y7uA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Anandi+Clinic/data=!4m7!3m6!1s0x3bdc5b027af765b5:0xe0ee58deabf91f92!8m2!3d19.7412297!4d74.4483371!16s%2Fg%2F11qpjjgz7l!19sChIJtWX3egJb3DsRkh_5q95Y7uA?authuser=0&hl=en&rclk=1"
@@ -3177,11 +3151,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Anandi+Clinic/data=!4m7!3m6!1s0x3bdc5b027af765b5:0xe0ee58deabf91f92!8m2!3d19.7412297!4d74.4483371!16s%2Fg%2F11qpjjgz7l!19sChIJtWX3egJb3DsRkh_5q95Y7uA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-balaji-tours-and-travels-shirdi-shirdi",
@@ -3230,7 +3203,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Balaji+Tours+%26+Travels+Shirdi/@19.7688354,74.4797779,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdc5bc146d0b7b1:0x260eb83d27e63638!8m2!3d19.7688354!4d74.4797779!16s%2Fg%2F11vwnwy19v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Balaji+Tours+%26+Travels+Shirdi/@19.7688354,74.4797779,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdc5bc146d0b7b1:0x260eb83d27e63638!8m2!3d19.7688354!4d74.4797779!16s%2Fg%2F11vwnwy19v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3299,8 +3272,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Balaji+Tours+%26+Travels+Shirdi/@19.7688354,74.4797779,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdc5bc146d0b7b1:0x260eb83d27e63638!8m2!3d19.7688354!4d74.4797779!16s%2Fg%2F11vwnwy19v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-clinic-nimgaon-nimgaon-korhale",
@@ -3346,7 +3318,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+clinic+nimgaon/data=!4m7!3m6!1s0x3bdc5b002bf8f8c9:0x62fe68080ee396e!8m2!3d19.7855804!4d74.4670311!16s%2Fg%2F11whmw864n!19sChIJyfj4KwBb3DsRbjnugIDmLwY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+clinic+nimgaon/data=!4m7!3m6!1s0x3bdc5b002bf8f8c9:0x62fe68080ee396e!8m2!3d19.7855804!4d74.4670311!16s%2Fg%2F11whmw864n!19sChIJyfj4KwBb3DsRbjnugIDmLwY?authuser=0&hl=en&rclk=1"
@@ -3412,11 +3384,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+clinic+nimgaon/data=!4m7!3m6!1s0x3bdc5b002bf8f8c9:0x62fe68080ee396e!8m2!3d19.7855804!4d74.4670311!16s%2Fg%2F11whmw864n!19sChIJyfj4KwBb3DsRbjnugIDmLwY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-deep-clinic-shirdi",
@@ -3462,7 +3433,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAI+DEEP+CLINIC/data=!4m7!3m6!1s0x3bdc5b82a49329a5:0x31afe829ff7c6249!8m2!3d19.7627604!4d74.4783897!16s%2Fg%2F11txgxc0h4!19sChIJpSmTpIJb3DsRSWJ8_ynorzE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAI+DEEP+CLINIC/data=!4m7!3m6!1s0x3bdc5b82a49329a5:0x31afe829ff7c6249!8m2!3d19.7627604!4d74.4783897!16s%2Fg%2F11txgxc0h4!19sChIJpSmTpIJb3DsRSWJ8_ynorzE?authuser=0&hl=en&rclk=1"
@@ -3528,11 +3499,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAI+DEEP+CLINIC/data=!4m7!3m6!1s0x3bdc5b82a49329a5:0x31afe829ff7c6249!8m2!3d19.7627604!4d74.4783897!16s%2Fg%2F11txgxc0h4!19sChIJpSmTpIJb3DsRSWJ8_ynorzE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-dhanvantari-clinic-nighoj",
@@ -3580,7 +3550,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Dhanvantari+Clinic/data=!4m7!3m6!1s0x3bdc5b0e6184f253:0x330c88bf68eadd3e!8m2!3d19.7941984!4d74.4690157!16s%2Fg%2F1234pzw0t!19sChIJU_KEYQ5b3DsRPt3qaL-IDDM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Dhanvantari+Clinic/data=!4m7!3m6!1s0x3bdc5b0e6184f253:0x330c88bf68eadd3e!8m2!3d19.7941984!4d74.4690157!16s%2Fg%2F1234pzw0t!19sChIJU_KEYQ5b3DsRPt3qaL-IDDM?authuser=0&hl=en&rclk=1"
@@ -3646,11 +3616,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Dhanvantari+Clinic/data=!4m7!3m6!1s0x3bdc5b0e6184f253:0x330c88bf68eadd3e!8m2!3d19.7941984!4d74.4690157!16s%2Fg%2F1234pzw0t!19sChIJU_KEYQ5b3DsRPt3qaL-IDDM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-sanjeevani-clinic-shirdi",
@@ -3698,7 +3667,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Sanjeevani+Clinic/data=!4m7!3m6!1s0x3bdc5be56cdcf267:0x5b499e1878ab9aa0!8m2!3d19.7653034!4d74.4719655!16s%2Fg%2F11xl9plny8!19sChIJZ_LcbOVb3DsRoJqreBieSVs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Sanjeevani+Clinic/data=!4m7!3m6!1s0x3bdc5be56cdcf267:0x5b499e1878ab9aa0!8m2!3d19.7653034!4d74.4719655!16s%2Fg%2F11xl9plny8!19sChIJZ_LcbOVb3DsRoJqreBieSVs?authuser=0&hl=en&rclk=1"
@@ -3764,11 +3733,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Sanjeevani+Clinic/data=!4m7!3m6!1s0x3bdc5be56cdcf267:0x5b499e1878ab9aa0!8m2!3d19.7653034!4d74.4719655!16s%2Fg%2F11xl9plny8!19sChIJZ_LcbOVb3DsRoJqreBieSVs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saideep-clinic-shirdi",
@@ -3814,7 +3782,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saideep+clinic/data=!4m7!3m6!1s0x3bdc5b920f692a9b:0x8675d626cf13fc9f!8m2!3d19.7834783!4d74.4624372!16s%2Fg%2F11y5p2sq0h!19sChIJmyppD5Jb3DsRn_wTzybWdYY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saideep+clinic/data=!4m7!3m6!1s0x3bdc5b920f692a9b:0x8675d626cf13fc9f!8m2!3d19.7834783!4d74.4624372!16s%2Fg%2F11y5p2sq0h!19sChIJmyppD5Jb3DsRn_wTzybWdYY?authuser=0&hl=en&rclk=1"
@@ -3880,11 +3848,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saideep+clinic/data=!4m7!3m6!1s0x3bdc5b920f692a9b:0x8675d626cf13fc9f!8m2!3d19.7834783!4d74.4624372!16s%2Fg%2F11y5p2sq0h!19sChIJmyppD5Jb3DsRn_wTzybWdYY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saidham-cancer-foundation-shirdi-kakadi",
@@ -3933,7 +3900,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAIDHAM+CANCER+FOUNDATION+SHIRDI/data=!4m7!3m6!1s0x3bdc57000ffdc0a9:0x83824ee48c34f482!8m2!3d19.699427!4d74.3706514!16s%2Fg%2F11y3rl2w6j!19sChIJqcD9DwBX3DsRgvQ0jOROgoM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAIDHAM+CANCER+FOUNDATION+SHIRDI/data=!4m7!3m6!1s0x3bdc57000ffdc0a9:0x83824ee48c34f482!8m2!3d19.699427!4d74.3706514!16s%2Fg%2F11y3rl2w6j!19sChIJqcD9DwBX3DsRgvQ0jOROgoM?authuser=0&hl=en&rclk=1"
@@ -4002,8 +3969,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAIDHAM+CANCER+FOUNDATION+SHIRDI/data=!4m7!3m6!1s0x3bdc57000ffdc0a9:0x83824ee48c34f482!8m2!3d19.699427!4d74.3706514!16s%2Fg%2F11y3rl2w6j!19sChIJqcD9DwBX3DsRgvQ0jOROgoM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saikrupaa-clinic-shirdi",
@@ -4051,7 +4017,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saikrupaa+Clinic/data=!4m7!3m6!1s0x3bdc5be0e9f12ba9:0x5a8badb487d9bd19!8m2!3d19.7668235!4d74.4797272!16s%2Fg%2F11z1gjdrw9!19sChIJqSvx6eBb3DsRGb3Zh7Sti1o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saikrupaa+Clinic/data=!4m7!3m6!1s0x3bdc5be0e9f12ba9:0x5a8badb487d9bd19!8m2!3d19.7668235!4d74.4797272!16s%2Fg%2F11z1gjdrw9!19sChIJqSvx6eBb3DsRGb3Zh7Sti1o?authuser=0&hl=en&rclk=1"
@@ -4117,11 +4083,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saikrupaa+Clinic/data=!4m7!3m6!1s0x3bdc5be0e9f12ba9:0x5a8badb487d9bd19!8m2!3d19.7668235!4d74.4797272!16s%2Fg%2F11z1gjdrw9!19sChIJqSvx6eBb3DsRGb3Zh7Sti1o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saismit-dental-clinic-shirdi",
@@ -4169,7 +4134,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saismit+Dental+Clinic/data=!4m7!3m6!1s0x3bdc5b5a1f31786f:0x35ad353daf0bfde9!8m2!3d19.766961!4d74.4804588!16s%2Fg%2F11h7w9p_r1!19sChIJb3gxH1pb3DsR6f0Lrz01rTU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saismit+Dental+Clinic/data=!4m7!3m6!1s0x3bdc5b5a1f31786f:0x35ad353daf0bfde9!8m2!3d19.766961!4d74.4804588!16s%2Fg%2F11h7w9p_r1!19sChIJb3gxH1pb3DsR6f0Lrz01rTU?authuser=0&hl=en&rclk=1"
@@ -4235,11 +4200,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saismit+Dental+Clinic/data=!4m7!3m6!1s0x3bdc5b5a1f31786f:0x35ad353daf0bfde9!8m2!3d19.766961!4d74.4804588!16s%2Fg%2F11h7w9p_r1!19sChIJb3gxH1pb3DsR6f0Lrz01rTU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satyam-sonography-center-shirdi-shirdi",
@@ -4288,7 +4252,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Satyam+Sonography+Center+shirdi/data=!4m7!3m6!1s0x3bdc5bc2427c2ed3:0xce249d57477ad2cb!8m2!3d19.7637545!4d74.4741802!16s%2Fg%2F11p65qfs9p!19sChIJ0y58QsJb3DsRy9J6R1edJM4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyam+Sonography+Center+shirdi/data=!4m7!3m6!1s0x3bdc5bc2427c2ed3:0xce249d57477ad2cb!8m2!3d19.7637545!4d74.4741802!16s%2Fg%2F11p65qfs9p!19sChIJ0y58QsJb3DsRy9J6R1edJM4?authuser=0&hl=en&rclk=1"
@@ -4354,11 +4318,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Satyam+Sonography+Center+shirdi/data=!4m7!3m6!1s0x3bdc5bc2427c2ed3:0xce249d57477ad2cb!8m2!3d19.7637545!4d74.4741802!16s%2Fg%2F11p65qfs9p!19sChIJ0y58QsJb3DsRy9J6R1edJM4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "seva-clinic-shirdi",
@@ -4404,7 +4367,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Seva+clinic/data=!4m7!3m6!1s0x3bdc5b007a0939cb:0x5b40e1062cf7e002!8m2!3d19.7648424!4d74.4677778!16s%2Fg%2F11mf7lcnv3!19sChIJyzkJegBb3DsRAuD3LAbhQFs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seva+clinic/data=!4m7!3m6!1s0x3bdc5b007a0939cb:0x5b40e1062cf7e002!8m2!3d19.7648424!4d74.4677778!16s%2Fg%2F11mf7lcnv3!19sChIJyzkJegBb3DsRAuD3LAbhQFs?authuser=0&hl=en&rclk=1"
@@ -4470,11 +4433,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Seva+clinic/data=!4m7!3m6!1s0x3bdc5b007a0939cb:0x5b40e1062cf7e002!8m2!3d19.7648424!4d74.4677778!16s%2Fg%2F11mf7lcnv3!19sChIJyzkJegBb3DsRAuD3LAbhQFs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shalimar-clinic-shirdi",
@@ -4520,7 +4482,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shalimar+Clinic/data=!4m7!3m6!1s0x3bdc5b0067e02963:0xc4f4096fcbd5949a!8m2!3d19.7657188!4d74.4736673!16s%2Fg%2F11z6thbgx1!19sChIJYyngZwBb3DsRmpTVy28J9MQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shalimar+Clinic/data=!4m7!3m6!1s0x3bdc5b0067e02963:0xc4f4096fcbd5949a!8m2!3d19.7657188!4d74.4736673!16s%2Fg%2F11z6thbgx1!19sChIJYyngZwBb3DsRmpTVy28J9MQ?authuser=0&hl=en&rclk=1"
@@ -4586,11 +4548,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shalimar+Clinic/data=!4m7!3m6!1s0x3bdc5b0067e02963:0xc4f4096fcbd5949a!8m2!3d19.7657188!4d74.4736673!16s%2Fg%2F11z6thbgx1!19sChIJYyngZwBb3DsRmpTVy28J9MQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shifa-medical-shirdi",
@@ -4636,7 +4597,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shifa+Medical/data=!4m7!3m6!1s0x3bdc5b9934a702a7:0x702faa50b632c90a!8m2!3d19.7651291!4d74.4691476!16s%2Fg%2F11ld8hqkx1!19sChIJpwKnNJlb3DsRCskytlCqL3A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shifa+Medical/data=!4m7!3m6!1s0x3bdc5b9934a702a7:0x702faa50b632c90a!8m2!3d19.7651291!4d74.4691476!16s%2Fg%2F11ld8hqkx1!19sChIJpwKnNJlb3DsRCskytlCqL3A?authuser=0&hl=en&rclk=1"
@@ -4702,11 +4663,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shifa+Medical/data=!4m7!3m6!1s0x3bdc5b9934a702a7:0x702faa50b632c90a!8m2!3d19.7651291!4d74.4691476!16s%2Fg%2F11ld8hqkx1!19sChIJpwKnNJlb3DsRCskytlCqL3A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shirdi-shirdi",
@@ -4753,7 +4713,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shirdi/data=!4m7!3m6!1s0x3bdc5b0029240dc7:0x99773ef33a84820f!8m2!3d19.7641393!4d74.4776497!16s%2Fg%2F11z635ccbj!19sChIJxw0kKQBb3DsRD4KEOvM-d5k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shirdi/data=!4m7!3m6!1s0x3bdc5b0029240dc7:0x99773ef33a84820f!8m2!3d19.7641393!4d74.4776497!16s%2Fg%2F11z635ccbj!19sChIJxw0kKQBb3DsRD4KEOvM-d5k?authuser=0&hl=en&rclk=1"
@@ -4819,11 +4779,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shirdi/data=!4m7!3m6!1s0x3bdc5b0029240dc7:0x99773ef33a84820f!8m2!3d19.7641393!4d74.4776497!16s%2Fg%2F11z635ccbj!19sChIJxw0kKQBb3DsRD4KEOvM-d5k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shraddha-medico-medical-biroba-rd",
@@ -4871,7 +4830,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shraddha+Medico+Medical/data=!4m7!3m6!1s0x3bdc5b31b224c8af:0xb6ebc80c30fdda04!8m2!3d19.7604713!4d74.4765581!16s%2Fg%2F11sfh52wq5!19sChIJr8gksjFb3DsRBNr9MAzI67Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddha+Medico+Medical/data=!4m7!3m6!1s0x3bdc5b31b224c8af:0xb6ebc80c30fdda04!8m2!3d19.7604713!4d74.4765581!16s%2Fg%2F11sfh52wq5!19sChIJr8gksjFb3DsRBNr9MAzI67Y?authuser=0&hl=en&rclk=1"
@@ -4937,11 +4896,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shraddha+Medico+Medical/data=!4m7!3m6!1s0x3bdc5b31b224c8af:0xb6ebc80c30fdda04!8m2!3d19.7604713!4d74.4765581!16s%2Fg%2F11sfh52wq5!19sChIJr8gksjFb3DsRBNr9MAzI67Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-life-care-hospital-kopargaon",
@@ -4989,7 +4947,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Life+Care+Hospital/data=!4m7!3m6!1s0x3bdc4556ef3f88d1:0x6b44ac8275f70cce!8m2!3d19.8849518!4d74.4798717!16s%2Fg%2F11qsz9pbrf!19sChIJ0Yg_71ZF3DsRzgz3dYKsRGs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Life+Care+Hospital/data=!4m7!3m6!1s0x3bdc4556ef3f88d1:0x6b44ac8275f70cce!8m2!3d19.8849518!4d74.4798717!16s%2Fg%2F11qsz9pbrf!19sChIJ0Yg_71ZF3DsRzgz3dYKsRGs?authuser=0&hl=en&rclk=1"
@@ -5058,8 +5016,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Life+Care+Hospital/data=!4m7!3m6!1s0x3bdc4556ef3f88d1:0x6b44ac8275f70cce!8m2!3d19.8849518!4d74.4798717!16s%2Fg%2F11qsz9pbrf!19sChIJ0Yg_71ZF3DsRzgz3dYKsRGs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-janardan-swami-hospital-sjs-hospital-kokamthan",
@@ -5108,7 +5065,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Janardan+Swami+Hospital+%28SJS+Hospital%29/data=!4m7!3m6!1s0x3bdc45510ed37163:0xaf75ae7b1cbf6b95!8m2!3d19.8666862!4d74.4944099!16s%2Fg%2F11lm1cvfx7!19sChIJY3HTDlFF3DsRlWu_HHuuda8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Janardan+Swami+Hospital+%28SJS+Hospital%29/data=!4m7!3m6!1s0x3bdc45510ed37163:0xaf75ae7b1cbf6b95!8m2!3d19.8666862!4d74.4944099!16s%2Fg%2F11lm1cvfx7!19sChIJY3HTDlFF3DsRlWu_HHuuda8?authuser=0&hl=en&rclk=1"
@@ -5177,8 +5134,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Janardan+Swami+Hospital+%28SJS+Hospital%29/data=!4m7!3m6!1s0x3bdc45510ed37163:0xaf75ae7b1cbf6b95!8m2!3d19.8666862!4d74.4944099!16s%2Fg%2F11lm1cvfx7!19sChIJY3HTDlFF3DsRlWu_HHuuda8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-sai-baba-hospital-shirdi",
@@ -5227,7 +5183,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Sai+Baba+Hospital/data=!4m7!3m6!1s0x3bdc5b94fc43054f:0x8bed72be38a30d80!8m2!3d19.7635291!4d74.475736!16s%2Fg%2F11fzf5cr_3!19sChIJTwVD_JRb3DsRgA2jOL5y7Ys?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Sai+Baba+Hospital/data=!4m7!3m6!1s0x3bdc5b94fc43054f:0x8bed72be38a30d80!8m2!3d19.7635291!4d74.475736!16s%2Fg%2F11fzf5cr_3!19sChIJTwVD_JRb3DsRgA2jOL5y7Ys?authuser=0&hl=en&rclk=1"
@@ -5296,8 +5252,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Sai+Baba+Hospital/data=!4m7!3m6!1s0x3bdc5b94fc43054f:0x8bed72be38a30d80!8m2!3d19.7635291!4d74.475736!16s%2Fg%2F11fzf5cr_3!19sChIJTwVD_JRb3DsRgA2jOL5y7Ys?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-sai-dhanwantari-clinical-laboratory-shirdi",
@@ -5345,7 +5300,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Sai+Dhanwantari+Clinical+Laboratory/data=!4m7!3m6!1s0x3bdc5b00453a0465:0x9fd18f71353e79fe!8m2!3d19.7650378!4d74.47777!16s%2Fg%2F11y3ch234w!19sChIJZQQ6RQBb3DsR_nk-NXGP0Z8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Sai+Dhanwantari+Clinical+Laboratory/data=!4m7!3m6!1s0x3bdc5b00453a0465:0x9fd18f71353e79fe!8m2!3d19.7650378!4d74.47777!16s%2Fg%2F11y3ch234w!19sChIJZQQ6RQBb3DsR_nk-NXGP0Z8?authuser=0&hl=en&rclk=1"
@@ -5411,11 +5366,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Sai+Dhanwantari+Clinical+Laboratory/data=!4m7!3m6!1s0x3bdc5b00453a0465:0x9fd18f71353e79fe!8m2!3d19.7650378!4d74.47777!16s%2Fg%2F11y3ch234w!19sChIJZQQ6RQBb3DsR_nk-NXGP0Z8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-sainath-hospital-shirdi-shirdi",
@@ -5464,7 +5418,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Sainath+Hospital,+Shirdi/data=!4m7!3m6!1s0x3bdc5bbf4f886cf5:0xd64d53768d072235!8m2!3d19.7631328!4d74.4708738!16s%2Fg%2F11c6qlkv2m!19sChIJ9WyIT79b3DsRNSIHjXZTTdY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Sainath+Hospital,+Shirdi/data=!4m7!3m6!1s0x3bdc5bbf4f886cf5:0xd64d53768d072235!8m2!3d19.7631328!4d74.4708738!16s%2Fg%2F11c6qlkv2m!19sChIJ9WyIT79b3DsRNSIHjXZTTdY?authuser=0&hl=en&rclk=1"
@@ -5530,11 +5484,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Sainath+Hospital,+Shirdi/data=!4m7!3m6!1s0x3bdc5bbf4f886cf5:0xd64d53768d072235!8m2!3d19.7631328!4d74.4708738!16s%2Fg%2F11c6qlkv2m!19sChIJ9WyIT79b3DsRNSIHjXZTTdY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sumedh-clinic-shirdi",
@@ -5582,7 +5535,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sumedh+Clinic/data=!4m7!3m6!1s0x3bdc5bc7784c9097:0x6820c02dd6d48aed!8m2!3d19.765213!4d74.4741407!16s%2Fg%2F11fjs8tt6f!19sChIJl5BMeMdb3DsR7YrU1i3AIGg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sumedh+Clinic/data=!4m7!3m6!1s0x3bdc5bc7784c9097:0x6820c02dd6d48aed!8m2!3d19.765213!4d74.4741407!16s%2Fg%2F11fjs8tt6f!19sChIJl5BMeMdb3DsR7YrU1i3AIGg?authuser=0&hl=en&rclk=1"
@@ -5651,8 +5604,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sumedh+Clinic/data=!4m7!3m6!1s0x3bdc5bc7784c9097:0x6820c02dd6d48aed!8m2!3d19.765213!4d74.4741407!16s%2Fg%2F11fjs8tt6f!19sChIJl5BMeMdb3DsR7YrU1i3AIGg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thyrocare-diagnostic-lab-blood-test-centre-rahata-ahmednagar-rahata",
@@ -5702,7 +5654,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Thyrocare+Diagnostic+Lab+%7C+Blood+Test+Centre+-+Rahata,+Ahmednagar/data=!4m7!3m6!1s0x3bdc59e0120b0991:0x135bd33ec61d12ae!8m2!3d19.708931!4d74.4803266!16s%2Fg%2F11wpkr71l2!19sChIJkQkLEuBZ3DsRrhIdxj7TWxM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thyrocare+Diagnostic+Lab+%7C+Blood+Test+Centre+-+Rahata,+Ahmednagar/data=!4m7!3m6!1s0x3bdc59e0120b0991:0x135bd33ec61d12ae!8m2!3d19.708931!4d74.4803266!16s%2Fg%2F11wpkr71l2!19sChIJkQkLEuBZ3DsRrhIdxj7TWxM?authuser=0&hl=en&rclk=1"
@@ -5768,11 +5720,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Thyrocare+Diagnostic+Lab+%7C+Blood+Test+Centre+-+Rahata,+Ahmednagar/data=!4m7!3m6!1s0x3bdc59e0120b0991:0x135bd33ec61d12ae!8m2!3d19.708931!4d74.4803266!16s%2Fg%2F11wpkr71l2!19sChIJkQkLEuBZ3DsRrhIdxj7TWxM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tulsi-eye-hospital-shirdi-vision-centre-shirdi",
@@ -5819,7 +5770,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tulsi+Eye+Hospital+Shirdi+Vision+Centre/data=!4m7!3m6!1s0x3bdc5b676d4a828b:0x8ff252ddd8198683!8m2!3d19.7715155!4d74.476955!16s%2Fg%2F11z7gs5d3j!19sChIJi4JKbWdb3DsRg4YZ2N1S8o8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tulsi+Eye+Hospital+Shirdi+Vision+Centre/data=!4m7!3m6!1s0x3bdc5b676d4a828b:0x8ff252ddd8198683!8m2!3d19.7715155!4d74.476955!16s%2Fg%2F11z7gs5d3j!19sChIJi4JKbWdb3DsRg4YZ2N1S8o8?authuser=0&hl=en&rclk=1"
@@ -5885,11 +5836,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tulsi+Eye+Hospital+Shirdi+Vision+Centre/data=!4m7!3m6!1s0x3bdc5b676d4a828b:0x8ff252ddd8198683!8m2!3d19.7715155!4d74.476955!16s%2Fg%2F11z7gs5d3j!19sChIJi4JKbWdb3DsRg4YZ2N1S8o8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vedic-fertility-clinic-shirdi",
@@ -5938,7 +5888,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vedic+Fertility+Clinic/data=!4m7!3m6!1s0x3bdc5b352efc4d07:0xcaa99f51a25dad2c!8m2!3d19.7759883!4d74.4861492!16s%2Fg%2F11j38mz5mw!19sChIJB038LjVb3DsRLK1dolGfqco?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vedic+Fertility+Clinic/data=!4m7!3m6!1s0x3bdc5b352efc4d07:0xcaa99f51a25dad2c!8m2!3d19.7759883!4d74.4861492!16s%2Fg%2F11j38mz5mw!19sChIJB038LjVb3DsRLK1dolGfqco?authuser=0&hl=en&rclk=1"
@@ -6004,11 +5954,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vedic+Fertility+Clinic/data=!4m7!3m6!1s0x3bdc5b352efc4d07:0xcaa99f51a25dad2c!8m2!3d19.7759883!4d74.4861492!16s%2Fg%2F11j38mz5mw!19sChIJB038LjVb3DsRLK1dolGfqco?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vilaslaboratory-shirdi",
@@ -6054,7 +6003,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VilasLaboratory/data=!4m7!3m6!1s0x3bdc5bd304f8a001:0x7ef8c36530000000!8m2!3d19.7458752!4d74.454944!16s%2Fg%2F11ny3hvgt7!19sChIJAaD4BNNb3DsRAAAAMGXD-H4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VilasLaboratory/data=!4m7!3m6!1s0x3bdc5bd304f8a001:0x7ef8c36530000000!8m2!3d19.7458752!4d74.454944!16s%2Fg%2F11ny3hvgt7!19sChIJAaD4BNNb3DsRAAAAMGXD-H4?authuser=0&hl=en&rclk=1"
@@ -6120,11 +6069,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VilasLaboratory/data=!4m7!3m6!1s0x3bdc5bd304f8a001:0x7ef8c36530000000!8m2!3d19.7458752!4d74.454944!16s%2Fg%2F11ny3hvgt7!19sChIJAaD4BNNb3DsRAAAAMGXD-H4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vithai-clinic-sakori",
@@ -6172,7 +6120,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vithai+Clinic/data=!4m7!3m6!1s0x3bdc59007634cd03:0x23d3dfbe74941733!8m2!3d19.7208448!4d74.4735644!16s%2Fg%2F11z2jbj1tw!19sChIJA800dgBZ3DsRMxeUdL7f0yM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vithai+Clinic/data=!4m7!3m6!1s0x3bdc59007634cd03:0x23d3dfbe74941733!8m2!3d19.7208448!4d74.4735644!16s%2Fg%2F11z2jbj1tw!19sChIJA800dgBZ3DsRMxeUdL7f0yM?authuser=0&hl=en&rclk=1"
@@ -6238,11 +6186,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vithai+Clinic/data=!4m7!3m6!1s0x3bdc59007634cd03:0x23d3dfbe74941733!8m2!3d19.7208448!4d74.4735644!16s%2Fg%2F11z2jbj1tw!19sChIJA800dgBZ3DsRMxeUdL7f0yM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "xpert-dental-clinic-sakori",
@@ -6290,7 +6237,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Xpert+Dental+Clinic/data=!4m7!3m6!1s0x3bdc5be445772ae1:0xa55ccb16bf89dbda!8m2!3d19.7466699!4d74.471652!16s%2Fg%2F11q3_md6yy!19sChIJ4Sp3ReRb3DsR2tuJvxbLXKU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Xpert+Dental+Clinic/data=!4m7!3m6!1s0x3bdc5be445772ae1:0xa55ccb16bf89dbda!8m2!3d19.7466699!4d74.471652!16s%2Fg%2F11q3_md6yy!19sChIJ4Sp3ReRb3DsR2tuJvxbLXKU?authuser=0&hl=en&rclk=1"
@@ -6359,8 +6306,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Xpert+Dental+Clinic/data=!4m7!3m6!1s0x3bdc5be445772ae1:0xa55ccb16bf89dbda!8m2!3d19.7466699!4d74.471652!16s%2Fg%2F11q3_md6yy!19sChIJ4Sp3ReRb3DsR2tuJvxbLXKU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shirdi",
@@ -6407,7 +6353,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%85%E0%A4%AE%E0%A5%83%E0%A4%A4+%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%91%E0%A4%AB%E0%A4%BF%E0%A4%B8/data=!4m7!3m6!1s0x3bdc5b007c410a15:0x72be16af43df7338!8m2!3d19.7524363!4d74.4783981!16s%2Fg%2F11wfs6mclc!19sChIJFQpBfABb3DsROHPfQ68WvnI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%85%E0%A4%AE%E0%A5%83%E0%A4%A4+%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%91%E0%A4%AB%E0%A4%BF%E0%A4%B8/data=!4m7!3m6!1s0x3bdc5b007c410a15:0x72be16af43df7338!8m2!3d19.7524363!4d74.4783981!16s%2Fg%2F11wfs6mclc!19sChIJFQpBfABb3DsROHPfQ68WvnI?authuser=0&hl=en&rclk=1"
@@ -6473,11 +6419,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%85%E0%A4%AE%E0%A5%83%E0%A4%A4+%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%91%E0%A4%AB%E0%A4%BF%E0%A4%B8/data=!4m7!3m6!1s0x3bdc5b007c410a15:0x72be16af43df7338!8m2!3d19.7524363!4d74.4783981!16s%2Fg%2F11wfs6mclc!19sChIJFQpBfABb3DsROHPfQ68WvnI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shirdi",
@@ -6523,7 +6468,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/data=!4m7!3m6!1s0x3bdc5940a3aae63d:0x90e1fb1f21ef63bf!8m2!3d19.7173382!4d74.4805945!16s%2Fg%2F11vj3gjls4!19sChIJPeaqo0BZ3DsRv2PvIR_74ZA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/data=!4m7!3m6!1s0x3bdc5940a3aae63d:0x90e1fb1f21ef63bf!8m2!3d19.7173382!4d74.4805945!16s%2Fg%2F11vj3gjls4!19sChIJPeaqo0BZ3DsRv2PvIR_74ZA?authuser=0&hl=en&rclk=1"
@@ -6589,10 +6534,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/data=!4m7!3m6!1s0x3bdc5940a3aae63d:0x90e1fb1f21ef63bf!8m2!3d19.7173382!4d74.4805945!16s%2Fg%2F11vj3gjls4!19sChIJPeaqo0BZ3DsRv2PvIR_74ZA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

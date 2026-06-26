@@ -46,7 +46,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/32+Smile+Stone+Dental+Clinic+and+implant+center/@23.2318713,72.6682529,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0b9270353b:0xc699e8d81aa28118!8m2!3d23.2318713!4d72.6682529!16s%2Fg%2F11b7vy1gsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+Smile+Stone+Dental+Clinic+and+implant+center/@23.2318713,72.6682529,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0b9270353b:0xc699e8d81aa28118!8m2!3d23.2318713!4d72.6682529!16s%2Fg%2F11b7vy1gsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -115,8 +115,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/32+Smile+Stone+Dental+Clinic+and+implant+center/@23.2318713,72.6682529,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0b9270353b:0xc699e8d81aa28118!8m2!3d23.2318713!4d72.6682529!16s%2Fg%2F11b7vy1gsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "a-pirzada-gandhinagar",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A.pirzada/@23.2426218,72.6594389,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9cfe8bd53d:0x8cebe53575af2340!8m2!3d23.2426218!4d72.6594389!16s%2Fg%2F11c7vw6tnq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.pirzada/@23.2426218,72.6594389,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9cfe8bd53d:0x8cebe53575af2340!8m2!3d23.2426218!4d72.6594389!16s%2Fg%2F11c7vw6tnq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -230,11 +229,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A.pirzada/@23.2426218,72.6594389,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9cfe8bd53d:0x8cebe53575af2340!8m2!3d23.2426218!4d72.6594389!16s%2Fg%2F11c7vw6tnq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aarna-dental-care-gandhinagar",
@@ -282,7 +280,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aarna+Dental+Care/@23.2019032,72.6372291,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3673266df3:0xdc7f205c9b237385!8m2!3d23.2019032!4d72.6372291!16s%2Fg%2F1ptw0rptq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarna+Dental+Care/@23.2019032,72.6372291,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3673266df3:0xdc7f205c9b237385!8m2!3d23.2019032!4d72.6372291!16s%2Fg%2F1ptw0rptq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -348,11 +346,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aarna+Dental+Care/@23.2019032,72.6372291,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3673266df3:0xdc7f205c9b237385!8m2!3d23.2019032!4d72.6372291!16s%2Fg%2F1ptw0rptq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aarya-dental-hospital-gandhinagar",
@@ -401,7 +398,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aarya+Dental+Hospital/@23.1744142,72.6405642,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b18afc732f9:0x2429d85c77acafb9!8m2!3d23.1744142!4d72.6405642!16s%2Fg%2F11tfkf7h03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarya+Dental+Hospital/@23.1744142,72.6405642,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b18afc732f9:0x2429d85c77acafb9!8m2!3d23.1744142!4d72.6405642!16s%2Fg%2F11tfkf7h03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -467,11 +464,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aarya+Dental+Hospital/@23.1744142,72.6405642,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b18afc732f9:0x2429d85c77acafb9!8m2!3d23.1744142!4d72.6405642!16s%2Fg%2F11tfkf7h03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aashwi-ent-clinic-ent-specialist-in-gandhinagar-gujarat-gandhinagar",
@@ -521,7 +517,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aashwi+ENT+Clinic+%7C+ENT+Specialist+in+Gandhinagar,+Gujarat/@23.1945961,72.614893,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9a5a22bb6f:0x59d9672c3b985f71!8m2!3d23.1945961!4d72.614893!16s%2Fg%2F11f7rkr4qm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aashwi+ENT+Clinic+%7C+ENT+Specialist+in+Gandhinagar,+Gujarat/@23.1945961,72.614893,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9a5a22bb6f:0x59d9672c3b985f71!8m2!3d23.1945961!4d72.614893!16s%2Fg%2F11f7rkr4qm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -590,8 +586,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aashwi+ENT+Clinic+%7C+ENT+Specialist+in+Gandhinagar,+Gujarat/@23.1945961,72.614893,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9a5a22bb6f:0x59d9672c3b985f71!8m2!3d23.1945961!4d72.614893!16s%2Fg%2F11f7rkr4qm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akshar-hospital-gandhinagar",
@@ -639,7 +634,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akshar+Hospital/@23.2152766,72.6417125,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb6629e8e77:0xfbd1ff232fa8c377!8m2!3d23.2152766!4d72.6417125!16s%2Fg%2F1pv19tqgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akshar+Hospital/@23.2152766,72.6417125,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb6629e8e77:0xfbd1ff232fa8c377!8m2!3d23.2152766!4d72.6417125!16s%2Fg%2F1pv19tqgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -708,8 +703,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akshar+Hospital/@23.2152766,72.6417125,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb6629e8e77:0xfbd1ff232fa8c377!8m2!3d23.2152766!4d72.6417125!16s%2Fg%2F1pv19tqgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amar-clinic-gandhinagar",
@@ -757,7 +751,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AMAR+CLINIC/@23.2022543,72.6365737,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b00328fdb97:0xe8dea4c30a4051dc!8m2!3d23.2022543!4d72.6365737!16s%2Fg%2F11z9lrnh1r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMAR+CLINIC/@23.2022543,72.6365737,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b00328fdb97:0xe8dea4c30a4051dc!8m2!3d23.2022543!4d72.6365737!16s%2Fg%2F11z9lrnh1r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -823,11 +817,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AMAR+CLINIC/@23.2022543,72.6365737,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b00328fdb97:0xe8dea4c30a4051dc!8m2!3d23.2022543!4d72.6365737!16s%2Fg%2F11z9lrnh1r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apex-dental-clinic-gandhinagar",
@@ -876,7 +869,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apex+Dental+Clinic/@23.1789775,72.6323044,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bce2b11aac9:0xa2fe76ccb07127e0!8m2!3d23.1789775!4d72.6323044!16s%2Fg%2F11mv1q3cy2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Dental+Clinic/@23.1789775,72.6323044,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bce2b11aac9:0xa2fe76ccb07127e0!8m2!3d23.1789775!4d72.6323044!16s%2Fg%2F11mv1q3cy2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -945,8 +938,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apex+Dental+Clinic/@23.1789775,72.6323044,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bce2b11aac9:0xa2fe76ccb07127e0!8m2!3d23.1789775!4d72.6323044!16s%2Fg%2F11mv1q3cy2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apex-dental-clinic-gandhinagar",
@@ -995,7 +987,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apex+Dental+Clinic/@23.1790767,72.6314487,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b2d40ed78ef:0xac8144ff713f94b3!8m2!3d23.1790767!4d72.6314487!16s%2Fg%2F11hb3csqw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Dental+Clinic/@23.1790767,72.6314487,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b2d40ed78ef:0xac8144ff713f94b3!8m2!3d23.1790767!4d72.6314487!16s%2Fg%2F11hb3csqw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1064,8 +1056,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apex+Dental+Clinic/@23.1790767,72.6314487,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b2d40ed78ef:0xac8144ff713f94b3!8m2!3d23.1790767!4d72.6314487!16s%2Fg%2F11hb3csqw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospital-international-limited-ahmedabad-best-hospital-in-ahmedabad-ahmedabad",
@@ -1114,7 +1105,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospital+International+Limited+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/@23.1095502,72.6263885,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81d8dddba2cb:0xa74a50295d3eecb2!8m2!3d23.1095502!4d72.6263885!16s%2Fg%2F1td5k2c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+International+Limited+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/@23.1095502,72.6263885,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81d8dddba2cb:0xa74a50295d3eecb2!8m2!3d23.1095502!4d72.6263885!16s%2Fg%2F1td5k2c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1183,8 +1174,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+International+Limited+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/@23.1095502,72.6263885,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81d8dddba2cb:0xa74a50295d3eecb2!8m2!3d23.1095502!4d72.6263885!16s%2Fg%2F1td5k2c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirvad-dental-care-and-implant-center-gandhinagar",
@@ -1233,7 +1223,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashirvad+Dental+Care+%26+Implant+Center/@23.1780496,72.6360889,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b7fd5dd555d:0xa6a381399098faf7!8m2!3d23.1780496!4d72.6360889!16s%2Fg%2F11rfb35w17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirvad+Dental+Care+%26+Implant+Center/@23.1780496,72.6360889,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b7fd5dd555d:0xa6a381399098faf7!8m2!3d23.1780496!4d72.6360889!16s%2Fg%2F11rfb35w17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1299,11 +1289,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashirvad+Dental+Care+%26+Implant+Center/@23.1780496,72.6360889,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b7fd5dd555d:0xa6a381399098faf7!8m2!3d23.1780496!4d72.6360889!16s%2Fg%2F11rfb35w17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirwad-dental-hospital-and-implant-center-gandhinagar",
@@ -1351,7 +1340,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashirwad+Dental+hospital+and+Implant+center/@23.2152002,72.6408236,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb66e4d1b2f:0xc6ea08927096933c!8m2!3d23.2152002!4d72.6408236!16s%2Fg%2F11fzf9htmf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirwad+Dental+hospital+and+Implant+center/@23.2152002,72.6408236,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb66e4d1b2f:0xc6ea08927096933c!8m2!3d23.2152002!4d72.6408236!16s%2Fg%2F11fzf9htmf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1420,8 +1409,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashirwad+Dental+hospital+and+Implant+center/@23.2152002,72.6408236,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb66e4d1b2f:0xc6ea08927096933c!8m2!3d23.2152002!4d72.6408236!16s%2Fg%2F11fzf9htmf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bliss-dental-clinic-gandhinagar",
@@ -1469,7 +1457,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bliss+Dental+Clinic/@23.1955523,72.6076844,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29094c52356d:0x22af8c83904127b7!8m2!3d23.1955523!4d72.6076844!16s%2Fg%2F11s3qngk2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bliss+Dental+Clinic/@23.1955523,72.6076844,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29094c52356d:0x22af8c83904127b7!8m2!3d23.1955523!4d72.6076844!16s%2Fg%2F11s3qngk2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1535,11 +1523,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bliss+Dental+Clinic/@23.1955523,72.6076844,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29094c52356d:0x22af8c83904127b7!8m2!3d23.1955523!4d72.6076844!16s%2Fg%2F11s3qngk2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bliss-dental-studio-ahmedabad",
@@ -1587,7 +1574,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bliss+Dental+Studio/@23.1397115,72.5401324,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83113c739b0f:0xbc8b520fafe92b2c!8m2!3d23.1397115!4d72.5401324!16s%2Fg%2F11pd1hkzq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bliss+Dental+Studio/@23.1397115,72.5401324,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83113c739b0f:0xbc8b520fafe92b2c!8m2!3d23.1397115!4d72.5401324!16s%2Fg%2F11pd1hkzq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1653,11 +1640,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bliss+Dental+Studio/@23.1397115,72.5401324,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83113c739b0f:0xbc8b520fafe92b2c!8m2!3d23.1397115!4d72.5401324!16s%2Fg%2F11pd1hkzq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "blossom-children-hospital-gandhinagar",
@@ -1706,7 +1692,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BLOSSOM+CHILDREN+HOSPITAL/@23.2127132,72.6298882,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b06a60d5651:0x359d35bb5ef47936!8m2!3d23.2127132!4d72.6298882!16s%2Fg%2F11s4z39641?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BLOSSOM+CHILDREN+HOSPITAL/@23.2127132,72.6298882,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b06a60d5651:0x359d35bb5ef47936!8m2!3d23.2127132!4d72.6298882!16s%2Fg%2F11s4z39641?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1775,8 +1761,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BLOSSOM+CHILDREN+HOSPITAL/@23.2127132,72.6298882,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b06a60d5651:0x359d35bb5ef47936!8m2!3d23.2127132!4d72.6298882!16s%2Fg%2F11s4z39641?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "capital-dental-clinic-gandhinagar",
@@ -1825,7 +1810,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Capital+Dental+Clinic/@23.1850812,72.6329898,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b742f236dcf:0x31ba2831cd389581!8m2!3d23.1850812!4d72.6329898!16s%2Fg%2F11j1cwt1f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Capital+Dental+Clinic/@23.1850812,72.6329898,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b742f236dcf:0x31ba2831cd389581!8m2!3d23.1850812!4d72.6329898!16s%2Fg%2F11j1cwt1f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1891,11 +1876,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Capital+Dental+Clinic/@23.1850812,72.6329898,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b742f236dcf:0x31ba2831cd389581!8m2!3d23.1850812!4d72.6329898!16s%2Fg%2F11j1cwt1f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chaahat-hospital-and-icu-gandhinagar",
@@ -1944,7 +1928,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CHAAHAT+HOSPITAL+AND+ICU/@23.1949569,72.6147578,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2956555ad40f:0xc84b1cda50cf054d!8m2!3d23.1949569!4d72.6147578!16s%2Fg%2F11smv_p6tt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHAAHAT+HOSPITAL+AND+ICU/@23.1949569,72.6147578,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2956555ad40f:0xc84b1cda50cf054d!8m2!3d23.1949569!4d72.6147578!16s%2Fg%2F11smv_p6tt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2013,8 +1997,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CHAAHAT+HOSPITAL+AND+ICU/@23.1949569,72.6147578,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2956555ad40f:0xc84b1cda50cf054d!8m2!3d23.1949569!4d72.6147578!16s%2Fg%2F11smv_p6tt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "clove-dental-clinic-kudasan-gandhinagar-gandhinagar",
@@ -2063,7 +2046,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Kudasan,+Gandhinagar/@23.1794076,72.6326486,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b33dbfd5ab1:0xfda05c8158b04c2!8m2!3d23.1794076!4d72.6326486!16s%2Fg%2F11xl6dc_fv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Kudasan,+Gandhinagar/@23.1794076,72.6326486,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b33dbfd5ab1:0xfda05c8158b04c2!8m2!3d23.1794076!4d72.6326486!16s%2Fg%2F11xl6dc_fv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2132,8 +2115,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Kudasan,+Gandhinagar/@23.1794076,72.6326486,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b33dbfd5ab1:0xfda05c8158b04c2!8m2!3d23.1794076!4d72.6326486!16s%2Fg%2F11xl6dc_fv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "clove-dental-clinic-vaishnodevi-ahmedabad-khodiyar",
@@ -2182,7 +2164,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Vaishnodevi,+Ahmedabad/@23.1407034,72.5400635,17z/data=!3m1!4b1!4m6!3m5!1s0x395e838444bd520b:0xb078835fb3246af!8m2!3d23.1407034!4d72.5400635!16s%2Fg%2F11wh6gstdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Vaishnodevi,+Ahmedabad/@23.1407034,72.5400635,17z/data=!3m1!4b1!4m6!3m5!1s0x395e838444bd520b:0xb078835fb3246af!8m2!3d23.1407034!4d72.5400635!16s%2Fg%2F11wh6gstdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2251,8 +2233,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Vaishnodevi,+Ahmedabad/@23.1407034,72.5400635,17z/data=!3m1!4b1!4m6!3m5!1s0x395e838444bd520b:0xb078835fb3246af!8m2!3d23.1407034!4d72.5400635!16s%2Fg%2F11wh6gstdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "darshanam-eye-and-dental-hospital-gandhinagar",
@@ -2300,7 +2281,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Darshanam+Eye+And+Dental+Hospital/@23.1848456,72.6326642,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3dfc3ce121:0x8e98d10d55068f2!8m2!3d23.1848456!4d72.6326642!16s%2Fg%2F11f0896dws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Darshanam+Eye+And+Dental+Hospital/@23.1848456,72.6326642,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3dfc3ce121:0x8e98d10d55068f2!8m2!3d23.1848456!4d72.6326642!16s%2Fg%2F11f0896dws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2369,8 +2350,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Darshanam+Eye+And+Dental+Hospital/@23.1848456,72.6326642,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3dfc3ce121:0x8e98d10d55068f2!8m2!3d23.1848456!4d72.6326642!16s%2Fg%2F11f0896dws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-euphoria-gandhinagar",
@@ -2418,7 +2398,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Euphoria/@23.1789003,72.627326,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b68e20dd647:0xbf90ca837789af94!8m2!3d23.1789003!4d72.627326!16s%2Fg%2F11lf3gncxc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Euphoria/@23.1789003,72.627326,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b68e20dd647:0xbf90ca837789af94!8m2!3d23.1789003!4d72.627326!16s%2Fg%2F11lf3gncxc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2484,11 +2464,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Euphoria/@23.1789003,72.627326,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b68e20dd647:0xbf90ca837789af94!8m2!3d23.1789003!4d72.627326!16s%2Fg%2F11lf3gncxc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-square-gandhinagar",
@@ -2537,7 +2516,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Square/@23.1790278,72.6280296,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba2625598eb:0x1bc252731b10c274!8m2!3d23.1790278!4d72.6280296!16s%2Fg%2F1pt_qpzqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Square/@23.1790278,72.6280296,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba2625598eb:0x1bc252731b10c274!8m2!3d23.1790278!4d72.6280296!16s%2Fg%2F1pt_qpzqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2603,11 +2582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Square/@23.1790278,72.6280296,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba2625598eb:0x1bc252731b10c274!8m2!3d23.1790278!4d72.6280296!16s%2Fg%2F1pt_qpzqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhara-dental-clinic-gandhinagar",
@@ -2656,7 +2634,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dhara+Dental+Clinic/@23.2150192,72.6412031,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b99805d0729:0x536726548c975a8f!8m2!3d23.2150192!4d72.6412031!16s%2Fg%2F11g_z4nn0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhara+Dental+Clinic/@23.2150192,72.6412031,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b99805d0729:0x536726548c975a8f!8m2!3d23.2150192!4d72.6412031!16s%2Fg%2F11g_z4nn0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2725,8 +2703,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dhara+Dental+Clinic/@23.2150192,72.6412031,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b99805d0729:0x536726548c975a8f!8m2!3d23.2150192!4d72.6412031!16s%2Fg%2F11g_z4nn0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "divit-hospital-gandhinagar",
@@ -2775,7 +2752,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Divit+Hospital/@23.1581016,72.6508565,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8191a5339e5f:0x41dcbd12506356c5!8m2!3d23.1581016!4d72.6508565!16s%2Fg%2F11rkltk_c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divit+Hospital/@23.1581016,72.6508565,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8191a5339e5f:0x41dcbd12506356c5!8m2!3d23.1581016!4d72.6508565!16s%2Fg%2F11rkltk_c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2844,8 +2821,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Divit+Hospital/@23.1581016,72.6508565,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8191a5339e5f:0x41dcbd12506356c5!8m2!3d23.1581016!4d72.6508565!16s%2Fg%2F11rkltk_c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dwija-surgical-hospital-gandhinagar",
@@ -2893,7 +2869,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dwija+Surgical+Hospital/@23.1789268,72.6282388,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bfb3f92fad9:0x4005018d6d40ddad!8m2!3d23.1789268!4d72.6282388!16s%2Fg%2F11g0hy4sz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dwija+Surgical+Hospital/@23.1789268,72.6282388,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bfb3f92fad9:0x4005018d6d40ddad!8m2!3d23.1789268!4d72.6282388!16s%2Fg%2F11g0hy4sz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2962,8 +2938,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dwija+Surgical+Hospital/@23.1789268,72.6282388,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bfb3f92fad9:0x4005018d6d40ddad!8m2!3d23.1789268!4d72.6282388!16s%2Fg%2F11g0hy4sz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "faces-aesthetic-clinic-gandhinagar",
@@ -3011,7 +2986,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Faces+Aesthetic+Clinic/@23.2153825,72.6482137,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb071b47677:0x6468b7cd188dfc3a!8m2!3d23.2153825!4d72.6482137!16s%2Fg%2F11sb9gnkrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Faces+Aesthetic+Clinic/@23.2153825,72.6482137,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb071b47677:0x6468b7cd188dfc3a!8m2!3d23.2153825!4d72.6482137!16s%2Fg%2F11sb9gnkrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3077,11 +3052,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Faces+Aesthetic+Clinic/@23.2153825,72.6482137,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb071b47677:0x6468b7cd188dfc3a!8m2!3d23.2153825!4d72.6482137!16s%2Fg%2F11sb9gnkrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fine-feather-dental-clinic-gandhinagar",
@@ -3130,7 +3104,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fine+Feather+Dental+Clinic/@23.2156424,72.642404,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb69befa553:0x70baae37a4153b94!8m2!3d23.2156424!4d72.642404!16s%2Fg%2F11bbrlblc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fine+Feather+Dental+Clinic/@23.2156424,72.642404,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb69befa553:0x70baae37a4153b94!8m2!3d23.2156424!4d72.642404!16s%2Fg%2F11bbrlblc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3199,8 +3173,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fine+Feather+Dental+Clinic/@23.2156424,72.642404,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb69befa553:0x70baae37a4153b94!8m2!3d23.2156424!4d72.642404!16s%2Fg%2F11bbrlblc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gayatri-hospital-gandhinagar",
@@ -3248,7 +3221,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gayatri+Hospital/@23.2127817,72.629889,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bcdd3525ef5:0xfeede6f38193751c!8m2!3d23.2127817!4d72.629889!16s%2Fg%2F1hhk0cgyw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+Hospital/@23.2127817,72.629889,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bcdd3525ef5:0xfeede6f38193751c!8m2!3d23.2127817!4d72.629889!16s%2Fg%2F1hhk0cgyw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3317,8 +3290,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gayatri+Hospital/@23.2127817,72.629889,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bcdd3525ef5:0xfeede6f38193751c!8m2!3d23.2127817!4d72.629889!16s%2Fg%2F1hhk0cgyw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "geeta-dental-clinic-and-implant-center-gandhinagar",
@@ -3366,7 +3338,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Geeta+Dental+clinic+and+Implant+center/@23.2135177,72.6404334,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b5536b55689:0x26f29609028d0cb3!8m2!3d23.2135177!4d72.6404334!16s%2Fg%2F11qhx959k5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Geeta+Dental+clinic+and+Implant+center/@23.2135177,72.6404334,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b5536b55689:0x26f29609028d0cb3!8m2!3d23.2135177!4d72.6404334!16s%2Fg%2F11qhx959k5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3435,8 +3407,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Geeta+Dental+clinic+and+Implant+center/@23.2135177,72.6404334,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b5536b55689:0x26f29609028d0cb3!8m2!3d23.2135177!4d72.6404334!16s%2Fg%2F11qhx959k5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gloww-aesthetic-and-dental-clinic-gandhinagar",
@@ -3484,7 +3455,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gloww+Aesthetic+and+Dental+clinic/@23.1740742,72.6406344,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb249765131:0xf8a2ec1d9ca42d54!8m2!3d23.1740742!4d72.6406344!16s%2Fg%2F11vkr4lpdg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gloww+Aesthetic+and+Dental+clinic/@23.1740742,72.6406344,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb249765131:0xf8a2ec1d9ca42d54!8m2!3d23.1740742!4d72.6406344!16s%2Fg%2F11vkr4lpdg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3550,11 +3521,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gloww+Aesthetic+and+Dental+clinic/@23.1740742,72.6406344,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb249765131:0xf8a2ec1d9ca42d54!8m2!3d23.1740742!4d72.6406344!16s%2Fg%2F11vkr4lpdg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gmdc-dental-clinic-dental-clinic-in-gandhinagar-root-canal-treatment-kids-dentist-braces-implants-gandhinagar",
@@ -3603,7 +3573,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GMDC+Dental+Clinic+-+Dental+clinic+in+Gandhinagar+%7C+Root+Canal+Treatment+%7C+Kids+Dentist+%7C+Braces+%7C+Implants/@23.2304008,72.6673638,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bafb7da4ccb:0x87ffb39238eeb0a6!8m2!3d23.2304008!4d72.6673638!16s%2Fg%2F11h0_nbq29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GMDC+Dental+Clinic+-+Dental+clinic+in+Gandhinagar+%7C+Root+Canal+Treatment+%7C+Kids+Dentist+%7C+Braces+%7C+Implants/@23.2304008,72.6673638,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bafb7da4ccb:0x87ffb39238eeb0a6!8m2!3d23.2304008!4d72.6673638!16s%2Fg%2F11h0_nbq29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3672,8 +3642,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GMDC+Dental+Clinic+-+Dental+clinic+in+Gandhinagar+%7C+Root+Canal+Treatment+%7C+Kids+Dentist+%7C+Braces+%7C+Implants/@23.2304008,72.6673638,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bafb7da4ccb:0x87ffb39238eeb0a6!8m2!3d23.2304008!4d72.6673638!16s%2Fg%2F11h0_nbq29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gmdc-dental-clinic-gift-city-gandhinagar-gandhinagar",
@@ -3722,7 +3691,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GMDC+Dental+Clinic+-+GIFT+City+Gandhinagar/@23.1849254,72.6391989,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b39f7075cc1:0x7dc36e5b77052a8d!8m2!3d23.1849254!4d72.6391989!16s%2Fg%2F11n3lcbkdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GMDC+Dental+Clinic+-+GIFT+City+Gandhinagar/@23.1849254,72.6391989,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b39f7075cc1:0x7dc36e5b77052a8d!8m2!3d23.1849254!4d72.6391989!16s%2Fg%2F11n3lcbkdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3788,11 +3757,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GMDC+Dental+Clinic+-+GIFT+City+Gandhinagar/@23.1849254,72.6391989,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b39f7075cc1:0x7dc36e5b77052a8d!8m2!3d23.1849254!4d72.6391989!16s%2Fg%2F11n3lcbkdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gmers-civil-hospital-gandhinagar",
@@ -3841,7 +3809,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GMERS+Civil+Hospital/@23.2185054,72.6397426,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb7bcbba583:0x72c6b98cc8da1029!8m2!3d23.2185054!4d72.6397426!16s%2Fg%2F1wfvl1k7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GMERS+Civil+Hospital/@23.2185054,72.6397426,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb7bcbba583:0x72c6b98cc8da1029!8m2!3d23.2185054!4d72.6397426!16s%2Fg%2F1wfvl1k7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3910,8 +3878,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GMERS+Civil+Hospital/@23.2185054,72.6397426,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb7bcbba583:0x72c6b98cc8da1029!8m2!3d23.2185054!4d72.6397426!16s%2Fg%2F1wfvl1k7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gmers-medical-college-and-general-hospital-gandhinagar",
@@ -3960,7 +3927,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GMERS+MEDICAL+COLLEGE+AND+GENERAL+HOSPITAL/@23.2193813,72.6394931,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb7087684bd:0x85e457f014fec931!8m2!3d23.2193813!4d72.6394931!16s%2Fg%2F11g8cypjpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GMERS+MEDICAL+COLLEGE+AND+GENERAL+HOSPITAL/@23.2193813,72.6394931,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb7087684bd:0x85e457f014fec931!8m2!3d23.2193813!4d72.6394931!16s%2Fg%2F11g8cypjpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4029,8 +3996,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GMERS+MEDICAL+COLLEGE+AND+GENERAL+HOSPITAL/@23.2193813,72.6394931,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb7087684bd:0x85e457f014fec931!8m2!3d23.2193813!4d72.6394931!16s%2Fg%2F11g8cypjpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gujarathi-dental-clinic-gandhinagar",
@@ -4078,7 +4044,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gujarathi+Dental+Clinic/@23.1778556,72.636876,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a136c1c095b:0x3bd1029c732d5496!8m2!3d23.1778556!4d72.636876!16s%2Fg%2F11cmshx3qh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gujarathi+Dental+Clinic/@23.1778556,72.636876,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a136c1c095b:0x3bd1029c732d5496!8m2!3d23.1778556!4d72.636876!16s%2Fg%2F11cmshx3qh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4147,8 +4113,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gujarathi+Dental+Clinic/@23.1778556,72.636876,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a136c1c095b:0x3bd1029c732d5496!8m2!3d23.1778556!4d72.636876!16s%2Fg%2F11cmshx3qh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gurukrupa-hospital-chiloda",
@@ -4196,7 +4161,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gurukrupa+Hospital/@23.2269921,72.729223,17z/data=!3m1!4b1!4m6!3m5!1s0x395dd58477d74eaf:0x86d794d09b6f4891!8m2!3d23.2269921!4d72.729223!16s%2Fg%2F11lm7vg20f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurukrupa+Hospital/@23.2269921,72.729223,17z/data=!3m1!4b1!4m6!3m5!1s0x395dd58477d74eaf:0x86d794d09b6f4891!8m2!3d23.2269921!4d72.729223!16s%2Fg%2F11lm7vg20f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4265,8 +4230,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gurukrupa+Hospital/@23.2269921,72.729223,17z/data=!3m1!4b1!4m6!3m5!1s0x395dd58477d74eaf:0x86d794d09b6f4891!8m2!3d23.2269921!4d72.729223!16s%2Fg%2F11lm7vg20f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hi-tech-hospital-gandhinagar",
@@ -4315,7 +4279,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hi-Tech+Hospital/@23.2055744,72.6336598,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a348f0b804b:0x8787b0982b142690!8m2!3d23.2055744!4d72.6336598!16s%2Fg%2F11c1vkm8zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hi-Tech+Hospital/@23.2055744,72.6336598,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a348f0b804b:0x8787b0982b142690!8m2!3d23.2055744!4d72.6336598!16s%2Fg%2F11c1vkm8zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4384,8 +4348,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hi-Tech+Hospital/@23.2055744,72.6336598,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a348f0b804b:0x8787b0982b142690!8m2!3d23.2055744!4d72.6336598!16s%2Fg%2F11c1vkm8zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "holistic-dental-care-gandhinagar",
@@ -4433,7 +4396,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Holistic+Dental+Care/@23.1818248,72.6286068,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b028ec5279f:0x1940b474ab9901b8!8m2!3d23.1818248!4d72.6286068!16s%2Fg%2F11s2pqkpvx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Holistic+Dental+Care/@23.1818248,72.6286068,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b028ec5279f:0x1940b474ab9901b8!8m2!3d23.1818248!4d72.6286068!16s%2Fg%2F11s2pqkpvx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4499,11 +4462,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Holistic+Dental+Care/@23.1818248,72.6286068,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b028ec5279f:0x1940b474ab9901b8!8m2!3d23.1818248!4d72.6286068!16s%2Fg%2F11s2pqkpvx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kp-ent-and-surgical-hospital-gandhinagar",
@@ -4552,7 +4514,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KP+ENT+and+Surgical+Hospital/@23.1851142,72.6316227,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bd9bc7f89b5:0x5337e90eabaaba88!8m2!3d23.1851142!4d72.6316227!16s%2Fg%2F11tcyhcd22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KP+ENT+and+Surgical+Hospital/@23.1851142,72.6316227,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bd9bc7f89b5:0x5337e90eabaaba88!8m2!3d23.1851142!4d72.6316227!16s%2Fg%2F11tcyhcd22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4621,8 +4583,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KP+ENT+and+Surgical+Hospital/@23.1851142,72.6316227,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bd9bc7f89b5:0x5337e90eabaaba88!8m2!3d23.1851142!4d72.6316227!16s%2Fg%2F11tcyhcd22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "laxmi-dental-clinic-gandhinagar",
@@ -4671,7 +4632,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Laxmi+Dental+Clinic/@23.2437515,72.6486896,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b90269816b9:0x5f570b5ae8c435c3!8m2!3d23.2437515!4d72.6486896!16s%2Fg%2F1ptyhmtbd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+Dental+Clinic/@23.2437515,72.6486896,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b90269816b9:0x5f570b5ae8c435c3!8m2!3d23.2437515!4d72.6486896!16s%2Fg%2F1ptyhmtbd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4737,11 +4698,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Laxmi+Dental+Clinic/@23.2437515,72.6486896,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b90269816b9:0x5f570b5ae8c435c3!8m2!3d23.2437515!4d72.6486896!16s%2Fg%2F1ptyhmtbd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-care-clinic-diabetes-diabetes-foot-specialist-gandhinagar-best-diabetes-centre-raysan",
@@ -4792,7 +4752,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+care+clinic+%7C+Diabetes+%7C+Diabetes+Foot+Specialist%7C+Gandhinagar+Best+Diabetes+Centre/@23.1623771,72.6491104,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8132f4f82a8f:0x5ab10247fd349b12!8m2!3d23.1623771!4d72.6491104!16s%2Fg%2F11nxqfbyg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+care+clinic+%7C+Diabetes+%7C+Diabetes+Foot+Specialist%7C+Gandhinagar+Best+Diabetes+Centre/@23.1623771,72.6491104,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8132f4f82a8f:0x5ab10247fd349b12!8m2!3d23.1623771!4d72.6491104!16s%2Fg%2F11nxqfbyg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4861,8 +4821,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+care+clinic+%7C+Diabetes+%7C+Diabetes+Foot+Specialist%7C+Gandhinagar+Best+Diabetes+Centre/@23.1623771,72.6491104,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8132f4f82a8f:0x5ab10247fd349b12!8m2!3d23.1623771!4d72.6491104!16s%2Fg%2F11nxqfbyg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "m-cure-hospital-gandhinagar",
@@ -4910,7 +4869,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/M+Cure+hospital/@23.1951567,72.6146069,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bc9bea142a3:0x33b0baeadcacbb5!8m2!3d23.1951567!4d72.6146069!16s%2Fg%2F11bxg3cfwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+Cure+hospital/@23.1951567,72.6146069,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bc9bea142a3:0x33b0baeadcacbb5!8m2!3d23.1951567!4d72.6146069!16s%2Fg%2F11bxg3cfwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4979,8 +4938,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/M+Cure+hospital/@23.1951567,72.6146069,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bc9bea142a3:0x33b0baeadcacbb5!8m2!3d23.1951567!4d72.6146069!16s%2Fg%2F11bxg3cfwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mbrace-dental-care-gandhinagar",
@@ -5029,7 +4987,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MBrace+Dental+Care/@23.1769459,72.6314607,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bc4466e5497:0x1caffcd7cf16882!8m2!3d23.1769459!4d72.6314607!16s%2Fg%2F11ltmd1k9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MBrace+Dental+Care/@23.1769459,72.6314607,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bc4466e5497:0x1caffcd7cf16882!8m2!3d23.1769459!4d72.6314607!16s%2Fg%2F11ltmd1k9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5095,11 +5053,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MBrace+Dental+Care/@23.1769459,72.6314607,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bc4466e5497:0x1caffcd7cf16882!8m2!3d23.1769459!4d72.6314607!16s%2Fg%2F11ltmd1k9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medicare-heart-and-medical-hospital-gandhinagar",
@@ -5148,7 +5105,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medicare+Heart+%26+Medical+Hospital/@23.1817424,72.6289557,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba6c8f2ff35:0x7151bb9dbdaae0e1!8m2!3d23.1817424!4d72.6289557!16s%2Fg%2F11q8whqr6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicare+Heart+%26+Medical+Hospital/@23.1817424,72.6289557,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba6c8f2ff35:0x7151bb9dbdaae0e1!8m2!3d23.1817424!4d72.6289557!16s%2Fg%2F11q8whqr6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5214,11 +5171,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medicare+Heart+%26+Medical+Hospital/@23.1817424,72.6289557,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba6c8f2ff35:0x7151bb9dbdaae0e1!8m2!3d23.1817424!4d72.6289557!16s%2Fg%2F11q8whqr6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "moonlight-smile-care-gandhinagar",
@@ -5266,7 +5222,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MoonLight+Smile+care/@23.2035251,72.6230634,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b7d95f2e77b:0x41926585d019d967!8m2!3d23.2035251!4d72.6230634!16s%2Fg%2F11hzzf52qc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MoonLight+Smile+care/@23.2035251,72.6230634,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b7d95f2e77b:0x41926585d019d967!8m2!3d23.2035251!4d72.6230634!16s%2Fg%2F11hzzf52qc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5335,8 +5291,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MoonLight+Smile+care/@23.2035251,72.6230634,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b7d95f2e77b:0x41926585d019d967!8m2!3d23.2035251!4d72.6230634!16s%2Fg%2F11hzzf52qc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "namah-healthcare-gandhinagar",
@@ -5385,7 +5340,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Namah+Healthcare/@23.2505206,72.6386869,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b7dd33076cd:0x7ac62017a649aa95!8m2!3d23.2505206!4d72.6386869!16s%2Fg%2F11sm_vr0bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Namah+Healthcare/@23.2505206,72.6386869,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b7dd33076cd:0x7ac62017a649aa95!8m2!3d23.2505206!4d72.6386869!16s%2Fg%2F11sm_vr0bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5454,8 +5409,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Namah+Healthcare/@23.2505206,72.6386869,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b7dd33076cd:0x7ac62017a649aa95!8m2!3d23.2505206!4d72.6386869!16s%2Fg%2F11sm_vr0bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "namo-stute-hospitals-gandhinagar",
@@ -5504,7 +5458,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Namo'stuTe+Hospitals/@23.2166492,72.6398134,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b5138ccb94b:0xc9489a258bc172a1!8m2!3d23.2166492!4d72.6398134!16s%2Fg%2F11s558p6ds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Namo'stuTe+Hospitals/@23.2166492,72.6398134,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b5138ccb94b:0xc9489a258bc172a1!8m2!3d23.2166492!4d72.6398134!16s%2Fg%2F11s558p6ds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5573,8 +5527,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Namo'stuTe+Hospitals/@23.2166492,72.6398134,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b5138ccb94b:0xc9489a258bc172a1!8m2!3d23.2166492!4d72.6398134!16s%2Fg%2F11s558p6ds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navkar-clinic-and-health-care-gandhinagar",
@@ -5622,7 +5575,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navkar+Clinic+%26+Health+Care/@23.1781611,72.6364164,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a137172ad31:0x4ade8dbcf35c70a0!8m2!3d23.1781611!4d72.6364164!16s%2Fg%2F11t6sb5fk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navkar+Clinic+%26+Health+Care/@23.1781611,72.6364164,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a137172ad31:0x4ade8dbcf35c70a0!8m2!3d23.1781611!4d72.6364164!16s%2Fg%2F11t6sb5fk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5688,11 +5641,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navkar+Clinic+%26+Health+Care/@23.1781611,72.6364164,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a137172ad31:0x4ade8dbcf35c70a0!8m2!3d23.1781611!4d72.6364164!16s%2Fg%2F11t6sb5fk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neuropanch-ayurveda-hospital-and-research-organization-gandhinagar",
@@ -5742,7 +5694,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NeuroPanch+Ayurveda+Hospital+%26+Research+Organization/@23.2297218,72.6666671,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0bc21b15e9:0x30c6362f66a23630!8m2!3d23.2297218!4d72.6666671!16s%2Fg%2F11gdknsk09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NeuroPanch+Ayurveda+Hospital+%26+Research+Organization/@23.2297218,72.6666671,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0bc21b15e9:0x30c6362f66a23630!8m2!3d23.2297218!4d72.6666671!16s%2Fg%2F11gdknsk09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5811,8 +5763,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NeuroPanch+Ayurveda+Hospital+%26+Research+Organization/@23.2297218,72.6666671,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0bc21b15e9:0x30c6362f66a23630!8m2!3d23.2297218!4d72.6666671!16s%2Fg%2F11gdknsk09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nidhi-surgical-and-laparoscopic-center-gandhinagar",
@@ -5860,7 +5811,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NIDHI+Surgical+%26+Laparoscopic+Center/@23.2321092,72.6538381,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba2641ac1a1:0x1035efdcb7857797!8m2!3d23.2321092!4d72.6538381!16s%2Fg%2F1ptx3w139?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIDHI+Surgical+%26+Laparoscopic+Center/@23.2321092,72.6538381,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba2641ac1a1:0x1035efdcb7857797!8m2!3d23.2321092!4d72.6538381!16s%2Fg%2F1ptx3w139?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5929,8 +5880,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NIDHI+Surgical+%26+Laparoscopic+Center/@23.2321092,72.6538381,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba2641ac1a1:0x1035efdcb7857797!8m2!3d23.2321092!4d72.6538381!16s%2Fg%2F1ptx3w139?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "niky-dental-care-best-dentist-in-ahmedabad-and-gandhinagar-gandhinagar",
@@ -5979,7 +5929,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NIKY+DENTAL+CARE-Best+dentist+in+Ahmedabad+and+Gandhinagar/@23.2464058,72.6606395,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bc7ab8b8acb:0xfe48afd4ea6fe62c!8m2!3d23.2464058!4d72.6606395!16s%2Fg%2F1pp2tw_ld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIKY+DENTAL+CARE-Best+dentist+in+Ahmedabad+and+Gandhinagar/@23.2464058,72.6606395,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bc7ab8b8acb:0xfe48afd4ea6fe62c!8m2!3d23.2464058!4d72.6606395!16s%2Fg%2F1pp2tw_ld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6048,8 +5998,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NIKY+DENTAL+CARE-Best+dentist+in+Ahmedabad+and+Gandhinagar/@23.2464058,72.6606395,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bc7ab8b8acb:0xfe48afd4ea6fe62c!8m2!3d23.2464058!4d72.6606395!16s%2Fg%2F1pp2tw_ld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "niky-hospital-gandhinagar",
@@ -6098,7 +6047,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Niky+Hospital/@23.1796343,72.6369567,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a149e9c7d01:0x87f48d128d2b8c00!8m2!3d23.1796343!4d72.6369567!16s%2Fg%2F11dz56tp5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Niky+Hospital/@23.1796343,72.6369567,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a149e9c7d01:0x87f48d128d2b8c00!8m2!3d23.1796343!4d72.6369567!16s%2Fg%2F11dz56tp5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6167,8 +6116,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Niky+Hospital/@23.1796343,72.6369567,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a149e9c7d01:0x87f48d128d2b8c00!8m2!3d23.1796343!4d72.6369567!16s%2Fg%2F11dz56tp5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nova-dental-hospital-painless-dentist-in-gandhinagar-gandhinagar",
@@ -6218,7 +6166,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nova+Dental+Hospital+-+Painless+Dentist+in+Gandhinagar/@23.1567119,72.6359704,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8133586aeb15:0xa5df7e5fbc5202a0!8m2!3d23.1567119!4d72.6359704!16s%2Fg%2F11tsj_rs73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+Dental+Hospital+-+Painless+Dentist+in+Gandhinagar/@23.1567119,72.6359704,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8133586aeb15:0xa5df7e5fbc5202a0!8m2!3d23.1567119!4d72.6359704!16s%2Fg%2F11tsj_rs73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6284,11 +6232,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nova+Dental+Hospital+-+Painless+Dentist+in+Gandhinagar/@23.1567119,72.6359704,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8133586aeb15:0xa5df7e5fbc5202a0!8m2!3d23.1567119!4d72.6359704!16s%2Fg%2F11tsj_rs73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orasurge-dental-and-maxillofacial-surgical-centre-gandhinagar",
@@ -6337,7 +6284,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Orasurge+Dental+And+Maxillofacial+Surgical+Centre/@23.1760002,72.6291481,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a166a9e5d1f:0xe075012f6ea2263a!8m2!3d23.1760002!4d72.6291481!16s%2Fg%2F11b6gns6xq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orasurge+Dental+And+Maxillofacial+Surgical+Centre/@23.1760002,72.6291481,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a166a9e5d1f:0xe075012f6ea2263a!8m2!3d23.1760002!4d72.6291481!16s%2Fg%2F11b6gns6xq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6406,8 +6353,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Orasurge+Dental+And+Maxillofacial+Surgical+Centre/@23.1760002,72.6291481,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a166a9e5d1f:0xe075012f6ea2263a!8m2!3d23.1760002!4d72.6291481!16s%2Fg%2F11b6gns6xq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orchid-eye-dental-and-facial-surgery-clinic-gandhinagar",
@@ -6457,7 +6403,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Orchid+Eye,Dental+and+Facial+Surgery+Clinic/@23.1848494,72.6292433,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3d6548f4ed:0x9aef9dec7afba672!8m2!3d23.1848494!4d72.6292433!16s%2Fg%2F11cp66xv7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orchid+Eye,Dental+and+Facial+Surgery+Clinic/@23.1848494,72.6292433,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3d6548f4ed:0x9aef9dec7afba672!8m2!3d23.1848494!4d72.6292433!16s%2Fg%2F11cp66xv7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6526,8 +6472,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Orchid+Eye,Dental+and+Facial+Surgery+Clinic/@23.1848494,72.6292433,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3d6548f4ed:0x9aef9dec7afba672!8m2!3d23.1848494!4d72.6292433!16s%2Fg%2F11cp66xv7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orofacial-dental-and-implant-clinic-raysan",
@@ -6575,7 +6520,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Orofacial+Dental+and+Implant+Clinic/@23.1592857,72.6494632,17z/data=!3m1!4b1!4m6!3m5!1s0x395e810ea45b7565:0x13972d2e7fe0e497!8m2!3d23.1592857!4d72.6494632!16s%2Fg%2F11ryp1jy2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orofacial+Dental+and+Implant+Clinic/@23.1592857,72.6494632,17z/data=!3m1!4b1!4m6!3m5!1s0x395e810ea45b7565:0x13972d2e7fe0e497!8m2!3d23.1592857!4d72.6494632!16s%2Fg%2F11ryp1jy2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6641,11 +6586,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Orofacial+Dental+and+Implant+Clinic/@23.1592857,72.6494632,17z/data=!3m1!4b1!4m6!3m5!1s0x395e810ea45b7565:0x13972d2e7fe0e497!8m2!3d23.1592857!4d72.6494632!16s%2Fg%2F11ryp1jy2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orthosquare-dental-clinic-randesan-gandhinagar-gandhinagar",
@@ -6695,7 +6639,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Randesan,+Gandhinagar/@23.1742421,72.639937,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b076e0633e7:0xed45b375a69b8b95!8m2!3d23.1742421!4d72.639937!16s%2Fg%2F11ln4ql_vc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Randesan,+Gandhinagar/@23.1742421,72.639937,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b076e0633e7:0xed45b375a69b8b95!8m2!3d23.1742421!4d72.639937!16s%2Fg%2F11ln4ql_vc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6764,8 +6708,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Randesan,+Gandhinagar/@23.1742421,72.639937,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b076e0633e7:0xed45b375a69b8b95!8m2!3d23.1742421!4d72.639937!16s%2Fg%2F11ln4ql_vc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pagarav-hospital-and-icu-sargasan-gandhinagar-gandhinagar",
@@ -6814,7 +6757,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pagarav+Hospital+And+ICU+Sargasan+Gandhinagar/@23.191319,72.6046186,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bd7350dea1d:0xfd223876d8a41d04!8m2!3d23.191319!4d72.6046186!16s%2Fg%2F11hs_2kd_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pagarav+Hospital+And+ICU+Sargasan+Gandhinagar/@23.191319,72.6046186,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bd7350dea1d:0xfd223876d8a41d04!8m2!3d23.191319!4d72.6046186!16s%2Fg%2F11hs_2kd_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6883,8 +6826,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pagarav+Hospital+And+ICU+Sargasan+Gandhinagar/@23.191319,72.6046186,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bd7350dea1d:0xfd223876d8a41d04!8m2!3d23.191319!4d72.6046186!16s%2Fg%2F11hs_2kd_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pankti-women-and-dental-hospital-gandhinagar",
@@ -6933,7 +6875,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pankti+women+%26+dental+Hospital/@23.1908584,72.6068381,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29138d1e75e1:0x7fa29876f258adbf!8m2!3d23.1908584!4d72.6068381!16s%2Fg%2F11rndnd0lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pankti+women+%26+dental+Hospital/@23.1908584,72.6068381,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29138d1e75e1:0x7fa29876f258adbf!8m2!3d23.1908584!4d72.6068381!16s%2Fg%2F11rndnd0lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7002,8 +6944,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pankti+women+%26+dental+Hospital/@23.1908584,72.6068381,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29138d1e75e1:0x7fa29876f258adbf!8m2!3d23.1908584!4d72.6068381!16s%2Fg%2F11rndnd0lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pearl-dental-care-gandhinagar",
@@ -7052,7 +6993,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pearl+Dental+Care/@23.1924877,72.6058061,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29f2f6f7e133:0x4cdbb48daa5ec1f2!8m2!3d23.1924877!4d72.6058061!16s%2Fg%2F11vwgw24dh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pearl+Dental+Care/@23.1924877,72.6058061,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29f2f6f7e133:0x4cdbb48daa5ec1f2!8m2!3d23.1924877!4d72.6058061!16s%2Fg%2F11vwgw24dh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7118,11 +7059,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pearl+Dental+Care/@23.1924877,72.6058061,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29f2f6f7e133:0x4cdbb48daa5ec1f2!8m2!3d23.1924877!4d72.6058061!16s%2Fg%2F11vwgw24dh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pramukh-dental-clinic-gandhinagar",
@@ -7170,7 +7110,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pramukh+Dental+Clinic/@23.1563028,72.6362894,17z/data=!3m1!4b1!4m6!3m5!1s0x395e817c9a5c1b75:0x2562a3bf770456b3!8m2!3d23.1563028!4d72.6362894!16s%2Fg%2F11sfpm8yd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pramukh+Dental+Clinic/@23.1563028,72.6362894,17z/data=!3m1!4b1!4m6!3m5!1s0x395e817c9a5c1b75:0x2562a3bf770456b3!8m2!3d23.1563028!4d72.6362894!16s%2Fg%2F11sfpm8yd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7236,11 +7176,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pramukh+Dental+Clinic/@23.1563028,72.6362894,17z/data=!3m1!4b1!4m6!3m5!1s0x395e817c9a5c1b75:0x2562a3bf770456b3!8m2!3d23.1563028!4d72.6362894!16s%2Fg%2F11sfpm8yd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prarthana-clinic-gandhinagar",
@@ -7288,7 +7227,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prarthana+Clinic/@23.1831743,72.6139361,17z/data=!3m1!4b1!4m6!3m5!1s0x395c298aae3e13f3:0x732b0b2d30000000!8m2!3d23.1831743!4d72.6139361!16s%2Fg%2F11js4n1h1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prarthana+Clinic/@23.1831743,72.6139361,17z/data=!3m1!4b1!4m6!3m5!1s0x395c298aae3e13f3:0x732b0b2d30000000!8m2!3d23.1831743!4d72.6139361!16s%2Fg%2F11js4n1h1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7357,8 +7296,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prarthana+Clinic/@23.1831743,72.6139361,17z/data=!3m1!4b1!4m6!3m5!1s0x395c298aae3e13f3:0x732b0b2d30000000!8m2!3d23.1831743!4d72.6139361!16s%2Fg%2F11js4n1h1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prosthotouch-dental-care-gandhinagar",
@@ -7407,7 +7345,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PROSTHOTOUCH+Dental+Care/@23.1818754,72.6289515,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b37fa264481:0xf01a9375ffbcc5f9!8m2!3d23.1818754!4d72.6289515!16s%2Fg%2F11tp4f470f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PROSTHOTOUCH+Dental+Care/@23.1818754,72.6289515,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b37fa264481:0xf01a9375ffbcc5f9!8m2!3d23.1818754!4d72.6289515!16s%2Fg%2F11tp4f470f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7476,8 +7414,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PROSTHOTOUCH+Dental+Care/@23.1818754,72.6289515,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b37fa264481:0xf01a9375ffbcc5f9!8m2!3d23.1818754!4d72.6289515!16s%2Fg%2F11tp4f470f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pulse-clinic-gandhinagar",
@@ -7526,7 +7463,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PULSE+CLINIC/@23.1818121,72.6287689,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9257e2a25f:0x82126940feb0d0f5!8m2!3d23.1818121!4d72.6287689!16s%2Fg%2F11nyqh44t3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PULSE+CLINIC/@23.1818121,72.6287689,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9257e2a25f:0x82126940feb0d0f5!8m2!3d23.1818121!4d72.6287689!16s%2Fg%2F11nyqh44t3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7592,11 +7529,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PULSE+CLINIC/@23.1818121,72.6287689,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9257e2a25f:0x82126940feb0d0f5!8m2!3d23.1818121!4d72.6287689!16s%2Fg%2F11nyqh44t3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "purusharth-surgical-hospital-gandhinagar",
@@ -7644,7 +7580,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Purusharth+Surgical+Hospital/@23.228862,72.6482013,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bbcf05f0cff:0xe548823244d8ad5d!8m2!3d23.228862!4d72.6482013!16s%2Fg%2F1pwfb7fnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Purusharth+Surgical+Hospital/@23.228862,72.6482013,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bbcf05f0cff:0xe548823244d8ad5d!8m2!3d23.228862!4d72.6482013!16s%2Fg%2F1pwfb7fnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7713,8 +7649,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Purusharth+Surgical+Hospital/@23.228862,72.6482013,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bbcf05f0cff:0xe548823244d8ad5d!8m2!3d23.228862!4d72.6482013!16s%2Fg%2F1pwfb7fnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "radhe-clinic-gandhinagar-gandhinagar",
@@ -7763,7 +7698,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Radhe+Clinic+,+Gandhinagar/@23.2071877,72.6363498,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3524523cf7:0x4f16d51f880eed83!8m2!3d23.2071877!4d72.6363498!16s%2Fg%2F11clqn471n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radhe+Clinic+,+Gandhinagar/@23.2071877,72.6363498,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3524523cf7:0x4f16d51f880eed83!8m2!3d23.2071877!4d72.6363498!16s%2Fg%2F11clqn471n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7832,8 +7767,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Radhe+Clinic+,+Gandhinagar/@23.2071877,72.6363498,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3524523cf7:0x4f16d51f880eed83!8m2!3d23.2071877!4d72.6363498!16s%2Fg%2F11clqn471n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "royal-dental-care-gandhinagar",
@@ -7881,7 +7815,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Royal+Dental+Care/@23.2316727,72.6684066,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b3df616c2cb:0xbc02f897d0155e08!8m2!3d23.2316727!4d72.6684066!16s%2Fg%2F11j346fttc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+Dental+Care/@23.2316727,72.6684066,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b3df616c2cb:0xbc02f897d0155e08!8m2!3d23.2316727!4d72.6684066!16s%2Fg%2F11j346fttc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7947,11 +7881,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Royal+Dental+Care/@23.2316727,72.6684066,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b3df616c2cb:0xbc02f897d0155e08!8m2!3d23.2316727!4d72.6684066!16s%2Fg%2F11j346fttc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "royal-dental-care-gandhinagar",
@@ -7999,7 +7932,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Royal+dental+care/@23.1969101,72.6095381,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29b2c0fa618f:0xed07629963adeb01!8m2!3d23.1969101!4d72.6095381!16s%2Fg%2F11qpyxc9bh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+dental+care/@23.1969101,72.6095381,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29b2c0fa618f:0xed07629963adeb01!8m2!3d23.1969101!4d72.6095381!16s%2Fg%2F11qpyxc9bh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8065,11 +7998,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Royal+dental+care/@23.1969101,72.6095381,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29b2c0fa618f:0xed07629963adeb01!8m2!3d23.1969101!4d72.6095381!16s%2Fg%2F11qpyxc9bh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rutva-dental-care-and-implant-center-gandhinagar",
@@ -8117,7 +8049,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rutva+Dental+Care+And+Implant+Center/@23.1852253,72.6196542,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba810ae0c8b:0xe4f190b5ebd01da9!8m2!3d23.1852253!4d72.6196542!16s%2Fg%2F11sskdxfrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rutva+Dental+Care+And+Implant+Center/@23.1852253,72.6196542,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba810ae0c8b:0xe4f190b5ebd01da9!8m2!3d23.1852253!4d72.6196542!16s%2Fg%2F11sskdxfrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8186,8 +8118,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rutva+Dental+Care+And+Implant+Center/@23.1852253,72.6196542,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba810ae0c8b:0xe4f190b5ebd01da9!8m2!3d23.1852253!4d72.6196542!16s%2Fg%2F11sskdxfrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rutva-dental-care-implant-center-and-oral-cancer-diagnostic-center-gandhinagar",
@@ -8235,7 +8166,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rutva+Dental+Care,+Implant+Center+and+Oral+Cancer+Diagnostic+Center/@23.1853003,72.619387,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b8dd9bdace5:0x71513d6cec3a8677!8m2!3d23.1853003!4d72.619387!16s%2Fg%2F1ptvwq7wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rutva+Dental+Care,+Implant+Center+and+Oral+Cancer+Diagnostic+Center/@23.1853003,72.619387,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b8dd9bdace5:0x71513d6cec3a8677!8m2!3d23.1853003!4d72.619387!16s%2Fg%2F1ptvwq7wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8301,11 +8232,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rutva+Dental+Care,+Implant+Center+and+Oral+Cancer+Diagnostic+Center/@23.1853003,72.619387,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b8dd9bdace5:0x71513d6cec3a8677!8m2!3d23.1853003!4d72.619387!16s%2Fg%2F1ptvwq7wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sabka-dentist-gandhinagar",
@@ -8354,7 +8284,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sabka+dentist/@23.1961905,72.6326506,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3a007db0bd:0xffd40952265538f7!8m2!3d23.1961905!4d72.6326506!16s%2Fg%2F11c6pv2tcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sabka+dentist/@23.1961905,72.6326506,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3a007db0bd:0xffd40952265538f7!8m2!3d23.1961905!4d72.6326506!16s%2Fg%2F11c6pv2tcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8423,8 +8353,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sabka+dentist/@23.1961905,72.6326506,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a3a007db0bd:0xffd40952265538f7!8m2!3d23.1961905!4d72.6326506!16s%2Fg%2F11c6pv2tcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samarth-dental-clinic-gandhinagar",
@@ -8472,7 +8401,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAMARTH+DENTAL+CLINIC/data=!4m7!3m6!1s0x395c2b29332b0c51:0x67ba4fb1e771585f!8m2!3d23.2317891!4d72.6233376!16s%2Fg%2F11rq9kcrfp!19sChIJUQwrMykrXDkRX1hx57FPumc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAMARTH+DENTAL+CLINIC/data=!4m7!3m6!1s0x395c2b29332b0c51:0x67ba4fb1e771585f!8m2!3d23.2317891!4d72.6233376!16s%2Fg%2F11rq9kcrfp!19sChIJUQwrMykrXDkRX1hx57FPumc?authuser=0&hl=en&rclk=1"
@@ -8538,11 +8467,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAMARTH+DENTAL+CLINIC/data=!4m7!3m6!1s0x395c2b29332b0c51:0x67ba4fb1e771585f!8m2!3d23.2317891!4d72.6233376!16s%2Fg%2F11rq9kcrfp!19sChIJUQwrMykrXDkRX1hx57FPumc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samved-dental-clinic-and-implant-center-and-gandhinagar",
@@ -8590,7 +8518,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samved+Dental+Clinic+And+Implant+Center(%E0%AA%B8%E0%AA%BE%E0%AA%AE%E0%AA%B5%E0%AB%87%E0%AA%A6+%E0%AA%A1%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B2+%E0%AA%95%E0%AB%8D%E0%AA%B2%E0%AB%80%E0%AA%A8%E0%AB%80%E0%AA%95+%26+%E0%AA%87%E0%AA%AE%E0%AB%8D%E0%AA%AA%E0%AA%B2%E0%AA%BE%E0%AA%A8%E0%AB%8D%E0%AA%9F+%E0%AA%B8%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B0)/@23.1608656,72.634917,17z/data=!3m1!4b1!4m6!3m5!1s0x395e816b700ee27f:0x1985dc1ef2401a49!8m2!3d23.1608656!4d72.634917!16s%2Fg%2F11s8z8fds1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samved+Dental+Clinic+And+Implant+Center(%E0%AA%B8%E0%AA%BE%E0%AA%AE%E0%AA%B5%E0%AB%87%E0%AA%A6+%E0%AA%A1%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B2+%E0%AA%95%E0%AB%8D%E0%AA%B2%E0%AB%80%E0%AA%A8%E0%AB%80%E0%AA%95+%26+%E0%AA%87%E0%AA%AE%E0%AB%8D%E0%AA%AA%E0%AA%B2%E0%AA%BE%E0%AA%A8%E0%AB%8D%E0%AA%9F+%E0%AA%B8%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B0)/@23.1608656,72.634917,17z/data=!3m1!4b1!4m6!3m5!1s0x395e816b700ee27f:0x1985dc1ef2401a49!8m2!3d23.1608656!4d72.634917!16s%2Fg%2F11s8z8fds1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8659,8 +8587,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samved+Dental+Clinic+And+Implant+Center(%E0%AA%B8%E0%AA%BE%E0%AA%AE%E0%AA%B5%E0%AB%87%E0%AA%A6+%E0%AA%A1%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B2+%E0%AA%95%E0%AB%8D%E0%AA%B2%E0%AB%80%E0%AA%A8%E0%AB%80%E0%AA%95+%26+%E0%AA%87%E0%AA%AE%E0%AB%8D%E0%AA%AA%E0%AA%B2%E0%AA%BE%E0%AA%A8%E0%AB%8D%E0%AA%9F+%E0%AA%B8%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B0)/@23.1608656,72.634917,17z/data=!3m1!4b1!4m6!3m5!1s0x395e816b700ee27f:0x1985dc1ef2401a49!8m2!3d23.1608656!4d72.634917!16s%2Fg%2F11s8z8fds1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjivni-dental-clinic-gandhinagar",
@@ -8708,7 +8635,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjivni+Dental+Clinic/@23.234345,72.6577671,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9f46110067:0x78ed4927d7160b3e!8m2!3d23.234345!4d72.6577671!16s%2Fg%2F1ptw82pbg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjivni+Dental+Clinic/@23.234345,72.6577671,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9f46110067:0x78ed4927d7160b3e!8m2!3d23.234345!4d72.6577671!16s%2Fg%2F1ptw82pbg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8777,8 +8704,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjivni+Dental+Clinic/@23.234345,72.6577671,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b9f46110067:0x78ed4927d7160b3e!8m2!3d23.234345!4d72.6577671!16s%2Fg%2F1ptw82pbg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sattva-dental-clinic-gandhinagar",
@@ -8827,7 +8753,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sattva+Dental+Clinic/@23.1851467,72.6119269,17z/data=!3m1!4b1!4m6!3m5!1s0x395c291817727ee7:0x998e7885b89d1fa3!8m2!3d23.1851467!4d72.6119269!16s%2Fg%2F11m6d43r38?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sattva+Dental+Clinic/@23.1851467,72.6119269,17z/data=!3m1!4b1!4m6!3m5!1s0x395c291817727ee7:0x998e7885b89d1fa3!8m2!3d23.1851467!4d72.6119269!16s%2Fg%2F11m6d43r38?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8893,11 +8819,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sattva+Dental+Clinic/@23.1851467,72.6119269,17z/data=!3m1!4b1!4m6!3m5!1s0x395c291817727ee7:0x998e7885b89d1fa3!8m2!3d23.1851467!4d72.6119269!16s%2Fg%2F11m6d43r38?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satva-neonatal-and-pediatric-icu-gandhinagar",
@@ -8947,7 +8872,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Satva+Neonatal+%26+Pediatric+ICU/@23.1761438,72.6296834,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bcbf105b7eb:0x974daf86b633f360!8m2!3d23.1761438!4d72.6296834!16s%2Fg%2F11vdt_twdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satva+Neonatal+%26+Pediatric+ICU/@23.1761438,72.6296834,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bcbf105b7eb:0x974daf86b633f360!8m2!3d23.1761438!4d72.6296834!16s%2Fg%2F11vdt_twdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9013,11 +8938,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Satva+Neonatal+%26+Pediatric+ICU/@23.1761438,72.6296834,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bcbf105b7eb:0x974daf86b633f360!8m2!3d23.1761438!4d72.6296834!16s%2Fg%2F11vdt_twdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "scai-hospitals-circle-gandhinagar",
@@ -9066,7 +8990,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SCAI+HOSPITALS+CIRCLE/@23.1755862,72.6285912,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2be76828b4e9:0xf9540c8abf055602!8m2!3d23.1755862!4d72.6285912!16s%2Fg%2F11v604w4b7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SCAI+HOSPITALS+CIRCLE/@23.1755862,72.6285912,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2be76828b4e9:0xf9540c8abf055602!8m2!3d23.1755862!4d72.6285912!16s%2Fg%2F11v604w4b7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9135,8 +9059,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SCAI+HOSPITALS+CIRCLE/@23.1755862,72.6285912,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2be76828b4e9:0xf9540c8abf055602!8m2!3d23.1755862!4d72.6285912!16s%2Fg%2F11v604w4b7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sevarth-smile-care-high-tech-dental-hospital-adalaj",
@@ -9185,7 +9108,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sevarth+Smile+Care+High+Tech+Dental+Hospital/@23.1617193,72.587215,17z/data=!3m1!4b1!4m6!3m5!1s0x395c295b9fd6d85b:0xd9ceb051d53a29bf!8m2!3d23.1617193!4d72.587215!16s%2Fg%2F11jcjd28h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sevarth+Smile+Care+High+Tech+Dental+Hospital/@23.1617193,72.587215,17z/data=!3m1!4b1!4m6!3m5!1s0x395c295b9fd6d85b:0xd9ceb051d53a29bf!8m2!3d23.1617193!4d72.587215!16s%2Fg%2F11jcjd28h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9251,11 +9174,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sevarth+Smile+Care+High+Tech+Dental+Hospital/@23.1617193,72.587215,17z/data=!3m1!4b1!4m6!3m5!1s0x395c295b9fd6d85b:0xd9ceb051d53a29bf!8m2!3d23.1617193!4d72.587215!16s%2Fg%2F11jcjd28h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharnam-dental-and-implant-clinic-kudasan-branch-gandhinagar",
@@ -9303,7 +9225,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharnam+Dental+%26+Implant+Clinic+-+Kudasan+Branch/@23.179417,72.6334892,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b5c8d09231d:0xb942953ba384dbdd!8m2!3d23.179417!4d72.6334892!16s%2Fg%2F11h3jgn7c9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharnam+Dental+%26+Implant+Clinic+-+Kudasan+Branch/@23.179417,72.6334892,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b5c8d09231d:0xb942953ba384dbdd!8m2!3d23.179417!4d72.6334892!16s%2Fg%2F11h3jgn7c9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9369,11 +9291,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharnam+Dental+%26+Implant+Clinic+-+Kudasan+Branch/@23.179417,72.6334892,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b5c8d09231d:0xb942953ba384dbdd!8m2!3d23.179417!4d72.6334892!16s%2Fg%2F11h3jgn7c9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shashvat-hospital-gandhinagar",
@@ -9421,7 +9342,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shashvat+Hospital/@23.2046046,72.6331687,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a347c648f9f:0x7a06688ecf603c86!8m2!3d23.2046046!4d72.6331687!16s%2Fg%2F12647pt4v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shashvat+Hospital/@23.2046046,72.6331687,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a347c648f9f:0x7a06688ecf603c86!8m2!3d23.2046046!4d72.6331687!16s%2Fg%2F12647pt4v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9490,8 +9411,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shashvat+Hospital/@23.2046046,72.6331687,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a347c648f9f:0x7a06688ecf603c86!8m2!3d23.2046046!4d72.6331687!16s%2Fg%2F12647pt4v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiv-shakti-dental-clinic-gandhinagar",
@@ -9539,7 +9459,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiv+Shakti+Dental+Clinic/@23.1689269,72.6401287,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b006091d467:0xe8c76663ca012fa2!8m2!3d23.1689269!4d72.6401287!16s%2Fg%2F11vwsc2y9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Shakti+Dental+Clinic/@23.1689269,72.6401287,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b006091d467:0xe8c76663ca012fa2!8m2!3d23.1689269!4d72.6401287!16s%2Fg%2F11vwsc2y9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9605,11 +9525,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiv+Shakti+Dental+Clinic/@23.1689269,72.6401287,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b006091d467:0xe8c76663ca012fa2!8m2!3d23.1689269!4d72.6401287!16s%2Fg%2F11vwsc2y9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivam-dental-clinic-cghs-and-echs-empanelled-gandhinagar",
@@ -9657,7 +9576,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHIVAM+DENTAL+CLINIC+(CGHS+%26+ECHS+Empanelled+)/@23.2405306,72.6563185,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b2a6e17cda5:0xb7fec316ae6ddc8a!8m2!3d23.2405306!4d72.6563185!16s%2Fg%2F11k4qvg30x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHIVAM+DENTAL+CLINIC+(CGHS+%26+ECHS+Empanelled+)/@23.2405306,72.6563185,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b2a6e17cda5:0xb7fec316ae6ddc8a!8m2!3d23.2405306!4d72.6563185!16s%2Fg%2F11k4qvg30x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9726,8 +9645,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHIVAM+DENTAL+CLINIC+(CGHS+%26+ECHS+Empanelled+)/@23.2405306,72.6563185,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b2a6e17cda5:0xb7fec316ae6ddc8a!8m2!3d23.2405306!4d72.6563185!16s%2Fg%2F11k4qvg30x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivam-dental-clinic-and-implant-center-gandhinagar",
@@ -9776,7 +9694,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivam+Dental+Clinic+and+Implant+Center/@23.1849286,72.6303898,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b60333e1351:0x36094f3756d19287!8m2!3d23.1849286!4d72.6303898!16s%2Fg%2F11vk787f0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam+Dental+Clinic+and+Implant+Center/@23.1849286,72.6303898,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b60333e1351:0x36094f3756d19287!8m2!3d23.1849286!4d72.6303898!16s%2Fg%2F11vk787f0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9845,8 +9763,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivam+Dental+Clinic+and+Implant+Center/@23.1849286,72.6303898,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b60333e1351:0x36094f3756d19287!8m2!3d23.1849286!4d72.6303898!16s%2Fg%2F11vk787f0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivam-surgical-nursing-home-gandhinagar",
@@ -9895,7 +9812,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivam+Surgical+Nursing+Home/@23.2322126,72.6538212,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba263a732b9:0xc60fafccd2a3843b!8m2!3d23.2322126!4d72.6538212!16s%2Fg%2F1ptwyz45l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam+Surgical+Nursing+Home/@23.2322126,72.6538212,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba263a732b9:0xc60fafccd2a3843b!8m2!3d23.2322126!4d72.6538212!16s%2Fg%2F1ptwyz45l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9961,11 +9878,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivam+Surgical+Nursing+Home/@23.2322126,72.6538212,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba263a732b9:0xc60fafccd2a3843b!8m2!3d23.2322126!4d72.6538212!16s%2Fg%2F1ptwyz45l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shraddhadeep-dental-clinic-gandhinagar",
@@ -10014,7 +9930,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shraddhadeep+Dental+Clinic/@23.1980815,72.6320092,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bbc779d679f:0x4204853e31ab61af!8m2!3d23.1980815!4d72.6320092!16s%2Fg%2F11c5_5vstb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddhadeep+Dental+Clinic/@23.1980815,72.6320092,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bbc779d679f:0x4204853e31ab61af!8m2!3d23.1980815!4d72.6320092!16s%2Fg%2F11c5_5vstb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -10083,8 +9999,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shraddhadeep+Dental+Clinic/@23.1980815,72.6320092,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bbc779d679f:0x4204853e31ab61af!8m2!3d23.1980815!4d72.6320092!16s%2Fg%2F11c5_5vstb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreenath-healthcare-dental-clinic-gandhinagar",
@@ -10133,7 +10048,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreenath+Healthcare+Dental+Clinic/@23.2091124,72.6272603,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bddd90d342b:0x8ab60573ea90c9fb!8m2!3d23.2091124!4d72.6272603!16s%2Fg%2F11p0gv8_qv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreenath+Healthcare+Dental+Clinic/@23.2091124,72.6272603,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bddd90d342b:0x8ab60573ea90c9fb!8m2!3d23.2091124!4d72.6272603!16s%2Fg%2F11p0gv8_qv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -10202,8 +10117,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreenath+Healthcare+Dental+Clinic/@23.2091124,72.6272603,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bddd90d342b:0x8ab60573ea90c9fb!8m2!3d23.2091124!4d72.6272603!16s%2Fg%2F11p0gv8_qv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shubham-dental-care-and-implant-center-gandhinagar",
@@ -10252,7 +10166,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shubham+Dental+Care+%26+Implant+Center/@23.2115051,72.6368856,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bca5be1151f:0x3f561b8c0557baaa!8m2!3d23.2115051!4d72.6368856!16s%2Fg%2F11f3jgv0g_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubham+Dental+Care+%26+Implant+Center/@23.2115051,72.6368856,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bca5be1151f:0x3f561b8c0557baaa!8m2!3d23.2115051!4d72.6368856!16s%2Fg%2F11f3jgv0g_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -10321,8 +10235,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shubham+Dental+Care+%26+Implant+Center/@23.2115051,72.6368856,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bca5be1151f:0x3f561b8c0557baaa!8m2!3d23.2115051!4d72.6368856!16s%2Fg%2F11f3jgv0g_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sk-aesthetique-gandhinagar",
@@ -10371,7 +10284,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SK+AESTHETIQUE/@23.1794198,72.6337969,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b6075757b0f:0x835ee6fa679d2596!8m2!3d23.1794198!4d72.6337969!16s%2Fg%2F11kpk6ltjn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SK+AESTHETIQUE/@23.1794198,72.6337969,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b6075757b0f:0x835ee6fa679d2596!8m2!3d23.1794198!4d72.6337969!16s%2Fg%2F11kpk6ltjn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -10437,11 +10350,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SK+AESTHETIQUE/@23.1794198,72.6337969,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b6075757b0f:0x835ee6fa679d2596!8m2!3d23.1794198!4d72.6337969!16s%2Fg%2F11kpk6ltjn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sk-hospital-bhaijipura",
@@ -10489,7 +10401,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SK+HOSPITAL/@23.1568523,72.6360684,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81a2be8d6779:0x5f0b7841400947d!8m2!3d23.1568523!4d72.6360684!16s%2Fg%2F11gy7fk_p1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SK+HOSPITAL/@23.1568523,72.6360684,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81a2be8d6779:0x5f0b7841400947d!8m2!3d23.1568523!4d72.6360684!16s%2Fg%2F11gy7fk_p1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -10558,8 +10470,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SK+HOSPITAL/@23.1568523,72.6360684,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81a2be8d6779:0x5f0b7841400947d!8m2!3d23.1568523!4d72.6360684!16s%2Fg%2F11gy7fk_p1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "skin-and-cosmetology-clinic-gandhinagar",
@@ -10607,7 +10518,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Skin+And+Cosmetology+Clinic/@23.1898678,72.608481,17z/data=!3m1!4b1!4m6!3m5!1s0x395c296f5b9b51b9:0xeb90a46f1d277059!8m2!3d23.1898678!4d72.608481!16s%2Fg%2F11f6yddmwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+And+Cosmetology+Clinic/@23.1898678,72.608481,17z/data=!3m1!4b1!4m6!3m5!1s0x395c296f5b9b51b9:0xeb90a46f1d277059!8m2!3d23.1898678!4d72.608481!16s%2Fg%2F11f6yddmwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -10676,8 +10587,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Skin+And+Cosmetology+Clinic/@23.1898678,72.608481,17z/data=!3m1!4b1!4m6!3m5!1s0x395c296f5b9b51b9:0xeb90a46f1d277059!8m2!3d23.1898678!4d72.608481!16s%2Fg%2F11f6yddmwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-care-dental-dental-clinic-in-gandhinagar-implants-and-braces-gandhinagar",
@@ -10726,7 +10636,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Care+Dental+%7C+Dental+Clinic+in+Gandhinagar+%7C+Implants+%26+Braces/@23.1851497,72.6329083,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb1b5b849fb:0xc3c081bf9ac1c0a!8m2!3d23.1851497!4d72.6329083!16s%2Fg%2F11m6lc0_yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Care+Dental+%7C+Dental+Clinic+in+Gandhinagar+%7C+Implants+%26+Braces/@23.1851497,72.6329083,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb1b5b849fb:0xc3c081bf9ac1c0a!8m2!3d23.1851497!4d72.6329083!16s%2Fg%2F11m6lc0_yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -10792,11 +10702,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Care+Dental+%7C+Dental+Clinic+in+Gandhinagar+%7C+Implants+%26+Braces/@23.1851497,72.6329083,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb1b5b849fb:0xc3c081bf9ac1c0a!8m2!3d23.1851497!4d72.6329083!16s%2Fg%2F11m6lc0_yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-up-dental-clinic-gandhinagar",
@@ -10844,7 +10753,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+up+dental+clinic/@23.1953165,72.6041812,17z/data=!3m1!4b1!4m6!3m5!1s0x395c297a44f5b0c1:0x50a533b6c489986c!8m2!3d23.1953165!4d72.6041812!16s%2Fg%2F11ys9nym_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+up+dental+clinic/@23.1953165,72.6041812,17z/data=!3m1!4b1!4m6!3m5!1s0x395c297a44f5b0c1:0x50a533b6c489986c!8m2!3d23.1953165!4d72.6041812!16s%2Fg%2F11ys9nym_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -10910,11 +10819,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+up+dental+clinic/@23.1953165,72.6041812,17z/data=!3m1!4b1!4m6!3m5!1s0x395c297a44f5b0c1:0x50a533b6c489986c!8m2!3d23.1953165!4d72.6041812!16s%2Fg%2F11ys9nym_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smvs-swaminarayan-hospital-gandhinagar",
@@ -10963,7 +10871,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMVS+Swaminarayan+Hospital/@23.1773837,72.6410611,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a6cfb5983f5:0x783ea784caa1f2ae!8m2!3d23.1773837!4d72.6410611!16s%2Fg%2F11cn9v1z7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMVS+Swaminarayan+Hospital/@23.1773837,72.6410611,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a6cfb5983f5:0x783ea784caa1f2ae!8m2!3d23.1773837!4d72.6410611!16s%2Fg%2F11cn9v1z7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -11032,8 +10940,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMVS+Swaminarayan+Hospital/@23.1773837,72.6410611,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a6cfb5983f5:0x783ea784caa1f2ae!8m2!3d23.1773837!4d72.6410611!16s%2Fg%2F11cn9v1z7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smyle32-dental-studio-adalaj",
@@ -11082,7 +10989,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smyle32+Dental+Studio/@23.1621402,72.5872494,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29fe9340d291:0xb3f009081d68c5af!8m2!3d23.1621402!4d72.5872494!16s%2Fg%2F11lgqfhp16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smyle32+Dental+Studio/@23.1621402,72.5872494,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29fe9340d291:0xb3f009081d68c5af!8m2!3d23.1621402!4d72.5872494!16s%2Fg%2F11lgqfhp16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -11151,8 +11058,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smyle32+Dental+Studio/@23.1621402,72.5872494,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29fe9340d291:0xb3f009081d68c5af!8m2!3d23.1621402!4d72.5872494!16s%2Fg%2F11lgqfhp16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "star-kids-children-hospital-and-child-dental-care-gandhinagar",
@@ -11201,7 +11107,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Star+Kids+Children+Hospital+%26+Child+Dental+Care/@23.1742824,72.6406858,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a6d63fa8521:0x81d813320489e847!8m2!3d23.1742824!4d72.6406858!16s%2Fg%2F11rr8w_txj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+Kids+Children+Hospital+%26+Child+Dental+Care/@23.1742824,72.6406858,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a6d63fa8521:0x81d813320489e847!8m2!3d23.1742824!4d72.6406858!16s%2Fg%2F11rr8w_txj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -11270,8 +11176,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Star+Kids+Children+Hospital+%26+Child+Dental+Care/@23.1742824,72.6406858,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a6d63fa8521:0x81d813320489e847!8m2!3d23.1742824!4d72.6406858!16s%2Fg%2F11rr8w_txj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swaminarayan-seva-trust-dental-care-and-implant-center-gandhinagar",
@@ -11320,7 +11225,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swaminarayan+Seva+Trust+Dental+Care+%26+Implant+Center/@23.1991713,72.6107552,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29e3f06a8bad:0x5e6b7a01044b9eeb!8m2!3d23.1991713!4d72.6107552!16s%2Fg%2F11lrdklpwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swaminarayan+Seva+Trust+Dental+Care+%26+Implant+Center/@23.1991713,72.6107552,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29e3f06a8bad:0x5e6b7a01044b9eeb!8m2!3d23.1991713!4d72.6107552!16s%2Fg%2F11lrdklpwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -11389,8 +11294,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swaminarayan+Seva+Trust+Dental+Care+%26+Implant+Center/@23.1991713,72.6107552,17z/data=!3m1!4b1!4m6!3m5!1s0x395c29e3f06a8bad:0x5e6b7a01044b9eeb!8m2!3d23.1991713!4d72.6107552!16s%2Fg%2F11lrdklpwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "teeth-care-dental-clinic-gandhinagar-gandhinagar",
@@ -11439,7 +11343,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Teeth+Care+Dental+Clinic+-+Gandhinagar/@23.230043,72.668493,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0c07fac379:0x10276b69e847257e!8m2!3d23.230043!4d72.668493!16s%2Fg%2F11b78pyn87?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Teeth+Care+Dental+Clinic+-+Gandhinagar/@23.230043,72.668493,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0c07fac379:0x10276b69e847257e!8m2!3d23.230043!4d72.668493!16s%2Fg%2F11b78pyn87?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -11508,8 +11412,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Teeth+Care+Dental+Clinic+-+Gandhinagar/@23.230043,72.668493,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0c07fac379:0x10276b69e847257e!8m2!3d23.230043!4d72.668493!16s%2Fg%2F11b78pyn87?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tejas-surgical-hospital-gandhinagar-gandhinagar",
@@ -11557,7 +11460,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tejas+Surgical+Hospital+Gandhinagar/@23.2153441,72.6422819,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb68fa12e35:0xfa147f293d9b1f22!8m2!3d23.2153441!4d72.6422819!16s%2Fg%2F11f0kvj3w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tejas+Surgical+Hospital+Gandhinagar/@23.2153441,72.6422819,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb68fa12e35:0xfa147f293d9b1f22!8m2!3d23.2153441!4d72.6422819!16s%2Fg%2F11f0kvj3w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -11623,11 +11526,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tejas+Surgical+Hospital+Gandhinagar/@23.2153441,72.6422819,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bb68fa12e35:0xfa147f293d9b1f22!8m2!3d23.2153441!4d72.6422819!16s%2Fg%2F11f0kvj3w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "u-n-mehta-institute-of-cardiology-and-research-centre-cardiac-and-neuro-care-gandhinagar",
@@ -11678,7 +11580,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/U+N+Mehta+Institute+of+Cardiology+%26+Research+Centre+Cardiac+%26+Neuro+Care/@23.2175933,72.6402343,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b002e3bffc1:0x75ea4effe56c8855!8m2!3d23.2175933!4d72.6402343!16s%2Fg%2F11xdsj_0yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/U+N+Mehta+Institute+of+Cardiology+%26+Research+Centre+Cardiac+%26+Neuro+Care/@23.2175933,72.6402343,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b002e3bffc1:0x75ea4effe56c8855!8m2!3d23.2175933!4d72.6402343!16s%2Fg%2F11xdsj_0yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -11747,8 +11649,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/U+N+Mehta+Institute+of+Cardiology+%26+Research+Centre+Cardiac+%26+Neuro+Care/@23.2175933,72.6402343,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b002e3bffc1:0x75ea4effe56c8855!8m2!3d23.2175933!4d72.6402343!16s%2Fg%2F11xdsj_0yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "u-n-mehta-institute-of-cardiology-and-research-centre-gandhinagar-gandhinagar",
@@ -11798,7 +11699,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/U.+N.+Mehta+Institute+of+Cardiology+%26+Research+Centre,+Gandhinagar/@23.2177398,72.6404331,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b00595bf94d:0x8199bcf0477e35a4!8m2!3d23.2177398!4d72.6404331!16s%2Fg%2F11ydg4h1hz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/U.+N.+Mehta+Institute+of+Cardiology+%26+Research+Centre,+Gandhinagar/@23.2177398,72.6404331,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b00595bf94d:0x8199bcf0477e35a4!8m2!3d23.2177398!4d72.6404331!16s%2Fg%2F11ydg4h1hz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -11864,11 +11765,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/U.+N.+Mehta+Institute+of+Cardiology+%26+Research+Centre,+Gandhinagar/@23.2177398,72.6404331,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b00595bf94d:0x8199bcf0477e35a4!8m2!3d23.2177398!4d72.6404331!16s%2Fg%2F11ydg4h1hz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "uma-heart-and-medical-clinic-gandhinagar",
@@ -11917,7 +11817,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Uma+Heart+%26+Medical+Clinic/@23.1606176,72.6363625,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81cce9a3629f:0x1c0c6f386977823c!8m2!3d23.1606176!4d72.6363625!16s%2Fg%2F11lnht11pj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uma+Heart+%26+Medical+Clinic/@23.1606176,72.6363625,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81cce9a3629f:0x1c0c6f386977823c!8m2!3d23.1606176!4d72.6363625!16s%2Fg%2F11lnht11pj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -11986,8 +11886,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Uma+Heart+%26+Medical+Clinic/@23.1606176,72.6363625,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81cce9a3629f:0x1c0c6f386977823c!8m2!3d23.1606176!4d72.6363625!16s%2Fg%2F11lnht11pj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vachhani-speciality-care-hospital-gandhinagar",
@@ -12037,7 +11936,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vachhani+Speciality+Care+Hospital/@23.1796317,72.6245907,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a140c715353:0xc6fb13bedb575e3c!8m2!3d23.1796317!4d72.6245907!16s%2Fg%2F11c5gzn6q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vachhani+Speciality+Care+Hospital/@23.1796317,72.6245907,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a140c715353:0xc6fb13bedb575e3c!8m2!3d23.1796317!4d72.6245907!16s%2Fg%2F11c5gzn6q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -12106,8 +12005,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vachhani+Speciality+Care+Hospital/@23.1796317,72.6245907,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a140c715353:0xc6fb13bedb575e3c!8m2!3d23.1796317!4d72.6245907!16s%2Fg%2F11c5gzn6q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "varda-dental-aesthetics-and-implant-center-gandhinagar",
@@ -12156,7 +12054,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Varda+Dental+Aesthetics+%26+Implant+center/@23.1976501,72.6139486,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bf2e1b9f83f:0xd44d7e7230b101cd!8m2!3d23.1976501!4d72.6139486!16s%2Fg%2F11r205my2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varda+Dental+Aesthetics+%26+Implant+center/@23.1976501,72.6139486,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bf2e1b9f83f:0xd44d7e7230b101cd!8m2!3d23.1976501!4d72.6139486!16s%2Fg%2F11r205my2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -12222,11 +12120,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Varda+Dental+Aesthetics+%26+Implant+center/@23.1976501,72.6139486,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bf2e1b9f83f:0xd44d7e7230b101cd!8m2!3d23.1976501!4d72.6139486!16s%2Fg%2F11r205my2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vardhman-hospital-gandhinagar",
@@ -12274,7 +12171,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vardhman+Hospital/@23.1794216,72.6336358,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b6d14ecd8d9:0x157e46f49ea0a44a!8m2!3d23.1794216!4d72.6336358!16s%2Fg%2F11jrgnhfwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardhman+Hospital/@23.1794216,72.6336358,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b6d14ecd8d9:0x157e46f49ea0a44a!8m2!3d23.1794216!4d72.6336358!16s%2Fg%2F11jrgnhfwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -12343,8 +12240,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vardhman+Hospital/@23.1794216,72.6336358,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b6d14ecd8d9:0x157e46f49ea0a44a!8m2!3d23.1794216!4d72.6336358!16s%2Fg%2F11jrgnhfwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "varni-dental-and-medical-clinic-best-dental-clinic-in-kudasan-gandhinagar-gandhinagar",
@@ -12393,7 +12289,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Varni+Dental+%26+Medical+Clinic+-+Best+Dental+Clinic+in+Kudasan+Gandhinagar/@23.1819605,72.635666,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b938f2a68d3:0x640d505ef4d8e39b!8m2!3d23.1819605!4d72.635666!16s%2Fg%2F11q9qnyp1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varni+Dental+%26+Medical+Clinic+-+Best+Dental+Clinic+in+Kudasan+Gandhinagar/@23.1819605,72.635666,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b938f2a68d3:0x640d505ef4d8e39b!8m2!3d23.1819605!4d72.635666!16s%2Fg%2F11q9qnyp1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -12459,11 +12355,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Varni+Dental+%26+Medical+Clinic+-+Best+Dental+Clinic+in+Kudasan+Gandhinagar/@23.1819605,72.635666,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b938f2a68d3:0x640d505ef4d8e39b!8m2!3d23.1819605!4d72.635666!16s%2Fg%2F11q9qnyp1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vibrant-dental-clinic-gandhinagar",
@@ -12511,7 +12406,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VIBRANT+DENTAL+CLINIC/@23.179804,72.635956,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a1444af17f9:0xfde783f4fa581564!8m2!3d23.179804!4d72.635956!16s%2Fg%2F11ggq85mj7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIBRANT+DENTAL+CLINIC/@23.179804,72.635956,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a1444af17f9:0xfde783f4fa581564!8m2!3d23.179804!4d72.635956!16s%2Fg%2F11ggq85mj7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -12577,11 +12472,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VIBRANT+DENTAL+CLINIC/@23.179804,72.635956,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a1444af17f9:0xfde783f4fa581564!8m2!3d23.179804!4d72.635956!16s%2Fg%2F11ggq85mj7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vishal-dental-care-gandhinagar",
@@ -12629,7 +12523,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vishal+Dental+Care/@23.2320828,72.6540804,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba26688b597:0x1024832aea5ca1f5!8m2!3d23.2320828!4d72.6540804!16s%2Fg%2F1pt_rt1t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishal+Dental+Care/@23.2320828,72.6540804,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba26688b597:0x1024832aea5ca1f5!8m2!3d23.2320828!4d72.6540804!16s%2Fg%2F1pt_rt1t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -12698,8 +12592,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vishal+Dental+Care/@23.2320828,72.6540804,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba26688b597:0x1024832aea5ca1f5!8m2!3d23.2320828!4d72.6540804!16s%2Fg%2F1pt_rt1t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "viyana-dental-care-and-implant-center-gandhinagar-gandhinagar",
@@ -12747,7 +12640,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Viyana+Dental+Care+%26+Implant+Center+-+Gandhinagar/@23.2127444,72.629993,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b2ebe5efdaf:0x45d746c136d94c92!8m2!3d23.2127444!4d72.629993!16s%2Fg%2F11h3bgjvs0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Viyana+Dental+Care+%26+Implant+Center+-+Gandhinagar/@23.2127444,72.629993,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b2ebe5efdaf:0x45d746c136d94c92!8m2!3d23.2127444!4d72.629993!16s%2Fg%2F11h3bgjvs0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -12816,8 +12709,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Viyana+Dental+Care+%26+Implant+Center+-+Gandhinagar/@23.2127444,72.629993,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b2ebe5efdaf:0x45d746c136d94c92!8m2!3d23.2127444!4d72.629993!16s%2Fg%2F11h3bgjvs0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "white-pearl-dental-clinic-gandhinagar",
@@ -12865,7 +12757,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/White+pearl+dental+clinic/@23.1635369,72.6367369,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a0a93cb5dbd:0xccbf1a08331536ad!8m2!3d23.1635369!4d72.6367369!16s%2Fg%2F11b764px4w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/White+pearl+dental+clinic/@23.1635369,72.6367369,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a0a93cb5dbd:0xccbf1a08331536ad!8m2!3d23.1635369!4d72.6367369!16s%2Fg%2F11b764px4w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -12931,11 +12823,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/White+pearl+dental+clinic/@23.1635369,72.6367369,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2a0a93cb5dbd:0xccbf1a08331536ad!8m2!3d23.1635369!4d72.6367369!16s%2Fg%2F11b764px4w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yashdeep-care-hospital-gandhinagar",
@@ -12984,7 +12875,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yashdeep+Care+Hospital/@23.2384321,72.6625914,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0b57ee3369:0x3a79cfcbbd13704f!8m2!3d23.2384321!4d72.6625914!16s%2Fg%2F11g8wvhch9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashdeep+Care+Hospital/@23.2384321,72.6625914,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0b57ee3369:0x3a79cfcbbd13704f!8m2!3d23.2384321!4d72.6625914!16s%2Fg%2F11g8wvhch9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -13053,8 +12944,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yashdeep+Care+Hospital/@23.2384321,72.6625914,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0b57ee3369:0x3a79cfcbbd13704f!8m2!3d23.2384321!4d72.6625914!16s%2Fg%2F11g8wvhch9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yashdeep-dental-clinic-in-gandhinagar-gandhinagar",
@@ -13103,7 +12993,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yashdeep+Dental+Clinic+in+Gandhinagar/@23.2086646,72.6366395,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bcacf389777:0x45712a6ab826fae5!8m2!3d23.2086646!4d72.6366395!16s%2Fg%2F11b5qss88g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashdeep+Dental+Clinic+in+Gandhinagar/@23.2086646,72.6366395,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bcacf389777:0x45712a6ab826fae5!8m2!3d23.2086646!4d72.6366395!16s%2Fg%2F11b5qss88g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -13172,8 +13062,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yashdeep+Dental+Clinic+in+Gandhinagar/@23.2086646,72.6366395,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2bcacf389777:0x45712a6ab826fae5!8m2!3d23.2086646!4d72.6366395!16s%2Fg%2F11b5qss88g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yashdeep-hospital-best-hospital-medical-hospital-heart-hospital-emergency-hospital-gandhinagar",
@@ -13222,7 +13111,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yashdeep+hospital+%7C%7C+Best+Hospital,+Medical+Hospital,+Heart+Hospital,+Emergency+Hospital/@23.2328483,72.6585625,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba1c4d90875:0x82c466b18fafda2e!8m2!3d23.2328483!4d72.6585625!16s%2Fg%2F11b72l0wd2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashdeep+hospital+%7C%7C+Best+Hospital,+Medical+Hospital,+Heart+Hospital,+Emergency+Hospital/@23.2328483,72.6585625,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba1c4d90875:0x82c466b18fafda2e!8m2!3d23.2328483!4d72.6585625!16s%2Fg%2F11b72l0wd2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -13291,8 +13180,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yashdeep+hospital+%7C%7C+Best+Hospital,+Medical+Hospital,+Heart+Hospital,+Emergency+Hospital/@23.2328483,72.6585625,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2ba1c4d90875:0x82c466b18fafda2e!8m2!3d23.2328483!4d72.6585625!16s%2Fg%2F11b72l0wd2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gandhinagar",
@@ -13341,7 +13229,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%99%F0%9D%97%94%F0%9D%97%96%F0%9D%97%98+-%F0%9D%97%97%F0%9D%97%BF.%F0%9D%97%9A%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%83+-+%F0%9D%97%A0.%F0%9D%97%97.%F0%9D%97%A6/@23.1924235,72.616489,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0f7b8dcb3f:0x12fc785e36e18029!8m2!3d23.1924235!4d72.616489!16s%2Fg%2F11k9ss5dm9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%99%F0%9D%97%94%F0%9D%97%96%F0%9D%97%98+-%F0%9D%97%97%F0%9D%97%BF.%F0%9D%97%9A%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%83+-+%F0%9D%97%A0.%F0%9D%97%97.%F0%9D%97%A6/@23.1924235,72.616489,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0f7b8dcb3f:0x12fc785e36e18029!8m2!3d23.1924235!4d72.616489!16s%2Fg%2F11k9ss5dm9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -13407,10 +13295,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%99%F0%9D%97%94%F0%9D%97%96%F0%9D%97%98+-%F0%9D%97%97%F0%9D%97%BF.%F0%9D%97%9A%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%83+-+%F0%9D%97%A0.%F0%9D%97%97.%F0%9D%97%A6/@23.1924235,72.616489,17z/data=!3m1!4b1!4m6!3m5!1s0x395c2b0f7b8dcb3f:0x12fc785e36e18029!8m2!3d23.1924235!4d72.616489!16s%2Fg%2F11k9ss5dm9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

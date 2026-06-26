@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A+ONE+MEDICOS+%26+CLINIC/@32.5562574,76.1170335,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0074c203bd:0xc5e8f065bde83c2!8m2!3d32.5562574!4d76.1170335!16s%2Fg%2F11xkzh67z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+ONE+MEDICOS+%26+CLINIC/@32.5562574,76.1170335,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0074c203bd:0xc5e8f065bde83c2!8m2!3d32.5562574!4d76.1170335!16s%2Fg%2F11xkzh67z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -115,8 +115,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A+ONE+MEDICOS+%26+CLINIC/@32.5562574,76.1170335,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0074c203bd:0xc5e8f065bde83c2!8m2!3d32.5562574!4d76.1170335!16s%2Fg%2F11xkzh67z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advanced-dental-care-clinic-chamba",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Advanced+Dental+Care+Clinic/@32.5573519,76.1227034,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdcf31e83de1:0x7415753a76692675!8m2!3d32.5573519!4d76.1227034!16s%2Fg%2F119v7tbzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Dental+Care+Clinic/@32.5573519,76.1227034,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdcf31e83de1:0x7415753a76692675!8m2!3d32.5573519!4d76.1227034!16s%2Fg%2F119v7tbzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -233,8 +232,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Advanced+Dental+Care+Clinic/@32.5573519,76.1227034,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdcf31e83de1:0x7415753a76692675!8m2!3d32.5573519!4d76.1227034!16s%2Fg%2F119v7tbzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aesthetic-edge-dental-chamba",
@@ -282,7 +280,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AESTHETIC+EDGE+DENTAL/@32.5582976,76.1251523,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0d9fd6cac1:0x3a71d6645239d379!8m2!3d32.5582976!4d76.1251523!16s%2Fg%2F11x2ytt042?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AESTHETIC+EDGE+DENTAL/@32.5582976,76.1251523,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0d9fd6cac1:0x3a71d6645239d379!8m2!3d32.5582976!4d76.1251523!16s%2Fg%2F11x2ytt042?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -348,11 +346,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AESTHETIC+EDGE+DENTAL/@32.5582976,76.1251523,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0d9fd6cac1:0x3a71d6645239d379!8m2!3d32.5582976!4d76.1251523!16s%2Fg%2F11x2ytt042?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "altis-hospital-una-una",
@@ -401,7 +398,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Altis+Hospital,+Una/@31.4713691,76.2661353,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad07f56f965ad:0x6c584c029f139d73!8m2!3d31.4713691!4d76.2661353!16s%2Fg%2F1yg4vbgn5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Altis+Hospital,+Una/@31.4713691,76.2661353,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad07f56f965ad:0x6c584c029f139d73!8m2!3d31.4713691!4d76.2661353!16s%2Fg%2F1yg4vbgn5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -470,8 +467,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Altis+Hospital,+Una/@31.4713691,76.2661353,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad07f56f965ad:0x6c584c029f139d73!8m2!3d31.4713691!4d76.2661353!16s%2Fg%2F1yg4vbgn5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anand-homeopathic-clinic-chamba",
@@ -520,7 +516,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anand+Homeopathic+Clinic/@32.5568881,76.1230881,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd7105b60c37:0x23b821b6c3877d0a!8m2!3d32.5568881!4d76.1230881!16s%2Fg%2F11qq5k7z3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Homeopathic+Clinic/@32.5568881,76.1230881,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd7105b60c37:0x23b821b6c3877d0a!8m2!3d32.5568881!4d76.1230881!16s%2Fg%2F11qq5k7z3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -586,11 +582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anand+Homeopathic+Clinic/@32.5568881,76.1230881,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd7105b60c37:0x23b821b6c3877d0a!8m2!3d32.5568881!4d76.1230881!16s%2Fg%2F11qq5k7z3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirwad-ultrasound-center-chamba",
@@ -639,7 +634,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashirwad+Ultrasound+Center/data=!4m7!3m6!1s0x391cbd849b8dbb45:0x153444bbb530dc95!8m2!3d32.5582376!4d76.1229306!16s%2Fg%2F11w_v4hgkw!19sChIJRbuNm4S9HDkRldwwtbtENBU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirwad+Ultrasound+Center/data=!4m7!3m6!1s0x391cbd849b8dbb45:0x153444bbb530dc95!8m2!3d32.5582376!4d76.1229306!16s%2Fg%2F11w_v4hgkw!19sChIJRbuNm4S9HDkRldwwtbtENBU?authuser=0&hl=en&rclk=1"
@@ -708,8 +703,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashirwad+Ultrasound+Center/data=!4m7!3m6!1s0x391cbd849b8dbb45:0x153444bbb530dc95!8m2!3d32.5582376!4d76.1229306!16s%2Fg%2F11w_v4hgkw!19sChIJRbuNm4S9HDkRldwwtbtENBU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "balaji-hospital-laparoscopic-surgery-kidney-and-dialysis-centre-pathankot",
@@ -759,7 +753,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Balaji+Hospital+-+Laparoscopic+Surgery,+Kidney+%26+Dialysis+Centre/@32.2642139,75.6503665,17z/data=!3m1!4b1!4m6!3m5!1s0x391c7f65e4f8aba1:0x64f5b00b832ed3b8!8m2!3d32.2642139!4d75.6503665!16s%2Fg%2F11c5_hfwxz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balaji+Hospital+-+Laparoscopic+Surgery,+Kidney+%26+Dialysis+Centre/@32.2642139,75.6503665,17z/data=!3m1!4b1!4m6!3m5!1s0x391c7f65e4f8aba1:0x64f5b00b832ed3b8!8m2!3d32.2642139!4d75.6503665!16s%2Fg%2F11c5_hfwxz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -828,8 +822,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Balaji+Hospital+-+Laparoscopic+Surgery,+Kidney+%26+Dialysis+Centre/@32.2642139,75.6503665,17z/data=!3m1!4b1!4m6!3m5!1s0x391c7f65e4f8aba1:0x64f5b00b832ed3b8!8m2!3d32.2642139!4d75.6503665!16s%2Fg%2F11c5_hfwxz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhagat-clinic-damtal",
@@ -878,7 +871,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhagat+Clinic/@32.225736,75.6600912,17z/data=!3m1!4b1!4m6!3m5!1s0x391b8100142f7799:0x4f842337372e7ce4!8m2!3d32.225736!4d75.6600912!16s%2Fg%2F11lvlh7yvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagat+Clinic/@32.225736,75.6600912,17z/data=!3m1!4b1!4m6!3m5!1s0x391b8100142f7799:0x4f842337372e7ce4!8m2!3d32.225736!4d75.6600912!16s%2Fg%2F11lvlh7yvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -944,11 +937,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhagat+Clinic/@32.225736,75.6600912,17z/data=!3m1!4b1!4m6!3m5!1s0x391b8100142f7799:0x4f842337372e7ce4!8m2!3d32.225736!4d75.6600912!16s%2Fg%2F11lvlh7yvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chamba-oxygen-plant-chamba",
@@ -996,7 +988,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chamba+oxygen+plant/@32.5591095,76.1221319,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd004b08049b:0xe4e29b61d8182ee2!8m2!3d32.5591095!4d76.1221319!16s%2Fg%2F11lypkhftw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chamba+oxygen+plant/@32.5591095,76.1221319,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd004b08049b:0xe4e29b61d8182ee2!8m2!3d32.5591095!4d76.1221319!16s%2Fg%2F11lypkhftw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1062,11 +1054,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chamba+oxygen+plant/@32.5591095,76.1221319,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd004b08049b:0xe4e29b61d8182ee2!8m2!3d32.5591095!4d76.1221319!16s%2Fg%2F11lypkhftw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chamba-regional-hospital-blood-bank-chamba",
@@ -1115,7 +1106,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chamba+Regional+Hospital+Blood+Bank/data=!4m7!3m6!1s0x391cbdcc3fffffff:0xfc2c7bb3c3fac271!8m2!3d32.5590839!4d76.1276919!16s%2Fg%2F11jvpmsw0g!19sChIJ____P8y9HDkRccL6w7N7LPw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chamba+Regional+Hospital+Blood+Bank/data=!4m7!3m6!1s0x391cbdcc3fffffff:0xfc2c7bb3c3fac271!8m2!3d32.5590839!4d76.1276919!16s%2Fg%2F11jvpmsw0g!19sChIJ____P8y9HDkRccL6w7N7LPw?authuser=0&hl=en&rclk=1"
@@ -1181,11 +1172,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chamba+Regional+Hospital+Blood+Bank/data=!4m7!3m6!1s0x391cbdcc3fffffff:0xfc2c7bb3c3fac271!8m2!3d32.5590839!4d76.1276919!16s%2Fg%2F11jvpmsw0g!19sChIJ____P8y9HDkRccL6w7N7LPw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chamba-smiles-dental-clinic-an-advanced-orthodontics-and-implant-centre-chamba",
@@ -1235,7 +1225,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CHAMBA+SMILES+DENTAL+CLINIC+(An+Advanced+Orthodontics+%26+Implant+Centre/@32.5823333,76.1164257,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdbd2d53c6e7:0x9be190f487c30d41!8m2!3d32.5823333!4d76.1164257!16s%2Fg%2F11g4dvdlb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHAMBA+SMILES+DENTAL+CLINIC+(An+Advanced+Orthodontics+%26+Implant+Centre/@32.5823333,76.1164257,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdbd2d53c6e7:0x9be190f487c30d41!8m2!3d32.5823333!4d76.1164257!16s%2Fg%2F11g4dvdlb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1301,11 +1291,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CHAMBA+SMILES+DENTAL+CLINIC+(An+Advanced+Orthodontics+%26+Implant+Centre/@32.5823333,76.1164257,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdbd2d53c6e7:0x9be190f487c30d41!8m2!3d32.5823333!4d76.1164257!16s%2Fg%2F11g4dvdlb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "civil-hospital-chowari-chamba",
@@ -1353,7 +1342,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Civil+Hospital+Chowari/@32.429397,76.0133439,17z/data=!3m1!4b1!4m6!3m5!1s0x391c999fcb7b02f7:0xc19fc471984877d6!8m2!3d32.429397!4d76.0133439!16s%2Fg%2F11c743m3b6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Civil+Hospital+Chowari/@32.429397,76.0133439,17z/data=!3m1!4b1!4m6!3m5!1s0x391c999fcb7b02f7:0xc19fc471984877d6!8m2!3d32.429397!4d76.0133439!16s%2Fg%2F11c743m3b6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1422,8 +1411,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Civil+Hospital+Chowari/@32.429397,76.0133439,17z/data=!3m1!4b1!4m6!3m5!1s0x391c999fcb7b02f7:0xc19fc471984877d6!8m2!3d32.429397!4d76.0133439!16s%2Fg%2F11c743m3b6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cradle-fertility-center-kolkata",
@@ -1473,7 +1461,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cradle+Fertility+Center/@22.449751,88.3067351,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a9486ec8e05:0x7e1864839b8cbffd!8m2!3d22.449751!4d88.3067351!16s%2Fg%2F11b_0238p5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cradle+Fertility+Center/@22.449751,88.3067351,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a9486ec8e05:0x7e1864839b8cbffd!8m2!3d22.449751!4d88.3067351!16s%2Fg%2F11b_0238p5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1542,8 +1530,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cradle+Fertility+Center/@22.449751,88.3067351,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a9486ec8e05:0x7e1864839b8cbffd!8m2!3d22.449751!4d88.3067351!16s%2Fg%2F11b_0238p5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-clinic-chamba-chamba",
@@ -1591,7 +1578,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Clinic,chamba/@32.5610175,76.1169863,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdabdbcdefb9:0x84713b6916ca1b6d!8m2!3d32.5610175!4d76.1169863!16s%2Fg%2F11hf7xmcc3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Clinic,chamba/@32.5610175,76.1169863,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdabdbcdefb9:0x84713b6916ca1b6d!8m2!3d32.5610175!4d76.1169863!16s%2Fg%2F11hf7xmcc3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1660,8 +1647,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Clinic,chamba/@32.5610175,76.1169863,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdabdbcdefb9:0x84713b6916ca1b6d!8m2!3d32.5610175!4d76.1169863!16s%2Fg%2F11hf7xmcc3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "devals-city-dental-care-and-diagnostic-centre-chamba",
@@ -1709,7 +1695,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Devals'+City+Dental+Care+and+Diagnostic+Centre/@32.5533195,76.1259113,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdae0ef23a45:0x613e09873e7ffe98!8m2!3d32.5533195!4d76.1259113!16s%2Fg%2F11w3y_rfgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devals'+City+Dental+Care+and+Diagnostic+Centre/@32.5533195,76.1259113,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdae0ef23a45:0x613e09873e7ffe98!8m2!3d32.5533195!4d76.1259113!16s%2Fg%2F11w3y_rfgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1775,11 +1761,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Devals'+City+Dental+Care+and+Diagnostic+Centre/@32.5533195,76.1259113,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdae0ef23a45:0x613e09873e7ffe98!8m2!3d32.5533195!4d76.1259113!16s%2Fg%2F11w3y_rfgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "district-ayurvedic-hospital-chamba",
@@ -1827,7 +1812,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/District+Ayurvedic+Hospital/@32.5681213,76.1207476,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd754b774e1:0x6f97f39fc56aac5c!8m2!3d32.5681213!4d76.1207476!16s%2Fg%2F11dymvf1kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Ayurvedic+Hospital/@32.5681213,76.1207476,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd754b774e1:0x6f97f39fc56aac5c!8m2!3d32.5681213!4d76.1207476!16s%2Fg%2F11dymvf1kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1896,8 +1881,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/District+Ayurvedic+Hospital/@32.5681213,76.1207476,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd754b774e1:0x6f97f39fc56aac5c!8m2!3d32.5681213!4d76.1207476!16s%2Fg%2F11dymvf1kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "eskag-sanjeevani-dialysis-center-chamba-chamba",
@@ -1947,7 +1931,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Chamba/@32.553393,76.1257537,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0c8d3ce7af:0x4e54f0d3de5f7979!8m2!3d32.553393!4d76.1257537!16s%2Fg%2F11rgbn1_nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Chamba/@32.553393,76.1257537,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0c8d3ce7af:0x4e54f0d3de5f7979!8m2!3d32.553393!4d76.1257537!16s%2Fg%2F11rgbn1_nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2013,11 +1997,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Chamba/@32.553393,76.1257537,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0c8d3ce7af:0x4e54f0d3de5f7979!8m2!3d32.553393!4d76.1257537!16s%2Fg%2F11rgbn1_nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "eve-fertility-lini-kolkata",
@@ -2064,7 +2047,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Eve+Fertility+Lini/@22.5389974,88.320428,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0279e097f69edd:0x8854a86400ecd45e!8m2!3d22.5389974!4d88.320428!16s%2Fg%2F11krjxggf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eve+Fertility+Lini/@22.5389974,88.320428,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0279e097f69edd:0x8854a86400ecd45e!8m2!3d22.5389974!4d88.320428!16s%2Fg%2F11krjxggf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2130,11 +2113,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Eve+Fertility+Lini/@22.5389974,88.320428,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0279e097f69edd:0x8854a86400ecd45e!8m2!3d22.5389974!4d88.320428!16s%2Fg%2F11krjxggf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fungni-clinic-and-minor-surgical-center-bhuntar",
@@ -2183,7 +2165,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fungni+Clinic+and+Minor+Surgical+Center/@31.894494,77.139159,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7704df7af37:0xf0be05ec15dcfa26!8m2!3d31.894494!4d77.139159!16s%2Fg%2F11dxlb518d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fungni+Clinic+and+Minor+Surgical+Center/@31.894494,77.139159,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7704df7af37:0xf0be05ec15dcfa26!8m2!3d31.894494!4d77.139159!16s%2Fg%2F11dxlb518d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2252,8 +2234,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fungni+Clinic+and+Minor+Surgical+Center/@31.894494,77.139159,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7704df7af37:0xf0be05ec15dcfa26!8m2!3d31.894494!4d77.139159!16s%2Fg%2F11dxlb518d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gautam-clinic-sundar-nagar",
@@ -2302,7 +2283,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gautam+Clinic/@31.528523,76.9155231,17z/data=!3m1!4b1!4m6!3m5!1s0x390519bc946decc7:0x51c371bcb22eb3fc!8m2!3d31.528523!4d76.9155231!16s%2Fg%2F11vq0kx1ty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gautam+Clinic/@31.528523,76.9155231,17z/data=!3m1!4b1!4m6!3m5!1s0x390519bc946decc7:0x51c371bcb22eb3fc!8m2!3d31.528523!4d76.9155231!16s%2Fg%2F11vq0kx1ty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2368,11 +2349,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gautam+Clinic/@31.528523,76.9155231,17z/data=!3m1!4b1!4m6!3m5!1s0x390519bc946decc7:0x51c371bcb22eb3fc!8m2!3d31.528523!4d76.9155231!16s%2Fg%2F11vq0kx1ty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-health-centre-chamba",
@@ -2418,7 +2398,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GLOBAL+HEALTH+CENTRE/@32.5786746,76.1181533,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbfa8263bce01:0x6779eb82c0062abb!8m2!3d32.5786746!4d76.1181533!16s%2Fg%2F11qq2p3tt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GLOBAL+HEALTH+CENTRE/@32.5786746,76.1181533,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbfa8263bce01:0x6779eb82c0062abb!8m2!3d32.5786746!4d76.1181533!16s%2Fg%2F11qq2p3tt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2484,11 +2464,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GLOBAL+HEALTH+CENTRE/@32.5786746,76.1181533,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbfa8263bce01:0x6779eb82c0062abb!8m2!3d32.5786746!4d76.1181533!16s%2Fg%2F11qq2p3tt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hardaspura-chamba",
@@ -2534,7 +2513,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hardaspura/@32.5406437,76.1350345,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0042cab405:0x6e8b106b47f4c5a4!8m2!3d32.5406437!4d76.1350345!16s%2Fg%2F11z9qzdm3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hardaspura/@32.5406437,76.1350345,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0042cab405:0x6e8b106b47f4c5a4!8m2!3d32.5406437!4d76.1350345!16s%2Fg%2F11z9qzdm3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2600,11 +2579,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hardaspura/@32.5406437,76.1350345,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0042cab405:0x6e8b106b47f4c5a4!8m2!3d32.5406437!4d76.1350345!16s%2Fg%2F11z9qzdm3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healthassure-city-diagnostic-and-xray-centre-chamba-hp-blood-tests-home-collection-and-full-body-checkups-chamba",
@@ -2653,7 +2631,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HealthAssure+-+City+Diagnostic+And+Xray+Centre+-+Chamba-HP+%7C+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups/@32.5533633,76.1258083,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbda06ba930b7:0x922d6fbc78779416!8m2!3d32.5533633!4d76.1258083!16s%2Fg%2F11xh1ytc8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HealthAssure+-+City+Diagnostic+And+Xray+Centre+-+Chamba-HP+%7C+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups/@32.5533633,76.1258083,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbda06ba930b7:0x922d6fbc78779416!8m2!3d32.5533633!4d76.1258083!16s%2Fg%2F11xh1ytc8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2719,11 +2697,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HealthAssure+-+City+Diagnostic+And+Xray+Centre+-+Chamba-HP+%7C+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups/@32.5533633,76.1258083,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbda06ba930b7:0x922d6fbc78779416!8m2!3d32.5533633!4d76.1258083!16s%2Fg%2F11xh1ytc8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "him-valley-dental-clinic-chamba",
@@ -2771,7 +2748,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/him+valley+dental+clinic/@32.545403,76.134191,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd8be634e5b5:0x2740cd0cf8bb51fb!8m2!3d32.545403!4d76.134191!16s%2Fg%2F11f6g59mvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/him+valley+dental+clinic/@32.545403,76.134191,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd8be634e5b5:0x2740cd0cf8bb51fb!8m2!3d32.545403!4d76.134191!16s%2Fg%2F11f6g59mvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2837,11 +2814,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/him+valley+dental+clinic/@32.545403,76.134191,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd8be634e5b5:0x2740cd0cf8bb51fb!8m2!3d32.545403!4d76.134191!16s%2Fg%2F11f6g59mvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "himachal-clinic-amb",
@@ -2889,7 +2865,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Himachal+Clinic/@31.6915905,76.1129333,17z/data=!3m1!4b1!4m6!3m5!1s0x391b2223146e86bb:0xd370971353bd2500!8m2!3d31.6915905!4d76.1129333!16s%2Fg%2F11cn93kpq1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Himachal+Clinic/@31.6915905,76.1129333,17z/data=!3m1!4b1!4m6!3m5!1s0x391b2223146e86bb:0xd370971353bd2500!8m2!3d31.6915905!4d76.1129333!16s%2Fg%2F11cn93kpq1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2955,11 +2931,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Himachal+Clinic/@31.6915905,76.1129333,17z/data=!3m1!4b1!4m6!3m5!1s0x391b2223146e86bb:0xd370971353bd2500!8m2!3d31.6915905!4d76.1129333!16s%2Fg%2F11cn93kpq1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "himalayan-hospital-multhan",
@@ -3007,7 +2982,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Himalayan+Hospital/@32.0424752,76.8409911,17z/data=!3m1!4b1!4m6!3m5!1s0x39049545ad994cd7:0x6c94c87839fad11b!8m2!3d32.0424752!4d76.8409911!16s%2Fg%2F11cs4ypvdl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Himalayan+Hospital/@32.0424752,76.8409911,17z/data=!3m1!4b1!4m6!3m5!1s0x39049545ad994cd7:0x6c94c87839fad11b!8m2!3d32.0424752!4d76.8409911!16s%2Fg%2F11cs4ypvdl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3073,11 +3048,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Himalayan+Hospital/@32.0424752,76.8409911,17z/data=!3m1!4b1!4m6!3m5!1s0x39049545ad994cd7:0x6c94c87839fad11b!8m2!3d32.0424752!4d76.8409911!16s%2Fg%2F11cs4ypvdl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospital-chamba",
@@ -3125,7 +3099,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hospital/@32.5551306,76.1232021,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbda861681715:0xd1d217f69a8061d0!8m2!3d32.5551306!4d76.1232021!16s%2Fg%2F11h14k3pgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital/@32.5551306,76.1232021,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbda861681715:0xd1d217f69a8061d0!8m2!3d32.5551306!4d76.1232021!16s%2Fg%2F11h14k3pgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3191,11 +3165,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hospital/@32.5551306,76.1232021,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbda861681715:0xd1d217f69a8061d0!8m2!3d32.5551306!4d76.1232021!16s%2Fg%2F11h14k3pgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospital-chakban-gharo",
@@ -3244,7 +3217,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hospital/@32.2125889,76.2902194,17z/data=!3m1!4b1!4m6!3m5!1s0x391b510014723a83:0x24f02b415cb4d72c!8m2!3d32.2125889!4d76.2902194!16s%2Fg%2F11lym6d4nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital/@32.2125889,76.2902194,17z/data=!3m1!4b1!4m6!3m5!1s0x391b510014723a83:0x24f02b415cb4d72c!8m2!3d32.2125889!4d76.2902194!16s%2Fg%2F11lym6d4nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3310,11 +3283,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hospital/@32.2125889,76.2902194,17z/data=!3m1!4b1!4m6!3m5!1s0x391b510014723a83:0x24f02b415cb4d72c!8m2!3d32.2125889!4d76.2902194!16s%2Fg%2F11lym6d4nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "i-p-sharma-clinic-chauntra",
@@ -3362,7 +3334,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/I.P+Sharma+Clinic/@32.0148239,76.7359235,17z/data=!3m1!4b1!4m6!3m5!1s0x3904c0ab02a9eb8d:0x63e2dbc644439504!8m2!3d32.0148239!4d76.7359235!16s%2Fg%2F1pp2vf011?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/I.P+Sharma+Clinic/@32.0148239,76.7359235,17z/data=!3m1!4b1!4m6!3m5!1s0x3904c0ab02a9eb8d:0x63e2dbc644439504!8m2!3d32.0148239!4d76.7359235!16s%2Fg%2F1pp2vf011?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3428,11 +3400,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/I.P+Sharma+Clinic/@32.0148239,76.7359235,17z/data=!3m1!4b1!4m6!3m5!1s0x3904c0ab02a9eb8d:0x63e2dbc644439504!8m2!3d32.0148239!4d76.7359235!16s%2Fg%2F1pp2vf011?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-kangra-best-ivf-centre-kangra",
@@ -3482,7 +3453,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Kangra+-+Best+IVF+Centre/@32.1141978,76.2812299,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4fe48c295189:0x2b231eeb0dbcc56!8m2!3d32.1141978!4d76.2812299!16s%2Fg%2F11wnmt0vdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Kangra+-+Best+IVF+Centre/@32.1141978,76.2812299,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4fe48c295189:0x2b231eeb0dbcc56!8m2!3d32.1141978!4d76.2812299!16s%2Fg%2F11wnmt0vdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3551,8 +3522,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Kangra+-+Best+IVF+Centre/@32.1141978,76.2812299,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4fe48c295189:0x2b231eeb0dbcc56!8m2!3d32.1141978!4d76.2812299!16s%2Fg%2F11wnmt0vdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "institute-of-reproductive-medicine-irm-kolkata",
@@ -3602,7 +3572,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Institute+of+Reproductive+Medicine+(IRM)/@22.5751871,88.416922,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c8bbe29ac5:0x75d4cc4cf105d0ea!8m2!3d22.5751871!4d88.416922!16s%2Fg%2F1q67ml7zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Institute+of+Reproductive+Medicine+(IRM)/@22.5751871,88.416922,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c8bbe29ac5:0x75d4cc4cf105d0ea!8m2!3d22.5751871!4d88.416922!16s%2Fg%2F1q67ml7zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3671,8 +3641,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Institute+of+Reproductive+Medicine+(IRM)/@22.5751871,88.416922,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c8bbe29ac5:0x75d4cc4cf105d0ea!8m2!3d22.5751871!4d88.416922!16s%2Fg%2F1q67ml7zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "janam-fertility-centre-best-ivf-centre-in-himachal-pradesh-nurpur",
@@ -3721,7 +3690,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Janam+Fertility+Centre+%7C+Best+IVF+Centre+in+Himachal+Pradesh/@32.3068609,75.8938646,17z/data=!3m1!4b1!4m6!3m5!1s0x391c836b09e844f1:0x73fbf199599692c8!8m2!3d32.3068609!4d75.8938646!16s%2Fg%2F11x78j89f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janam+Fertility+Centre+%7C+Best+IVF+Centre+in+Himachal+Pradesh/@32.3068609,75.8938646,17z/data=!3m1!4b1!4m6!3m5!1s0x391c836b09e844f1:0x73fbf199599692c8!8m2!3d32.3068609!4d75.8938646!16s%2Fg%2F11x78j89f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3787,11 +3756,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Janam+Fertility+Centre+%7C+Best+IVF+Centre+in+Himachal+Pradesh/@32.3068609,75.8938646,17z/data=!3m1!4b1!4m6!3m5!1s0x391c836b09e844f1:0x73fbf199599692c8!8m2!3d32.3068609!4d75.8938646!16s%2Fg%2F11x78j89f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "janam-fertility-centre-best-ivf-centre-in-kangra-sunehr",
@@ -3841,7 +3809,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Janam+Fertility+Centre+%7C+Best+IVF+Centre+in+Kangra/@32.1240368,76.2962899,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4fc0150be5ed:0x6f3f2a444ee0353d!8m2!3d32.1240368!4d76.2962899!16s%2Fg%2F11twkjwy2w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janam+Fertility+Centre+%7C+Best+IVF+Centre+in+Kangra/@32.1240368,76.2962899,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4fc0150be5ed:0x6f3f2a444ee0353d!8m2!3d32.1240368!4d76.2962899!16s%2Fg%2F11twkjwy2w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3910,8 +3878,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Janam+Fertility+Centre+%7C+Best+IVF+Centre+in+Kangra/@32.1240368,76.2962899,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4fc0150be5ed:0x6f3f2a444ee0353d!8m2!3d32.1240368!4d76.2962899!16s%2Fg%2F11twkjwy2w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "janam-test-tube-baby-centre-chamba",
@@ -3961,7 +3928,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/janam+test+tube+baby+centre/@31.3223978,75.5734192,12z/data=!3m1!4b1!4m6!3m5!1s0x62a59091acc2606f:0xa040ff0cb9d24d90!8m2!3d31.3223978!4d75.5734192!16s%2Fg%2F11vzbz41nv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/janam+test+tube+baby+centre/@31.3223978,75.5734192,12z/data=!3m1!4b1!4m6!3m5!1s0x62a59091acc2606f:0xa040ff0cb9d24d90!8m2!3d31.3223978!4d75.5734192!16s%2Fg%2F11vzbz41nv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4027,11 +3994,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/janam+test+tube+baby+centre/@31.3223978,75.5734192,12z/data=!3m1!4b1!4m6!3m5!1s0x62a59091acc2606f:0xa040ff0cb9d24d90!8m2!3d31.3223978!4d75.5734192!16s%2Fg%2F11vzbz41nv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "janam-test-tube-baby-centre-kangra-best-ivf-centre-in-kangra-best-ivf-hospital-in-kangra-sunehr",
@@ -4081,7 +4047,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Janam+Test+Tube+Baby+Centre+Kangra+-+Best+IVF+Centre+in+Kangra,+Best+IVF+Hospital+in+Kangra/@32.1235976,76.2964029,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4f03aeed1b83:0x31c536ddce7cdebd!8m2!3d32.1235976!4d76.2964029!16s%2Fg%2F11vqz66051?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janam+Test+Tube+Baby+Centre+Kangra+-+Best+IVF+Centre+in+Kangra,+Best+IVF+Hospital+in+Kangra/@32.1235976,76.2964029,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4f03aeed1b83:0x31c536ddce7cdebd!8m2!3d32.1235976!4d76.2964029!16s%2Fg%2F11vqz66051?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4147,11 +4113,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Janam+Test+Tube+Baby+Centre+Kangra+-+Best+IVF+Centre+in+Kangra,+Best+IVF+Hospital+in+Kangra/@32.1235976,76.2964029,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4f03aeed1b83:0x31c536ddce7cdebd!8m2!3d32.1235976!4d76.2964029!16s%2Fg%2F11vqz66051?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jlngmc-chamba-sarol",
@@ -4200,7 +4165,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JLNGMC+Chamba/@32.5820003,76.1100676,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbfe8876fe0e5:0xa05d3efe8b8fa80!8m2!3d32.5820003!4d76.1100676!16s%2Fg%2F11f7b53w41?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JLNGMC+Chamba/@32.5820003,76.1100676,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbfe8876fe0e5:0xa05d3efe8b8fa80!8m2!3d32.5820003!4d76.1100676!16s%2Fg%2F11f7b53w41?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4269,8 +4234,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JLNGMC+Chamba/@32.5820003,76.1100676,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbfe8876fe0e5:0xa05d3efe8b8fa80!8m2!3d32.5820003!4d76.1100676!16s%2Fg%2F11f7b53w41?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kamla-memorial-health-centre-piles-fissure-fistula-ksharsutra-bassi",
@@ -4318,7 +4282,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kamla+Memorial+Health+Centre+%E2%80%93+Piles+%7C+Fissure+%7C+Fistula+(Ksharsutra)/@31.6462454,76.6463123,17z/data=!3m1!4b1!4m6!3m5!1s0x3905276a6ccb5b9b:0x35315e7b05039114!8m2!3d31.6462454!4d76.6463123!16s%2Fg%2F11w4dcts21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamla+Memorial+Health+Centre+%E2%80%93+Piles+%7C+Fissure+%7C+Fistula+(Ksharsutra)/@31.6462454,76.6463123,17z/data=!3m1!4b1!4m6!3m5!1s0x3905276a6ccb5b9b:0x35315e7b05039114!8m2!3d31.6462454!4d76.6463123!16s%2Fg%2F11w4dcts21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4384,11 +4348,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kamla+Memorial+Health+Centre+%E2%80%93+Piles+%7C+Fissure+%7C+Fistula+(Ksharsutra)/@31.6462454,76.6463123,17z/data=!3m1!4b1!4m6!3m5!1s0x3905276a6ccb5b9b:0x35315e7b05039114!8m2!3d31.6462454!4d76.6463123!16s%2Fg%2F11w4dcts21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kamlawati-hospital-chauntra-pasal",
@@ -4437,7 +4400,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kamlawati+Hospital+Chauntra/@32.0160986,76.7322267,17z/data=!3m1!4b1!4m6!3m5!1s0x3904c721489b504b:0xe898f1e243d423a5!8m2!3d32.0160986!4d76.7322267!16s%2Fg%2F11svmmd82j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamlawati+Hospital+Chauntra/@32.0160986,76.7322267,17z/data=!3m1!4b1!4m6!3m5!1s0x3904c721489b504b:0xe898f1e243d423a5!8m2!3d32.0160986!4d76.7322267!16s%2Fg%2F11svmmd82j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4506,8 +4469,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kamlawati+Hospital+Chauntra/@32.0160986,76.7322267,17z/data=!3m1!4b1!4m6!3m5!1s0x3904c721489b504b:0xe898f1e243d423a5!8m2!3d32.0160986!4d76.7322267!16s%2Fg%2F11svmmd82j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kanica-diagnostics-and-dentofacial-aesthetics-sarol",
@@ -4556,7 +4518,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KANICA+DIAGNOSTICS+AND+DENTOFACIAL+AESTHETICS/@32.5766912,76.1190206,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd3960f768bb:0x14de76ce85a1ba6!8m2!3d32.5766912!4d76.1190206!16s%2Fg%2F11sk7h3ln2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KANICA+DIAGNOSTICS+AND+DENTOFACIAL+AESTHETICS/@32.5766912,76.1190206,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd3960f768bb:0x14de76ce85a1ba6!8m2!3d32.5766912!4d76.1190206!16s%2Fg%2F11sk7h3ln2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4622,11 +4584,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KANICA+DIAGNOSTICS+AND+DENTOFACIAL+AESTHETICS/@32.5766912,76.1190206,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd3960f768bb:0x14de76ce85a1ba6!8m2!3d32.5766912!4d76.1190206!16s%2Fg%2F11sk7h3ln2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "khanna-dental-clinic-centre-of-dental-implants-and-facial-trauma-chamba",
@@ -4675,7 +4636,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Khanna+dental+clinic+centre+of+dental+implants+and+facial+trauma/@32.5614508,76.1171251,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdb5c6a98d41:0x6cd054cc4ba1acbb!8m2!3d32.5614508!4d76.1171251!16s%2Fg%2F11s_lnvwz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khanna+dental+clinic+centre+of+dental+implants+and+facial+trauma/@32.5614508,76.1171251,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdb5c6a98d41:0x6cd054cc4ba1acbb!8m2!3d32.5614508!4d76.1171251!16s%2Fg%2F11s_lnvwz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4741,11 +4702,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Khanna+dental+clinic+centre+of+dental+implants+and+facial+trauma/@32.5614508,76.1171251,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdb5c6a98d41:0x6cd054cc4ba1acbb!8m2!3d32.5614508!4d76.1171251!16s%2Fg%2F11s_lnvwz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kidney-transplant-india-sahibzada-ajit-singh-nagar",
@@ -4795,7 +4755,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kidney+Transplant+India/data=!4m7!3m6!1s0x390fec205bffffff:0xa0e5abc9828f833a!8m2!3d30.695114!4d76.7354996!16s%2Fg%2F11v3dgqsnl!19sChIJ____WyDsDzkROoOPgsmr5aA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kidney+Transplant+India/data=!4m7!3m6!1s0x390fec205bffffff:0xa0e5abc9828f833a!8m2!3d30.695114!4d76.7354996!16s%2Fg%2F11v3dgqsnl!19sChIJ____WyDsDzkROoOPgsmr5aA?authuser=0&hl=en&rclk=1"
@@ -4861,11 +4821,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kidney+Transplant+India/data=!4m7!3m6!1s0x390fec205bffffff:0xa0e5abc9828f833a!8m2!3d30.695114!4d76.7354996!16s%2Fg%2F11v3dgqsnl!19sChIJ____WyDsDzkROoOPgsmr5aA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krsnaa-diagnostics-blood-test-and-diagnostic-centre-in-chamba-chamba",
@@ -4914,7 +4873,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+Chamba/data=!4m7!3m6!1s0x391cbd962f7e2d03:0x25a1991bae08c169!8m2!3d32.550731!4d76.1322907!16s%2Fg%2F11y6ltg8sm!19sChIJAy1-L5a9HDkRacEIrhuZoSU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+Chamba/data=!4m7!3m6!1s0x391cbd962f7e2d03:0x25a1991bae08c169!8m2!3d32.550731!4d76.1322907!16s%2Fg%2F11y6ltg8sm!19sChIJAy1-L5a9HDkRacEIrhuZoSU?authuser=0&hl=en&rclk=1"
@@ -4980,11 +4939,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+Chamba/data=!4m7!3m6!1s0x391cbd962f7e2d03:0x25a1991bae08c169!8m2!3d32.550731!4d76.1322907!16s%2Fg%2F11y6ltg8sm!19sChIJAy1-L5a9HDkRacEIrhuZoSU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lamba-clinic-dharampur",
@@ -5032,7 +4990,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lamba+Clinic/data=!4m7!3m6!1s0x390f86184b490a8f:0xc2a5034335e263a8!8m2!3d30.8995844!4d77.0202351!16s%2Fg%2F11cn94s_4t!19sChIJjwpJSxiGDzkRqGPiNUMDpcI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lamba+Clinic/data=!4m7!3m6!1s0x390f86184b490a8f:0xc2a5034335e263a8!8m2!3d30.8995844!4d77.0202351!16s%2Fg%2F11cn94s_4t!19sChIJjwpJSxiGDzkRqGPiNUMDpcI?authuser=0&hl=en&rclk=1"
@@ -5101,8 +5059,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lamba+Clinic/data=!4m7!3m6!1s0x390f86184b490a8f:0xc2a5034335e263a8!8m2!3d30.8995844!4d77.0202351!16s%2Fg%2F11cn94s_4t!19sChIJjwpJSxiGDzkRqGPiNUMDpcI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-chamunda-clinic-chamba",
@@ -5151,7 +5108,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maa+Chamunda+clinic/@32.553393,76.1257537,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd148ab096d:0xaf12cf560b1d2a1b!8m2!3d32.553393!4d76.1257537!16s%2Fg%2F11sc_n1h_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Chamunda+clinic/@32.553393,76.1257537,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd148ab096d:0xaf12cf560b1d2a1b!8m2!3d32.553393!4d76.1257537!16s%2Fg%2F11sc_n1h_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5217,11 +5174,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maa+Chamunda+clinic/@32.553393,76.1257537,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd148ab096d:0xaf12cf560b1d2a1b!8m2!3d32.553393!4d76.1257537!16s%2Fg%2F11sc_n1h_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mahakali-optical-chamba",
@@ -5271,7 +5227,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mahakali+Optical/@32.5567438,76.1232591,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc8d6f5d9e5:0x1706b684816ee176!8m2!3d32.5567438!4d76.1232591!16s%2Fg%2F1hc5c7bch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahakali+Optical/@32.5567438,76.1232591,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc8d6f5d9e5:0x1706b684816ee176!8m2!3d32.5567438!4d76.1232591!16s%2Fg%2F1hc5c7bch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5340,8 +5296,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mahakali+Optical/@32.5567438,76.1232591,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc8d6f5d9e5:0x1706b684816ee176!8m2!3d32.5567438!4d76.1232591!16s%2Fg%2F1hc5c7bch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "malhotra-hospital-and-trauma-centre-ner",
@@ -5390,7 +5345,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Malhotra+Hospital+%26+Trauma+Centre/@31.6086039,76.9145835,17z/data=!3m1!4b1!4m6!3m5!1s0x39051ea1a727541d:0x8faca6d324822dc2!8m2!3d31.6086039!4d76.9145835!16s%2Fg%2F11c30xnsdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malhotra+Hospital+%26+Trauma+Centre/@31.6086039,76.9145835,17z/data=!3m1!4b1!4m6!3m5!1s0x39051ea1a727541d:0x8faca6d324822dc2!8m2!3d31.6086039!4d76.9145835!16s%2Fg%2F11c30xnsdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5459,8 +5414,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Malhotra+Hospital+%26+Trauma+Centre/@31.6086039,76.9145835,17z/data=!3m1!4b1!4m6!3m5!1s0x39051ea1a727541d:0x8faca6d324822dc2!8m2!3d31.6086039!4d76.9145835!16s%2Fg%2F11c30xnsdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maxx-diagnostic-centre-chamba",
@@ -5509,7 +5463,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maxx+diagnostic+centre/@32.5827885,76.1080817,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbfae52442099:0x13b767a224455940!8m2!3d32.5827885!4d76.1080817!16s%2Fg%2F11ybvj94hg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxx+diagnostic+centre/@32.5827885,76.1080817,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbfae52442099:0x13b767a224455940!8m2!3d32.5827885!4d76.1080817!16s%2Fg%2F11ybvj94hg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5575,11 +5529,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maxx+diagnostic+centre/@32.5827885,76.1080817,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbfae52442099:0x13b767a224455940!8m2!3d32.5827885!4d76.1080817!16s%2Fg%2F11ybvj94hg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medicover-fertility-clinic-ghurkari-khas",
@@ -5629,7 +5582,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medicover+Fertility+Clinic/@32.1248691,76.2957729,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4d13694219bd:0x7152f30eaab0162d!8m2!3d32.1248691!4d76.2957729!16s%2Fg%2F11q45fwvkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicover+Fertility+Clinic/@32.1248691,76.2957729,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4d13694219bd:0x7152f30eaab0162d!8m2!3d32.1248691!4d76.2957729!16s%2Fg%2F11q45fwvkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5698,8 +5651,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medicover+Fertility+Clinic/@32.1248691,76.2957729,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4d13694219bd:0x7152f30eaab0162d!8m2!3d32.1248691!4d76.2957729!16s%2Fg%2F11q45fwvkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "minjar-hospital-sarol-sarol",
@@ -5747,7 +5699,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Minjar+Hospital+Sarol/@32.58013,76.11691,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbf6f0ee3e7cf:0xa30495bfe64b33b4!8m2!3d32.58013!4d76.11691!16s%2Fg%2F11k3xs7xcc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Minjar+Hospital+Sarol/@32.58013,76.11691,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbf6f0ee3e7cf:0xa30495bfe64b33b4!8m2!3d32.58013!4d76.11691!16s%2Fg%2F11k3xs7xcc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5816,8 +5768,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Minjar+Hospital+Sarol/@32.58013,76.11691,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbf6f0ee3e7cf:0xa30495bfe64b33b4!8m2!3d32.58013!4d76.11691!16s%2Fg%2F11k3xs7xcc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-jyoti-x-ray-chamba",
@@ -5863,7 +5814,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Jyoti+X-Ray/@32.5544743,76.1272055,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd207825a15:0x70fdb62ceb618acf!8m2!3d32.5544743!4d76.1272055!16s%2Fg%2F11hzw48_dt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Jyoti+X-Ray/@32.5544743,76.1272055,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd207825a15:0x70fdb62ceb618acf!8m2!3d32.5544743!4d76.1272055!16s%2Fg%2F11hzw48_dt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5929,11 +5880,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Jyoti+X-Ray/@32.5544743,76.1272055,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd207825a15:0x70fdb62ceb618acf!8m2!3d32.5544743!4d76.1272055!16s%2Fg%2F11hzw48_dt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nhpc-chamera-2-hospital-chamba",
@@ -5981,7 +5931,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NHPC+Chamera+2+Hospital/@32.5283388,76.1419984,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbcf9b7aeaeb7:0x9c123c51120a62ea!8m2!3d32.5283388!4d76.1419984!16s%2Fg%2F11hbnvqb2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NHPC+Chamera+2+Hospital/@32.5283388,76.1419984,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbcf9b7aeaeb7:0x9c123c51120a62ea!8m2!3d32.5283388!4d76.1419984!16s%2Fg%2F11hbnvqb2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6050,8 +6000,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NHPC+Chamera+2+Hospital/@32.5283388,76.1419984,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbcf9b7aeaeb7:0x9c123c51120a62ea!8m2!3d32.5283388!4d76.1419984!16s%2Fg%2F11hbnvqb2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nhpc-chamera-3-hospital-chamba",
@@ -6099,7 +6048,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NHPC+CHAMERA+3+HOSPITAL/@32.5272705,76.1429459,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd264c88590f:0xd11cae6254bac43a!8m2!3d32.5272705!4d76.1429459!16s%2Fg%2F11v0qdvkwm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NHPC+CHAMERA+3+HOSPITAL/@32.5272705,76.1429459,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd264c88590f:0xd11cae6254bac43a!8m2!3d32.5272705!4d76.1429459!16s%2Fg%2F11v0qdvkwm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6165,11 +6114,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NHPC+CHAMERA+3+HOSPITAL/@32.5272705,76.1429459,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd264c88590f:0xd11cae6254bac43a!8m2!3d32.5272705!4d76.1429459!16s%2Fg%2F11v0qdvkwm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "niramay-wellness-clinic-chamba",
@@ -6217,7 +6165,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Niramay+wellness+clinic/@32.5405238,76.1350615,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd006a68e179:0x835ba164201a67e9!8m2!3d32.5405238!4d76.1350615!16s%2Fg%2F11ybcnqwwr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Niramay+wellness+clinic/@32.5405238,76.1350615,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd006a68e179:0x835ba164201a67e9!8m2!3d32.5405238!4d76.1350615!16s%2Fg%2F11ybcnqwwr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6283,11 +6231,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Niramay+wellness+clinic/@32.5405238,76.1350615,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd006a68e179:0x835ba164201a67e9!8m2!3d32.5405238!4d76.1350615!16s%2Fg%2F11ybcnqwwr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nobel-dental-clinic-bhadram-near-zero-point-chamba",
@@ -6335,7 +6282,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nobel+Dental+Clinic+Bhadram+Near+Zero+Point/@32.5861328,76.1098447,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbe6d26c2ad25:0xf5a0018946ef3e05!8m2!3d32.5861328!4d76.1098447!16s%2Fg%2F11f087z_wr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nobel+Dental+Clinic+Bhadram+Near+Zero+Point/@32.5861328,76.1098447,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbe6d26c2ad25:0xf5a0018946ef3e05!8m2!3d32.5861328!4d76.1098447!16s%2Fg%2F11f087z_wr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6401,11 +6348,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nobel+Dental+Clinic+Bhadram+Near+Zero+Point/@32.5861328,76.1098447,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbe6d26c2ad25:0xf5a0018946ef3e05!8m2!3d32.5861328!4d76.1098447!16s%2Fg%2F11f087z_wr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "paras-hospital-best-hospital-in-panchkula-panchkula",
@@ -6454,7 +6400,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Paras+Hospital+%7C+Best+Hospital+in+Panchkula/@30.6926506,76.8832658,17z/data=!3m1!4b1!4m6!3m5!1s0x390f938586ca7971:0xa5d4bd55f0ce98fa!8m2!3d30.6926506!4d76.8832658!16s%2Fm%2F0h68fky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paras+Hospital+%7C+Best+Hospital+in+Panchkula/@30.6926506,76.8832658,17z/data=!3m1!4b1!4m6!3m5!1s0x390f938586ca7971:0xa5d4bd55f0ce98fa!8m2!3d30.6926506!4d76.8832658!16s%2Fm%2F0h68fky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6523,8 +6469,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Paras+Hospital+%7C+Best+Hospital+in+Panchkula/@30.6926506,76.8832658,17z/data=!3m1!4b1!4m6!3m5!1s0x390f938586ca7971:0xa5d4bd55f0ce98fa!8m2!3d30.6926506!4d76.8832658!16s%2Fm%2F0h68fky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pearls-dental-clinic-and-implant-center-chamba",
@@ -6572,7 +6517,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pearls+Dental+Clinic+%26+Implant+center/@32.5547384,76.1261582,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd7ec3b47833:0xc7fe195d92f2e9fa!8m2!3d32.5547384!4d76.1261582!16s%2Fg%2F11gzxtjsc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pearls+Dental+Clinic+%26+Implant+center/@32.5547384,76.1261582,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd7ec3b47833:0xc7fe195d92f2e9fa!8m2!3d32.5547384!4d76.1261582!16s%2Fg%2F11gzxtjsc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6641,8 +6586,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pearls+Dental+Clinic+%26+Implant+center/@32.5547384,76.1261582,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd7ec3b47833:0xc7fe195d92f2e9fa!8m2!3d32.5547384!4d76.1261582!16s%2Fg%2F11gzxtjsc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prem-diagnostics-lab-and-chemist-chamba",
@@ -6691,7 +6635,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prem+Diagnostics+Lab+%26+Chemist/@32.5578204,76.121929,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdf3ec9bed89:0x77fc9fd5e5be0556!8m2!3d32.5578204!4d76.121929!16s%2Fg%2F11w_w1sycq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prem+Diagnostics+Lab+%26+Chemist/@32.5578204,76.121929,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdf3ec9bed89:0x77fc9fd5e5be0556!8m2!3d32.5578204!4d76.121929!16s%2Fg%2F11w_w1sycq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6760,8 +6704,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prem+Diagnostics+Lab+%26+Chemist/@32.5578204,76.121929,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdf3ec9bed89:0x77fc9fd5e5be0556!8m2!3d32.5578204!4d76.121929!16s%2Fg%2F11w_w1sycq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pt-jawaharlal-nehru-govt-medical-college-and-hospital-chamba",
@@ -6809,7 +6752,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pt.+jawaharlal+nehru+govt+medical+college+and+hospital/@32.5586783,76.1225013,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc8d4a75e8d:0xd1c407954ea929b2!8m2!3d32.5586783!4d76.1225013!16s%2Fg%2F11g86lv1_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pt.+jawaharlal+nehru+govt+medical+college+and+hospital/@32.5586783,76.1225013,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc8d4a75e8d:0xd1c407954ea929b2!8m2!3d32.5586783!4d76.1225013!16s%2Fg%2F11g86lv1_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6878,8 +6821,7 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pt.+jawaharlal+nehru+govt+medical+college+and+hospital/@32.5586783,76.1225013,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc8d4a75e8d:0xd1c407954ea929b2!8m2!3d32.5586783!4d76.1225013!16s%2Fg%2F11g86lv1_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raahat-bone-and-joint-clinic-dehra-gopipur",
@@ -6928,7 +6870,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raahat+Bone+and+Joint+clinic/@31.8787379,76.2254161,17z/data=!3m1!4b1!4m6!3m5!1s0x391b3981fff9d6b9:0x8137157fb3eb9e79!8m2!3d31.8787379!4d76.2254161!16s%2Fg%2F11bby84k8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raahat+Bone+and+Joint+clinic/@31.8787379,76.2254161,17z/data=!3m1!4b1!4m6!3m5!1s0x391b3981fff9d6b9:0x8137157fb3eb9e79!8m2!3d31.8787379!4d76.2254161!16s%2Fg%2F11bby84k8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6997,8 +6939,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raahat+Bone+and+Joint+clinic/@31.8787379,76.2254161,17z/data=!3m1!4b1!4m6!3m5!1s0x391b3981fff9d6b9:0x8137157fb3eb9e79!8m2!3d31.8787379!4d76.2254161!16s%2Fg%2F11bby84k8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rabisan-india-electrohomeo-pharma-chamba",
@@ -7047,7 +6988,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rabisan+India+Electrohomeo+Pharma/@32.559116,76.1144266,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc37f3aa9cf:0x221df8c7ae35ba7b!8m2!3d32.559116!4d76.1144266!16s%2Fg%2F11cr_g1cz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rabisan+India+Electrohomeo+Pharma/@32.559116,76.1144266,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc37f3aa9cf:0x221df8c7ae35ba7b!8m2!3d32.559116!4d76.1144266!16s%2Fg%2F11cr_g1cz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7116,8 +7057,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rabisan+India+Electrohomeo+Pharma/@32.559116,76.1144266,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc37f3aa9cf:0x221df8c7ae35ba7b!8m2!3d32.559116!4d76.1144266!16s%2Fg%2F11cr_g1cz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rana-hospital-chamba",
@@ -7165,7 +7105,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rana+Hospital/@32.5663467,76.1139783,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbddc8920ee59:0x1dcec8daa67c81b!8m2!3d32.5663467!4d76.1139783!16s%2Fg%2F11c37nd6nh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rana+Hospital/@32.5663467,76.1139783,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbddc8920ee59:0x1dcec8daa67c81b!8m2!3d32.5663467!4d76.1139783!16s%2Fg%2F11c37nd6nh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7234,8 +7174,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rana+Hospital/@32.5663467,76.1139783,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbddc8920ee59:0x1dcec8daa67c81b!8m2!3d32.5663467!4d76.1139783!16s%2Fg%2F11c37nd6nh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "regional-24-hours-hospital-chamba",
@@ -7283,7 +7222,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Regional+24+HOURS+hospital/@32.55857,76.122135,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdcf15f3ba35:0xce2138e0b70c3c4b!8m2!3d32.55857!4d76.122135!16s%2Fg%2F11c6cgqjzt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Regional+24+HOURS+hospital/@32.55857,76.122135,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdcf15f3ba35:0xce2138e0b70c3c4b!8m2!3d32.55857!4d76.122135!16s%2Fg%2F11c6cgqjzt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7352,8 +7291,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Regional+24+HOURS+hospital/@32.55857,76.122135,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdcf15f3ba35:0xce2138e0b70c3c4b!8m2!3d32.55857!4d76.122135!16s%2Fg%2F11c6cgqjzt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "renew-you-skin-and-hair-care-chamba",
@@ -7402,7 +7340,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Renew+you+-+Skin+%26+Hair+Care/@32.565598,76.11855,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdb423477b65:0xe7a4377b71a0ceb2!8m2!3d32.565598!4d76.11855!16s%2Fg%2F11kyn0l7zr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renew+you+-+Skin+%26+Hair+Care/@32.565598,76.11855,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdb423477b65:0xe7a4377b71a0ceb2!8m2!3d32.565598!4d76.11855!16s%2Fg%2F11kyn0l7zr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7468,11 +7406,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Renew+you+-+Skin+%26+Hair+Care/@32.565598,76.11855,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdb423477b65:0xe7a4377b71a0ceb2!8m2!3d32.565598!4d76.11855!16s%2Fg%2F11kyn0l7zr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-k-r-hospital-and-trauma-center-private-limited-pathankot",
@@ -7521,7 +7458,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S.K.R+Hospital+%26+Trauma+Center+Private+Limited/@32.2715685,75.5926186,17z/data=!3m1!4b1!4m6!3m5!1s0x391c78eb719da15f:0x7f481c40697b3161!8m2!3d32.2715685!4d75.5926186!16s%2Fg%2F11bbrg25j1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.K.R+Hospital+%26+Trauma+Center+Private+Limited/@32.2715685,75.5926186,17z/data=!3m1!4b1!4m6!3m5!1s0x391c78eb719da15f:0x7f481c40697b3161!8m2!3d32.2715685!4d75.5926186!16s%2Fg%2F11bbrg25j1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7590,8 +7527,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S.K.R+Hospital+%26+Trauma+Center+Private+Limited/@32.2715685,75.5926186,17z/data=!3m1!4b1!4m6!3m5!1s0x391c78eb719da15f:0x7f481c40697b3161!8m2!3d32.2715685!4d75.5926186!16s%2Fg%2F11bbrg25j1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sampurna-women-care-and-ivf-kolkata",
@@ -7642,7 +7578,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sampurna+Women+Care+%26+IVF/@22.568719,88.4118006,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275fc9f348dfb:0x63dd99abd1ffeb48!8m2!3d22.568719!4d88.4118006!16s%2Fg%2F11vk4343mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sampurna+Women+Care+%26+IVF/@22.568719,88.4118006,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275fc9f348dfb:0x63dd99abd1ffeb48!8m2!3d22.568719!4d88.4118006!16s%2Fg%2F11vk4343mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7711,8 +7647,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sampurna+Women+Care+%26+IVF/@22.568719,88.4118006,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275fc9f348dfb:0x63dd99abd1ffeb48!8m2!3d22.568719!4d88.4118006!16s%2Fg%2F11vk4343mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeev-clinic-chintpurni",
@@ -7760,7 +7695,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeev+Clinic/@31.8085553,76.1047438,17z/data=!3m1!4b1!4m6!3m5!1s0x391b3d739413d729:0x5d5f83789d2db2b8!8m2!3d31.8085553!4d76.1047438!16s%2Fg%2F11gds4jmm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeev+Clinic/@31.8085553,76.1047438,17z/data=!3m1!4b1!4m6!3m5!1s0x391b3d739413d729:0x5d5f83789d2db2b8!8m2!3d31.8085553!4d76.1047438!16s%2Fg%2F11gds4jmm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7826,11 +7761,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeev+Clinic/@31.8085553,76.1047438,17z/data=!3m1!4b1!4m6!3m5!1s0x391b3d739413d729:0x5d5f83789d2db2b8!8m2!3d31.8085553!4d76.1047438!16s%2Fg%2F11gds4jmm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saraswat-ayurveda-chamba",
@@ -7878,7 +7812,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SARASWAT+AYURVEDA/@32.5516227,76.1272131,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd5dcceed39:0x9b1357e98e37029b!8m2!3d32.5516227!4d76.1272131!16s%2Fg%2F11t0vlj22c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SARASWAT+AYURVEDA/@32.5516227,76.1272131,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd5dcceed39:0x9b1357e98e37029b!8m2!3d32.5516227!4d76.1272131!16s%2Fg%2F11t0vlj22c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7944,11 +7878,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SARASWAT+AYURVEDA/@32.5516227,76.1272131,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdd5dcceed39:0x9b1357e98e37029b!8m2!3d32.5516227!4d76.1272131!16s%2Fg%2F11t0vlj22c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satyam-hospital-chamba",
@@ -7996,7 +7929,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Satyam+Hospital/@32.5599579,76.1178278,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc5039ef545:0x36d614e4dc2c8ae5!8m2!3d32.5599579!4d76.1178278!16s%2Fg%2F124t0zlgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyam+Hospital/@32.5599579,76.1178278,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc5039ef545:0x36d614e4dc2c8ae5!8m2!3d32.5599579!4d76.1178278!16s%2Fg%2F124t0zlgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8065,8 +7998,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Satyam+Hospital/@32.5599579,76.1178278,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc5039ef545:0x36d614e4dc2c8ae5!8m2!3d32.5599579!4d76.1178278!16s%2Fg%2F124t0zlgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sh-chandershekhar-homeopathic-clinic-chamba",
@@ -8114,7 +8046,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sh+Chandershekhar+homeopathic+clinic/@32.5578147,76.1245661,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc9dab24eb1:0xfaaa4ac7bb42423!8m2!3d32.5578147!4d76.1245661!16s%2Fg%2F11sm7mfwm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sh+Chandershekhar+homeopathic+clinic/@32.5578147,76.1245661,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc9dab24eb1:0xfaaa4ac7bb42423!8m2!3d32.5578147!4d76.1245661!16s%2Fg%2F11sm7mfwm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8180,11 +8112,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sh+Chandershekhar+homeopathic+clinic/@32.5578147,76.1245661,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc9dab24eb1:0xfaaa4ac7bb42423!8m2!3d32.5578147!4d76.1245661!16s%2Fg%2F11sm7mfwm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-clinic-chamba",
@@ -8233,7 +8164,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharma+Clinic/@32.5618933,76.1174549,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc4d5f2021d:0x78cc45aed2e780b2!8m2!3d32.5618933!4d76.1174549!16s%2Fg%2F11c5s85mn6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Clinic/@32.5618933,76.1174549,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc4d5f2021d:0x78cc45aed2e780b2!8m2!3d32.5618933!4d76.1174549!16s%2Fg%2F11c5s85mn6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8302,8 +8233,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharma+Clinic/@32.5618933,76.1174549,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc4d5f2021d:0x78cc45aed2e780b2!8m2!3d32.5618933!4d76.1174549!16s%2Fg%2F11c5s85mn6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-clinic-tataher",
@@ -8352,7 +8282,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharma+Clinic/@31.668215,76.7316602,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d900212e95a9:0x7597d2199a7b9d53!8m2!3d31.668215!4d76.7316602!16s%2Fg%2F11yb1b55tv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Clinic/@31.668215,76.7316602,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d900212e95a9:0x7597d2199a7b9d53!8m2!3d31.668215!4d76.7316602!16s%2Fg%2F11yb1b55tv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8421,8 +8351,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharma+Clinic/@31.668215,76.7316602,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d900212e95a9:0x7597d2199a7b9d53!8m2!3d31.668215!4d76.7316602!16s%2Fg%2F11yb1b55tv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-clinic-una",
@@ -8468,7 +8397,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharma+Clinic/@31.4629288,76.2796978,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad070f8cbc3db:0xb08ae86d5af3ca7f!8m2!3d31.4629288!4d76.2796978!16s%2Fg%2F11c70hqbcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Clinic/@31.4629288,76.2796978,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad070f8cbc3db:0xb08ae86d5af3ca7f!8m2!3d31.4629288!4d76.2796978!16s%2Fg%2F11c70hqbcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8534,11 +8463,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharma+Clinic/@31.4629288,76.2796978,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad070f8cbc3db:0xb08ae86d5af3ca7f!8m2!3d31.4629288!4d76.2796978!16s%2Fg%2F11c70hqbcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-clinic-nadaun",
@@ -8584,7 +8512,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharma+Clinic/@31.822919,76.3280857,17z/data=!3m1!4b1!4m6!3m5!1s0x391b31b74ce2943d:0xa908041398589734!8m2!3d31.822919!4d76.3280857!16s%2Fg%2F11g6xqxrb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Clinic/@31.822919,76.3280857,17z/data=!3m1!4b1!4m6!3m5!1s0x391b31b74ce2943d:0xa908041398589734!8m2!3d31.822919!4d76.3280857!16s%2Fg%2F11g6xqxrb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8650,11 +8578,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharma+Clinic/@31.822919,76.3280857,17z/data=!3m1!4b1!4m6!3m5!1s0x391b31b74ce2943d:0xa908041398589734!8m2!3d31.822919!4d76.3280857!16s%2Fg%2F11g6xqxrb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-medical-center-nagrota-bagwan",
@@ -8702,7 +8629,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharma+Medical+Center/@32.110552,76.386842,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4c3587f2f6c5:0x625b24c2c731bb1f!8m2!3d32.110552!4d76.386842!16s%2Fg%2F11dxlc97h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Medical+Center/@32.110552,76.386842,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4c3587f2f6c5:0x625b24c2c731bb1f!8m2!3d32.110552!4d76.386842!16s%2Fg%2F11dxlc97h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8768,11 +8695,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharma+Medical+Center/@32.110552,76.386842,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4c3587f2f6c5:0x625b24c2c731bb1f!8m2!3d32.110552!4d76.386842!16s%2Fg%2F11dxlc97h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-s-health-dental-clinic-orthodontics-and-implant-centre-chamba",
@@ -8822,7 +8748,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharma's+Health+Dental+clinic,+Orthodontics+and+implant+centre/@32.550731,76.1322907,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd532da58ee9:0x8ebcc7ccd7bb51ef!8m2!3d32.550731!4d76.1322907!16s%2Fg%2F11hqzlftvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma's+Health+Dental+clinic,+Orthodontics+and+implant+centre/@32.550731,76.1322907,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd532da58ee9:0x8ebcc7ccd7bb51ef!8m2!3d32.550731!4d76.1322907!16s%2Fg%2F11hqzlftvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8891,8 +8817,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharma's+Health+Dental+clinic,+Orthodontics+and+implant+centre/@32.550731,76.1322907,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd532da58ee9:0x8ebcc7ccd7bb51ef!8m2!3d32.550731!4d76.1322907!16s%2Fg%2F11hqzlftvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-balaji-healthcare-chamba",
@@ -8940,7 +8865,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Balaji+Healthcare/@32.559794,76.1175808,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd383c26da6b:0x2e0aeb7e0ebf2db1!8m2!3d32.559794!4d76.1175808!16s%2Fg%2F11z9vwv2w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Balaji+Healthcare/@32.559794,76.1175808,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd383c26da6b:0x2e0aeb7e0ebf2db1!8m2!3d32.559794!4d76.1175808!16s%2Fg%2F11z9vwv2w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9006,11 +8931,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Balaji+Healthcare/@32.559794,76.1175808,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd383c26da6b:0x2e0aeb7e0ebf2db1!8m2!3d32.559794!4d76.1175808!16s%2Fg%2F11z9vwv2w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-balaji-hospital-kangra",
@@ -9059,7 +8983,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Balaji+Hospital/@32.1149076,76.2795558,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4f8f841b7b9f:0xddba03208be3e12!8m2!3d32.1149076!4d76.2795558!16s%2Fg%2F11gz_tqz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Balaji+Hospital/@32.1149076,76.2795558,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4f8f841b7b9f:0xddba03208be3e12!8m2!3d32.1149076!4d76.2795558!16s%2Fg%2F11gz_tqz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9125,11 +9049,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Balaji+Hospital/@32.1149076,76.2795558,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4f8f841b7b9f:0xddba03208be3e12!8m2!3d32.1149076!4d76.2795558!16s%2Fg%2F11gz_tqz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-samarth-ayurveda-chamba",
@@ -9177,7 +9100,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Samarth+Ayurveda/@32.5335528,76.1381709,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0030ff73c1:0x36b8efc317499110!8m2!3d32.5335528!4d76.1381709!16s%2Fg%2F11xnvncwv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Samarth+Ayurveda/@32.5335528,76.1381709,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0030ff73c1:0x36b8efc317499110!8m2!3d32.5335528!4d76.1381709!16s%2Fg%2F11xnvncwv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9243,11 +9166,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Samarth+Ayurveda/@32.5335528,76.1381709,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd0030ff73c1:0x36b8efc317499110!8m2!3d32.5335528!4d76.1381709!16s%2Fg%2F11xnvncwv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sigma-diagnostic-center-chamba",
@@ -9296,7 +9218,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sigma+Diagnostic+Center/@32.5507387,76.132449,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbc4acb154675:0xb9c846b720df7b60!8m2!3d32.5507387!4d76.132449!16s%2Fg%2F11bxgyb0tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sigma+Diagnostic+Center/@32.5507387,76.132449,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbc4acb154675:0xb9c846b720df7b60!8m2!3d32.5507387!4d76.132449!16s%2Fg%2F11bxgyb0tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9365,8 +9287,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sigma+Diagnostic+Center/@32.5507387,76.132449,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbc4acb154675:0xb9c846b720df7b60!8m2!3d32.5507387!4d76.132449!16s%2Fg%2F11bxgyb0tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-balaji-dental-and-healthcare-clinic-chamba",
@@ -9414,7 +9335,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Balaji+Dental+%26+Healthcare+Clinic/@32.5596101,76.1175421,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd02f93e2de5:0x8924cb8566be3223!8m2!3d32.5596101!4d76.1175421!16s%2Fg%2F11v0t0dtnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Balaji+Dental+%26+Healthcare+Clinic/@32.5596101,76.1175421,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd02f93e2de5:0x8924cb8566be3223!8m2!3d32.5596101!4d76.1175421!16s%2Fg%2F11v0t0dtnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9483,8 +9404,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Balaji+Dental+%26+Healthcare+Clinic/@32.5596101,76.1175421,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbd02f93e2de5:0x8924cb8566be3223!8m2!3d32.5596101!4d76.1175421!16s%2Fg%2F11v0t0dtnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "subhash-bhamars-clinic-jawali",
@@ -9530,7 +9450,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Subhash+Bhamars+Clinic/@32.2462365,75.8893485,17z/data=!3m1!4b1!4m6!3m5!1s0x391b7d2f9464aba1:0x586a058961edd02d!8m2!3d32.2462365!4d75.8893485!16s%2Fg%2F11cn93xjyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Subhash+Bhamars+Clinic/@32.2462365,75.8893485,17z/data=!3m1!4b1!4m6!3m5!1s0x391b7d2f9464aba1:0x586a058961edd02d!8m2!3d32.2462365!4d75.8893485!16s%2Fg%2F11cn93xjyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9596,11 +9516,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Subhash+Bhamars+Clinic/@32.2462365,75.8893485,17z/data=!3m1!4b1!4m6!3m5!1s0x391b7d2f9464aba1:0x586a058961edd02d!8m2!3d32.2462365!4d75.8893485!16s%2Fg%2F11cn93xjyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sukhmani-hospital-mohalla-kasakra",
@@ -9648,7 +9567,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sukhmani+Hospital/@32.5549354,76.1232688,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc8fdf31313:0x136670081f98fd6a!8m2!3d32.5549354!4d76.1232688!16s%2Fg%2F11dxqhw0dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sukhmani+Hospital/@32.5549354,76.1232688,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc8fdf31313:0x136670081f98fd6a!8m2!3d32.5549354!4d76.1232688!16s%2Fg%2F11dxqhw0dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9717,8 +9636,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sukhmani+Hospital/@32.5549354,76.1232688,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc8fdf31313:0x136670081f98fd6a!8m2!3d32.5549354!4d76.1232688!16s%2Fg%2F11dxqhw0dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surya-eye-hospital-chamba-sarol",
@@ -9766,7 +9684,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surya+Eye+Hospital+Chamba/@32.5819271,76.1127998,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbf8fb2c94091:0x6586e75b01ecd92f!8m2!3d32.5819271!4d76.1127998!16s%2Fg%2F11twsvnf29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+Eye+Hospital+Chamba/@32.5819271,76.1127998,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbf8fb2c94091:0x6586e75b01ecd92f!8m2!3d32.5819271!4d76.1127998!16s%2Fg%2F11twsvnf29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9832,11 +9750,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surya+Eye+Hospital+Chamba/@32.5819271,76.1127998,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbf8fb2c94091:0x6586e75b01ecd92f!8m2!3d32.5819271!4d76.1127998!16s%2Fg%2F11twsvnf29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swami-shri-hari-giri-hospital-cum-research-center-chamba",
@@ -9884,7 +9801,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swami+Shri+Hari+Giri+Hospital+Cum+Research+Center/@32.4648268,75.9227697,17z/data=!3m1!4b1!4m6!3m5!1s0x391c9a9b2bcc793d:0x41873fb617bb35dc!8m2!3d32.4648268!4d75.9227697!16s%2Fg%2F11c1wz8dz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swami+Shri+Hari+Giri+Hospital+Cum+Research+Center/@32.4648268,75.9227697,17z/data=!3m1!4b1!4m6!3m5!1s0x391c9a9b2bcc793d:0x41873fb617bb35dc!8m2!3d32.4648268!4d75.9227697!16s%2Fg%2F11c1wz8dz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9953,8 +9870,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swami+Shri+Hari+Giri+Hospital+Cum+Research+Center/@32.4648268,75.9227697,17z/data=!3m1!4b1!4m6!3m5!1s0x391c9a9b2bcc793d:0x41873fb617bb35dc!8m2!3d32.4648268!4d75.9227697!16s%2Fg%2F11c1wz8dz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tagore-hospital-and-heart-care-centre-pvt-ltd-best-gastro-hospital-in-jalandhar-jalandhar",
@@ -10005,7 +9921,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/TAGORE+HOSPITAL+%26+HEART+CARE+CENTRE+PVT.+LTD.+-+Best+Gastro+Hospital+in+Jalandhar/@31.3370473,75.5632625,17z/data=!3m1!4b1!4m6!3m5!1s0x391a5af2e467dd43:0x19b51499bc01fdc3!8m2!3d31.3370473!4d75.5632625!16s%2Fg%2F1td3j_2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TAGORE+HOSPITAL+%26+HEART+CARE+CENTRE+PVT.+LTD.+-+Best+Gastro+Hospital+in+Jalandhar/@31.3370473,75.5632625,17z/data=!3m1!4b1!4m6!3m5!1s0x391a5af2e467dd43:0x19b51499bc01fdc3!8m2!3d31.3370473!4d75.5632625!16s%2Fg%2F1td3j_2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10074,8 +9990,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/TAGORE+HOSPITAL+%26+HEART+CARE+CENTRE+PVT.+LTD.+-+Best+Gastro+Hospital+in+Jalandhar/@31.3370473,75.5632625,17z/data=!3m1!4b1!4m6!3m5!1s0x391a5af2e467dd43:0x19b51499bc01fdc3!8m2!3d31.3370473!4d75.5632625!16s%2Fg%2F1td3j_2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "trimurti-electrohomeopathic-hospital-chamba",
@@ -10125,7 +10040,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Trimurti+Electrohomeopathic+Hospital/@32.559165,76.114407,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc683ffffff:0x5805326670de9b89!8m2!3d32.559165!4d76.114407!16s%2Fg%2F11f1160w36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trimurti+Electrohomeopathic+Hospital/@32.559165,76.114407,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc683ffffff:0x5805326670de9b89!8m2!3d32.559165!4d76.114407!16s%2Fg%2F11f1160w36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10191,11 +10106,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Trimurti+Electrohomeopathic+Hospital/@32.559165,76.114407,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdc683ffffff:0x5805326670de9b89!8m2!3d32.559165!4d76.114407!16s%2Fg%2F11f1160w36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tuberculosis-hospital-chamba",
@@ -10243,7 +10157,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tuberculosis+Hospital/@32.5616074,76.1303289,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdcd173c74af:0xe40c1ed15d219251!8m2!3d32.5616074!4d76.1303289!16s%2Fg%2F11c1wn55x2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tuberculosis+Hospital/@32.5616074,76.1303289,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdcd173c74af:0xe40c1ed15d219251!8m2!3d32.5616074!4d76.1303289!16s%2Fg%2F11c1wn55x2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10312,8 +10226,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tuberculosis+Hospital/@32.5616074,76.1303289,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbdcd173c74af:0xe40c1ed15d219251!8m2!3d32.5616074!4d76.1303289!16s%2Fg%2F11c1wn55x2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "urvaraa-ivf-kolkata",
@@ -10362,7 +10275,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Urvaraa+IVF/@22.524869,88.355603,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02772efc318e21:0x1fab09c6f7f6d1c!8m2!3d22.524869!4d88.355603!16s%2Fg%2F11b8258mtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Urvaraa+IVF/@22.524869,88.355603,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02772efc318e21:0x1fab09c6f7f6d1c!8m2!3d22.524869!4d88.355603!16s%2Fg%2F11b8258mtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10431,8 +10344,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Urvaraa+IVF/@22.524869,88.355603,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02772efc318e21:0x1fab09c6f7f6d1c!8m2!3d22.524869!4d88.355603!16s%2Fg%2F11b8258mtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vaidya-shri-bardu-ram-sharma-and-ramesh-kumar-sharma-ayurvedic-ausdhalaya-and-chikitsha-kendra-bhambla",
@@ -10480,7 +10392,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vaidya+shri+bardu+ram+sharma+and+ramesh+kumar+sharma+ayurvedic+ausdhalaya+and+chikitsha+kendra/@31.5756854,76.7347909,17z/data=!3m1!4b1!4m6!3m5!1s0x39052176a9a444e3:0xd1cfac66bce9f84b!8m2!3d31.5756854!4d76.7347909!16s%2Fg%2F11gty_6r20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaidya+shri+bardu+ram+sharma+and+ramesh+kumar+sharma+ayurvedic+ausdhalaya+and+chikitsha+kendra/@31.5756854,76.7347909,17z/data=!3m1!4b1!4m6!3m5!1s0x39052176a9a444e3:0xd1cfac66bce9f84b!8m2!3d31.5756854!4d76.7347909!16s%2Fg%2F11gty_6r20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10549,8 +10461,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vaidya+shri+bardu+ram+sharma+and+ramesh+kumar+sharma+ayurvedic+ausdhalaya+and+chikitsha+kendra/@31.5756854,76.7347909,17z/data=!3m1!4b1!4m6!3m5!1s0x39052176a9a444e3:0xd1cfac66bce9f84b!8m2!3d31.5756854!4d76.7347909!16s%2Fg%2F11gty_6r20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "veterinary-pharmacy-chamba",
@@ -10596,7 +10507,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Veterinary+pharmacy/@32.5536111,76.1276829,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbda5cfd8c661:0x1b400d89ec3f6073!8m2!3d32.5536111!4d76.1276829!16s%2Fg%2F11ms0_bfzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Veterinary+pharmacy/@32.5536111,76.1276829,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbda5cfd8c661:0x1b400d89ec3f6073!8m2!3d32.5536111!4d76.1276829!16s%2Fg%2F11ms0_bfzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10662,11 +10573,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Veterinary+pharmacy/@32.5536111,76.1276829,17z/data=!3m1!4b1!4m6!3m5!1s0x391cbda5cfd8c661:0x1b400d89ec3f6073!8m2!3d32.5536111!4d76.1276829!16s%2Fg%2F11ms0_bfzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yellow-fertility-and-ivf-centre-kolkata",
@@ -10716,7 +10626,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yellow+Fertility+%26+IVF+Centre/@22.5263452,88.3529586,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02773020d642b1:0xb05a5b2b2ec277b4!8m2!3d22.5263452!4d88.3529586!16s%2Fg%2F1thfcvv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yellow+Fertility+%26+IVF+Centre/@22.5263452,88.3529586,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02773020d642b1:0xb05a5b2b2ec277b4!8m2!3d22.5263452!4d88.3529586!16s%2Fg%2F1thfcvv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10785,8 +10695,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yellow+Fertility+%26+IVF+Centre/@22.5263452,88.3529586,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02773020d642b1:0xb05a5b2b2ec277b4!8m2!3d22.5263452!4d88.3529586!16s%2Fg%2F1thfcvv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chakloo",
@@ -10832,7 +10741,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%AF%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%BF%E0%A4%95%E0%A5%8D+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF/@32.6165111,76.0183186,17z/data=!3m1!4b1!4m6!3m5!1s0x391c955554b599d1:0xcb79a7f3220e2626!8m2!3d32.6165111!4d76.0183186!16s%2Fg%2F11fll5wrdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%86%E0%A4%AF%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%BF%E0%A4%95%E0%A5%8D+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF/@32.6165111,76.0183186,17z/data=!3m1!4b1!4m6!3m5!1s0x391c955554b599d1:0xcb79a7f3220e2626!8m2!3d32.6165111!4d76.0183186!16s%2Fg%2F11fll5wrdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10898,10 +10807,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%AF%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%BF%E0%A4%95%E0%A5%8D+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF/@32.6165111,76.0183186,17z/data=!3m1!4b1!4m6!3m5!1s0x391c955554b599d1:0xcb79a7f3220e2626!8m2!3d32.6165111!4d76.0183186!16s%2Fg%2F11fll5wrdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

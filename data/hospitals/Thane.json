@@ -46,7 +46,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Skin+Health+%26+Rejuvenation+Centre/data=!4m7!3m6!1s0x3be7cf4463f50f11:0xf100b40d71518b86!8m2!3d18.958733!4d72.82005!16s%2Fg%2F11lnwx__7r!19sChIJEQ_1Y0TP5zsRhotRcQ20APE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+Health+%26+Rejuvenation+Centre/data=!4m7!3m6!1s0x3be7cf4463f50f11:0xf100b40d71518b86!8m2!3d18.958733!4d72.82005!16s%2Fg%2F11lnwx__7r!19sChIJEQ_1Y0TP5zsRhotRcQ20APE?authuser=0&hl=en&rclk=1"
@@ -115,7 +115,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Skin+Health+%26+Rejuvenation+Centre/data=!4m7!3m6!1s0x3be7cf4463f50f11:0xf100b40d71518b86!8m2!3d18.958733!4d72.82005!16s%2Fg%2F11lnwx__7r!19sChIJEQ_1Y0TP5zsRhotRcQ20APE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

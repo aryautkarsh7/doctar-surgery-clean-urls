@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/32+Smile+Dental+and+Maxillofacial+clinic/@22.5716501,88.3646706,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277049f00a91b:0x21ed57f67780feaf!8m2!3d22.5716501!4d88.3646706!16s%2Fg%2F11fkljpk16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+Smile+Dental+and+Maxillofacial+clinic/@22.5716501,88.3646706,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277049f00a91b:0x21ed57f67780feaf!8m2!3d22.5716501!4d88.3646706!16s%2Fg%2F11fkljpk16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -115,8 +115,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/32+Smile+Dental+and+Maxillofacial+clinic/@22.5716501,88.3646706,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277049f00a91b:0x21ed57f67780feaf!8m2!3d22.5716501!4d88.3646706!16s%2Fg%2F11fkljpk16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aesthetic-surgery-clinic-kolkata",
@@ -162,7 +161,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aesthetic+surgery+Clinic/@22.4597619,88.3692204,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271aef61682bf:0xd34bee5e5e8fc001!8m2!3d22.4597619!4d88.3692204!16s%2Fg%2F11c6sn4v8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aesthetic+surgery+Clinic/@22.4597619,88.3692204,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271aef61682bf:0xd34bee5e5e8fc001!8m2!3d22.4597619!4d88.3692204!16s%2Fg%2F11c6sn4v8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -228,11 +227,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aesthetic+surgery+Clinic/@22.4597619,88.3692204,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271aef61682bf:0xd34bee5e5e8fc001!8m2!3d22.4597619!4d88.3692204!16s%2Fg%2F11c6sn4v8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anukampa-hospital-sagar",
@@ -280,7 +278,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ANUKAMPA+HOSPITAL/@23.8210157,78.7535543,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d384e1e4dcab:0x13700974d268ec3e!8m2!3d23.8210157!4d78.7535543!16s%2Fg%2F11sfbbfbhy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANUKAMPA+HOSPITAL/@23.8210157,78.7535543,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d384e1e4dcab:0x13700974d268ec3e!8m2!3d23.8210157!4d78.7535543!16s%2Fg%2F11sfbbfbhy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -349,8 +347,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ANUKAMPA+HOSPITAL/@23.8210157,78.7535543,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d384e1e4dcab:0x13700974d268ec3e!8m2!3d23.8210157!4d78.7535543!16s%2Fg%2F11sfbbfbhy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apex-dental-clinic-and-implant-center-kolkata",
@@ -399,7 +396,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apex+dental+clinic+%26+Implant+center/@22.6758285,88.3761038,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89d99042471c1:0x59398951ec838f21!8m2!3d22.6758285!4d88.3761038!16s%2Fg%2F11hz12c1fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+dental+clinic+%26+Implant+center/@22.6758285,88.3761038,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89d99042471c1:0x59398951ec838f21!8m2!3d22.6758285!4d88.3761038!16s%2Fg%2F11hz12c1fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -465,11 +462,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apex+dental+clinic+%26+Implant+center/@22.6758285,88.3761038,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89d99042471c1:0x59398951ec838f21!8m2!3d22.6758285!4d88.3761038!16s%2Fg%2F11hz12c1fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aradhana-heal-x-hospital-sagar-madhya-pradesh-sagar",
@@ -517,7 +513,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aradhana+Heal-X+Hospital+Sagar+Madhya+Pradesh/@23.8176957,78.7550351,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d393946e52bb:0x91a7475d5b9a2a2b!8m2!3d23.8176957!4d78.7550351!16s%2Fg%2F11n4r9l521?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aradhana+Heal-X+Hospital+Sagar+Madhya+Pradesh/@23.8176957,78.7550351,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d393946e52bb:0x91a7475d5b9a2a2b!8m2!3d23.8176957!4d78.7550351!16s%2Fg%2F11n4r9l521?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -583,11 +579,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aradhana+Heal-X+Hospital+Sagar+Madhya+Pradesh/@23.8176957,78.7550351,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d393946e52bb:0x91a7475d5b9a2a2b!8m2!3d23.8176957!4d78.7550351!16s%2Fg%2F11n4r9l521?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arihant-smile-care-sagar",
@@ -635,7 +630,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arihant+Smile+Care/@23.8383295,78.7422401,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6b2222568ef:0x5d3b716ba9eb80f5!8m2!3d23.8383295!4d78.7422401!16s%2Fg%2F11g6_2lq76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arihant+Smile+Care/@23.8383295,78.7422401,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6b2222568ef:0x5d3b716ba9eb80f5!8m2!3d23.8383295!4d78.7422401!16s%2Fg%2F11g6_2lq76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -704,8 +699,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arihant+Smile+Care/@23.8383295,78.7422401,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6b2222568ef:0x5d3b716ba9eb80f5!8m2!3d23.8383295!4d78.7422401!16s%2Fg%2F11g6_2lq76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ayushman-hospital-sagar",
@@ -753,7 +747,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ayushman+hospital/@23.827832,78.7517196,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d14dd65dbaef:0xf6b857e03513436!8m2!3d23.827832!4d78.7517196!16s%2Fg%2F11qt40_wsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayushman+hospital/@23.827832,78.7517196,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d14dd65dbaef:0xf6b857e03513436!8m2!3d23.827832!4d78.7517196!16s%2Fg%2F11qt40_wsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -822,8 +816,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ayushman+hospital/@23.827832,78.7517196,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d14dd65dbaef:0xf6b857e03513436!8m2!3d23.827832!4d78.7517196!16s%2Fg%2F11qt40_wsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "b-p-poddar-hospital-and-medical-research-limited-kolkata",
@@ -872,7 +865,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/B.P.+Poddar+Hospital+%26+Medical+Research+Limited/@22.5117888,88.3323761,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02774ed3dd45b5:0x7dc703640fcefd6!8m2!3d22.5117888!4d88.3323761!16s%2Fg%2F1tc_pf41?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B.P.+Poddar+Hospital+%26+Medical+Research+Limited/@22.5117888,88.3323761,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02774ed3dd45b5:0x7dc703640fcefd6!8m2!3d22.5117888!4d88.3323761!16s%2Fg%2F1tc_pf41?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -941,8 +934,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/B.P.+Poddar+Hospital+%26+Medical+Research+Limited/@22.5117888,88.3323761,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02774ed3dd45b5:0x7dc703640fcefd6!8m2!3d22.5117888!4d88.3323761!16s%2Fg%2F1tc_pf41?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bansal-hospital-sagar-makroniya",
@@ -991,7 +983,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bansal+Hospital+Sagar/@23.8643231,78.8017676,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d156121e797d:0x44ab55318f787b70!8m2!3d23.8643231!4d78.8017676!16s%2Fg%2F11tdc0y7n8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal+Hospital+Sagar/@23.8643231,78.8017676,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d156121e797d:0x44ab55318f787b70!8m2!3d23.8643231!4d78.8017676!16s%2Fg%2F11tdc0y7n8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1060,8 +1052,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bansal+Hospital+Sagar/@23.8643231,78.8017676,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d156121e797d:0x44ab55318f787b70!8m2!3d23.8643231!4d78.8017676!16s%2Fg%2F11tdc0y7n8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhagyoday-tirth-chikitsalay-hospital-sagar",
@@ -1110,7 +1101,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhagyoday+Tirth+Chikitsalay+%7C+Hospital/@23.850383,78.7222586,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6ea4a5fe48f:0x96f17f98bb568e3!8m2!3d23.850383!4d78.7222586!16s%2Fg%2F1tfxwf7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagyoday+Tirth+Chikitsalay+%7C+Hospital/@23.850383,78.7222586,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6ea4a5fe48f:0x96f17f98bb568e3!8m2!3d23.850383!4d78.7222586!16s%2Fg%2F1tfxwf7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1179,8 +1170,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhagyoday+Tirth+Chikitsalay+%7C+Hospital/@23.850383,78.7222586,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6ea4a5fe48f:0x96f17f98bb568e3!8m2!3d23.850383!4d78.7222586!16s%2Fg%2F1tfxwf7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bundelkhand-pain-management-center-sagar-sagar",
@@ -1228,7 +1218,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bundelkhand+pain+management+center+sagar/@23.8230779,78.7529841,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3ad9274aaa9:0x9f41c429b5f15d48!8m2!3d23.8230779!4d78.7529841!16s%2Fg%2F11nnqhd6px?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bundelkhand+pain+management+center+sagar/@23.8230779,78.7529841,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3ad9274aaa9:0x9f41c429b5f15d48!8m2!3d23.8230779!4d78.7529841!16s%2Fg%2F11nnqhd6px?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1297,8 +1287,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bundelkhand+pain+management+center+sagar/@23.8230779,78.7529841,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3ad9274aaa9:0x9f41c429b5f15d48!8m2!3d23.8230779!4d78.7529841!16s%2Fg%2F11nnqhd6px?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-and-cure-dental-and-implant-clinic-sagar-sagar",
@@ -1346,7 +1335,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Care+%26+Cure+Dental+%26+Implant+Clinic+Sagar/@23.8330464,78.7598159,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d15b03bdddd5:0xd02d11201d5eed1d!8m2!3d23.8330464!4d78.7598159!16s%2Fg%2F11b7c8819c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+%26+Cure+Dental+%26+Implant+Clinic+Sagar/@23.8330464,78.7598159,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d15b03bdddd5:0xd02d11201d5eed1d!8m2!3d23.8330464!4d78.7598159!16s%2Fg%2F11b7c8819c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1415,8 +1404,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Care+%26+Cure+Dental+%26+Implant+Clinic+Sagar/@23.8330464,78.7598159,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d15b03bdddd5:0xd02d11201d5eed1d!8m2!3d23.8330464!4d78.7598159!16s%2Fg%2F11b7c8819c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-and-cure-dental-and-implant-clinic-tilli-road-sagar-sagar",
@@ -1464,7 +1452,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Care+%26+Cure+Dental+and+Implant+Clinic,+Tilli+Road,+Sagar/@23.8204843,78.7540862,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d33a343cda8d:0xc0e4dab08756b584!8m2!3d23.8204843!4d78.7540862!16s%2Fg%2F11yz5t8sl5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+%26+Cure+Dental+and+Implant+Clinic,+Tilli+Road,+Sagar/@23.8204843,78.7540862,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d33a343cda8d:0xc0e4dab08756b584!8m2!3d23.8204843!4d78.7540862!16s%2Fg%2F11yz5t8sl5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1530,11 +1518,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Care+%26+Cure+Dental+and+Implant+Clinic,+Tilli+Road,+Sagar/@23.8204843,78.7540862,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d33a343cda8d:0xc0e4dab08756b584!8m2!3d23.8204843!4d78.7540862!16s%2Fg%2F11yz5t8sl5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-dental-hub-sagar",
@@ -1583,7 +1570,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CITY+DENTAL+HUB/@23.8363018,78.7621874,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d14bfcfa19bd:0x4af97c7d52a40b0!8m2!3d23.8363018!4d78.7621874!16s%2Fg%2F11j4f848s7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CITY+DENTAL+HUB/@23.8363018,78.7621874,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d14bfcfa19bd:0x4af97c7d52a40b0!8m2!3d23.8363018!4d78.7621874!16s%2Fg%2F11j4f848s7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1652,8 +1639,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CITY+DENTAL+HUB/@23.8363018,78.7621874,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d14bfcfa19bd:0x4af97c7d52a40b0!8m2!3d23.8363018!4d78.7621874!16s%2Fg%2F11j4f848s7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "d-max-face-kolkata",
@@ -1702,7 +1688,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/D%60MAX+Face/@22.518381,88.3650666,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277b6f14b6067:0x4f569264b4bd8a49!8m2!3d22.518381!4d88.3650666!16s%2Fg%2F11fsw4n8zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D%60MAX+Face/@22.518381,88.3650666,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277b6f14b6067:0x4f569264b4bd8a49!8m2!3d22.518381!4d88.3650666!16s%2Fg%2F11fsw4n8zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1768,11 +1754,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/D%60MAX+Face/@22.518381,88.3650666,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277b6f14b6067:0x4f569264b4bd8a49!8m2!3d22.518381!4d88.3650666!16s%2Fg%2F11fsw4n8zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-and-oral-maxillofacial-clinic-kolkata",
@@ -1821,7 +1806,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1887,11 +1872,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-and-oral-surgery-clinic-kolkata",
@@ -1939,7 +1923,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+%26+Oral+Surgery+Clinic/@22.5907736,88.4273072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c1513d0b19:0x34e6364044b7ad5c!8m2!3d22.5907736!4d88.4273072!16s%2Fg%2F1tj4x3ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+%26+Oral+Surgery+Clinic/@22.5907736,88.4273072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c1513d0b19:0x34e6364044b7ad5c!8m2!3d22.5907736!4d88.4273072!16s%2Fg%2F1tj4x3ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2005,11 +1989,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+%26+Oral+Surgery+Clinic/@22.5907736,88.4273072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c1513d0b19:0x34e6364044b7ad5c!8m2!3d22.5907736!4d88.4273072!16s%2Fg%2F1tj4x3ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-and-oral-health-clinic-kolkata",
@@ -2058,7 +2041,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+and+Oral+Health+Clinic/@22.5121315,88.3491495,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271b790fe888d:0x498295f279919d7d!8m2!3d22.5121315!4d88.3491495!16s%2Fg%2F1pzvbhyyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+and+Oral+Health+Clinic/@22.5121315,88.3491495,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271b790fe888d:0x498295f279919d7d!8m2!3d22.5121315!4d88.3491495!16s%2Fg%2F1pzvbhyyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2127,8 +2110,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+and+Oral+Health+Clinic/@22.5121315,88.3491495,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271b790fe888d:0x498295f279919d7d!8m2!3d22.5121315!4d88.3491495!16s%2Fg%2F1pzvbhyyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentist-sahib-dental-care-makroniya",
@@ -2177,7 +2159,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dentist+(SAHIB+DENTAL+CARE)/@23.8639343,78.8021865,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d1bc95a3237f:0x9cad15670afbc812!8m2!3d23.8639343!4d78.8021865!16s%2Fg%2F11ry5wtnd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentist+(SAHIB+DENTAL+CARE)/@23.8639343,78.8021865,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d1bc95a3237f:0x9cad15670afbc812!8m2!3d23.8639343!4d78.8021865!16s%2Fg%2F11ry5wtnd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2243,11 +2225,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dentist+(SAHIB+DENTAL+CARE)/@23.8639343,78.8021865,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d1bc95a3237f:0x9cad15670afbc812!8m2!3d23.8639343!4d78.8021865!16s%2Fg%2F11ry5wtnd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ganesh-memorial-hospital-sagar",
@@ -2295,7 +2276,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ganesh+Memorial+Hospital/@23.8502138,78.7432324,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6ca3f75ff89:0x54fb1d420a675497!8m2!3d23.8502138!4d78.7432324!16s%2Fg%2F11c5_kyxz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganesh+Memorial+Hospital/@23.8502138,78.7432324,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6ca3f75ff89:0x54fb1d420a675497!8m2!3d23.8502138!4d78.7432324!16s%2Fg%2F11c5_kyxz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2364,8 +2345,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ganesh+Memorial+Hospital/@23.8502138,78.7432324,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6ca3f75ff89:0x54fb1d420a675497!8m2!3d23.8502138!4d78.7432324!16s%2Fg%2F11c5_kyxz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "glamsmile-dental-maxillofacial-polyclinic-best-clinic-for-affordable-dental-implants-kolkata",
@@ -2414,7 +2394,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GlamSmile+Dental+Maxillofacial+Polyclinic+-+Best+Clinic+for+Affordable+Dental+Implants/@22.4772734,88.3777484,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271feef80cd19:0x5b15abd08e170907!8m2!3d22.4772734!4d88.3777484!16s%2Fg%2F11txzbrsr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GlamSmile+Dental+Maxillofacial+Polyclinic+-+Best+Clinic+for+Affordable+Dental+Implants/@22.4772734,88.3777484,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271feef80cd19:0x5b15abd08e170907!8m2!3d22.4772734!4d88.3777484!16s%2Fg%2F11txzbrsr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2480,11 +2460,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GlamSmile+Dental+Maxillofacial+Polyclinic+-+Best+Clinic+for+Affordable+Dental+Implants/@22.4772734,88.3777484,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271feef80cd19:0x5b15abd08e170907!8m2!3d22.4772734!4d88.3777484!16s%2Fg%2F11txzbrsr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-district-hospital-sagar",
@@ -2532,7 +2511,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+District+Hospital/@23.8226576,78.7550595,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fc31194557:0x3c4315e56f34ff05!8m2!3d23.8226576!4d78.7550595!16s%2Fg%2F1tw1c7h3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+District+Hospital/@23.8226576,78.7550595,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fc31194557:0x3c4315e56f34ff05!8m2!3d23.8226576!4d78.7550595!16s%2Fg%2F1tw1c7h3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2601,8 +2580,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+District+Hospital/@23.8226576,78.7550595,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fc31194557:0x3c4315e56f34ff05!8m2!3d23.8226576!4d78.7550595!16s%2Fg%2F1tw1c7h3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gynaecomastia-surgery-north-dumdum",
@@ -2651,7 +2629,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gynaecomastia+Surgery/@22.6292868,88.4234076,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89e3c32bad40f:0x7a21347836ebe2eb!8m2!3d22.6292868!4d88.4234076!16s%2Fg%2F11knnxmpw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gynaecomastia+Surgery/@22.6292868,88.4234076,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89e3c32bad40f:0x7a21347836ebe2eb!8m2!3d22.6292868!4d88.4234076!16s%2Fg%2F11knnxmpw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2717,11 +2695,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gynaecomastia+Surgery/@22.6292868,88.4234076,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89e3c32bad40f:0x7a21347836ebe2eb!8m2!3d22.6292868!4d88.4234076!16s%2Fg%2F11knnxmpw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indian-institute-of-liver-and-digestive-sciences-kolkata",
@@ -2772,7 +2749,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/@22.4362319,88.4537972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/@22.4362319,88.4537972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2841,8 +2818,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/@22.4362319,88.4537972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-sagar-best-ivf-centre-sagar",
@@ -2892,7 +2868,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Sagar+-+Best+IVF+Centre/@23.8433956,78.7348037,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d753db0df903:0xb0f9cbbd1ed80aea!8m2!3d23.8433956!4d78.7348037!16s%2Fg%2F11sn_3qnfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Sagar+-+Best+IVF+Centre/@23.8433956,78.7348037,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d753db0df903:0xb0f9cbbd1ed80aea!8m2!3d23.8433956!4d78.7348037!16s%2Fg%2F11sn_3qnfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2961,8 +2937,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Sagar+-+Best+IVF+Centre/@23.8433956,78.7348037,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d753db0df903:0xb0f9cbbd1ed80aea!8m2!3d23.8433956!4d78.7348037!16s%2Fg%2F11sn_3qnfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "joy-s-oral-and-maxillofacial-care-dental-clinic-kolkata",
@@ -3011,7 +2986,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Joy's+Oral+and+Maxillofacial+Care+Dental+Clinic/@22.6137302,88.4389016,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89f4733ecfdad:0x7823fc5c67676de9!8m2!3d22.6137302!4d88.4389016!16s%2Fg%2F11v1519sr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Joy's+Oral+and+Maxillofacial+Care+Dental+Clinic/@22.6137302,88.4389016,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89f4733ecfdad:0x7823fc5c67676de9!8m2!3d22.6137302!4d88.4389016!16s%2Fg%2F11v1519sr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3077,11 +3052,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Joy's+Oral+and+Maxillofacial+Care+Dental+Clinic/@22.6137302,88.4389016,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89f4733ecfdad:0x7823fc5c67676de9!8m2!3d22.6137302!4d88.4389016!16s%2Fg%2F11v1519sr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kalyanika-hospital-sagar",
@@ -3129,7 +3103,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kalyanika+hospital/@23.8138209,78.7562273,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3323038dfe5:0x24cbac422b67cf92!8m2!3d23.8138209!4d78.7562273!16s%2Fg%2F11rzhc_pyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalyanika+hospital/@23.8138209,78.7562273,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3323038dfe5:0x24cbac422b67cf92!8m2!3d23.8138209!4d78.7562273!16s%2Fg%2F11rzhc_pyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3198,8 +3172,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kalyanika+hospital/@23.8138209,78.7562273,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3323038dfe5:0x24cbac422b67cf92!8m2!3d23.8138209!4d78.7562273!16s%2Fg%2F11rzhc_pyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "khemchand-hospital-sagar",
@@ -3248,7 +3221,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Khemchand+Hospital/@23.8307096,78.7322552,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6a415555555:0x34ae4f22e03a8a0!8m2!3d23.8307096!4d78.7322552!16s%2Fg%2F11b7hjfx34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khemchand+Hospital/@23.8307096,78.7322552,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6a415555555:0x34ae4f22e03a8a0!8m2!3d23.8307096!4d78.7322552!16s%2Fg%2F11b7hjfx34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3317,8 +3290,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Khemchand+Hospital/@23.8307096,78.7322552,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6a415555555:0x34ae4f22e03a8a0!8m2!3d23.8307096!4d78.7322552!16s%2Fg%2F11b7hjfx34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kidney-plus-clinics-kolkata-kolkata",
@@ -3369,7 +3341,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3438,8 +3410,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kolkata-kidney-institute-kolkata",
@@ -3489,7 +3460,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KOLKATA+KIDNEY+INSTITUTE/@22.503913,88.3979072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027120ecfb01b3:0xd0b9d152082694a1!8m2!3d22.503913!4d88.3979072!16s%2Fg%2F11hg29sfdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KOLKATA+KIDNEY+INSTITUTE/@22.503913,88.3979072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027120ecfb01b3:0xd0b9d152082694a1!8m2!3d22.503913!4d88.3979072!16s%2Fg%2F11hg29sfdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3558,8 +3529,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KOLKATA+KIDNEY+INSTITUTE/@22.503913,88.3979072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027120ecfb01b3:0xd0b9d152082694a1!8m2!3d22.503913!4d88.3979072!16s%2Fg%2F11hg29sfdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "livgastro-kolkata",
@@ -3609,7 +3579,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LivGastro/@22.5671185,88.3972031,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277107a9b3665:0x1f164a7b6f65b5ef!8m2!3d22.5671185!4d88.3972031!16s%2Fg%2F11ry9bp5wr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LivGastro/@22.5671185,88.3972031,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277107a9b3665:0x1f164a7b6f65b5ef!8m2!3d22.5671185!4d88.3972031!16s%2Fg%2F11ry9bp5wr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3678,8 +3648,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LivGastro/@22.5671185,88.3972031,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277107a9b3665:0x1f164a7b6f65b5ef!8m2!3d22.5671185!4d88.3972031!16s%2Fg%2F11ry9bp5wr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-sharda-multispecility-hospital-sagar-mp-sagar",
@@ -3727,7 +3696,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maa+Sharda+multispecility+hospital+sagar+MP/@23.8376325,78.7316265,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d700192cb857:0xaf34e7051c1cd5c9!8m2!3d23.8376325!4d78.7316265!16s%2Fg%2F11wxcsk0qh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Sharda+multispecility+hospital+sagar+MP/@23.8376325,78.7316265,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d700192cb857:0xaf34e7051c1cd5c9!8m2!3d23.8376325!4d78.7316265!16s%2Fg%2F11wxcsk0qh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3796,8 +3765,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maa+Sharda+multispecility+hospital+sagar+MP/@23.8376325,78.7316265,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d700192cb857:0xaf34e7051c1cd5c9!8m2!3d23.8376325!4d78.7316265!16s%2Fg%2F11wxcsk0qh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-and-panchakarma-center-sagar-madhya-pradesh-sagar",
@@ -3846,7 +3814,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Sagar,+Madhya+Pradesh)/@23.8381646,78.7435215,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d7da154524eb:0x310f1d4203576395!8m2!3d23.8381646!4d78.7435215!16s%2Fg%2F11gh08x74k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Sagar,+Madhya+Pradesh)/@23.8381646,78.7435215,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d7da154524eb:0x310f1d4203576395!8m2!3d23.8381646!4d78.7435215!16s%2Fg%2F11gh08x74k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3912,11 +3880,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Sagar,+Madhya+Pradesh)/@23.8381646,78.7435215,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d7da154524eb:0x310f1d4203576395!8m2!3d23.8381646!4d78.7435215!16s%2Fg%2F11gh08x74k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maxillofacial-and-dental-clinic-kolkata",
@@ -3965,7 +3932,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maxillofacial+and+Dental+Clinic/@22.6150907,88.3788789,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89dcf58c75153:0x3444f9349a2340f3!8m2!3d22.6150907!4d88.3788789!16s%2Fg%2F11nsvkx0_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxillofacial+and+Dental+Clinic/@22.6150907,88.3788789,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89dcf58c75153:0x3444f9349a2340f3!8m2!3d22.6150907!4d88.3788789!16s%2Fg%2F11nsvkx0_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4031,11 +3998,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maxillofacial+and+Dental+Clinic/@22.6150907,88.3788789,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89dcf58c75153:0x3444f9349a2340f3!8m2!3d22.6150907!4d88.3788789!16s%2Fg%2F11nsvkx0_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maxillofacial-center-kolkata",
@@ -4084,7 +4050,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maxillofacial+Center/@22.5048725,88.3462854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0270c88f907f77:0x86348de6544b0499!8m2!3d22.5048725!4d88.3462854!16s%2Fg%2F11s8dq9z42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxillofacial+Center/@22.5048725,88.3462854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0270c88f907f77:0x86348de6544b0499!8m2!3d22.5048725!4d88.3462854!16s%2Fg%2F11s8dq9z42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4150,11 +4116,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maxillofacial+Center/@22.5048725,88.3462854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0270c88f907f77:0x86348de6544b0499!8m2!3d22.5048725!4d88.3462854!16s%2Fg%2F11s8dq9z42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meera-hospital-sagar",
@@ -4203,7 +4168,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MEERA+HOSPITAL/@23.8382355,78.7288427,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6bcf1601b73:0x4136735a4eb7f272!8m2!3d23.8382355!4d78.7288427!16s%2Fg%2F11c4zt5blp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEERA+HOSPITAL/@23.8382355,78.7288427,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6bcf1601b73:0x4136735a4eb7f272!8m2!3d23.8382355!4d78.7288427!16s%2Fg%2F11c4zt5blp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4272,8 +4237,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MEERA+HOSPITAL/@23.8382355,78.7288427,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6bcf1601b73:0x4136735a4eb7f272!8m2!3d23.8382355!4d78.7288427!16s%2Fg%2F11c4zt5blp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "narayan-hospital-gynec-hospital-in-sagar-surgery-hospital-in-sagar-makroniya",
@@ -4321,7 +4285,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Narayan+Hospital+%7C%7C+Gynec+Hospital+In+Sagar%2FSurgery+Hospital+In+Sagar/@23.8508434,78.7877687,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d174a45521cd:0xb240ba15d98de8a9!8m2!3d23.8508434!4d78.7877687!16s%2Fg%2F11b6qpr2fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narayan+Hospital+%7C%7C+Gynec+Hospital+In+Sagar%2FSurgery+Hospital+In+Sagar/@23.8508434,78.7877687,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d174a45521cd:0xb240ba15d98de8a9!8m2!3d23.8508434!4d78.7877687!16s%2Fg%2F11b6qpr2fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4390,8 +4354,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Narayan+Hospital+%7C%7C+Gynec+Hospital+In+Sagar%2FSurgery+Hospital+In+Sagar/@23.8508434,78.7877687,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d174a45521cd:0xb240ba15d98de8a9!8m2!3d23.8508434!4d78.7877687!16s%2Fg%2F11b6qpr2fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neena-gideon-clinic-sagar",
@@ -4439,7 +4402,7 @@
     "metrics": [
       "Google rating 2.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neena+Gideon+Clinic/@23.8331426,78.7593436,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d14f8a9f884b:0xeab00c425224235b!8m2!3d23.8331426!4d78.7593436!16s%2Fg%2F11jm9sfzg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neena+Gideon+Clinic/@23.8331426,78.7593436,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d14f8a9f884b:0xeab00c425224235b!8m2!3d23.8331426!4d78.7593436!16s%2Fg%2F11jm9sfzg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4508,8 +4471,7 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neena+Gideon+Clinic/@23.8331426,78.7593436,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d14f8a9f884b:0xeab00c425224235b!8m2!3d23.8331426!4d78.7593436!16s%2Fg%2F11jm9sfzg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neuberg-diagnostics-blood-tests-cbc-tests-and-full-body-checkup-kolkata",
@@ -4559,7 +4521,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/@22.526049,88.3523872,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027730252add49:0x52df2781c308eb7d!8m2!3d22.526049!4d88.3523872!16s%2Fg%2F11c47fvv3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/@22.526049,88.3523872,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027730252add49:0x52df2781c308eb7d!8m2!3d22.526049!4d88.3523872!16s%2Fg%2F11c47fvv3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4628,8 +4590,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/@22.526049,88.3523872,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027730252add49:0x52df2781c308eb7d!8m2!3d22.526049!4d88.3523872!16s%2Fg%2F11c47fvv3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nidaan-hospital-and-research-centre-m-1-balak-complex-hathi-park-tili-sagar-m-p-sagar",
@@ -4678,7 +4639,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nidaan+Hospital+%26+Research+Centre+M-1+Balak+Complex+Hathi+Park+Tili+Sagar+M.P./@23.8220585,78.7520121,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d32fb21d62b1:0x641dda17828dab68!8m2!3d23.8220585!4d78.7520121!16s%2Fg%2F11s67c2dk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nidaan+Hospital+%26+Research+Centre+M-1+Balak+Complex+Hathi+Park+Tili+Sagar+M.P./@23.8220585,78.7520121,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d32fb21d62b1:0x641dda17828dab68!8m2!3d23.8220585!4d78.7520121!16s%2Fg%2F11s67c2dk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4747,8 +4708,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nidaan+Hospital+%26+Research+Centre+M-1+Balak+Complex+Hathi+Park+Tili+Sagar+M.P./@23.8220585,78.7520121,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d32fb21d62b1:0x641dda17828dab68!8m2!3d23.8220585!4d78.7520121!16s%2Fg%2F11s67c2dk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nkpc-kidney-clinic-kolkata",
@@ -4798,7 +4758,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1"
@@ -4867,8 +4827,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oral-and-maxillofacial-clinic-kolkata",
@@ -4917,7 +4876,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oral+%26+Maxillofacial+Clinic/@22.5053167,88.3610344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271abe8f683f9:0xb72f0a211990596e!8m2!3d22.5053167!4d88.3610344!16s%2Fg%2F11sqldqzl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+%26+Maxillofacial+Clinic/@22.5053167,88.3610344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271abe8f683f9:0xb72f0a211990596e!8m2!3d22.5053167!4d88.3610344!16s%2Fg%2F11sqldqzl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4986,8 +4945,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oral+%26+Maxillofacial+Clinic/@22.5053167,88.3610344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271abe8f683f9:0xb72f0a211990596e!8m2!3d22.5053167!4d88.3610344!16s%2Fg%2F11sqldqzl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oral-health-dental-and-gum-clinic-kolkata",
@@ -5035,7 +4993,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ORAL+HEALTH+Dental+%26+Gum+Clinic/@22.5365259,88.3824688,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276bf676dcb57:0xcb96a6eadb684c17!8m2!3d22.5365259!4d88.3824688!16s%2Fg%2F11bbrmmpwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ORAL+HEALTH+Dental+%26+Gum+Clinic/@22.5365259,88.3824688,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276bf676dcb57:0xcb96a6eadb684c17!8m2!3d22.5365259!4d88.3824688!16s%2Fg%2F11bbrmmpwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5104,8 +5062,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ORAL+HEALTH+Dental+%26+Gum+Clinic/@22.5365259,88.3824688,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276bf676dcb57:0xcb96a6eadb684c17!8m2!3d22.5365259!4d88.3824688!16s%2Fg%2F11bbrmmpwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oramax-bidhannagar",
@@ -5154,7 +5111,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oramax/@22.5944779,88.4051283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275e3de77f5a7:0xe466e6dbc0a51913!8m2!3d22.5944779!4d88.4051283!16s%2Fg%2F11c1wkl7zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oramax/@22.5944779,88.4051283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275e3de77f5a7:0xe466e6dbc0a51913!8m2!3d22.5944779!4d88.4051283!16s%2Fg%2F11c1wkl7zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5223,8 +5180,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oramax/@22.5944779,88.4051283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275e3de77f5a7:0xe466e6dbc0a51913!8m2!3d22.5944779!4d88.4051283!16s%2Fg%2F11c1wkl7zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "physiotrix-clinic-in-behala-kolkata",
@@ -5274,7 +5230,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Physiotrix+Clinic+in+Behala/@22.4957018,88.3171355,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027b1537681c41:0xb4fc73df485ffaa!8m2!3d22.4957018!4d88.3171355!16s%2Fg%2F11v_24y4wz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Physiotrix+Clinic+in+Behala/@22.4957018,88.3171355,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027b1537681c41:0xb4fc73df485ffaa!8m2!3d22.4957018!4d88.3171355!16s%2Fg%2F11v_24y4wz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5343,8 +5299,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Physiotrix+Clinic+in+Behala/@22.4957018,88.3171355,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027b1537681c41:0xb4fc73df485ffaa!8m2!3d22.4957018!4d88.3171355!16s%2Fg%2F11v_24y4wz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "physiqure-ctn-hospital-sagar",
@@ -5392,7 +5347,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Physiqure+CTN+hospital/@23.8095973,78.7516307,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d326e4ea1637:0x7f95111169832313!8m2!3d23.8095973!4d78.7516307!16s%2Fg%2F11vq_6995v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Physiqure+CTN+hospital/@23.8095973,78.7516307,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d326e4ea1637:0x7f95111169832313!8m2!3d23.8095973!4d78.7516307!16s%2Fg%2F11vq_6995v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5461,8 +5416,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Physiqure+CTN+hospital/@23.8095973,78.7516307,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d326e4ea1637:0x7f95111169832313!8m2!3d23.8095973!4d78.7516307!16s%2Fg%2F11vq_6995v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rg-clinic-north-dumdum",
@@ -5510,7 +5464,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RG+CLINIC/@22.6634442,88.4299181,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89fedc767307b:0x6d92f71be264a172!8m2!3d22.6634442!4d88.4299181!16s%2Fg%2F11sv3093vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RG+CLINIC/@22.6634442,88.4299181,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89fedc767307b:0x6d92f71be264a172!8m2!3d22.6634442!4d88.4299181!16s%2Fg%2F11sv3093vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5576,11 +5530,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RG+CLINIC/@22.6634442,88.4299181,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89fedc767307b:0x6d92f71be264a172!8m2!3d22.6634442!4d88.4299181!16s%2Fg%2F11sv3093vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rg-stone-hospital-kolkata",
@@ -5629,7 +5582,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RG+Stone+Hospital/data=!4m7!3m6!1s0x3a02712b8a210669:0x6cb3e3a0303c060e!8m2!3d22.5058237!4d88.3674163!16s%2Fg%2F1hm2q1zlc!19sChIJaQYhiitxAjoRDgY8MKDjs2w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RG+Stone+Hospital/data=!4m7!3m6!1s0x3a02712b8a210669:0x6cb3e3a0303c060e!8m2!3d22.5058237!4d88.3674163!16s%2Fg%2F1hm2q1zlc!19sChIJaQYhiitxAjoRDgY8MKDjs2w?authuser=0&hl=en&rclk=1"
@@ -5698,8 +5651,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RG+Stone+Hospital/data=!4m7!3m6!1s0x3a02712b8a210669:0x6cb3e3a0303c060e!8m2!3d22.5058237!4d88.3674163!16s%2Fg%2F1hm2q1zlc!19sChIJaQYhiitxAjoRDgY8MKDjs2w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rhinoplasty-gynaecomastia-hair-transplant-liposuction-botox-fillers-breast-and-other-cosmetic-surgery-south-dumdum",
@@ -5745,7 +5697,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/rhinoplasty,+gynaecomastia,hair+transplant,liposuction,+Botox,+fillers,+breast+and+other+cosmetic+surgery/@22.6012635,88.4075136,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02751a8ee66ab1:0xcb28067c8be1327c!8m2!3d22.6012635!4d88.4075136!16s%2Fg%2F11sfg9yqbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/rhinoplasty,+gynaecomastia,hair+transplant,liposuction,+Botox,+fillers,+breast+and+other+cosmetic+surgery/@22.6012635,88.4075136,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02751a8ee66ab1:0xcb28067c8be1327c!8m2!3d22.6012635!4d88.4075136!16s%2Fg%2F11sfg9yqbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5811,11 +5763,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/rhinoplasty,+gynaecomastia,hair+transplant,liposuction,+Botox,+fillers,+breast+and+other+cosmetic+surgery/@22.6012635,88.4075136,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02751a8ee66ab1:0xcb28067c8be1327c!8m2!3d22.6012635!4d88.4075136!16s%2Fg%2F11sfg9yqbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sagar-dutta-hospital-sagar",
@@ -5864,7 +5815,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sagar+Dutta+Hospital/@22.589168,88.9028263,14z/data=!3m1!4b1!4m6!3m5!1s0x39f89d3e6b8a4fff:0x9570ef0c5fdaeccb!8m2!3d22.589168!4d88.9028263!16s%2Fg%2F11mv3rr25c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sagar+Dutta+Hospital/@22.589168,88.9028263,14z/data=!3m1!4b1!4m6!3m5!1s0x39f89d3e6b8a4fff:0x9570ef0c5fdaeccb!8m2!3d22.589168!4d88.9028263!16s%2Fg%2F11mv3rr25c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5933,8 +5884,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sagar+Dutta+Hospital/@22.589168,88.9028263,14z/data=!3m1!4b1!4m6!3m5!1s0x39f89d3e6b8a4fff:0x9570ef0c5fdaeccb!8m2!3d22.589168!4d88.9028263!16s%2Fg%2F11mv3rr25c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sagar-heart-care-center-sagar",
@@ -5983,7 +5933,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sagar+Heart+Care+Center/data=!4m7!3m6!1s0x3978d3fe1d982995:0xd9558c3c1d685406!8m2!3d23.8257036!4d78.7523523!16s%2Fg%2F1pxwj6p_v!19sChIJlSmYHf7TeDkRBlRoHTyMVdk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sagar+Heart+Care+Center/data=!4m7!3m6!1s0x3978d3fe1d982995:0xd9558c3c1d685406!8m2!3d23.8257036!4d78.7523523!16s%2Fg%2F1pxwj6p_v!19sChIJlSmYHf7TeDkRBlRoHTyMVdk?authuser=0&hl=en&rclk=1"
@@ -6052,8 +6002,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sagar+Heart+Care+Center/data=!4m7!3m6!1s0x3978d3fe1d982995:0xd9558c3c1d685406!8m2!3d23.8257036!4d78.7523523!16s%2Fg%2F1pxwj6p_v!19sChIJlSmYHf7TeDkRBlRoHTyMVdk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sagar-prasutika-grah-katri",
@@ -6101,7 +6050,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sagar+Prasutika+Grah/@23.8405397,78.741421,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6b165000049:0xf337b9c8a9b8360f!8m2!3d23.8405397!4d78.741421!16s%2Fg%2F1hjhgs550?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sagar+Prasutika+Grah/@23.8405397,78.741421,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6b165000049:0xf337b9c8a9b8360f!8m2!3d23.8405397!4d78.741421!16s%2Fg%2F1hjhgs550?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6170,8 +6119,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sagar+Prasutika+Grah/@23.8405397,78.741421,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6b165000049:0xf337b9c8a9b8360f!8m2!3d23.8405397!4d78.741421!16s%2Fg%2F1hjhgs550?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sagarika-clinic-kolkata",
@@ -6217,7 +6165,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sagarika+Clinic/@22.6028921,88.3894769,15z/data=!3m1!4b1!4m6!3m5!1s0x3a02761affffffff:0x6ebf47298d838972!8m2!3d22.6028921!4d88.3894769!16s%2Fg%2F1tj2lwnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sagarika+Clinic/@22.6028921,88.3894769,15z/data=!3m1!4b1!4m6!3m5!1s0x3a02761affffffff:0x6ebf47298d838972!8m2!3d22.6028921!4d88.3894769!16s%2Fg%2F1tj2lwnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6283,11 +6231,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sagarika+Clinic/@22.6028921,88.3894769,15z/data=!3m1!4b1!4m6!3m5!1s0x3a02761affffffff:0x6ebf47298d838972!8m2!3d22.6028921!4d88.3894769!16s%2Fg%2F1tj2lwnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sagarika-fertility-clinic-hasanpur",
@@ -6336,7 +6283,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAGARIKA+FERTILITY+CLINIC/@22.4168818,88.5028399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02132ee0d0fda9:0xdd9dbe149241bbe9!8m2!3d22.4168818!4d88.5028399!16s%2Fg%2F11v15d6x2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAGARIKA+FERTILITY+CLINIC/@22.4168818,88.5028399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02132ee0d0fda9:0xdd9dbe149241bbe9!8m2!3d22.4168818!4d88.5028399!16s%2Fg%2F11v15d6x2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6405,8 +6352,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAGARIKA+FERTILITY+CLINIC/@22.4168818,88.5028399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02132ee0d0fda9:0xdd9dbe149241bbe9!8m2!3d22.4168818!4d88.5028399!16s%2Fg%2F11v15d6x2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevani-diabetes-and-heart-care-centre-sagar",
@@ -6456,7 +6402,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevani+Diabetes+%26+Heart+care+Centre/@23.833126,78.737354,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6af7402f40f:0xde08346483e6b7b8!8m2!3d23.833126!4d78.737354!16s%2Fg%2F11b76d7m8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Diabetes+%26+Heart+care+Centre/@23.833126,78.737354,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6af7402f40f:0xde08346483e6b7b8!8m2!3d23.833126!4d78.737354!16s%2Fg%2F11b76d7m8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6525,8 +6471,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevani+Diabetes+%26+Heart+care+Centre/@23.833126,78.737354,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d6af7402f40f:0xde08346483e6b7b8!8m2!3d23.833126!4d78.737354!16s%2Fg%2F11b76d7m8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarala-surgical-clinic-nursing-home-sagar",
@@ -6576,7 +6521,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SARALA+SURGICAL+CLINIC,+NURSING+HOME./@22.6501231,88.3655239,15z/data=!3m1!4b1!4m6!3m5!1s0x3a02765321b3ac7b:0x17bf99ce80245f9e!8m2!3d22.6501231!4d88.365524!16s%2Fg%2F1tjcmwbq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SARALA+SURGICAL+CLINIC,+NURSING+HOME./@22.6501231,88.3655239,15z/data=!3m1!4b1!4m6!3m5!1s0x3a02765321b3ac7b:0x17bf99ce80245f9e!8m2!3d22.6501231!4d88.365524!16s%2Fg%2F1tjcmwbq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6645,8 +6590,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SARALA+SURGICAL+CLINIC,+NURSING+HOME./@22.6501231,88.3655239,15z/data=!3m1!4b1!4m6!3m5!1s0x3a02765321b3ac7b:0x17bf99ce80245f9e!8m2!3d22.6501231!4d88.365524!16s%2Fg%2F1tjcmwbq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "seva-hospital-makroniya",
@@ -6694,7 +6638,7 @@
     "metrics": [
       "Google rating 2.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Seva+Hospital/@23.8525157,78.7881678,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d10b4f12797d:0xfcc7db956556dd0b!8m2!3d23.8525157!4d78.7881678!16s%2Fg%2F11bzt7k_tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seva+Hospital/@23.8525157,78.7881678,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d10b4f12797d:0xfcc7db956556dd0b!8m2!3d23.8525157!4d78.7881678!16s%2Fg%2F11bzt7k_tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6763,8 +6707,7 @@
     "rating": 2.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Seva+Hospital/@23.8525157,78.7881678,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d10b4f12797d:0xfcc7db956556dd0b!8m2!3d23.8525157!4d78.7881678!16s%2Fg%2F11bzt7k_tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiv-sagar-hospital-sagar",
@@ -6812,7 +6755,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiv+Sagar+Hospital/@23.8171253,78.7557936,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fa54a23da9:0xcf24753a5248fd29!8m2!3d23.8171253!4d78.7557936!16s%2Fg%2F11gzwqhgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Sagar+Hospital/@23.8171253,78.7557936,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fa54a23da9:0xcf24753a5248fd29!8m2!3d23.8171253!4d78.7557936!16s%2Fg%2F11gzwqhgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6878,11 +6821,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiv+Sagar+Hospital/@23.8171253,78.7557936,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fa54a23da9:0xcf24753a5248fd29!8m2!3d23.8171253!4d78.7557936!16s%2Fg%2F11gzwqhgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-laxmi-narayan-hospital-sagar",
@@ -6931,7 +6873,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Laxmi+Narayan+Hospital/@23.8021574,78.7971979,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fab980adf3:0xca6a9646f3e1628!8m2!3d23.8021574!4d78.7971979!16s%2Fg%2F11k_wl1czt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Laxmi+Narayan+Hospital/@23.8021574,78.7971979,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fab980adf3:0xca6a9646f3e1628!8m2!3d23.8021574!4d78.7971979!16s%2Fg%2F11k_wl1czt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7000,8 +6942,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Laxmi+Narayan+Hospital/@23.8021574,78.7971979,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fab980adf3:0xca6a9646f3e1628!8m2!3d23.8021574!4d78.7971979!16s%2Fg%2F11k_wl1czt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-and-implant-centre-baranagar",
@@ -7050,7 +6991,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Dental+%26+Implant+Centre/@22.6527071,88.3787223,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89db695e602f3:0x846b9203fb92e99b!8m2!3d22.6527071!4d88.3787223!16s%2Fg%2F11g86nc566?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental+%26+Implant+Centre/@22.6527071,88.3787223,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89db695e602f3:0x846b9203fb92e99b!8m2!3d22.6527071!4d88.3787223!16s%2Fg%2F11g86nc566?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7119,8 +7060,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Dental+%26+Implant+Centre/@22.6527071,88.3787223,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89db695e602f3:0x846b9203fb92e99b!8m2!3d22.6527071!4d88.3787223!16s%2Fg%2F11g86nc566?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-paras-fracture-and-general-hospital-sagar",
@@ -7168,7 +7108,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Paras+Fracture+And+General+Hospital/@23.815166,78.7560169,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fa62fc984f:0x5effdc2d1b9d3118!8m2!3d23.815166!4d78.7560169!16s%2Fg%2F11c51w15rb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Paras+Fracture+And+General+Hospital/@23.815166,78.7560169,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fa62fc984f:0x5effdc2d1b9d3118!8m2!3d23.815166!4d78.7560169!16s%2Fg%2F11c51w15rb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7237,8 +7177,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Paras+Fracture+And+General+Hospital/@23.815166,78.7560169,17z/data=!3m1!4b1!4m6!3m5!1s0x3978d3fa62fc984f:0x5effdc2d1b9d3118!8m2!3d23.815166!4d78.7560169!16s%2Fg%2F11c51w15rb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surgident-oral-and-maxillofacial-dental-clinic-and-implant-centre-kolkata",
@@ -7288,7 +7227,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7357,8 +7296,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -7408,7 +7346,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7474,11 +7412,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "zoe-aesthetic-laser-skin-and-hair-clinic-kolkata",
@@ -7528,7 +7465,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Zoe+Aesthetic+Laser+Skin+%26+Hair+Clinic/@22.4898571,88.3958917,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02718815bdeedf:0x866760d2a9a7ab5a!8m2!3d22.4898571!4d88.3958917!16s%2Fg%2F11sz3qslc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zoe+Aesthetic+Laser+Skin+%26+Hair+Clinic/@22.4898571,88.3958917,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02718815bdeedf:0x866760d2a9a7ab5a!8m2!3d22.4898571!4d88.3958917!16s%2Fg%2F11sz3qslc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7597,7 +7534,6 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Zoe+Aesthetic+Laser+Skin+%26+Hair+Clinic/@22.4898571,88.3958917,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02718815bdeedf:0x866760d2a9a7ab5a!8m2!3d22.4898571!4d88.3958917!16s%2Fg%2F11sz3qslc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

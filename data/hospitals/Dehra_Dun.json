@@ -46,7 +46,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/32+Gems+Dental+Care/@30.303938,78.0117249,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a2eed8f9b5d:0xcabdda0aa02d8a71!8m2!3d30.303938!4d78.0117249!16s%2Fg%2F1ptxg2swp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+Gems+Dental+Care/@30.303938,78.0117249,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a2eed8f9b5d:0xcabdda0aa02d8a71!8m2!3d30.303938!4d78.0117249!16s%2Fg%2F1ptxg2swp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -115,8 +115,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/32+Gems+Dental+Care/@30.303938,78.0117249,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a2eed8f9b5d:0xcabdda0aa02d8a71!8m2!3d30.303938!4d78.0117249!16s%2Fg%2F1ptxg2swp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "32-tooth-zone-dental-clinic-dr-maj-nitin-agarwal-dehradun",
@@ -165,7 +164,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/32+Tooth+Zone:+Dental+Clinic,+Dr%28Maj%29+Nitin+Agarwal/data=!4m7!3m6!1s0x390929dc042dc6cb:0x6702380123b18a61!8m2!3d30.3394081!4d78.048879!16s%2Fg%2F11c603mw_3!19sChIJy8YtBNwpCTkRYYqxIwE4Amc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+Tooth+Zone:+Dental+Clinic,+Dr%28Maj%29+Nitin+Agarwal/data=!4m7!3m6!1s0x390929dc042dc6cb:0x6702380123b18a61!8m2!3d30.3394081!4d78.048879!16s%2Fg%2F11c603mw_3!19sChIJy8YtBNwpCTkRYYqxIwE4Amc?authuser=0&hl=en&rclk=1"
@@ -234,8 +233,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/32+Tooth+Zone:+Dental+Clinic,+Dr%28Maj%29+Nitin+Agarwal/data=!4m7!3m6!1s0x390929dc042dc6cb:0x6702380123b18a61!8m2!3d30.3394081!4d78.048879!16s%2Fg%2F11c603mw_3!19sChIJy8YtBNwpCTkRYYqxIwE4Amc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "32-whites-dental-clinic-dehradun",
@@ -284,7 +282,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/32+Whites+-+Dental+Clinic/data=!4m7!3m6!1s0x390929edd8a0bc09:0x3fb952b71d8d081b!8m2!3d30.3271414!4d78.0325145!16s%2Fg%2F1ptvwdgtm!19sChIJCbyg2O0pCTkRGwiNHbdSuT8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+Whites+-+Dental+Clinic/data=!4m7!3m6!1s0x390929edd8a0bc09:0x3fb952b71d8d081b!8m2!3d30.3271414!4d78.0325145!16s%2Fg%2F1ptvwdgtm!19sChIJCbyg2O0pCTkRGwiNHbdSuT8?authuser=0&hl=en&rclk=1"
@@ -350,11 +348,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/32+Whites+-+Dental+Clinic/data=!4m7!3m6!1s0x390929edd8a0bc09:0x3fb952b71d8d081b!8m2!3d30.3271414!4d78.0325145!16s%2Fg%2F1ptvwdgtm!19sChIJCbyg2O0pCTkRGwiNHbdSuT8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aesthetix-dental-clinic-implant-and-braces-centre-orthodontist-in-dehradun-specialist-in-ceramic-braces-and-retainers-dehradun",
@@ -404,7 +401,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aesthetix+Dental+Clinic,+Implant+%26+Braces+Centre.+Orthodontist+in+Dehradun.+Specialist+in+Ceramic+Braces+and+Retainers./@30.2989352,78.0441223,17z/data=!3m1!4b1!4m6!3m5!1s0x3909298fd40b85f9:0xc6e16a42c81b9635!8m2!3d30.2989352!4d78.0441223!16s%2Fg%2F11y5crtpwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aesthetix+Dental+Clinic,+Implant+%26+Braces+Centre.+Orthodontist+in+Dehradun.+Specialist+in+Ceramic+Braces+and+Retainers./@30.2989352,78.0441223,17z/data=!3m1!4b1!4m6!3m5!1s0x3909298fd40b85f9:0xc6e16a42c81b9635!8m2!3d30.2989352!4d78.0441223!16s%2Fg%2F11y5crtpwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -473,8 +470,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aesthetix+Dental+Clinic,+Implant+%26+Braces+Centre.+Orthodontist+in+Dehradun.+Specialist+in+Ceramic+Braces+and+Retainers./@30.2989352,78.0441223,17z/data=!3m1!4b1!4m6!3m5!1s0x3909298fd40b85f9:0xc6e16a42c81b9635!8m2!3d30.2989352!4d78.0441223!16s%2Fg%2F11y5crtpwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "agrawal-dental-clinic-dehradun",
@@ -523,7 +519,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AGRAWAL+DENTAL+CLINIC/@30.3270236,78.0353291,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ec1f5202b5:0xaaac061fd3b1d369!8m2!3d30.3270236!4d78.0353291!16s%2Fg%2F1tcxbl00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AGRAWAL+DENTAL+CLINIC/@30.3270236,78.0353291,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ec1f5202b5:0xaaac061fd3b1d369!8m2!3d30.3270236!4d78.0353291!16s%2Fg%2F1tcxbl00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -592,8 +588,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AGRAWAL+DENTAL+CLINIC/@30.3270236,78.0353291,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ec1f5202b5:0xaaac061fd3b1d369!8m2!3d30.3270236!4d78.0353291!16s%2Fg%2F1tcxbl00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "agrika-dental-clinic-dehradun",
@@ -642,7 +637,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Agrika+Dental+Clinic/@30.3246482,78.0564509,17z/data=!3m1!4b1!4m6!3m5!1s0x39092987f5c3f60d:0x78305695034ec6f1!8m2!3d30.3246482!4d78.0564509!16s%2Fg%2F11rcqkjnf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agrika+Dental+Clinic/@30.3246482,78.0564509,17z/data=!3m1!4b1!4m6!3m5!1s0x39092987f5c3f60d:0x78305695034ec6f1!8m2!3d30.3246482!4d78.0564509!16s%2Fg%2F11rcqkjnf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -708,11 +703,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Agrika+Dental+Clinic/@30.3246482,78.0564509,17z/data=!3m1!4b1!4m6!3m5!1s0x39092987f5c3f60d:0x78305695034ec6f1!8m2!3d30.3246482!4d78.0564509!16s%2Fg%2F11rcqkjnf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aimc-dental-care-and-implant-centre-adjacent-to-union-bank-of-india",
@@ -761,7 +755,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AIMC+Dental+Care+and+Implant+centre/@30.3168985,78.0473171,17z/data=!3m1!4b1!4m6!3m5!1s0x390929be25cabf91:0xa81a5ca0003df235!8m2!3d30.3168985!4d78.0473171!16s%2Fg%2F11f_flmw6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AIMC+Dental+Care+and+Implant+centre/@30.3168985,78.0473171,17z/data=!3m1!4b1!4m6!3m5!1s0x390929be25cabf91:0xa81a5ca0003df235!8m2!3d30.3168985!4d78.0473171!16s%2Fg%2F11f_flmw6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -830,8 +824,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AIMC+Dental+Care+and+Implant+centre/@30.3168985,78.0473171,17z/data=!3m1!4b1!4m6!3m5!1s0x390929be25cabf91:0xa81a5ca0003df235!8m2!3d30.3168985!4d78.0473171!16s%2Fg%2F11f_flmw6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "align-dental-clinic-dehradun",
@@ -880,7 +873,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Align+Dental+Clinic/@30.3017537,78.0522291,17z/data=!3m1!4b1!4m6!3m5!1s0x390929677337b64f:0x6cc0c21c33d8dc7c!8m2!3d30.3017537!4d78.0522291!16s%2Fg%2F11vk0y4pwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Align+Dental+Clinic/@30.3017537,78.0522291,17z/data=!3m1!4b1!4m6!3m5!1s0x390929677337b64f:0x6cc0c21c33d8dc7c!8m2!3d30.3017537!4d78.0522291!16s%2Fg%2F11vk0y4pwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -946,11 +939,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Align+Dental+Clinic/@30.3017537,78.0522291,17z/data=!3m1!4b1!4m6!3m5!1s0x390929677337b64f:0x6cc0c21c33d8dc7c!8m2!3d30.3017537!4d78.0522291!16s%2Fg%2F11vk0y4pwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "align-dental-dehradun",
@@ -998,7 +990,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Align%C3%A9+Dental/@30.3391494,78.052242,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bc9f59e179:0xb8dabbb5b950d174!8m2!3d30.3391494!4d78.052242!16s%2Fg%2F11y2j1s53h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Align%C3%A9+Dental/@30.3391494,78.052242,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bc9f59e179:0xb8dabbb5b950d174!8m2!3d30.3391494!4d78.052242!16s%2Fg%2F11y2j1s53h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1064,11 +1056,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Align%C3%A9+Dental/@30.3391494,78.052242,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bc9f59e179:0xb8dabbb5b950d174!8m2!3d30.3391494!4d78.052242!16s%2Fg%2F11y2j1s53h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ankur-dental-implant-and-maxillofacial-clinic-dehradun",
@@ -1117,7 +1108,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ankur+Dental,+Implant+%26+Maxillofacial+Clinic/@30.297374,78.0429029,17z/data=!3m1!4b1!4m6!3m5!1s0x3909290a952d0aa1:0x75d4e25eba9efec1!8m2!3d30.297374!4d78.0429029!16s%2Fg%2F11c5s9xxdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ankur+Dental,+Implant+%26+Maxillofacial+Clinic/@30.297374,78.0429029,17z/data=!3m1!4b1!4m6!3m5!1s0x3909290a952d0aa1:0x75d4e25eba9efec1!8m2!3d30.297374!4d78.0429029!16s%2Fg%2F11c5s9xxdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1186,8 +1177,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ankur+Dental,+Implant+%26+Maxillofacial+Clinic/@30.297374,78.0429029,17z/data=!3m1!4b1!4m6!3m5!1s0x3909290a952d0aa1:0x75d4e25eba9efec1!8m2!3d30.297374!4d78.0429029!16s%2Fg%2F11c5s9xxdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arihant-hospital-dehradun",
@@ -1236,7 +1226,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arihant+Hospital/@30.2918152,78.0598542,17z/data=!3m1!4b1!4m6!3m5!1s0x39092910d4878efb:0x510f676c6b12d8ac!8m2!3d30.2918152!4d78.0598542!16s%2Fg%2F11kp7x3dc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arihant+Hospital/@30.2918152,78.0598542,17z/data=!3m1!4b1!4m6!3m5!1s0x39092910d4878efb:0x510f676c6b12d8ac!8m2!3d30.2918152!4d78.0598542!16s%2Fg%2F11kp7x3dc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1305,8 +1295,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arihant+Hospital/@30.2918152,78.0598542,17z/data=!3m1!4b1!4m6!3m5!1s0x39092910d4878efb:0x510f676c6b12d8ac!8m2!3d30.2918152!4d78.0598542!16s%2Fg%2F11kp7x3dc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arora-surgicare-top-surgical-clinic-in-dehradun-dehradun",
@@ -1355,7 +1344,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arora+Surgicare+-+Top+Surgical+Clinic+in+Dehradun/@30.3109383,78.0092452,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a1b5a610f35:0x9df716c7ba0eb6c1!8m2!3d30.3109383!4d78.0092452!16s%2Fg%2F11f24x249c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arora+Surgicare+-+Top+Surgical+Clinic+in+Dehradun/@30.3109383,78.0092452,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a1b5a610f35:0x9df716c7ba0eb6c1!8m2!3d30.3109383!4d78.0092452!16s%2Fg%2F11f24x249c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1424,8 +1413,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arora+Surgicare+-+Top+Surgical+Clinic+in+Dehradun/@30.3109383,78.0092452,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a1b5a610f35:0x9df716c7ba0eb6c1!8m2!3d30.3109383!4d78.0092452!16s%2Fg%2F11f24x249c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirwad-hospital-dehradun",
@@ -1475,7 +1463,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashirwad+Hospital/@30.3329415,78.0086309,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a057704a631:0x671952eec9fa9118!8m2!3d30.3329415!4d78.0086309!16s%2Fg%2F1v_n9x5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirwad+Hospital/@30.3329415,78.0086309,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a057704a631:0x671952eec9fa9118!8m2!3d30.3329415!4d78.0086309!16s%2Fg%2F1v_n9x5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1544,8 +1532,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashirwad+Hospital/@30.3329415,78.0086309,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a057704a631:0x671952eec9fa9118!8m2!3d30.3329415!4d78.0086309!16s%2Fg%2F1v_n9x5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ayushmaan-dental-clinic-dehradun",
@@ -1593,7 +1580,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ayushmaan+Dental+Clinic/@30.3284494,78.0306906,17z/data=!3m1!4b1!4m6!3m5!1s0x390929f3d121baf9:0x489c7581150bb2ad!8m2!3d30.3284494!4d78.0306906!16s%2Fg%2F1ptwrp9xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayushmaan+Dental+Clinic/@30.3284494,78.0306906,17z/data=!3m1!4b1!4m6!3m5!1s0x390929f3d121baf9:0x489c7581150bb2ad!8m2!3d30.3284494!4d78.0306906!16s%2Fg%2F1ptwrp9xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1659,11 +1646,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ayushmaan+Dental+Clinic/@30.3284494,78.0306906,17z/data=!3m1!4b1!4m6!3m5!1s0x390929f3d121baf9:0x489c7581150bb2ad!8m2!3d30.3284494!4d78.0306906!16s%2Fg%2F1ptwrp9xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "baluni-hospital-dehradun",
@@ -1712,7 +1698,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Baluni+Hospital/@30.2891859,78.0679266,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bc64cd0651:0xe96f9f85cb746195!8m2!3d30.2891859!4d78.0679266!16s%2Fg%2F11t6yqqsl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Baluni+Hospital/@30.2891859,78.0679266,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bc64cd0651:0xe96f9f85cb746195!8m2!3d30.2891859!4d78.0679266!16s%2Fg%2F11t6yqqsl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1781,8 +1767,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Baluni+Hospital/@30.2891859,78.0679266,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bc64cd0651:0xe96f9f85cb746195!8m2!3d30.2891859!4d78.0679266!16s%2Fg%2F11t6yqqsl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bansal-dental-care-dehradun",
@@ -1831,7 +1816,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bansal+Dental+Care/@30.3165096,78.0268597,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ed4c42f185:0x154d1bcbb04caffb!8m2!3d30.3165096!4d78.0268597!16s%2Fg%2F1trpp4wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal+Dental+Care/@30.3165096,78.0268597,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ed4c42f185:0x154d1bcbb04caffb!8m2!3d30.3165096!4d78.0268597!16s%2Fg%2F1trpp4wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1900,8 +1885,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bansal+Dental+Care/@30.3165096,78.0268597,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ed4c42f185:0x154d1bcbb04caffb!8m2!3d30.3165096!4d78.0268597!16s%2Fg%2F1trpp4wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "beyond-smiles-dental-clinic-and-implant-centre-dehradun",
@@ -1950,7 +1934,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Beyond+Smiles,+Dental+Clinic+and+Implant+Centre/@30.3054938,78.0411042,17z/data=!3m1!4b1!4m6!3m5!1s0x39092998b640f611:0xe6334cb867ef52d0!8m2!3d30.3054938!4d78.0411042!16s%2Fg%2F1tfc4_5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Beyond+Smiles,+Dental+Clinic+and+Implant+Centre/@30.3054938,78.0411042,17z/data=!3m1!4b1!4m6!3m5!1s0x39092998b640f611:0xe6334cb867ef52d0!8m2!3d30.3054938!4d78.0411042!16s%2Fg%2F1tfc4_5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2019,8 +2003,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Beyond+Smiles,+Dental+Clinic+and+Implant+Centre/@30.3054938,78.0411042,17z/data=!3m1!4b1!4m6!3m5!1s0x39092998b640f611:0xe6334cb867ef52d0!8m2!3d30.3054938!4d78.0411042!16s%2Fg%2F1tfc4_5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bharat-heart-institute-dehradun",
@@ -2069,7 +2052,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bharat+Heart+Institute/@30.2888511,78.0090988,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0006fd00c1:0x863a0b3fd8509293!8m2!3d30.2888511!4d78.0090988!16s%2Fg%2F11yn2qs497?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharat+Heart+Institute/@30.2888511,78.0090988,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0006fd00c1:0x863a0b3fd8509293!8m2!3d30.2888511!4d78.0090988!16s%2Fg%2F11yn2qs497?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2138,8 +2121,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bharat+Heart+Institute/@30.2888511,78.0090988,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0006fd00c1:0x863a0b3fd8509293!8m2!3d30.2888511!4d78.0090988!16s%2Fg%2F11yn2qs497?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cementum-dental-care-dehradun",
@@ -2188,7 +2170,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CEMENTUM+DENTAL+CARE/@30.3344739,78.025418,17z/data=!3m1!4b1!4m6!3m5!1s0x390929158e5ee2d9:0x3fc6f0473190cae7!8m2!3d30.3344739!4d78.025418!16s%2Fg%2F11fn7sqg0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CEMENTUM+DENTAL+CARE/@30.3344739,78.025418,17z/data=!3m1!4b1!4m6!3m5!1s0x390929158e5ee2d9:0x3fc6f0473190cae7!8m2!3d30.3344739!4d78.025418!16s%2Fg%2F11fn7sqg0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2254,11 +2236,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CEMENTUM+DENTAL+CARE/@30.3344739,78.025418,17z/data=!3m1!4b1!4m6!3m5!1s0x390929158e5ee2d9:0x3fc6f0473190cae7!8m2!3d30.3344739!4d78.025418!16s%2Fg%2F11fn7sqg0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cmi-hospital-dehradun",
@@ -2307,7 +2288,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CMI+Hospital/@30.3123446,78.0477508,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bca6ae81df:0x8836014710cb01ae!8m2!3d30.3123446!4d78.0477508!16s%2Fg%2F11b7cgdmc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CMI+Hospital/@30.3123446,78.0477508,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bca6ae81df:0x8836014710cb01ae!8m2!3d30.3123446!4d78.0477508!16s%2Fg%2F11b7cgdmc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2376,8 +2357,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CMI+Hospital/@30.3123446,78.0477508,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bca6ae81df:0x8836014710cb01ae!8m2!3d30.3123446!4d78.0477508!16s%2Fg%2F11b7cgdmc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "coronation-hospital-dehradun",
@@ -2425,7 +2405,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Coronation+Hospital/@30.3207041,78.0574377,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b6f7e74bdf:0x7b1ca50c30dcf738!8m2!3d30.3207041!4d78.0574377!16s%2Fg%2F1pp2vgsmc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Coronation+Hospital/@30.3207041,78.0574377,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b6f7e74bdf:0x7b1ca50c30dcf738!8m2!3d30.3207041!4d78.0574377!16s%2Fg%2F1pp2vgsmc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2494,8 +2474,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Coronation+Hospital/@30.3207041,78.0574377,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b6f7e74bdf:0x7b1ca50c30dcf738!8m2!3d30.3207041!4d78.0574377!16s%2Fg%2F1pp2vgsmc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cure-dental-clinic-dehradun-dehradun",
@@ -2544,7 +2523,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CURE+DENTAL+CLINIC,+DEHRADUN/@30.3067546,78.0558697,17z/data=!3m1!4b1!4m6!3m5!1s0x39092998d74a1769:0x60e30c6dec75276d!8m2!3d30.3067546!4d78.0558697!16s%2Fg%2F11xkvltflr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CURE+DENTAL+CLINIC,+DEHRADUN/@30.3067546,78.0558697,17z/data=!3m1!4b1!4m6!3m5!1s0x39092998d74a1769:0x60e30c6dec75276d!8m2!3d30.3067546!4d78.0558697!16s%2Fg%2F11xkvltflr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2610,11 +2589,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CURE+DENTAL+CLINIC,+DEHRADUN/@30.3067546,78.0558697,17z/data=!3m1!4b1!4m6!3m5!1s0x39092998d74a1769:0x60e30c6dec75276d!8m2!3d30.3067546!4d78.0558697!16s%2Fg%2F11xkvltflr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dangwal-dental-dehradun",
@@ -2663,7 +2641,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dangwal+Dental/@30.3340341,78.0111102,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a05ad383b2b:0x6847484ddf50f7b3!8m2!3d30.3340341!4d78.0111102!16s%2Fg%2F11tcxvx60r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dangwal+Dental/@30.3340341,78.0111102,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a05ad383b2b:0x6847484ddf50f7b3!8m2!3d30.3340341!4d78.0111102!16s%2Fg%2F11tcxvx60r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2729,11 +2707,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dangwal+Dental/@30.3340341,78.0111102,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a05ad383b2b:0x6847484ddf50f7b3!8m2!3d30.3340341!4d78.0111102!16s%2Fg%2F11tcxvx60r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dantkala-premium-dental-care-dehradun",
@@ -2782,7 +2759,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DANTKALA+PREMIUM+DENTAL+CARE/data=!4m7!3m6!1s0x39092995c0de0af3:0x17e1aade3a99e354!8m2!3d30.3145028!4d78.0466562!16s%2Fg%2F11xn4gprn2!19sChIJ8wrewJUpCTkRVOOZOt6q4Rc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DANTKALA+PREMIUM+DENTAL+CARE/data=!4m7!3m6!1s0x39092995c0de0af3:0x17e1aade3a99e354!8m2!3d30.3145028!4d78.0466562!16s%2Fg%2F11xn4gprn2!19sChIJ8wrewJUpCTkRVOOZOt6q4Rc?authuser=0&hl=en&rclk=1"
@@ -2851,8 +2828,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DANTKALA+PREMIUM+DENTAL+CARE/data=!4m7!3m6!1s0x39092995c0de0af3:0x17e1aade3a99e354!8m2!3d30.3145028!4d78.0466562!16s%2Fg%2F11xn4gprn2!19sChIJ8wrewJUpCTkRVOOZOt6q4Rc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dent-fit-dental-care-and-implant-centre-dehradun",
@@ -2902,7 +2878,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DENT+FIT+DENTAL+CARE+AND+IMPLANT+CENTRE/@30.3323709,78.0105414,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bb31c23469d:0x1c70d6871e587879!8m2!3d30.3323709!4d78.0105414!16s%2Fg%2F11t4x_7zfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENT+FIT+DENTAL+CARE+AND+IMPLANT+CENTRE/@30.3323709,78.0105414,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bb31c23469d:0x1c70d6871e587879!8m2!3d30.3323709!4d78.0105414!16s%2Fg%2F11t4x_7zfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2968,11 +2944,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DENT+FIT+DENTAL+CARE+AND+IMPLANT+CENTRE/@30.3323709,78.0105414,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bb31c23469d:0x1c70d6871e587879!8m2!3d30.3323709!4d78.0105414!16s%2Fg%2F11t4x_7zfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-360-dehradun",
@@ -3020,7 +2995,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+360%C2%B0/@30.2963609,78.0605768,17z/data=!3m1!4b1!4m6!3m5!1s0x39092919e4191089:0x7db50b1b03b52605!8m2!3d30.2963609!4d78.0605768!16s%2Fg%2F11qnkj9sd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+360%C2%B0/@30.2963609,78.0605768,17z/data=!3m1!4b1!4m6!3m5!1s0x39092919e4191089:0x7db50b1b03b52605!8m2!3d30.2963609!4d78.0605768!16s%2Fg%2F11qnkj9sd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3089,8 +3064,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+360%C2%B0/@30.2963609,78.0605768,17z/data=!3m1!4b1!4m6!3m5!1s0x39092919e4191089:0x7db50b1b03b52605!8m2!3d30.2963609!4d78.0605768!16s%2Fg%2F11qnkj9sd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-avenue-laser-and-implant-centre-dehradun",
@@ -3138,7 +3112,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DENTAL+AVENUE+LASER+%26+IMPLANT+CENTRE/@30.3056179,78.000581,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0c6fb62c57:0x461eb7fba75158b9!8m2!3d30.3056179!4d78.000581!16s%2Fg%2F11tdqv8xl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTAL+AVENUE+LASER+%26+IMPLANT+CENTRE/@30.3056179,78.000581,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0c6fb62c57:0x461eb7fba75158b9!8m2!3d30.3056179!4d78.000581!16s%2Fg%2F11tdqv8xl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3207,8 +3181,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DENTAL+AVENUE+LASER+%26+IMPLANT+CENTRE/@30.3056179,78.000581,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0c6fb62c57:0x461eb7fba75158b9!8m2!3d30.3056179!4d78.000581!16s%2Fg%2F11tdqv8xl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-care-centre-dehradun",
@@ -3257,7 +3230,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Care+Centre/@30.3226557,78.041698,17z/data=!3m1!4b1!4m6!3m5!1s0x39092962eba44b71:0x500df7522bbf63d5!8m2!3d30.3226557!4d78.041698!16s%2Fg%2F11gxx64d2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Care+Centre/@30.3226557,78.041698,17z/data=!3m1!4b1!4m6!3m5!1s0x39092962eba44b71:0x500df7522bbf63d5!8m2!3d30.3226557!4d78.041698!16s%2Fg%2F11gxx64d2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3326,8 +3299,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Care+Centre/@30.3226557,78.041698,17z/data=!3m1!4b1!4m6!3m5!1s0x39092962eba44b71:0x500df7522bbf63d5!8m2!3d30.3226557!4d78.041698!16s%2Fg%2F11gxx64d2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-impression-dehradun",
@@ -3376,7 +3348,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Impression/@30.3170232,78.0380148,17z/data=!3m1!4b1!4m6!3m5!1s0x3909299425294a4b:0x39c1ecd6860d50e4!8m2!3d30.3170232!4d78.0380148!16s%2Fg%2F11g_5kmk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Impression/@30.3170232,78.0380148,17z/data=!3m1!4b1!4m6!3m5!1s0x3909299425294a4b:0x39c1ecd6860d50e4!8m2!3d30.3170232!4d78.0380148!16s%2Fg%2F11g_5kmk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3445,8 +3417,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Impression/@30.3170232,78.0380148,17z/data=!3m1!4b1!4m6!3m5!1s0x3909299425294a4b:0x39c1ecd6860d50e4!8m2!3d30.3170232!4d78.0380148!16s%2Fg%2F11g_5kmk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentara-best-dentist-in-dehradun-braces-implants-dental-clinic-rct-clinical-cosmetologist-dehradun",
@@ -3495,7 +3466,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dentara+-+Best+Dentist+in+Dehradun+%7C+Braces+%7C+Implants+%7C+Dental+Clinic+%7C+RCT+%7C+Clinical+Cosmetologist/@30.3172389,78.040235,17z/data=!3m1!4b1!4m6!3m5!1s0x390929be7e541a81:0xdf39211ac9f509!8m2!3d30.3172389!4d78.040235!16s%2Fg%2F11ts11gnkq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentara+-+Best+Dentist+in+Dehradun+%7C+Braces+%7C+Implants+%7C+Dental+Clinic+%7C+RCT+%7C+Clinical+Cosmetologist/@30.3172389,78.040235,17z/data=!3m1!4b1!4m6!3m5!1s0x390929be7e541a81:0xdf39211ac9f509!8m2!3d30.3172389!4d78.040235!16s%2Fg%2F11ts11gnkq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3564,8 +3535,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dentara+-+Best+Dentist+in+Dehradun+%7C+Braces+%7C+Implants+%7C+Dental+Clinic+%7C+RCT+%7C+Clinical+Cosmetologist/@30.3172389,78.040235,17z/data=!3m1!4b1!4m6!3m5!1s0x390929be7e541a81:0xdf39211ac9f509!8m2!3d30.3172389!4d78.040235!16s%2Fg%2F11ts11gnkq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "doon-family-dental-clinic-dehradun",
@@ -3614,7 +3584,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Doon+Family+Dental+Clinic/@30.3112485,78.0482409,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a4aa431769:0x3fed8955c1336e80!8m2!3d30.3112485!4d78.0482409!16s%2Fg%2F11cnbm0k9j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Doon+Family+Dental+Clinic/@30.3112485,78.0482409,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a4aa431769:0x3fed8955c1336e80!8m2!3d30.3112485!4d78.0482409!16s%2Fg%2F11cnbm0k9j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3683,8 +3653,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Doon+Family+Dental+Clinic/@30.3112485,78.0482409,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a4aa431769:0x3fed8955c1336e80!8m2!3d30.3112485!4d78.0482409!16s%2Fg%2F11cnbm0k9j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "doon-public-hospital-mohkam-pur-kala",
@@ -3733,7 +3702,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Doon+Public+Hospital/@30.2713371,78.080722,17z/data=!3m1!4b1!4m6!3m5!1s0x390929798003493d:0x2ce1ad59f6d59d63!8m2!3d30.2713371!4d78.080722!16s%2Fg%2F11f6dq4l92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Doon+Public+Hospital/@30.2713371,78.080722,17z/data=!3m1!4b1!4m6!3m5!1s0x390929798003493d:0x2ce1ad59f6d59d63!8m2!3d30.2713371!4d78.080722!16s%2Fg%2F11f6dq4l92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3802,8 +3771,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Doon+Public+Hospital/@30.2713371,78.080722,17z/data=!3m1!4b1!4m6!3m5!1s0x390929798003493d:0x2ce1ad59f6d59d63!8m2!3d30.2713371!4d78.080722!16s%2Fg%2F11f6dq4l92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "doon-smiles-dental-care-and-implant-centre-dehradun",
@@ -3851,7 +3819,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Doon+Smiles+Dental+Care+and+Implant+Centre/@30.3236845,78.0133288,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b000fec3383:0x18de57f7e12bb97!8m2!3d30.3236845!4d78.0133288!16s%2Fg%2F11x602n588?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Doon+Smiles+Dental+Care+and+Implant+Centre/@30.3236845,78.0133288,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b000fec3383:0x18de57f7e12bb97!8m2!3d30.3236845!4d78.0133288!16s%2Fg%2F11x602n588?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3920,8 +3888,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Doon+Smiles+Dental+Care+and+Implant+Centre/@30.3236845,78.0133288,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b000fec3383:0x18de57f7e12bb97!8m2!3d30.3236845!4d78.0133288!16s%2Fg%2F11x602n588?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dwarka-clinics-dehradun",
@@ -3970,7 +3937,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dwarka+Clinics/@30.3121117,78.0458837,17z/data=!3m1!4b1!4m6!3m5!1s0x3909293348b6c61f:0xae8662ee68e4a4cb!8m2!3d30.3121117!4d78.0458837!16s%2Fg%2F11hzm4wf4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dwarka+Clinics/@30.3121117,78.0458837,17z/data=!3m1!4b1!4m6!3m5!1s0x3909293348b6c61f:0xae8662ee68e4a4cb!8m2!3d30.3121117!4d78.0458837!16s%2Fg%2F11hzm4wf4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4039,8 +4006,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dwarka+Clinics/@30.3121117,78.0458837,17z/data=!3m1!4b1!4m6!3m5!1s0x3909293348b6c61f:0xae8662ee68e4a4cb!8m2!3d30.3121117!4d78.0458837!16s%2Fg%2F11hzm4wf4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "face-mile-the-dentofacial-clinic-best-dental-maxillofacial-implantology-oral-surgery-clinic-in-dehradun-dehradun",
@@ -4090,7 +4056,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Face+Mile+The+Dentofacial+Clinic-+Best+Dental+%7C+Maxillofacial+%7C+Implantology+%7C+Oral+Surgery+Clinic+in+Dehradun/@30.3083028,78.0490968,17z/data=!3m1!4b1!4m6!3m5!1s0x39092999e77d349f:0xa1c8a5e9788eb14e!8m2!3d30.3083028!4d78.0490968!16s%2Fg%2F11j26_90mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Face+Mile+The+Dentofacial+Clinic-+Best+Dental+%7C+Maxillofacial+%7C+Implantology+%7C+Oral+Surgery+Clinic+in+Dehradun/@30.3083028,78.0490968,17z/data=!3m1!4b1!4m6!3m5!1s0x39092999e77d349f:0xa1c8a5e9788eb14e!8m2!3d30.3083028!4d78.0490968!16s%2Fg%2F11j26_90mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4156,11 +4122,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Face+Mile+The+Dentofacial+Clinic-+Best+Dental+%7C+Maxillofacial+%7C+Implantology+%7C+Oral+Surgery+Clinic+in+Dehradun/@30.3083028,78.0490968,17z/data=!3m1!4b1!4m6!3m5!1s0x39092999e77d349f:0xa1c8a5e9788eb14e!8m2!3d30.3083028!4d78.0490968!16s%2Fg%2F11j26_90mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "first-smile-family-dental-clinic-dehradun",
@@ -4209,7 +4174,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/First+Smile+Family+Dental+Clinic/@30.3485405,78.0762559,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cdd4dc3d2b:0xff7f4a98c89fab73!8m2!3d30.3485405!4d78.0762559!16s%2Fg%2F11qj71bq96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/First+Smile+Family+Dental+Clinic/@30.3485405,78.0762559,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cdd4dc3d2b:0xff7f4a98c89fab73!8m2!3d30.3485405!4d78.0762559!16s%2Fg%2F11qj71bq96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4278,8 +4243,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/First+Smile+Family+Dental+Clinic/@30.3485405,78.0762559,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cdd4dc3d2b:0xff7f4a98c89fab73!8m2!3d30.3485405!4d78.0762559!16s%2Fg%2F11qj71bq96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fortis-escorts-hospital-dehradun",
@@ -4328,7 +4292,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fortis+Escorts+Hospital/@30.3206928,78.0576317,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b65632ccad:0xfd495f0b3dcf32ef!8m2!3d30.3206928!4d78.0576317!16s%2Fg%2F1hc3_9py4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fortis+Escorts+Hospital/@30.3206928,78.0576317,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b65632ccad:0xfd495f0b3dcf32ef!8m2!3d30.3206928!4d78.0576317!16s%2Fg%2F1hc3_9py4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4397,8 +4361,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fortis+Escorts+Hospital/@30.3206928,78.0576317,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b65632ccad:0xfd495f0b3dcf32ef!8m2!3d30.3206928!4d78.0576317!16s%2Fg%2F1hc3_9py4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "garg-ent-dental-tmj-and-vertigo-clinic-best-ent-specialist-best-dentist-tmj-pain-rct-treatment-vertigo-treatment-dehradun",
@@ -4448,7 +4411,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Garg+ENT,+Dental+,TMJ+%26+Vertigo+Clinic%E2%80%94Best+ENT+specialist+%2FBest+Dentist%2FTMJ+Pain%2FRCT+Treatment%2F+Vertigo+Treatment/@30.3333777,78.0259925,17z/data=!3m1!4b1!4m6!3m5!1s0x390929fa78d0aa9b:0x33a558d45b6815ad!8m2!3d30.3333777!4d78.0259925!16s%2Fg%2F1ptzvn3sn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Garg+ENT,+Dental+,TMJ+%26+Vertigo+Clinic%E2%80%94Best+ENT+specialist+%2FBest+Dentist%2FTMJ+Pain%2FRCT+Treatment%2F+Vertigo+Treatment/@30.3333777,78.0259925,17z/data=!3m1!4b1!4m6!3m5!1s0x390929fa78d0aa9b:0x33a558d45b6815ad!8m2!3d30.3333777!4d78.0259925!16s%2Fg%2F1ptzvn3sn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4517,8 +4480,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Garg+ENT,+Dental+,TMJ+%26+Vertigo+Clinic%E2%80%94Best+ENT+specialist+%2FBest+Dentist%2FTMJ+Pain%2FRCT+Treatment%2F+Vertigo+Treatment/@30.3333777,78.0259925,17z/data=!3m1!4b1!4m6!3m5!1s0x390929fa78d0aa9b:0x33a558d45b6815ad!8m2!3d30.3333777!4d78.0259925!16s%2Fg%2F1ptzvn3sn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ghanshala-polyclinic-dehradun",
@@ -4568,7 +4530,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ghanshala+Polyclinic/@30.3336953,78.012042,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a04f66b07ab:0x15bf6424f6951c5!8m2!3d30.3336953!4d78.012042!16s%2Fg%2F11hyn8n13j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ghanshala+Polyclinic/@30.3336953,78.012042,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a04f66b07ab:0x15bf6424f6951c5!8m2!3d30.3336953!4d78.012042!16s%2Fg%2F11hyn8n13j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4637,8 +4599,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ghanshala+Polyclinic/@30.3336953,78.012042,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a04f66b07ab:0x15bf6424f6951c5!8m2!3d30.3336953!4d78.012042!16s%2Fg%2F11hyn8n13j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gleam-premium-derma-clinic-dehradun",
@@ -4687,7 +4648,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gleam+Premium+Derma+clinic/@30.3315046,78.048318,17z/data=!3m1!4b1!4m6!3m5!1s0x390929787a15598d:0x8763a11c3961ca25!8m2!3d30.3315046!4d78.048318!16s%2Fg%2F11tp8k4k2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gleam+Premium+Derma+clinic/@30.3315046,78.048318,17z/data=!3m1!4b1!4m6!3m5!1s0x390929787a15598d:0x8763a11c3961ca25!8m2!3d30.3315046!4d78.048318!16s%2Fg%2F11tp8k4k2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4756,8 +4717,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gleam+Premium+Derma+clinic/@30.3315046,78.048318,17z/data=!3m1!4b1!4m6!3m5!1s0x390929787a15598d:0x8763a11c3961ca25!8m2!3d30.3315046!4d78.048318!16s%2Fg%2F11tp8k4k2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-doon-medical-college-hospital-dehradun",
@@ -4806,7 +4766,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+Doon+Medical+College+Hospital/@30.3196299,78.0421506,17z/data=!3m1!4b1!4m6!3m5!1s0x3909299586d37819:0x62078fdbe8bc3559!8m2!3d30.3196299!4d78.0421506!16s%2Fg%2F1tfpy6ts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Doon+Medical+College+Hospital/@30.3196299,78.0421506,17z/data=!3m1!4b1!4m6!3m5!1s0x3909299586d37819:0x62078fdbe8bc3559!8m2!3d30.3196299!4d78.0421506!16s%2Fg%2F1tfpy6ts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4872,11 +4832,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+Doon+Medical+College+Hospital/@30.3196299,78.0421506,17z/data=!3m1!4b1!4m6!3m5!1s0x3909299586d37819:0x62078fdbe8bc3559!8m2!3d30.3196299!4d78.0421506!16s%2Fg%2F1tfpy6ts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "happy-soul-dental-clinic-and-implant-centre-best-dental-clinic-in-dehradun-dehradun",
@@ -4924,7 +4883,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Happy+Soul+Dental+Clinic+and+Implant+Centre+%7C+Best+Dental+Clinic+in+Dehradun/@30.3286381,78.0313763,17z/data=!3m1!4b1!4m6!3m5!1s0x390929c60e4fe6b3:0xbab20613b3de6aa3!8m2!3d30.3286381!4d78.0313763!16s%2Fg%2F11mhgv1p41?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Happy+Soul+Dental+Clinic+and+Implant+Centre+%7C+Best+Dental+Clinic+in+Dehradun/@30.3286381,78.0313763,17z/data=!3m1!4b1!4m6!3m5!1s0x390929c60e4fe6b3:0xbab20613b3de6aa3!8m2!3d30.3286381!4d78.0313763!16s%2Fg%2F11mhgv1p41?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4990,11 +4949,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Happy+Soul+Dental+Clinic+and+Implant+Centre+%7C+Best+Dental+Clinic+in+Dehradun/@30.3286381,78.0313763,17z/data=!3m1!4b1!4m6!3m5!1s0x390929c60e4fe6b3:0xbab20613b3de6aa3!8m2!3d30.3286381!4d78.0313763!16s%2Fg%2F11mhgv1p41?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healing-touch-hospital-dehradun",
@@ -5043,7 +5001,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HEALING+TOUCH+HOSPITAL/@30.3287309,78.0659903,17z/data=!3m1!4b1!4m6!3m5!1s0x3909283529b7b5f7:0x12b827e09e2e707c!8m2!3d30.3287309!4d78.0659903!16s%2Fg%2F1hm382r7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HEALING+TOUCH+HOSPITAL/@30.3287309,78.0659903,17z/data=!3m1!4b1!4m6!3m5!1s0x3909283529b7b5f7:0x12b827e09e2e707c!8m2!3d30.3287309!4d78.0659903!16s%2Fg%2F1hm382r7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5112,8 +5070,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HEALING+TOUCH+HOSPITAL/@30.3287309,78.0659903,17z/data=!3m1!4b1!4m6!3m5!1s0x3909283529b7b5f7:0x12b827e09e2e707c!8m2!3d30.3287309!4d78.0659903!16s%2Fg%2F1hm382r7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "helping-hands-hospital-dehradun",
@@ -5162,7 +5119,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Helping+Hands+Hospital/@30.3638855,78.0837202,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7c396726fc9:0xee01a2fce722f693!8m2!3d30.3638855!4d78.0837202!16s%2Fg%2F11c71b9d10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Helping+Hands+Hospital/@30.3638855,78.0837202,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7c396726fc9:0xee01a2fce722f693!8m2!3d30.3638855!4d78.0837202!16s%2Fg%2F11c71b9d10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5231,8 +5188,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Helping+Hands+Hospital/@30.3638855,78.0837202,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7c396726fc9:0xee01a2fce722f693!8m2!3d30.3638855!4d78.0837202!16s%2Fg%2F11c71b9d10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "j-p-dental-clinic-and-implant-centre-best-dental-clinic-in-dehradun-dehradun",
@@ -5281,7 +5237,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/J.P+Dental+Clinic+%26+Implant+centre%7C+Best+Dental+clinic+in+Dehradun/@30.3337053,78.0143569,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bee2ea51167:0x99c05c51eb08b5fd!8m2!3d30.3337053!4d78.0143569!16s%2Fg%2F11j8wg8ggc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J.P+Dental+Clinic+%26+Implant+centre%7C+Best+Dental+clinic+in+Dehradun/@30.3337053,78.0143569,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bee2ea51167:0x99c05c51eb08b5fd!8m2!3d30.3337053!4d78.0143569!16s%2Fg%2F11j8wg8ggc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5350,8 +5306,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/J.P+Dental+Clinic+%26+Implant+centre%7C+Best+Dental+clinic+in+Dehradun/@30.3337053,78.0143569,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bee2ea51167:0x99c05c51eb08b5fd!8m2!3d30.3337053!4d78.0143569!16s%2Fg%2F11j8wg8ggc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jan-sevak-medical-centre-dehradun",
@@ -5400,7 +5355,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jan+Sevak+Medical+Centre/@30.2979336,77.9985296,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a3509590835:0xab753923f82a37a6!8m2!3d30.2979336!4d77.9985296!16s%2Fg%2F11g8_5qvmd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jan+Sevak+Medical+Centre/@30.2979336,77.9985296,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a3509590835:0xab753923f82a37a6!8m2!3d30.2979336!4d77.9985296!16s%2Fg%2F11g8_5qvmd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5469,8 +5424,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jan+Sevak+Medical+Centre/@30.2979336,77.9985296,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a3509590835:0xab753923f82a37a6!8m2!3d30.2979336!4d77.9985296!16s%2Fg%2F11g8_5qvmd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jaya-siddhartha-hospital-danda-khudanewala",
@@ -5519,7 +5473,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jaya+Siddhartha+Hospital/@30.3572717,78.0945581,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7980eacf26f:0x94deb569aab25b6d!8m2!3d30.3572717!4d78.0945581!16s%2Fg%2F11wv93v0q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaya+Siddhartha+Hospital/@30.3572717,78.0945581,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7980eacf26f:0x94deb569aab25b6d!8m2!3d30.3572717!4d78.0945581!16s%2Fg%2F11wv93v0q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5588,8 +5542,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jaya+Siddhartha+Hospital/@30.3572717,78.0945581,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7980eacf26f:0x94deb569aab25b6d!8m2!3d30.3572717!4d78.0945581!16s%2Fg%2F11wv93v0q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevanleela-dental-clinic-best-implants-smile-design-cosmetic-dentistry-braces-and-aligners-clinic-in-dehradun-dehradun",
@@ -5638,7 +5591,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevanleela+Dental+Clinic+-+Best+Implants,+Smile+Design,+Cosmetic+Dentistry,+Braces+%26+Aligners+clinic+in+Dehradun/@30.2998361,78.0549846,17z/data=!3m1!4b1!4m6!3m5!1s0x3909298459f7b405:0x5ba5b8773fe6cca3!8m2!3d30.2998361!4d78.0549846!16s%2Fg%2F11fph3spwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevanleela+Dental+Clinic+-+Best+Implants,+Smile+Design,+Cosmetic+Dentistry,+Braces+%26+Aligners+clinic+in+Dehradun/@30.2998361,78.0549846,17z/data=!3m1!4b1!4m6!3m5!1s0x3909298459f7b405:0x5ba5b8773fe6cca3!8m2!3d30.2998361!4d78.0549846!16s%2Fg%2F11fph3spwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5707,8 +5660,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevanleela+Dental+Clinic+-+Best+Implants,+Smile+Design,+Cosmetic+Dentistry,+Braces+%26+Aligners+clinic+in+Dehradun/@30.2998361,78.0549846,17z/data=!3m1!4b1!4m6!3m5!1s0x3909298459f7b405:0x5ba5b8773fe6cca3!8m2!3d30.2998361!4d78.0549846!16s%2Fg%2F11fph3spwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "johari-s-dental-care-and-maxillofacial-centre-dehradun",
@@ -5757,7 +5709,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Johari's+Dental+Care+and+Maxillofacial+Centre/@30.3259755,77.99259,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b5429b2c8ed:0x1e44e8ee4fcd3122!8m2!3d30.3259755!4d77.99259!16s%2Fg%2F11qq21vy40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Johari's+Dental+Care+and+Maxillofacial+Centre/@30.3259755,77.99259,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b5429b2c8ed:0x1e44e8ee4fcd3122!8m2!3d30.3259755!4d77.99259!16s%2Fg%2F11qq21vy40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5823,11 +5775,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Johari's+Dental+Care+and+Maxillofacial+Centre/@30.3259755,77.99259,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b5429b2c8ed:0x1e44e8ee4fcd3122!8m2!3d30.3259755!4d77.99259!16s%2Fg%2F11qq21vy40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jp-dental-clinic-and-implant-centre-branch-2-dehradun",
@@ -5875,7 +5826,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JP+Dental+Clinic+And+Implant+Centre+-+Branch+2/@30.3156943,77.9992291,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b12c52aa171:0x19dc1fefee2e7b9c!8m2!3d30.3156943!4d77.9992291!16s%2Fg%2F11x1qxs15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JP+Dental+Clinic+And+Implant+Centre+-+Branch+2/@30.3156943,77.9992291,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b12c52aa171:0x19dc1fefee2e7b9c!8m2!3d30.3156943!4d77.9992291!16s%2Fg%2F11x1qxs15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5941,11 +5892,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JP+Dental+Clinic+And+Implant+Centre+-+Branch+2/@30.3156943,77.9992291,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b12c52aa171:0x19dc1fefee2e7b9c!8m2!3d30.3156943!4d77.9992291!16s%2Fg%2F11x1qxs15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "k-k-dental-care-and-implant-centre-poly-clinic-best-dental-clinic-best-root-canal-dehradun",
@@ -5994,7 +5944,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/K+K+dental+care+and+implant+centre+poly+clinic+best+dental+clinic+best+root+canal/data=!4m7!3m6!1s0x3909284acb768fa9:0x21cc11d737e2e511!8m2!3d30.323788!4d78.0659329!16s%2Fg%2F1q65_239z!19sChIJqY92y0ooCTkREeXiN9cRzCE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K+K+dental+care+and+implant+centre+poly+clinic+best+dental+clinic+best+root+canal/data=!4m7!3m6!1s0x3909284acb768fa9:0x21cc11d737e2e511!8m2!3d30.323788!4d78.0659329!16s%2Fg%2F1q65_239z!19sChIJqY92y0ooCTkREeXiN9cRzCE?authuser=0&hl=en&rclk=1"
@@ -6063,8 +6013,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/K+K+dental+care+and+implant+centre+poly+clinic+best+dental+clinic+best+root+canal/data=!4m7!3m6!1s0x3909284acb768fa9:0x21cc11d737e2e511!8m2!3d30.323788!4d78.0659329!16s%2Fg%2F1q65_239z!19sChIJqY92y0ooCTkREeXiN9cRzCE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "k-and-g-dental-hub-dehradun",
@@ -6112,7 +6061,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/K%26G+dental+hub/@30.330445,78.0662097,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d727c6c4a3cd:0x84f21f722e8c8f37!8m2!3d30.330445!4d78.0662097!16s%2Fg%2F11nx61y65z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K%26G+dental+hub/@30.330445,78.0662097,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d727c6c4a3cd:0x84f21f722e8c8f37!8m2!3d30.330445!4d78.0662097!16s%2Fg%2F11nx61y65z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6181,8 +6130,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/K%26G+dental+hub/@30.330445,78.0662097,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d727c6c4a3cd:0x84f21f722e8c8f37!8m2!3d30.330445!4d78.0662097!16s%2Fg%2F11nx61y65z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kailash-hospital-dehradun",
@@ -6231,7 +6179,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kailash+Hospital/@30.2882818,78.0641818,17z/data=!3m1!4b1!4m6!3m5!1s0x3909291d803e913d:0x5eb935d7a20054eb!8m2!3d30.2882818!4d78.0641818!16s%2Fg%2F11csqb37t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kailash+Hospital/@30.2882818,78.0641818,17z/data=!3m1!4b1!4m6!3m5!1s0x3909291d803e913d:0x5eb935d7a20054eb!8m2!3d30.2882818!4d78.0641818!16s%2Fg%2F11csqb37t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6300,8 +6248,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kailash+Hospital/@30.2882818,78.0641818,17z/data=!3m1!4b1!4m6!3m5!1s0x3909291d803e913d:0x5eb935d7a20054eb!8m2!3d30.2882818!4d78.0641818!16s%2Fg%2F11csqb37t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kb-joshi-clinic-dehradun",
@@ -6349,7 +6296,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KB+JOSHI+CLINIC/@30.3163449,78.045518,17z/data=!3m1!4b1!4m6!3m5!1s0x39092948aae073a9:0xe94ace325f4c029b!8m2!3d30.3163449!4d78.045518!16s%2Fg%2F11fm4jhnxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KB+JOSHI+CLINIC/@30.3163449,78.045518,17z/data=!3m1!4b1!4m6!3m5!1s0x39092948aae073a9:0xe94ace325f4c029b!8m2!3d30.3163449!4d78.045518!16s%2Fg%2F11fm4jhnxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6418,8 +6365,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KB+JOSHI+CLINIC/@30.3163449,78.045518,17z/data=!3m1!4b1!4m6!3m5!1s0x39092948aae073a9:0xe94ace325f4c029b!8m2!3d30.3163449!4d78.045518!16s%2Fg%2F11fm4jhnxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kutiz-skin-care-clinic-in-dehradun-laser-hair-removal-anti-aging-pigmentation-treatment-in-dehradun-dehradun",
@@ -6468,7 +6414,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kutiz-+Skin+Care+Clinic+in+Dehradun,+Laser+Hair+Removal,+Anti-Aging,+Pigmentation+Treatment+In+Dehradun/@30.3248334,78.0124492,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a195dfa5325:0xb88c260d1931a2bf!8m2!3d30.3248334!4d78.0124492!16s%2Fg%2F1hhmlkst4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kutiz-+Skin+Care+Clinic+in+Dehradun,+Laser+Hair+Removal,+Anti-Aging,+Pigmentation+Treatment+In+Dehradun/@30.3248334,78.0124492,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a195dfa5325:0xb88c260d1931a2bf!8m2!3d30.3248334!4d78.0124492!16s%2Fg%2F1hhmlkst4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6537,8 +6483,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kutiz-+Skin+Care+Clinic+in+Dehradun,+Laser+Hair+Removal,+Anti-Aging,+Pigmentation+Treatment+In+Dehradun/@30.3248334,78.0124492,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a195dfa5325:0xb88c260d1931a2bf!8m2!3d30.3248334!4d78.0124492!16s%2Fg%2F1hhmlkst4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "luxe-enhance-aesthetics-best-hair-transplant-laser-hair-reduction-anti-aging-treatment-clinic-dehradun-dehradun",
@@ -6587,7 +6532,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Luxe+Enhance+Aesthetics+-+Best+Hair+Transplant+%7C+Laser+Hair+Reduction+%7C+Anti-Aging+Treatment+%7C+Clinic+Dehradun/@30.327366,78.048564,17z/data=!3m1!4b1!4m6!3m5!1s0x390929c6b1327e0b:0x80c12027eac9e3fc!8m2!3d30.327366!4d78.048564!16s%2Fg%2F11b6hp2f01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Luxe+Enhance+Aesthetics+-+Best+Hair+Transplant+%7C+Laser+Hair+Reduction+%7C+Anti-Aging+Treatment+%7C+Clinic+Dehradun/@30.327366,78.048564,17z/data=!3m1!4b1!4m6!3m5!1s0x390929c6b1327e0b:0x80c12027eac9e3fc!8m2!3d30.327366!4d78.048564!16s%2Fg%2F11b6hp2f01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6656,8 +6601,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Luxe+Enhance+Aesthetics+-+Best+Hair+Transplant+%7C+Laser+Hair+Reduction+%7C+Anti-Aging+Treatment+%7C+Clinic+Dehradun/@30.327366,78.048564,17z/data=!3m1!4b1!4m6!3m5!1s0x390929c6b1327e0b:0x80c12027eac9e3fc!8m2!3d30.327366!4d78.048564!16s%2Fg%2F11b6hp2f01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "luxmi-dental-clinic-dehradun",
@@ -6705,7 +6649,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Luxmi+Dental+Clinic/@30.2968915,78.0552053,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a9fc8a8ab5:0x2826b65eeb32a1d0!8m2!3d30.2968915!4d78.0552053!16s%2Fg%2F1yg6nptrs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Luxmi+Dental+Clinic/@30.2968915,78.0552053,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a9fc8a8ab5:0x2826b65eeb32a1d0!8m2!3d30.2968915!4d78.0552053!16s%2Fg%2F1yg6nptrs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6774,8 +6718,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Luxmi+Dental+Clinic/@30.2968915,78.0552053,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a9fc8a8ab5:0x2826b65eeb32a1d0!8m2!3d30.2968915!4d78.0552053!16s%2Fg%2F1yg6nptrs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manya-dental-clinic-dehradun",
@@ -6824,7 +6767,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manya+Dental+Clinic/@30.2937409,78.074845,17z/data=!3m1!4b1!4m6!3m5!1s0x390928faf6ee96ed:0x8185fe65831a9f8a!8m2!3d30.2937409!4d78.074845!16s%2Fg%2F1q65f1fpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manya+Dental+Clinic/@30.2937409,78.074845,17z/data=!3m1!4b1!4m6!3m5!1s0x390928faf6ee96ed:0x8185fe65831a9f8a!8m2!3d30.2937409!4d78.074845!16s%2Fg%2F1q65f1fpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6890,11 +6833,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manya+Dental+Clinic/@30.2937409,78.074845,17z/data=!3m1!4b1!4m6!3m5!1s0x390928faf6ee96ed:0x8185fe65831a9f8a!8m2!3d30.2937409!4d78.074845!16s%2Fg%2F1q65f1fpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mathur-dental-center-dehradun",
@@ -6944,7 +6886,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mathur+Dental+Center/@30.3271965,77.9953536,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bceb02df8c3:0xf730180360376baf!8m2!3d30.3271965!4d77.9953536!16s%2Fg%2F11h80b1v58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mathur+Dental+Center/@30.3271965,77.9953536,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bceb02df8c3:0xf730180360376baf!8m2!3d30.3271965!4d77.9953536!16s%2Fg%2F11h80b1v58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7013,8 +6955,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mathur+Dental+Center/@30.3271965,77.9953536,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bceb02df8c3:0xf730180360376baf!8m2!3d30.3271965!4d77.9953536!16s%2Fg%2F11h80b1v58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medbros-surgery-clinic-laser-piles-fissure-fistula-and-varicose-veins-center-dehradun",
@@ -7064,7 +7005,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medbros+Surgery+Clinic+-+Laser+Piles,+Fissure,+Fistula+%26+Varicose+Veins+Center/@30.2903558,78.0609334,17z/data=!3m1!4b1!4m6!3m5!1s0x390929efaf466393:0xf4dc793d498467db!8m2!3d30.2903558!4d78.0609334!16s%2Fg%2F11vpl6fv07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medbros+Surgery+Clinic+-+Laser+Piles,+Fissure,+Fistula+%26+Varicose+Veins+Center/@30.2903558,78.0609334,17z/data=!3m1!4b1!4m6!3m5!1s0x390929efaf466393:0xf4dc793d498467db!8m2!3d30.2903558!4d78.0609334!16s%2Fg%2F11vpl6fv07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7130,11 +7071,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medbros+Surgery+Clinic+-+Laser+Piles,+Fissure,+Fistula+%26+Varicose+Veins+Center/@30.2903558,78.0609334,17z/data=!3m1!4b1!4m6!3m5!1s0x390929efaf466393:0xf4dc793d498467db!8m2!3d30.2903558!4d78.0609334!16s%2Fg%2F11vpl6fv07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medicraft-clinic-dehradun",
@@ -7183,7 +7123,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medicraft+Clinic/@30.3290285,78.0114048,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b211a98216b:0x5fb5f56ef2d34945!8m2!3d30.3290285!4d78.0114048!16s%2Fg%2F11nn_tm02s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicraft+Clinic/@30.3290285,78.0114048,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b211a98216b:0x5fb5f56ef2d34945!8m2!3d30.3290285!4d78.0114048!16s%2Fg%2F11nn_tm02s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7249,11 +7189,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medicraft+Clinic/@30.3290285,78.0114048,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b211a98216b:0x5fb5f56ef2d34945!8m2!3d30.3290285!4d78.0114048!16s%2Fg%2F11nn_tm02s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meditrina-heart-center-dehradun",
@@ -7303,7 +7242,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Meditrina+Heart+Center/@30.3207041,78.0574377,17z/data=!3m1!4b1!4m6!3m5!1s0x390929007ab78745:0x334e62a0c5ae3937!8m2!3d30.3207041!4d78.0574377!16s%2Fg%2F11y2hqnltr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meditrina+Heart+Center/@30.3207041,78.0574377,17z/data=!3m1!4b1!4m6!3m5!1s0x390929007ab78745:0x334e62a0c5ae3937!8m2!3d30.3207041!4d78.0574377!16s%2Fg%2F11y2hqnltr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7372,8 +7311,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Meditrina+Heart+Center/@30.3207041,78.0574377,17z/data=!3m1!4b1!4m6!3m5!1s0x390929007ab78745:0x334e62a0c5ae3937!8m2!3d30.3207041!4d78.0574377!16s%2Fg%2F11y2hqnltr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "menwal-dental-clinic-and-implant-centre-dehradun",
@@ -7423,7 +7361,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Menwal+dental+clinic+and+implant+centre/@30.3002433,78.0265849,17z/data=!3m1!4b1!4m6!3m5!1s0x39092982364f0579:0xe2f4cfad4c32bd41!8m2!3d30.3002433!4d78.0265849!16s%2Fg%2F11gfp2w4zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Menwal+dental+clinic+and+implant+centre/@30.3002433,78.0265849,17z/data=!3m1!4b1!4m6!3m5!1s0x39092982364f0579:0xe2f4cfad4c32bd41!8m2!3d30.3002433!4d78.0265849!16s%2Fg%2F11gfp2w4zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7492,8 +7430,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Menwal+dental+clinic+and+implant+centre/@30.3002433,78.0265849,17z/data=!3m1!4b1!4m6!3m5!1s0x39092982364f0579:0xe2f4cfad4c32bd41!8m2!3d30.3002433!4d78.0265849!16s%2Fg%2F11gfp2w4zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "miracle-smiles-dental-care-dental-clinic-kids-dentist-root-canal-treatment-dental-implant-braces-gmsballupurballiwala-dehradun",
@@ -7542,7 +7479,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Miracle+Smiles+Dental+Care+-+Dental+Clinic+%7C+Kids+Dentist+%7C+Root+Canal+Treatment+%7C+Dental+Implant+Braces+GMSBallupurBalliwala/@30.3266636,78.0125494,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0047f4efd5:0x179e0d32dafb1f90!8m2!3d30.3266636!4d78.0125494!16s%2Fg%2F11xf_xj2mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Miracle+Smiles+Dental+Care+-+Dental+Clinic+%7C+Kids+Dentist+%7C+Root+Canal+Treatment+%7C+Dental+Implant+Braces+GMSBallupurBalliwala/@30.3266636,78.0125494,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0047f4efd5:0x179e0d32dafb1f90!8m2!3d30.3266636!4d78.0125494!16s%2Fg%2F11xf_xj2mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7608,11 +7545,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Miracle+Smiles+Dental+Care+-+Dental+Clinic+%7C+Kids+Dentist+%7C+Root+Canal+Treatment+%7C+Dental+Implant+Braces+GMSBallupurBalliwala/@30.3266636,78.0125494,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0047f4efd5:0x179e0d32dafb1f90!8m2!3d30.3266636!4d78.0125494!16s%2Fg%2F11xf_xj2mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ms-galaxy-hospital-dehradun",
@@ -7661,7 +7597,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MS+Galaxy+Hospital/@30.2887334,78.0211908,17z/data=!3m1!4b1!4m6!3m5!1s0x390929201607f91d:0xe8f7c9152a47812d!8m2!3d30.2887334!4d78.0211908!16s%2Fg%2F11wfjvdqqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MS+Galaxy+Hospital/@30.2887334,78.0211908,17z/data=!3m1!4b1!4m6!3m5!1s0x390929201607f91d:0xe8f7c9152a47812d!8m2!3d30.2887334!4d78.0211908!16s%2Fg%2F11wfjvdqqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7730,8 +7666,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MS+Galaxy+Hospital/@30.2887334,78.0211908,17z/data=!3m1!4b1!4m6!3m5!1s0x390929201607f91d:0xe8f7c9152a47812d!8m2!3d30.2887334!4d78.0211908!16s%2Fg%2F11wfjvdqqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oracare-dental-clinic-and-implant-center-dehradun",
@@ -7779,7 +7714,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oracare+Dental+Clinic+and+Implant+Center/@30.3530918,78.0240987,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7b3beff7c7f:0x48c3cdf3766aad79!8m2!3d30.3530918!4d78.0240987!16s%2Fg%2F11vw_c9spw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oracare+Dental+Clinic+and+Implant+Center/@30.3530918,78.0240987,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7b3beff7c7f:0x48c3cdf3766aad79!8m2!3d30.3530918!4d78.0240987!16s%2Fg%2F11vw_c9spw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7845,11 +7780,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oracare+Dental+Clinic+and+Implant+Center/@30.3530918,78.0240987,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7b3beff7c7f:0x48c3cdf3766aad79!8m2!3d30.3530918!4d78.0240987!16s%2Fg%2F11vw_c9spw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orthocare-dental-speciality-centre-dehradun",
@@ -7901,7 +7835,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Orthocare+Dental+Speciality+Centre/@30.3081307,78.0071856,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a3aa5e0e7cb:0x331d1a1206f3fe31!8m2!3d30.3081307!4d78.0071856!16s%2Fg%2F11xb_y8f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orthocare+Dental+Speciality+Centre/@30.3081307,78.0071856,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a3aa5e0e7cb:0x331d1a1206f3fe31!8m2!3d30.3081307!4d78.0071856!16s%2Fg%2F11xb_y8f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7970,8 +7904,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Orthocare+Dental+Speciality+Centre/@30.3081307,78.0071856,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a3aa5e0e7cb:0x331d1a1206f3fe31!8m2!3d30.3081307!4d78.0071856!16s%2Fg%2F11xb_y8f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orthosquare-dental-clinic-sewla-kalan-dehradun-dehradun",
@@ -8021,7 +7954,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Sewla+Kalan,+Dehradun/@30.3005608,78.0082404,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b35f3098055:0x10ad1da30a8a75a2!8m2!3d30.3005608!4d78.0082404!16s%2Fg%2F11mf7kxm7m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Sewla+Kalan,+Dehradun/@30.3005608,78.0082404,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b35f3098055:0x10ad1da30a8a75a2!8m2!3d30.3005608!4d78.0082404!16s%2Fg%2F11mf7kxm7m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8090,8 +8023,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Sewla+Kalan,+Dehradun/@30.3005608,78.0082404,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b35f3098055:0x10ad1da30a8a75a2!8m2!3d30.3005608!4d78.0082404!16s%2Fg%2F11mf7kxm7m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patnaik-dental-care-dehradun",
@@ -8139,7 +8071,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PATNAIK+DENTAL+CARE/@30.3329964,78.0257,17z/data=!3m1!4b1!4m6!3m5!1s0x39092931d20b4bd5:0xd5d43c47fbdf6ede!8m2!3d30.3329964!4d78.0257!16s%2Fg%2F11fl9gshrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PATNAIK+DENTAL+CARE/@30.3329964,78.0257,17z/data=!3m1!4b1!4m6!3m5!1s0x39092931d20b4bd5:0xd5d43c47fbdf6ede!8m2!3d30.3329964!4d78.0257!16s%2Fg%2F11fl9gshrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8208,8 +8140,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PATNAIK+DENTAL+CARE/@30.3329964,78.0257,17z/data=!3m1!4b1!4m6!3m5!1s0x39092931d20b4bd5:0xd5d43c47fbdf6ede!8m2!3d30.3329964!4d78.0257!16s%2Fg%2F11fl9gshrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "perfect-smile-dental-care-and-implant-centre-dehradun",
@@ -8258,7 +8189,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Perfect+Smile+Dental+Care+%26+Implant+Centre/data=!4m7!3m6!1s0x390929ed10278a33:0x72dac7937a57d059!8m2!3d30.3261403!4d78.0330897!16s%2Fg%2F1yhbjszsg!19sChIJM4onEO0pCTkRWdBXepPH2nI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Perfect+Smile+Dental+Care+%26+Implant+Centre/data=!4m7!3m6!1s0x390929ed10278a33:0x72dac7937a57d059!8m2!3d30.3261403!4d78.0330897!16s%2Fg%2F1yhbjszsg!19sChIJM4onEO0pCTkRWdBXepPH2nI?authuser=0&hl=en&rclk=1"
@@ -8327,8 +8258,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Perfect+Smile+Dental+Care+%26+Implant+Centre/data=!4m7!3m6!1s0x390929ed10278a33:0x72dac7937a57d059!8m2!3d30.3261403!4d78.0330897!16s%2Fg%2F1yhbjszsg!19sChIJM4onEO0pCTkRWdBXepPH2nI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rana-dental-clinic-facial-surgery-and-implant-centre-dehradun",
@@ -8376,7 +8306,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rana+Dental+Clinic+Facial+Surgery+And+Implant+Centre/@30.3138289,78.0631281,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ad66aaaaab:0x68382a07a3c49b90!8m2!3d30.3138289!4d78.0631281!16s%2Fg%2F11lfbgn057?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rana+Dental+Clinic+Facial+Surgery+And+Implant+Centre/@30.3138289,78.0631281,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ad66aaaaab:0x68382a07a3c49b90!8m2!3d30.3138289!4d78.0631281!16s%2Fg%2F11lfbgn057?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8445,8 +8375,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rana+Dental+Clinic+Facial+Surgery+And+Implant+Centre/@30.3138289,78.0631281,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ad66aaaaab:0x68382a07a3c49b90!8m2!3d30.3138289!4d78.0631281!16s%2Fg%2F11lfbgn057?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rastogi-dental-clinic-best-dentist-best-dental-clinic-for-rct-and-dental-implant-opg-cbct-dehradun",
@@ -8495,7 +8424,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rastogi+Dental+Clinic+-+Best+dentist,+Best+dental+clinic+for+RCT+%26+Dental+Implant,+OPG,CBCT/@30.3368652,78.0561349,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cc6f5bfb1d:0x77659fb406774881!8m2!3d30.3368652!4d78.0561349!16s%2Fg%2F1tg9r1n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rastogi+Dental+Clinic+-+Best+dentist,+Best+dental+clinic+for+RCT+%26+Dental+Implant,+OPG,CBCT/@30.3368652,78.0561349,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cc6f5bfb1d:0x77659fb406774881!8m2!3d30.3368652!4d78.0561349!16s%2Fg%2F1tg9r1n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8564,8 +8493,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rastogi+Dental+Clinic+-+Best+dentist,+Best+dental+clinic+for+RCT+%26+Dental+Implant,+OPG,CBCT/@30.3368652,78.0561349,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cc6f5bfb1d:0x77659fb406774881!8m2!3d30.3368652!4d78.0561349!16s%2Fg%2F1tg9r1n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rg-hospital-dehradun",
@@ -8614,7 +8542,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RG+Hospital/@30.3205596,78.0469734,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bf3c44ecfb:0x685645e1975b9575!8m2!3d30.3205596!4d78.0469734!16s%2Fg%2F11bwqbr40m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RG+Hospital/@30.3205596,78.0469734,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bf3c44ecfb:0x685645e1975b9575!8m2!3d30.3205596!4d78.0469734!16s%2Fg%2F11bwqbr40m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8683,8 +8611,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RG+Hospital/@30.3205596,78.0469734,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bf3c44ecfb:0x685645e1975b9575!8m2!3d30.3205596!4d78.0469734!16s%2Fg%2F11bwqbr40m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-k-memorial-hospital-dehradun",
@@ -8732,7 +8659,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S.K+Memorial+Hospital/@30.3286936,78.0526533,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bb41dc4d87:0x9eab68889f1d0a2e!8m2!3d30.3286936!4d78.0526533!16s%2Fg%2F1tdy2vvx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.K+Memorial+Hospital/@30.3286936,78.0526533,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bb41dc4d87:0x9eab68889f1d0a2e!8m2!3d30.3286936!4d78.0526533!16s%2Fg%2F1tdy2vvx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8798,11 +8725,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S.K+Memorial+Hospital/@30.3286936,78.0526533,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bb41dc4d87:0x9eab68889f1d0a2e!8m2!3d30.3286936!4d78.0526533!16s%2Fg%2F1tdy2vvx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-kripa-dental-implant-solutions-dehradun",
@@ -8851,7 +8777,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAI+KRIPA+DENTAL+IMPLANT+SOLUTIONS/@30.3244234,78.0364279,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ec8056d5ff:0xba9d7d4fffcebad0!8m2!3d30.3244234!4d78.0364279!16s%2Fg%2F1vknmrfl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAI+KRIPA+DENTAL+IMPLANT+SOLUTIONS/@30.3244234,78.0364279,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ec8056d5ff:0xba9d7d4fffcebad0!8m2!3d30.3244234!4d78.0364279!16s%2Fg%2F1vknmrfl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8920,8 +8846,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAI+KRIPA+DENTAL+IMPLANT+SOLUTIONS/@30.3244234,78.0364279,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ec8056d5ff:0xba9d7d4fffcebad0!8m2!3d30.3244234!4d78.0364279!16s%2Fg%2F1vknmrfl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjul-memorial-ncv-eeg-testing-centre-best-ncv-eeg-emg-ecg-vep-bera-x-ray-centre-in-dehradun-dehradun",
@@ -8970,7 +8895,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SANJUL+MEMORIAL+NCV,+EEG+TESTING+CENTRE,+BEST+NCV,+EEG,+EMG,+ECG,+VEP,+BERA,+X-RAY+CENTRE+IN+DEHRADUN/@30.2994221,78.0006999,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bd1f5aba63d:0x8177e17b94aa3463!8m2!3d30.2994221!4d78.0006999!16s%2Fg%2F11k4frnbb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SANJUL+MEMORIAL+NCV,+EEG+TESTING+CENTRE,+BEST+NCV,+EEG,+EMG,+ECG,+VEP,+BERA,+X-RAY+CENTRE+IN+DEHRADUN/@30.2994221,78.0006999,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bd1f5aba63d:0x8177e17b94aa3463!8m2!3d30.2994221!4d78.0006999!16s%2Fg%2F11k4frnbb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9039,8 +8964,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SANJUL+MEMORIAL+NCV,+EEG+TESTING+CENTRE,+BEST+NCV,+EEG,+EMG,+ECG,+VEP,+BERA,+X-RAY+CENTRE+IN+DEHRADUN/@30.2994221,78.0006999,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bd1f5aba63d:0x8177e17b94aa3463!8m2!3d30.2994221!4d78.0006999!16s%2Fg%2F11k4frnbb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-sadbhawna-medical-centre-dehradun",
@@ -9088,7 +9012,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharma+Sadbhawna+Medical+Centre/@30.3171637,78.0469113,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bea36c85f5:0x8041e60065d3673d!8m2!3d30.3171637!4d78.0469113!16s%2Fg%2F11bw5m8gk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Sadbhawna+Medical+Centre/@30.3171637,78.0469113,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bea36c85f5:0x8041e60065d3673d!8m2!3d30.3171637!4d78.0469113!16s%2Fg%2F11bw5m8gk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9157,8 +9081,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharma+Sadbhawna+Medical+Centre/@30.3171637,78.0469113,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bea36c85f5:0x8041e60065d3673d!8m2!3d30.3171637!4d78.0469113!16s%2Fg%2F11bw5m8gk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-gopinath-dental-care-and-implant-center-dehradun-dehradun",
@@ -9207,7 +9130,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Gopinath+Dental+care+and+implant+center,+Dehradun/@30.3215163,78.0041757,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b91556dcd65:0x1f4ec565630f3df!8m2!3d30.3215163!4d78.0041757!16s%2Fg%2F11x6xpjl25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Gopinath+Dental+care+and+implant+center,+Dehradun/@30.3215163,78.0041757,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b91556dcd65:0x1f4ec565630f3df!8m2!3d30.3215163!4d78.0041757!16s%2Fg%2F11x6xpjl25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9273,11 +9196,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Gopinath+Dental+care+and+implant+center,+Dehradun/@30.3215163,78.0041757,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b91556dcd65:0x1f4ec565630f3df!8m2!3d30.3215163!4d78.0041757!16s%2Fg%2F11x6xpjl25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-hari-dental-and-implant-centre-dehradun",
@@ -9326,7 +9248,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Hari+Dental+%26+Implant+Centre/@30.2924768,78.0591129,17z/data=!3m1!4b1!4m6!3m5!1s0x390929719e5fb0df:0x2d7370624aa960e6!8m2!3d30.2924768!4d78.0591129!16s%2Fg%2F11jkmpbygg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Hari+Dental+%26+Implant+Centre/@30.2924768,78.0591129,17z/data=!3m1!4b1!4m6!3m5!1s0x390929719e5fb0df:0x2d7370624aa960e6!8m2!3d30.2924768!4d78.0591129!16s%2Fg%2F11jkmpbygg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9395,8 +9317,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Hari+Dental+%26+Implant+Centre/@30.2924768,78.0591129,17z/data=!3m1!4b1!4m6!3m5!1s0x390929719e5fb0df:0x2d7370624aa960e6!8m2!3d30.2924768!4d78.0591129!16s%2Fg%2F11jkmpbygg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreepati-dental-clinic-n-cosmetic-dentistry-dehradun",
@@ -9446,7 +9367,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHREEPATI+DENTAL+CLINIC+n+cosmetic+dentistry/@30.3334266,78.0620737,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e4884de399:0x263b8840dba8bac6!8m2!3d30.3334266!4d78.0620737!16s%2Fg%2F11qrl6_whq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREEPATI+DENTAL+CLINIC+n+cosmetic+dentistry/@30.3334266,78.0620737,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e4884de399:0x263b8840dba8bac6!8m2!3d30.3334266!4d78.0620737!16s%2Fg%2F11qrl6_whq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9512,11 +9433,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHREEPATI+DENTAL+CLINIC+n+cosmetic+dentistry/@30.3334266,78.0620737,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e4884de399:0x263b8840dba8bac6!8m2!3d30.3334266!4d78.0620737!16s%2Fg%2F11qrl6_whq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-mahant-indiresh-hospital-dehradun",
@@ -9565,7 +9485,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Mahant+Indiresh+Hospital/@30.3045476,78.0208027,17z/data=!3m1!4b1!4m6!3m5!1s0x3909294e64e20bcd:0x2fab582f139ab49e!8m2!3d30.3045476!4d78.0208027!16s%2Fg%2F11cmdfv464?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Mahant+Indiresh+Hospital/@30.3045476,78.0208027,17z/data=!3m1!4b1!4m6!3m5!1s0x3909294e64e20bcd:0x2fab582f139ab49e!8m2!3d30.3045476!4d78.0208027!16s%2Fg%2F11cmdfv464?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9634,8 +9554,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Mahant+Indiresh+Hospital/@30.3045476,78.0208027,17z/data=!3m1!4b1!4m6!3m5!1s0x3909294e64e20bcd:0x2fab582f139ab49e!8m2!3d30.3045476!4d78.0208027!16s%2Fg%2F11cmdfv464?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "simalti-dental-clinic-orthodontic-and-implant-centre-dehradun",
@@ -9684,7 +9603,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Simalti+Dental+Clinic+Orthodontic+And+Implant+Centre/@30.3082619,77.9833674,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b4cd662b845:0x913c8871b0033b13!8m2!3d30.3082619!4d77.9833674!16s%2Fg%2F11nt62_54r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Simalti+Dental+Clinic+Orthodontic+And+Implant+Centre/@30.3082619,77.9833674,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b4cd662b845:0x913c8871b0033b13!8m2!3d30.3082619!4d77.9833674!16s%2Fg%2F11nt62_54r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9750,11 +9669,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Simalti+Dental+Clinic+Orthodontic+And+Implant+Centre/@30.3082619,77.9833674,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b4cd662b845:0x913c8871b0033b13!8m2!3d30.3082619!4d77.9833674!16s%2Fg%2F11nt62_54r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-clinic-dehradun",
@@ -9802,7 +9720,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMILE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3908d7fee118788b:0xbda71d9ff5d24c87!8m2!3d30.3506652!4d78.0221646!16s%2Fg%2F11rv61j_xc!19sChIJi3gY4f7XCDkRh0zS9Z8dp70?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3908d7fee118788b:0xbda71d9ff5d24c87!8m2!3d30.3506652!4d78.0221646!16s%2Fg%2F11rv61j_xc!19sChIJi3gY4f7XCDkRh0zS9Z8dp70?authuser=0&hl=en&rclk=1"
@@ -9871,8 +9789,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMILE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3908d7fee118788b:0xbda71d9ff5d24c87!8m2!3d30.3506652!4d78.0221646!16s%2Fg%2F11rv61j_xc!19sChIJi3gY4f7XCDkRh0zS9Z8dp70?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-miles-dental-clinic-braces-and-implant-centre-dehradun",
@@ -9920,7 +9837,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMILE+MILES+DENTAL+CLINIC,+BRACES+%26+IMPLANT+CENTRE/@30.3425899,78.0739247,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ab362b6421:0x8f5453c874fa7d78!8m2!3d30.3425899!4d78.0739247!16s%2Fg%2F11kb9dsd2z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+MILES+DENTAL+CLINIC,+BRACES+%26+IMPLANT+CENTRE/@30.3425899,78.0739247,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ab362b6421:0x8f5453c874fa7d78!8m2!3d30.3425899!4d78.0739247!16s%2Fg%2F11kb9dsd2z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9989,8 +9906,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMILE+MILES+DENTAL+CLINIC,+BRACES+%26+IMPLANT+CENTRE/@30.3425899,78.0739247,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ab362b6421:0x8f5453c874fa7d78!8m2!3d30.3425899!4d78.0739247!16s%2Fg%2F11kb9dsd2z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-n-shine-dental-care-and-implant-centre-dehradun",
@@ -10038,7 +9954,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+N+Shine+Dental+Care+And+Implant+Centre/@30.3048393,78.0474678,17z/data=!3m1!4b1!4m6!3m5!1s0x390929005039bdbb:0x3e3e6d720fe66503!8m2!3d30.3048393!4d78.0474678!16s%2Fg%2F11m6rl2p2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+N+Shine+Dental+Care+And+Implant+Centre/@30.3048393,78.0474678,17z/data=!3m1!4b1!4m6!3m5!1s0x390929005039bdbb:0x3e3e6d720fe66503!8m2!3d30.3048393!4d78.0474678!16s%2Fg%2F11m6rl2p2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10104,11 +10020,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+N+Shine+Dental+Care+And+Implant+Centre/@30.3048393,78.0474678,17z/data=!3m1!4b1!4m6!3m5!1s0x390929005039bdbb:0x3e3e6d720fe66503!8m2!3d30.3048393!4d78.0474678!16s%2Fg%2F11m6rl2p2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-n-braces-dental-clinic-dehradun",
@@ -10157,7 +10072,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+n'+Braces+Dental+Clinic/@30.3342891,78.0531502,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cc66d8bf49:0x5b24da95ad0114b2!8m2!3d30.3342891!4d78.0531502!16s%2Fg%2F11xmv2j1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+n'+Braces+Dental+Clinic/@30.3342891,78.0531502,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cc66d8bf49:0x5b24da95ad0114b2!8m2!3d30.3342891!4d78.0531502!16s%2Fg%2F11xmv2j1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10226,8 +10141,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+n'+Braces+Dental+Clinic/@30.3342891,78.0531502,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cc66d8bf49:0x5b24da95ad0114b2!8m2!3d30.3342891!4d78.0531502!16s%2Fg%2F11xmv2j1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-walk-dental-clinic-and-implant-centre-dentist-in-dehradun-dehradun",
@@ -10277,7 +10191,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Walk+Dental+Clinic+And+Implant+Centre+Dentist+in+Dehradun/@30.3310258,78.0248414,17z/data=!3m1!4b1!4m6!3m5!1s0x3909295a7e663971:0xc67bde1b1abcc613!8m2!3d30.3310258!4d78.0248414!16s%2Fg%2F11qq4fqff3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Walk+Dental+Clinic+And+Implant+Centre+Dentist+in+Dehradun/@30.3310258,78.0248414,17z/data=!3m1!4b1!4m6!3m5!1s0x3909295a7e663971:0xc67bde1b1abcc613!8m2!3d30.3310258!4d78.0248414!16s%2Fg%2F11qq4fqff3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10343,11 +10257,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Walk+Dental+Clinic+And+Implant+Centre+Dentist+in+Dehradun/@30.3310258,78.0248414,17z/data=!3m1!4b1!4m6!3m5!1s0x3909295a7e663971:0xc67bde1b1abcc613!8m2!3d30.3310258!4d78.0248414!16s%2Fg%2F11qq4fqff3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-zone-dental-care-centre-dehradun",
@@ -10397,7 +10310,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Zone+Dental+Care+Centre/@30.3241735,78.0064395,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bcacb687c1f:0x20e36239291565ee!8m2!3d30.3241735!4d78.0064395!16s%2Fg%2F11cmm1bmrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Zone+Dental+Care+Centre/@30.3241735,78.0064395,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bcacb687c1f:0x20e36239291565ee!8m2!3d30.3241735!4d78.0064395!16s%2Fg%2F11cmm1bmrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10466,8 +10379,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Zone+Dental+Care+Centre/@30.3241735,78.0064395,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bcacb687c1f:0x20e36239291565ee!8m2!3d30.3241735!4d78.0064395!16s%2Fg%2F11cmm1bmrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smilline-dental-clinic-and-orthodontic-center-best-dental-clinic-in-dehradun-braces-implant-centre-root-canal-dentist-dehradun",
@@ -10517,7 +10429,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smilline+Dental+Clinic+%26+Orthodontic+Center+-+best+dental+clinic+in+dehradun+%7C+braces+implant+centre+%7C+root+canal+%7C+dentist/@30.3523045,78.0226613,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d74da4cca6d5:0x879a509e9f9411b3!8m2!3d30.3523045!4d78.0226613!16s%2Fg%2F11jbc1kwlr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilline+Dental+Clinic+%26+Orthodontic+Center+-+best+dental+clinic+in+dehradun+%7C+braces+implant+centre+%7C+root+canal+%7C+dentist/@30.3523045,78.0226613,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d74da4cca6d5:0x879a509e9f9411b3!8m2!3d30.3523045!4d78.0226613!16s%2Fg%2F11jbc1kwlr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10586,8 +10498,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smilline+Dental+Clinic+%26+Orthodontic+Center+-+best+dental+clinic+in+dehradun+%7C+braces+implant+centre+%7C+root+canal+%7C+dentist/@30.3523045,78.0226613,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d74da4cca6d5:0x879a509e9f9411b3!8m2!3d30.3523045!4d78.0226613!16s%2Fg%2F11jbc1kwlr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "somaksh-healthcare-dehradun",
@@ -10635,7 +10546,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SOMAKSH+HEALTHCARE/data=!4m7!3m6!1s0x3909290fb81487bd:0xb8f32c0f943d3482!8m2!3d30.2917444!4d78.0251359!16s%2Fg%2F11t9q415c_!19sChIJvYcUuA8pCTkRgjQ9lA8s87g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SOMAKSH+HEALTHCARE/data=!4m7!3m6!1s0x3909290fb81487bd:0xb8f32c0f943d3482!8m2!3d30.2917444!4d78.0251359!16s%2Fg%2F11t9q415c_!19sChIJvYcUuA8pCTkRgjQ9lA8s87g?authuser=0&hl=en&rclk=1"
@@ -10704,8 +10615,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SOMAKSH+HEALTHCARE/data=!4m7!3m6!1s0x3909290fb81487bd:0xb8f32c0f943d3482!8m2!3d30.2917444!4d78.0251359!16s%2Fg%2F11t9q415c_!19sChIJvYcUuA8pCTkRgjQ9lA8s87g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srd-dental-clinic-and-maxillo-facial-surgical-centre-dehradun",
@@ -10754,7 +10664,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRD+Dental+Clinic+%26+Maxillo-facial+Surgical+Centre/@30.3328087,78.0172822,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b3f2ca6ab3d:0x7a21e6fb312208a1!8m2!3d30.3328087!4d78.0172822!16s%2Fg%2F11s31p1d9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRD+Dental+Clinic+%26+Maxillo-facial+Surgical+Centre/@30.3328087,78.0172822,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b3f2ca6ab3d:0x7a21e6fb312208a1!8m2!3d30.3328087!4d78.0172822!16s%2Fg%2F11s31p1d9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10820,11 +10730,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRD+Dental+Clinic+%26+Maxillo-facial+Surgical+Centre/@30.3328087,78.0172822,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b3f2ca6ab3d:0x7a21e6fb312208a1!8m2!3d30.3328087!4d78.0172822!16s%2Fg%2F11s31p1d9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sudha-medical-and-dental-clinic-dehradun",
@@ -10872,7 +10781,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SUDHA+MEDICAL+%26+DENTAL+CLINIC/@30.32204,78.004505,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b748b51b3c5:0x8b524515b12af8c4!8m2!3d30.32204!4d78.004505!16s%2Fg%2F11j042fgkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUDHA+MEDICAL+%26+DENTAL+CLINIC/@30.32204,78.004505,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b748b51b3c5:0x8b524515b12af8c4!8m2!3d30.32204!4d78.004505!16s%2Fg%2F11j042fgkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10941,8 +10850,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SUDHA+MEDICAL+%26+DENTAL+CLINIC/@30.32204,78.004505,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b748b51b3c5:0x8b524515b12af8c4!8m2!3d30.32204!4d78.004505!16s%2Fg%2F11j042fgkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "synergy-institute-of-medical-sciences-dehradun",
@@ -10991,7 +10899,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Synergy+Institute+of+Medical+Sciences/@30.3376537,78.0139069,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a06b4301195:0x7a8d8a16414d26bb!8m2!3d30.3376537!4d78.0139069!16s%2Fg%2F11f1jwqgx0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Synergy+Institute+of+Medical+Sciences/@30.3376537,78.0139069,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a06b4301195:0x7a8d8a16414d26bb!8m2!3d30.3376537!4d78.0139069!16s%2Fg%2F11f1jwqgx0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11060,8 +10968,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Synergy+Institute+of+Medical+Sciences/@30.3376537,78.0139069,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a06b4301195:0x7a8d8a16414d26bb!8m2!3d30.3376537!4d78.0139069!16s%2Fg%2F11f1jwqgx0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tara-dental-care-dehradun",
@@ -11109,7 +11016,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tara+Dental+Care/@30.3002712,78.0497026,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a77d5cad31:0xec8e1b6343b01168!8m2!3d30.3002712!4d78.0497026!16s%2Fg%2F1thn3wz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tara+Dental+Care/@30.3002712,78.0497026,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a77d5cad31:0xec8e1b6343b01168!8m2!3d30.3002712!4d78.0497026!16s%2Fg%2F1thn3wz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11178,8 +11085,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tara+Dental+Care/@30.3002712,78.0497026,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a77d5cad31:0xec8e1b6343b01168!8m2!3d30.3002712!4d78.0497026!16s%2Fg%2F1thn3wz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-dental-oasis-dehradun",
@@ -11227,7 +11133,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Dental+Oasis/@30.3381896,78.0205586,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e829a9ebeb:0xe8c8e4f7761de7f5!8m2!3d30.3381896!4d78.0205586!16s%2Fg%2F11mrmyh2p0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dental+Oasis/@30.3381896,78.0205586,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e829a9ebeb:0xe8c8e4f7761de7f5!8m2!3d30.3381896!4d78.0205586!16s%2Fg%2F11mrmyh2p0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11296,8 +11202,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Dental+Oasis/@30.3381896,78.0205586,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e829a9ebeb:0xe8c8e4f7761de7f5!8m2!3d30.3381896!4d78.0205586!16s%2Fg%2F11mrmyh2p0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tooth-fairy-kids-and-family-dental-care-dehradun",
@@ -11346,7 +11251,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tooth+Fairy+kids+%26+Family+Dental+Care/@30.3034443,78.0289262,17z/data=!3m1!4b1!4m6!3m5!1s0x39092923e5e8436f:0xb365bde6a229c333!8m2!3d30.3034443!4d78.0289262!16s%2Fg%2F11tjzrft87?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tooth+Fairy+kids+%26+Family+Dental+Care/@30.3034443,78.0289262,17z/data=!3m1!4b1!4m6!3m5!1s0x39092923e5e8436f:0xb365bde6a229c333!8m2!3d30.3034443!4d78.0289262!16s%2Fg%2F11tjzrft87?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11412,11 +11317,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tooth+Fairy+kids+%26+Family+Dental+Care/@30.3034443,78.0289262,17z/data=!3m1!4b1!4m6!3m5!1s0x39092923e5e8436f:0xb365bde6a229c333!8m2!3d30.3034443!4d78.0289262!16s%2Fg%2F11tjzrft87?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "trident-dental-clinic-best-dentist-in-dehradun-dehradun",
@@ -11465,7 +11369,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Trident+Dental+Clinic+%7C+Best+Dentist+in+Dehradun/@30.303257,78.0529433,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e52c054643:0x3e18ea494a293c90!8m2!3d30.303257!4d78.0529433!16s%2Fg%2F11mcc6cndp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trident+Dental+Clinic+%7C+Best+Dentist+in+Dehradun/@30.303257,78.0529433,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e52c054643:0x3e18ea494a293c90!8m2!3d30.303257!4d78.0529433!16s%2Fg%2F11mcc6cndp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11531,11 +11435,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Trident+Dental+Clinic+%7C+Best+Dentist+in+Dehradun/@30.303257,78.0529433,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e52c054643:0x3e18ea494a293c90!8m2!3d30.303257!4d78.0529433!16s%2Fg%2F11mcc6cndp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "u-need-dental-care-clinic-dehradun",
@@ -11584,7 +11487,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/u+need+dental+care+Clinic/@30.3316587,78.0530719,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b679885e0f:0x60b79d92e0cdc1ef!8m2!3d30.3316587!4d78.0530719!16s%2Fg%2F11trq8n2y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/u+need+dental+care+Clinic/@30.3316587,78.0530719,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b679885e0f:0x60b79d92e0cdc1ef!8m2!3d30.3316587!4d78.0530719!16s%2Fg%2F11trq8n2y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11650,11 +11553,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/u+need+dental+care+Clinic/@30.3316587,78.0530719,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b679885e0f:0x60b79d92e0cdc1ef!8m2!3d30.3316587!4d78.0530719!16s%2Fg%2F11trq8n2y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "velmed-hospital-dehradun",
@@ -11703,7 +11605,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Velmed+Hospital/@30.272164,78.0077676,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0bb0f3149d:0x26b7699bb919eaac!8m2!3d30.272164!4d78.0077676!16s%2Fg%2F11f5bxm530?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Velmed+Hospital/@30.272164,78.0077676,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0bb0f3149d:0x26b7699bb919eaac!8m2!3d30.272164!4d78.0077676!16s%2Fg%2F11f5bxm530?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11772,8 +11674,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Velmed+Hospital/@30.272164,78.0077676,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0bb0f3149d:0x26b7699bb919eaac!8m2!3d30.272164!4d78.0077676!16s%2Fg%2F11f5bxm530?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vinayak-surgical-centre-dehradun",
@@ -11822,7 +11723,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vinayak+Surgical+Centre/@30.3112712,78.0085778,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a23a948e9d5:0x1a3f3b3ed4fd4326!8m2!3d30.3112712!4d78.0085778!16s%2Fg%2F11dxkx0mq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinayak+Surgical+Centre/@30.3112712,78.0085778,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a23a948e9d5:0x1a3f3b3ed4fd4326!8m2!3d30.3112712!4d78.0085778!16s%2Fg%2F11dxkx0mq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11891,8 +11792,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vinayak+Surgical+Centre/@30.3112712,78.0085778,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a23a948e9d5:0x1a3f3b3ed4fd4326!8m2!3d30.3112712!4d78.0085778!16s%2Fg%2F11dxkx0mq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vital-dental-care-and-implant-center-dehradun",
@@ -11941,7 +11841,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vital+Dental+Care+%26+Implant+Center/@30.3076669,78.0055684,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b3d48ac64fb:0x22a67ed5a56c576a!8m2!3d30.3076669!4d78.0055684!16s%2Fg%2F11yr4ddrjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vital+Dental+Care+%26+Implant+Center/@30.3076669,78.0055684,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b3d48ac64fb:0x22a67ed5a56c576a!8m2!3d30.3076669!4d78.0055684!16s%2Fg%2F11yr4ddrjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -12007,11 +11907,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vital+Dental+Care+%26+Implant+Center/@30.3076669,78.0055684,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b3d48ac64fb:0x22a67ed5a56c576a!8m2!3d30.3076669!4d78.0055684!16s%2Fg%2F11yr4ddrjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wisdom-dental-clinic-dehradun",
@@ -12060,7 +11959,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/WISDOM+DENTAL+CLINIC/@30.3322512,78.0660314,17z/data=!3m1!4b1!4m6!3m5!1s0x39092993889ac703:0x5fa8d3d85fde65bb!8m2!3d30.3322512!4d78.0660314!16s%2Fg%2F11h7z00mbg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/WISDOM+DENTAL+CLINIC/@30.3322512,78.0660314,17z/data=!3m1!4b1!4m6!3m5!1s0x39092993889ac703:0x5fa8d3d85fde65bb!8m2!3d30.3322512!4d78.0660314!16s%2Fg%2F11h7z00mbg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -12129,7 +12028,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/WISDOM+DENTAL+CLINIC/@30.3322512,78.0660314,17z/data=!3m1!4b1!4m6!3m5!1s0x39092993889ac703:0x5fa8d3d85fde65bb!8m2!3d30.3322512!4d78.0660314!16s%2Fg%2F11h7z00mbg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

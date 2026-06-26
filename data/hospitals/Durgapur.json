@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A.H+IVF+%26+Infertility+Research+Center/@23.4977319,87.3242273,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7710b9f26d345:0xf419eec828a1b271!8m2!3d23.4977319!4d87.3242273!16s%2Fg%2F11gcx_5_xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.H+IVF+%26+Infertility+Research+Center/@23.4977319,87.3242273,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7710b9f26d345:0xf419eec828a1b271!8m2!3d23.4977319!4d87.3242273!16s%2Fg%2F11gcx_5_xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -112,11 +112,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A.H+IVF+%26+Infertility+Research+Center/@23.4977319,87.3242273,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7710b9f26d345:0xf419eec828a1b271!8m2!3d23.4977319!4d87.3242273!16s%2Fg%2F11gcx_5_xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "adhisthana-uro-gynae-care-durgapur",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Adhisthana+Uro-Gynae+Care/@23.5032668,87.3491784,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771741786fbcf:0x54d9884921ed9265!8m2!3d23.5032668!4d87.3491784!16s%2Fg%2F11wpk7ssrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adhisthana+Uro-Gynae+Care/@23.5032668,87.3491784,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771741786fbcf:0x54d9884921ed9265!8m2!3d23.5032668!4d87.3491784!16s%2Fg%2F11wpk7ssrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -233,8 +232,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Adhisthana+Uro-Gynae+Care/@23.5032668,87.3491784,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771741786fbcf:0x54d9884921ed9265!8m2!3d23.5032668!4d87.3491784!16s%2Fg%2F11wpk7ssrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advanced-dental-care-and-implant-centre-durgapur",
@@ -283,7 +281,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Advanced+Dental+Care+%26+Implant+Centre/@23.5613741,87.2771948,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d92064e3b37:0xef70a4409db4c3af!8m2!3d23.5613741!4d87.2771948!16s%2Fg%2F11bc8xdwf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Dental+Care+%26+Implant+Centre/@23.5613741,87.2771948,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d92064e3b37:0xef70a4409db4c3af!8m2!3d23.5613741!4d87.2771948!16s%2Fg%2F11bc8xdwf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -352,8 +350,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Advanced+Dental+Care+%26+Implant+Centre/@23.5613741,87.2771948,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d92064e3b37:0xef70a4409db4c3af!8m2!3d23.5613741!4d87.2771948!16s%2Fg%2F11bc8xdwf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akruti-aesthetics-and-plastic-surgery-clinic-durgapur",
@@ -402,7 +399,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akruti+Aesthetics+%26+Plastic+Surgery+Clinic/@23.5445891,87.3022692,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77116f0d41349:0x8366b28f98d88376!8m2!3d23.5445891!4d87.3022692!16s%2Fg%2F11rvdn1fkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akruti+Aesthetics+%26+Plastic+Surgery+Clinic/@23.5445891,87.3022692,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77116f0d41349:0x8366b28f98d88376!8m2!3d23.5445891!4d87.3022692!16s%2Fg%2F11rvdn1fkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -468,11 +465,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akruti+Aesthetics+%26+Plastic+Surgery+Clinic/@23.5445891,87.3022692,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77116f0d41349:0x8366b28f98d88376!8m2!3d23.5445891!4d87.3022692!16s%2Fg%2F11rvdn1fkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-dental-clinic-durgapur-root-canals-aligners-implants-crowns-and-veneers-durgapur",
@@ -521,7 +517,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Durgapur+-+Root+Canals,+Aligners,+Implants,+Crowns+and+Veneers/@23.5219139,87.3706506,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771a60fff0bf5:0x15223da84989b1a9!8m2!3d23.5219139!4d87.3706506!16s%2Fg%2F11rxncg5b3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Durgapur+-+Root+Canals,+Aligners,+Implants,+Crowns+and+Veneers/@23.5219139,87.3706506,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771a60fff0bf5:0x15223da84989b1a9!8m2!3d23.5219139!4d87.3706506!16s%2Fg%2F11rxncg5b3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -587,11 +583,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Durgapur+-+Root+Canals,+Aligners,+Implants,+Crowns+and+Veneers/@23.5219139,87.3706506,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771a60fff0bf5:0x15223da84989b1a9!8m2!3d23.5219139!4d87.3706506!16s%2Fg%2F11rxncg5b3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-information-centre-durgapur",
@@ -637,7 +632,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+information+centre/@23.5445087,87.3028257,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7715f3e993f13:0x8232bea548cd1922!8m2!3d23.5445087!4d87.3028257!16s%2Fg%2F11y8gd00lc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+information+centre/@23.5445087,87.3028257,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7715f3e993f13:0x8232bea548cd1922!8m2!3d23.5445087!4d87.3028257!16s%2Fg%2F11y8gd00lc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -703,11 +698,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+information+centre/@23.5445087,87.3028257,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7715f3e993f13:0x8232bea548cd1922!8m2!3d23.5445087!4d87.3028257!16s%2Fg%2F11y8gd00lc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-information-centre-durgapur-durgapur",
@@ -756,7 +750,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Information+Centre+Durgapur/@23.5142981,87.3757639,17z/data=!3m1!4b1!4m6!3m5!1s0x39f772055fdb198d:0x913632d3e388bffa!8m2!3d23.5142981!4d87.3757639!16s%2Fg%2F124sy5mds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Information+Centre+Durgapur/@23.5142981,87.3757639,17z/data=!3m1!4b1!4m6!3m5!1s0x39f772055fdb198d:0x913632d3e388bffa!8m2!3d23.5142981!4d87.3757639!16s%2Fg%2F124sy5mds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -825,8 +819,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Information+Centre+Durgapur/@23.5142981,87.3757639,17z/data=!3m1!4b1!4m6!3m5!1s0x39f772055fdb198d:0x913632d3e388bffa!8m2!3d23.5142981!4d87.3757639!16s%2Fg%2F124sy5mds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-proton-therapy-in-asansol-asansol",
@@ -875,7 +868,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Asansol/@23.6844,86.9535,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71faed110bded:0xfe216fd4d4923c56!8m2!3d23.6844!4d86.9535!16s%2Fg%2F11xtw_s26n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Asansol/@23.6844,86.9535,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71faed110bded:0xfe216fd4d4923c56!8m2!3d23.6844!4d86.9535!16s%2Fg%2F11xtw_s26n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -941,11 +934,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Asansol/@23.6844,86.9535,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71faed110bded:0xfe216fd4d4923c56!8m2!3d23.6844!4d86.9535!16s%2Fg%2F11xtw_s26n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-proton-therapy-in-durgapur-durgapur",
@@ -994,7 +986,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Durgapur/@23.5516,87.3005,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d1b0f260e09:0x98fe73d1d152c057!8m2!3d23.5516!4d87.3005!16s%2Fg%2F11xs7n5g2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Durgapur/@23.5516,87.3005,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d1b0f260e09:0x98fe73d1d152c057!8m2!3d23.5516!4d87.3005!16s%2Fg%2F11xs7n5g2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1060,11 +1052,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Durgapur/@23.5516,87.3005,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d1b0f260e09:0x98fe73d1d152c057!8m2!3d23.5516!4d87.3005!16s%2Fg%2F11xs7n5g2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arati-women-s-health-durgapur",
@@ -1114,7 +1105,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arati+Women's+Health/@23.4861215,87.3207552,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7710069fda8f7:0xa9908c0d22edb6b6!8m2!3d23.4861215!4d87.3207552!16s%2Fg%2F11vm4b95rv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arati+Women's+Health/@23.4861215,87.3207552,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7710069fda8f7:0xa9908c0d22edb6b6!8m2!3d23.4861215!4d87.3207552!16s%2Fg%2F11vm4b95rv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1183,8 +1174,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arati+Women's+Health/@23.4861215,87.3207552,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7710069fda8f7:0xa9908c0d22edb6b6!8m2!3d23.4861215!4d87.3207552!16s%2Fg%2F11vm4b95rv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "banerjee-dental-clinic-durgapur",
@@ -1232,7 +1222,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Banerjee+Dental+Clinic/@23.4860599,87.3243816,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7715e9c8f7331:0x22695e5e8e22cbfc!8m2!3d23.4860599!4d87.3243816!16s%2Fg%2F11vx0kkc8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Banerjee+Dental+Clinic/@23.4860599,87.3243816,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7715e9c8f7331:0x22695e5e8e22cbfc!8m2!3d23.4860599!4d87.3243816!16s%2Fg%2F11vx0kkc8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1301,8 +1291,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Banerjee+Dental+Clinic/@23.4860599,87.3243816,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7715e9c8f7331:0x22695e5e8e22cbfc!8m2!3d23.4860599!4d87.3243816!16s%2Fg%2F11vx0kkc8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhattacharya-dental-care-durgapur",
@@ -1350,7 +1339,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhattacharya+dental+care/@23.5310876,87.3483146,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771cf43042745:0xbbe4777b579b13da!8m2!3d23.5310876!4d87.3483146!16s%2Fg%2F11jyfddf07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhattacharya+dental+care/@23.5310876,87.3483146,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771cf43042745:0xbbe4777b579b13da!8m2!3d23.5310876!4d87.3483146!16s%2Fg%2F11jyfddf07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1419,8 +1408,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhattacharya+dental+care/@23.5310876,87.3483146,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771cf43042745:0xbbe4777b579b13da!8m2!3d23.5310876!4d87.3483146!16s%2Fg%2F11jyfddf07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bidhan-niramoy-nursing-home-durgapur",
@@ -1469,7 +1457,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bidhan+Niramoy+Nursing+Home/@23.5128842,87.3509086,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7705071f3594d:0xa87a46969bacce69!8m2!3d23.5128842!4d87.3509086!16s%2Fg%2F1hd_l0gcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bidhan+Niramoy+Nursing+Home/@23.5128842,87.3509086,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7705071f3594d:0xa87a46969bacce69!8m2!3d23.5128842!4d87.3509086!16s%2Fg%2F1hd_l0gcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1538,8 +1526,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bidhan+Niramoy+Nursing+Home/@23.5128842,87.3509086,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7705071f3594d:0xa87a46969bacce69!8m2!3d23.5128842!4d87.3509086!16s%2Fg%2F1hd_l0gcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bm-birla-heart-hospital-ck-birla-hospitals-kolkata",
@@ -1589,7 +1576,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BM+Birla+Heart+Hospital+%7C+CK+Birla+Hospitals/@22.5328893,88.3282827,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a8d5360be41:0xd3c85b2644df4490!8m2!3d22.5328893!4d88.3282827!16s%2Fg%2F1tvw3bwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BM+Birla+Heart+Hospital+%7C+CK+Birla+Hospitals/@22.5328893,88.3282827,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a8d5360be41:0xd3c85b2644df4490!8m2!3d22.5328893!4d88.3282827!16s%2Fg%2F1tvw3bwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1658,8 +1645,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BM+Birla+Heart+Hospital+%7C+CK+Birla+Hospitals/@22.5328893,88.3282827,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a8d5360be41:0xd3c85b2644df4490!8m2!3d22.5328893!4d88.3282827!16s%2Fg%2F1tvw3bwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cardiosphere-durgapur",
@@ -1708,7 +1694,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CARDIOSPHERE/@23.5035419,87.3493139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773e730856431:0x2b65433270567e2f!8m2!3d23.5035419!4d87.3493139!16s%2Fg%2F11y5cd5j1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CARDIOSPHERE/@23.5035419,87.3493139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773e730856431:0x2b65433270567e2f!8m2!3d23.5035419!4d87.3493139!16s%2Fg%2F11y5cd5j1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1774,11 +1760,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CARDIOSPHERE/@23.5035419,87.3493139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773e730856431:0x2b65433270567e2f!8m2!3d23.5035419!4d87.3493139!16s%2Fg%2F11y5cd5j1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "citizen-hospital-durgapur",
@@ -1827,7 +1812,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Citizen+Hospital/@23.5126599,87.3532148,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771703fa74f21:0x5599d6acfbe5f7d4!8m2!3d23.5126599!4d87.3532148!16s%2Fg%2F11n60r9b1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Citizen+Hospital/@23.5126599,87.3532148,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771703fa74f21:0x5599d6acfbe5f7d4!8m2!3d23.5126599!4d87.3532148!16s%2Fg%2F11n60r9b1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1896,8 +1881,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Citizen+Hospital/@23.5126599,87.3532148,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771703fa74f21:0x5599d6acfbe5f7d4!8m2!3d23.5126599!4d87.3532148!16s%2Fg%2F11n60r9b1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-dental-clinic-durgapur",
@@ -1945,7 +1929,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CITY+DENTAL+CLINIC/@23.5716638,87.2782153,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d95035b983b:0xaaac513bd943579a!8m2!3d23.5716638!4d87.2782153!16s%2Fg%2F11d_72_n11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CITY+DENTAL+CLINIC/@23.5716638,87.2782153,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d95035b983b:0xaaac513bd943579a!8m2!3d23.5716638!4d87.2782153!16s%2Fg%2F11d_72_n11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2014,8 +1998,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CITY+DENTAL+CLINIC/@23.5716638,87.2782153,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d95035b983b:0xaaac513bd943579a!8m2!3d23.5716638!4d87.2782153!16s%2Fg%2F11d_72_n11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "confidental-care-durgapur",
@@ -2065,7 +2048,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ConfiDental+Care/@23.5164414,87.3480193,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77156b1e4e395:0xb537822029d72507!8m2!3d23.5164414!4d87.3480193!16s%2Fg%2F11qpvpvmzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ConfiDental+Care/@23.5164414,87.3480193,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77156b1e4e395:0xb537822029d72507!8m2!3d23.5164414!4d87.3480193!16s%2Fg%2F11qpvpvmzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2131,11 +2114,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ConfiDental+Care/@23.5164414,87.3480193,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77156b1e4e395:0xb537822029d72507!8m2!3d23.5164414!4d87.3480193!16s%2Fg%2F11qpvpvmzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "danta-mitra-dental-clinic-durgapur",
@@ -2183,7 +2165,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Danta+Mitra+Dental+Clinic/@23.5407588,87.3044799,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771aeba89e78b:0xbcf9293f207c4a75!8m2!3d23.5407588!4d87.3044799!16s%2Fg%2F11fhrytrk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Danta+Mitra+Dental+Clinic/@23.5407588,87.3044799,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771aeba89e78b:0xbcf9293f207c4a75!8m2!3d23.5407588!4d87.3044799!16s%2Fg%2F11fhrytrk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2249,11 +2231,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Danta+Mitra+Dental+Clinic/@23.5407588,87.3044799,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771aeba89e78b:0xbcf9293f207c4a75!8m2!3d23.5407588!4d87.3044799!16s%2Fg%2F11fhrytrk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dantyam-dr-utpal-upasak-ruchika-best-dentist-dental-clinic-orthodontic-implant-centre-near-me-in-city-centre-durgapur-durgapur",
@@ -2303,7 +2284,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dantyam-DR+UTPAL%2FUPASAK%2FRUCHIKA+BEST+DENTIST%2FDENTAL+CLINIC%2F+ORTHODONTIC+IMPLANT+CENTRE+NEAR+ME+IN+CITY+CENTRE+DURGAPUR/@23.5383219,87.2992452,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773acf876c1fb:0x563a96f56ce67613!8m2!3d23.5383219!4d87.2992452!16s%2Fg%2F11fmbl3d6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dantyam-DR+UTPAL%2FUPASAK%2FRUCHIKA+BEST+DENTIST%2FDENTAL+CLINIC%2F+ORTHODONTIC+IMPLANT+CENTRE+NEAR+ME+IN+CITY+CENTRE+DURGAPUR/@23.5383219,87.2992452,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773acf876c1fb:0x563a96f56ce67613!8m2!3d23.5383219!4d87.2992452!16s%2Fg%2F11fmbl3d6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2372,8 +2353,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dantyam-DR+UTPAL%2FUPASAK%2FRUCHIKA+BEST+DENTIST%2FDENTAL+CLINIC%2F+ORTHODONTIC+IMPLANT+CENTRE+NEAR+ME+IN+CITY+CENTRE+DURGAPUR/@23.5383219,87.2992452,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773acf876c1fb:0x563a96f56ce67613!8m2!3d23.5383219!4d87.2992452!16s%2Fg%2F11fmbl3d6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-solutions-durgapur",
@@ -2421,7 +2401,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Solutions/@23.5361504,87.3072766,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771d5e5309d45:0x8664e2bc8770a285!8m2!3d23.5361504!4d87.3072766!16s%2Fg%2F11h5s3vpkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Solutions/@23.5361504,87.3072766,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771d5e5309d45:0x8664e2bc8770a285!8m2!3d23.5361504!4d87.3072766!16s%2Fg%2F11h5s3vpkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2490,8 +2470,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Solutions/@23.5361504,87.3072766,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771d5e5309d45:0x8664e2bc8770a285!8m2!3d23.5361504!4d87.3072766!16s%2Fg%2F11h5s3vpkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dreamland-hospital-durgapur",
@@ -2539,7 +2518,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dreamland+Hospital/@23.4977546,87.3242269,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771512d787eeb:0xc17c8f763ce7f01b!8m2!3d23.4977546!4d87.3242269!16s%2Fg%2F11tjplfhl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dreamland+Hospital/@23.4977546,87.3242269,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771512d787eeb:0xc17c8f763ce7f01b!8m2!3d23.4977546!4d87.3242269!16s%2Fg%2F11tjplfhl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2608,8 +2587,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dreamland+Hospital/@23.4977546,87.3242269,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771512d787eeb:0xc17c8f763ce7f01b!8m2!3d23.4977546!4d87.3242269!16s%2Fg%2F11tjplfhl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "durgapur-city-hospital-and-clinic-durgapur",
@@ -2657,7 +2635,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Durgapur+City+Hospital+%26+Clinic/@23.539513,87.3002684,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77202ec896505:0x75d1f352802daccb!8m2!3d23.539513!4d87.3002684!16s%2Fg%2F1hd_1bdlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Durgapur+City+Hospital+%26+Clinic/@23.539513,87.3002684,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77202ec896505:0x75d1f352802daccb!8m2!3d23.539513!4d87.3002684!16s%2Fg%2F1hd_1bdlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2726,8 +2704,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Durgapur+City+Hospital+%26+Clinic/@23.539513,87.3002684,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77202ec896505:0x75d1f352802daccb!8m2!3d23.539513!4d87.3002684!16s%2Fg%2F1hd_1bdlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "durgapur-medical-center-durgapur",
@@ -2773,7 +2750,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Durgapur+medical+Center/@23.5204443,87.3119227,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771003d6801c3:0xb64f766f138dcc83!8m2!3d23.5204443!4d87.3119227!16s%2Fg%2F11lz7p9sk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Durgapur+medical+Center/@23.5204443,87.3119227,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771003d6801c3:0xb64f766f138dcc83!8m2!3d23.5204443!4d87.3119227!16s%2Fg%2F11lz7p9sk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2839,11 +2816,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Durgapur+medical+Center/@23.5204443,87.3119227,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771003d6801c3:0xb64f766f138dcc83!8m2!3d23.5204443!4d87.3119227!16s%2Fg%2F11lz7p9sk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "durgapur-spine-care-advanced-physiotherapy-clinic-durgapur",
@@ -2893,7 +2869,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DURGAPUR+SPINE+CARE+ADVANCED+PHYSIOTHERAPY+CLINIC/@23.5426427,87.3005113,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7713fa2893233:0xdaf5f0c2e3cd560!8m2!3d23.5426427!4d87.3005113!16s%2Fg%2F11wq8k_rl_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DURGAPUR+SPINE+CARE+ADVANCED+PHYSIOTHERAPY+CLINIC/@23.5426427,87.3005113,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7713fa2893233:0xdaf5f0c2e3cd560!8m2!3d23.5426427!4d87.3005113!16s%2Fg%2F11wq8k_rl_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2962,8 +2938,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DURGAPUR+SPINE+CARE+ADVANCED+PHYSIOTHERAPY+CLINIC/@23.5426427,87.3005113,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7713fa2893233:0xdaf5f0c2e3cd560!8m2!3d23.5426427!4d87.3005113!16s%2Fg%2F11wq8k_rl_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "durgapur-sub-divisional-hospital-durgapur",
@@ -3011,7 +2986,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Durgapur+Sub+Divisional+Hospital/@23.5260363,87.3421313,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7704aa5cd3d0d:0xef7cd0d47b0d711!8m2!3d23.5260363!4d87.3421313!16s%2Fg%2F1thk_817?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Durgapur+Sub+Divisional+Hospital/@23.5260363,87.3421313,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7704aa5cd3d0d:0xef7cd0d47b0d711!8m2!3d23.5260363!4d87.3421313!16s%2Fg%2F1thk_817?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3080,8 +3055,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Durgapur+Sub+Divisional+Hospital/@23.5260363,87.3421313,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7704aa5cd3d0d:0xef7cd0d47b0d711!8m2!3d23.5260363!4d87.3421313!16s%2Fg%2F1thk_817?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dyuti-cardio-and-gastro-solutions-dyuti-clinic-durgapur",
@@ -3130,7 +3104,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DYUTI+CARDIO+AND+GASTRO+SOLUTIONS+%7C+Dyuti+Clinic/@23.5401519,87.2995012,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7730060cfb8ff:0xa1360e97f675ff99!8m2!3d23.5401519!4d87.2995012!16s%2Fg%2F11wqj5gzrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DYUTI+CARDIO+AND+GASTRO+SOLUTIONS+%7C+Dyuti+Clinic/@23.5401519,87.2995012,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7730060cfb8ff:0xa1360e97f675ff99!8m2!3d23.5401519!4d87.2995012!16s%2Fg%2F11wqj5gzrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3196,11 +3170,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DYUTI+CARDIO+AND+GASTRO+SOLUTIONS+%7C+Dyuti+Clinic/@23.5401519,87.2995012,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7730060cfb8ff:0xa1360e97f675ff99!8m2!3d23.5401519!4d87.2995012!16s%2Fg%2F11wqj5gzrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "eepiderma-cosmetology-and-laser-clinic-best-skin-and-hair-treatments-in-durgapur-durgapur",
@@ -3249,7 +3222,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/EEpiderma+Cosmetology+%26+Laser+Clinic+-+Best+Skin+%26+Hair+Treatments+in+Durgapur/@23.5389709,87.2984597,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71faab4fad511:0xe573d0d698c04f88!8m2!3d23.5389709!4d87.2984597!16s%2Fg%2F11fy0m0qcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/EEpiderma+Cosmetology+%26+Laser+Clinic+-+Best+Skin+%26+Hair+Treatments+in+Durgapur/@23.5389709,87.2984597,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71faab4fad511:0xe573d0d698c04f88!8m2!3d23.5389709!4d87.2984597!16s%2Fg%2F11fy0m0qcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3318,8 +3291,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/EEpiderma+Cosmetology+%26+Laser+Clinic+-+Best+Skin+%26+Hair+Treatments+in+Durgapur/@23.5389709,87.2984597,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71faab4fad511:0xe573d0d698c04f88!8m2!3d23.5389709!4d87.2984597!16s%2Fg%2F11fy0m0qcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "floss-and-gloss-dental-care-durgapur",
@@ -3367,7 +3339,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Floss+and+Gloss+dental+care/@23.5262904,87.3575957,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771e08123ed6b:0x3e39822cebc5af38!8m2!3d23.5262904!4d87.3575957!16s%2Fg%2F11kqw00y8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Floss+and+Gloss+dental+care/@23.5262904,87.3575957,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771e08123ed6b:0x3e39822cebc5af38!8m2!3d23.5262904!4d87.3575957!16s%2Fg%2F11kqw00y8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3436,8 +3408,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Floss+and+Gloss+dental+care/@23.5262904,87.3575957,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771e08123ed6b:0x3e39822cebc5af38!8m2!3d23.5262904!4d87.3575957!16s%2Fg%2F11kqw00y8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fortis-hospital-and-kidney-institute-rash-behari-kolkata-best-hospital-in-kolkata-kolkata",
@@ -3487,7 +3458,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fortis+Hospital+and+Kidney+Institute,+Rash+Behari,+Kolkata+-+Best+Hospital+in+Kolkata/@22.5182209,88.3559414,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02772ce4def8b3:0x53f610ef7b4b1980!8m2!3d22.5182209!4d88.3559414!16s%2Fg%2F1tfjcz85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fortis+Hospital+and+Kidney+Institute,+Rash+Behari,+Kolkata+-+Best+Hospital+in+Kolkata/@22.5182209,88.3559414,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02772ce4def8b3:0x53f610ef7b4b1980!8m2!3d22.5182209!4d88.3559414!16s%2Fg%2F1tfjcz85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3556,8 +3527,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fortis+Hospital+and+Kidney+Institute,+Rash+Behari,+Kolkata+-+Best+Hospital+in+Kolkata/@22.5182209,88.3559414,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02772ce4def8b3:0x53f610ef7b4b1980!8m2!3d22.5182209!4d88.3559414!16s%2Fg%2F1tfjcz85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fortis-hospital-anandapur-best-hospital-in-kolkata-kolkata",
@@ -3606,7 +3576,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fortis+Hospital,+Anandapur+-+Best+Hospital+in+Kolkata/@22.5204939,88.4009459,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273fee88683e9:0xbb33eb2c6b96909a!8m2!3d22.5204939!4d88.4009459!16s%2Fg%2F1tlk9t1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fortis+Hospital,+Anandapur+-+Best+Hospital+in+Kolkata/@22.5204939,88.4009459,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273fee88683e9:0xbb33eb2c6b96909a!8m2!3d22.5204939!4d88.4009459!16s%2Fg%2F1tlk9t1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3675,8 +3645,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fortis+Hospital,+Anandapur+-+Best+Hospital+in+Kolkata/@22.5204939,88.4009459,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273fee88683e9:0xbb33eb2c6b96909a!8m2!3d22.5204939!4d88.4009459!16s%2Fg%2F1tlk9t1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "galaxy-dental-clinic-durgapur",
@@ -3724,7 +3693,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GALAXY+DENTAL+CLINIC/@23.5444626,87.2827797,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773a51d6d24b7:0xf3639230da44a23!8m2!3d23.5444626!4d87.2827797!16s%2Fg%2F11jsm41h8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GALAXY+DENTAL+CLINIC/@23.5444626,87.2827797,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773a51d6d24b7:0xf3639230da44a23!8m2!3d23.5444626!4d87.2827797!16s%2Fg%2F11jsm41h8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3790,11 +3759,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GALAXY+DENTAL+CLINIC/@23.5444626,87.2827797,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773a51d6d24b7:0xf3639230da44a23!8m2!3d23.5444626!4d87.2827797!16s%2Fg%2F11jsm41h8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ganguly-s-dental-care-durgapur",
@@ -3842,7 +3810,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ganguly's+Dental+Care/@23.5053508,87.3497901,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7715c017f41e9:0x51f25fa9221bd012!8m2!3d23.5053508!4d87.3497901!16s%2Fg%2F11sd1v8097?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganguly's+Dental+Care/@23.5053508,87.3497901,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7715c017f41e9:0x51f25fa9221bd012!8m2!3d23.5053508!4d87.3497901!16s%2Fg%2F11sd1v8097?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3908,11 +3876,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ganguly's+Dental+Care/@23.5053508,87.3497901,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7715c017f41e9:0x51f25fa9221bd012!8m2!3d23.5053508!4d87.3497901!16s%2Fg%2F11sd1v8097?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gouri-devi-hospital-durgapur",
@@ -3961,7 +3928,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gouri+Devi+Hospital/@23.4768525,87.4014977,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77a3fcd5ca78b:0x6b51f727181230d7!8m2!3d23.4768525!4d87.4014977!16s%2Fg%2F11r8dw_7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gouri+Devi+Hospital/@23.4768525,87.4014977,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77a3fcd5ca78b:0x6b51f727181230d7!8m2!3d23.4768525!4d87.4014977!16s%2Fg%2F11r8dw_7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4030,8 +3997,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gouri+Devi+Hospital/@23.4768525,87.4014977,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77a3fcd5ca78b:0x6b51f727181230d7!8m2!3d23.4768525!4d87.4014977!16s%2Fg%2F11r8dw_7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "health-aid-durgapur",
@@ -4081,7 +4047,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Health+Aid/@23.5860052,87.2717881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d48c8296301:0x1bc5e512381c2059!8m2!3d23.5860052!4d87.2717881!16s%2Fg%2F11v3xl6xpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Health+Aid/@23.5860052,87.2717881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d48c8296301:0x1bc5e512381c2059!8m2!3d23.5860052!4d87.2717881!16s%2Fg%2F11v3xl6xpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4147,11 +4113,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Health+Aid/@23.5860052,87.2717881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d48c8296301:0x1bc5e512381c2059!8m2!3d23.5860052!4d87.2717881!16s%2Fg%2F11v3xl6xpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "health-center-nit-durgapur-durgapur",
@@ -4199,7 +4164,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Health+Center+(NIT+Durgapur)/@23.5501587,87.290389,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76df7c2bab28b:0x81c915bb6bc1c39a!8m2!3d23.5501587!4d87.290389!16s%2Fg%2F11c1qm0btf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Health+Center+(NIT+Durgapur)/@23.5501587,87.290389,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76df7c2bab28b:0x81c915bb6bc1c39a!8m2!3d23.5501587!4d87.290389!16s%2Fg%2F11c1qm0btf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4268,8 +4233,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Health+Center+(NIT+Durgapur)/@23.5501587,87.290389,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76df7c2bab28b:0x81c915bb6bc1c39a!8m2!3d23.5501587!4d87.290389!16s%2Fg%2F11c1qm0btf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healthworld-hospitals-durgapur",
@@ -4318,7 +4282,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Healthworld+Hospitals/@23.5399176,87.2891688,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77378b9066567:0x5cf72286bd1d6912!8m2!3d23.5399176!4d87.2891688!16s%2Fg%2F11dxd__bxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthworld+Hospitals/@23.5399176,87.2891688,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77378b9066567:0x5cf72286bd1d6912!8m2!3d23.5399176!4d87.2891688!16s%2Fg%2F11dxd__bxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4387,8 +4351,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Healthworld+Hospitals/@23.5399176,87.2891688,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77378b9066567:0x5cf72286bd1d6912!8m2!3d23.5399176!4d87.2891688!16s%2Fg%2F11dxd__bxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healthworld-ivf-durgapur",
@@ -4438,7 +4401,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Healthworld+IVF/@23.5397946,87.289312,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77308fb855241:0x17c51e9fc85b2e7a!8m2!3d23.5397946!4d87.289312!16s%2Fg%2F11fs2nk3sh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthworld+IVF/@23.5397946,87.289312,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77308fb855241:0x17c51e9fc85b2e7a!8m2!3d23.5397946!4d87.289312!16s%2Fg%2F11fs2nk3sh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4507,8 +4470,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Healthworld+IVF/@23.5397946,87.289312,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77308fb855241:0x17c51e9fc85b2e7a!8m2!3d23.5397946!4d87.289312!16s%2Fg%2F11fs2nk3sh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "i-smile-dental-care-durgapur",
@@ -4556,7 +4518,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/i-Smile+Dental+Care/@23.5799615,87.2791954,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d4842726079:0x70b5c560f02b6ea1!8m2!3d23.5799615!4d87.2791954!16s%2Fg%2F11vdq1_7lk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/i-Smile+Dental+Care/@23.5799615,87.2791954,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d4842726079:0x70b5c560f02b6ea1!8m2!3d23.5799615!4d87.2791954!16s%2Fg%2F11vdq1_7lk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4622,11 +4584,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/i-Smile+Dental+Care/@23.5799615,87.2791954,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d4842726079:0x70b5c560f02b6ea1!8m2!3d23.5799615!4d87.2791954!16s%2Fg%2F11vdq1_7lk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ils-hospitals-salt-lake-kolkata",
@@ -4675,7 +4636,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ILS+Hospitals,+Salt+lake/@22.5891732,88.4109413,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c47e1bcb9b:0xb153e6644af38bf6!8m2!3d22.5891732!4d88.4109413!16s%2Fg%2F11hlyqgbt7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ILS+Hospitals,+Salt+lake/@22.5891732,88.4109413,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c47e1bcb9b:0xb153e6644af38bf6!8m2!3d22.5891732!4d88.4109413!16s%2Fg%2F11hlyqgbt7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4744,8 +4705,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ILS+Hospitals,+Salt+lake/@22.5891732,88.4109413,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c47e1bcb9b:0xb153e6644af38bf6!8m2!3d22.5891732!4d88.4109413!16s%2Fg%2F11hlyqgbt7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indian-institute-of-liver-and-digestive-sciences-kolkata",
@@ -4796,7 +4756,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/@22.4362319,88.4537972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/@22.4362319,88.4537972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4865,8 +4825,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/@22.4362319,88.4537972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "iq-city-hospital-durgapur",
@@ -4915,7 +4874,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/IQ+City+hospital/@23.5709891,87.33694,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76e343543ee31:0x1aebe7770bb1ca2a!8m2!3d23.5709891!4d87.33694!16s%2Fg%2F11gc4tjlst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IQ+City+hospital/@23.5709891,87.33694,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76e343543ee31:0x1aebe7770bb1ca2a!8m2!3d23.5709891!4d87.33694!16s%2Fg%2F11gc4tjlst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4981,11 +4940,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/IQ+City+hospital/@23.5709891,87.33694,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76e343543ee31:0x1aebe7770bb1ca2a!8m2!3d23.5709891!4d87.33694!16s%2Fg%2F11gc4tjlst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "iq-city-medical-college-hospital-durgapur-district",
@@ -5035,7 +4993,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/IQ+City+Medical+College+Hospital/@23.5710205,87.337153,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76fd791e5fe79:0xd15a8564ab1ba846!8m2!3d23.5710205!4d87.337153!16s%2Fg%2F11c5m8ttmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IQ+City+Medical+College+Hospital/@23.5710205,87.337153,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76fd791e5fe79:0xd15a8564ab1ba846!8m2!3d23.5710205!4d87.337153!16s%2Fg%2F11c5m8ttmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5104,8 +5062,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/IQ+City+Medical+College+Hospital/@23.5710205,87.337153,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76fd791e5fe79:0xd15a8564ab1ba846!8m2!3d23.5710205!4d87.337153!16s%2Fg%2F11c5m8ttmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-care-hospital-durgapur",
@@ -5153,7 +5110,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+Care+Hospital/@23.5393022,87.2982648,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773a60092a27f:0x8eb6798572f19731!8m2!3d23.5393022!4d87.2982648!16s%2Fg%2F11skmw0jtj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Care+Hospital/@23.5393022,87.2982648,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773a60092a27f:0x8eb6798572f19731!8m2!3d23.5393022!4d87.2982648!16s%2Fg%2F11skmw0jtj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5222,8 +5179,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+Care+Hospital/@23.5393022,87.2982648,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773a60092a27f:0x8eb6798572f19731!8m2!3d23.5393022!4d87.2982648!16s%2Fg%2F11skmw0jtj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-durga-hospital-rajbandh",
@@ -5272,7 +5228,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maa+Durga+Hospital/@23.4803982,87.3974539,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77a6b34250e79:0xf723ea2e6e4f273!8m2!3d23.4803982!4d87.3974539!16s%2Fg%2F11b5pkdh86?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Durga+Hospital/@23.4803982,87.3974539,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77a6b34250e79:0xf723ea2e6e4f273!8m2!3d23.4803982!4d87.3974539!16s%2Fg%2F11b5pkdh86?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5341,8 +5297,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maa+Durga+Hospital/@23.4803982,87.3974539,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77a6b34250e79:0xf723ea2e6e4f273!8m2!3d23.4803982!4d87.3974539!16s%2Fg%2F11b5pkdh86?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manipal-hospitals-mukundapur-kolkata",
@@ -5391,7 +5346,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manipal+Hospitals+-+Mukundapur/@22.4941477,88.402129,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e010a87231:0x28450505db01cf79!8m2!3d22.4941477!4d88.402129!16s%2Fg%2F1q69xq6dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospitals+-+Mukundapur/@22.4941477,88.402129,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e010a87231:0x28450505db01cf79!8m2!3d22.4941477!4d88.402129!16s%2Fg%2F1q69xq6dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5460,8 +5415,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manipal+Hospitals+-+Mukundapur/@22.4941477,88.402129,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e010a87231:0x28450505db01cf79!8m2!3d22.4941477!4d88.402129!16s%2Fg%2F1q69xq6dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "matritwa-ivf-clinic-i-best-ivf-centre-i-durgapur-i-west-bengal-durgapur",
@@ -5511,7 +5465,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Matritwa+IVF+Clinic+I+Best+IVF+Centre+I+Durgapur+I+West+Bengal/@23.5392995,87.3038726,17z/data=!3m1!4b1!4m6!3m5!1s0x5a57a02bbb0f3b7:0x3ae1999f70e23ed5!8m2!3d23.5392995!4d87.3038726!16s%2Fg%2F11n3lhlyfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matritwa+IVF+Clinic+I+Best+IVF+Centre+I+Durgapur+I+West+Bengal/@23.5392995,87.3038726,17z/data=!3m1!4b1!4m6!3m5!1s0x5a57a02bbb0f3b7:0x3ae1999f70e23ed5!8m2!3d23.5392995!4d87.3038726!16s%2Fg%2F11n3lhlyfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5580,8 +5534,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Matritwa+IVF+Clinic+I+Best+IVF+Centre+I+Durgapur+I+West+Bengal/@23.5392995,87.3038726,17z/data=!3m1!4b1!4m6!3m5!1s0x5a57a02bbb0f3b7:0x3ae1999f70e23ed5!8m2!3d23.5392995!4d87.3038726!16s%2Fg%2F11n3lhlyfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maxlife-polyclinic-and-diagnostics-durgapur",
@@ -5629,7 +5582,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maxlife+Polyclinic+%26+Diagnostics/@23.4989626,87.3239391,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7719315011b0b:0x34231d0a1c2d9e82!8m2!3d23.4989626!4d87.3239391!16s%2Fg%2F11w9xv96s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxlife+Polyclinic+%26+Diagnostics/@23.4989626,87.3239391,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7719315011b0b:0x34231d0a1c2d9e82!8m2!3d23.4989626!4d87.3239391!16s%2Fg%2F11w9xv96s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5695,11 +5648,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maxlife+Polyclinic+%26+Diagnostics/@23.4989626,87.3239391,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7719315011b0b:0x34231d0a1c2d9e82!8m2!3d23.4989626!4d87.3239391!16s%2Fg%2F11w9xv96s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medigastro-clinic-and-diagnostic-centre-durgapur",
@@ -5750,7 +5702,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medigastro+Clinic+And+Diagnostic+Centre/@23.5156567,87.357133,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771579ef9b2cf:0xe64ea1cd45828f9a!8m2!3d23.5156567!4d87.357133!16s%2Fg%2F11fm6fzz8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medigastro+Clinic+And+Diagnostic+Centre/@23.5156567,87.357133,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771579ef9b2cf:0xe64ea1cd45828f9a!8m2!3d23.5156567!4d87.357133!16s%2Fg%2F11fm6fzz8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5819,8 +5771,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medigastro+Clinic+And+Diagnostic+Centre/@23.5156567,87.357133,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771579ef9b2cf:0xe64ea1cd45828f9a!8m2!3d23.5156567!4d87.357133!16s%2Fg%2F11fm6fzz8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mednaif-clinic-bhimpalashri-sarani",
@@ -5868,7 +5819,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MEDNAIF+CLINIC/@23.5176513,87.3571483,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771b93f9cd4b9:0xb9e49a3be889b8ea!8m2!3d23.5176513!4d87.3571483!16s%2Fg%2F11vlmsxl9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEDNAIF+CLINIC/@23.5176513,87.3571483,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771b93f9cd4b9:0xb9e49a3be889b8ea!8m2!3d23.5176513!4d87.3571483!16s%2Fg%2F11vlmsxl9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5937,8 +5888,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MEDNAIF+CLINIC/@23.5176513,87.3571483,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771b93f9cd4b9:0xb9e49a3be889b8ea!8m2!3d23.5176513!4d87.3571483!16s%2Fg%2F11vlmsxl9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mother-care-durgapur",
@@ -5987,7 +5937,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MOTHER+CARE/@23.5396267,87.2993815,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773859a1ec689:0xcffa78a3ecfe5fed!8m2!3d23.5396267!4d87.2993815!16s%2Fg%2F11j7yxkd5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MOTHER+CARE/@23.5396267,87.2993815,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773859a1ec689:0xcffa78a3ecfe5fed!8m2!3d23.5396267!4d87.2993815!16s%2Fg%2F11j7yxkd5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6053,11 +6003,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MOTHER+CARE/@23.5396267,87.2993815,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773859a1ec689:0xcffa78a3ecfe5fed!8m2!3d23.5396267!4d87.2993815!16s%2Fg%2F11j7yxkd5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nehru-memorial-techno-global-hospital-barrackpore",
@@ -6106,7 +6055,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nehru+Memorial+Techno+Global+Hospital/@22.766876,88.3677048,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89a59d69b5d19:0x69936de4845c6321!8m2!3d22.766876!4d88.3677048!16s%2Fg%2F1tg9r2vl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nehru+Memorial+Techno+Global+Hospital/@22.766876,88.3677048,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89a59d69b5d19:0x69936de4845c6321!8m2!3d22.766876!4d88.3677048!16s%2Fg%2F1tg9r2vl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6175,8 +6124,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nehru+Memorial+Techno+Global+Hospital/@22.766876,88.3677048,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89a59d69b5d19:0x69936de4845c6321!8m2!3d22.766876!4d88.3677048!16s%2Fg%2F1tg9r2vl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nephro-care-kolkata",
@@ -6226,7 +6174,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nephro+Care/@22.5688589,88.4117295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephro+Care/@22.5688589,88.4117295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6295,8 +6243,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nephro+Care/@22.5688589,88.4117295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nephrology-clinic-durgapur",
@@ -6342,7 +6289,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nephrology+Clinic/@23.5452949,87.3086534,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771fc6754908b:0x58e7d7db0d0039ad!8m2!3d23.5452949!4d87.3086534!16s%2Fg%2F11sbq_vtrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephrology+Clinic/@23.5452949,87.3086534,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771fc6754908b:0x58e7d7db0d0039ad!8m2!3d23.5452949!4d87.3086534!16s%2Fg%2F11sbq_vtrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6408,11 +6355,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nephrology+Clinic/@23.5452949,87.3086534,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771fc6754908b:0x58e7d7db0d0039ad!8m2!3d23.5452949!4d87.3086534!16s%2Fg%2F11sbq_vtrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-durgapur",
@@ -6461,7 +6407,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@23.5137675,87.3749425,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771f49a4dba5f:0xfe279ee1bdbfbe18!8m2!3d23.5137675!4d87.3749425!16s%2Fg%2F11slfcm16l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@23.5137675,87.3749425,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771f49a4dba5f:0xfe279ee1bdbfbe18!8m2!3d23.5137675!4d87.3749425!16s%2Fg%2F11slfcm16l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6527,11 +6473,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@23.5137675,87.3749425,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771f49a4dba5f:0xfe279ee1bdbfbe18!8m2!3d23.5137675!4d87.3749425!16s%2Fg%2F11slfcm16l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neuro-and-gynae-clinic-durgapur",
@@ -6580,7 +6525,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NEURO+%26+GYNAE+CLINIC/@23.4979266,87.3368659,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7719879ab57b9:0x7f0236f09d019c14!8m2!3d23.4979266!4d87.3368659!16s%2Fg%2F11n3m3ytzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEURO+%26+GYNAE+CLINIC/@23.4979266,87.3368659,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7719879ab57b9:0x7f0236f09d019c14!8m2!3d23.4979266!4d87.3368659!16s%2Fg%2F11n3m3ytzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6646,11 +6591,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NEURO+%26+GYNAE+CLINIC/@23.4979266,87.3368659,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7719879ab57b9:0x7f0236f09d019c14!8m2!3d23.4979266!4d87.3368659!16s%2Fg%2F11n3m3ytzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neuro-care-clinic-durgapur",
@@ -6699,7 +6643,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neuro+care+clinic/@23.5116901,87.3511704,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7719a51473cb3:0x2e36166fba42eee0!8m2!3d23.5116901!4d87.3511704!16s%2Fg%2F11v3tpdcn1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuro+care+clinic/@23.5116901,87.3511704,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7719a51473cb3:0x2e36166fba42eee0!8m2!3d23.5116901!4d87.3511704!16s%2Fg%2F11v3tpdcn1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6765,11 +6709,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neuro+care+clinic/@23.5116901,87.3511704,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7719a51473cb3:0x2e36166fba42eee0!8m2!3d23.5116901!4d87.3511704!16s%2Fg%2F11v3tpdcn1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nkpc-kidney-clinic-kolkata",
@@ -6819,7 +6762,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6888,8 +6831,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nulife-woman-clinic-durgapur",
@@ -6938,7 +6880,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nulife+Woman+Clinic/@23.5580623,87.2753368,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d8ef5f7b84f:0x16304c3701bad3c7!8m2!3d23.5580623!4d87.2753368!16s%2Fg%2F11tft04v0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nulife+Woman+Clinic/@23.5580623,87.2753368,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d8ef5f7b84f:0x16304c3701bad3c7!8m2!3d23.5580623!4d87.2753368!16s%2Fg%2F11tft04v0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7004,11 +6946,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nulife+Woman+Clinic/@23.5580623,87.2753368,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d8ef5f7b84f:0x16304c3701bad3c7!8m2!3d23.5580623!4d87.2753368!16s%2Fg%2F11tft04v0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oral-n-dental-care-durgapur",
@@ -7056,7 +6997,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oral+n+Dental+Care/@23.5811978,87.2988803,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d3c72f23927:0xb7da5f0b7f92b575!8m2!3d23.5811978!4d87.2988803!16s%2Fg%2F11s3b7scdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+n+Dental+Care/@23.5811978,87.2988803,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d3c72f23927:0xb7da5f0b7f92b575!8m2!3d23.5811978!4d87.2988803!16s%2Fg%2F11s3b7scdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7122,11 +7063,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oral+n+Dental+Care/@23.5811978,87.2988803,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d3c72f23927:0xb7da5f0b7f92b575!8m2!3d23.5811978!4d87.2988803!16s%2Fg%2F11s3b7scdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pb-dental-clinic-and-implant-centre-durgapur",
@@ -7175,7 +7115,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PB+Dental+Clinic+and+Implant+Centre/@23.5455573,87.2816177,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773ee2a4119c9:0xc8a130f2ef04ef5f!8m2!3d23.5455573!4d87.2816177!16s%2Fg%2F11g196dnw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PB+Dental+Clinic+and+Implant+Centre/@23.5455573,87.2816177,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773ee2a4119c9:0xc8a130f2ef04ef5f!8m2!3d23.5455573!4d87.2816177!16s%2Fg%2F11g196dnw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7241,11 +7181,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PB+Dental+Clinic+and+Implant+Centre/@23.5455573,87.2816177,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773ee2a4119c9:0xc8a130f2ef04ef5f!8m2!3d23.5455573!4d87.2816177!16s%2Fg%2F11g196dnw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "perfect-32-dental-clinic-durgapur",
@@ -7293,7 +7232,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PERFECT+32+DENTAL+CLINIC/@23.5121212,87.3727181,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7717c8cf3fcfb:0x24e44f6e9112ebcf!8m2!3d23.5121212!4d87.3727181!16s%2Fg%2F11smyg0bvc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PERFECT+32+DENTAL+CLINIC/@23.5121212,87.3727181,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7717c8cf3fcfb:0x24e44f6e9112ebcf!8m2!3d23.5121212!4d87.3727181!16s%2Fg%2F11smyg0bvc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7359,11 +7298,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PERFECT+32+DENTAL+CLINIC/@23.5121212,87.3727181,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7717c8cf3fcfb:0x24e44f6e9112ebcf!8m2!3d23.5121212!4d87.3727181!16s%2Fg%2F11smyg0bvc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "phoenix-dental-clinic-durgapur",
@@ -7411,7 +7349,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Phoenix+Dental+Clinic/@23.4967375,87.3247485,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771ff9d37164f:0x831dcb8f2d800b80!8m2!3d23.4967375!4d87.3247485!16s%2Fg%2F11t5b5http?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Phoenix+Dental+Clinic/@23.4967375,87.3247485,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771ff9d37164f:0x831dcb8f2d800b80!8m2!3d23.4967375!4d87.3247485!16s%2Fg%2F11t5b5http?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7480,8 +7418,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Phoenix+Dental+Clinic/@23.4967375,87.3247485,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771ff9d37164f:0x831dcb8f2d800b80!8m2!3d23.4967375!4d87.3247485!16s%2Fg%2F11t5b5http?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "physio-for-health-advanced-physiotherapy-clinic-and-best-physiotherapist-durgapur",
@@ -7531,7 +7468,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PHYSIO+FOR+HEALTH+-+Advanced+Physiotherapy+Clinic+and+Best+Physiotherapist/@23.5129351,87.3807638,17z/data=!3m1!4b1!4m6!3m5!1s0x39f770787a160075:0x3c1e6cdf699b4bc1!8m2!3d23.5129351!4d87.3807638!16s%2Fg%2F11dy7cqv9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PHYSIO+FOR+HEALTH+-+Advanced+Physiotherapy+Clinic+and+Best+Physiotherapist/@23.5129351,87.3807638,17z/data=!3m1!4b1!4m6!3m5!1s0x39f770787a160075:0x3c1e6cdf699b4bc1!8m2!3d23.5129351!4d87.3807638!16s%2Fg%2F11dy7cqv9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7597,11 +7534,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PHYSIO+FOR+HEALTH+-+Advanced+Physiotherapy+Clinic+and+Best+Physiotherapist/@23.5129351,87.3807638,17z/data=!3m1!4b1!4m6!3m5!1s0x39f770787a160075:0x3c1e6cdf699b4bc1!8m2!3d23.5129351!4d87.3807638!16s%2Fg%2F11dy7cqv9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prantik-speciality-clinic-durgapur",
@@ -7652,7 +7588,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/prantik+speciality+clinic/@23.5451605,87.3086145,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7713cd78b5397:0xb5c3f839637d3dce!8m2!3d23.5451605!4d87.3086145!16s%2Fg%2F11f6z3jdxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/prantik+speciality+clinic/@23.5451605,87.3086145,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7713cd78b5397:0xb5c3f839637d3dce!8m2!3d23.5451605!4d87.3086145!16s%2Fg%2F11f6z3jdxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7718,11 +7654,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/prantik+speciality+clinic/@23.5451605,87.3086145,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7713cd78b5397:0xb5c3f839637d3dce!8m2!3d23.5451605!4d87.3086145!16s%2Fg%2F11f6z3jdxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "royd-nursing-home-kolkata",
@@ -7771,7 +7706,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Royd+Nursing+Home/@22.5533219,88.3543536,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02771160347adf:0xcb6b61d9c6710d38!8m2!3d22.5533219!4d88.3543536!16s%2Fg%2F1tjx_xqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royd+Nursing+Home/@22.5533219,88.3543536,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02771160347adf:0xcb6b61d9c6710d38!8m2!3d22.5533219!4d88.3543536!16s%2Fg%2F1tjx_xqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7840,8 +7775,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Royd+Nursing+Home/@22.5533219,88.3543536,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02771160347adf:0xcb6b61d9c6710d38!8m2!3d22.5533219!4d88.3543536!16s%2Fg%2F1tjx_xqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rsv-hospital-pvt-ltd-kolkata",
@@ -7890,7 +7824,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RSV+Hospital+Pvt.+Ltd./@22.5031063,88.3445146,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0270c7c311075b:0x25555668fdcfec0c!8m2!3d22.5031063!4d88.3445146!16s%2Fg%2F1ptx3x8n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RSV+Hospital+Pvt.+Ltd./@22.5031063,88.3445146,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0270c7c311075b:0x25555668fdcfec0c!8m2!3d22.5031063!4d88.3445146!16s%2Fg%2F1ptx3x8n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7956,11 +7890,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RSV+Hospital+Pvt.+Ltd./@22.5031063,88.3445146,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0270c7c311075b:0x25555668fdcfec0c!8m2!3d22.5031063!4d88.3445146!16s%2Fg%2F1ptx3x8n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-m-dental-clinic-best-dental-clinic-in-durgapur-best-dentist-in-durgapur-best-implants-clinic-in-durgapur-durgapur",
@@ -8009,7 +7942,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai(M)+Dental+Clinic+%7C+Best+Dental+Clinic+in+Durgapur+%7C+Best+Dentist+in+Durgapur+%7C+Best+implants+clinic+in+durgapur/@23.5408726,87.3004888,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77378522ea823:0x602f2e892602c450!8m2!3d23.5408726!4d87.3004888!16s%2Fg%2F11s80hszxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai(M)+Dental+Clinic+%7C+Best+Dental+Clinic+in+Durgapur+%7C+Best+Dentist+in+Durgapur+%7C+Best+implants+clinic+in+durgapur/@23.5408726,87.3004888,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77378522ea823:0x602f2e892602c450!8m2!3d23.5408726!4d87.3004888!16s%2Fg%2F11s80hszxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8078,8 +8011,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai(M)+Dental+Clinic+%7C+Best+Dental+Clinic+in+Durgapur+%7C+Best+Dentist+in+Durgapur+%7C+Best+implants+clinic+in+durgapur/@23.5408726,87.3004888,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77378522ea823:0x602f2e892602c450!8m2!3d23.5408726!4d87.3004888!16s%2Fg%2F11s80hszxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanaka-clinic-durgapur",
@@ -8129,7 +8061,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanaka+Clinic/@23.5377096,87.2998533,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77364fcc31c3d:0x7112fdb083f36cf0!8m2!3d23.5377096!4d87.2998533!16s%2Fg%2F11rnf0vt_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanaka+Clinic/@23.5377096,87.2998533,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77364fcc31c3d:0x7112fdb083f36cf0!8m2!3d23.5377096!4d87.2998533!16s%2Fg%2F11rnf0vt_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8198,8 +8130,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanaka+Clinic/@23.5377096,87.2998533,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77364fcc31c3d:0x7112fdb083f36cf0!8m2!3d23.5377096!4d87.2998533!16s%2Fg%2F11rnf0vt_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanaka-hospital-durgapur",
@@ -8248,7 +8179,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanaka+Hospital/@23.5732603,87.4048446,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7653e6bd942ab:0x1d0bceea3a63c37e!8m2!3d23.5732603!4d87.4048446!16s%2Fg%2F11cn8y2x2v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanaka+Hospital/@23.5732603,87.4048446,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7653e6bd942ab:0x1d0bceea3a63c37e!8m2!3d23.5732603!4d87.4048446!16s%2Fg%2F11cn8y2x2v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8317,8 +8248,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanaka+Hospital/@23.5732603,87.4048446,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7653e6bd942ab:0x1d0bceea3a63c37e!8m2!3d23.5732603!4d87.4048446!16s%2Fg%2F11cn8y2x2v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shashi-dental-care-durgapur",
@@ -8366,7 +8296,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHASHI+DENTAL+CARE/@23.5028683,87.3544759,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7712976dc632d:0xd897c2a428c42c0d!8m2!3d23.5028683!4d87.3544759!16s%2Fg%2F11fltx6khx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHASHI+DENTAL+CARE/@23.5028683,87.3544759,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7712976dc632d:0xd897c2a428c42c0d!8m2!3d23.5028683!4d87.3544759!16s%2Fg%2F11fltx6khx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8435,8 +8365,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHASHI+DENTAL+CARE/@23.5028683,87.3544759,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7712976dc632d:0xd897c2a428c42c0d!8m2!3d23.5028683!4d87.3544759!16s%2Fg%2F11fltx6khx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shatwik-hospital-durgapur",
@@ -8484,7 +8413,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHATWIK+HOSPITAL/@23.5395579,87.3051316,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7713cf8b1afbb:0xf8c4fdec4009f943!8m2!3d23.5395579!4d87.3051316!16s%2Fg%2F11sgl2jf20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHATWIK+HOSPITAL/@23.5395579,87.3051316,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7713cf8b1afbb:0xf8c4fdec4009f943!8m2!3d23.5395579!4d87.3051316!16s%2Fg%2F11sgl2jf20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8553,8 +8482,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHATWIK+HOSPITAL/@23.5395579,87.3051316,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7713cf8b1afbb:0xf8c4fdec4009f943!8m2!3d23.5395579!4d87.3051316!16s%2Fg%2F11sgl2jf20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-vinayak-dental-clinic-root-canal-specialist-durgapur",
@@ -8603,7 +8531,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHREE+VINAYAK+DENTAL+CLINIC+(Root+Canal+Specialist)/@23.560795,87.3050874,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76fbcd16e1af3:0x5d8ddc516ccabf50!8m2!3d23.560795!4d87.3050874!16s%2Fg%2F11hdqv_mxf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+VINAYAK+DENTAL+CLINIC+(Root+Canal+Specialist)/@23.560795,87.3050874,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76fbcd16e1af3:0x5d8ddc516ccabf50!8m2!3d23.560795!4d87.3050874!16s%2Fg%2F11hdqv_mxf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8672,8 +8600,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHREE+VINAYAK+DENTAL+CLINIC+(Root+Canal+Specialist)/@23.560795,87.3050874,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76fbcd16e1af3:0x5d8ddc516ccabf50!8m2!3d23.560795!4d87.3050874!16s%2Fg%2F11hdqv_mxf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-vinayak-dental-clinic-durgapur",
@@ -8722,7 +8649,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHREE+VINAYAK+DENTAL+CLINIC+(%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4+%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%BE,+%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4+%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A7%8B+%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F%E0%A7%80+%E0%A6%85%E0%A6%A5%E0%A6%AC%E0%A6%BE+%E0%A6%96%E0%A7%8B%E0%A6%B2%E0%A6%BE+%E0%A6%93+%E0%A6%AA%E0%A6%B0%E0%A6%BE+%E0%A6%8F%E0%A6%AC%E0%A6%82+%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4%E0%A7%87%E0%A6%B0+%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%82+%E0%A6%95%E0%A6%B0%E0%A6%BE+%E0%A6%B9%E0%A6%AF%E0%A6%BC)/@23.5617215,87.2794361,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d20334ba563:0x3639e24d5b16775d!8m2!3d23.5617215!4d87.2794361!16s%2Fg%2F11y3yyb31z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+VINAYAK+DENTAL+CLINIC+(%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4+%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%BE,+%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4+%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A7%8B+%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F%E0%A7%80+%E0%A6%85%E0%A6%A5%E0%A6%AC%E0%A6%BE+%E0%A6%96%E0%A7%8B%E0%A6%B2%E0%A6%BE+%E0%A6%93+%E0%A6%AA%E0%A6%B0%E0%A6%BE+%E0%A6%8F%E0%A6%AC%E0%A6%82+%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4%E0%A7%87%E0%A6%B0+%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%82+%E0%A6%95%E0%A6%B0%E0%A6%BE+%E0%A6%B9%E0%A6%AF%E0%A6%BC)/@23.5617215,87.2794361,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d20334ba563:0x3639e24d5b16775d!8m2!3d23.5617215!4d87.2794361!16s%2Fg%2F11y3yyb31z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8791,8 +8718,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHREE+VINAYAK+DENTAL+CLINIC+(%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4+%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%BE,+%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4+%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A7%8B+%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F%E0%A7%80+%E0%A6%85%E0%A6%A5%E0%A6%AC%E0%A6%BE+%E0%A6%96%E0%A7%8B%E0%A6%B2%E0%A6%BE+%E0%A6%93+%E0%A6%AA%E0%A6%B0%E0%A6%BE+%E0%A6%8F%E0%A6%AC%E0%A6%82+%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4%E0%A7%87%E0%A6%B0+%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%82+%E0%A6%95%E0%A6%B0%E0%A6%BE+%E0%A6%B9%E0%A6%AF%E0%A6%BC)/@23.5617215,87.2794361,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d20334ba563:0x3639e24d5b16775d!8m2!3d23.5617215!4d87.2794361!16s%2Fg%2F11y3yyb31z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smilecare-dental-clinic-and-implant-clinic-durgapur",
@@ -8840,7 +8766,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smilecare+Dental+Clinic+%26+Implant+Clinic/@23.5152506,87.3545155,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7718365c0b817:0x383e931e689e158a!8m2!3d23.5152506!4d87.3545155!16s%2Fg%2F11b86713rw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilecare+Dental+Clinic+%26+Implant+Clinic/@23.5152506,87.3545155,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7718365c0b817:0x383e931e689e158a!8m2!3d23.5152506!4d87.3545155!16s%2Fg%2F11b86713rw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8909,8 +8835,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smilecare+Dental+Clinic+%26+Implant+Clinic/@23.5152506,87.3545155,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7718365c0b817:0x383e931e689e158a!8m2!3d23.5152506!4d87.3545155!16s%2Fg%2F11b86713rw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "soumadip-s-dental-solutions-durgapur",
@@ -8958,7 +8883,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Soumadip's+Dental+Solutions/@23.4964575,87.3206925,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771dec1504df5:0xb68d65c24d342790!8m2!3d23.4964575!4d87.3206925!16s%2Fg%2F11l70hq8_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soumadip's+Dental+Solutions/@23.4964575,87.3206925,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771dec1504df5:0xb68d65c24d342790!8m2!3d23.4964575!4d87.3206925!16s%2Fg%2F11l70hq8_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9024,11 +8949,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Soumadip's+Dental+Solutions/@23.4964575,87.3206925,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771dec1504df5:0xb68d65c24d342790!8m2!3d23.4964575!4d87.3206925!16s%2Fg%2F11l70hq8_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sparsh-fertility-and-women-s-care-durgapur",
@@ -9079,7 +9003,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sparsh+Fertility+%26+Women's+Care/@23.5392882,87.2981838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771670fd468b5:0x85b9f435d8f4afca!8m2!3d23.5392882!4d87.2981838!16s%2Fg%2F11v9gf97q4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+Fertility+%26+Women's+Care/@23.5392882,87.2981838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771670fd468b5:0x85b9f435d8f4afca!8m2!3d23.5392882!4d87.2981838!16s%2Fg%2F11v9gf97q4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9145,11 +9069,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sparsh+Fertility+%26+Women's+Care/@23.5392882,87.2981838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771670fd468b5:0x85b9f435d8f4afca!8m2!3d23.5392882!4d87.2981838!16s%2Fg%2F11v9gf97q4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sri-mohanananda-brahmachari-cancer-hospital-durgapur",
@@ -9199,7 +9122,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Sri+Mohanananda+Brahmachari+Cancer+Hospital/@23.5214717,87.3555179,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77046a53b7d17:0x69c614231fd738d1!8m2!3d23.5214717!4d87.3555179!16s%2Fg%2F11c6199hgh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sri+Mohanananda+Brahmachari+Cancer+Hospital/@23.5214717,87.3555179,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77046a53b7d17:0x69c614231fd738d1!8m2!3d23.5214717!4d87.3555179!16s%2Fg%2F11c6199hgh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9268,8 +9191,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Sri+Mohanananda+Brahmachari+Cancer+Hospital/@23.5214717,87.3555179,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77046a53b7d17:0x69c614231fd738d1!8m2!3d23.5214717!4d87.3555179!16s%2Fg%2F11c6199hgh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -9319,7 +9241,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9385,11 +9307,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-mission-hospital-durgapur-durgapur",
@@ -9438,7 +9359,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Mission+Hospital+,+Durgapur/@23.5200737,87.3555012,17z/data=!3m1!4b1!4m6!3m5!1s0x39f770441b6a2cb7:0xc7c4abf33d85de56!8m2!3d23.5200737!4d87.3555012!16s%2Fm%2F0h3xkf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Mission+Hospital+,+Durgapur/@23.5200737,87.3555012,17z/data=!3m1!4b1!4m6!3m5!1s0x39f770441b6a2cb7:0xc7c4abf33d85de56!8m2!3d23.5200737!4d87.3555012!16s%2Fm%2F0h3xkf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9507,8 +9428,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Mission+Hospital+,+Durgapur/@23.5200737,87.3555012,17z/data=!3m1!4b1!4m6!3m5!1s0x39f770441b6a2cb7:0xc7c4abf33d85de56!8m2!3d23.5200737!4d87.3555012!16s%2Fm%2F0h3xkf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-orison-clinic-durgapur",
@@ -9556,7 +9476,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Orison+Clinic/@23.5389785,87.2916521,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773ccb78ebaa9:0x3fbcd0bfb5805ee3!8m2!3d23.5389785!4d87.2916521!16s%2Fg%2F11j8l68wv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Orison+Clinic/@23.5389785,87.2916521,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773ccb78ebaa9:0x3fbcd0bfb5805ee3!8m2!3d23.5389785!4d87.2916521!16s%2Fg%2F11j8l68wv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9622,11 +9542,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Orison+Clinic/@23.5389785,87.2916521,17z/data=!3m1!4b1!4m6!3m5!1s0x39f773ccb78ebaa9:0x3fbcd0bfb5805ee3!8m2!3d23.5389785!4d87.2916521!16s%2Fg%2F11j8l68wv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-orison-india-ivf-durgapur",
@@ -9675,7 +9594,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Orison+India+IVF/@23.5148544,87.3565313,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771822b78e465:0xc837e16892c17ddd!8m2!3d23.5148544!4d87.3565313!16s%2Fg%2F11gxfdmv6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Orison+India+IVF/@23.5148544,87.3565313,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771822b78e465:0xc837e16892c17ddd!8m2!3d23.5148544!4d87.3565313!16s%2Fg%2F11gxfdmv6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9741,11 +9660,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Orison+India+IVF/@23.5148544,87.3565313,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771822b78e465:0xc837e16892c17ddd!8m2!3d23.5148544!4d87.3565313!16s%2Fg%2F11gxfdmv6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vision-nativity-durgapur",
@@ -9794,7 +9712,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vision+Nativity/@23.5410503,87.3053062,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771b4c43b48a1:0xbddfc6b700c3fe9c!8m2!3d23.5410503!4d87.3053062!16s%2Fg%2F11n07p03l5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vision+Nativity/@23.5410503,87.3053062,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771b4c43b48a1:0xbddfc6b700c3fe9c!8m2!3d23.5410503!4d87.3053062!16s%2Fg%2F11n07p03l5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9860,11 +9778,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vision+Nativity/@23.5410503,87.3053062,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771b4c43b48a1:0xbddfc6b700c3fe9c!8m2!3d23.5410503!4d87.3053062!16s%2Fg%2F11n07p03l5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vivekananda-hospital-durgapur",
@@ -9913,7 +9830,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vivekananda+Hospital/data=!4m7!3m6!1s0x39f771b4fc5666d9:0x307a34f5ca5c1495!8m2!3d23.5232492!4d87.3396624!16s%2Fg%2F1tfyzjsv!19sChIJ2WZW_LRx9zkRlRRcyvU0ejA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vivekananda+Hospital/data=!4m7!3m6!1s0x39f771b4fc5666d9:0x307a34f5ca5c1495!8m2!3d23.5232492!4d87.3396624!16s%2Fg%2F1tfyzjsv!19sChIJ2WZW_LRx9zkRlRRcyvU0ejA?authuser=0&hl=en&rclk=1"
@@ -9982,8 +9899,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vivekananda+Hospital/data=!4m7!3m6!1s0x39f771b4fc5666d9:0x307a34f5ca5c1495!8m2!3d23.5232492!4d87.3396624!16s%2Fg%2F1tfyzjsv!19sChIJ2WZW_LRx9zkRlRRcyvU0ejA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yashoda-hospitals-medical-information-centre-durgapur-durgapur",
@@ -10033,7 +9949,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+%7C+Durgapur/@23.4783359,87.3188964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771f31b7e63d3:0xf5db08eb2442aa4d!8m2!3d23.4783359!4d87.3188964!16s%2Fg%2F11x7mck86k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+%7C+Durgapur/@23.4783359,87.3188964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771f31b7e63d3:0xf5db08eb2442aa4d!8m2!3d23.4783359!4d87.3188964!16s%2Fg%2F11x7mck86k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10099,10 +10015,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+%7C+Durgapur/@23.4783359,87.3188964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f771f31b7e63d3:0xf5db08eb2442aa4d!8m2!3d23.4783359!4d87.3188964!16s%2Fg%2F11x7mck86k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

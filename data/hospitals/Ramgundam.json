@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/8INCLINE+COLONY+DISPENSARY/@18.68825,79.5408815,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32d016f5073d91:0x39e437b5cf11b360!8m2!3d18.68825!4d79.5408815!16s%2Fg%2F1td23vz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/8INCLINE+COLONY+DISPENSARY/@18.68825,79.5408815,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32d016f5073d91:0x39e437b5cf11b360!8m2!3d18.68825!4d79.5408815!16s%2Fg%2F1td23vz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -114,8 +114,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/8INCLINE+COLONY+DISPENSARY/@18.68825,79.5408815,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32d016f5073d91:0x39e437b5cf11b360!8m2!3d18.68825!4d79.5408815!16s%2Fg%2F1td23vz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "abhaya-hospital-mancherial",
@@ -163,7 +162,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Abhaya+hospital/@18.8817649,79.4438039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb9c284576bf:0x47fc84bfd458b540!8m2!3d18.8817649!4d79.4438039!16s%2Fg%2F11qq2ylc0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abhaya+hospital/@18.8817649,79.4438039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb9c284576bf:0x47fc84bfd458b540!8m2!3d18.8817649!4d79.4438039!16s%2Fg%2F11qq2ylc0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -229,11 +228,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Abhaya+hospital/@18.8817649,79.4438039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb9c284576bf:0x47fc84bfd458b540!8m2!3d18.8817649!4d79.4438039!16s%2Fg%2F11qq2ylc0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aditya-hospital-mancherial",
@@ -281,7 +279,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ADITYA+HOSPITAL/@18.8821905,79.4474384,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb80ae257083:0xd144c3d5887ef05f!8m2!3d18.8821905!4d79.4474384!16s%2Fg%2F11rw5vt9c1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADITYA+HOSPITAL/@18.8821905,79.4474384,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb80ae257083:0xd144c3d5887ef05f!8m2!3d18.8821905!4d79.4474384!16s%2Fg%2F11rw5vt9c1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -347,11 +345,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ADITYA+HOSPITAL/@18.8821905,79.4474384,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb80ae257083:0xd144c3d5887ef05f!8m2!3d18.8821905!4d79.4474384!16s%2Fg%2F11rw5vt9c1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "agastya-hospital-godavarikhani-city-ramagundam",
@@ -399,7 +396,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AGASTYA+HOSPITAL+-+Godavarikhani+City/@18.7564924,79.5060699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfc521e0eaa3:0xaf24be3221580848!8m2!3d18.7564924!4d79.5060699!16s%2Fg%2F11k48lh979?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AGASTYA+HOSPITAL+-+Godavarikhani+City/@18.7564924,79.5060699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfc521e0eaa3:0xaf24be3221580848!8m2!3d18.7564924!4d79.5060699!16s%2Fg%2F11k48lh979?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -468,8 +465,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AGASTYA+HOSPITAL+-+Godavarikhani+City/@18.7564924,79.5060699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfc521e0eaa3:0xaf24be3221580848!8m2!3d18.7564924!4d79.5060699!16s%2Fg%2F11k48lh979?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aims-hospital-mancherial",
@@ -518,7 +514,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AIMS+HOSPITAL/@18.881395,79.4447848,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cba30005ee81:0xe59dd1f35f4edad1!8m2!3d18.881395!4d79.4447848!16s%2Fg%2F11f789dgs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AIMS+HOSPITAL/@18.881395,79.4447848,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cba30005ee81:0xe59dd1f35f4edad1!8m2!3d18.881395!4d79.4447848!16s%2Fg%2F11f789dgs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -587,8 +583,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AIMS+HOSPITAL/@18.881395,79.4447848,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cba30005ee81:0xe59dd1f35f4edad1!8m2!3d18.881395!4d79.4447848!16s%2Fg%2F11f789dgs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ajay-dental-ramagundam",
@@ -636,7 +631,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AJAY+DENTAL/@18.7479687,79.5111736,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf9696f414d3:0x69028dfb93c5929c!8m2!3d18.7479687!4d79.5111736!16s%2Fg%2F11rz74z_5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AJAY+DENTAL/@18.7479687,79.5111736,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf9696f414d3:0x69028dfb93c5929c!8m2!3d18.7479687!4d79.5111736!16s%2Fg%2F11rz74z_5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -702,11 +697,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AJAY+DENTAL/@18.7479687,79.5111736,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf9696f414d3:0x69028dfb93c5929c!8m2!3d18.7479687!4d79.5111736!16s%2Fg%2F11rz74z_5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akruti-plastic-and-cosmetic-surgery-centre-hyderabad",
@@ -755,7 +749,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery+Centre/@17.4855927,78.3903187,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb918beaaaaaab:0xfa0cd14ca78be55c!8m2!3d17.4855927!4d78.3903187!16s%2Fg%2F1td3pykt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery+Centre/@17.4855927,78.3903187,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb918beaaaaaab:0xfa0cd14ca78be55c!8m2!3d17.4855927!4d78.3903187!16s%2Fg%2F1td3pykt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -824,8 +818,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery+Centre/@17.4855927,78.3903187,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb918beaaaaaab:0xfa0cd14ca78be55c!8m2!3d17.4855927!4d78.3903187!16s%2Fg%2F1td3pykt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akruti-plastic-and-cosmetic-surgery-centre-hyderabad",
@@ -874,7 +867,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery+Centre/@17.4578071,78.3660063,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb930a8c4896ef:0xe71db858208f62ff!8m2!3d17.4578071!4d78.3660063!16s%2Fg%2F11sf6y1cxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery+Centre/@17.4578071,78.3660063,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb930a8c4896ef:0xe71db858208f62ff!8m2!3d17.4578071!4d78.3660063!16s%2Fg%2F11sf6y1cxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -940,11 +933,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery+Centre/@17.4578071,78.3660063,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb930a8c4896ef:0xe71db858208f62ff!8m2!3d17.4578071!4d78.3660063!16s%2Fg%2F11sf6y1cxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ambica-sai-hospital-ramagundam",
@@ -992,7 +984,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ambica+Sai+Hospital/@18.7501591,79.5110848,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfbc27229c87:0xffd60ff29532fd2b!8m2!3d18.7501591!4d79.5110848!16s%2Fg%2F11y2k_zh2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ambica+Sai+Hospital/@18.7501591,79.5110848,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfbc27229c87:0xffd60ff29532fd2b!8m2!3d18.7501591!4d79.5110848!16s%2Fg%2F11y2k_zh2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1058,11 +1050,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ambica+Sai+Hospital/@18.7501591,79.5110848,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfbc27229c87:0xffd60ff29532fd2b!8m2!3d18.7501591!4d79.5110848!16s%2Fg%2F11y2k_zh2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ambika-hospital-ramagundam",
@@ -1110,7 +1101,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ambika+Hospital/@18.7504813,79.51076,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ceff38983655:0xabec92bc93505bc5!8m2!3d18.7504813!4d79.51076!16s%2Fg%2F11cn7j0_nx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ambika+Hospital/@18.7504813,79.51076,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ceff38983655:0xabec92bc93505bc5!8m2!3d18.7504813!4d79.51076!16s%2Fg%2F11cn7j0_nx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1179,8 +1170,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ambika+Hospital/@18.7504813,79.51076,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ceff38983655:0xabec92bc93505bc5!8m2!3d18.7504813!4d79.51076!16s%2Fg%2F11cn7j0_nx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ambrosia-clinic-hyderabad",
@@ -1229,7 +1219,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ambrosia+Clinic/@17.4142483,78.4232531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99cd87dc821b:0xb4bba0779c5ac85c!8m2!3d17.4142483!4d78.4232531!16s%2Fg%2F1td1nb8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ambrosia+Clinic/@17.4142483,78.4232531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99cd87dc821b:0xb4bba0779c5ac85c!8m2!3d17.4142483!4d78.4232531!16s%2Fg%2F1td1nb8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1298,8 +1288,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ambrosia+Clinic/@17.4142483,78.4232531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99cd87dc821b:0xb4bba0779c5ac85c!8m2!3d17.4142483!4d78.4232531!16s%2Fg%2F1td1nb8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amrutha-physiotherapy-clinic-godavarikhani",
@@ -1348,7 +1337,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Amrutha+physiotherapy+clinic/@18.7486175,79.5111526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfca2baac27b:0x1030dbec642f3c11!8m2!3d18.7486175!4d79.5111526!16s%2Fg%2F11h5txpgn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrutha+physiotherapy+clinic/@18.7486175,79.5111526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfca2baac27b:0x1030dbec642f3c11!8m2!3d18.7486175!4d79.5111526!16s%2Fg%2F11h5txpgn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1414,11 +1403,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Amrutha+physiotherapy+clinic/@18.7486175,79.5111526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfca2baac27b:0x1030dbec642f3c11!8m2!3d18.7486175!4d79.5111526!16s%2Fg%2F11h5txpgn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashok-hospital-general-surgery-ramagundam",
@@ -1466,7 +1454,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashok+Hospital+General+Surgery/@18.7501604,79.5100571,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0076963f0d:0x1f2ae61fc10dd25!8m2!3d18.7501604!4d79.5100571!16s%2Fg%2F11x11w37bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashok+Hospital+General+Surgery/@18.7501604,79.5100571,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0076963f0d:0x1f2ae61fc10dd25!8m2!3d18.7501604!4d79.5100571!16s%2Fg%2F11x11w37bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1532,11 +1520,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashok+Hospital+General+Surgery/@18.7501604,79.5100571,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0076963f0d:0x1f2ae61fc10dd25!8m2!3d18.7501604!4d79.5100571!16s%2Fg%2F11x11w37bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "avani-children-hospital-mancherial",
@@ -1586,7 +1573,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Avani+Children+Hospital/@18.8814073,79.4417078,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb6b63e61ffb:0xaee825d5a79a5f36!8m2!3d18.8814073!4d79.4417078!16s%2Fg%2F11kv5x1grn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avani+Children+Hospital/@18.8814073,79.4417078,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb6b63e61ffb:0xaee825d5a79a5f36!8m2!3d18.8814073!4d79.4417078!16s%2Fg%2F11kv5x1grn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1655,8 +1642,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Avani+Children+Hospital/@18.8814073,79.4417078,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb6b63e61ffb:0xaee825d5a79a5f36!8m2!3d18.8814073!4d79.4417078!16s%2Fg%2F11kv5x1grn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chandra-hospitals-mancherial",
@@ -1704,7 +1690,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chandra+Hospitals/@18.8826618,79.4431591,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb2dafbc238b:0x2bc5be3260015b39!8m2!3d18.8826618!4d79.4431591!16s%2Fg%2F11lhy5prk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandra+Hospitals/@18.8826618,79.4431591,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb2dafbc238b:0x2bc5be3260015b39!8m2!3d18.8826618!4d79.4431591!16s%2Fg%2F11lhy5prk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1773,8 +1759,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chandra+Hospitals/@18.8826618,79.4431591,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb2dafbc238b:0x2bc5be3260015b39!8m2!3d18.8826618!4d79.4431591!16s%2Fg%2F11lhy5prk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "contours-plastic-and-cosmetic-surgery-center-in-hyderabad-hyderabad",
@@ -1823,7 +1808,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Contours+-+Plastic+%26+Cosmetic+Surgery+Center+in+Hyderabad/@17.424912,78.4219896,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb90cb8a49628f:0x380a1e68c35ef4d!8m2!3d17.424912!4d78.4219896!16s%2Fg%2F11bx5pxx4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Contours+-+Plastic+%26+Cosmetic+Surgery+Center+in+Hyderabad/@17.424912,78.4219896,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb90cb8a49628f:0x380a1e68c35ef4d!8m2!3d17.424912!4d78.4219896!16s%2Fg%2F11bx5pxx4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1892,8 +1877,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Contours+-+Plastic+%26+Cosmetic+Surgery+Center+in+Hyderabad/@17.424912,78.4219896,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb90cb8a49628f:0x380a1e68c35ef4d!8m2!3d17.424912!4d78.4219896!16s%2Fg%2F11bx5pxx4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "diamond-dental-hospital-ramagundam",
@@ -1941,7 +1925,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DIAMOND+DENTAL+HOSPITAL./@18.7498252,79.5109799,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf55378d8289:0xbf7fd743aa550799!8m2!3d18.7498252!4d79.5109799!16s%2Fg%2F11fhl1dk2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DIAMOND+DENTAL+HOSPITAL./@18.7498252,79.5109799,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf55378d8289:0xbf7fd743aa550799!8m2!3d18.7498252!4d79.5109799!16s%2Fg%2F11fhl1dk2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2010,8 +1994,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DIAMOND+DENTAL+HOSPITAL./@18.7498252,79.5109799,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf55378d8289:0xbf7fd743aa550799!8m2!3d18.7498252!4d79.5109799!16s%2Fg%2F11fhl1dk2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "durgaprasad-netralayam-ramagundam",
@@ -2060,7 +2043,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DURGAPRASAD+NETRALAYAM/@18.7495488,79.5109055,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ceff445ff505:0x8616774b2757178d!8m2!3d18.7495488!4d79.5109055!16s%2Fg%2F11cn69tk4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DURGAPRASAD+NETRALAYAM/@18.7495488,79.5109055,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ceff445ff505:0x8616774b2757178d!8m2!3d18.7495488!4d79.5109055!16s%2Fg%2F11cn69tk4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2129,8 +2112,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DURGAPRASAD+NETRALAYAM/@18.7495488,79.5109055,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ceff445ff505:0x8616774b2757178d!8m2!3d18.7495488!4d79.5109055!16s%2Fg%2F11cn69tk4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ethos-dental-mancherial",
@@ -2179,7 +2161,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ethos+Dental/@18.8764962,79.4437385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca72385cb575:0xa838320caec0dbf5!8m2!3d18.8764962!4d79.4437385!16s%2Fg%2F11fx2n44z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ethos+Dental/@18.8764962,79.4437385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca72385cb575:0xa838320caec0dbf5!8m2!3d18.8764962!4d79.4437385!16s%2Fg%2F11fx2n44z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2248,8 +2230,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ethos+Dental/@18.8764962,79.4437385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca72385cb575:0xa838320caec0dbf5!8m2!3d18.8764962!4d79.4437385!16s%2Fg%2F11fx2n44z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gemini-hospitals-ramagundam",
@@ -2297,7 +2278,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gemini+Hospitals/@18.7568692,79.5063714,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cefa48942bed:0xaa7bba6c84ed506b!8m2!3d18.7568692!4d79.5063714!16s%2Fg%2F1hm2fpdvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gemini+Hospitals/@18.7568692,79.5063714,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cefa48942bed:0xaa7bba6c84ed506b!8m2!3d18.7568692!4d79.5063714!16s%2Fg%2F1hm2fpdvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2366,8 +2347,7 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gemini+Hospitals/@18.7568692,79.5063714,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cefa48942bed:0xaa7bba6c84ed506b!8m2!3d18.7568692!4d79.5063714!16s%2Fg%2F1hm2fpdvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "glowdent-dental-care-n-implant-centre-mancherial",
@@ -2416,7 +2396,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GlowDent+Dental+Care+N+Implant+Centre/@18.881227,79.4443429,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb99bfbb5ea3:0xd1c1ab022756c464!8m2!3d18.881227!4d79.4443429!16s%2Fg%2F11p0zpmw50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GlowDent+Dental+Care+N+Implant+Centre/@18.881227,79.4443429,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb99bfbb5ea3:0xd1c1ab022756c464!8m2!3d18.881227!4d79.4443429!16s%2Fg%2F11p0zpmw50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2482,11 +2462,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GlowDent+Dental+Care+N+Implant+Centre/@18.881227,79.4443429,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb99bfbb5ea3:0xd1c1ab022756c464!8m2!3d18.881227!4d79.4443429!16s%2Fg%2F11p0zpmw50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-general-hospital-godavarikhani-ramagundam",
@@ -2535,7 +2514,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+General+Hospital+-+Godavarikhani/@18.7591616,79.5024056,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cef0379e322d:0x9fc8a54d80395b62!8m2!3d18.7591616!4d79.5024056!16s%2Fg%2F11g6hv7cgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+General+Hospital+-+Godavarikhani/@18.7591616,79.5024056,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cef0379e322d:0x9fc8a54d80395b62!8m2!3d18.7591616!4d79.5024056!16s%2Fg%2F11g6hv7cgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2604,8 +2583,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+General+Hospital+-+Godavarikhani/@18.7591616,79.5024056,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cef0379e322d:0x9fc8a54d80395b62!8m2!3d18.7591616!4d79.5024056!16s%2Fg%2F11g6hv7cgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "health-care-mancherial",
@@ -2653,7 +2631,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Health+Care/@18.8764723,79.4437073,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca7240a3b8b5:0x98285468fa5ecbc4!8m2!3d18.8764723!4d79.4437073!16s%2Fg%2F11c6qdtgz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Health+Care/@18.8764723,79.4437073,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca7240a3b8b5:0x98285468fa5ecbc4!8m2!3d18.8764723!4d79.4437073!16s%2Fg%2F11c6qdtgz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2722,8 +2700,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Health+Care/@18.8764723,79.4437073,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca7240a3b8b5:0x98285468fa5ecbc4!8m2!3d18.8764723!4d79.4437073!16s%2Fg%2F11c6qdtgz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indian-dental-association-ramagundam-shanthinagar",
@@ -2771,7 +2748,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indian+Dental+Association-+Ramagundam/@18.7451995,79.4940341,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce5e369f365f:0xb6d835ff2333ed03!8m2!3d18.7451995!4d79.4940341!16s%2Fg%2F11c1qc0dlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indian+Dental+Association-+Ramagundam/@18.7451995,79.4940341,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce5e369f365f:0xb6d835ff2333ed03!8m2!3d18.7451995!4d79.4940341!16s%2Fg%2F11c1qc0dlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2837,11 +2814,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indian+Dental+Association-+Ramagundam/@18.7451995,79.4940341,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce5e369f365f:0xb6d835ff2333ed03!8m2!3d18.7451995!4d79.4940341!16s%2Fg%2F11c1qc0dlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jai-surya-hospital-mancherial",
@@ -2889,7 +2865,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jai+surya+hospital/@18.884219,79.4415511,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb001396417f:0xb527c1e2bb041bf8!8m2!3d18.884219!4d79.4415511!16s%2Fg%2F11xdztnjx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jai+surya+hospital/@18.884219,79.4415511,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb001396417f:0xb527c1e2bb041bf8!8m2!3d18.884219!4d79.4415511!16s%2Fg%2F11xdztnjx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2955,11 +2931,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jai+surya+hospital/@18.884219,79.4415511,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb001396417f:0xb527c1e2bb041bf8!8m2!3d18.884219!4d79.4415511!16s%2Fg%2F11xdztnjx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jaya-maternity-and-ent-mancherial",
@@ -3009,7 +2984,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jaya+Maternity+%26+ENT/@18.8710172,79.4435887,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbb687f19a01:0x5e261530677f1cf8!8m2!3d18.8710172!4d79.4435887!16s%2Fg%2F11rxj994c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaya+Maternity+%26+ENT/@18.8710172,79.4435887,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbb687f19a01:0x5e261530677f1cf8!8m2!3d18.8710172!4d79.4435887!16s%2Fg%2F11rxj994c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3078,8 +3053,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jaya+Maternity+%26+ENT/@18.8710172,79.4435887,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbb687f19a01:0x5e261530677f1cf8!8m2!3d18.8710172!4d79.4435887!16s%2Fg%2F11rxj994c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jayasri-hospital-godavarikhani-city-ramagundam",
@@ -3129,7 +3103,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JAYASRI+HOSPITAL%F0%9F%91%ABGODAVARIKHANI+CITY/@18.7477802,79.511177,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf05d645c82b:0x3e8593994552ceba!8m2!3d18.7477802!4d79.511177!16s%2Fg%2F11qb836pjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JAYASRI+HOSPITAL%F0%9F%91%ABGODAVARIKHANI+CITY/@18.7477802,79.511177,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf05d645c82b:0x3e8593994552ceba!8m2!3d18.7477802!4d79.511177!16s%2Fg%2F11qb836pjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3198,8 +3172,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JAYASRI+HOSPITAL%F0%9F%91%ABGODAVARIKHANI+CITY/@18.7477802,79.511177,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf05d645c82b:0x3e8593994552ceba!8m2!3d18.7477802!4d79.511177!16s%2Fg%2F11qb836pjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "karthikeyan-hospitals-mancherial",
@@ -3247,7 +3220,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Karthikeyan+Hospitals/@18.8721571,79.44159,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6e64d055c3:0xb68bd68cd4fc98fd!8m2!3d18.8721571!4d79.44159!16s%2Fg%2F11hc_8rbyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karthikeyan+Hospitals/@18.8721571,79.44159,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6e64d055c3:0xb68bd68cd4fc98fd!8m2!3d18.8721571!4d79.44159!16s%2Fg%2F11hc_8rbyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3316,8 +3289,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Karthikeyan+Hospitals/@18.8721571,79.44159,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6e64d055c3:0xb68bd68cd4fc98fd!8m2!3d18.8721571!4d79.44159!16s%2Fg%2F11hc_8rbyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "keerthi-mancherial",
@@ -3365,7 +3337,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Keerthi/@18.8741012,79.4478839,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca735f7c9f0d:0xc913a0b2231bf0eb!8m2!3d18.8741012!4d79.4478839!16s%2Fg%2F1hhp7rrt7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Keerthi/@18.8741012,79.4478839,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca735f7c9f0d:0xc913a0b2231bf0eb!8m2!3d18.8741012!4d79.4478839!16s%2Fg%2F1hhp7rrt7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3434,8 +3406,7 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Keerthi/@18.8741012,79.4478839,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca735f7c9f0d:0xc913a0b2231bf0eb!8m2!3d18.8741012!4d79.4478839!16s%2Fg%2F1hhp7rrt7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kiran-eye-care-best-eye-hospital-mancherial-mancherial",
@@ -3484,7 +3455,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KIRAN+EYE+CARE+(Best+Eye+Hospital+Mancherial)/@18.8870755,79.4410165,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32b50039cdccfd:0xb421771071b23d1f!8m2!3d18.8870755!4d79.4410165!16s%2Fg%2F11vj_j157h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIRAN+EYE+CARE+(Best+Eye+Hospital+Mancherial)/@18.8870755,79.4410165,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32b50039cdccfd:0xb421771071b23d1f!8m2!3d18.8870755!4d79.4410165!16s%2Fg%2F11vj_j157h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3550,11 +3521,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KIRAN+EYE+CARE+(Best+Eye+Hospital+Mancherial)/@18.8870755,79.4410165,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32b50039cdccfd:0xb421771071b23d1f!8m2!3d18.8870755!4d79.4410165!16s%2Fg%2F11vj_j157h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishnaneurohospitals-ramagundam",
@@ -3603,7 +3573,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/krishnaneurohospitals/@18.7482163,79.5102237,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf7a3d560ffb:0x87bff1b55f09151c!8m2!3d18.7482163!4d79.5102237!16s%2Fg%2F11y76ryycq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/krishnaneurohospitals/@18.7482163,79.5102237,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf7a3d560ffb:0x87bff1b55f09151c!8m2!3d18.7482163!4d79.5102237!16s%2Fg%2F11y76ryycq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3669,11 +3639,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/krishnaneurohospitals/@18.7482163,79.5102237,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf7a3d560ffb:0x87bff1b55f09151c!8m2!3d18.7482163!4d79.5102237!16s%2Fg%2F11y76ryycq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lahari-dental-clinic-mds-ramagundam",
@@ -3721,7 +3690,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lahari+dental+clinic.+MDS/@18.7483673,79.5103119,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf31362c26ef:0x56bdf3f6a0a49e21!8m2!3d18.7483673!4d79.5103119!16s%2Fg%2F11kqgmg4_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lahari+dental+clinic.+MDS/@18.7483673,79.5103119,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf31362c26ef:0x56bdf3f6a0a49e21!8m2!3d18.7483673!4d79.5103119!16s%2Fg%2F11kqgmg4_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3787,11 +3756,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lahari+dental+clinic.+MDS/@18.7483673,79.5103119,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf31362c26ef:0x56bdf3f6a0a49e21!8m2!3d18.7483673!4d79.5103119!16s%2Fg%2F11kqgmg4_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "laxmiveni-maternity-hospital-ramagundam",
@@ -3840,7 +3808,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Laxmiveni+Maternity+Hospital/@18.7484416,79.5108492,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55ea872557:0xabbb9dcf102b1194!8m2!3d18.7484416!4d79.5108492!16s%2Fg%2F11fzsl4smp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmiveni+Maternity+Hospital/@18.7484416,79.5108492,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55ea872557:0xabbb9dcf102b1194!8m2!3d18.7484416!4d79.5108492!16s%2Fg%2F11fzsl4smp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3909,8 +3877,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Laxmiveni+Maternity+Hospital/@18.7484416,79.5108492,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55ea872557:0xabbb9dcf102b1194!8m2!3d18.7484416!4d79.5108492!16s%2Fg%2F11fzsl4smp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lotus-scan-centre-ramagundam",
@@ -3958,7 +3925,7 @@
     "metrics": [
       "Google rating 2.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lotus+scan+centre/@18.748752,79.509541,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf71312c7de9:0x20fe6bf3a31cf966!8m2!3d18.748752!4d79.509541!16s%2Fg%2F11fl0t77w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lotus+scan+centre/@18.748752,79.509541,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf71312c7de9:0x20fe6bf3a31cf966!8m2!3d18.748752!4d79.509541!16s%2Fg%2F11fl0t77w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4027,8 +3994,7 @@
     "rating": 2.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lotus+scan+centre/@18.748752,79.509541,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf71312c7de9:0x20fe6bf3a31cf966!8m2!3d18.748752!4d79.509541!16s%2Fg%2F11fl0t77w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mallik-dental-care-ramagundam",
@@ -4076,7 +4042,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mallik+Dental+Care/@18.7500679,79.5110899,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf31b04e93ef:0x412cdd4e2ad819c0!8m2!3d18.7500679!4d79.5110899!16s%2Fg%2F11rsql2mfk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mallik+Dental+Care/@18.7500679,79.5110899,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf31b04e93ef:0x412cdd4e2ad819c0!8m2!3d18.7500679!4d79.5110899!16s%2Fg%2F11rsql2mfk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4142,11 +4108,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mallik+Dental+Care/@18.7500679,79.5110899,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf31b04e93ef:0x412cdd4e2ad819c0!8m2!3d18.7500679!4d79.5110899!16s%2Fg%2F11rsql2mfk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mancherial-neuro-and-general-hospital-mancherial",
@@ -4195,7 +4160,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mancherial+Neuro+and+General+Hospital/@18.8812412,79.4397505,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cba0e8a398d1:0x2e1a86dc96c123c6!8m2!3d18.8812412!4d79.4397505!16s%2Fg%2F11sbp_1n17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mancherial+Neuro+and+General+Hospital/@18.8812412,79.4397505,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cba0e8a398d1:0x2e1a86dc96c123c6!8m2!3d18.8812412!4d79.4397505!16s%2Fg%2F11sbp_1n17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4264,8 +4229,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mancherial+Neuro+and+General+Hospital/@18.8812412,79.4397505,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cba0e8a398d1:0x2e1a86dc96c123c6!8m2!3d18.8812412!4d79.4397505!16s%2Fg%2F11sbp_1n17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medilife-hospitals-mancherial",
@@ -4314,7 +4278,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medilife+Hospitals/@18.8809633,79.4396042,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca76d6ebae3f:0x5d706d8f50f1be78!8m2!3d18.8809633!4d79.4396042!16s%2Fg%2F11c46hlc7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medilife+Hospitals/@18.8809633,79.4396042,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca76d6ebae3f:0x5d706d8f50f1be78!8m2!3d18.8809633!4d79.4396042!16s%2Fg%2F11c46hlc7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4383,8 +4347,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medilife+Hospitals/@18.8809633,79.4396042,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca76d6ebae3f:0x5d706d8f50f1be78!8m2!3d18.8809633!4d79.4396042!16s%2Fg%2F11c46hlc7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mohan-dental-hospital-ramagundam",
@@ -4432,7 +4395,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MOHAN+DENTAL+HOSPITAL/@18.7493492,79.5101426,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf8799ad2bcf:0x59025a897237e9b9!8m2!3d18.7493492!4d79.5101426!16s%2Fg%2F11r_w6620v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MOHAN+DENTAL+HOSPITAL/@18.7493492,79.5101426,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf8799ad2bcf:0x59025a897237e9b9!8m2!3d18.7493492!4d79.5101426!16s%2Fg%2F11r_w6620v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4498,11 +4461,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MOHAN+DENTAL+HOSPITAL/@18.7493492,79.5101426,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf8799ad2bcf:0x59025a897237e9b9!8m2!3d18.7493492!4d79.5101426!16s%2Fg%2F11r_w6620v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-sai-hospital-mancherial",
@@ -4550,7 +4512,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Om+Sai+Hospital/@18.8809053,79.4449957,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb1189540777:0xe95a2becad883bd!8m2!3d18.8809053!4d79.4449957!16s%2Fg%2F11gjhd80lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Sai+Hospital/@18.8809053,79.4449957,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb1189540777:0xe95a2becad883bd!8m2!3d18.8809053!4d79.4449957!16s%2Fg%2F11gjhd80lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4619,8 +4581,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Om+Sai+Hospital/@18.8809053,79.4449957,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb1189540777:0xe95a2becad883bd!8m2!3d18.8809053!4d79.4449957!16s%2Fg%2F11gjhd80lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pallawi-hospital-mancherial",
@@ -4668,7 +4629,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pallawi+Hospital/@18.8823578,79.443184,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb98204caa5f:0xa79289e8e7c35985!8m2!3d18.8823578!4d79.443184!16s%2Fg%2F11swzplcjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pallawi+Hospital/@18.8823578,79.443184,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb98204caa5f:0xa79289e8e7c35985!8m2!3d18.8823578!4d79.443184!16s%2Fg%2F11swzplcjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4737,8 +4698,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pallawi+Hospital/@18.8823578,79.443184,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb98204caa5f:0xa79289e8e7c35985!8m2!3d18.8823578!4d79.443184!16s%2Fg%2F11swzplcjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prettyu-cosmetic-clinic-hyderabad",
@@ -4787,7 +4747,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PrettyU+Cosmetic+Clinic/@17.4394504,78.3939096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb913c26c720f1:0xe8221d4ae1148fc!8m2!3d17.4394504!4d78.3939096!16s%2Fg%2F11w2k1r5m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PrettyU+Cosmetic+Clinic/@17.4394504,78.3939096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb913c26c720f1:0xe8221d4ae1148fc!8m2!3d17.4394504!4d78.3939096!16s%2Fg%2F11w2k1r5m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4853,11 +4813,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PrettyU+Cosmetic+Clinic/@17.4394504,78.3939096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb913c26c720f1:0xe8221d4ae1148fc!8m2!3d17.4394504!4d78.3939096!16s%2Fg%2F11w2k1r5m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ravindra-hospital-mancherial",
@@ -4905,7 +4864,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ravindra+hospital/@18.8845223,79.4415854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca7671b388f5:0xc3d6641e7750f1d3!8m2!3d18.8845223!4d79.4415854!16s%2Fg%2F1ts1qnf1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ravindra+hospital/@18.8845223,79.4415854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca7671b388f5:0xc3d6641e7750f1d3!8m2!3d18.8845223!4d79.4415854!16s%2Fg%2F1ts1qnf1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4974,8 +4933,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ravindra+hospital/@18.8845223,79.4415854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca7671b388f5:0xc3d6641e7750f1d3!8m2!3d18.8845223!4d79.4415854!16s%2Fg%2F1ts1qnf1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "redefine-plastic-surgery-and-hair-transplant-in-hyderabad-hyderabad",
@@ -5024,7 +4982,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ReDefine+Plastic+Surgery+%26+Hair+Transplant+in+Hyderabad/@17.3689064,78.5389717,17z/data=!3m1!4b1!4m7!3m6!1s0x3bcb98e917ce29d9:0xd54e6954494e6951!8m2!3d17.3689064!4d78.5389717!16s%2Fg%2F1ptxfybts!19sChIJ2SnOF-mYyzsRUWlOSVRpTtU?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ReDefine+Plastic+Surgery+%26+Hair+Transplant+in+Hyderabad/@17.3689064,78.5389717,17z/data=!3m1!4b1!4m7!3m6!1s0x3bcb98e917ce29d9:0xd54e6954494e6951!8m2!3d17.3689064!4d78.5389717!16s%2Fg%2F1ptxfybts!19sChIJ2SnOF-mYyzsRUWlOSVRpTtU?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5093,8 +5051,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ReDefine+Plastic+Surgery+%26+Hair+Transplant+in+Hyderabad/@17.3689064,78.5389717,17z/data=!3m1!4b1!4m7!3m6!1s0x3bcb98e917ce29d9:0xd54e6954494e6951!8m2!3d17.3689064!4d78.5389717!16s%2Fg%2F1ptxfybts!19sChIJ2SnOF-mYyzsRUWlOSVRpTtU?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "renee-hospital-gdk-ramagundam",
@@ -5142,7 +5099,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RENEE+HOSPITAL+GDK/@18.7568892,79.5063465,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0e176c271d:0x5dcd460bf6e6afd5!8m2!3d18.7568892!4d79.5063465!16s%2Fg%2F11j7h1ftg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RENEE+HOSPITAL+GDK/@18.7568892,79.5063465,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0e176c271d:0x5dcd460bf6e6afd5!8m2!3d18.7568892!4d79.5063465!16s%2Fg%2F11j7h1ftg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5211,8 +5168,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RENEE+HOSPITAL+GDK/@18.7568892,79.5063465,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0e176c271d:0x5dcd460bf6e6afd5!8m2!3d18.7568892!4d79.5063465!16s%2Fg%2F11j7h1ftg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rhs-maxcare-mancherial",
@@ -5260,7 +5216,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RHS+MAXCARE/@18.8827381,79.4422946,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbe471ca4a45:0x74b8d7dcaf7a4f7f!8m2!3d18.8827381!4d79.4422946!16s%2Fg%2F11rf6qdbpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RHS+MAXCARE/@18.8827381,79.4422946,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbe471ca4a45:0x74b8d7dcaf7a4f7f!8m2!3d18.8827381!4d79.4422946!16s%2Fg%2F11rf6qdbpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5329,8 +5285,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RHS+MAXCARE/@18.8827381,79.4422946,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbe471ca4a45:0x74b8d7dcaf7a4f7f!8m2!3d18.8827381!4d79.4422946!16s%2Fg%2F11rf6qdbpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rs-hospital-mancherial",
@@ -5378,7 +5333,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RS+HOSPITAL/@18.8810071,79.4401067,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbf046e23307:0xa30c2870d3978159!8m2!3d18.8810071!4d79.4401067!16s%2Fg%2F11g1rjtfnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RS+HOSPITAL/@18.8810071,79.4401067,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbf046e23307:0xa30c2870d3978159!8m2!3d18.8810071!4d79.4401067!16s%2Fg%2F11g1rjtfnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5447,8 +5402,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RS+HOSPITAL/@18.8810071,79.4401067,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbf046e23307:0xa30c2870d3978159!8m2!3d18.8810071!4d79.4401067!16s%2Fg%2F11g1rjtfnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-d-r-medical-kidney-stones-and-piles-specialist-regode",
@@ -5498,7 +5452,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S.D.R+Medical+,+Kidney+stones+and+Piles+Specialist/@17.9773312,77.8498282,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcea168c970efe3:0xc4e95d6ea1dfcbac!8m2!3d17.9773312!4d77.8498282!16s%2Fg%2F11df6lf2my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.D.R+Medical+,+Kidney+stones+and+Piles+Specialist/@17.9773312,77.8498282,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcea168c970efe3:0xc4e95d6ea1dfcbac!8m2!3d17.9773312!4d77.8498282!16s%2Fg%2F11df6lf2my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5567,8 +5521,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S.D.R+Medical+,+Kidney+stones+and+Piles+Specialist/@17.9773312,77.8498282,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcea168c970efe3:0xc4e95d6ea1dfcbac!8m2!3d17.9773312!4d77.8498282!16s%2Fg%2F11df6lf2my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sagar-rmp-mancherial",
@@ -5617,7 +5570,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sagar+RMP/@18.8633671,79.4509716,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbaef96f1053:0x322a41e7bef2da00!8m2!3d18.8633671!4d79.4509716!16s%2Fg%2F11tmyh51yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sagar+RMP/@18.8633671,79.4509716,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbaef96f1053:0x322a41e7bef2da00!8m2!3d18.8633671!4d79.4509716!16s%2Fg%2F11tmyh51yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5683,11 +5636,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sagar+RMP/@18.8633671,79.4509716,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbaef96f1053:0x322a41e7bef2da00!8m2!3d18.8633671!4d79.4509716!16s%2Fg%2F11tmyh51yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-ram-hospital-mancherial",
@@ -5735,7 +5687,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Ram+Hospital/@18.8811067,79.4422795,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb4a5dd88f9b:0x8affdffb1f5d63a!8m2!3d18.8811067!4d79.4422795!16s%2Fg%2F11hdt5y940?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Ram+Hospital/@18.8811067,79.4422795,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb4a5dd88f9b:0x8affdffb1f5d63a!8m2!3d18.8811067!4d79.4422795!16s%2Fg%2F11hdt5y940?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5804,8 +5756,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Ram+Hospital/@18.8811067,79.4422795,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb4a5dd88f9b:0x8affdffb1f5d63a!8m2!3d18.8811067!4d79.4422795!16s%2Fg%2F11hdt5y940?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sainath-reddy-memorial-hospital-ramagundam",
@@ -5853,7 +5804,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sainath+Reddy+Memorial+Hospital/@18.7557326,79.5072158,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0077beb903:0x8e9fbb3068a53f18!8m2!3d18.7557326!4d79.5072158!16s%2Fg%2F11lnvldd8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sainath+Reddy+Memorial+Hospital/@18.7557326,79.5072158,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0077beb903:0x8e9fbb3068a53f18!8m2!3d18.7557326!4d79.5072158!16s%2Fg%2F11lnvldd8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5922,8 +5873,7 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sainath+Reddy+Memorial+Hospital/@18.7557326,79.5072158,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0077beb903:0x8e9fbb3068a53f18!8m2!3d18.7557326!4d79.5072158!16s%2Fg%2F11lnvldd8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sandhya-hospital-mancherial",
@@ -5971,7 +5921,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SANDHYA+HOSPITAL/@18.8811536,79.4396522,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb467f92f001:0x14b2ac6ad4a0d879!8m2!3d18.8811536!4d79.4396522!16s%2Fg%2F11srv60grp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SANDHYA+HOSPITAL/@18.8811536,79.4396522,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb467f92f001:0x14b2ac6ad4a0d879!8m2!3d18.8811536!4d79.4396522!16s%2Fg%2F11srv60grp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6040,8 +5990,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SANDHYA+HOSPITAL/@18.8811536,79.4396522,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb467f92f001:0x14b2ac6ad4a0d879!8m2!3d18.8811536!4d79.4396522!16s%2Fg%2F11srv60grp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevani-hospital-and-scan-centre-mancherial",
@@ -6089,7 +6038,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevani+Hospital+and+scan+centre/@18.8803374,79.4434139,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6d8cfee6c1:0x2cdd640b87d263fd!8m2!3d18.8803374!4d79.4434139!16s%2Fg%2F11d_708_0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Hospital+and+scan+centre/@18.8803374,79.4434139,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6d8cfee6c1:0x2cdd640b87d263fd!8m2!3d18.8803374!4d79.4434139!16s%2Fg%2F11d_708_0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6155,11 +6104,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevani+Hospital+and+scan+centre/@18.8803374,79.4434139,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6d8cfee6c1:0x2cdd640b87d263fd!8m2!3d18.8803374!4d79.4434139!16s%2Fg%2F11d_708_0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevini-positive-homoeo-care-mancherial",
@@ -6207,7 +6155,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevini+Positive+Homoeo+Care/@18.8860191,79.4416366,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca76033ad499:0x1730551481022092!8m2!3d18.8860191!4d79.4416366!16s%2Fg%2F12m94stt6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevini+Positive+Homoeo+Care/@18.8860191,79.4416366,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca76033ad499:0x1730551481022092!8m2!3d18.8860191!4d79.4416366!16s%2Fg%2F12m94stt6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6276,8 +6224,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevini+Positive+Homoeo+Care/@18.8860191,79.4416366,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca76033ad499:0x1730551481022092!8m2!3d18.8860191!4d79.4416366!16s%2Fg%2F12m94stt6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shine-dental-hospital-ramagundam",
@@ -6325,7 +6272,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHINE+DENTAL+HOSPITAL/@18.7571105,79.5064691,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf3c4ac3d3c3:0x9c3cebc4850549f4!8m2!3d18.7571105!4d79.5064691!16s%2Fg%2F11qp11bf81?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHINE+DENTAL+HOSPITAL/@18.7571105,79.5064691,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf3c4ac3d3c3:0x9c3cebc4850549f4!8m2!3d18.7571105!4d79.5064691!16s%2Fg%2F11qp11bf81?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6391,11 +6338,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHINE+DENTAL+HOSPITAL/@18.7571105,79.5064691,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf3c4ac3d3c3:0x9c3cebc4850549f4!8m2!3d18.7571105!4d79.5064691!16s%2Fg%2F11qp11bf81?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiva-sai-dental-clinic-ramagundam",
@@ -6443,7 +6389,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiva+Sai+Dental+Clinic/@18.7570249,79.5061653,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfd3eef5dcf7:0x52915d1c35d62427!8m2!3d18.7570249!4d79.5061653!16s%2Fg%2F11h7b55k21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiva+Sai+Dental+Clinic/@18.7570249,79.5061653,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfd3eef5dcf7:0x52915d1c35d62427!8m2!3d18.7570249!4d79.5061653!16s%2Fg%2F11h7b55k21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6512,8 +6458,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiva+Sai+Dental+Clinic/@18.7570249,79.5061653,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfd3eef5dcf7:0x52915d1c35d62427!8m2!3d18.7570249!4d79.5061653!16s%2Fg%2F11h7b55k21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "siddi-hospital-mancherial",
@@ -6561,7 +6506,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Siddi+Hospital/@18.8815184,79.4442416,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb6336b39157:0xcc61cb32e673203f!8m2!3d18.8815184!4d79.4442416!16s%2Fg%2F11sv57nhg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddi+Hospital/@18.8815184,79.4442416,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb6336b39157:0xcc61cb32e673203f!8m2!3d18.8815184!4d79.4442416!16s%2Fg%2F11sv57nhg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6630,8 +6575,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Siddi+Hospital/@18.8815184,79.4442416,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb6336b39157:0xcc61cb32e673203f!8m2!3d18.8815184!4d79.4442416!16s%2Fg%2F11sv57nhg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "singareni-area-hospital-godavarikhani-ramagundam",
@@ -6680,7 +6624,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Singareni+Area+Hospital+%7C+Godavarikhani/@18.7451629,79.5184083,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfab9ec63a01:0x346663de5f195275!8m2!3d18.7451629!4d79.5184083!16s%2Fg%2F1v62g1zg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singareni+Area+Hospital+%7C+Godavarikhani/@18.7451629,79.5184083,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfab9ec63a01:0x346663de5f195275!8m2!3d18.7451629!4d79.5184083!16s%2Fg%2F1v62g1zg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6749,8 +6693,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Singareni+Area+Hospital+%7C+Godavarikhani/@18.7451629,79.5184083,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfab9ec63a01:0x346663de5f195275!8m2!3d18.7451629!4d79.5184083!16s%2Fg%2F1v62g1zg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "solmanraju-hospital-mancherial",
@@ -6798,7 +6741,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Solmanraju+Hospital/@18.8828201,79.4443693,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca745c095103:0x92d3fb03e5fdf897!8m2!3d18.8828201!4d79.4443693!16s%2Fg%2F11b_3gr1s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Solmanraju+Hospital/@18.8828201,79.4443693,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca745c095103:0x92d3fb03e5fdf897!8m2!3d18.8828201!4d79.4443693!16s%2Fg%2F11b_3gr1s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6867,8 +6810,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Solmanraju+Hospital/@18.8828201,79.4443693,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca745c095103:0x92d3fb03e5fdf897!8m2!3d18.8828201!4d79.4443693!16s%2Fg%2F11b_3gr1s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sree-mamatha-hospital-ramagundam",
@@ -6916,7 +6858,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sree+Mamatha+Hospital/@18.7506232,79.5099416,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cef8c77babe1:0x63041604d1077488!8m2!3d18.7506232!4d79.5099416!16s%2Fg%2F11clwk3b2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Mamatha+Hospital/@18.7506232,79.5099416,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cef8c77babe1:0x63041604d1077488!8m2!3d18.7506232!4d79.5099416!16s%2Fg%2F11clwk3b2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6985,8 +6927,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sree+Mamatha+Hospital/@18.7506232,79.5099416,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cef8c77babe1:0x63041604d1077488!8m2!3d18.7506232!4d79.5099416!16s%2Fg%2F11clwk3b2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sree-vidya-skin-and-hair-clini-mancherial",
@@ -7034,7 +6975,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sree+Vidya+Skin+And+Hair+Clini/@18.8814505,79.444769,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb00144829b3:0x902460a54a67c744!8m2!3d18.8814505!4d79.444769!16s%2Fg%2F11yggb5_fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Vidya+Skin+And+Hair+Clini/@18.8814505,79.444769,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb00144829b3:0x902460a54a67c744!8m2!3d18.8814505!4d79.444769!16s%2Fg%2F11yggb5_fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7100,11 +7041,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sree+Vidya+Skin+And+Hair+Clini/@18.8814505,79.444769,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb00144829b3:0x902460a54a67c744!8m2!3d18.8814505!4d79.444769!16s%2Fg%2F11yggb5_fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-aadvik-children-s-hospital-ramagundam",
@@ -7153,7 +7093,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+AADVIK+CHILDREN'S+HOSPITAL/@18.7504386,79.5108365,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf92464cee53:0x36489ecc77f1f3a3!8m2!3d18.7504386!4d79.5108365!16s%2Fg%2F11h_6j726c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+AADVIK+CHILDREN'S+HOSPITAL/@18.7504386,79.5108365,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf92464cee53:0x36489ecc77f1f3a3!8m2!3d18.7504386!4d79.5108365!16s%2Fg%2F11h_6j726c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7222,8 +7162,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+AADVIK+CHILDREN'S+HOSPITAL/@18.7504386,79.5108365,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf92464cee53:0x36489ecc77f1f3a3!8m2!3d18.7504386!4d79.5108365!16s%2Fg%2F11h_6j726c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-aditya-maternity-hospital-ramagundam",
@@ -7271,7 +7210,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Aditya+Maternity+Hospital/@18.749317,79.510039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfa5068f3c4b:0x669b6d7df4a2dc9c!8m2!3d18.749317!4d79.510039!16s%2Fg%2F11ll7b9mfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Aditya+Maternity+Hospital/@18.749317,79.510039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfa5068f3c4b:0x669b6d7df4a2dc9c!8m2!3d18.749317!4d79.510039!16s%2Fg%2F11ll7b9mfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7337,11 +7276,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Aditya+Maternity+Hospital/@18.749317,79.510039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfa5068f3c4b:0x669b6d7df4a2dc9c!8m2!3d18.749317!4d79.510039!16s%2Fg%2F11ll7b9mfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-anudeep-dental-ramagundam",
@@ -7390,7 +7328,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Anudeep+Dental/@18.7478143,79.5120467,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cff28319deef:0xdf89e511054fc586!8m2!3d18.7478143!4d79.5120467!16s%2Fg%2F11s7f_x8mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Anudeep+Dental/@18.7478143,79.5120467,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cff28319deef:0xdf89e511054fc586!8m2!3d18.7478143!4d79.5120467!16s%2Fg%2F11s7f_x8mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7456,11 +7394,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Anudeep+Dental/@18.7478143,79.5120467,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cff28319deef:0xdf89e511054fc586!8m2!3d18.7478143!4d79.5120467!16s%2Fg%2F11s7f_x8mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-balaji-skin-hospital-godavarikhani-city-ramagundam",
@@ -7508,7 +7445,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Balaji+Skin+Hospital+-+Godavarikhani+City/@18.7486265,79.5101132,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55e4958f3b:0xa1b2ddeea4a6d104!8m2!3d18.7486265!4d79.5101132!16s%2Fg%2F11by_jt511?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Balaji+Skin+Hospital+-+Godavarikhani+City/@18.7486265,79.5101132,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55e4958f3b:0xa1b2ddeea4a6d104!8m2!3d18.7486265!4d79.5101132!16s%2Fg%2F11by_jt511?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7577,8 +7514,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Balaji+Skin+Hospital+-+Godavarikhani+City/@18.7486265,79.5101132,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55e4958f3b:0xa1b2ddeea4a6d104!8m2!3d18.7486265!4d79.5101132!16s%2Fg%2F11by_jt511?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-devi-nursing-home-godavarikhani-city-godavarikhani",
@@ -7627,7 +7563,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Devi+Nursing+Home-Godavarikhani+City/@18.7569321,79.5065293,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cefa4c02ea8d:0x89725fbc57a91f51!8m2!3d18.7569321!4d79.5065293!16s%2Fg%2F11cky3s1j3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Devi+Nursing+Home-Godavarikhani+City/@18.7569321,79.5065293,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cefa4c02ea8d:0x89725fbc57a91f51!8m2!3d18.7569321!4d79.5065293!16s%2Fg%2F11cky3s1j3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7696,8 +7632,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Devi+Nursing+Home-Godavarikhani+City/@18.7569321,79.5065293,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cefa4c02ea8d:0x89725fbc57a91f51!8m2!3d18.7569321!4d79.5065293!16s%2Fg%2F11cky3s1j3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-geetha-hospital-mancherial",
@@ -7745,7 +7680,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Geetha+Hospital/@18.8730855,79.4439018,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6dbe5bd85d:0x7e171eb645cdfda4!8m2!3d18.8730855!4d79.4439018!16s%2Fg%2F11bz08mv42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Geetha+Hospital/@18.8730855,79.4439018,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6dbe5bd85d:0x7e171eb645cdfda4!8m2!3d18.8730855!4d79.4439018!16s%2Fg%2F11bz08mv42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7811,11 +7746,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Geetha+Hospital/@18.8730855,79.4439018,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6dbe5bd85d:0x7e171eb645cdfda4!8m2!3d18.8730855!4d79.4439018!16s%2Fg%2F11bz08mv42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-krishna-hospital-best-skin-hospital-mancherial-mancherial",
@@ -7864,7 +7798,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Krishna+Hospital+(Best+Skin+Hospital+Mancherial)/@18.8807728,79.4418661,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca76ac22a045:0x75bff779fe1100ea!8m2!3d18.8807728!4d79.4418661!16s%2Fg%2F11c2plghkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Krishna+Hospital+(Best+Skin+Hospital+Mancherial)/@18.8807728,79.4418661,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca76ac22a045:0x75bff779fe1100ea!8m2!3d18.8807728!4d79.4418661!16s%2Fg%2F11c2plghkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7933,8 +7867,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Krishna+Hospital+(Best+Skin+Hospital+Mancherial)/@18.8807728,79.4418661,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca76ac22a045:0x75bff779fe1100ea!8m2!3d18.8807728!4d79.4418661!16s%2Fg%2F11c2plghkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-laxmi-physiotherapy-clinic-godavarikhani",
@@ -7983,7 +7916,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Laxmi+physiotherapy+clinic/@18.7495385,79.5115948,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cff3176dea1f:0xde6cbd6a46400b75!8m2!3d18.7495385!4d79.5115948!16s%2Fg%2F11h919wrp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Laxmi+physiotherapy+clinic/@18.7495385,79.5115948,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cff3176dea1f:0xde6cbd6a46400b75!8m2!3d18.7495385!4d79.5115948!16s%2Fg%2F11h919wrp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8049,11 +7982,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Laxmi+physiotherapy+clinic/@18.7495385,79.5115948,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cff3176dea1f:0xde6cbd6a46400b75!8m2!3d18.7495385!4d79.5115948!16s%2Fg%2F11h919wrp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-matha-rainbow-kids-hospital-ramagundam",
@@ -8102,7 +8034,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Matha+Rainbow+Kids+Hospital/@18.7493405,79.5106259,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55f64c13f3:0xf6cee0538c2135f8!8m2!3d18.7493405!4d79.5106259!16s%2Fg%2F11cr_yc_xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Matha+Rainbow+Kids+Hospital/@18.7493405,79.5106259,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55f64c13f3:0xf6cee0538c2135f8!8m2!3d18.7493405!4d79.5106259!16s%2Fg%2F11cr_yc_xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8168,11 +8100,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Matha+Rainbow+Kids+Hospital/@18.7493405,79.5106259,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55f64c13f3:0xf6cee0538c2135f8!8m2!3d18.7493405!4d79.5106259!16s%2Fg%2F11cr_yc_xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-rajarajeshwara-clinic-mancherial",
@@ -8220,7 +8151,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+RAJARAJESHWARA+CLINIC/@18.8581664,79.4723574,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32c9c580704c91:0xd13880fcd348469b!8m2!3d18.8581664!4d79.4723574!16s%2Fg%2F11wtrxsp84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+RAJARAJESHWARA+CLINIC/@18.8581664,79.4723574,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32c9c580704c91:0xd13880fcd348469b!8m2!3d18.8581664!4d79.4723574!16s%2Fg%2F11wtrxsp84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8286,11 +8217,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+RAJARAJESHWARA+CLINIC/@18.8581664,79.4723574,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32c9c580704c91:0xd13880fcd348469b!8m2!3d18.8581664!4d79.4723574!16s%2Fg%2F11wtrxsp84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sachi-hospital-mancherial",
@@ -8338,7 +8268,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+sachi+Hospital/@18.8779833,79.4434436,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb002726d623:0x75a4d0dd82243c1e!8m2!3d18.8779833!4d79.4434436!16s%2Fg%2F11yxjrq2jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+sachi+Hospital/@18.8779833,79.4434436,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb002726d623:0x75a4d0dd82243c1e!8m2!3d18.8779833!4d79.4434436!16s%2Fg%2F11yxjrq2jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8404,11 +8334,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+sachi+Hospital/@18.8779833,79.4434436,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb002726d623:0x75a4d0dd82243c1e!8m2!3d18.8779833!4d79.4434436!16s%2Fg%2F11yxjrq2jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sathya-sai-hospital-of-gynecology-and-obstetrics-mancherial",
@@ -8456,7 +8385,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Sathya+Sai+Hospital+Of+Gynecology+And+Obstetrics/@18.8805428,79.4416156,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca74056792ef:0x2bdf72d271a4cbe!8m2!3d18.8805428!4d79.4416156!16s%2Fg%2F1q62l0dj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sathya+Sai+Hospital+Of+Gynecology+And+Obstetrics/@18.8805428,79.4416156,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca74056792ef:0x2bdf72d271a4cbe!8m2!3d18.8805428!4d79.4416156!16s%2Fg%2F1q62l0dj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8525,8 +8454,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Sathya+Sai+Hospital+Of+Gynecology+And+Obstetrics/@18.8805428,79.4416156,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca74056792ef:0x2bdf72d271a4cbe!8m2!3d18.8805428!4d79.4416156!16s%2Fg%2F1q62l0dj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-srinivasa-general-and-eye-hospital-at-godavarikhani-ramagundam",
@@ -8574,7 +8502,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+SRINIVASA+GENERAL+AND+EYE+HOSPITAL+AT+GODAVARIKHANI/@18.7505414,79.5110571,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf62c376f2ab:0xb04f223162879887!8m2!3d18.7505414!4d79.5110571!16s%2Fg%2F11flwhm9_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SRINIVASA+GENERAL+AND+EYE+HOSPITAL+AT+GODAVARIKHANI/@18.7505414,79.5110571,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf62c376f2ab:0xb04f223162879887!8m2!3d18.7505414!4d79.5110571!16s%2Fg%2F11flwhm9_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8643,8 +8571,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+SRINIVASA+GENERAL+AND+EYE+HOSPITAL+AT+GODAVARIKHANI/@18.7505414,79.5110571,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf62c376f2ab:0xb04f223162879887!8m2!3d18.7505414!4d79.5110571!16s%2Fg%2F11flwhm9_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-venkatasai-dental-clinic-ramagundam",
@@ -8692,7 +8619,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Venkatasai+Dental+Clinic/@18.7492875,79.5110121,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf53b2d85935:0xe9e2d47ed5af95df!8m2!3d18.7492875!4d79.5110121!16s%2Fg%2F11sgkbbvn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Venkatasai+Dental+Clinic/@18.7492875,79.5110121,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf53b2d85935:0xe9e2d47ed5af95df!8m2!3d18.7492875!4d79.5110121!16s%2Fg%2F11sgkbbvn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8761,8 +8688,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Venkatasai+Dental+Clinic/@18.7492875,79.5110121,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf53b2d85935:0xe9e2d47ed5af95df!8m2!3d18.7492875!4d79.5110121!16s%2Fg%2F11sgkbbvn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-venkateshwara-hospital-ramagundam",
@@ -8810,7 +8736,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Venkateshwara+Hospital/@18.7400783,79.5171946,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfad11245d89:0xb28bb7580081d6e3!8m2!3d18.7400783!4d79.5171946!16s%2Fg%2F11c37znr3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Venkateshwara+Hospital/@18.7400783,79.5171946,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfad11245d89:0xb28bb7580081d6e3!8m2!3d18.7400783!4d79.5171946!16s%2Fg%2F11c37znr3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8879,8 +8805,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Venkateshwara+Hospital/@18.7400783,79.5171946,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfad11245d89:0xb28bb7580081d6e3!8m2!3d18.7400783!4d79.5171946!16s%2Fg%2F11c37znr3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-venkateswara-kidney-and-general-hospital-gajwel",
@@ -8929,7 +8854,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Venkateswara+kidney+and+General+hospital/@17.8382208,78.6940974,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcc87134398c36b:0x28278579ad0f52ba!8m2!3d17.8382208!4d78.6940974!16s%2Fg%2F11tsxbdzdx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Venkateswara+kidney+and+General+hospital/@17.8382208,78.6940974,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcc87134398c36b:0x28278579ad0f52ba!8m2!3d17.8382208!4d78.6940974!16s%2Fg%2F11tsxbdzdx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8998,8 +8923,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Venkateswara+kidney+and+General+hospital/@17.8382208,78.6940974,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcc87134398c36b:0x28278579ad0f52ba!8m2!3d17.8382208!4d78.6940974!16s%2Fg%2F11tsxbdzdx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sridhar-gastro-and-laparoscopy-hospital-mancherial",
@@ -9048,7 +8972,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRIDHAR+GASTRO+AND+LAPAROSCOPY+HOSPITAL/@18.8732799,79.443886,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32b5bf0a75a431:0xaa328e27e6d40c58!8m2!3d18.8732799!4d79.443886!16s%2Fg%2F11vy_w6grd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRIDHAR+GASTRO+AND+LAPAROSCOPY+HOSPITAL/@18.8732799,79.443886,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32b5bf0a75a431:0xaa328e27e6d40c58!8m2!3d18.8732799!4d79.443886!16s%2Fg%2F11vy_w6grd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9117,8 +9041,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRIDHAR+GASTRO+AND+LAPAROSCOPY+HOSPITAL/@18.8732799,79.443886,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32b5bf0a75a431:0xaa328e27e6d40c58!8m2!3d18.8732799!4d79.443886!16s%2Fg%2F11vy_w6grd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srikanth-dental-hospital-ramagundam",
@@ -9167,7 +9090,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Srikanth+Dental+Hospital/@18.7481767,79.5118099,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cff577ac4dd7:0x448bae6641f1daa8!8m2!3d18.7481767!4d79.5118099!16s%2Fg%2F11fb101r3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srikanth+Dental+Hospital/@18.7481767,79.5118099,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cff577ac4dd7:0x448bae6641f1daa8!8m2!3d18.7481767!4d79.5118099!16s%2Fg%2F11fb101r3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9236,8 +9159,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Srikanth+Dental+Hospital/@18.7481767,79.5118099,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cff577ac4dd7:0x448bae6641f1daa8!8m2!3d18.7481767!4d79.5118099!16s%2Fg%2F11fb101r3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srikanth-dental-hospital-mancherial",
@@ -9286,7 +9208,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Srikanth+Dental+Hospital/@18.8807109,79.4419901,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cba14b220097:0xf457521abeb442c2!8m2!3d18.8807109!4d79.4419901!16s%2Fg%2F11kjpbk4r3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srikanth+Dental+Hospital/@18.8807109,79.4419901,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cba14b220097:0xf457521abeb442c2!8m2!3d18.8807109!4d79.4419901!16s%2Fg%2F11kjpbk4r3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9355,8 +9277,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Srikanth+Dental+Hospital/@18.8807109,79.4419901,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cba14b220097:0xf457521abeb442c2!8m2!3d18.8807109!4d79.4419901!16s%2Fg%2F11kjpbk4r3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srikanth-eye-hospital-ramagundam",
@@ -9404,7 +9325,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRIKANTH+EYE+HOSPITAL/@18.7493332,79.5106815,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfe074183441:0x9fcea120f739956f!8m2!3d18.7493332!4d79.5106815!16s%2Fg%2F11n081mb6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRIKANTH+EYE+HOSPITAL/@18.7493332,79.5106815,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfe074183441:0x9fcea120f739956f!8m2!3d18.7493332!4d79.5106815!16s%2Fg%2F11n081mb6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9473,8 +9394,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRIKANTH+EYE+HOSPITAL/@18.7493332,79.5106815,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfe074183441:0x9fcea120f739956f!8m2!3d18.7493332!4d79.5106815!16s%2Fg%2F11n081mb6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srinidhi-hospital-mancherial",
@@ -9522,7 +9442,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRINIDHI+HOSPITAL/@18.8850266,79.4414108,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6c5db0a227:0x3affad20ed7c96dd!8m2!3d18.8850266!4d79.4414108!16s%2Fg%2F1hdzhdcj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRINIDHI+HOSPITAL/@18.8850266,79.4414108,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6c5db0a227:0x3affad20ed7c96dd!8m2!3d18.8850266!4d79.4414108!16s%2Fg%2F1hdzhdcj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9591,8 +9511,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRINIDHI+HOSPITAL/@18.8850266,79.4414108,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca6c5db0a227:0x3affad20ed7c96dd!8m2!3d18.8850266!4d79.4414108!16s%2Fg%2F1hdzhdcj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srinivasa-hospital-and-nursing-home-best-hospitals-in-mancherial-mancherial",
@@ -9641,7 +9560,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Srinivasa+Hospital+and+Nursing+Home+(Best+Hospitals+in+Mancherial)/@18.8780833,79.4429856,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb3bb86ebf0d:0xd6e5e623099fd5b5!8m2!3d18.8780833!4d79.4429856!16s%2Fg%2F11vb2s_k78?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinivasa+Hospital+and+Nursing+Home+(Best+Hospitals+in+Mancherial)/@18.8780833,79.4429856,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb3bb86ebf0d:0xd6e5e623099fd5b5!8m2!3d18.8780833!4d79.4429856!16s%2Fg%2F11vb2s_k78?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9710,8 +9629,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Srinivasa+Hospital+and+Nursing+Home+(Best+Hospitals+in+Mancherial)/@18.8780833,79.4429856,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb3bb86ebf0d:0xd6e5e623099fd5b5!8m2!3d18.8780833!4d79.4429856!16s%2Fg%2F11vb2s_k78?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sriram-kidney-infertility-and-laparoscopy-centre-khammam",
@@ -9762,7 +9680,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sriram+Kidney+,Infertility+%26+Laparoscopy+Centre/@17.2516003,80.1443112,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce3be28e3:0x48bed901d0383f08!8m2!3d17.2516003!4d80.1443112!16s%2Fg%2F124ylkq_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sriram+Kidney+,Infertility+%26+Laparoscopy+Centre/@17.2516003,80.1443112,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce3be28e3:0x48bed901d0383f08!8m2!3d17.2516003!4d80.1443112!16s%2Fg%2F124ylkq_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9831,8 +9749,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sriram+Kidney+,Infertility+%26+Laparoscopy+Centre/@17.2516003,80.1443112,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce3be28e3:0x48bed901d0383f08!8m2!3d17.2516003!4d80.1443112!16s%2Fg%2F124ylkq_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "star-mount-hospital-ramagundam",
@@ -9880,7 +9797,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Star+Mount+Hospital/@18.7557545,79.5056798,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0cec40aa8b:0x81aac5b7fdae7e71!8m2!3d18.7557545!4d79.5056798!16s%2Fg%2F11qn5bw45d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+Mount+Hospital/@18.7557545,79.5056798,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0cec40aa8b:0x81aac5b7fdae7e71!8m2!3d18.7557545!4d79.5056798!16s%2Fg%2F11qn5bw45d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9949,8 +9866,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Star+Mount+Hospital/@18.7557545,79.5056798,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf0cec40aa8b:0x81aac5b7fdae7e71!8m2!3d18.7557545!4d79.5056798!16s%2Fg%2F11qn5bw45d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "star-ortho-clinic-ramagundam",
@@ -10000,7 +9916,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/STAR+ORTHO+CLINIC/@18.7495107,79.5035968,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf5e72097da9:0xda66a90fc8670a54!8m2!3d18.7495107!4d79.5035968!16s%2Fg%2F11qvd2g97p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STAR+ORTHO+CLINIC/@18.7495107,79.5035968,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf5e72097da9:0xda66a90fc8670a54!8m2!3d18.7495107!4d79.5035968!16s%2Fg%2F11qvd2g97p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10069,8 +9985,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/STAR+ORTHO+CLINIC/@18.7495107,79.5035968,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf5e72097da9:0xda66a90fc8670a54!8m2!3d18.7495107!4d79.5035968!16s%2Fg%2F11qvd2g97p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suguna-dental-hospital-ramagundam",
@@ -10118,7 +10033,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Suguna+Dental+Hospital/@18.7485759,79.5104101,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55e42c1603:0x6f57dfd4bf94a5e9!8m2!3d18.7485759!4d79.5104101!16s%2Fg%2F11b6pthq77?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suguna+Dental+Hospital/@18.7485759,79.5104101,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55e42c1603:0x6f57dfd4bf94a5e9!8m2!3d18.7485759!4d79.5104101!16s%2Fg%2F11b6pthq77?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10187,8 +10102,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Suguna+Dental+Hospital/@18.7485759,79.5104101,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55e42c1603:0x6f57dfd4bf94a5e9!8m2!3d18.7485759!4d79.5104101!16s%2Fg%2F11b6pthq77?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suguna-hospital-mancherial",
@@ -10237,7 +10151,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Suguna+Hospital/@18.8795683,79.4431777,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca73eee5e6d1:0x79bb5841cf4ed94f!8m2!3d18.8795683!4d79.4431777!16s%2Fg%2F11b_2l4k2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suguna+Hospital/@18.8795683,79.4431777,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca73eee5e6d1:0x79bb5841cf4ed94f!8m2!3d18.8795683!4d79.4431777!16s%2Fg%2F11b_2l4k2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10306,8 +10220,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Suguna+Hospital/@18.8795683,79.4431777,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca73eee5e6d1:0x79bb5841cf4ed94f!8m2!3d18.8795683!4d79.4431777!16s%2Fg%2F11b_2l4k2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sun-hospital-mancherial",
@@ -10355,7 +10268,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SUN+Hospital/@18.8685352,79.4447875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca73cae806f7:0x7d0fe99d9c77d273!8m2!3d18.8685352!4d79.4447875!16s%2Fg%2F11cs6d662k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUN+Hospital/@18.8685352,79.4447875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca73cae806f7:0x7d0fe99d9c77d273!8m2!3d18.8685352!4d79.4447875!16s%2Fg%2F11cs6d662k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10424,8 +10337,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SUN+Hospital/@18.8685352,79.4447875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca73cae806f7:0x7d0fe99d9c77d273!8m2!3d18.8685352!4d79.4447875!16s%2Fg%2F11cs6d662k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunil-sai-clinic-ramagundam",
@@ -10471,7 +10383,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SUNIL+SAI+CLINIC/@18.7427031,79.5167987,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfa8be229e8d:0xba37b9ec9926d4f1!8m2!3d18.7427031!4d79.5167987!16s%2Fg%2F11pvlny5hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUNIL+SAI+CLINIC/@18.7427031,79.5167987,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfa8be229e8d:0xba37b9ec9926d4f1!8m2!3d18.7427031!4d79.5167987!16s%2Fg%2F11pvlny5hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10537,11 +10449,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SUNIL+SAI+CLINIC/@18.7427031,79.5167987,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cfa8be229e8d:0xba37b9ec9926d4f1!8m2!3d18.7427031!4d79.5167987!16s%2Fg%2F11pvlny5hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suraksha-hospital-ramagundam",
@@ -10589,7 +10500,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Suraksha+Hospital/data=!4m7!3m6!1s0x3a32cf60d3ff781f:0x78109f50176a8d6e!8m2!3d18.7476308!4d79.5121678!16s%2Fg%2F11n06ng2lf!19sChIJH3j_02DPMjoRbo1qF1CfEHg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suraksha+Hospital/data=!4m7!3m6!1s0x3a32cf60d3ff781f:0x78109f50176a8d6e!8m2!3d18.7476308!4d79.5121678!16s%2Fg%2F11n06ng2lf!19sChIJH3j_02DPMjoRbo1qF1CfEHg?authuser=0&hl=en&rclk=1"
@@ -10658,8 +10569,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Suraksha+Hospital/data=!4m7!3m6!1s0x3a32cf60d3ff781f:0x78109f50176a8d6e!8m2!3d18.7476308!4d79.5121678!16s%2Fg%2F11n06ng2lf!19sChIJH3j_02DPMjoRbo1qF1CfEHg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surekha-hospital-ramagundam",
@@ -10707,7 +10617,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surekha+Hospital/@18.7567309,79.506933,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf9863573d17:0x83790eb0b59198f8!8m2!3d18.7567309!4d79.506933!16s%2Fg%2F11j370k3gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surekha+Hospital/@18.7567309,79.506933,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf9863573d17:0x83790eb0b59198f8!8m2!3d18.7567309!4d79.506933!16s%2Fg%2F11j370k3gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10776,8 +10686,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surekha+Hospital/@18.7567309,79.506933,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf9863573d17:0x83790eb0b59198f8!8m2!3d18.7567309!4d79.506933!16s%2Fg%2F11j370k3gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surendra-nehru-hospital-homaclinics-godavarikhani-peddapalli-dt-50509",
@@ -10826,7 +10735,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surendra+Nehru+Hospital.+HOMACLINICS/@18.7574126,79.5057494,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cefa593ffff7:0x6af13b7bf1bd2898!8m2!3d18.7574126!4d79.5057494!16s%2Fg%2F1wt3ltrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surendra+Nehru+Hospital.+HOMACLINICS/@18.7574126,79.5057494,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cefa593ffff7:0x6af13b7bf1bd2898!8m2!3d18.7574126!4d79.5057494!16s%2Fg%2F1wt3ltrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10895,8 +10804,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surendra+Nehru+Hospital.+HOMACLINICS/@18.7574126,79.5057494,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cefa593ffff7:0x6af13b7bf1bd2898!8m2!3d18.7574126!4d79.5057494!16s%2Fg%2F1wt3ltrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surya-hospital-ramagundam",
@@ -10944,7 +10852,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surya+Hospital/@18.7490564,79.510594,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55f0d1c65f:0x175027786d3ceb61!8m2!3d18.7490564!4d79.510594!16s%2Fg%2F1tc_jkdq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+Hospital/@18.7490564,79.510594,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55f0d1c65f:0x175027786d3ceb61!8m2!3d18.7490564!4d79.510594!16s%2Fg%2F1tc_jkdq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11013,8 +10921,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surya+Hospital/@18.7490564,79.510594,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ce55f0d1c65f:0x175027786d3ceb61!8m2!3d18.7490564!4d79.510594!16s%2Fg%2F1tc_jkdq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swathi-naveen-maternity-and-ent-mancherial",
@@ -11062,7 +10969,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swathi+Naveen+Maternity+%26+ENT/@18.8800102,79.4414993,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca7153a2da89:0x26e078b85bc11f49!8m2!3d18.8800102!4d79.4414993!16s%2Fg%2F11c45k9zg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swathi+Naveen+Maternity+%26+ENT/@18.8800102,79.4414993,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca7153a2da89:0x26e078b85bc11f49!8m2!3d18.8800102!4d79.4414993!16s%2Fg%2F11c45k9zg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11131,8 +11038,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swathi+Naveen+Maternity+%26+ENT/@18.8800102,79.4414993,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32ca7153a2da89:0x26e078b85bc11f49!8m2!3d18.8800102!4d79.4414993!16s%2Fg%2F11c45k9zg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thenewyou-liposuction-and-gynecomastia-clinic-hyderabad",
@@ -11181,7 +11087,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/theNewyou+-+Liposuction+%26+Gynecomastia+Clinic/@17.4054633,78.3932613,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb96d50c69c6af:0xab6be969b9ed6679!8m2!3d17.4054633!4d78.3932613!16s%2Fg%2F11b7rn8cwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/theNewyou+-+Liposuction+%26+Gynecomastia+Clinic/@17.4054633,78.3932613,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb96d50c69c6af:0xab6be969b9ed6679!8m2!3d17.4054633!4d78.3932613!16s%2Fg%2F11b7rn8cwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11250,8 +11156,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/theNewyou+-+Liposuction+%26+Gynecomastia+Clinic/@17.4054633,78.3932613,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb96d50c69c6af:0xab6be969b9ed6679!8m2!3d17.4054633!4d78.3932613!16s%2Fg%2F11b7rn8cwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "touch-hospitals-mancherial",
@@ -11300,7 +11205,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Touch+Hospitals/@18.8828201,79.4443693,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb1e38e23dd9:0xefaf1c07a8ccd55a!8m2!3d18.8828201!4d79.4443693!16s%2Fg%2F11rd5h10t7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Touch+Hospitals/@18.8828201,79.4443693,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb1e38e23dd9:0xefaf1c07a8ccd55a!8m2!3d18.8828201!4d79.4443693!16s%2Fg%2F11rd5h10t7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11369,8 +11274,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Touch+Hospitals/@18.8828201,79.4443693,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb1e38e23dd9:0xefaf1c07a8ccd55a!8m2!3d18.8828201!4d79.4443693!16s%2Fg%2F11rd5h10t7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "twisha-myra-hospital-tmh-mancherial",
@@ -11418,7 +11322,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Twisha+Myra+Hospital+(TMH)/@18.8813808,79.4408628,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb5570223d97:0x8d6af874e5bfcb25!8m2!3d18.8813808!4d79.4408628!16s%2Fg%2F11llfrpd4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Twisha+Myra+Hospital+(TMH)/@18.8813808,79.4408628,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb5570223d97:0x8d6af874e5bfcb25!8m2!3d18.8813808!4d79.4408628!16s%2Fg%2F11llfrpd4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11487,8 +11391,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Twisha+Myra+Hospital+(TMH)/@18.8813808,79.4408628,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cb5570223d97:0x8d6af874e5bfcb25!8m2!3d18.8813808!4d79.4408628!16s%2Fg%2F11llfrpd4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vasudha-hospital-mancherial",
@@ -11537,7 +11440,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vasudha+Hospital/@18.871293,79.4436446,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbc02ba5264d:0x7ff0f90b82d2d655!8m2!3d18.871293!4d79.4436446!16s%2Fg%2F11vdrlwy9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vasudha+Hospital/@18.871293,79.4436446,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbc02ba5264d:0x7ff0f90b82d2d655!8m2!3d18.871293!4d79.4436446!16s%2Fg%2F11vdrlwy9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11606,8 +11509,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vasudha+Hospital/@18.871293,79.4436446,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cbc02ba5264d:0x7ff0f90b82d2d655!8m2!3d18.871293!4d79.4436446!16s%2Fg%2F11vdrlwy9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijaya-children-s-hospital-ramagundam",
@@ -11656,7 +11558,7 @@
     "metrics": [
       "Google rating 2.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vijaya+Children%27s+Hospital/data=!4m7!3m6!1s0x3a32ce55f726c07f:0x938d8c0b56eee239!8m2!3d18.7491522!4d79.510617!16s%2Fg%2F11fy7bd5yz!19sChIJf8Am91XOMjoROeLuVguMjZM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaya+Children%27s+Hospital/data=!4m7!3m6!1s0x3a32ce55f726c07f:0x938d8c0b56eee239!8m2!3d18.7491522!4d79.510617!16s%2Fg%2F11fy7bd5yz!19sChIJf8Am91XOMjoROeLuVguMjZM?authuser=0&hl=en&rclk=1"
@@ -11725,8 +11627,7 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vijaya+Children%27s+Hospital/data=!4m7!3m6!1s0x3a32ce55f726c07f:0x938d8c0b56eee239!8m2!3d18.7491522!4d79.510617!16s%2Fg%2F11fy7bd5yz!19sChIJf8Am91XOMjoROeLuVguMjZM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ramagundam",
@@ -11774,7 +11675,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%B0%B9%E0%B1%80%E0%B0%B0+%E0%B0%B9%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%AA%E0%B0%9F%E0%B0%B2%E0%B1%8D+%E0%B0%97%E0%B1%8B%E0%B0%A6%E0%B0%BE%E0%B0%B5%E0%B0%B0%E0%B0%BF%E0%B0%96%E0%B0%A8%E0%B0%BF/@18.7494161,79.5107238,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf4239e82f13:0x48d39313fe61865f!8m2!3d18.7494161!4d79.5107238!16s%2Fg%2F11fsn2zqnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%B0%B9%E0%B1%80%E0%B0%B0+%E0%B0%B9%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%AA%E0%B0%9F%E0%B0%B2%E0%B1%8D+%E0%B0%97%E0%B1%8B%E0%B0%A6%E0%B0%BE%E0%B0%B5%E0%B0%B0%E0%B0%BF%E0%B0%96%E0%B0%A8%E0%B0%BF/@18.7494161,79.5107238,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf4239e82f13:0x48d39313fe61865f!8m2!3d18.7494161!4d79.5107238!16s%2Fg%2F11fsn2zqnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11840,10 +11741,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%B0%B9%E0%B1%80%E0%B0%B0+%E0%B0%B9%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%AA%E0%B0%9F%E0%B0%B2%E0%B1%8D+%E0%B0%97%E0%B1%8B%E0%B0%A6%E0%B0%BE%E0%B0%B5%E0%B0%B0%E0%B0%BF%E0%B0%96%E0%B0%A8%E0%B0%BF/@18.7494161,79.5107238,17z/data=!3m1!4b1!4m6!3m5!1s0x3a32cf4239e82f13:0x48d39313fe61865f!8m2!3d18.7494161!4d79.5107238!16s%2Fg%2F11fsn2zqnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

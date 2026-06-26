@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ADITYA+HOSPITAL/@29.5693905,74.325398,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cbc9e835d4d:0xa2c3c16ff91a6a34!8m2!3d29.5693905!4d74.325398!16s%2Fg%2F11dxlbxm4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADITYA+HOSPITAL/@29.5693905,74.325398,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cbc9e835d4d:0xa2c3c16ff91a6a34!8m2!3d29.5693905!4d74.325398!16s%2Fg%2F11dxlbxm4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -111,11 +111,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ADITYA+HOSPITAL/@29.5693905,74.325398,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cbc9e835d4d:0xa2c3c16ff91a6a34!8m2!3d29.5693905!4d74.325398!16s%2Fg%2F11dxlbxm4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "agarwal-hospital-and-dental-care-hanumangarh",
@@ -164,7 +163,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Agarwal+Hospital+and+Dental+Care/@29.6099835,74.2957616,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f497a201c867:0x257e89bafccce226!8m2!3d29.6099835!4d74.2957616!16s%2Fg%2F11c5spjz6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agarwal+Hospital+and+Dental+Care/@29.6099835,74.2957616,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f497a201c867:0x257e89bafccce226!8m2!3d29.6099835!4d74.2957616!16s%2Fg%2F11c5spjz6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -230,11 +229,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Agarwal+Hospital+and+Dental+Care/@29.6099835,74.2957616,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f497a201c867:0x257e89bafccce226!8m2!3d29.6099835!4d74.2957616!16s%2Fg%2F11c5spjz6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ahuja-dental-clinic-hanumangarh",
@@ -283,7 +281,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ahuja+Dental+Clinic/data=!4m7!3m6!1s0x39168cb3d763e681:0xcaf40de00fbd64c9!8m2!3d29.5815382!4d74.3273906!16s%2Fg%2F11dx8_xvny!19sChIJgeZj17OMFjkRyWS9D-AN9Mo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahuja+Dental+Clinic/data=!4m7!3m6!1s0x39168cb3d763e681:0xcaf40de00fbd64c9!8m2!3d29.5815382!4d74.3273906!16s%2Fg%2F11dx8_xvny!19sChIJgeZj17OMFjkRyWS9D-AN9Mo?authuser=0&hl=en&rclk=1"
@@ -349,11 +347,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ahuja+Dental+Clinic/data=!4m7!3m6!1s0x39168cb3d763e681:0xcaf40de00fbd64c9!8m2!3d29.5815382!4d74.3273906!16s%2Fg%2F11dx8_xvny!19sChIJgeZj17OMFjkRyWS9D-AN9Mo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aj-s-brar-dental-clinic-best-dentist-in-hanumangarh-hanumangarh",
@@ -402,7 +399,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AJ%E2%80%99s+Brar+Dental+Clinic+%5C+Best+Dentist+in+Hanumangarh/@29.6069519,74.2937291,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495ddb21d0b:0xabc0398b61f47a32!8m2!3d29.6069519!4d74.2937291!16s%2Fg%2F11cn8q2x55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AJ%E2%80%99s+Brar+Dental+Clinic+%5C+Best+Dentist+in+Hanumangarh/@29.6069519,74.2937291,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495ddb21d0b:0xabc0398b61f47a32!8m2!3d29.6069519!4d74.2937291!16s%2Fg%2F11cn8q2x55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -471,8 +468,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AJ%E2%80%99s+Brar+Dental+Clinic+%5C+Best+Dentist+in+Hanumangarh/@29.6069519,74.2937291,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495ddb21d0b:0xabc0398b61f47a32!8m2!3d29.6069519!4d74.2937291!16s%2Fg%2F11cn8q2x55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amit-hospital-hanumangarh",
@@ -520,7 +516,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Amit+hospital/@29.5768894,74.3271181,17z/data=!3m1!4b1!4m6!3m5!1s0x39168dec81dd532d:0x37d12ad24da07107!8m2!3d29.5768894!4d74.3271181!16s%2Fg%2F11j8zfkntj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amit+hospital/@29.5768894,74.3271181,17z/data=!3m1!4b1!4m6!3m5!1s0x39168dec81dd532d:0x37d12ad24da07107!8m2!3d29.5768894!4d74.3271181!16s%2Fg%2F11j8zfkntj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -586,11 +582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Amit+hospital/@29.5768894,74.3271181,17z/data=!3m1!4b1!4m6!3m5!1s0x39168dec81dd532d:0x37d12ad24da07107!8m2!3d29.5768894!4d74.3271181!16s%2Fg%2F11j8zfkntj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ampal-robotic-rehab-centre-best-physiotherapy-centre-in-hanumangarh-back-neck-knee-pain-neurological-conditions-cp-hanumangarh",
@@ -640,7 +635,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AMPAL+Robotic+Rehab+Centre+-+Best+Physiotherapy+Centre+in+Hanumangarh+%7C+Back+%2F+Neck+%2F+Knee+Pain,+Neurological+Conditions,+CP/@29.6064815,74.2942098,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5839396e7e3:0x9e6ce5dc2c87e70e!8m2!3d29.6064815!4d74.2942098!16s%2Fg%2F11vx6mw9zh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMPAL+Robotic+Rehab+Centre+-+Best+Physiotherapy+Centre+in+Hanumangarh+%7C+Back+%2F+Neck+%2F+Knee+Pain,+Neurological+Conditions,+CP/@29.6064815,74.2942098,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5839396e7e3:0x9e6ce5dc2c87e70e!8m2!3d29.6064815!4d74.2942098!16s%2Fg%2F11vx6mw9zh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -706,11 +701,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AMPAL+Robotic+Rehab+Centre+-+Best+Physiotherapy+Centre+in+Hanumangarh+%7C+Back+%2F+Neck+%2F+Knee+Pain,+Neurological+Conditions,+CP/@29.6064815,74.2942098,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5839396e7e3:0x9e6ce5dc2c87e70e!8m2!3d29.6064815!4d74.2942098!16s%2Fg%2F11vx6mw9zh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apex-hospital-and-ivf-centre-best-ivf-centre-hanumangarh-hanumangarh",
@@ -760,7 +754,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apex+Hospital+%26+IVF+Centre+%7C%7C+Best+IVF+Centre+Hanumangarh/data=!4m7!3m6!1s0x39168d9bf9287ba3:0x5dc13dfcd13b60df!8m2!3d29.5926983!4d74.3166242!16s%2Fg%2F11qmmfvnk0!19sChIJo3so-ZuNFjkR32A70fw9wV0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Hospital+%26+IVF+Centre+%7C%7C+Best+IVF+Centre+Hanumangarh/data=!4m7!3m6!1s0x39168d9bf9287ba3:0x5dc13dfcd13b60df!8m2!3d29.5926983!4d74.3166242!16s%2Fg%2F11qmmfvnk0!19sChIJo3so-ZuNFjkR32A70fw9wV0?authuser=0&hl=en&rclk=1"
@@ -829,8 +823,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apex+Hospital+%26+IVF+Centre+%7C%7C+Best+IVF+Centre+Hanumangarh/data=!4m7!3m6!1s0x39168d9bf9287ba3:0x5dc13dfcd13b60df!8m2!3d29.5926983!4d74.3166242!16s%2Fg%2F11qmmfvnk0!19sChIJo3so-ZuNFjkR32A70fw9wV0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arjan-singh-clinic-hanumangarh",
@@ -876,7 +869,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ARJAN+SINGH+CLINIC/@29.6096009,74.2951325,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f49696e199b5:0x64433056cfad6057!8m2!3d29.6096009!4d74.2951325!16s%2Fg%2F11vwyszrm2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ARJAN+SINGH+CLINIC/@29.6096009,74.2951325,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f49696e199b5:0x64433056cfad6057!8m2!3d29.6096009!4d74.2951325!16s%2Fg%2F11vwyszrm2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -942,11 +935,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ARJAN+SINGH+CLINIC/@29.6096009,74.2951325,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f49696e199b5:0x64433056cfad6057!8m2!3d29.6096009!4d74.2951325!16s%2Fg%2F11vwyszrm2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "auro-dental-and-healthcare-hanumangarh",
@@ -994,7 +986,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Auro+dental+%26+healthcare/@29.5801339,74.3233137,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d4dba548593:0x19839be23e9c0c28!8m2!3d29.5801339!4d74.3233137!16s%2Fg%2F11x31mk36y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Auro+dental+%26+healthcare/@29.5801339,74.3233137,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d4dba548593:0x19839be23e9c0c28!8m2!3d29.5801339!4d74.3233137!16s%2Fg%2F11x31mk36y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1063,8 +1055,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Auro+dental+%26+healthcare/@29.5801339,74.3233137,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d4dba548593:0x19839be23e9c0c28!8m2!3d29.5801339!4d74.3233137!16s%2Fg%2F11x31mk36y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "b-r-heart-hospital-hanumangarh",
@@ -1113,7 +1104,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/B+R+Heart+Hospital/data=!4m7!3m6!1s0x3916f5184a072305:0x6a7aede637eb1ee9!8m2!3d29.6059396!4d74.3006072!16s%2Fg%2F11kbpk5lcm!19sChIJBSMHShj1FjkR6R7rN-btemo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B+R+Heart+Hospital/data=!4m7!3m6!1s0x3916f5184a072305:0x6a7aede637eb1ee9!8m2!3d29.6059396!4d74.3006072!16s%2Fg%2F11kbpk5lcm!19sChIJBSMHShj1FjkR6R7rN-btemo?authuser=0&hl=en&rclk=1"
@@ -1179,11 +1170,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/B+R+Heart+Hospital/data=!4m7!3m6!1s0x3916f5184a072305:0x6a7aede637eb1ee9!8m2!3d29.6059396!4d74.3006072!16s%2Fg%2F11kbpk5lcm!19sChIJBSMHShj1FjkR6R7rN-btemo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "barayach-dental-clinic-hanumangarh",
@@ -1231,7 +1221,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Barayach+Dental+Clinic/@29.6079073,74.2937937,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495d3fddc19:0x5ef03d12cd358fee!8m2!3d29.6079073!4d74.2937937!16s%2Fg%2F11c310yzvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Barayach+Dental+Clinic/@29.6079073,74.2937937,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495d3fddc19:0x5ef03d12cd358fee!8m2!3d29.6079073!4d74.2937937!16s%2Fg%2F11c310yzvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1297,11 +1287,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Barayach+Dental+Clinic/@29.6079073,74.2937937,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495d3fddc19:0x5ef03d12cd358fee!8m2!3d29.6079073!4d74.2937937!16s%2Fg%2F11c310yzvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bathinda-surgical-hospital-and-maternity-centre-hanumangarh",
@@ -1349,7 +1338,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bathinda+Surgical+Hospital+%26+Maternity+Centre/@29.5840553,74.3272514,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cad856b5a81:0x597b74eea406f669!8m2!3d29.5840553!4d74.3272514!16s%2Fg%2F11fy1_42bt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bathinda+Surgical+Hospital+%26+Maternity+Centre/@29.5840553,74.3272514,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cad856b5a81:0x597b74eea406f669!8m2!3d29.5840553!4d74.3272514!16s%2Fg%2F11fy1_42bt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1418,8 +1407,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bathinda+Surgical+Hospital+%26+Maternity+Centre/@29.5840553,74.3272514,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cad856b5a81:0x597b74eea406f669!8m2!3d29.5840553!4d74.3272514!16s%2Fg%2F11fy1_42bt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "batra-hospital-hanumangarh",
@@ -1467,7 +1455,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Batra+Hospital/@29.6059713,74.3022242,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f498017e92ff:0xa476f0b232595a40!8m2!3d29.6059713!4d74.3022242!16s%2Fg%2F11b6hqf27c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Batra+Hospital/@29.6059713,74.3022242,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f498017e92ff:0xa476f0b232595a40!8m2!3d29.6059713!4d74.3022242!16s%2Fg%2F11b6hqf27c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1536,8 +1524,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Batra+Hospital/@29.6059713,74.3022242,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f498017e92ff:0xa476f0b232595a40!8m2!3d29.6059713!4d74.3022242!16s%2Fg%2F11b6hqf27c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "beniwal-hospital-hanumangarh",
@@ -1585,7 +1572,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Beniwal+hospital/@29.5843919,74.3359756,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d39ce8ac645:0xd9c7d6dd61df6093!8m2!3d29.5843919!4d74.3359756!16s%2Fg%2F11smtpt0gk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Beniwal+hospital/@29.5843919,74.3359756,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d39ce8ac645:0xd9c7d6dd61df6093!8m2!3d29.5843919!4d74.3359756!16s%2Fg%2F11smtpt0gk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1654,8 +1641,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Beniwal+hospital/@29.5843919,74.3359756,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d39ce8ac645:0xd9c7d6dd61df6093!8m2!3d29.5843919!4d74.3359756!16s%2Fg%2F11smtpt0gk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bombay-hospital-hanumangarh",
@@ -1703,7 +1689,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bombay+Hospital/@29.6089007,74.2980098,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4970846d78f:0x3f2dd3b987ffa281!8m2!3d29.6089007!4d74.2980098!16s%2Fg%2F1v93zgd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bombay+Hospital/@29.6089007,74.2980098,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4970846d78f:0x3f2dd3b987ffa281!8m2!3d29.6089007!4d74.2980098!16s%2Fg%2F1v93zgd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1772,8 +1758,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bombay+Hospital/@29.6089007,74.2980098,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4970846d78f:0x3f2dd3b987ffa281!8m2!3d29.6089007!4d74.2980098!16s%2Fg%2F1v93zgd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chachan-dental-clinic-hanumangarh",
@@ -1821,7 +1806,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chachan+Dental+Clinic/@29.5790011,74.3325567,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb7ab267ae7:0xa49149ee0fae8537!8m2!3d29.5790011!4d74.3325567!16s%2Fg%2F11hd94p9zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chachan+Dental+Clinic/@29.5790011,74.3325567,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb7ab267ae7:0xa49149ee0fae8537!8m2!3d29.5790011!4d74.3325567!16s%2Fg%2F11hd94p9zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1890,8 +1875,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chachan+Dental+Clinic/@29.5790011,74.3325567,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb7ab267ae7:0xa49149ee0fae8537!8m2!3d29.5790011!4d74.3325567!16s%2Fg%2F11hd94p9zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chawla-nursing-home-best-hospital-in-hanumangarh-hanumangarh",
@@ -1939,7 +1923,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chawla+Nursing+Home+-+Best+Hospital+in+Hanumangarh/@29.6044284,74.2904621,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4bfd007f1df:0x92cff784d40a3c87!8m2!3d29.6044284!4d74.2904621!16s%2Fg%2F1ttpf88t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chawla+Nursing+Home+-+Best+Hospital+in+Hanumangarh/@29.6044284,74.2904621,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4bfd007f1df:0x92cff784d40a3c87!8m2!3d29.6044284!4d74.2904621!16s%2Fg%2F1ttpf88t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2008,8 +1992,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chawla+Nursing+Home+-+Best+Hospital+in+Hanumangarh/@29.6044284,74.2904621,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4bfd007f1df:0x92cff784d40a3c87!8m2!3d29.6044284!4d74.2904621!16s%2Fg%2F1ttpf88t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chirayu-swasthya-gastro-and-liver-hospital-hanumangarh",
@@ -2060,7 +2043,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chirayu+Swasthya+Gastro+%26+Liver+Hospital/@29.6059204,74.300631,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f39e1b22b049:0xec4bbd3d80a575b3!8m2!3d29.6059204!4d74.300631!16s%2Fg%2F11kqbp6rf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chirayu+Swasthya+Gastro+%26+Liver+Hospital/@29.6059204,74.300631,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f39e1b22b049:0xec4bbd3d80a575b3!8m2!3d29.6059204!4d74.300631!16s%2Fg%2F11kqbp6rf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2129,8 +2112,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chirayu+Swasthya+Gastro+%26+Liver+Hospital/@29.6059204,74.300631,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f39e1b22b049:0xec4bbd3d80a575b3!8m2!3d29.6059204!4d74.300631!16s%2Fg%2F11kqbp6rf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ek-prayas-manorog-clinic-hanumangarh",
@@ -2179,7 +2161,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ek+Prayas+manorog+clinic/@29.5871805,74.3221671,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f33f291ac57f:0x653fbbba8aa68422!8m2!3d29.5871805!4d74.3221671!16s%2Fg%2F11qsmbgt_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ek+Prayas+manorog+clinic/@29.5871805,74.3221671,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f33f291ac57f:0x653fbbba8aa68422!8m2!3d29.5871805!4d74.3221671!16s%2Fg%2F11qsmbgt_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2245,11 +2227,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ek+Prayas+manorog+clinic/@29.5871805,74.3221671,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f33f291ac57f:0x653fbbba8aa68422!8m2!3d29.5871805!4d74.3221671!16s%2Fg%2F11qsmbgt_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "focus-nagpal-eye-hospital-cataract-and-lasik-center-hanumangarh-hanumangarh",
@@ -2299,7 +2280,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Focus+Nagpal+Eye+Hospital+%E2%80%93+Cataract+%26+LASIK+Center+Hanumangarh/@29.6055892,74.2909579,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495796a8b6f:0x6931073d295d3986!8m2!3d29.6055892!4d74.2909579!16s%2Fg%2F11dd_ppw_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Focus+Nagpal+Eye+Hospital+%E2%80%93+Cataract+%26+LASIK+Center+Hanumangarh/@29.6055892,74.2909579,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495796a8b6f:0x6931073d295d3986!8m2!3d29.6055892!4d74.2909579!16s%2Fg%2F11dd_ppw_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2368,8 +2349,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Focus+Nagpal+Eye+Hospital+%E2%80%93+Cataract+%26+LASIK+Center+Hanumangarh/@29.6055892,74.2909579,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495796a8b6f:0x6931073d295d3986!8m2!3d29.6055892!4d74.2909579!16s%2Fg%2F11dd_ppw_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "garg-dental-hospital-hanumangarh",
@@ -2417,7 +2397,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Garg+dental+hospital/@29.6134767,74.2992892,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5007ec235b1:0xee3de73e9e046e2a!8m2!3d29.6134767!4d74.2992892!16s%2Fg%2F11xv4243_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Garg+dental+hospital/@29.6134767,74.2992892,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5007ec235b1:0xee3de73e9e046e2a!8m2!3d29.6134767!4d74.2992892!16s%2Fg%2F11xv4243_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2486,8 +2466,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Garg+dental+hospital/@29.6134767,74.2992892,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5007ec235b1:0xee3de73e9e046e2a!8m2!3d29.6134767!4d74.2992892!16s%2Fg%2F11xv4243_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gate-hospital-hanumangarh",
@@ -2535,7 +2514,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gate+Hospital/@29.5767269,74.3234201,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cafdf08aff7:0x18ff6644f2d2f84f!8m2!3d29.5767269!4d74.3234201!16s%2Fg%2F11dxlbcrh6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gate+Hospital/@29.5767269,74.3234201,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cafdf08aff7:0x18ff6644f2d2f84f!8m2!3d29.5767269!4d74.3234201!16s%2Fg%2F11dxlbcrh6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2604,8 +2583,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gate+Hospital/@29.5767269,74.3234201,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cafdf08aff7:0x18ff6644f2d2f84f!8m2!3d29.5767269!4d74.3234201!16s%2Fg%2F11dxlbcrh6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gett-hospital-best-hospital-nursing-homes-in-hanumangarh-hanumangarh",
@@ -2653,7 +2631,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gett+Hospital+-+Best+Hospital+%7C+Nursing+Homes+in+Hanumangarh/@29.5768986,74.3228818,17z/data=!3m1!4b1!4m6!3m5!1s0x39168db4d47a41bf:0xb551e3538b5f199d!8m2!3d29.5768986!4d74.3228818!16s%2Fg%2F11ghfprx5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gett+Hospital+-+Best+Hospital+%7C+Nursing+Homes+in+Hanumangarh/@29.5768986,74.3228818,17z/data=!3m1!4b1!4m6!3m5!1s0x39168db4d47a41bf:0xb551e3538b5f199d!8m2!3d29.5768986!4d74.3228818!16s%2Fg%2F11ghfprx5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2722,8 +2700,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gett+Hospital+-+Best+Hospital+%7C+Nursing+Homes+in+Hanumangarh/@29.5768986,74.3228818,17z/data=!3m1!4b1!4m6!3m5!1s0x39168db4d47a41bf:0xb551e3538b5f199d!8m2!3d29.5768986!4d74.3228818!16s%2Fg%2F11ghfprx5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-hospital-hanumangarh",
@@ -2771,7 +2748,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Global+Hospital/@29.5970679,74.3144524,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f3006c5cd491:0x6edfac4a6eeb61a7!8m2!3d29.5970679!4d74.3144524!16s%2Fg%2F11xr_m5xks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Hospital/@29.5970679,74.3144524,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f3006c5cd491:0x6edfac4a6eeb61a7!8m2!3d29.5970679!4d74.3144524!16s%2Fg%2F11xr_m5xks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2840,8 +2817,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Global+Hospital/@29.5970679,74.3144524,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f3006c5cd491:0x6edfac4a6eeb61a7!8m2!3d29.5970679!4d74.3144524!16s%2Fg%2F11xr_m5xks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-hospital-hanumangarh-hanumangarh",
@@ -2889,7 +2865,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Global+Hospital+Hanumangarh/@29.5810158,74.3294629,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f3dc2375a7cb:0xb08908f4b371929b!8m2!3d29.5810158!4d74.3294629!16s%2Fg%2F11pklt801b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Hospital+Hanumangarh/@29.5810158,74.3294629,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f3dc2375a7cb:0xb08908f4b371929b!8m2!3d29.5810158!4d74.3294629!16s%2Fg%2F11pklt801b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2958,8 +2934,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Global+Hospital+Hanumangarh/@29.5810158,74.3294629,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f3dc2375a7cb:0xb08908f4b371929b!8m2!3d29.5810158!4d74.3294629!16s%2Fg%2F11pklt801b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "godara-wellnes-clinic-hanumangarh",
@@ -3007,7 +2982,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/godara+wellnes+clinic/@29.5928221,74.3164471,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f30e53a2c81f:0x3a1295ace00f5a4b!8m2!3d29.5928221!4d74.3164471!16s%2Fg%2F11t8b3ylvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/godara+wellnes+clinic/@29.5928221,74.3164471,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f30e53a2c81f:0x3a1295ace00f5a4b!8m2!3d29.5928221!4d74.3164471!16s%2Fg%2F11t8b3ylvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3076,8 +3051,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/godara+wellnes+clinic/@29.5928221,74.3164471,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f30e53a2c81f:0x3a1295ace00f5a4b!8m2!3d29.5928221!4d74.3164471!16s%2Fg%2F11t8b3ylvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gomati-dental-clinic-and-implant-centre-best-dental-clinic-in-hanumangarh-dental-implant-centre-top-dental-clinic-hanumangarh",
@@ -3125,7 +3099,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gomati+Dental+Clinic+And+Implant+Centre+-+Best+Dental+Clinic+in+Hanumangarh%2FDental+Implant+Centre%2FTop+Dental+Clinic/@29.6085702,74.298142,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5ea0d1da9b5:0x5ebdf47a5ccde907!8m2!3d29.6085702!4d74.298142!16s%2Fg%2F11xdzvln5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gomati+Dental+Clinic+And+Implant+Centre+-+Best+Dental+Clinic+in+Hanumangarh%2FDental+Implant+Centre%2FTop+Dental+Clinic/@29.6085702,74.298142,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5ea0d1da9b5:0x5ebdf47a5ccde907!8m2!3d29.6085702!4d74.298142!16s%2Fg%2F11xdzvln5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3191,11 +3165,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gomati+Dental+Clinic+And+Implant+Centre+-+Best+Dental+Clinic+in+Hanumangarh%2FDental+Implant+Centre%2FTop+Dental+Clinic/@29.6085702,74.298142,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5ea0d1da9b5:0x5ebdf47a5ccde907!8m2!3d29.6085702!4d74.298142!16s%2Fg%2F11xdzvln5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "goyal-dental-clinic-hanumangarh",
@@ -3243,7 +3216,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Goyal+Dental+Clinic/@29.5781053,74.3315805,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d69c436ef3d:0x8823c3c7b3bfc6f5!8m2!3d29.5781053!4d74.3315805!16s%2Fg%2F11nnc7pz94?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goyal+Dental+Clinic/@29.5781053,74.3315805,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d69c436ef3d:0x8823c3c7b3bfc6f5!8m2!3d29.5781053!4d74.3315805!16s%2Fg%2F11nnc7pz94?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3309,11 +3282,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Goyal+Dental+Clinic/@29.5781053,74.3315805,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d69c436ef3d:0x8823c3c7b3bfc6f5!8m2!3d29.5781053!4d74.3315805!16s%2Fg%2F11nnc7pz94?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "goyal-skin-hair-and-laser-centre-hanumangarh",
@@ -3361,7 +3333,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Goyal+Skin+Hair+and+Laser+Centre/@29.5858643,74.3222402,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb24349f7cf:0x62240e980bd1ed17!8m2!3d29.5858643!4d74.3222402!16s%2Fg%2F11f2wbx594?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goyal+Skin+Hair+and+Laser+Centre/@29.5858643,74.3222402,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb24349f7cf:0x62240e980bd1ed17!8m2!3d29.5858643!4d74.3222402!16s%2Fg%2F11f2wbx594?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3430,8 +3402,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Goyal+Skin+Hair+and+Laser+Centre/@29.5858643,74.3222402,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb24349f7cf:0x62240e980bd1ed17!8m2!3d29.5858643!4d74.3222402!16s%2Fg%2F11f2wbx594?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "grover-hospital-sexologist-nasha-mukti-kendra-hanumangarh",
@@ -3481,7 +3452,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Grover+Hospital+-+Sexologist+%7C+Nasha+Mukti+Kendra/@29.6084146,74.2949213,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f540098c72e3:0x417b709d75c894d2!8m2!3d29.6084146!4d74.2949213!16s%2Fg%2F11p60fy9ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Grover+Hospital+-+Sexologist+%7C+Nasha+Mukti+Kendra/@29.6084146,74.2949213,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f540098c72e3:0x417b709d75c894d2!8m2!3d29.6084146!4d74.2949213!16s%2Fg%2F11p60fy9ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3547,11 +3518,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Grover+Hospital+-+Sexologist+%7C+Nasha+Mukti+Kendra/@29.6084146,74.2949213,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f540098c72e3:0x417b709d75c894d2!8m2!3d29.6084146!4d74.2949213!16s%2Fg%2F11p60fy9ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gupta-hospital-hanumangarh",
@@ -3599,7 +3569,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gupta+Hospital/@29.5895916,74.3202168,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353b1e018ab:0x580a58409871ed07!8m2!3d29.5895916!4d74.3202168!16s%2Fg%2F1tdmhw68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Hospital/@29.5895916,74.3202168,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353b1e018ab:0x580a58409871ed07!8m2!3d29.5895916!4d74.3202168!16s%2Fg%2F1tdmhw68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3668,8 +3638,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gupta+Hospital/@29.5895916,74.3202168,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353b1e018ab:0x580a58409871ed07!8m2!3d29.5895916!4d74.3202168!16s%2Fg%2F1tdmhw68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gupta-lifecare-hospital-near-bus-stand-hanumangarh-junction",
@@ -3717,7 +3686,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gupta+Lifecare+Hospital/@29.6083082,74.2938411,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495db43047b:0x21643e97ca2cc609!8m2!3d29.6083082!4d74.2938411!16s%2Fg%2F1thkvngf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Lifecare+Hospital/@29.6083082,74.2938411,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495db43047b:0x21643e97ca2cc609!8m2!3d29.6083082!4d74.2938411!16s%2Fg%2F1thkvngf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3786,8 +3755,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gupta+Lifecare+Hospital/@29.6083082,74.2938411,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f495db43047b:0x21643e97ca2cc609!8m2!3d29.6083082!4d74.2938411!16s%2Fg%2F1thkvngf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gurunanak-children-hospital-hanumangarh",
@@ -3837,7 +3805,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gurunanak+Children+Hospital/@29.5762363,74.3356043,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cc7feb8de83:0xea3fdb4c302eb025!8m2!3d29.5762363!4d74.3356043!16s%2Fg%2F11g8v4trcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurunanak+Children+Hospital/@29.5762363,74.3356043,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cc7feb8de83:0xea3fdb4c302eb025!8m2!3d29.5762363!4d74.3356043!16s%2Fg%2F11g8v4trcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3906,8 +3874,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gurunanak+Children+Hospital/@29.5762363,74.3356043,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cc7feb8de83:0xea3fdb4c302eb025!8m2!3d29.5762363!4d74.3356043!16s%2Fg%2F11g8v4trcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hanumangarh-sports-physiotherapy-clnic-hanumangarh",
@@ -3956,7 +3923,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hanumangarh+sports+physiotherapy+clnic/@29.5998512,74.2960838,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5d8deb5d0a7:0xdd5ff0518c503378!8m2!3d29.5998512!4d74.2960838!16s%2Fg%2F11gjp4b50r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hanumangarh+sports+physiotherapy+clnic/@29.5998512,74.2960838,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5d8deb5d0a7:0xdd5ff0518c503378!8m2!3d29.5998512!4d74.2960838!16s%2Fg%2F11gjp4b50r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4025,8 +3992,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hanumangarh+sports+physiotherapy+clnic/@29.5998512,74.2960838,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f5d8deb5d0a7:0xdd5ff0518c503378!8m2!3d29.5998512!4d74.2960838!16s%2Fg%2F11gjp4b50r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospital-hanumangarh",
@@ -4073,7 +4039,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hospital/@29.5882917,74.322219,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f3b97f58644b:0xc38caa6bbad34cd7!8m2!3d29.5882917!4d74.322219!16s%2Fg%2F11m6f9mbnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital/@29.5882917,74.322219,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f3b97f58644b:0xc38caa6bbad34cd7!8m2!3d29.5882917!4d74.322219!16s%2Fg%2F11m6f9mbnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4139,11 +4105,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hospital/@29.5882917,74.322219,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f3b97f58644b:0xc38caa6bbad34cd7!8m2!3d29.5882917!4d74.322219!16s%2Fg%2F11m6f9mbnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jain-udai-dental-clinic-hanumangarh",
@@ -4191,7 +4156,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/jain+udai+dental+clinic/@29.6117704,74.2863596,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4ec588f3797:0xc733e7355c351e7f!8m2!3d29.6117704!4d74.2863596!16s%2Fg%2F11gc_z7v5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/jain+udai+dental+clinic/@29.6117704,74.2863596,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4ec588f3797:0xc733e7355c351e7f!8m2!3d29.6117704!4d74.2863596!16s%2Fg%2F11gc_z7v5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4260,8 +4225,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/jain+udai+dental+clinic/@29.6117704,74.2863596,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4ec588f3797:0xc733e7355c351e7f!8m2!3d29.6117704!4d74.2863596!16s%2Fg%2F11gc_z7v5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jan-seva-dental-hospital-hanumangarh-best-dental-clinic-in-hanumangarh-hanumangarh",
@@ -4309,7 +4273,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jan+seva+dental+hospital+hanumangarh%2F+best+dental+clinic+in+hanumangarh/@29.5771307,74.3223839,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d133a117c07:0x1d9291f29c46f094!8m2!3d29.5771307!4d74.3223839!16s%2Fg%2F11x5yn4t37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jan+seva+dental+hospital+hanumangarh%2F+best+dental+clinic+in+hanumangarh/@29.5771307,74.3223839,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d133a117c07:0x1d9291f29c46f094!8m2!3d29.5771307!4d74.3223839!16s%2Fg%2F11x5yn4t37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4375,11 +4339,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jan+seva+dental+hospital+hanumangarh%2F+best+dental+clinic+in+hanumangarh/@29.5771307,74.3223839,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d133a117c07:0x1d9291f29c46f094!8m2!3d29.5771307!4d74.3223839!16s%2Fg%2F11x5yn4t37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jasmira-hospital-hanumangarh",
@@ -4427,7 +4390,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jasmira+Hospital/@29.5793434,74.3391596,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d034abe0d97:0xaa70ce40cc8367e2!8m2!3d29.5793434!4d74.3391596!16s%2Fg%2F11kctzc1sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jasmira+Hospital/@29.5793434,74.3391596,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d034abe0d97:0xaa70ce40cc8367e2!8m2!3d29.5793434!4d74.3391596!16s%2Fg%2F11kctzc1sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4493,11 +4456,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jasmira+Hospital/@29.5793434,74.3391596,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d034abe0d97:0xaa70ce40cc8367e2!8m2!3d29.5793434!4d74.3391596!16s%2Fg%2F11kctzc1sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jasmira-hospital-maternity-and-infertility-centre-hanumangarh",
@@ -4547,7 +4509,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jasmira+Hospital+%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%B0%E0%A4%BE+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2+(Maternity+and+Infertility+centre)/@29.5793817,74.3390915,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d1a3ce4f279:0xd39ed90f39d1e211!8m2!3d29.5793817!4d74.3390915!16s%2Fg%2F11lbs90sfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jasmira+Hospital+%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%B0%E0%A4%BE+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2+(Maternity+and+Infertility+centre)/@29.5793817,74.3390915,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d1a3ce4f279:0xd39ed90f39d1e211!8m2!3d29.5793817!4d74.3390915!16s%2Fg%2F11lbs90sfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4613,11 +4575,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jasmira+Hospital+%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%B0%E0%A4%BE+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2+(Maternity+and+Infertility+centre)/@29.5793817,74.3390915,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d1a3ce4f279:0xd39ed90f39d1e211!8m2!3d29.5793817!4d74.3390915!16s%2Fg%2F11lbs90sfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jindal-dental-clinic-hanumangarh",
@@ -4665,7 +4626,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jindal+Dental+Clinic/@29.5782353,74.3229476,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cae290f550b:0x4eb140c7f0b649ef!8m2!3d29.5782353!4d74.3229476!16s%2Fg%2F11c70j4zk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jindal+Dental+Clinic/@29.5782353,74.3229476,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cae290f550b:0x4eb140c7f0b649ef!8m2!3d29.5782353!4d74.3229476!16s%2Fg%2F11c70j4zk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4731,11 +4692,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jindal+Dental+Clinic/@29.5782353,74.3229476,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cae290f550b:0x4eb140c7f0b649ef!8m2!3d29.5782353!4d74.3229476!16s%2Fg%2F11c70j4zk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kashnia-ent-care-centre-hanumangarh-335512",
@@ -4783,7 +4743,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kashnia+ENT+Care+Centre/@29.6144767,74.2847013,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4a150162d91:0x4782e136f92910c8!8m2!3d29.6144767!4d74.2847013!16s%2Fg%2F11btvb9d_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kashnia+ENT+Care+Centre/@29.6144767,74.2847013,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4a150162d91:0x4782e136f92910c8!8m2!3d29.6144767!4d74.2847013!16s%2Fg%2F11btvb9d_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4849,11 +4809,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kashnia+ENT+Care+Centre/@29.6144767,74.2847013,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4a150162d91:0x4782e136f92910c8!8m2!3d29.6144767!4d74.2847013!16s%2Fg%2F11btvb9d_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "khungar-aesthetics-and-dental-clinic-hanumangarh",
@@ -4902,7 +4861,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Khungar+Aesthetics+%26+Dental+Clinic/@29.6060315,74.3029532,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f57105d1cdf5:0x8f69fae515213d2!8m2!3d29.6060315!4d74.3029532!16s%2Fg%2F11qbd5mb_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khungar+Aesthetics+%26+Dental+Clinic/@29.6060315,74.3029532,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f57105d1cdf5:0x8f69fae515213d2!8m2!3d29.6060315!4d74.3029532!16s%2Fg%2F11qbd5mb_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4971,8 +4930,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Khungar+Aesthetics+%26+Dental+Clinic/@29.6060315,74.3029532,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f57105d1cdf5:0x8f69fae515213d2!8m2!3d29.6060315!4d74.3029532!16s%2Fg%2F11qbd5mb_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "khungar-dental-clinic-and-implant-centre-hanumangarh",
@@ -5021,7 +4979,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Khungar+Dental+Clinic+%26+Implant+Centre/@29.57851,74.3259426,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb1aef1475b:0xf5980424e9c5ebb8!8m2!3d29.57851!4d74.3259426!16s%2Fg%2F1tg2bwtx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khungar+Dental+Clinic+%26+Implant+Centre/@29.57851,74.3259426,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb1aef1475b:0xf5980424e9c5ebb8!8m2!3d29.57851!4d74.3259426!16s%2Fg%2F1tg2bwtx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5090,8 +5048,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Khungar+Dental+Clinic+%26+Implant+Centre/@29.57851,74.3259426,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb1aef1475b:0xf5980424e9c5ebb8!8m2!3d29.57851!4d74.3259426!16s%2Fg%2F1tg2bwtx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "khurana-ortho-and-gynae-hospital-hanumangarh",
@@ -5141,7 +5098,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Khurana+Ortho+and+Gynae+Hospital/@29.6066977,74.3002667,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f564417f8283:0x47f46ce8db0a5a80!8m2!3d29.6066977!4d74.3002667!16s%2Fg%2F11vxj_27dg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khurana+Ortho+and+Gynae+Hospital/@29.6066977,74.3002667,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f564417f8283:0x47f46ce8db0a5a80!8m2!3d29.6066977!4d74.3002667!16s%2Fg%2F11vxj_27dg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5210,8 +5167,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Khurana+Ortho+and+Gynae+Hospital/@29.6066977,74.3002667,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f564417f8283:0x47f46ce8db0a5a80!8m2!3d29.6066977!4d74.3002667!16s%2Fg%2F11vxj_27dg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-dental-clinic-and-implant-centre-dental-clinic-in-hanumangarh-hanumangarh",
@@ -5259,7 +5215,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Dental+Clinic+%26+Implant+Centre+-+Dental+Clinic+in+Hanumangarh/@29.5733236,74.3230589,17z/data=!3m1!4b1!4m6!3m5!1s0x39168ca536cd248d:0x631e8c1e894a116!8m2!3d29.5733236!4d74.3230589!16s%2Fg%2F11f35hb92r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Dental+Clinic+%26+Implant+Centre+-+Dental+Clinic+in+Hanumangarh/@29.5733236,74.3230589,17z/data=!3m1!4b1!4m6!3m5!1s0x39168ca536cd248d:0x631e8c1e894a116!8m2!3d29.5733236!4d74.3230589!16s%2Fg%2F11f35hb92r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5328,8 +5284,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Dental+Clinic+%26+Implant+Centre+-+Dental+Clinic+in+Hanumangarh/@29.5733236,74.3230589,17z/data=!3m1!4b1!4m6!3m5!1s0x39168ca536cd248d:0x631e8c1e894a116!8m2!3d29.5733236!4d74.3230589!16s%2Fg%2F11f35hb92r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "legacy-dental-clinic-hanumangarh",
@@ -5377,7 +5332,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Legacy+dental+clinic/data=!4m7!3m6!1s0x3916f54ab67bae69:0x733ab71c76b5b1cf!8m2!3d29.6105536!4d74.2860512!16s%2Fg%2F11xrz12f20!19sChIJaa57tkr1FjkRz7G1dhy3OnM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Legacy+dental+clinic/data=!4m7!3m6!1s0x3916f54ab67bae69:0x733ab71c76b5b1cf!8m2!3d29.6105536!4d74.2860512!16s%2Fg%2F11xrz12f20!19sChIJaa57tkr1FjkRz7G1dhy3OnM?authuser=0&hl=en&rclk=1"
@@ -5443,11 +5398,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Legacy+dental+clinic/data=!4m7!3m6!1s0x3916f54ab67bae69:0x733ab71c76b5b1cf!8m2!3d29.6105536!4d74.2860512!16s%2Fg%2F11xrz12f20!19sChIJaa57tkr1FjkRz7G1dhy3OnM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mahaveer-hospital-and-maternity-centre-hanumangarh",
@@ -5495,7 +5449,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mahaveer+Hospital+%26+Maternity+Centre/@29.5907983,74.3185126,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353e5571159:0x755a88b99201ece8!8m2!3d29.5907983!4d74.3185126!16s%2Fg%2F1vh_6s7p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahaveer+Hospital+%26+Maternity+Centre/@29.5907983,74.3185126,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353e5571159:0x755a88b99201ece8!8m2!3d29.5907983!4d74.3185126!16s%2Fg%2F1vh_6s7p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5564,8 +5518,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mahaveer+Hospital+%26+Maternity+Centre/@29.5907983,74.3185126,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353e5571159:0x755a88b99201ece8!8m2!3d29.5907983!4d74.3185126!16s%2Fg%2F1vh_6s7p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "makar-eye-hospital-hanumangarh",
@@ -5613,7 +5566,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Makar+eye+hospital/@29.5785704,74.3396766,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cc8c0051eff:0xd5d978b6fdd4e1b2!8m2!3d29.5785704!4d74.3396766!16s%2Fg%2F11c3k94s5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Makar+eye+hospital/@29.5785704,74.3396766,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cc8c0051eff:0xd5d978b6fdd4e1b2!8m2!3d29.5785704!4d74.3396766!16s%2Fg%2F11c3k94s5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5679,11 +5632,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Makar+eye+hospital/@29.5785704,74.3396766,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cc8c0051eff:0xd5d978b6fdd4e1b2!8m2!3d29.5785704!4d74.3396766!16s%2Fg%2F11c3k94s5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mamta-hospital-hanumangarh",
@@ -5731,7 +5683,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mamta+Hospital/@29.6101776,74.2852025,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4ec83f8b1df:0xe165dea736c7b13e!8m2!3d29.6101776!4d74.2852025!16s%2Fg%2F11b6p0h07_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mamta+Hospital/@29.6101776,74.2852025,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4ec83f8b1df:0xe165dea736c7b13e!8m2!3d29.6101776!4d74.2852025!16s%2Fg%2F11b6p0h07_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5800,8 +5752,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mamta+Hospital/@29.6101776,74.2852025,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4ec83f8b1df:0xe165dea736c7b13e!8m2!3d29.6101776!4d74.2852025!16s%2Fg%2F11b6p0h07_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medicine-hanumangarh",
@@ -5848,7 +5799,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medicine/@29.5821717,74.3293162,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d0777b4e705:0x8d10dbfeeecf8ae8!8m2!3d29.5821717!4d74.3293162!16s%2Fg%2F11wwszxfyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicine/@29.5821717,74.3293162,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d0777b4e705:0x8d10dbfeeecf8ae8!8m2!3d29.5821717!4d74.3293162!16s%2Fg%2F11wwszxfyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5914,11 +5865,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medicine/@29.5821717,74.3293162,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d0777b4e705:0x8d10dbfeeecf8ae8!8m2!3d29.5821717!4d74.3293162!16s%2Fg%2F11wwszxfyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "metro-dental-hospital-best-hospital-for-dental-implants-and-braces-hanumangarh",
@@ -5966,7 +5916,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/METRO+DENTAL+HOSPITAL.+BEST+HOSPITAL+FOR+DENTAL+IMPLANTS+AND+BRACES/@29.6100366,74.2951543,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f582c0d5e0e3:0xffc69f575f53092d!8m2!3d29.6100366!4d74.2951543!16s%2Fg%2F11g22xc60n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/METRO+DENTAL+HOSPITAL.+BEST+HOSPITAL+FOR+DENTAL+IMPLANTS+AND+BRACES/@29.6100366,74.2951543,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f582c0d5e0e3:0xffc69f575f53092d!8m2!3d29.6100366!4d74.2951543!16s%2Fg%2F11g22xc60n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6035,8 +5985,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/METRO+DENTAL+HOSPITAL.+BEST+HOSPITAL+FOR+DENTAL+IMPLANTS+AND+BRACES/@29.6100366,74.2951543,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f582c0d5e0e3:0xffc69f575f53092d!8m2!3d29.6100366!4d74.2951543!16s%2Fg%2F11g22xc60n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mgm-govt-hospital-hanumangarh",
@@ -6084,7 +6033,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MGM+GOVT.+HOSPITAL/@29.5762932,74.3374089,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cd0eaaaaaad:0xd574a5f8a36920b3!8m2!3d29.5762932!4d74.3374089!16s%2Fg%2F11f105bbwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MGM+GOVT.+HOSPITAL/@29.5762932,74.3374089,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cd0eaaaaaad:0xd574a5f8a36920b3!8m2!3d29.5762932!4d74.3374089!16s%2Fg%2F11f105bbwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6153,8 +6102,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MGM+GOVT.+HOSPITAL/@29.5762932,74.3374089,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cd0eaaaaaad:0xd574a5f8a36920b3!8m2!3d29.5762932!4d74.3374089!16s%2Fg%2F11f105bbwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "minakshi-hospital-and-maternity-center-hanumangarh",
@@ -6202,7 +6150,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Minakshi+hospital+and+maternity+center/data=!4m7!3m6!1s0x3916f4ed735c0599:0x814eb5f37ba5101f!8m2!3d29.5763378!4d74.3434509!16s%2Fg%2F11b7q6w52g!19sChIJmQVcc-30FjkRHxCle_O1ToE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Minakshi+hospital+and+maternity+center/data=!4m7!3m6!1s0x3916f4ed735c0599:0x814eb5f37ba5101f!8m2!3d29.5763378!4d74.3434509!16s%2Fg%2F11b7q6w52g!19sChIJmQVcc-30FjkRHxCle_O1ToE?authuser=0&hl=en&rclk=1"
@@ -6268,11 +6216,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Minakshi+hospital+and+maternity+center/data=!4m7!3m6!1s0x3916f4ed735c0599:0x814eb5f37ba5101f!8m2!3d29.5763378!4d74.3434509!16s%2Fg%2F11b7q6w52g!19sChIJmQVcc-30FjkRHxCle_O1ToE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "national-lab-and-x-ray-centre-hanumangarh",
@@ -6321,7 +6268,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/National+Lab+%26+X-ray+Centre/@29.6102182,74.285338,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4ec7fc6ff9d:0xe7a5fb891c8be7d3!8m2!3d29.6102182!4d74.285338!16s%2Fg%2F11gglsb84y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/National+Lab+%26+X-ray+Centre/@29.6102182,74.285338,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4ec7fc6ff9d:0xe7a5fb891c8be7d3!8m2!3d29.6102182!4d74.285338!16s%2Fg%2F11gglsb84y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6390,8 +6337,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/National+Lab+%26+X-ray+Centre/@29.6102182,74.285338,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f4ec7fc6ff9d:0xe7a5fb891c8be7d3!8m2!3d29.6102182!4d74.285338!16s%2Fg%2F11gglsb84y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-indian-medical-agency-hanumangarh",
@@ -6440,7 +6386,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Indian+Medical+Agency/@29.5766892,74.3357828,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d8327b0d753:0xdb1488cbf79de31f!8m2!3d29.5766892!4d74.3357828!16s%2Fg%2F11pz7b0rkb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Indian+Medical+Agency/@29.5766892,74.3357828,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d8327b0d753:0xdb1488cbf79de31f!8m2!3d29.5766892!4d74.3357828!16s%2Fg%2F11pz7b0rkb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6506,11 +6452,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Indian+Medical+Agency/@29.5766892,74.3357828,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d8327b0d753:0xdb1488cbf79de31f!8m2!3d29.5766892!4d74.3357828!16s%2Fg%2F11pz7b0rkb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ora-max-dental-clinic-hanumangarh",
@@ -6558,7 +6503,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ora+Max+Dental+Clinic/@29.6232377,74.3084558,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f52480ef8df7:0xe3389952e8e2d153!8m2!3d29.6232377!4d74.3084558!16s%2Fg%2F11h4lffvqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ora+Max+Dental+Clinic/@29.6232377,74.3084558,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f52480ef8df7:0xe3389952e8e2d153!8m2!3d29.6232377!4d74.3084558!16s%2Fg%2F11h4lffvqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6624,11 +6569,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ora+Max+Dental+Clinic/@29.6232377,74.3084558,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f52480ef8df7:0xe3389952e8e2d153!8m2!3d29.6232377!4d74.3084558!16s%2Fg%2F11h4lffvqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pareek-hospital-gynaecology-hanumangarh",
@@ -6676,7 +6620,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pareek+Hospital(+Gynaecology%3E/@29.5766658,74.3386614,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cc62a5ac64f:0x9959c3925ee43cc1!8m2!3d29.5766658!4d74.3386614!16s%2Fg%2F11c2ptxygd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pareek+Hospital(+Gynaecology%3E/@29.5766658,74.3386614,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cc62a5ac64f:0x9959c3925ee43cc1!8m2!3d29.5766658!4d74.3386614!16s%2Fg%2F11c2ptxygd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6745,8 +6689,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pareek+Hospital(+Gynaecology%3E/@29.5766658,74.3386614,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cc62a5ac64f:0x9959c3925ee43cc1!8m2!3d29.5766658!4d74.3386614!16s%2Fg%2F11c2ptxygd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pawan-s-dental-clinic-dr-pawan-middha-hanumangarh",
@@ -6795,7 +6738,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pawan%27s+Dental+Clinic+%28Dr+Pawan+Middha%29/data=!4m7!3m6!1s0x39168cad9a0882b3:0xd479533a179e39d4!8m2!3d29.581872!4d74.322895!16s%2Fg%2F11cn9415zm!19sChIJs4IImq2MFjkR1DmeFzpTedQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pawan%27s+Dental+Clinic+%28Dr+Pawan+Middha%29/data=!4m7!3m6!1s0x39168cad9a0882b3:0xd479533a179e39d4!8m2!3d29.581872!4d74.322895!16s%2Fg%2F11cn9415zm!19sChIJs4IImq2MFjkR1DmeFzpTedQ?authuser=0&hl=en&rclk=1"
@@ -6864,8 +6807,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pawan%27s+Dental+Clinic+%28Dr+Pawan+Middha%29/data=!4m7!3m6!1s0x39168cad9a0882b3:0xd479533a179e39d4!8m2!3d29.581872!4d74.322895!16s%2Fg%2F11cn9415zm!19sChIJs4IImq2MFjkR1DmeFzpTedQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raman-dental-care-and-implant-centre-hanumangarh",
@@ -6914,7 +6856,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raman+Dental+care+%26Implant+centre/@29.5754752,74.3345984,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d9a90208a7b:0x60054df71000b3fa!8m2!3d29.5754752!4d74.3345984!16s%2Fg%2F11xdfpqkbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raman+Dental+care+%26Implant+centre/@29.5754752,74.3345984,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d9a90208a7b:0x60054df71000b3fa!8m2!3d29.5754752!4d74.3345984!16s%2Fg%2F11xdfpqkbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6980,11 +6922,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raman+Dental+care+%26Implant+centre/@29.5754752,74.3345984,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d9a90208a7b:0x60054df71000b3fa!8m2!3d29.5754752!4d74.3345984!16s%2Fg%2F11xdfpqkbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "reliable-diagnostics-centre-hanumangarh-nabl-accrediated-hanumangarh",
@@ -7033,7 +6974,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Reliable+Diagnostics+Centre,+Hanumangarh+(NABL+ACCREDIATED)/@29.5863973,74.3223543,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f560d855068d:0x3bf48c9c15fa8ae8!8m2!3d29.5863973!4d74.3223543!16s%2Fg%2F11y5fv3yj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Reliable+Diagnostics+Centre,+Hanumangarh+(NABL+ACCREDIATED)/@29.5863973,74.3223543,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f560d855068d:0x3bf48c9c15fa8ae8!8m2!3d29.5863973!4d74.3223543!16s%2Fg%2F11y5fv3yj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7102,8 +7043,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Reliable+Diagnostics+Centre,+Hanumangarh+(NABL+ACCREDIATED)/@29.5863973,74.3223543,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f560d855068d:0x3bf48c9c15fa8ae8!8m2!3d29.5863973!4d74.3223543!16s%2Fg%2F11y5fv3yj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "risaa-ivf-hanumangarh-hanumangarh",
@@ -7152,7 +7092,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RISAA+IVF+Hanumangarh/@29.6087753,74.2983117,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f58ebaff9a31:0x917e0d6817cd061b!8m2!3d29.6087753!4d74.2983117!16s%2Fg%2F11sjtlk20n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RISAA+IVF+Hanumangarh/@29.6087753,74.2983117,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f58ebaff9a31:0x917e0d6817cd061b!8m2!3d29.6087753!4d74.2983117!16s%2Fg%2F11sjtlk20n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7218,11 +7158,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RISAA+IVF+Hanumangarh/@29.6087753,74.2983117,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f58ebaff9a31:0x917e0d6817cd061b!8m2!3d29.6087753!4d74.2983117!16s%2Fg%2F11sjtlk20n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rita-sethi-hospital-hanumangarh",
@@ -7270,7 +7209,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rita+Sethi+Hospital/@29.5807094,74.3254226,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb189507c1d:0xbcdacfe9f916ed8f!8m2!3d29.5807094!4d74.3254226!16s%2Fg%2F1tj564sj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rita+Sethi+Hospital/@29.5807094,74.3254226,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb189507c1d:0xbcdacfe9f916ed8f!8m2!3d29.5807094!4d74.3254226!16s%2Fg%2F1tj564sj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7339,8 +7278,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rita+Sethi+Hospital/@29.5807094,74.3254226,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cb189507c1d:0xbcdacfe9f916ed8f!8m2!3d29.5807094!4d74.3254226!16s%2Fg%2F1tj564sj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ritu-ivf-fertility-centre-hanumangarh",
@@ -7389,7 +7327,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ritu+IVF+Fertility+Centre/@29.5970738,74.3144513,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f39e34a4d9a1:0x9bf2457574e50d!8m2!3d29.5970738!4d74.3144513!16s%2Fg%2F11z425kv58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ritu+IVF+Fertility+Centre/@29.5970738,74.3144513,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f39e34a4d9a1:0x9bf2457574e50d!8m2!3d29.5970738!4d74.3144513!16s%2Fg%2F11z425kv58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7455,11 +7393,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ritu+IVF+Fertility+Centre/@29.5970738,74.3144513,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f39e34a4d9a1:0x9bf2457574e50d!8m2!3d29.5970738!4d74.3144513!16s%2Fg%2F11z425kv58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saharan-dental-clinic-hanumangarh",
@@ -7507,7 +7444,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saharan+Dental+Clinic/@29.5726069,74.3228903,17z/data=!3m1!4b1!4m6!3m5!1s0x39168ca52fa81b4b:0x795d6c8603f1300e!8m2!3d29.5726069!4d74.3228903!16s%2Fg%2F11clsz2_tn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saharan+Dental+Clinic/@29.5726069,74.3228903,17z/data=!3m1!4b1!4m6!3m5!1s0x39168ca52fa81b4b:0x795d6c8603f1300e!8m2!3d29.5726069!4d74.3228903!16s%2Fg%2F11clsz2_tn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7576,8 +7513,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saharan+Dental+Clinic/@29.5726069,74.3228903,17z/data=!3m1!4b1!4m6!3m5!1s0x39168ca52fa81b4b:0x795d6c8603f1300e!8m2!3d29.5726069!4d74.3228903!16s%2Fg%2F11clsz2_tn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saharan-eye-centre-hanumangarh",
@@ -7625,7 +7561,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saharan+Eye+Centre/@29.6071174,74.2944718,17z/data=!3m1!4b1!4m6!3m5!1s0x39168dead207533f:0xc883f397d43ac20a!8m2!3d29.6071174!4d74.2944718!16s%2Fg%2F11h4l0lwpv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saharan+Eye+Centre/@29.6071174,74.2944718,17z/data=!3m1!4b1!4m6!3m5!1s0x39168dead207533f:0xc883f397d43ac20a!8m2!3d29.6071174!4d74.2944718!16s%2Fg%2F11h4l0lwpv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7694,8 +7630,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saharan+Eye+Centre/@29.6071174,74.2944718,17z/data=!3m1!4b1!4m6!3m5!1s0x39168dead207533f:0xc883f397d43ac20a!8m2!3d29.6071174!4d74.2944718!16s%2Fg%2F11h4l0lwpv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saini-hospital-hanumangarh",
@@ -7743,7 +7678,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saini+Hospital/@29.5692785,74.3256035,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cbc9b0c2a09:0x914d7923ecf49b6f!8m2!3d29.5692785!4d74.3256035!16s%2Fg%2F11c5_xqp1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saini+Hospital/@29.5692785,74.3256035,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cbc9b0c2a09:0x914d7923ecf49b6f!8m2!3d29.5692785!4d74.3256035!16s%2Fg%2F11c5_xqp1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7812,8 +7747,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saini+Hospital/@29.5692785,74.3256035,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cbc9b0c2a09:0x914d7923ecf49b6f!8m2!3d29.5692785!4d74.3256035!16s%2Fg%2F11c5_xqp1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satguru-eye-and-dental-clinic-hanumangarh",
@@ -7861,7 +7795,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Satguru+Eye+And+Dental+Clinic/@29.6050864,74.2764482,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f55f6ea59031:0x6ebfc15a61d03e59!8m2!3d29.6050864!4d74.2764482!16s%2Fg%2F11fn6c3ylc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satguru+Eye+And+Dental+Clinic/@29.6050864,74.2764482,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f55f6ea59031:0x6ebfc15a61d03e59!8m2!3d29.6050864!4d74.2764482!16s%2Fg%2F11fn6c3ylc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7930,8 +7864,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Satguru+Eye+And+Dental+Clinic/@29.6050864,74.2764482,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f55f6ea59031:0x6ebfc15a61d03e59!8m2!3d29.6050864!4d74.2764482!16s%2Fg%2F11fn6c3ylc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "setia-dental-clinic-and-implant-centre-hanumangarh",
@@ -7979,7 +7912,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Setia+dental+clinic+%26+implant+centre/@29.6081732,74.2951118,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d7803518793:0x86a7f668b532e2a8!8m2!3d29.6081732!4d74.2951118!16s%2Fg%2F11q3nn10kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Setia+dental+clinic+%26+implant+centre/@29.6081732,74.2951118,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d7803518793:0x86a7f668b532e2a8!8m2!3d29.6081732!4d74.2951118!16s%2Fg%2F11q3nn10kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8048,8 +7981,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Setia+dental+clinic+%26+implant+centre/@29.6081732,74.2951118,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d7803518793:0x86a7f668b532e2a8!8m2!3d29.6081732!4d74.2951118!16s%2Fg%2F11q3nn10kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "setia-e-n-t-hospital-hanumangarh",
@@ -8099,7 +8031,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Setia+E.N.T+Hospital/@29.5902412,74.3190943,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353eac859f3:0x278bf0b696881b60!8m2!3d29.5902412!4d74.3190943!16s%2Fg%2F1td_w_26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Setia+E.N.T+Hospital/@29.5902412,74.3190943,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353eac859f3:0x278bf0b696881b60!8m2!3d29.5902412!4d74.3190943!16s%2Fg%2F1td_w_26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8165,11 +8097,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Setia+E.N.T+Hospital/@29.5902412,74.3190943,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353eac859f3:0x278bf0b696881b60!8m2!3d29.5902412!4d74.3190943!16s%2Fg%2F1td_w_26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shekhawat-hospital-hanumangarh",
@@ -8217,7 +8148,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shekhawat+hospital/@29.5815012,74.3294199,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353ebfccdbb:0x34f2cbf79244ff25!8m2!3d29.5815012!4d74.3294199!16s%2Fg%2F11fy2n_0l8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shekhawat+hospital/@29.5815012,74.3294199,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353ebfccdbb:0x34f2cbf79244ff25!8m2!3d29.5815012!4d74.3294199!16s%2Fg%2F11fy2n_0l8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8286,8 +8217,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shekhawat+hospital/@29.5815012,74.3294199,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f353ebfccdbb:0x34f2cbf79244ff25!8m2!3d29.5815012!4d74.3294199!16s%2Fg%2F11fy2n_0l8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "singla-dental-clinic-best-dental-implant-root-canal-treatment-aligners-braces-specialist-in-hanumangarh-town-hanumangarh",
@@ -8335,7 +8265,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SINGLA+DENTAL+CLINIC+:+Best+Dental+Implant%2FRoot+Canal+Treatment%2F+Aligners%2FBraces+Specialist+in+Hanumangarh+Town/@29.5767237,74.3365387,17z/data=!3m1!4b1!4m6!3m5!1s0x39168da2b08cfaf9:0x76784d1ba8b6787f!8m2!3d29.5767237!4d74.3365387!16s%2Fg%2F11k44wpnyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SINGLA+DENTAL+CLINIC+:+Best+Dental+Implant%2FRoot+Canal+Treatment%2F+Aligners%2FBraces+Specialist+in+Hanumangarh+Town/@29.5767237,74.3365387,17z/data=!3m1!4b1!4m6!3m5!1s0x39168da2b08cfaf9:0x76784d1ba8b6787f!8m2!3d29.5767237!4d74.3365387!16s%2Fg%2F11k44wpnyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8401,11 +8331,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SINGLA+DENTAL+CLINIC+:+Best+Dental+Implant%2FRoot+Canal+Treatment%2F+Aligners%2FBraces+Specialist+in+Hanumangarh+Town/@29.5767237,74.3365387,17z/data=!3m1!4b1!4m6!3m5!1s0x39168da2b08cfaf9:0x76784d1ba8b6787f!8m2!3d29.5767237!4d74.3365387!16s%2Fg%2F11k44wpnyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "slg-hospital-hanumangarh",
@@ -8453,7 +8382,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SLG+Hospital/@29.5785079,74.3361294,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d5aab69282b:0x44c263e9d69812fe!8m2!3d29.5785079!4d74.3361294!16s%2Fg%2F11ghrbk971?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SLG+Hospital/@29.5785079,74.3361294,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d5aab69282b:0x44c263e9d69812fe!8m2!3d29.5785079!4d74.3361294!16s%2Fg%2F11ghrbk971?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8522,8 +8451,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SLG+Hospital/@29.5785079,74.3361294,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d5aab69282b:0x44c263e9d69812fe!8m2!3d29.5785079!4d74.3361294!16s%2Fg%2F11ghrbk971?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swastik-kaushik-hospital-hanumangarh",
@@ -8571,7 +8499,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swastik+Kaushik+Hospital/@29.5936803,74.315418,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f356fcc0cd95:0x5e77dcd6361de0b7!8m2!3d29.5936803!4d74.315418!16s%2Fg%2F1tx45f2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swastik+Kaushik+Hospital/@29.5936803,74.315418,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f356fcc0cd95:0x5e77dcd6361de0b7!8m2!3d29.5936803!4d74.315418!16s%2Fg%2F1tx45f2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8640,8 +8568,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swastik+Kaushik+Hospital/@29.5936803,74.315418,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f356fcc0cd95:0x5e77dcd6361de0b7!8m2!3d29.5936803!4d74.315418!16s%2Fg%2F1tx45f2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swastik-multispecialist-homoeoclinic-hanumangarh",
@@ -8689,7 +8616,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swastik+multispecialist+homoeoclinic/@29.5766224,74.3352902,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d8cca4ca121:0x749944422cf33c86!8m2!3d29.5766224!4d74.3352902!16s%2Fg%2F11j0vv53ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swastik+multispecialist+homoeoclinic/@29.5766224,74.3352902,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d8cca4ca121:0x749944422cf33c86!8m2!3d29.5766224!4d74.3352902!16s%2Fg%2F11j0vv53ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8758,8 +8685,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swastik+multispecialist+homoeoclinic/@29.5766224,74.3352902,17z/data=!3m1!4b1!4m6!3m5!1s0x39168d8cca4ca121:0x749944422cf33c86!8m2!3d29.5766224!4d74.3352902!16s%2Fg%2F11j0vv53ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vedayu-wellness-hanumangarh-hanumangarh",
@@ -8807,7 +8733,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vedayu+Wellness-+Hanumangarh/@29.6209096,74.2878233,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f50071906c0f:0xb69f5d73ede80326!8m2!3d29.6209096!4d74.2878233!16s%2Fg%2F11n3bnq8ts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vedayu+Wellness-+Hanumangarh/@29.6209096,74.2878233,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f50071906c0f:0xb69f5d73ede80326!8m2!3d29.6209096!4d74.2878233!16s%2Fg%2F11n3bnq8ts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8873,11 +8799,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vedayu+Wellness-+Hanumangarh/@29.6209096,74.2878233,17z/data=!3m1!4b1!4m6!3m5!1s0x3916f50071906c0f:0xb69f5d73ede80326!8m2!3d29.6209096!4d74.2878233!16s%2Fg%2F11n3bnq8ts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "zodiac-imaging-and-diagnostic-centre-advance-1-5-tesla-mri-best-ct-scan-top-ultrasound-color-doppler-hanumangarh",
@@ -8926,7 +8851,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Zodiac+Imaging+%26+Diagnostic+Centre+,+Advance+1.5+Tesla+MRI+%2F+Best+CT+Scan+%2F+Top+Ultrasound+%2F+Color+Doppler/@29.5850139,74.3227039,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cad42940d21:0xc0eada4c4cb97d7b!8m2!3d29.5850139!4d74.3227039!16s%2Fg%2F1w0sb7w1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zodiac+Imaging+%26+Diagnostic+Centre+,+Advance+1.5+Tesla+MRI+%2F+Best+CT+Scan+%2F+Top+Ultrasound+%2F+Color+Doppler/@29.5850139,74.3227039,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cad42940d21:0xc0eada4c4cb97d7b!8m2!3d29.5850139!4d74.3227039!16s%2Fg%2F1w0sb7w1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8995,7 +8920,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Zodiac+Imaging+%26+Diagnostic+Centre+,+Advance+1.5+Tesla+MRI+%2F+Best+CT+Scan+%2F+Top+Ultrasound+%2F+Color+Doppler/@29.5850139,74.3227039,17z/data=!3m1!4b1!4m6!3m5!1s0x39168cad42940d21:0xc0eada4c4cb97d7b!8m2!3d29.5850139!4d74.3227039!16s%2Fg%2F1w0sb7w1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

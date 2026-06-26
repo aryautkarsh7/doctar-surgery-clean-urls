@@ -46,7 +46,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/24*7+A+N+R+POLYCLINIC+and+SCANNING+CENTRE/@13.1396463,75.6435708,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbb2b47986df2b1:0x5ae495dcef49134a!8m2!3d13.1396463!4d75.6435708!16s%2Fg%2F11hzn3wgnz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/24*7+A+N+R+POLYCLINIC+and+SCANNING+CENTRE/@13.1396463,75.6435708,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbb2b47986df2b1:0x5ae495dcef49134a!8m2!3d13.1396463!4d75.6435708!16s%2Fg%2F11hzn3wgnz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -112,11 +112,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/24*7+A+N+R+POLYCLINIC+and+SCANNING+CENTRE/@13.1396463,75.6435708,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbb2b47986df2b1:0x5ae495dcef49134a!8m2!3d13.1396463!4d75.6435708!16s%2Fg%2F11hzn3wgnz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "adi-ayurveda-chikkamagaluru",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Adi+Ayurveda/@13.3304327,75.795466,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9c67a8e61f5:0x733dafb85806d37b!8m2!3d13.3304327!4d75.795466!16s%2Fg%2F11yz6nrqg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adi+Ayurveda/@13.3304327,75.795466,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9c67a8e61f5:0x733dafb85806d37b!8m2!3d13.3304327!4d75.795466!16s%2Fg%2F11yz6nrqg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -230,11 +229,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Adi+Ayurveda/@13.3304327,75.795466,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9c67a8e61f5:0x733dafb85806d37b!8m2!3d13.3304327!4d75.795466!16s%2Fg%2F11yz6nrqg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amgh-hospital-chikmanglur-chikkamagaluru",
@@ -284,7 +282,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AMGH+HOSPITAL+CHIKMANGLUR(%E0%B2%85%E0%B2%B0%E0%B2%B3%E0%B2%97%E0%B3%81%E0%B2%AA%E0%B3%8D%E0%B2%AA%E0%B3%86+%E0%B2%AE%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B3%87%E0%B2%97%E0%B3%8C%E0%B2%A1+%E0%B2%9C%E0%B2%BF%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%BE+%E0%B2%86%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B3%86+)/@13.3156899,75.7760649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7002ee3f847:0x5b1057e44066c14f!8m2!3d13.3156899!4d75.7760649!16s%2Fg%2F11y8hscl51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMGH+HOSPITAL+CHIKMANGLUR(%E0%B2%85%E0%B2%B0%E0%B2%B3%E0%B2%97%E0%B3%81%E0%B2%AA%E0%B3%8D%E0%B2%AA%E0%B3%86+%E0%B2%AE%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B3%87%E0%B2%97%E0%B3%8C%E0%B2%A1+%E0%B2%9C%E0%B2%BF%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%BE+%E0%B2%86%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B3%86+)/@13.3156899,75.7760649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7002ee3f847:0x5b1057e44066c14f!8m2!3d13.3156899!4d75.7760649!16s%2Fg%2F11y8hscl51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -350,11 +348,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AMGH+HOSPITAL+CHIKMANGLUR(%E0%B2%85%E0%B2%B0%E0%B2%B3%E0%B2%97%E0%B3%81%E0%B2%AA%E0%B3%8D%E0%B2%AA%E0%B3%86+%E0%B2%AE%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B3%87%E0%B2%97%E0%B3%8C%E0%B2%A1+%E0%B2%9C%E0%B2%BF%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%BE+%E0%B2%86%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B3%86+)/@13.3156899,75.7760649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7002ee3f847:0x5b1057e44066c14f!8m2!3d13.3156899!4d75.7760649!16s%2Fg%2F11y8hscl51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "annapurna-hospital-chikkamagaluru",
@@ -402,7 +399,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Annapurna+Hospital/@13.3117703,75.770215,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbac3dce7ade351:0xe8cbc18ec95daaab!8m2!3d13.3117703!4d75.770215!16s%2Fg%2F11n04gjdgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Annapurna+Hospital/@13.3117703,75.770215,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbac3dce7ade351:0xe8cbc18ec95daaab!8m2!3d13.3117703!4d75.770215!16s%2Fg%2F11n04gjdgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -471,8 +468,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Annapurna+Hospital/@13.3117703,75.770215,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbac3dce7ade351:0xe8cbc18ec95daaab!8m2!3d13.3117703!4d75.770215!16s%2Fg%2F11n04gjdgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anuradha-hospital-chikkamagaluru",
@@ -520,7 +516,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anuradha+Hospital/@13.315044,75.7766526,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764345c33f9:0x172b1c624b653fe0!8m2!3d13.315044!4d75.7766526!16s%2Fg%2F11b6ht4fnd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anuradha+Hospital/@13.315044,75.7766526,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764345c33f9:0x172b1c624b653fe0!8m2!3d13.315044!4d75.7766526!16s%2Fg%2F11b6ht4fnd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -589,8 +585,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anuradha+Hospital/@13.315044,75.7766526,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764345c33f9:0x172b1c624b653fe0!8m2!3d13.315044!4d75.7766526!16s%2Fg%2F11b6ht4fnd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospitals-best-hospital-in-bannerghatta-road-bengaluru-bengaluru",
@@ -639,7 +634,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Bannerghatta+Road,+Bengaluru/@12.8961976,77.5985971,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae152152c6edf7:0x838c2e0a91221a87!8m2!3d12.8961976!4d77.5985971!16s%2Fg%2F1tdj_0h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Bannerghatta+Road,+Bengaluru/@12.8961976,77.5985971,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae152152c6edf7:0x838c2e0a91221a87!8m2!3d12.8961976!4d77.5985971!16s%2Fg%2F1tdj_0h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -708,8 +703,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Bannerghatta+Road,+Bengaluru/@12.8961976,77.5985971,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae152152c6edf7:0x838c2e0a91221a87!8m2!3d12.8961976!4d77.5985971!16s%2Fg%2F1tdj_0h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirvad-hospital-chikkamagaluru",
@@ -757,7 +751,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashirvad+Hospital/@13.32656,75.7723129,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d9d71b70dd:0x8bf79a58c870c672!8m2!3d13.32656!4d75.7723129!16s%2Fg%2F11c4542lkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirvad+Hospital/@13.32656,75.7723129,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d9d71b70dd:0x8bf79a58c870c672!8m2!3d13.32656!4d75.7723129!16s%2Fg%2F11c4542lkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -826,8 +820,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashirvad+Hospital/@13.32656,75.7723129,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d9d71b70dd:0x8bf79a58c870c672!8m2!3d13.32656!4d75.7723129!16s%2Fg%2F11c4542lkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashraya-hospital-chikkamagaluru",
@@ -876,7 +869,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashraya+Hospital/@13.315864,75.7729746,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad76451183abd:0x6a5e73cf75fd9886!8m2!3d13.315864!4d75.7729746!16s%2Fg%2F1hm654npk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashraya+Hospital/@13.315864,75.7729746,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad76451183abd:0x6a5e73cf75fd9886!8m2!3d13.315864!4d75.7729746!16s%2Fg%2F1hm654npk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -945,8 +938,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashraya+Hospital/@13.315864,75.7729746,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad76451183abd:0x6a5e73cf75fd9886!8m2!3d13.315864!4d75.7729746!16s%2Fg%2F1hm654npk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aster-rv-hospital-bengaluru-bengaluru",
@@ -995,7 +987,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aster+RV+Hospital+Bengaluru/@12.9108429,77.5851284,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae15aef47cc555:0x19fc4ef2704d71a9!8m2!3d12.9108429!4d77.5851284!16s%2Fg%2F11hdk_m3l8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aster+RV+Hospital+Bengaluru/@12.9108429,77.5851284,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae15aef47cc555:0x19fc4ef2704d71a9!8m2!3d12.9108429!4d77.5851284!16s%2Fg%2F11hdk_m3l8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1064,8 +1056,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aster+RV+Hospital+Bengaluru/@12.9108429,77.5851284,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae15aef47cc555:0x19fc4ef2704d71a9!8m2!3d12.9108429!4d77.5851284!16s%2Fg%2F11hdk_m3l8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "basaveshwara-dental-studio-chikkamagaluru",
@@ -1114,7 +1105,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Basaveshwara+Dental+Studio/@13.3216404,75.7722248,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7511a363011:0x9999708bc6270472!8m2!3d13.3216404!4d75.7722248!16s%2Fg%2F11sht4fn4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Basaveshwara+Dental+Studio/@13.3216404,75.7722248,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7511a363011:0x9999708bc6270472!8m2!3d13.3216404!4d75.7722248!16s%2Fg%2F11sht4fn4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1180,11 +1171,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Basaveshwara+Dental+Studio/@13.3216404,75.7722248,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7511a363011:0x9999708bc6270472!8m2!3d13.3216404!4d75.7722248!16s%2Fg%2F11sht4fn4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chetana-nursing-home-chikkamagaluru",
@@ -1233,7 +1223,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chetana+Nursing+Home/@13.3262253,75.7691504,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d6fdf5d161:0x84d75f2a8e38508!8m2!3d13.3262253!4d75.7691504!16s%2Fg%2F1hdz3947p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chetana+Nursing+Home/@13.3262253,75.7691504,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d6fdf5d161:0x84d75f2a8e38508!8m2!3d13.3262253!4d75.7691504!16s%2Fg%2F1hdz3947p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1302,8 +1292,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chetana+Nursing+Home/@13.3262253,75.7691504,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d6fdf5d161:0x84d75f2a8e38508!8m2!3d13.3262253!4d75.7691504!16s%2Fg%2F1hdz3947p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chikkamagaluru-trauma-care-hospital-chikkamagaluru",
@@ -1352,7 +1341,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chikkamagaluru+Trauma+Care+Hospital/@13.3089353,75.781469,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad718e1874369:0xcdb0b4d9c30ff585!8m2!3d13.3089353!4d75.781469!16s%2Fg%2F11y0hsgtk_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chikkamagaluru+Trauma+Care+Hospital/@13.3089353,75.781469,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad718e1874369:0xcdb0b4d9c30ff585!8m2!3d13.3089353!4d75.781469!16s%2Fg%2F11y0hsgtk_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1421,8 +1410,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chikkamagaluru+Trauma+Care+Hospital/@13.3089353,75.781469,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad718e1874369:0xcdb0b4d9c30ff585!8m2!3d13.3089353!4d75.781469!16s%2Fg%2F11y0hsgtk_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chikmagalur-diabetic-care-polyclinic-chikkamagaluru",
@@ -1470,7 +1458,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chikmagalur+Diabetic+Care+polyclinic/@13.313997,75.7710595,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77adb06e351:0xc08e5d1b6af75859!8m2!3d13.313997!4d75.7710595!16s%2Fg%2F11f3qwv2dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chikmagalur+Diabetic+Care+polyclinic/@13.313997,75.7710595,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77adb06e351:0xc08e5d1b6af75859!8m2!3d13.313997!4d75.7710595!16s%2Fg%2F11f3qwv2dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1536,11 +1524,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chikmagalur+Diabetic+Care+polyclinic/@13.313997,75.7710595,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77adb06e351:0xc08e5d1b6af75859!8m2!3d13.313997!4d75.7710595!16s%2Fg%2F11f3qwv2dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-clinic-chikkamagaluru",
@@ -1588,7 +1575,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Clinic/@13.3279856,75.7727713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d803187f8f:0x818fb8ead70aff95!8m2!3d13.3279856!4d75.7727713!16s%2Fg%2F11c3k30t33?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Clinic/@13.3279856,75.7727713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d803187f8f:0x818fb8ead70aff95!8m2!3d13.3279856!4d75.7727713!16s%2Fg%2F11c3k30t33?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1654,11 +1641,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Clinic/@13.3279856,75.7727713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d803187f8f:0x818fb8ead70aff95!8m2!3d13.3279856!4d75.7727713!16s%2Fg%2F11c3k30t33?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ckm-dental-clinic-chikkamagaluru",
@@ -1706,7 +1692,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CKM+Dental+Clinic/@13.327073,75.7699591,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9e541474f1d:0xca87557c5a19385c!8m2!3d13.327073!4d75.7699591!16s%2Fg%2F11tf7_6_47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CKM+Dental+Clinic/@13.327073,75.7699591,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9e541474f1d:0xca87557c5a19385c!8m2!3d13.327073!4d75.7699591!16s%2Fg%2F11tf7_6_47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1772,11 +1758,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CKM+Dental+Clinic/@13.327073,75.7699591,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9e541474f1d:0xca87557c5a19385c!8m2!3d13.327073!4d75.7699591!16s%2Fg%2F11tf7_6_47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "clinic-chikkamagaluru",
@@ -1822,7 +1807,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Clinic/@13.3267516,75.75915,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9108cf7bfb7:0xd48c9c733a8d4292!8m2!3d13.3267516!4d75.75915!16s%2Fg%2F11j988tg76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic/@13.3267516,75.75915,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9108cf7bfb7:0xd48c9c733a8d4292!8m2!3d13.3267516!4d75.75915!16s%2Fg%2F11j988tg76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1888,11 +1873,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Clinic/@13.3267516,75.75915,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9108cf7bfb7:0xd48c9c733a8d4292!8m2!3d13.3267516!4d75.75915!16s%2Fg%2F11j988tg76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-clinic-chikkamagaluru",
@@ -1940,7 +1924,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+clinic/@13.316651,75.7744129,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764e8cf2f49:0x3f4157e75a3a3f0d!8m2!3d13.316651!4d75.7744129!16s%2Fg%2F11c462c260?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+clinic/@13.316651,75.7744129,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764e8cf2f49:0x3f4157e75a3a3f0d!8m2!3d13.316651!4d75.7744129!16s%2Fg%2F11c462c260?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2006,11 +1990,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+clinic/@13.316651,75.7744129,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764e8cf2f49:0x3f4157e75a3a3f0d!8m2!3d13.316651!4d75.7744129!16s%2Fg%2F11c462c260?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "district-ayush-hospital-chikmagalur-chikkamagaluru",
@@ -2059,7 +2042,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/District+Ayush+Hospital,+Chikmagalur/@13.3154019,75.774764,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7006a137b27:0xbd417cb3ee074f20!8m2!3d13.3154019!4d75.774764!16s%2Fg%2F11vpqtr6j9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Ayush+Hospital,+Chikmagalur/@13.3154019,75.774764,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7006a137b27:0xbd417cb3ee074f20!8m2!3d13.3154019!4d75.774764!16s%2Fg%2F11vpqtr6j9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2125,11 +2108,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/District+Ayush+Hospital,+Chikmagalur/@13.3154019,75.774764,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7006a137b27:0xbd417cb3ee074f20!8m2!3d13.3154019!4d75.774764!16s%2Fg%2F11vpqtr6j9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "district-hospital-chikmagalur-chikkamagaluru",
@@ -2177,7 +2159,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/District+Hospital+Chikmagalur/@13.3157612,75.7762583,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7644710a3bf:0xe198878e919dfaab!8m2!3d13.3157612!4d75.7762583!16s%2Fg%2F11g8vngsf2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital+Chikmagalur/@13.3157612,75.7762583,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7644710a3bf:0xe198878e919dfaab!8m2!3d13.3157612!4d75.7762583!16s%2Fg%2F11g8vngsf2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2246,8 +2228,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/District+Hospital+Chikmagalur/@13.3157612,75.7762583,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7644710a3bf:0xe198878e919dfaab!8m2!3d13.3157612!4d75.7762583!16s%2Fg%2F11g8vngsf2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "elite-dental-care-chikkamagaluru",
@@ -2295,7 +2276,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Elite+Dental+Care/@13.3253433,75.7711464,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad97c646da1c3:0x42ed27f2c7b4b529!8m2!3d13.3253433!4d75.7711464!16s%2Fg%2F11ttbhvg4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elite+Dental+Care/@13.3253433,75.7711464,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad97c646da1c3:0x42ed27f2c7b4b529!8m2!3d13.3253433!4d75.7711464!16s%2Fg%2F11ttbhvg4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2364,8 +2345,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Elite+Dental+Care/@13.3253433,75.7711464,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad97c646da1c3:0x42ed27f2c7b4b529!8m2!3d13.3253433!4d75.7711464!16s%2Fg%2F11ttbhvg4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "endo-smiles-dental-care-chikkamagaluru",
@@ -2413,7 +2393,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Endo+Smiles+Dental+Care/@13.3256509,75.7746706,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9a505cfb2bf:0xb9034bc50068c422!8m2!3d13.3256509!4d75.7746706!16s%2Fg%2F11lp7mbd59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Endo+Smiles+Dental+Care/@13.3256509,75.7746706,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9a505cfb2bf:0xb9034bc50068c422!8m2!3d13.3256509!4d75.7746706!16s%2Fg%2F11lp7mbd59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2479,11 +2459,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Endo+Smiles+Dental+Care/@13.3256509,75.7746706,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9a505cfb2bf:0xb9034bc50068c422!8m2!3d13.3256509!4d75.7746706!16s%2Fg%2F11lp7mbd59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "giri-medical-chikkamagaluru",
@@ -2532,7 +2511,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Giri+Medical/@13.3322408,75.7733403,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9da921281dd:0x5d5e6ccea9fcbf46!8m2!3d13.3322408!4d75.7733403!16s%2Fg%2F11cppvhc_w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Giri+Medical/@13.3322408,75.7733403,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9da921281dd:0x5d5e6ccea9fcbf46!8m2!3d13.3322408!4d75.7733403!16s%2Fg%2F11cppvhc_w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2598,11 +2577,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Giri+Medical/@13.3322408,75.7733403,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9da921281dd:0x5d5e6ccea9fcbf46!8m2!3d13.3322408!4d75.7733403!16s%2Fg%2F11cppvhc_w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-hospital-chikkamagaluru",
@@ -2650,7 +2628,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+Hospital/@13.3141216,75.774578,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad76505dc3b27:0xe7f6031b366ff5fd!8m2!3d13.3141216!4d75.774578!16s%2Fg%2F1tkqyqb_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Hospital/@13.3141216,75.774578,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad76505dc3b27:0xe7f6031b366ff5fd!8m2!3d13.3141216!4d75.774578!16s%2Fg%2F1tkqyqb_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2719,8 +2697,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+Hospital/@13.3141216,75.774578,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad76505dc3b27:0xe7f6031b366ff5fd!8m2!3d13.3141216!4d75.774578!16s%2Fg%2F1tkqyqb_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "holy-cross-hospital-chikkamagaluru",
@@ -2769,7 +2746,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Holy+Cross+Hospital/@13.3383931,75.80342,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9f703ead1f3:0xc2ef8f64fd68701a!8m2!3d13.3383931!4d75.80342!16s%2Fg%2F1tfv3l08?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Holy+Cross+Hospital/@13.3383931,75.80342,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9f703ead1f3:0xc2ef8f64fd68701a!8m2!3d13.3383931!4d75.80342!16s%2Fg%2F1tfv3l08?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2838,8 +2815,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Holy+Cross+Hospital/@13.3383931,75.80342,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9f703ead1f3:0xc2ef8f64fd68701a!8m2!3d13.3383931!4d75.80342!16s%2Fg%2F1tfv3l08?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "institute-of-gastroenterology-sciences-and-organ-transplant-igot-hospital-bengaluru",
@@ -2889,7 +2865,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Institute+of+Gastroenterology+Sciences+%26+Organ+Transplant+(IGOT+Hospital)/@12.9623785,77.5757866,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae15ff3e3ab311:0xe47b3711ab269b6!8m2!3d12.9623785!4d77.5757866!16s%2Fg%2F11s0t5yjjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Institute+of+Gastroenterology+Sciences+%26+Organ+Transplant+(IGOT+Hospital)/@12.9623785,77.5757866,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae15ff3e3ab311:0xe47b3711ab269b6!8m2!3d12.9623785!4d77.5757866!16s%2Fg%2F11s0t5yjjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2958,8 +2934,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Institute+of+Gastroenterology+Sciences+%26+Organ+Transplant+(IGOT+Hospital)/@12.9623785,77.5757866,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae15ff3e3ab311:0xe47b3711ab269b6!8m2!3d12.9623785!4d77.5757866!16s%2Fg%2F11s0t5yjjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kamakshi-clinic-chikkamagaluru",
@@ -3005,7 +2980,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kamakshi+Clinic/@13.3159666,75.773505,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764c02b513b:0xb7c41e4c9ca388dd!8m2!3d13.3159666!4d75.773505!16s%2Fg%2F11hbsn716w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamakshi+Clinic/@13.3159666,75.773505,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764c02b513b:0xb7c41e4c9ca388dd!8m2!3d13.3159666!4d75.773505!16s%2Fg%2F11hbsn716w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3071,11 +3046,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kamakshi+Clinic/@13.3159666,75.773505,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764c02b513b:0xb7c41e4c9ca388dd!8m2!3d13.3159666!4d75.773505!16s%2Fg%2F11hbsn716w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krithi-dental-clinic-chikkamagaluru",
@@ -3123,7 +3097,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KRITHI+DENTAL+CLINIC/@13.3120303,75.7782495,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7b11655d1db:0x101119e6ee541797!8m2!3d13.3120303!4d75.7782495!16s%2Fg%2F11lkwg0npm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KRITHI+DENTAL+CLINIC/@13.3120303,75.7782495,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7b11655d1db:0x101119e6ee541797!8m2!3d13.3120303!4d75.7782495!16s%2Fg%2F11lkwg0npm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3189,11 +3163,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KRITHI+DENTAL+CLINIC/@13.3120303,75.7782495,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7b11655d1db:0x101119e6ee541797!8m2!3d13.3120303!4d75.7782495!16s%2Fg%2F11lkwg0npm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krsnaa-diagnostics-radiology-and-full-body-checkup-in-chikmangluru-chikkamagaluru",
@@ -3243,7 +3216,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Radiology+%26+Full+Body+Checkup+in+Chikmangluru/@13.314093,75.774579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77fc1371255:0x2766ede0ba5a9b27!8m2!3d13.314093!4d75.774579!16s%2Fg%2F11p5x6xrg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Radiology+%26+Full+Body+Checkup+in+Chikmangluru/@13.314093,75.774579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77fc1371255:0x2766ede0ba5a9b27!8m2!3d13.314093!4d75.774579!16s%2Fg%2F11p5x6xrg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3312,8 +3285,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Radiology+%26+Full+Body+Checkup+in+Chikmangluru/@13.314093,75.774579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77fc1371255:0x2766ede0ba5a9b27!8m2!3d13.314093!4d75.774579!16s%2Fg%2F11p5x6xrg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kushi-dental-clinic-chikkamagaluru",
@@ -3361,7 +3333,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KUSHI+DENTAL+CLINIC/@13.315722,75.7764829,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbba8d510087c5b:0x41de4009062f108d!8m2!3d13.315722!4d75.7764829!16s%2Fg%2F11hbrctb72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KUSHI+DENTAL+CLINIC/@13.315722,75.7764829,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbba8d510087c5b:0x41de4009062f108d!8m2!3d13.315722!4d75.7764829!16s%2Fg%2F11hbrctb72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3430,8 +3402,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KUSHI+DENTAL+CLINIC/@13.315722,75.7764829,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbba8d510087c5b:0x41de4009062f108d!8m2!3d13.315722!4d75.7764829!16s%2Fg%2F11hbrctb72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lalith-pet-clinic-and-vet-pharma-chikkamagaluru-chikkamagaluru",
@@ -3479,7 +3450,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lalith+Pet+Clinic+%26+Vet+Pharma+Chikkamagaluru/@13.3195764,75.7728702,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7464443f10f:0x582ffa73c67d2763!8m2!3d13.3195764!4d75.7728702!16s%2Fg%2F11mr_hh_1c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lalith+Pet+Clinic+%26+Vet+Pharma+Chikkamagaluru/@13.3195764,75.7728702,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7464443f10f:0x582ffa73c67d2763!8m2!3d13.3195764!4d75.7728702!16s%2Fg%2F11mr_hh_1c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3545,11 +3516,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lalith+Pet+Clinic+%26+Vet+Pharma+Chikkamagaluru/@13.3195764,75.7728702,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7464443f10f:0x582ffa73c67d2763!8m2!3d13.3195764!4d75.7728702!16s%2Fg%2F11mr_hh_1c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mallegowda-district-hospital-chikkamagaluru",
@@ -3598,7 +3568,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mallegowda+District+Hospital/@13.3142176,75.7745917,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7650683dc67:0x2e80c26b04941c5c!8m2!3d13.3142176!4d75.7745917!16s%2Fg%2F11bzt4f0kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mallegowda+District+Hospital/@13.3142176,75.7745917,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7650683dc67:0x2e80c26b04941c5c!8m2!3d13.3142176!4d75.7745917!16s%2Fg%2F11bzt4f0kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3667,8 +3637,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mallegowda+District+Hospital/@13.3142176,75.7745917,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7650683dc67:0x2e80c26b04941c5c!8m2!3d13.3142176!4d75.7745917!16s%2Fg%2F11bzt4f0kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "malnad-hospital-chikkamagaluru",
@@ -3716,7 +3685,7 @@
     "metrics": [
       "Google rating 2.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Malnad+Hospital/@13.315999,75.7714054,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77b48662adb:0x42f5e0a96fd893df!8m2!3d13.315999!4d75.7714054!16s%2Fg%2F1hc6pjh5n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malnad+Hospital/@13.315999,75.7714054,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77b48662adb:0x42f5e0a96fd893df!8m2!3d13.315999!4d75.7714054!16s%2Fg%2F1hc6pjh5n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3785,8 +3754,7 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Malnad+Hospital/@13.315999,75.7714054,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77b48662adb:0x42f5e0a96fd893df!8m2!3d13.315999!4d75.7714054!16s%2Fg%2F1hc6pjh5n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manipal-hospital-kanakapura-road-bengaluru",
@@ -3835,7 +3803,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manipal+Hospital+Kanakapura+road/@12.8937352,77.5685781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae1599a9235df7:0x4359a567ae246c81!8m2!3d12.8937352!4d77.5685781!16s%2Fg%2F11w42r4h11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospital+Kanakapura+road/@12.8937352,77.5685781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae1599a9235df7:0x4359a567ae246c81!8m2!3d12.8937352!4d77.5685781!16s%2Fg%2F11w42r4h11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3904,8 +3872,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manipal+Hospital+Kanakapura+road/@12.8937352,77.5685781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae1599a9235df7:0x4359a567ae246c81!8m2!3d12.8937352!4d77.5685781!16s%2Fg%2F11w42r4h11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manipal-hospital-whitefield-bengaluru",
@@ -3954,7 +3921,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manipal+Hospital+Whitefield/@12.9880554,77.7287744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae11fc05fbc8a1:0xd4c8ae89f2811666!8m2!3d12.9880554!4d77.7287744!16s%2Fg%2F11bzsghy7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospital+Whitefield/@12.9880554,77.7287744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae11fc05fbc8a1:0xd4c8ae89f2811666!8m2!3d12.9880554!4d77.7287744!16s%2Fg%2F11bzsghy7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4023,8 +3990,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manipal+Hospital+Whitefield/@12.9880554,77.7287744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae11fc05fbc8a1:0xd4c8ae89f2811666!8m2!3d12.9880554!4d77.7287744!16s%2Fg%2F11bzsghy7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manipal-hospitals-bengaluru",
@@ -4073,7 +4039,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manipal+Hospitals/@12.9583911,77.6488364,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae13c0c0c6206b:0x12d8d4c39197c7dd!8m2!3d12.9583911!4d77.6488364!16s%2Fg%2F11h7rr7_j1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospitals/@12.9583911,77.6488364,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae13c0c0c6206b:0x12d8d4c39197c7dd!8m2!3d12.9583911!4d77.6488364!16s%2Fg%2F11h7rr7_j1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4142,8 +4108,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manipal+Hospitals/@12.9583911,77.6488364,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae13c0c0c6206b:0x12d8d4c39197c7dd!8m2!3d12.9583911!4d77.6488364!16s%2Fg%2F11h7rr7_j1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maruthi-dental-clinic-kadur",
@@ -4192,7 +4157,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MARUTHI+dental+clinic/@13.555413,76.0129569,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbaeb5cdc7ecc61:0x4aacc0116572ffc7!8m2!3d13.555413!4d76.0129569!16s%2Fg%2F11pgz4xx11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MARUTHI+dental+clinic/@13.555413,76.0129569,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbaeb5cdc7ecc61:0x4aacc0116572ffc7!8m2!3d13.555413!4d76.0129569!16s%2Fg%2F11pgz4xx11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4261,8 +4226,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MARUTHI+dental+clinic/@13.555413,76.0129569,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbaeb5cdc7ecc61:0x4aacc0116572ffc7!8m2!3d13.555413!4d76.0129569!16s%2Fg%2F11pgz4xx11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meghana-dental-clinic-chikmagalur-chikkamagaluru",
@@ -4311,7 +4275,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MEGHANA+DENTAL+CLINIC+CHIKMAGALUR/@13.3139864,75.7710602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad773dfa35e7f:0x94f89b80d09a4978!8m2!3d13.3139864!4d75.7710602!16s%2Fg%2F11y7zypqp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEGHANA+DENTAL+CLINIC+CHIKMAGALUR/@13.3139864,75.7710602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad773dfa35e7f:0x94f89b80d09a4978!8m2!3d13.3139864!4d75.7710602!16s%2Fg%2F11y7zypqp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4377,11 +4341,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MEGHANA+DENTAL+CLINIC+CHIKMAGALUR/@13.3139864,75.7710602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad773dfa35e7f:0x94f89b80d09a4978!8m2!3d13.3139864!4d75.7710602!16s%2Fg%2F11y7zypqp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mohan-clinic-chikkamagaluru",
@@ -4429,7 +4392,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mohan+Clinic/@13.3261416,75.7750463,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d8fe6b3e0f:0x7d3233edfd046e11!8m2!3d13.3261416!4d75.7750463!16s%2Fg%2F11cmznr9c2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mohan+Clinic/@13.3261416,75.7750463,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d8fe6b3e0f:0x7d3233edfd046e11!8m2!3d13.3261416!4d75.7750463!16s%2Fg%2F11cmznr9c2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4498,8 +4461,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mohan+Clinic/@13.3261416,75.7750463,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d8fe6b3e0f:0x7d3233edfd046e11!8m2!3d13.3261416!4d75.7750463!16s%2Fg%2F11cmznr9c2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "national-clinic-chikkamagaluru",
@@ -4545,7 +4507,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/National+Clinic/@13.3233943,75.7723503,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d806caa4f5:0xaff792a30f77ca5f!8m2!3d13.3233943!4d75.7723503!16s%2Fg%2F11hcdlmyq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/National+Clinic/@13.3233943,75.7723503,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d806caa4f5:0xaff792a30f77ca5f!8m2!3d13.3233943!4d75.7723503!16s%2Fg%2F11hcdlmyq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4611,11 +4573,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/National+Clinic/@13.3233943,75.7723503,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d806caa4f5:0xaff792a30f77ca5f!8m2!3d13.3233943!4d75.7723503!16s%2Fg%2F11hcdlmyq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nephroplus-dialysis-clinic-in-chikkamagaluru-chikkamagaluru",
@@ -4664,7 +4625,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+Clinic+in+Chikkamagaluru/@13.3140035,75.7745835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77f5818359f:0x18b25009adce131b!8m2!3d13.3140035!4d75.7745835!16s%2Fg%2F11y3mf1gfm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+Clinic+in+Chikkamagaluru/@13.3140035,75.7745835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77f5818359f:0x18b25009adce131b!8m2!3d13.3140035!4d75.7745835!16s%2Fg%2F11y3mf1gfm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4730,11 +4691,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+Clinic+in+Chikkamagaluru/@13.3140035,75.7745835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77f5818359f:0x18b25009adce131b!8m2!3d13.3140035!4d75.7745835!16s%2Fg%2F11y3mf1gfm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-dental-clinic-chikkamagaluru",
@@ -4782,7 +4742,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Dental+clinic/@13.3156495,75.7734362,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7a9d239bc1f:0xfe4d44e99d267230!8m2!3d13.3156495!4d75.7734362!16s%2Fg%2F11mq0fzldw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Dental+clinic/@13.3156495,75.7734362,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7a9d239bc1f:0xfe4d44e99d267230!8m2!3d13.3156495!4d75.7734362!16s%2Fg%2F11mq0fzldw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4848,11 +4808,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Dental+clinic/@13.3156495,75.7734362,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7a9d239bc1f:0xfe4d44e99d267230!8m2!3d13.3156495!4d75.7734362!16s%2Fg%2F11mq0fzldw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nlbc-clinics-chikkamagaluru",
@@ -4900,7 +4859,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nlbc+clinics/@13.322614,75.77218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad70064a61663:0x30c49aeba77ad154!8m2!3d13.322614!4d75.77218!16s%2Fg%2F11xft0qmzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nlbc+clinics/@13.322614,75.77218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad70064a61663:0x30c49aeba77ad154!8m2!3d13.322614!4d75.77218!16s%2Fg%2F11xft0qmzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4966,11 +4925,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nlbc+clinics/@13.322614,75.77218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad70064a61663:0x30c49aeba77ad154!8m2!3d13.322614!4d75.77218!16s%2Fg%2F11xft0qmzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "people-s-surgical-and-maternity-home-cintamani",
@@ -5018,7 +4976,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/People's+Surgical+And+Maternity+Home/@13.3990511,78.0536788,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb205de60cf1d09:0x66d7a42bf51d928c!8m2!3d13.3990511!4d78.0536788!16s%2Fg%2F11fgkndzrw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/People's+Surgical+And+Maternity+Home/@13.3990511,78.0536788,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb205de60cf1d09:0x66d7a42bf51d928c!8m2!3d13.3990511!4d78.0536788!16s%2Fg%2F11fgkndzrw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5084,11 +5042,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/People's+Surgical+And+Maternity+Home/@13.3990511,78.0536788,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb205de60cf1d09:0x66d7a42bf51d928c!8m2!3d13.3990511!4d78.0536788!16s%2Fg%2F11fgkndzrw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "piles-hospital-kr-pete",
@@ -5134,7 +5091,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Piles+Hospital/@13.237067,75.7596441,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7af0f051821:0x3b4e8b34060063cc!8m2!3d13.237067!4d75.7596441!16s%2Fg%2F11h4nd0v9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Piles+Hospital/@13.237067,75.7596441,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7af0f051821:0x3b4e8b34060063cc!8m2!3d13.237067!4d75.7596441!16s%2Fg%2F11h4nd0v9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5200,11 +5157,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Piles+Hospital/@13.237067,75.7596441,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7af0f051821:0x3b4e8b34060063cc!8m2!3d13.237067!4d75.7596441!16s%2Fg%2F11h4nd0v9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prashanthi-hospital-chikkamagaluru",
@@ -5252,7 +5208,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prashanthi+Hospital/@13.316306,75.7798864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad766e9ad6545:0x9c39bc57348358cc!8m2!3d13.316306!4d75.7798864!16s%2Fg%2F11csqj5c4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prashanthi+Hospital/@13.316306,75.7798864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad766e9ad6545:0x9c39bc57348358cc!8m2!3d13.316306!4d75.7798864!16s%2Fg%2F11csqj5c4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5321,8 +5277,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prashanthi+Hospital/@13.316306,75.7798864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad766e9ad6545:0x9c39bc57348358cc!8m2!3d13.316306!4d75.7798864!16s%2Fg%2F11csqj5c4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "precision-scans-chikkamagaluru",
@@ -5371,7 +5326,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Precision+Scans/@13.3160285,75.7724227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77487cf36a5:0x8110c23db75ff2a8!8m2!3d13.3160285!4d75.7724227!16s%2Fg%2F11fkdg65_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Precision+Scans/@13.3160285,75.7724227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77487cf36a5:0x8110c23db75ff2a8!8m2!3d13.3160285!4d75.7724227!16s%2Fg%2F11fkdg65_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5440,8 +5395,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Precision+Scans/@13.3160285,75.7724227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77487cf36a5:0x8110c23db75ff2a8!8m2!3d13.3160285!4d75.7724227!16s%2Fg%2F11fkdg65_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "qadars-dental-care-chikkamagaluru",
@@ -5489,7 +5443,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Qadars+Dental+Care/@13.33309,75.7733774,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9dabfca9e6b:0x2df3482feff04298!8m2!3d13.33309!4d75.7733774!16s%2Fg%2F1hhx3tyg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Qadars+Dental+Care/@13.33309,75.7733774,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9dabfca9e6b:0x2df3482feff04298!8m2!3d13.33309!4d75.7733774!16s%2Fg%2F1hhx3tyg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5558,8 +5512,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Qadars+Dental+Care/@13.33309,75.7733774,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9dabfca9e6b:0x2df3482feff04298!8m2!3d13.33309!4d75.7733774!16s%2Fg%2F1hhx3tyg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-k-cafe-chikkamagaluru",
@@ -5608,7 +5561,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R+K+Cafe/@13.3183647,75.7847874,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7646a6dc113:0x800576cd9e9ec4b4!8m2!3d13.3183647!4d75.7847874!16s%2Fg%2F1ptwtzm4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+K+Cafe/@13.3183647,75.7847874,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7646a6dc113:0x800576cd9e9ec4b4!8m2!3d13.3183647!4d75.7847874!16s%2Fg%2F1ptwtzm4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5677,8 +5630,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R+K+Cafe/@13.3183647,75.7847874,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7646a6dc113:0x800576cd9e9ec4b4!8m2!3d13.3183647!4d75.7847874!16s%2Fg%2F1ptwtzm4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ravi-dental-clinic-chikkamagaluru",
@@ -5726,7 +5678,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ravi+Dental+Clinic/@13.3149398,75.7711548,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad78ca777f84d:0xb90cf23e738b22a0!8m2!3d13.3149398!4d75.7711548!16s%2Fg%2F11xmg59y1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ravi+Dental+Clinic/@13.3149398,75.7711548,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad78ca777f84d:0xb90cf23e738b22a0!8m2!3d13.3149398!4d75.7711548!16s%2Fg%2F11xmg59y1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5792,11 +5744,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ravi+Dental+Clinic/@13.3149398,75.7711548,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad78ca777f84d:0xb90cf23e738b22a0!8m2!3d13.3149398!4d75.7711548!16s%2Fg%2F11xmg59y1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "reticorn-eye-hospital-chikmagalur-chikkamagaluru",
@@ -5845,7 +5796,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Reticorn+Eye+Hospital,+Chikmagalur/@13.3266736,75.7686451,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d6e4044553:0x6335796846eb553f!8m2!3d13.3266736!4d75.7686451!16s%2Fg%2F11c2l7c4j4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Reticorn+Eye+Hospital,+Chikmagalur/@13.3266736,75.7686451,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d6e4044553:0x6335796846eb553f!8m2!3d13.3266736!4d75.7686451!16s%2Fg%2F11c2l7c4j4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5914,8 +5865,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Reticorn+Eye+Hospital,+Chikmagalur/@13.3266736,75.7686451,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d6e4044553:0x6335796846eb553f!8m2!3d13.3266736!4d75.7686451!16s%2Fg%2F11c2l7c4j4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "royal-dental-clinic-chikkamagaluru",
@@ -5963,7 +5913,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Royal+dental+clinic/@13.3245195,75.7713945,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9006d203f3f:0x4814de02c498381!8m2!3d13.3245195!4d75.7713945!16s%2Fg%2F11wq3m1bph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+dental+clinic/@13.3245195,75.7713945,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9006d203f3f:0x4814de02c498381!8m2!3d13.3245195!4d75.7713945!16s%2Fg%2F11wq3m1bph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6029,11 +5979,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Royal+dental+clinic/@13.3245195,75.7713945,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9006d203f3f:0x4814de02c498381!8m2!3d13.3245195!4d75.7713945!16s%2Fg%2F11wq3m1bph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevini-health-care-tarikere",
@@ -6081,7 +6030,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevini+Health+Care/@13.70895,75.8142902,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbafb5d7a7de299:0x2285f394a5fd2c57!8m2!3d13.70895!4d75.8142902!16s%2Fg%2F11dz00dh0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevini+Health+Care/@13.70895,75.8142902,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbafb5d7a7de299:0x2285f394a5fd2c57!8m2!3d13.70895!4d75.8142902!16s%2Fg%2F11dz00dh0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6150,8 +6099,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevini+Health+Care/@13.70895,75.8142902,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbafb5d7a7de299:0x2285f394a5fd2c57!8m2!3d13.70895!4d75.8142902!16s%2Fg%2F11dz00dh0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevini-speciality-centre-chikkamagaluru",
@@ -6200,7 +6148,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevini+Speciality+Centre/@13.309103,75.7858599,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7f55bfb4063:0x33fb2d7a89298048!8m2!3d13.309103!4d75.7858599!16s%2Fg%2F11mmhntxkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevini+Speciality+Centre/@13.309103,75.7858599,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7f55bfb4063:0x33fb2d7a89298048!8m2!3d13.309103!4d75.7858599!16s%2Fg%2F11mmhntxkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6269,8 +6217,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevini+Speciality+Centre/@13.309103,75.7858599,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7f55bfb4063:0x33fb2d7a89298048!8m2!3d13.309103!4d75.7858599!16s%2Fg%2F11mmhntxkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sargod-eye-care-chikkamagaluru",
@@ -6319,7 +6266,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sargod+Eye+Care/@13.3163913,75.771909,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad771015abd4d:0x47ba8330d2041afc!8m2!3d13.3163913!4d75.771909!16s%2Fg%2F11cst1hzdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sargod+Eye+Care/@13.3163913,75.771909,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad771015abd4d:0x47ba8330d2041afc!8m2!3d13.3163913!4d75.771909!16s%2Fg%2F11cst1hzdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6388,8 +6335,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sargod+Eye+Care/@13.3163913,75.771909,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad771015abd4d:0x47ba8330d2041afc!8m2!3d13.3163913!4d75.771909!16s%2Fg%2F11cst1hzdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "savi-hospital-chikkamagaluru",
@@ -6437,7 +6383,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Savi+Hospital/@13.3209017,75.7696455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad76743cc8f5b:0x31ae470901a93803!8m2!3d13.3209017!4d75.7696455!16s%2Fg%2F11j8skk4w4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Savi+Hospital/@13.3209017,75.7696455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad76743cc8f5b:0x31ae470901a93803!8m2!3d13.3209017!4d75.7696455!16s%2Fg%2F11j8skk4w4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6506,8 +6452,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Savi+Hospital/@13.3209017,75.7696455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad76743cc8f5b:0x31ae470901a93803!8m2!3d13.3209017!4d75.7696455!16s%2Fg%2F11j8skk4w4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "secure-hospital-chikmagalur-chikkamagaluru",
@@ -6556,7 +6501,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Secure+Hospital,+Chikmagalur/@13.3301199,75.7730018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9900bb395b7:0xcc96bde91a928b4a!8m2!3d13.3301199!4d75.7730018!16s%2Fg%2F11p11cxb39?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Secure+Hospital,+Chikmagalur/@13.3301199,75.7730018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9900bb395b7:0xcc96bde91a928b4a!8m2!3d13.3301199!4d75.7730018!16s%2Fg%2F11p11cxb39?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6625,8 +6570,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Secure+Hospital,+Chikmagalur/@13.3301199,75.7730018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9900bb395b7:0xcc96bde91a928b4a!8m2!3d13.3301199!4d75.7730018!16s%2Fg%2F11p11cxb39?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smaya-dental-clinic-chikkamagaluru",
@@ -6674,7 +6618,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smaya+Dental+Clinic/@13.3203799,75.7756905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad763ad50adfb:0x87b5f17acb6e60!8m2!3d13.3203799!4d75.7756905!16s%2Fg%2F11gfn8cl8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smaya+Dental+Clinic/@13.3203799,75.7756905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad763ad50adfb:0x87b5f17acb6e60!8m2!3d13.3203799!4d75.7756905!16s%2Fg%2F11gfn8cl8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6740,11 +6684,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smaya+Dental+Clinic/@13.3203799,75.7756905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad763ad50adfb:0x87b5f17acb6e60!8m2!3d13.3203799!4d75.7756905!16s%2Fg%2F11gfn8cl8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-care-chikkamagaluru",
@@ -6792,7 +6735,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMiLE+Dental+Care/@13.3166434,75.7744157,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9c13ef61783:0xbf175b8cb4de07fe!8m2!3d13.3166434!4d75.7744157!16s%2Fg%2F11pvfhxx7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMiLE+Dental+Care/@13.3166434,75.7744157,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9c13ef61783:0xbf175b8cb4de07fe!8m2!3d13.3166434!4d75.7744157!16s%2Fg%2F11pvfhxx7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6861,8 +6804,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMiLE+Dental+Care/@13.3166434,75.7744157,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9c13ef61783:0xbf175b8cb4de07fe!8m2!3d13.3166434!4d75.7744157!16s%2Fg%2F11pvfhxx7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "spandana-hospital-chikkamagaluru",
@@ -6910,7 +6852,7 @@
     "metrics": [
       "Google rating 2.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Spandana+Hospital/@13.3153497,75.7718709,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad762d1d935af:0x1ffc48dd6f72ac91!8m2!3d13.3153497!4d75.7718709!16s%2Fg%2F11b6ht5bk5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spandana+Hospital/@13.3153497,75.7718709,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad762d1d935af:0x1ffc48dd6f72ac91!8m2!3d13.3153497!4d75.7718709!16s%2Fg%2F11b6ht5bk5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6979,8 +6921,7 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Spandana+Hospital/@13.3153497,75.7718709,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad762d1d935af:0x1ffc48dd6f72ac91!8m2!3d13.3153497!4d75.7718709!16s%2Fg%2F11b6ht5bk5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sparsh-hospital-rr-nagar-bengaluru",
@@ -7029,7 +6970,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SPARSH+Hospital,+RR+Nagar/@12.9267337,77.521328,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3e56d9f0d45d:0x13f99e4878243295!8m2!3d12.9267337!4d77.521328!16s%2Fg%2F11bwfm9q53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SPARSH+Hospital,+RR+Nagar/@12.9267337,77.521328,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3e56d9f0d45d:0x13f99e4878243295!8m2!3d12.9267337!4d77.521328!16s%2Fg%2F11bwfm9q53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7098,8 +7039,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SPARSH+Hospital,+RR+Nagar/@12.9267337,77.521328,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae3e56d9f0d45d:0x13f99e4878243295!8m2!3d12.9267337!4d77.521328!16s%2Fg%2F11bwfm9q53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sparsha-hospital-chikkamagaluru",
@@ -7147,7 +7087,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sparsha+Hospital/@13.3209295,75.7726017,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d9de583519:0xe555a2e0cd4c6360!8m2!3d13.3209295!4d75.7726017!16s%2Fg%2F113fkpxjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsha+Hospital/@13.3209295,75.7726017,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d9de583519:0xe555a2e0cd4c6360!8m2!3d13.3209295!4d75.7726017!16s%2Fg%2F113fkpxjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7213,11 +7153,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sparsha+Hospital/@13.3209295,75.7726017,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d9de583519:0xe555a2e0cd4c6360!8m2!3d13.3209295!4d75.7726017!16s%2Fg%2F113fkpxjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sai-dental-clinic-chikkamagaluru",
@@ -7265,7 +7204,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+SAI+DENTAL+CLINIC/@13.319662,75.7719869,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77cab441955:0xd5e49cdd21fb3e3c!8m2!3d13.319662!4d75.7719869!16s%2Fg%2F11f2hmdrkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SAI+DENTAL+CLINIC/@13.319662,75.7719869,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77cab441955:0xd5e49cdd21fb3e3c!8m2!3d13.319662!4d75.7719869!16s%2Fg%2F11f2hmdrkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7334,8 +7273,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+SAI+DENTAL+CLINIC/@13.319662,75.7719869,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad77cab441955:0xd5e49cdd21fb3e3c!8m2!3d13.319662!4d75.7719869!16s%2Fg%2F11f2hmdrkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srinidhi-medical-centre-chikkamagaluru",
@@ -7384,7 +7322,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Srinidhi+Medical+Centre/@13.3161167,75.7741799,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764ed50eb07:0xa3ce9be0c4b1acac!8m2!3d13.3161167!4d75.7741799!16s%2Fg%2F11bymwdjvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinidhi+Medical+Centre/@13.3161167,75.7741799,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764ed50eb07:0xa3ce9be0c4b1acac!8m2!3d13.3161167!4d75.7741799!16s%2Fg%2F11bymwdjvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7453,8 +7391,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Srinidhi+Medical+Centre/@13.3161167,75.7741799,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764ed50eb07:0xa3ce9be0c4b1acac!8m2!3d13.3161167!4d75.7741799!16s%2Fg%2F11bymwdjvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srs-piles-fistula-clinic-chikkamagaluru",
@@ -7500,7 +7437,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRS+piles+fistula+clinic/@13.3178595,75.7737983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7423b551fa5:0x583a31529e5ab576!8m2!3d13.3178595!4d75.7737983!16s%2Fg%2F11wy28npd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRS+piles+fistula+clinic/@13.3178595,75.7737983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7423b551fa5:0x583a31529e5ab576!8m2!3d13.3178595!4d75.7737983!16s%2Fg%2F11wy28npd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7566,11 +7503,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRS+piles+fistula+clinic/@13.3178595,75.7737983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7423b551fa5:0x583a31529e5ab576!8m2!3d13.3178595!4d75.7737983!16s%2Fg%2F11wy28npd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "stp-chikmagalur-chikkamagaluru",
@@ -7616,7 +7552,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/STP+Chikmagalur/data=!4m7!3m6!1s0x3bbad78ca46f72eb:0xf76f7b767cc9f845!8m2!3d13.301347!4d75.7860461!16s%2Fg%2F11h8jfk4bp!19sChIJ63JvpIzXujsRRfjJfHZ7b_c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STP+Chikmagalur/data=!4m7!3m6!1s0x3bbad78ca46f72eb:0xf76f7b767cc9f845!8m2!3d13.301347!4d75.7860461!16s%2Fg%2F11h8jfk4bp!19sChIJ63JvpIzXujsRRfjJfHZ7b_c?authuser=0&hl=en&rclk=1"
@@ -7682,11 +7618,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/STP+Chikmagalur/data=!4m7!3m6!1s0x3bbad78ca46f72eb:0xf76f7b767cc9f845!8m2!3d13.301347!4d75.7860461!16s%2Fg%2F11h8jfk4bp!19sChIJ63JvpIzXujsRRfjJfHZ7b_c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "supreme-medical-and-general-store-chikkamagaluru",
@@ -7735,7 +7670,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Supreme+medical+%26+general+store/@13.3170875,75.7801094,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7000a46f4cf:0x229c947094bfd308!8m2!3d13.3170875!4d75.7801094!16s%2Fg%2F11xykm7h80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Supreme+medical+%26+general+store/@13.3170875,75.7801094,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7000a46f4cf:0x229c947094bfd308!8m2!3d13.3170875!4d75.7801094!16s%2Fg%2F11xykm7h80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7801,11 +7736,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Supreme+medical+%26+general+store/@13.3170875,75.7801094,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7000a46f4cf:0x229c947094bfd308!8m2!3d13.3170875!4d75.7801094!16s%2Fg%2F11xykm7h80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suraksha-dental-care-chikkamagaluru",
@@ -7853,7 +7787,7 @@
     "metrics": [
       "Google rating 2.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Suraksha+Dental+Care/@13.3156,75.7738249,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764e92e0ccd:0xb1b21aa41a64c1fe!8m2!3d13.3156!4d75.7738249!16s%2Fg%2F11c1s05bn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suraksha+Dental+Care/@13.3156,75.7738249,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764e92e0ccd:0xb1b21aa41a64c1fe!8m2!3d13.3156!4d75.7738249!16s%2Fg%2F11c1s05bn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7922,8 +7856,7 @@
     "rating": 2.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Suraksha+Dental+Care/@13.3156,75.7738249,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad764e92e0ccd:0xb1b21aa41a64c1fe!8m2!3d13.3156!4d75.7738249!16s%2Fg%2F11c1s05bn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swarna-sai-dental-care-chikkamagaluru",
@@ -7971,7 +7904,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swarna+Sai+Dental+Care/@13.3291752,75.7740446,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7f717dd6361:0xa38bd1c9a4e93036!8m2!3d13.3291752!4d75.7740446!16s%2Fg%2F11ghtn9vs6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swarna+Sai+Dental+Care/@13.3291752,75.7740446,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7f717dd6361:0xa38bd1c9a4e93036!8m2!3d13.3291752!4d75.7740446!16s%2Fg%2F11ghtn9vs6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8040,8 +7973,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swarna+Sai+Dental+Care/@13.3291752,75.7740446,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7f717dd6361:0xa38bd1c9a4e93036!8m2!3d13.3291752!4d75.7740446!16s%2Fg%2F11ghtn9vs6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "trinethra-skin-and-ortho-care-chikkamagaluru",
@@ -8090,7 +8022,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Trinethra+Skin+and+Ortho+Care/@13.3258447,75.7749947,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d90174047d:0x1624ac7ac520140b!8m2!3d13.3258447!4d75.7749947!16s%2Fg%2F11cmznvqgy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trinethra+Skin+and+Ortho+Care/@13.3258447,75.7749947,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d90174047d:0x1624ac7ac520140b!8m2!3d13.3258447!4d75.7749947!16s%2Fg%2F11cmznvqgy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8156,11 +8088,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Trinethra+Skin+and+Ortho+Care/@13.3258447,75.7749947,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d90174047d:0x1624ac7ac520140b!8m2!3d13.3258447!4d75.7749947!16s%2Fg%2F11cmznvqgy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "unity-medical-centre-chikkamagaluru",
@@ -8210,7 +8141,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Unity+Medical+Centre/@13.3240017,75.770137,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9754a826cf3:0xfbd4f5357a233d43!8m2!3d13.3240017!4d75.770137!16s%2Fg%2F11l6bghd8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unity+Medical+Centre/@13.3240017,75.770137,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9754a826cf3:0xfbd4f5357a233d43!8m2!3d13.3240017!4d75.770137!16s%2Fg%2F11l6bghd8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8276,11 +8207,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Unity+Medical+Centre/@13.3240017,75.770137,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9754a826cf3:0xfbd4f5357a233d43!8m2!3d13.3240017!4d75.770137!16s%2Fg%2F11l6bghd8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "urban-primary-health-centre-chikkamagaluru",
@@ -8328,7 +8258,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Urban+Primary+Health+Centre/@13.3248785,75.7731639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d83eb76e85:0x8d8939016a91e858!8m2!3d13.3248785!4d75.7731639!16s%2Fg%2F11c5s3jdqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Urban+Primary+Health+Centre/@13.3248785,75.7731639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d83eb76e85:0x8d8939016a91e858!8m2!3d13.3248785!4d75.7731639!16s%2Fg%2F11c5s3jdqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8394,11 +8324,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Urban+Primary+Health+Centre/@13.3248785,75.7731639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d83eb76e85:0x8d8939016a91e858!8m2!3d13.3248785!4d75.7731639!16s%2Fg%2F11c5s3jdqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "urban-primary-healthcare-center-hiremagalur-chikkamagaluru",
@@ -8446,7 +8375,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Urban+Primary+Healthcare+Center,+Hiremagalur/@13.306156,75.794195,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7ebb3c6c4fd:0xaabc685271076d38!8m2!3d13.306156!4d75.794195!16s%2Fg%2F11vc6_90r0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Urban+Primary+Healthcare+Center,+Hiremagalur/@13.306156,75.794195,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7ebb3c6c4fd:0xaabc685271076d38!8m2!3d13.306156!4d75.794195!16s%2Fg%2F11vc6_90r0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8512,11 +8441,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Urban+Primary+Healthcare+Center,+Hiremagalur/@13.306156,75.794195,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7ebb3c6c4fd:0xaabc685271076d38!8m2!3d13.306156!4d75.794195!16s%2Fg%2F11vc6_90r0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vasanth-s-dental-care-chikkamagaluru",
@@ -8565,7 +8493,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VASANTH'S+DENTAL+CARE/@13.3367354,75.7718901,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9a2e1bb26b3:0xf99e1d30f31e4cba!8m2!3d13.3367354!4d75.7718901!16s%2Fg%2F11xz52wn0f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VASANTH'S+DENTAL+CARE/@13.3367354,75.7718901,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9a2e1bb26b3:0xf99e1d30f31e4cba!8m2!3d13.3367354!4d75.7718901!16s%2Fg%2F11xz52wn0f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8631,11 +8559,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VASANTH'S+DENTAL+CARE/@13.3367354,75.7718901,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9a2e1bb26b3:0xf99e1d30f31e4cba!8m2!3d13.3367354!4d75.7718901!16s%2Fg%2F11xz52wn0f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vidya-dental-care-chikkamagaluru",
@@ -8683,7 +8610,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vidya+Dental+Care/@13.315277,75.7737482,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d7f4174827:0x1cf2dcfa1828f90b!8m2!3d13.315277!4d75.7737482!16s%2Fg%2F11f0wlq1h0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vidya+Dental+Care/@13.315277,75.7737482,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d7f4174827:0x1cf2dcfa1828f90b!8m2!3d13.315277!4d75.7737482!16s%2Fg%2F11f0wlq1h0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8752,8 +8679,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vidya+Dental+Care/@13.315277,75.7737482,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad9d7f4174827:0x1cf2dcfa1828f90b!8m2!3d13.315277!4d75.7737482!16s%2Fg%2F11f0wlq1h0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chikkamagaluru",
@@ -8801,7 +8727,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%B2%B6%E0%B3%8D%E0%B2%B0%E0%B3%80+%E0%B2%A7%E0%B2%B0%E0%B3%8D%E0%B2%AE%E0%B2%B8%E0%B3%8D%E0%B2%A5%E0%B2%B3+%E0%B2%AE%E0%B2%82%E0%B2%9C%E0%B3%81%E0%B2%A8%E0%B2%BE%E0%B2%A5%E0%B3%87%E0%B2%B6%E0%B3%8D%E0%B2%B5%E0%B2%B0+%E0%B2%86%E0%B2%AF%E0%B3%81%E0%B2%B0%E0%B3%8D%E0%B2%B5%E0%B3%87%E0%B2%A6%E0%B2%BF%E0%B2%95%E0%B3%8D+%E0%B2%B9%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%BF%E0%B2%9F%E0%B2%B2%E0%B3%8D/@13.309228,75.7744648,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7003e41b84b:0x1eed31c9db8c28e7!8m2!3d13.309228!4d75.7744648!16s%2Fg%2F11lnvk2pc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%B2%B6%E0%B3%8D%E0%B2%B0%E0%B3%80+%E0%B2%A7%E0%B2%B0%E0%B3%8D%E0%B2%AE%E0%B2%B8%E0%B3%8D%E0%B2%A5%E0%B2%B3+%E0%B2%AE%E0%B2%82%E0%B2%9C%E0%B3%81%E0%B2%A8%E0%B2%BE%E0%B2%A5%E0%B3%87%E0%B2%B6%E0%B3%8D%E0%B2%B5%E0%B2%B0+%E0%B2%86%E0%B2%AF%E0%B3%81%E0%B2%B0%E0%B3%8D%E0%B2%B5%E0%B3%87%E0%B2%A6%E0%B2%BF%E0%B2%95%E0%B3%8D+%E0%B2%B9%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%BF%E0%B2%9F%E0%B2%B2%E0%B3%8D/@13.309228,75.7744648,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7003e41b84b:0x1eed31c9db8c28e7!8m2!3d13.309228!4d75.7744648!16s%2Fg%2F11lnvk2pc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8867,10 +8793,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%B2%B6%E0%B3%8D%E0%B2%B0%E0%B3%80+%E0%B2%A7%E0%B2%B0%E0%B3%8D%E0%B2%AE%E0%B2%B8%E0%B3%8D%E0%B2%A5%E0%B2%B3+%E0%B2%AE%E0%B2%82%E0%B2%9C%E0%B3%81%E0%B2%A8%E0%B2%BE%E0%B2%A5%E0%B3%87%E0%B2%B6%E0%B3%8D%E0%B2%B5%E0%B2%B0+%E0%B2%86%E0%B2%AF%E0%B3%81%E0%B2%B0%E0%B3%8D%E0%B2%B5%E0%B3%87%E0%B2%A6%E0%B2%BF%E0%B2%95%E0%B3%8D+%E0%B2%B9%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%BF%E0%B2%9F%E0%B2%B2%E0%B3%8D/@13.309228,75.7744648,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbad7003e41b84b:0x1eed31c9db8c28e7!8m2!3d13.309228!4d75.7744648!16s%2Fg%2F11lnvk2pc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

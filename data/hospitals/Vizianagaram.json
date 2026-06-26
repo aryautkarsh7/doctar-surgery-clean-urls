@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aarogya+Clinic/data=!4m7!3m6!1s0x3a3be5007b8209c3:0x4c3a23e854f75b5a!8m2!3d18.110823!4d83.3890669!16s%2Fg%2F11n9v6p6pw!19sChIJwwmCewDlOzoRWlv3VOgjOkw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogya+Clinic/data=!4m7!3m6!1s0x3a3be5007b8209c3:0x4c3a23e854f75b5a!8m2!3d18.110823!4d83.3890669!16s%2Fg%2F11n9v6p6pw!19sChIJwwmCewDlOzoRWlv3VOgjOkw?authuser=0&hl=en&rclk=1"
@@ -111,11 +111,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aarogya+Clinic/data=!4m7!3m6!1s0x3a3be5007b8209c3:0x4c3a23e854f75b5a!8m2!3d18.110823!4d83.3890669!16s%2Fg%2F11n9v6p6pw!19sChIJwwmCewDlOzoRWlv3VOgjOkw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amulya-skin-and-hair-clinic-vizianagaram",
@@ -164,7 +163,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AMULYA+SKIN+%26+HAIR+CLINIC/@18.10715,83.3904291,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be505702cba3b:0x7c34d2b02cc6b745!8m2!3d18.10715!4d83.3904291!16s%2Fg%2F11q3m7jw57?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMULYA+SKIN+%26+HAIR+CLINIC/@18.10715,83.3904291,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be505702cba3b:0x7c34d2b02cc6b745!8m2!3d18.10715!4d83.3904291!16s%2Fg%2F11q3m7jw57?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -233,8 +232,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AMULYA+SKIN+%26+HAIR+CLINIC/@18.10715,83.3904291,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be505702cba3b:0x7c34d2b02cc6b745!8m2!3d18.10715!4d83.3904291!16s%2Fg%2F11q3m7jw57?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "andhra-hospitals-vizianagaram",
@@ -282,7 +280,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Andhra+Hospitals/@18.1083901,83.4116597,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54f5b29826b:0x746b0fb3ce704dec!8m2!3d18.1083901!4d83.4116597!16s%2Fg%2F12hks10t4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Andhra+Hospitals/@18.1083901,83.4116597,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54f5b29826b:0x746b0fb3ce704dec!8m2!3d18.1083901!4d83.4116597!16s%2Fg%2F12hks10t4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -351,8 +349,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Andhra+Hospitals/@18.1083901,83.4116597,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54f5b29826b:0x746b0fb3ce704dec!8m2!3d18.1083901!4d83.4116597!16s%2Fg%2F12hks10t4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apple-international-dental-toothsi-by-makeo-vizianagaram-vizianagaram",
@@ -401,7 +398,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apple+International+Dental+%7C+Toothsi+by+MakeO+%7C+Vizianagaram/data=!4m7!3m6!1s0x3a3be569e3347955:0x279a7bce2fffaa0d!8m2!3d18.107868!4d83.400073!16s%2Fg%2F11f3jy8nsx!19sChIJVXk042nlOzoRDar_L857mic?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apple+International+Dental+%7C+Toothsi+by+MakeO+%7C+Vizianagaram/data=!4m7!3m6!1s0x3a3be569e3347955:0x279a7bce2fffaa0d!8m2!3d18.107868!4d83.400073!16s%2Fg%2F11f3jy8nsx!19sChIJVXk042nlOzoRDar_L857mic?authuser=0&hl=en&rclk=1"
@@ -470,8 +467,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apple+International+Dental+%7C+Toothsi+by+MakeO+%7C+Vizianagaram/data=!4m7!3m6!1s0x3a3be569e3347955:0x279a7bce2fffaa0d!8m2!3d18.107868!4d83.400073!16s%2Fg%2F11f3jy8nsx!19sChIJVXk042nlOzoRDar_L857mic?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashaclinics-dental-and-plastic-surgery-vizianagaram",
@@ -520,7 +516,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashaclinics+Dental+and+Plastic+Surgery/data=!4m7!3m6!1s0x3a3be5fe467f73fd:0xb3791a30ef3260c7!8m2!3d18.1155748!4d83.4145478!16s%2Fg%2F11v1blrsy3!19sChIJ_XN_Rv7lOzoRx2Ay7zAaebM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashaclinics+Dental+and+Plastic+Surgery/data=!4m7!3m6!1s0x3a3be5fe467f73fd:0xb3791a30ef3260c7!8m2!3d18.1155748!4d83.4145478!16s%2Fg%2F11v1blrsy3!19sChIJ_XN_Rv7lOzoRx2Ay7zAaebM?authuser=0&hl=en&rclk=1"
@@ -586,11 +582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashaclinics+Dental+and+Plastic+Surgery/data=!4m7!3m6!1s0x3a3be5fe467f73fd:0xb3791a30ef3260c7!8m2!3d18.1155748!4d83.4145478!16s%2Fg%2F11v1blrsy3!19sChIJ_XN_Rv7lOzoRx2Ay7zAaebM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhavya-heart-care-center-vizianagaram",
@@ -639,7 +634,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhavya+Heart+Care+Center/data=!4m7!3m6!1s0x3a3be54e51f198e5:0xebdcc01cf03cc7ea!8m2!3d18.1201984!4d83.4376749!16s%2Fg%2F11f2_sc6b1!19sChIJ5ZjxUU7lOzoR6sc88BzA3Os?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhavya+Heart+Care+Center/data=!4m7!3m6!1s0x3a3be54e51f198e5:0xebdcc01cf03cc7ea!8m2!3d18.1201984!4d83.4376749!16s%2Fg%2F11f2_sc6b1!19sChIJ5ZjxUU7lOzoR6sc88BzA3Os?authuser=0&hl=en&rclk=1"
@@ -705,11 +700,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhavya+Heart+Care+Center/data=!4m7!3m6!1s0x3a3be54e51f198e5:0xebdcc01cf03cc7ea!8m2!3d18.1201984!4d83.4376749!16s%2Fg%2F11f2_sc6b1!19sChIJ5ZjxUU7lOzoR6sc88BzA3Os?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cataract-surgery-specialists-at-maxivision-eye-hospitals-in-vizianagaram-vizianagaram",
@@ -758,7 +752,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cataract+Surgery+Specialists+at+Maxivision+Eye+Hospitals+in+-+Vizianagaram/data=!4m7!3m6!1s0x3a3be5008a541d77:0xef1fa87b95dc7326!8m2!3d18.108472!4d83.4005958!16s%2Fg%2F11ymkq4byg!19sChIJdx1UigDlOzoRJnPclXuoH-8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cataract+Surgery+Specialists+at+Maxivision+Eye+Hospitals+in+-+Vizianagaram/data=!4m7!3m6!1s0x3a3be5008a541d77:0xef1fa87b95dc7326!8m2!3d18.108472!4d83.4005958!16s%2Fg%2F11ymkq4byg!19sChIJdx1UigDlOzoRJnPclXuoH-8?authuser=0&hl=en&rclk=1"
@@ -824,11 +818,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cataract+Surgery+Specialists+at+Maxivision+Eye+Hospitals+in+-+Vizianagaram/data=!4m7!3m6!1s0x3a3be5008a541d77:0xef1fa87b95dc7326!8m2!3d18.108472!4d83.4005958!16s%2Fg%2F11ymkq4byg!19sChIJdx1UigDlOzoRJnPclXuoH-8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chetan-gastric-new-hospital-vizianagaram",
@@ -876,7 +869,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chetan+gastric+new+hospital/data=!4m7!3m6!1s0x3a3be5003596ff7d:0x631c4f881e37db23!8m2!3d18.1167725!4d83.3900947!16s%2Fg%2F11vwvfyntq!19sChIJff-WNQDlOzoRI9s3HohPHGM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chetan+gastric+new+hospital/data=!4m7!3m6!1s0x3a3be5003596ff7d:0x631c4f881e37db23!8m2!3d18.1167725!4d83.3900947!16s%2Fg%2F11vwvfyntq!19sChIJff-WNQDlOzoRI9s3HohPHGM?authuser=0&hl=en&rclk=1"
@@ -945,8 +938,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chetan+gastric+new+hospital/data=!4m7!3m6!1s0x3a3be5003596ff7d:0x631c4f881e37db23!8m2!3d18.1167725!4d83.3900947!16s%2Fg%2F11vwvfyntq!19sChIJff-WNQDlOzoRI9s3HohPHGM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "exult-hair-transplant-clinic-vizianagaram",
@@ -995,7 +987,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Exult+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3a3be586939c0da9:0x27158d75c1b390e!8m2!3d18.1148624!4d83.4139172!16s%2Fg%2F11h4yp0m4b!19sChIJqQ2ck4blOzoRDjkbXNdYcQI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Exult+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3a3be586939c0da9:0x27158d75c1b390e!8m2!3d18.1148624!4d83.4139172!16s%2Fg%2F11h4yp0m4b!19sChIJqQ2ck4blOzoRDjkbXNdYcQI?authuser=0&hl=en&rclk=1"
@@ -1064,8 +1056,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Exult+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3a3be586939c0da9:0x27158d75c1b390e!8m2!3d18.1148624!4d83.4139172!16s%2Fg%2F11h4yp0m4b!19sChIJqQ2ck4blOzoRDjkbXNdYcQI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gayatri-hospital-vizianagaram",
@@ -1113,7 +1104,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gayatri+Hospital/data=!4m7!3m6!1s0x3a3be54c547e852b:0x99e01529e1a94f7a!8m2!3d18.1103821!4d83.4188511!16s%2Fg%2F11gg67ctw2!19sChIJK4V-VEzlOzoRek-p4SkV4Jk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+Hospital/data=!4m7!3m6!1s0x3a3be54c547e852b:0x99e01529e1a94f7a!8m2!3d18.1103821!4d83.4188511!16s%2Fg%2F11gg67ctw2!19sChIJK4V-VEzlOzoRek-p4SkV4Jk?authuser=0&hl=en&rclk=1"
@@ -1182,8 +1173,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gayatri+Hospital/data=!4m7!3m6!1s0x3a3be54c547e852b:0x99e01529e1a94f7a!8m2!3d18.1103821!4d83.4188511!16s%2Fg%2F11gg67ctw2!19sChIJK4V-VEzlOzoRek-p4SkV4Jk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "genova-fertility-and-ivf-centre-vizianagaram-vizianagaram",
@@ -1232,7 +1222,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Genova+Fertility+%26+IVF+Centre,+Vizianagaram/data=!4m7!3m6!1s0x3a3be506051564c3:0x40731b3d6211460e!8m2!3d18.1026972!4d83.4185949!16s%2Fg%2F11nbzh92tk!19sChIJw2QVBQblOzoRDkYRYj0bc0A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Genova+Fertility+%26+IVF+Centre,+Vizianagaram/data=!4m7!3m6!1s0x3a3be506051564c3:0x40731b3d6211460e!8m2!3d18.1026972!4d83.4185949!16s%2Fg%2F11nbzh92tk!19sChIJw2QVBQblOzoRDkYRYj0bc0A?authuser=0&hl=en&rclk=1"
@@ -1298,11 +1288,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Genova+Fertility+%26+IVF+Centre,+Vizianagaram/data=!4m7!3m6!1s0x3a3be506051564c3:0x40731b3d6211460e!8m2!3d18.1026972!4d83.4185949!16s%2Fg%2F11nbzh92tk!19sChIJw2QVBQblOzoRDkYRYj0bc0A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-dental-clinic-vizianagaram",
@@ -1350,7 +1339,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GLOBAL+DENTAL+CLINIC/@18.1085291,83.3918971,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3bef4d4227e5f1:0xa62c934493b9e884!8m2!3d18.1085291!4d83.3918971!16s%2Fg%2F11j0j1jm9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GLOBAL+DENTAL+CLINIC/@18.1085291,83.3918971,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3bef4d4227e5f1:0xa62c934493b9e884!8m2!3d18.1085291!4d83.3918971!16s%2Fg%2F11j0j1jm9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1419,8 +1408,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GLOBAL+DENTAL+CLINIC/@18.1085291,83.3918971,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3bef4d4227e5f1:0xa62c934493b9e884!8m2!3d18.1085291!4d83.3918971!16s%2Fg%2F11j0j1jm9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-health-care-hospital-vizianagaram",
@@ -1469,7 +1457,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GLOBAL+HEALTH+CARE+HOSPITAL/data=!4m7!3m6!1s0x3a3be546ff77698d:0xd4d1fc47d40438b0!8m2!3d18.1055623!4d83.4081335!16s%2Fg%2F11c56bppj4!19sChIJjWl3_0blOzoRsDgE1Ef80dQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GLOBAL+HEALTH+CARE+HOSPITAL/data=!4m7!3m6!1s0x3a3be546ff77698d:0xd4d1fc47d40438b0!8m2!3d18.1055623!4d83.4081335!16s%2Fg%2F11c56bppj4!19sChIJjWl3_0blOzoRsDgE1Ef80dQ?authuser=0&hl=en&rclk=1"
@@ -1538,8 +1526,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GLOBAL+HEALTH+CARE+HOSPITAL/data=!4m7!3m6!1s0x3a3be546ff77698d:0xd4d1fc47d40438b0!8m2!3d18.1055623!4d83.4081335!16s%2Fg%2F11c56bppj4!19sChIJjWl3_0blOzoRsDgE1Ef80dQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "halo-dental-care-vizianagaram",
@@ -1588,7 +1575,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Halo+Dental+Care/@18.1061421,83.4077888,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be557421f1f59:0x4594fbb6483548fb!8m2!3d18.1061421!4d83.4077888!16s%2Fg%2F11ytl0jw84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Halo+Dental+Care/@18.1061421,83.4077888,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be557421f1f59:0x4594fbb6483548fb!8m2!3d18.1061421!4d83.4077888!16s%2Fg%2F11ytl0jw84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1654,11 +1641,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Halo+Dental+Care/@18.1061421,83.4077888,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be557421f1f59:0x4594fbb6483548fb!8m2!3d18.1061421!4d83.4077888!16s%2Fg%2F11ytl0jw84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hiwaga-beauty-clinic-vizianagaram",
@@ -1708,7 +1694,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hiwaga+Beauty+Clinic/data=!4m7!3m6!1s0x3a3be543d678b323:0xd05877c316d564fc!8m2!3d18.1045805!4d83.4078162!16s%2Fg%2F11xzpkzwq9!19sChIJI7N41kPlOzoR_GTVFsN3WNA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hiwaga+Beauty+Clinic/data=!4m7!3m6!1s0x3a3be543d678b323:0xd05877c316d564fc!8m2!3d18.1045805!4d83.4078162!16s%2Fg%2F11xzpkzwq9!19sChIJI7N41kPlOzoR_GTVFsN3WNA?authuser=0&hl=en&rclk=1"
@@ -1774,11 +1760,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hiwaga+Beauty+Clinic/data=!4m7!3m6!1s0x3a3be543d678b323:0xd05877c316d564fc!8m2!3d18.1045805!4d83.4078162!16s%2Fg%2F11xzpkzwq9!19sChIJI7N41kPlOzoR_GTVFsN3WNA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jyothi-hospitals-vizianagaram",
@@ -1828,7 +1813,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JYOTHI+HOSPITALS/data=!4m7!3m6!1s0x3a3be50165ad5c29:0xcc9036c8cb02bc6e!8m2!3d18.1142261!4d83.4134143!16s%2Fg%2F11ll347mk6!19sChIJKVytZQHlOzoRbrwCy8g2kMw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JYOTHI+HOSPITALS/data=!4m7!3m6!1s0x3a3be50165ad5c29:0xcc9036c8cb02bc6e!8m2!3d18.1142261!4d83.4134143!16s%2Fg%2F11ll347mk6!19sChIJKVytZQHlOzoRbrwCy8g2kMw?authuser=0&hl=en&rclk=1"
@@ -1897,8 +1882,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JYOTHI+HOSPITALS/data=!4m7!3m6!1s0x3a3be50165ad5c29:0xcc9036c8cb02bc6e!8m2!3d18.1142261!4d83.4134143!16s%2Fg%2F11ll347mk6!19sChIJKVytZQHlOzoRbrwCy8g2kMw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kiran-dental-clinic-advanced-ortho-and-implant-center-vizianagaram",
@@ -1949,7 +1933,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kiran+Dental+Clinic+-+Advanced+Ortho+and+Implant+Center/data=!4m7!3m6!1s0x3a3be53ae9765a31:0x1be7dfe4b311700d!8m2!3d18.1084577!4d83.4001785!16s%2Fg%2F11pz03k4p3!19sChIJMVp26TrlOzoRDXARs-Tf5xs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kiran+Dental+Clinic+-+Advanced+Ortho+and+Implant+Center/data=!4m7!3m6!1s0x3a3be53ae9765a31:0x1be7dfe4b311700d!8m2!3d18.1084577!4d83.4001785!16s%2Fg%2F11pz03k4p3!19sChIJMVp26TrlOzoRDXARs-Tf5xs?authuser=0&hl=en&rclk=1"
@@ -2015,11 +1999,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kiran+Dental+Clinic+-+Advanced+Ortho+and+Implant+Center/data=!4m7!3m6!1s0x3a3be53ae9765a31:0x1be7dfe4b311700d!8m2!3d18.1084577!4d83.4001785!16s%2Fg%2F11pz03k4p3!19sChIJMVp26TrlOzoRDXARs-Tf5xs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-dental-and-implant-centre-vizianagaram",
@@ -2068,7 +2051,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Dental+%26+Implant+Centre/data=!4m7!3m6!1s0x3a3be5b930890f35:0x63530b6daa53af45!8m2!3d18.1103468!4d83.4188934!16s%2Fg%2F11z5fyrfjs!19sChIJNQ-JMLnlOzoRRa9Tqm0LU2M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Dental+%26+Implant+Centre/data=!4m7!3m6!1s0x3a3be5b930890f35:0x63530b6daa53af45!8m2!3d18.1103468!4d83.4188934!16s%2Fg%2F11z5fyrfjs!19sChIJNQ-JMLnlOzoRRa9Tqm0LU2M?authuser=0&hl=en&rclk=1"
@@ -2134,11 +2117,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Dental+%26+Implant+Centre/data=!4m7!3m6!1s0x3a3be5b930890f35:0x63530b6daa53af45!8m2!3d18.1103468!4d83.4188934!16s%2Fg%2F11z5fyrfjs!19sChIJNQ-JMLnlOzoRRa9Tqm0LU2M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lavanya-dental-solutions-vizianagaram",
@@ -2186,7 +2168,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lavanya+Dental+Solutions/data=!4m7!3m6!1s0x3a3be570ee2bc633:0x15c1cd29cce0f68a!8m2!3d18.1039653!4d83.4073753!16s%2Fg%2F11lh4wys1c!19sChIJM8Yr7nDlOzoRivbgzCnNwRU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lavanya+Dental+Solutions/data=!4m7!3m6!1s0x3a3be570ee2bc633:0x15c1cd29cce0f68a!8m2!3d18.1039653!4d83.4073753!16s%2Fg%2F11lh4wys1c!19sChIJM8Yr7nDlOzoRivbgzCnNwRU?authuser=0&hl=en&rclk=1"
@@ -2252,11 +2234,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lavanya+Dental+Solutions/data=!4m7!3m6!1s0x3a3be570ee2bc633:0x15c1cd29cce0f68a!8m2!3d18.1039653!4d83.4073753!16s%2Fg%2F11lh4wys1c!19sChIJM8Yr7nDlOzoRivbgzCnNwRU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "london-ivf-centre-vizianagaram-fertility-hospitals-vizianagaram",
@@ -2306,7 +2287,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/London+IVF+Centre,+Vizianagaram+%7C+Fertility+Hospitals/data=!4m7!3m6!1s0x3a3be52d8a6524bd:0x969f2dfc3f2d9c8f!8m2!3d18.1103144!4d83.4147251!16s%2Fg%2F11sty4pz1m!19sChIJvSRlii3lOzoRj5wtP_wtn5Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/London+IVF+Centre,+Vizianagaram+%7C+Fertility+Hospitals/data=!4m7!3m6!1s0x3a3be52d8a6524bd:0x969f2dfc3f2d9c8f!8m2!3d18.1103144!4d83.4147251!16s%2Fg%2F11sty4pz1m!19sChIJvSRlii3lOzoRj5wtP_wtn5Y?authuser=0&hl=en&rclk=1"
@@ -2375,8 +2356,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/London+IVF+Centre,+Vizianagaram+%7C+Fertility+Hospitals/data=!4m7!3m6!1s0x3a3be52d8a6524bd:0x969f2dfc3f2d9c8f!8m2!3d18.1103144!4d83.4147251!16s%2Fg%2F11sty4pz1m!19sChIJvSRlii3lOzoRj5wtP_wtn5Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "m-s-hospital-vizianagaram",
@@ -2424,7 +2404,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/M.S.+Hospital/data=!4m7!3m6!1s0x3a3be54cf1440aa1:0x922dc9c043cee1a7!8m2!3d18.1094895!4d83.4194496!16s%2Fg%2F11hb2s85xy!19sChIJoQpE8UzlOzoRp-HOQ8DJLZI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.S.+Hospital/data=!4m7!3m6!1s0x3a3be54cf1440aa1:0x922dc9c043cee1a7!8m2!3d18.1094895!4d83.4194496!16s%2Fg%2F11hb2s85xy!19sChIJoQpE8UzlOzoRp-HOQ8DJLZI?authuser=0&hl=en&rclk=1"
@@ -2493,8 +2473,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/M.S.+Hospital/data=!4m7!3m6!1s0x3a3be54cf1440aa1:0x922dc9c043cee1a7!8m2!3d18.1094895!4d83.4194496!16s%2Fg%2F11hb2s85xy!19sChIJoQpE8UzlOzoRp-HOQ8DJLZI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maharani-mother-and-child-ghosha-hospital-vizianagaram-vizianagaram",
@@ -2543,7 +2522,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maharani+Mother+%26+Child+%28Ghosha%29+Hospital,+Vizianagaram/data=!4m7!3m6!1s0x3a3be553d69b53b9:0x7dd0c9946cfdf79d!8m2!3d18.1170121!4d83.4165498!16s%2Fg%2F11gdyyxndq!19sChIJuVOb1lPlOzoRnff9bJTJ0H0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maharani+Mother+%26+Child+%28Ghosha%29+Hospital,+Vizianagaram/data=!4m7!3m6!1s0x3a3be553d69b53b9:0x7dd0c9946cfdf79d!8m2!3d18.1170121!4d83.4165498!16s%2Fg%2F11gdyyxndq!19sChIJuVOb1lPlOzoRnff9bJTJ0H0?authuser=0&hl=en&rclk=1"
@@ -2612,8 +2591,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maharani+Mother+%26+Child+%28Ghosha%29+Hospital,+Vizianagaram/data=!4m7!3m6!1s0x3a3be553d69b53b9:0x7dd0c9946cfdf79d!8m2!3d18.1170121!4d83.4165498!16s%2Fg%2F11gdyyxndq!19sChIJuVOb1lPlOzoRnff9bJTJ0H0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mahatma-gandhi-cancer-hospital-and-research-institute-visakhapatnam",
@@ -2662,7 +2640,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mahatma+Gandhi+Cancer+Hospital+%26+Research+Institute/data=!4m7!3m6!1s0x3a396ea925555555:0xea2ebbfac2b6ed40!8m2!3d17.743657!4d83.335814!16s%2Fg%2F1tftzzh0!19sChIJVVVVJaluOToRQO22wvq7Luo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahatma+Gandhi+Cancer+Hospital+%26+Research+Institute/data=!4m7!3m6!1s0x3a396ea925555555:0xea2ebbfac2b6ed40!8m2!3d17.743657!4d83.335814!16s%2Fg%2F1tftzzh0!19sChIJVVVVJaluOToRQO22wvq7Luo?authuser=0&hl=en&rclk=1"
@@ -2731,8 +2709,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mahatma+Gandhi+Cancer+Hospital+%26+Research+Institute/data=!4m7!3m6!1s0x3a396ea925555555:0xea2ebbfac2b6ed40!8m2!3d17.743657!4d83.335814!16s%2Fg%2F1tftzzh0!19sChIJVVVVJaluOToRQO22wvq7Luo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medicover-hospitals-best-hospital-in-vizianagaram-vizianagaram",
@@ -2781,7 +2758,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be547be991719:0x21cecca15b6053b2!8m2!3d18.1073339!4d83.4013095!16s%2Fg%2F1tfb9kvx!19sChIJGReZvkflOzoRslNgW6HMziE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be547be991719:0x21cecca15b6053b2!8m2!3d18.1073339!4d83.4013095!16s%2Fg%2F1tfb9kvx!19sChIJGReZvkflOzoRslNgW6HMziE?authuser=0&hl=en&rclk=1"
@@ -2850,8 +2827,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be547be991719:0x21cecca15b6053b2!8m2!3d18.1073339!4d83.4013095!16s%2Fg%2F1tfb9kvx!19sChIJGReZvkflOzoRslNgW6HMziE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "muvva-gopala-hospital-best-in-mother-and-child-care-vizianagaram",
@@ -2900,7 +2876,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Muvva+Gopala+Hospital+Best+in+Mother+and+Child+care/@18.1115002,83.4136948,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54e4cc1f5e3:0xb7928882989c473a!8m2!3d18.1115002!4d83.4136948!16s%2Fg%2F11xnl4ssr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Muvva+Gopala+Hospital+Best+in+Mother+and+Child+care/@18.1115002,83.4136948,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54e4cc1f5e3:0xb7928882989c473a!8m2!3d18.1115002!4d83.4136948!16s%2Fg%2F11xnl4ssr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2966,11 +2942,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Muvva+Gopala+Hospital+Best+in+Mother+and+Child+care/@18.1115002,83.4136948,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54e4cc1f5e3:0xb7928882989c473a!8m2!3d18.1115002!4d83.4136948!16s%2Fg%2F11xnl4ssr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "narayana-dental-clinic-vizianagaram",
@@ -3019,7 +2994,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Narayana+Dental+Clinic/data=!4m7!3m6!1s0x3a3be59ed74b3199:0x1e1de8a3c850414b!8m2!3d18.1067124!4d83.3885716!16s%2Fg%2F11fmd40xg2!19sChIJmTFL157lOzoRS0FQyKPoHR4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narayana+Dental+Clinic/data=!4m7!3m6!1s0x3a3be59ed74b3199:0x1e1de8a3c850414b!8m2!3d18.1067124!4d83.3885716!16s%2Fg%2F11fmd40xg2!19sChIJmTFL157lOzoRS0FQyKPoHR4?authuser=0&hl=en&rclk=1"
@@ -3088,8 +3063,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Narayana+Dental+Clinic/data=!4m7!3m6!1s0x3a3be59ed74b3199:0x1e1de8a3c850414b!8m2!3d18.1067124!4d83.3885716!16s%2Fg%2F11fmd40xg2!19sChIJmTFL157lOzoRS0FQyKPoHR4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oasis-fertility-best-ivf-centre-in-vizianagaram-vizianagaram",
@@ -3139,7 +3113,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be5238211939d:0x3d86059c02f50c26!8m2!3d18.1042964!4d83.4094507!16s%2Fg%2F11nb5n8c5c!19sChIJnZMRgiPlOzoRJgz1ApwFhj0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be5238211939d:0x3d86059c02f50c26!8m2!3d18.1042964!4d83.4094507!16s%2Fg%2F11nb5n8c5c!19sChIJnZMRgiPlOzoRJgz1ApwFhj0?authuser=0&hl=en&rclk=1"
@@ -3205,11 +3179,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be5238211939d:0x3d86059c02f50c26!8m2!3d18.1042964!4d83.4094507!16s%2Fg%2F11nb5n8c5c!19sChIJnZMRgiPlOzoRJgz1ApwFhj0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "partha-dental-clinic-vizianagaram-invisalign-provider-aligners-rct-and-dental-implants-vizianagaram",
@@ -3258,7 +3231,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Vizianagaram+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+RCT+%26+Dental+Implants/data=!4m7!3m6!1s0x3a3be5fbf5853525:0x9316f4c9ea7ebef!8m2!3d18.1116235!4d83.4130829!16s%2Fg%2F11gxm9sqb1!19sChIJJTWF9fvlOzoR7-unnkxvMQk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Vizianagaram+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+RCT+%26+Dental+Implants/data=!4m7!3m6!1s0x3a3be5fbf5853525:0x9316f4c9ea7ebef!8m2!3d18.1116235!4d83.4130829!16s%2Fg%2F11gxm9sqb1!19sChIJJTWF9fvlOzoR7-unnkxvMQk?authuser=0&hl=en&rclk=1"
@@ -3327,8 +3300,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Vizianagaram+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+RCT+%26+Dental+Implants/data=!4m7!3m6!1s0x3a3be5fbf5853525:0x9316f4c9ea7ebef!8m2!3d18.1116235!4d83.4130829!16s%2Fg%2F11gxm9sqb1!19sChIJJTWF9fvlOzoR7-unnkxvMQk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pearl-dental-clinic-and-facial-surgery-centre-vizianagaram",
@@ -3376,7 +3348,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pearl+Dental+Clinic+and+Facial+Surgery+Centre/data=!4m7!3m6!1s0x3a3be59a78b8c2a9:0x6c064ce963f438a2!8m2!3d18.1163734!4d83.4055932!16s%2Fg%2F11y8f_gls8!19sChIJqcK4eJrlOzoRojj0Y-lMBmw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pearl+Dental+Clinic+and+Facial+Surgery+Centre/data=!4m7!3m6!1s0x3a3be59a78b8c2a9:0x6c064ce963f438a2!8m2!3d18.1163734!4d83.4055932!16s%2Fg%2F11y8f_gls8!19sChIJqcK4eJrlOzoRojj0Y-lMBmw?authuser=0&hl=en&rclk=1"
@@ -3445,8 +3417,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pearl+Dental+Clinic+and+Facial+Surgery+Centre/data=!4m7!3m6!1s0x3a3be59a78b8c2a9:0x6c064ce963f438a2!8m2!3d18.1163734!4d83.4055932!16s%2Fg%2F11y8f_gls8!19sChIJqcK4eJrlOzoRojj0Y-lMBmw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pg-star-hospitals-vizianagaram",
@@ -3494,7 +3465,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PG+STAR+HOSPITALS/data=!4m7!3m6!1s0x3a3be5efd99b9695:0xec2f6b7034289399!8m2!3d18.1154402!4d83.4027285!16s%2Fg%2F11j4stbfvn!19sChIJlZab2e_lOzoRmZMoNHBrL-w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PG+STAR+HOSPITALS/data=!4m7!3m6!1s0x3a3be5efd99b9695:0xec2f6b7034289399!8m2!3d18.1154402!4d83.4027285!16s%2Fg%2F11j4stbfvn!19sChIJlZab2e_lOzoRmZMoNHBrL-w?authuser=0&hl=en&rclk=1"
@@ -3563,8 +3534,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PG+STAR+HOSPITALS/data=!4m7!3m6!1s0x3a3be5efd99b9695:0xec2f6b7034289399!8m2!3d18.1154402!4d83.4027285!16s%2Fg%2F11j4stbfvn!19sChIJlZab2e_lOzoRmZMoNHBrL-w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rjr-herbal-hospital-vizianagaram-vizianagaram",
@@ -3613,7 +3583,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+-+VIZIANAGARAM/data=!4m7!3m6!1s0x3a3be5b25f0f76e7:0xba83da4ca0edec35!8m2!3d18.1085931!4d83.401517!16s%2Fg%2F11rtzl6q47!19sChIJ53YPX7LlOzoRNeztoEzag7o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+-+VIZIANAGARAM/data=!4m7!3m6!1s0x3a3be5b25f0f76e7:0xba83da4ca0edec35!8m2!3d18.1085931!4d83.401517!16s%2Fg%2F11rtzl6q47!19sChIJ53YPX7LlOzoRNeztoEzag7o?authuser=0&hl=en&rclk=1"
@@ -3682,8 +3652,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+-+VIZIANAGARAM/data=!4m7!3m6!1s0x3a3be5b25f0f76e7:0xba83da4ca0edec35!8m2!3d18.1085931!4d83.401517!16s%2Fg%2F11rtzl6q47!19sChIJ53YPX7LlOzoRNeztoEzag7o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rk-dental-and-implant-clinic-vizianagaram",
@@ -3731,7 +3700,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rk+Dental+and+implant+clinic/@18.112116,83.412332,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54fb9a5c533:0x63b44bfebb45a5c5!8m2!3d18.112116!4d83.412332!16s%2Fg%2F11f3dgq8_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rk+Dental+and+implant+clinic/@18.112116,83.412332,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54fb9a5c533:0x63b44bfebb45a5c5!8m2!3d18.112116!4d83.412332!16s%2Fg%2F11f3dgq8_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3800,8 +3769,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rk+Dental+and+implant+clinic/@18.112116,83.412332,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54fb9a5c533:0x63b44bfebb45a5c5!8m2!3d18.112116!4d83.412332!16s%2Fg%2F11f3dgq8_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sasi-international-hospital-vizianagaram",
@@ -3850,7 +3818,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sasi+International+Hospital/data=!4m7!3m6!1s0x3a3bf11986097189:0x78a63b92c1c9483a!8m2!3d18.1357308!4d83.4299652!16s%2Fg%2F11wc9vjjz5!19sChIJiXEJhhnxOzoROkjJwZI7png?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sasi+International+Hospital/data=!4m7!3m6!1s0x3a3bf11986097189:0x78a63b92c1c9483a!8m2!3d18.1357308!4d83.4299652!16s%2Fg%2F11wc9vjjz5!19sChIJiXEJhhnxOzoROkjJwZI7png?authuser=0&hl=en&rclk=1"
@@ -3919,8 +3887,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sasi+International+Hospital/data=!4m7!3m6!1s0x3a3bf11986097189:0x78a63b92c1c9483a!8m2!3d18.1357308!4d83.4299652!16s%2Fg%2F11wc9vjjz5!19sChIJiXEJhhnxOzoROkjJwZI7png?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "scanu-labs-advanced-diagnostics-and-home-sample-collection-vizianagaram",
@@ -3970,7 +3937,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ScanU+Labs+-+Advanced+Diagnostics+%26+Home+Sample+Collection/data=!4m7!3m6!1s0x3a3be50042955691:0xefb6d44bb6420222!8m2!3d18.1108724!4d83.4143156!16s%2Fg%2F11y3zk360m!19sChIJkVaVQgDlOzoRIgJCtkvUtu8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ScanU+Labs+-+Advanced+Diagnostics+%26+Home+Sample+Collection/data=!4m7!3m6!1s0x3a3be50042955691:0xefb6d44bb6420222!8m2!3d18.1108724!4d83.4143156!16s%2Fg%2F11y3zk360m!19sChIJkVaVQgDlOzoRIgJCtkvUtu8?authuser=0&hl=en&rclk=1"
@@ -4039,8 +4006,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ScanU+Labs+-+Advanced+Diagnostics+%26+Home+Sample+Collection/data=!4m7!3m6!1s0x3a3be50042955691:0xefb6d44bb6420222!8m2!3d18.1108724!4d83.4143156!16s%2Fg%2F11y3zk360m!19sChIJkVaVQgDlOzoRIgJCtkvUtu8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sree-bala-s-dental-clinic-vizianagaram",
@@ -4088,7 +4054,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SREE+BALA%27S+DENTAL+CLINIC/data=!4m7!3m6!1s0x3a3be580a9991ac9:0x3707504df6db8c54!8m2!3d18.1107698!4d83.3892944!16s%2Fg%2F11mf7rqx8v!19sChIJyRqZqYDlOzoRVIzb9k1QBzc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SREE+BALA%27S+DENTAL+CLINIC/data=!4m7!3m6!1s0x3a3be580a9991ac9:0x3707504df6db8c54!8m2!3d18.1107698!4d83.3892944!16s%2Fg%2F11mf7rqx8v!19sChIJyRqZqYDlOzoRVIzb9k1QBzc?authuser=0&hl=en&rclk=1"
@@ -4154,11 +4120,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SREE+BALA%27S+DENTAL+CLINIC/data=!4m7!3m6!1s0x3a3be580a9991ac9:0x3707504df6db8c54!8m2!3d18.1107698!4d83.3892944!16s%2Fg%2F11mf7rqx8v!19sChIJyRqZqYDlOzoRVIzb9k1QBzc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sree-hospitals-vizianagaram",
@@ -4206,7 +4171,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sree+Hospitals/@18.1112458,83.4153477,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54e65d11849:0x64a94035f0416f2c!8m2!3d18.1112458!4d83.4153477!16s%2Fg%2F11dfkdnpv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Hospitals/@18.1112458,83.4153477,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54e65d11849:0x64a94035f0416f2c!8m2!3d18.1112458!4d83.4153477!16s%2Fg%2F11dfkdnpv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4275,8 +4240,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sree+Hospitals/@18.1112458,83.4153477,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be54e65d11849:0x64a94035f0416f2c!8m2!3d18.1112458!4d83.4153477!16s%2Fg%2F11dfkdnpv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sai-j-k-beauty-clinic-and-training-centre-vizianagaram",
@@ -4325,7 +4289,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Sai+J.K+Beauty+Clinic+%26+Training+Centre/@18.1088587,83.3995903,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be569ddf3d6bf:0xa97be233f4d7f9b7!8m2!3d18.1088587!4d83.3995903!16s%2Fg%2F11gf8f0cr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+J.K+Beauty+Clinic+%26+Training+Centre/@18.1088587,83.3995903,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be569ddf3d6bf:0xa97be233f4d7f9b7!8m2!3d18.1088587!4d83.3995903!16s%2Fg%2F11gf8f0cr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4394,8 +4358,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Sai+J.K+Beauty+Clinic+%26+Training+Centre/@18.1088587,83.3995903,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be569ddf3d6bf:0xa97be233f4d7f9b7!8m2!3d18.1088587!4d83.3995903!16s%2Fg%2F11gf8f0cr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srikanth-kidney-and-laparoscopy-centre-vizianagaram",
@@ -4444,7 +4407,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRIKANTH+KIDNEY+%26+LAPAROSCOPY+CENTRE/data=!4m7!3m6!1s0x3a3be54fba1d60e9:0xe74b1cf95b7e4d0a!8m2!3d18.105784!4d83.3988218!16s%2Fg%2F11vk0hz3jz!19sChIJ6WAduk_lOzoRCk1-W_kcS-c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRIKANTH+KIDNEY+%26+LAPAROSCOPY+CENTRE/data=!4m7!3m6!1s0x3a3be54fba1d60e9:0xe74b1cf95b7e4d0a!8m2!3d18.105784!4d83.3988218!16s%2Fg%2F11vk0hz3jz!19sChIJ6WAduk_lOzoRCk1-W_kcS-c?authuser=0&hl=en&rclk=1"
@@ -4513,8 +4476,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRIKANTH+KIDNEY+%26+LAPAROSCOPY+CENTRE/data=!4m7!3m6!1s0x3a3be54fba1d60e9:0xe74b1cf95b7e4d0a!8m2!3d18.105784!4d83.3988218!16s%2Fg%2F11vk0hz3jz!19sChIJ6WAduk_lOzoRCk1-W_kcS-c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "svn-dental-care-vizianagaram",
@@ -4562,7 +4524,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SVN+DENTAL+CARE/@18.1058242,83.4228639,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3bfbdd869c74f5:0xbea4e5569100ce29!8m2!3d18.1058242!4d83.4228639!16s%2Fg%2F11xp6c38zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SVN+DENTAL+CARE/@18.1058242,83.4228639,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3bfbdd869c74f5:0xbea4e5569100ce29!8m2!3d18.1058242!4d83.4228639!16s%2Fg%2F11xp6c38zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4628,11 +4590,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SVN+DENTAL+CARE/@18.1058242,83.4228639,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3bfbdd869c74f5:0xbea4e5569100ce29!8m2!3d18.1058242!4d83.4228639!16s%2Fg%2F11xp6c38zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swapna-clinic-piles-clinic-vizianagaram",
@@ -4680,7 +4641,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SWAPNA+CLINIC+(PILES+CLINIC)/@18.1156653,83.4148459,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be5e6d9840b67:0x1dfc33e3c81df338!8m2!3d18.1156653!4d83.4148459!16s%2Fg%2F11n6q02khp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SWAPNA+CLINIC+(PILES+CLINIC)/@18.1156653,83.4148459,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be5e6d9840b67:0x1dfc33e3c81df338!8m2!3d18.1156653!4d83.4148459!16s%2Fg%2F11n6q02khp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4746,11 +4707,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SWAPNA+CLINIC+(PILES+CLINIC)/@18.1156653,83.4148459,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3be5e6d9840b67:0x1dfc33e3c81df338!8m2!3d18.1156653!4d83.4148459!16s%2Fg%2F11n6q02khp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "v-dental-care-vizianagaram",
@@ -4799,7 +4759,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/V+Dental+Care/data=!4m7!3m6!1s0x3a3be582a672b1cd:0xe0a75d6da85ca260!8m2!3d18.1080788!4d83.4007741!16s%2Fg%2F11nrvg4hn0!19sChIJzbFypoLlOzoRYKJcqG1dp-A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V+Dental+Care/data=!4m7!3m6!1s0x3a3be582a672b1cd:0xe0a75d6da85ca260!8m2!3d18.1080788!4d83.4007741!16s%2Fg%2F11nrvg4hn0!19sChIJzbFypoLlOzoRYKJcqG1dp-A?authuser=0&hl=en&rclk=1"
@@ -4868,8 +4828,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/V+Dental+Care/data=!4m7!3m6!1s0x3a3be582a672b1cd:0xe0a75d6da85ca260!8m2!3d18.1080788!4d83.4007741!16s%2Fg%2F11nrvg4hn0!19sChIJzbFypoLlOzoRYKJcqG1dp-A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "venkata-rama-hospital-vizianagaram",
@@ -4917,7 +4876,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Venkata+Rama+Hospital/data=!4m7!3m6!1s0x3a3be56a2cee40b5:0x1e5aa51ee2a6549c!8m2!3d18.1066181!4d83.3977354!16s%2Fg%2F1hm1tk5kn!19sChIJtUDuLGrlOzoRnFSm4h6lWh4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venkata+Rama+Hospital/data=!4m7!3m6!1s0x3a3be56a2cee40b5:0x1e5aa51ee2a6549c!8m2!3d18.1066181!4d83.3977354!16s%2Fg%2F1hm1tk5kn!19sChIJtUDuLGrlOzoRnFSm4h6lWh4?authuser=0&hl=en&rclk=1"
@@ -4986,8 +4945,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Venkata+Rama+Hospital/data=!4m7!3m6!1s0x3a3be56a2cee40b5:0x1e5aa51ee2a6549c!8m2!3d18.1066181!4d83.3977354!16s%2Fg%2F1hm1tk5kn!19sChIJtUDuLGrlOzoRnFSm4h6lWh4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "venkatapadma-hospital-advanced-neonatal-and-high-risk-centre-a-g-road-15-1-45-three-lamps-junction",
@@ -5036,7 +4994,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Venkatapadma+Hospital+%E2%80%9CAdvanced+Neonatal+%26+High+Risk+Centre+%E2%80%9C/data=!4m7!3m6!1s0x3a3be55034813c67:0x226144e696b318a2!8m2!3d18.114417!4d83.4134012!16s%2Fg%2F11cn95p08t!19sChIJZzyBNFDlOzoRohizluZEYSI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venkatapadma+Hospital+%E2%80%9CAdvanced+Neonatal+%26+High+Risk+Centre+%E2%80%9C/data=!4m7!3m6!1s0x3a3be55034813c67:0x226144e696b318a2!8m2!3d18.114417!4d83.4134012!16s%2Fg%2F11cn95p08t!19sChIJZzyBNFDlOzoRohizluZEYSI?authuser=0&hl=en&rclk=1"
@@ -5105,8 +5063,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Venkatapadma+Hospital+%E2%80%9CAdvanced+Neonatal+%26+High+Risk+Centre+%E2%80%9C/data=!4m7!3m6!1s0x3a3be55034813c67:0x226144e696b318a2!8m2!3d18.114417!4d83.4134012!16s%2Fg%2F11cn95p08t!19sChIJZzyBNFDlOzoRohizluZEYSI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "venkateswara-nursing-home-vizianagaram",
@@ -5154,7 +5111,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Venkateswara+Nursing+Home/data=!4m7!3m6!1s0x3a3be55e906b78d5:0xf4f9b0bd5b37f262!8m2!3d18.1199116!4d83.4037321!16s%2Fg%2F1hf05m9j5!19sChIJ1XhrkF7lOzoRYvI3W72w-fQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venkateswara+Nursing+Home/data=!4m7!3m6!1s0x3a3be55e906b78d5:0xf4f9b0bd5b37f262!8m2!3d18.1199116!4d83.4037321!16s%2Fg%2F1hf05m9j5!19sChIJ1XhrkF7lOzoRYvI3W72w-fQ?authuser=0&hl=en&rclk=1"
@@ -5223,8 +5180,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Venkateswara+Nursing+Home/data=!4m7!3m6!1s0x3a3be55e906b78d5:0xf4f9b0bd5b37f262!8m2!3d18.1199116!4d83.4037321!16s%2Fg%2F1hf05m9j5!19sChIJ1XhrkF7lOzoRYvI3W72w-fQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vizag-ivf-best-fertility-clinic-in-vizianagaram-vizianagaram",
@@ -5274,7 +5230,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vizag+IVF+-+Best+Fertility+Clinic+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be54e58fdfffb:0x43edb9552d542ac7!8m2!3d18.1037747!4d83.4089268!16s%2Fg%2F11f33gzrf_!19sChIJ-__9WE7lOzoRxypULVW57UM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vizag+IVF+-+Best+Fertility+Clinic+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be54e58fdfffb:0x43edb9552d542ac7!8m2!3d18.1037747!4d83.4089268!16s%2Fg%2F11f33gzrf_!19sChIJ-__9WE7lOzoRxypULVW57UM?authuser=0&hl=en&rclk=1"
@@ -5343,7 +5299,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vizag+IVF+-+Best+Fertility+Clinic+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be54e58fdfffb:0x43edb9552d542ac7!8m2!3d18.1037747!4d83.4089268!16s%2Fg%2F11f33gzrf_!19sChIJ-__9WE7lOzoRxypULVW57UM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

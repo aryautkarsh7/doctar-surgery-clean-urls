@@ -48,7 +48,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AKANCHA+Ortho-Neuro+Physiotherapy+Clinic,+%26+C.P+Centre/data=!4m7!3m6!1s0x399fbd2a0290cb5f:0x3ac540fc8373aeaf!8m2!3d27.8699081!4d79.9346683!16s%2Fg%2F11gc9h1b31!19sChIJX8uQAiq9nzkRr65zg_xAxTo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AKANCHA+Ortho-Neuro+Physiotherapy+Clinic,+%26+C.P+Centre/data=!4m7!3m6!1s0x399fbd2a0290cb5f:0x3ac540fc8373aeaf!8m2!3d27.8699081!4d79.9346683!16s%2Fg%2F11gc9h1b31!19sChIJX8uQAiq9nzkRr65zg_xAxTo?authuser=0&hl=en&rclk=1"
@@ -114,11 +114,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AKANCHA+Ortho-Neuro+Physiotherapy+Clinic,+%26+C.P+Centre/data=!4m7!3m6!1s0x399fbd2a0290cb5f:0x3ac540fc8373aeaf!8m2!3d27.8699081!4d79.9346683!16s%2Fg%2F11gc9h1b31!19sChIJX8uQAiq9nzkRr65zg_xAxTo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anand-dental-clinic-shahjahanpur-shahjahanpur",
@@ -166,7 +165,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anand+Dental+Clinic,+shahjahanpur/data=!4m7!3m6!1s0x399fbcd210263d35:0x4eff1be52342c6f3!8m2!3d27.8709774!4d79.9145105!16s%2Fg%2F11bxf4whtm!19sChIJNT0mENK8nzkR88ZCI-Ub_04?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Dental+Clinic,+shahjahanpur/data=!4m7!3m6!1s0x399fbcd210263d35:0x4eff1be52342c6f3!8m2!3d27.8709774!4d79.9145105!16s%2Fg%2F11bxf4whtm!19sChIJNT0mENK8nzkR88ZCI-Ub_04?authuser=0&hl=en&rclk=1"
@@ -235,8 +234,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anand+Dental+Clinic,+shahjahanpur/data=!4m7!3m6!1s0x399fbcd210263d35:0x4eff1be52342c6f3!8m2!3d27.8709774!4d79.9145105!16s%2Fg%2F11bxf4whtm!19sChIJNT0mENK8nzkR88ZCI-Ub_04?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anoop-hospital-shahjahanpur",
@@ -284,7 +282,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anoop+Hospital/data=!4m7!3m6!1s0x399fbd29be246a6d:0x6419ccc6e44d467b!8m2!3d27.8913496!4d79.9127731!16s%2Fg%2F11dxk_jbkq!19sChIJbWokvim9nzkRe0ZN5MbMGWQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anoop+Hospital/data=!4m7!3m6!1s0x399fbd29be246a6d:0x6419ccc6e44d467b!8m2!3d27.8913496!4d79.9127731!16s%2Fg%2F11dxk_jbkq!19sChIJbWokvim9nzkRe0ZN5MbMGWQ?authuser=0&hl=en&rclk=1"
@@ -353,8 +351,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anoop+Hospital/data=!4m7!3m6!1s0x399fbd29be246a6d:0x6419ccc6e44d467b!8m2!3d27.8913496!4d79.9127731!16s%2Fg%2F11dxk_jbkq!19sChIJbWokvim9nzkRe0ZN5MbMGWQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arnav-surgicare-hospital-shahjahanpur",
@@ -402,7 +399,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arnav+Surgicare+Hospital/data=!4m7!3m6!1s0x399fbd53b01bff51:0x205715a644189a84!8m2!3d27.8793231!4d79.9103581!16s%2Fg%2F11hdz06g3m!19sChIJUf8bsFO9nzkRhJoYRKYVVyA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arnav+Surgicare+Hospital/data=!4m7!3m6!1s0x399fbd53b01bff51:0x205715a644189a84!8m2!3d27.8793231!4d79.9103581!16s%2Fg%2F11hdz06g3m!19sChIJUf8bsFO9nzkRhJoYRKYVVyA?authuser=0&hl=en&rclk=1"
@@ -471,8 +468,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arnav+Surgicare+Hospital/data=!4m7!3m6!1s0x399fbd53b01bff51:0x205715a644189a84!8m2!3d27.8793231!4d79.9103581!16s%2Fg%2F11hdz06g3m!19sChIJUf8bsFO9nzkRhJoYRKYVVyA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "brijdeep-hospital-shahjahanpur",
@@ -520,7 +516,7 @@
     "metrics": [
       "Google rating 1.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Brijdeep+Hospital/data=!4m7!3m6!1s0x399fbcd02583f4d9:0xdd2195a106ea5739!8m2!3d27.8708547!4d79.9101908!16s%2Fg%2F11ck485lcd!19sChIJ2fSDJdC8nzkROVfqBqGVId0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brijdeep+Hospital/data=!4m7!3m6!1s0x399fbcd02583f4d9:0xdd2195a106ea5739!8m2!3d27.8708547!4d79.9101908!16s%2Fg%2F11ck485lcd!19sChIJ2fSDJdC8nzkROVfqBqGVId0?authuser=0&hl=en&rclk=1"
@@ -589,8 +585,7 @@
     "rating": 1.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Brijdeep+Hospital/data=!4m7!3m6!1s0x399fbcd02583f4d9:0xdd2195a106ea5739!8m2!3d27.8708547!4d79.9101908!16s%2Fg%2F11ck485lcd!19sChIJ2fSDJdC8nzkROVfqBqGVId0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dialysis-centre-shahjahanpur-shahjahanpur",
@@ -639,7 +634,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dialysis+centre+Shahjahanpur/data=!4m7!3m6!1s0x399fbdefef6bf0d9:0xf110c7697e979845!8m2!3d27.8746679!4d79.9175805!16s%2Fg%2F11f7d0gt0_!19sChIJ2fBr7--9nzkRRZiXfmnHEPE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dialysis+centre+Shahjahanpur/data=!4m7!3m6!1s0x399fbdefef6bf0d9:0xf110c7697e979845!8m2!3d27.8746679!4d79.9175805!16s%2Fg%2F11f7d0gt0_!19sChIJ2fBr7--9nzkRRZiXfmnHEPE?authuser=0&hl=en&rclk=1"
@@ -708,8 +703,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dialysis+centre+Shahjahanpur/data=!4m7!3m6!1s0x399fbdefef6bf0d9:0xf110c7697e979845!8m2!3d27.8746679!4d79.9175805!16s%2Fg%2F11f7d0gt0_!19sChIJ2fBr7--9nzkRRZiXfmnHEPE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ganga-devi-eye-and-ortho-hospital-shahjahanpur",
@@ -758,7 +752,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ganga+Devi+Eye+And+Ortho+Hospital/data=!4m7!3m6!1s0x399fbd2a95469241:0xf9c7e2a7d4dcc942!8m2!3d27.883849!4d79.9178009!16s%2Fg%2F11gd39kn4k!19sChIJQZJGlSq9nzkRQsnc1Kfix_k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganga+Devi+Eye+And+Ortho+Hospital/data=!4m7!3m6!1s0x399fbd2a95469241:0xf9c7e2a7d4dcc942!8m2!3d27.883849!4d79.9178009!16s%2Fg%2F11gd39kn4k!19sChIJQZJGlSq9nzkRQsnc1Kfix_k?authuser=0&hl=en&rclk=1"
@@ -827,8 +821,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ganga+Devi+Eye+And+Ortho+Hospital/data=!4m7!3m6!1s0x399fbd2a95469241:0xf9c7e2a7d4dcc942!8m2!3d27.883849!4d79.9178009!16s%2Fg%2F11gd39kn4k!19sChIJQZJGlSq9nzkRQsnc1Kfix_k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gastro-clinic-27-shahjahanpur",
@@ -878,7 +871,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gastro+Clinic+27/data=!4m7!3m6!1s0x399fbd00469d5d93:0x7328548d98571dfe!8m2!3d27.868404!4d79.9069443!16s%2Fg%2F11yff17h55!19sChIJk12dRgC9nzkR_h1XmI1UKHM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gastro+Clinic+27/data=!4m7!3m6!1s0x399fbd00469d5d93:0x7328548d98571dfe!8m2!3d27.868404!4d79.9069443!16s%2Fg%2F11yff17h55!19sChIJk12dRgC9nzkR_h1XmI1UKHM?authuser=0&hl=en&rclk=1"
@@ -944,11 +937,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gastro+Clinic+27/data=!4m7!3m6!1s0x399fbd00469d5d93:0x7328548d98571dfe!8m2!3d27.868404!4d79.9069443!16s%2Fg%2F11yff17h55!19sChIJk12dRgC9nzkR_h1XmI1UKHM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gautam-hospital-and-trauma-center-shahjahanpur",
@@ -997,7 +989,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GAUTAM+Hospital+and+trauma+center/data=!4m7!3m6!1s0x399fbd310a6be8a9:0x61b67470d679d667!8m2!3d27.8558359!4d79.8930008!16s%2Fg%2F11j8vbwjlm!19sChIJqehrCjG9nzkRZ9Z51nB0tmE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GAUTAM+Hospital+and+trauma+center/data=!4m7!3m6!1s0x399fbd310a6be8a9:0x61b67470d679d667!8m2!3d27.8558359!4d79.8930008!16s%2Fg%2F11j8vbwjlm!19sChIJqehrCjG9nzkRZ9Z51nB0tmE?authuser=0&hl=en&rclk=1"
@@ -1066,8 +1058,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GAUTAM+Hospital+and+trauma+center/data=!4m7!3m6!1s0x399fbd310a6be8a9:0x61b67470d679d667!8m2!3d27.8558359!4d79.8930008!16s%2Fg%2F11j8vbwjlm!19sChIJqehrCjG9nzkRZ9Z51nB0tmE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gurunanak-hospital-and-laparoscopy-centre-shahjahanpur",
@@ -1116,7 +1107,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gurunanak+Hospital+and+Laparoscopy+Centre/data=!4m7!3m6!1s0x399fbcdaacb7428b:0xc21535102f50b035!8m2!3d27.8700227!4d79.9077735!16s%2Fg%2F1td70dry!19sChIJi0K3rNq8nzkRNbBQLxA1FcI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurunanak+Hospital+and+Laparoscopy+Centre/data=!4m7!3m6!1s0x399fbcdaacb7428b:0xc21535102f50b035!8m2!3d27.8700227!4d79.9077735!16s%2Fg%2F1td70dry!19sChIJi0K3rNq8nzkRNbBQLxA1FcI?authuser=0&hl=en&rclk=1"
@@ -1185,8 +1176,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gurunanak+Hospital+and+Laparoscopy+Centre/data=!4m7!3m6!1s0x399fbcdaacb7428b:0xc21535102f50b035!8m2!3d27.8700227!4d79.9077735!16s%2Fg%2F1td70dry!19sChIJi0K3rNq8nzkRNbBQLxA1FcI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kamla-hospital-shahjahanpur-shahjahanpur",
@@ -1234,7 +1224,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kamla+Hospital+Shahjahanpur/data=!4m7!3m6!1s0x399fbccc327bbc4f:0x97bdc25cc9cf872b!8m2!3d27.8674886!4d79.9144213!16s%2Fg%2F11g7zsp8x0!19sChIJT7x7Msy8nzkRK4fPyVzCvZc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamla+Hospital+Shahjahanpur/data=!4m7!3m6!1s0x399fbccc327bbc4f:0x97bdc25cc9cf872b!8m2!3d27.8674886!4d79.9144213!16s%2Fg%2F11g7zsp8x0!19sChIJT7x7Msy8nzkRK4fPyVzCvZc?authuser=0&hl=en&rclk=1"
@@ -1303,8 +1293,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kamla+Hospital+Shahjahanpur/data=!4m7!3m6!1s0x399fbccc327bbc4f:0x97bdc25cc9cf872b!8m2!3d27.8674886!4d79.9144213!16s%2Fg%2F11g7zsp8x0!19sChIJT7x7Msy8nzkRK4fPyVzCvZc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kapoor-hospital-child-care-and-maternity-centre-hospital-in-shahjahanpur-shahjahanpur",
@@ -1353,7 +1342,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kapoor+Hospital+%28Child+Care+%26+Maternity+Centre%29+-+Hospital+in+Shahjahanpur/data=!4m7!3m6!1s0x399fbcd219ba24eb:0xa033970bae15058a!8m2!3d27.8718426!4d79.9142497!16s%2Fg%2F1hjhdnsmm!19sChIJ6yS6GdK8nzkRigUVrguXM6A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kapoor+Hospital+%28Child+Care+%26+Maternity+Centre%29+-+Hospital+in+Shahjahanpur/data=!4m7!3m6!1s0x399fbcd219ba24eb:0xa033970bae15058a!8m2!3d27.8718426!4d79.9142497!16s%2Fg%2F1hjhdnsmm!19sChIJ6yS6GdK8nzkRigUVrguXM6A?authuser=0&hl=en&rclk=1"
@@ -1422,8 +1411,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kapoor+Hospital+%28Child+Care+%26+Maternity+Centre%29+-+Hospital+in+Shahjahanpur/data=!4m7!3m6!1s0x399fbcd219ba24eb:0xa033970bae15058a!8m2!3d27.8718426!4d79.9142497!16s%2Fg%2F1hjhdnsmm!19sChIJ6yS6GdK8nzkRigUVrguXM6A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-hospital-and-eye-centre-shahjahanpur",
@@ -1472,7 +1460,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Hospital+and+Eye+Centre/data=!4m7!3m6!1s0x399fbd133b08e97b:0x5dfe6b852b023ccb!8m2!3d27.8575851!4d79.8956634!16s%2Fg%2F11wfs1w976!19sChIJe-kIOxO9nzkRyzwCK4Vr_l0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital+and+Eye+Centre/data=!4m7!3m6!1s0x399fbd133b08e97b:0x5dfe6b852b023ccb!8m2!3d27.8575851!4d79.8956634!16s%2Fg%2F11wfs1w976!19sChIJe-kIOxO9nzkRyzwCK4Vr_l0?authuser=0&hl=en&rclk=1"
@@ -1541,8 +1529,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Hospital+and+Eye+Centre/data=!4m7!3m6!1s0x399fbd133b08e97b:0x5dfe6b852b023ccb!8m2!3d27.8575851!4d79.8956634!16s%2Fg%2F11wfs1w976!19sChIJe-kIOxO9nzkRyzwCK4Vr_l0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-nursing-home-shahjahanpur",
@@ -1592,7 +1579,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Nursing+Home/data=!4m7!3m6!1s0x399fbcd0e0220fd1:0x32776de77a62a185!8m2!3d27.8746649!4d79.9108836!16s%2Fg%2F1wt3ltg9!19sChIJ0Q8i4NC8nzkRhaFieudtdzI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Nursing+Home/data=!4m7!3m6!1s0x399fbcd0e0220fd1:0x32776de77a62a185!8m2!3d27.8746649!4d79.9108836!16s%2Fg%2F1wt3ltg9!19sChIJ0Q8i4NC8nzkRhaFieudtdzI?authuser=0&hl=en&rclk=1"
@@ -1661,8 +1648,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Nursing+Home/data=!4m7!3m6!1s0x399fbcd0e0220fd1:0x32776de77a62a185!8m2!3d27.8746649!4d79.9108836!16s%2Fg%2F1wt3ltg9!19sChIJ0Q8i4NC8nzkRhaFieudtdzI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nav-jyoti-hospital-shahjahanpur",
@@ -1710,7 +1696,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nav+Jyoti+Hospital/data=!4m7!3m6!1s0x399fbd37fdec5cf9:0x3a662b8b60b85c54!8m2!3d27.9049182!4d79.9085386!16s%2Fg%2F11c70hkcm2!19sChIJ-Vzs_Te9nzkRVFy4YIsrZjo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nav+Jyoti+Hospital/data=!4m7!3m6!1s0x399fbd37fdec5cf9:0x3a662b8b60b85c54!8m2!3d27.9049182!4d79.9085386!16s%2Fg%2F11c70hkcm2!19sChIJ-Vzs_Te9nzkRVFy4YIsrZjo?authuser=0&hl=en&rclk=1"
@@ -1779,8 +1765,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nav+Jyoti+Hospital/data=!4m7!3m6!1s0x399fbd37fdec5cf9:0x3a662b8b60b85c54!8m2!3d27.9049182!4d79.9085386!16s%2Fg%2F11c70hkcm2!19sChIJ-Vzs_Te9nzkRVFy4YIsrZjo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nipun-hospital-shahjahanpur",
@@ -1828,7 +1813,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nipun+Hospital/data=!4m7!3m6!1s0x399fbcd64b8b944f:0xb0e5ceef007fdbab!8m2!3d27.8788355!4d79.9110884!16s%2Fg%2F1vc806sd!19sChIJT5SLS9a8nzkRq9t_AO_O5bA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nipun+Hospital/data=!4m7!3m6!1s0x399fbcd64b8b944f:0xb0e5ceef007fdbab!8m2!3d27.8788355!4d79.9110884!16s%2Fg%2F1vc806sd!19sChIJT5SLS9a8nzkRq9t_AO_O5bA?authuser=0&hl=en&rclk=1"
@@ -1897,8 +1882,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nipun+Hospital/data=!4m7!3m6!1s0x399fbcd64b8b944f:0xb0e5ceef007fdbab!8m2!3d27.8788355!4d79.9110884!16s%2Fg%2F1vc806sd!19sChIJT5SLS9a8nzkRq9t_AO_O5bA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sahara-polyclinic-and-ortho-care-centre-shahjahanpur",
@@ -1947,7 +1931,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAHARA+POLYCLINIC+and+Ortho+care+centre/data=!4m7!3m6!1s0x399fbd3a339d431b:0x22ee7953f98bc6f3!8m2!3d27.8764774!4d79.9149811!16s%2Fg%2F11tf83vm45!19sChIJG0OdMzq9nzkR88aL-VN57iI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAHARA+POLYCLINIC+and+Ortho+care+centre/data=!4m7!3m6!1s0x399fbd3a339d431b:0x22ee7953f98bc6f3!8m2!3d27.8764774!4d79.9149811!16s%2Fg%2F11tf83vm45!19sChIJG0OdMzq9nzkR88aL-VN57iI?authuser=0&hl=en&rclk=1"
@@ -2013,11 +1997,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAHARA+POLYCLINIC+and+Ortho+care+centre/data=!4m7!3m6!1s0x399fbd3a339d431b:0x22ee7953f98bc6f3!8m2!3d27.8764774!4d79.9149811!16s%2Fg%2F11tf83vm45!19sChIJG0OdMzq9nzkR88aL-VN57iI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjivani-hospital-shahjahanpur",
@@ -2065,7 +2048,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjivani+Hospital/data=!4m7!3m6!1s0x399fbcd103d0a319:0x92a21d76edc44995!8m2!3d27.8735159!4d79.9106456!16s%2Fg%2F11fx8hwj91!19sChIJGaPQA9G8nzkRlUnE7XYdopI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjivani+Hospital/data=!4m7!3m6!1s0x399fbcd103d0a319:0x92a21d76edc44995!8m2!3d27.8735159!4d79.9106456!16s%2Fg%2F11fx8hwj91!19sChIJGaPQA9G8nzkRlUnE7XYdopI?authuser=0&hl=en&rclk=1"
@@ -2134,8 +2117,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjivani+Hospital/data=!4m7!3m6!1s0x399fbcd103d0a319:0x92a21d76edc44995!8m2!3d27.8735159!4d79.9106456!16s%2Fg%2F11fx8hwj91!19sChIJGaPQA9G8nzkRlUnE7XYdopI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shaafi-hospital-shahjahanpur",
@@ -2183,7 +2165,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHAAFI+HOSPITAL/data=!4m7!3m6!1s0x399fa3ac461560cb:0xa7f8599490669979!8m2!3d27.8821241!4d79.9428464!16s%2Fg%2F11qf_xhr39!19sChIJy2AVRqyjnzkReZlmkJRZ-Kc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHAAFI+HOSPITAL/data=!4m7!3m6!1s0x399fa3ac461560cb:0xa7f8599490669979!8m2!3d27.8821241!4d79.9428464!16s%2Fg%2F11qf_xhr39!19sChIJy2AVRqyjnzkReZlmkJRZ-Kc?authuser=0&hl=en&rclk=1"
@@ -2252,8 +2234,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHAAFI+HOSPITAL/data=!4m7!3m6!1s0x399fa3ac461560cb:0xa7f8599490669979!8m2!3d27.8821241!4d79.9428464!16s%2Fg%2F11qf_xhr39!19sChIJy2AVRqyjnzkReZlmkJRZ-Kc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sood-eye-and-skin-clinic-shahjahanpur",
@@ -2301,7 +2282,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sood+Eye+and+Skin+Clinic/data=!4m7!3m6!1s0x399fbccdd2f320dd:0xcf36b9c374320133!8m2!3d27.8677977!4d79.9143916!16s%2Fg%2F11c2r9z7p2!19sChIJ3SDz0s28nzkRMwEydMO5Ns8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sood+Eye+and+Skin+Clinic/data=!4m7!3m6!1s0x399fbccdd2f320dd:0xcf36b9c374320133!8m2!3d27.8677977!4d79.9143916!16s%2Fg%2F11c2r9z7p2!19sChIJ3SDz0s28nzkRMwEydMO5Ns8?authuser=0&hl=en&rclk=1"
@@ -2370,8 +2351,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sood+Eye+and+Skin+Clinic/data=!4m7!3m6!1s0x399fbccdd2f320dd:0xcf36b9c374320133!8m2!3d27.8677977!4d79.9143916!16s%2Fg%2F11c2r9z7p2!19sChIJ3SDz0s28nzkRMwEydMO5Ns8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunrise-ivf-and-test-tube-baby-centre-best-ivf-centre-in-shahjahanpur-shahjahanpur",
@@ -2421,7 +2401,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sunrise+IVF+%26+Test+Tube+Baby+Centre+%E2%80%93+Best+IVF+Centre+in+Shahjahanpur/data=!4m7!3m6!1s0x399fbd2401f27201:0xf1b6c688d9b5caf1!8m2!3d27.8647506!4d79.8980115!16s%2Fg%2F11mrsbhl5m!19sChIJAXLyASS9nzkR8cq12YjGtvE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunrise+IVF+%26+Test+Tube+Baby+Centre+%E2%80%93+Best+IVF+Centre+in+Shahjahanpur/data=!4m7!3m6!1s0x399fbd2401f27201:0xf1b6c688d9b5caf1!8m2!3d27.8647506!4d79.8980115!16s%2Fg%2F11mrsbhl5m!19sChIJAXLyASS9nzkR8cq12YjGtvE?authuser=0&hl=en&rclk=1"
@@ -2490,8 +2470,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sunrise+IVF+%26+Test+Tube+Baby+Centre+%E2%80%93+Best+IVF+Centre+in+Shahjahanpur/data=!4m7!3m6!1s0x399fbd2401f27201:0xf1b6c688d9b5caf1!8m2!3d27.8647506!4d79.8980115!16s%2Fg%2F11mrsbhl5m!19sChIJAXLyASS9nzkR8cq12YjGtvE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surgident-oral-and-maxillofacial-dental-clinic-and-implant-centre-kolkata",
@@ -2541,7 +2520,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/data=!4m7!3m6!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx!19sChIJvcEw86RxAjoRY1TgRcm8s0A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/data=!4m7!3m6!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx!19sChIJvcEw86RxAjoRY1TgRcm8s0A?authuser=0&hl=en&rclk=1"
@@ -2610,8 +2589,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/data=!4m7!3m6!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx!19sChIJvcEw86RxAjoRY1TgRcm8s0A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "waseem-laparoscopy-and-maternity-centre-shahjahanpur",
@@ -2661,7 +2639,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Waseem+Laparoscopy+and+maternity+centre/data=!4m7!3m6!1s0x399fbcd30fd7691b:0x9d5b36cbe64f2f96!8m2!3d27.8740278!4d79.9183607!16s%2Fg%2F1tjrncxf!19sChIJG2nXD9O8nzkRli9P5ss2W50?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Waseem+Laparoscopy+and+maternity+centre/data=!4m7!3m6!1s0x399fbcd30fd7691b:0x9d5b36cbe64f2f96!8m2!3d27.8740278!4d79.9183607!16s%2Fg%2F1tjrncxf!19sChIJG2nXD9O8nzkRli9P5ss2W50?authuser=0&hl=en&rclk=1"
@@ -2730,8 +2708,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Waseem+Laparoscopy+and+maternity+centre/data=!4m7!3m6!1s0x399fbcd30fd7691b:0x9d5b36cbe64f2f96!8m2!3d27.8740278!4d79.9183607!16s%2Fg%2F1tjrncxf!19sChIJG2nXD9O8nzkRli9P5ss2W50?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "and-best-hospital-in-shahjahanpur-gyneclogist-in-shahjahanpur-shahjahanpur",
@@ -2780,7 +2757,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%94%F0%9D%98%86%F0%9D%98%82%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BB+%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%BD%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%26+%F0%9D%97%A0%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%BB%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2+-+Best+Hospital+in+Shahjahanpur+%7C+Gyneclogist+in+Shahjahanpur/data=!4m7!3m6!1s0x399fbcd3a417e8d5:0x8b3a3eb69b968949!8m2!3d27.8746471!4d79.9161394!16s%2Fg%2F1hhj_9xr0!19sChIJ1egXpNO8nzkRSYmWm7Y-Oos?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%94%F0%9D%98%86%F0%9D%98%82%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BB+%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%BD%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%26+%F0%9D%97%A0%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%BB%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2+-+Best+Hospital+in+Shahjahanpur+%7C+Gyneclogist+in+Shahjahanpur/data=!4m7!3m6!1s0x399fbcd3a417e8d5:0x8b3a3eb69b968949!8m2!3d27.8746471!4d79.9161394!16s%2Fg%2F1hhj_9xr0!19sChIJ1egXpNO8nzkRSYmWm7Y-Oos?authuser=0&hl=en&rclk=1"
@@ -2849,7 +2826,6 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%94%F0%9D%98%86%F0%9D%98%82%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BB+%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%BD%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%26+%F0%9D%97%A0%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%BB%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2+-+Best+Hospital+in+Shahjahanpur+%7C+Gyneclogist+in+Shahjahanpur/data=!4m7!3m6!1s0x399fbcd3a417e8d5:0x8b3a3eb69b968949!8m2!3d27.8746471!4d79.9161394!16s%2Fg%2F1hhj_9xr0!19sChIJ1egXpNO8nzkRSYmWm7Y-Oos?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

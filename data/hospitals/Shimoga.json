@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ADR+24x7+Health+Care+Center/data=!4m7!3m6!1s0x3bbba9d7a4cbeb09:0x74e5abacf41b5d35!8m2!3d13.9429!4d75.5763711!16s%2Fg%2F11mvsks81k!19sChIJCevLpNepuzsRNV0b9Kyr5XQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADR+24x7+Health+Care+Center/data=!4m7!3m6!1s0x3bbba9d7a4cbeb09:0x74e5abacf41b5d35!8m2!3d13.9429!4d75.5763711!16s%2Fg%2F11mvsks81k!19sChIJCevLpNepuzsRNV0b9Kyr5XQ?authuser=0&hl=en&rclk=1"
@@ -114,8 +114,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ADR+24x7+Health+Care+Center/data=!4m7!3m6!1s0x3bbba9d7a4cbeb09:0x74e5abacf41b5d35!8m2!3d13.9429!4d75.5763711!16s%2Fg%2F11mvsks81k!19sChIJCevLpNepuzsRNV0b9Kyr5XQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akash-polyclinic-shivamogga",
@@ -163,7 +162,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akash+polyclinic/data=!4m7!3m6!1s0x3bbba93cd7ea4cf5:0xd6c01c48eae5862f!8m2!3d13.9315482!4d75.5457425!16s%2Fg%2F11tr_72fx9!19sChIJ9Uzq1zypuzsRL4bl6kgcwNY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akash+polyclinic/data=!4m7!3m6!1s0x3bbba93cd7ea4cf5:0xd6c01c48eae5862f!8m2!3d13.9315482!4d75.5457425!16s%2Fg%2F11tr_72fx9!19sChIJ9Uzq1zypuzsRL4bl6kgcwNY?authuser=0&hl=en&rclk=1"
@@ -229,11 +228,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akash+polyclinic/data=!4m7!3m6!1s0x3bbba93cd7ea4cf5:0xd6c01c48eae5862f!8m2!3d13.9315482!4d75.5457425!16s%2Fg%2F11tr_72fx9!19sChIJ9Uzq1zypuzsRL4bl6kgcwNY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amrutha-life-line-shivamogga",
@@ -282,7 +280,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AMRUTHA+LIFE+LINE/data=!4m7!3m6!1s0x3bbba900326a4427:0x1961000695011d62!8m2!3d13.9410439!4d75.5760499!16s%2Fg%2F11vjy4jysj!19sChIJJ0RqMgCpuzsRYh0BlQYAYRk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMRUTHA+LIFE+LINE/data=!4m7!3m6!1s0x3bbba900326a4427:0x1961000695011d62!8m2!3d13.9410439!4d75.5760499!16s%2Fg%2F11vjy4jysj!19sChIJJ0RqMgCpuzsRYh0BlQYAYRk?authuser=0&hl=en&rclk=1"
@@ -351,8 +349,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AMRUTHA+LIFE+LINE/data=!4m7!3m6!1s0x3bbba900326a4427:0x1961000695011d62!8m2!3d13.9410439!4d75.5760499!16s%2Fg%2F11vjy4jysj!19sChIJJ0RqMgCpuzsRYh0BlQYAYRk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anushree-diabetic-care-centre-shivamogga",
@@ -400,7 +397,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anushree+Diabetic+Care+Centre/data=!4m7!3m6!1s0x3bbba929fa452c63:0xef3e909a49d7ba70!8m2!3d13.9376864!4d75.5748476!16s%2Fg%2F11fy4k6tzd!19sChIJYyxF-impuzsRcLrXSZqQPu8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anushree+Diabetic+Care+Centre/data=!4m7!3m6!1s0x3bbba929fa452c63:0xef3e909a49d7ba70!8m2!3d13.9376864!4d75.5748476!16s%2Fg%2F11fy4k6tzd!19sChIJYyxF-impuzsRcLrXSZqQPu8?authuser=0&hl=en&rclk=1"
@@ -469,8 +466,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anushree+Diabetic+Care+Centre/data=!4m7!3m6!1s0x3bbba929fa452c63:0xef3e909a49d7ba70!8m2!3d13.9376864!4d75.5748476!16s%2Fg%2F11fy4k6tzd!19sChIJYyxF-impuzsRcLrXSZqQPu8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-dialysis-clinic-shivamogga-shivamogga",
@@ -520,7 +516,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Shivamogga/data=!4m7!3m6!1s0x3bbba98833aed609:0xcf932b2ac37a759a!8m2!3d13.9336486!4d75.5760658!16s%2Fg%2F11s7tbxh6v!19sChIJCdauM4ipuzsRmnV6wyork88?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Shivamogga/data=!4m7!3m6!1s0x3bbba98833aed609:0xcf932b2ac37a759a!8m2!3d13.9336486!4d75.5760658!16s%2Fg%2F11s7tbxh6v!19sChIJCdauM4ipuzsRmnV6wyork88?authuser=0&hl=en&rclk=1"
@@ -586,11 +582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Shivamogga/data=!4m7!3m6!1s0x3bbba98833aed609:0xcf932b2ac37a759a!8m2!3d13.9336486!4d75.5760658!16s%2Fg%2F11s7tbxh6v!19sChIJCdauM4ipuzsRmnV6wyork88?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ardent-dental-care-shivamogga",
@@ -639,7 +634,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ardent+Dental+Care/data=!4m7!3m6!1s0x3bbbaf415a59c7ab:0x84f51c60bfdf08e0!8m2!3d13.9504354!4d75.5571972!16s%2Fg%2F11ptlnzztc!19sChIJq8dZWkGvuzsR4Ajfv2Ac9YQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ardent+Dental+Care/data=!4m7!3m6!1s0x3bbbaf415a59c7ab:0x84f51c60bfdf08e0!8m2!3d13.9504354!4d75.5571972!16s%2Fg%2F11ptlnzztc!19sChIJq8dZWkGvuzsR4Ajfv2Ac9YQ?authuser=0&hl=en&rclk=1"
@@ -705,11 +700,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ardent+Dental+Care/data=!4m7!3m6!1s0x3bbbaf415a59c7ab:0x84f51c60bfdf08e0!8m2!3d13.9504354!4d75.5571972!16s%2Fg%2F11ptlnzztc!19sChIJq8dZWkGvuzsR4Ajfv2Ac9YQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirvada-dental-care-and-implant-center-shivamogga",
@@ -757,7 +751,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ASHIRVADA+DENTAL+CARE+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3bbba936db2485f7:0x51ddb3b164da53e6!8m2!3d13.9438427!4d75.5660609!16s%2Fg%2F11h2d7q66r!19sChIJ94Uk2zapuzsR5lPaZLGz3VE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASHIRVADA+DENTAL+CARE+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3bbba936db2485f7:0x51ddb3b164da53e6!8m2!3d13.9438427!4d75.5660609!16s%2Fg%2F11h2d7q66r!19sChIJ94Uk2zapuzsR5lPaZLGz3VE?authuser=0&hl=en&rclk=1"
@@ -823,11 +817,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ASHIRVADA+DENTAL+CARE+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3bbba936db2485f7:0x51ddb3b164da53e6!8m2!3d13.9438427!4d75.5660609!16s%2Fg%2F11h2d7q66r!19sChIJ94Uk2zapuzsR5lPaZLGz3VE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirvada-dental-care-and-implant-centre-shivamogga",
@@ -873,7 +866,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ASHIRVADA+DENTAL+CARE+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3bbba912227aaa95:0x61b4c6e68a7af751!8m2!3d13.9353099!4d75.5704966!16s%2Fg%2F11sm6_bd8j!19sChIJlap6IhKpuzsRUfd6iubGtGE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASHIRVADA+DENTAL+CARE+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3bbba912227aaa95:0x61b4c6e68a7af751!8m2!3d13.9353099!4d75.5704966!16s%2Fg%2F11sm6_bd8j!19sChIJlap6IhKpuzsRUfd6iubGtGE?authuser=0&hl=en&rclk=1"
@@ -939,11 +932,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ASHIRVADA+DENTAL+CARE+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3bbba912227aaa95:0x61b4c6e68a7af751!8m2!3d13.9353099!4d75.5704966!16s%2Fg%2F11sm6_bd8j!19sChIJlap6IhKpuzsRUfd6iubGtGE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashish-dental-clinic-shivamogga",
@@ -992,7 +984,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ashish+dental+clinic/data=!4m7!3m6!1s0x3bbba925865fa033:0x99cb1b138c4e2019!8m2!3d13.9327167!4d75.5824354!16s%2Fg%2F11sjhfvw28!19sChIJM6BfhiWpuzsRGSBOjBMby5k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ashish+dental+clinic/data=!4m7!3m6!1s0x3bbba925865fa033:0x99cb1b138c4e2019!8m2!3d13.9327167!4d75.5824354!16s%2Fg%2F11sjhfvw28!19sChIJM6BfhiWpuzsRGSBOjBMby5k?authuser=0&hl=en&rclk=1"
@@ -1061,8 +1053,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ashish+dental+clinic/data=!4m7!3m6!1s0x3bbba925865fa033:0x99cb1b138c4e2019!8m2!3d13.9327167!4d75.5824354!16s%2Fg%2F11sjhfvw28!19sChIJM6BfhiWpuzsRGSBOjBMby5k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashoka-sanjeevini-hospital-shivamogga",
@@ -1111,7 +1102,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ASHOKA+SANJEEVINI+HOSPITAL/data=!4m7!3m6!1s0x3bbba92581619d35:0x58ae5022a7a6a996!8m2!3d13.9325956!4d75.582749!16s%2Fg%2F11cn7sfv4g!19sChIJNZ1hgSWpuzsRlqmmpyJQrlg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASHOKA+SANJEEVINI+HOSPITAL/data=!4m7!3m6!1s0x3bbba92581619d35:0x58ae5022a7a6a996!8m2!3d13.9325956!4d75.582749!16s%2Fg%2F11cn7sfv4g!19sChIJNZ1hgSWpuzsRlqmmpyJQrlg?authuser=0&hl=en&rclk=1"
@@ -1180,8 +1171,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ASHOKA+SANJEEVINI+HOSPITAL/data=!4m7!3m6!1s0x3bbba92581619d35:0x58ae5022a7a6a996!8m2!3d13.9325956!4d75.582749!16s%2Fg%2F11cn7sfv4g!19sChIJNZ1hgSWpuzsRlqmmpyJQrlg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashvik-diagnostics-and-ortho-clinic-shivamogga",
@@ -1231,7 +1221,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ASHVIK+DIAGNOSTICS+%26+ORTHO+CLINIC/data=!4m7!3m6!1s0x3bbba938bcce0a3b:0x9e4d6c04670664f3!8m2!3d13.9373707!4d75.5675423!16s%2Fg%2F11nxg1mm1g!19sChIJOwrOvDipuzsR82QGZwRsTZ4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASHVIK+DIAGNOSTICS+%26+ORTHO+CLINIC/data=!4m7!3m6!1s0x3bbba938bcce0a3b:0x9e4d6c04670664f3!8m2!3d13.9373707!4d75.5675423!16s%2Fg%2F11nxg1mm1g!19sChIJOwrOvDipuzsR82QGZwRsTZ4?authuser=0&hl=en&rclk=1"
@@ -1297,11 +1287,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ASHVIK+DIAGNOSTICS+%26+ORTHO+CLINIC/data=!4m7!3m6!1s0x3bbba938bcce0a3b:0x9e4d6c04670664f3!8m2!3d13.9373707!4d75.5675423!16s%2Fg%2F11nxg1mm1g!19sChIJOwrOvDipuzsR82QGZwRsTZ4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashwini-cosmetic-dental-clinic-shivamogga",
@@ -1350,7 +1339,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashwini+Cosmetic+Dental+Clinic/data=!4m7!3m6!1s0x3bbba92aa08a7e03:0xb82b64bb7d36eae2!8m2!3d13.9425417!4d75.5743456!16s%2Fg%2F1hm6llbqp!19sChIJA36KoCqpuzsR4uo2fbtkK7g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashwini+Cosmetic+Dental+Clinic/data=!4m7!3m6!1s0x3bbba92aa08a7e03:0xb82b64bb7d36eae2!8m2!3d13.9425417!4d75.5743456!16s%2Fg%2F1hm6llbqp!19sChIJA36KoCqpuzsR4uo2fbtkK7g?authuser=0&hl=en&rclk=1"
@@ -1419,8 +1408,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashwini+Cosmetic+Dental+Clinic/data=!4m7!3m6!1s0x3bbba92aa08a7e03:0xb82b64bb7d36eae2!8m2!3d13.9425417!4d75.5743456!16s%2Fg%2F1hm6llbqp!19sChIJA36KoCqpuzsR4uo2fbtkK7g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "b-smart-dental-clinic-and-implant-centre-shivamogga",
@@ -1468,7 +1456,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/B+-+Smart+Dental+Clinic+%26+Implant+Centre/data=!4m7!3m6!1s0x3bbba8d550e31987:0x715d0927859d018b!8m2!3d13.943162!4d75.573752!16s%2Fg%2F11dfjb42v5!19sChIJhxnjUNWouzsRiwGdhScJXXE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B+-+Smart+Dental+Clinic+%26+Implant+Centre/data=!4m7!3m6!1s0x3bbba8d550e31987:0x715d0927859d018b!8m2!3d13.943162!4d75.573752!16s%2Fg%2F11dfjb42v5!19sChIJhxnjUNWouzsRiwGdhScJXXE?authuser=0&hl=en&rclk=1"
@@ -1534,11 +1522,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/B+-+Smart+Dental+Clinic+%26+Implant+Centre/data=!4m7!3m6!1s0x3bbba8d550e31987:0x715d0927859d018b!8m2!3d13.943162!4d75.573752!16s%2Fg%2F11dfjb42v5!19sChIJhxnjUNWouzsRiwGdhScJXXE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "c-s-hospital-shivamogga",
@@ -1586,7 +1573,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/C.S.+Hospital/data=!4m7!3m6!1s0x3bbba8d7731e817d:0x5bc7a74024381863!8m2!3d13.9335761!4d75.5708031!16s%2Fg%2F11dzt63zkd!19sChIJfYEec9eouzsRYxg4JECnx1s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/C.S.+Hospital/data=!4m7!3m6!1s0x3bbba8d7731e817d:0x5bc7a74024381863!8m2!3d13.9335761!4d75.5708031!16s%2Fg%2F11dzt63zkd!19sChIJfYEec9eouzsRYxg4JECnx1s?authuser=0&hl=en&rclk=1"
@@ -1655,8 +1642,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/C.S.+Hospital/data=!4m7!3m6!1s0x3bbba8d7731e817d:0x5bc7a74024381863!8m2!3d13.9335761!4d75.5708031!16s%2Fg%2F11dzt63zkd!19sChIJfYEec9eouzsRYxg4JECnx1s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chandrashekar-dental-clinic-shivamogga",
@@ -1705,7 +1691,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chandrashekar+Dental+Clinic/data=!4m7!3m6!1s0x3bbbafb4388177f7:0x85e8f1424531e80e!8m2!3d13.962852!4d75.5519652!16s%2Fg%2F11mdg_psrh!19sChIJ93eBOLSvuzsRDugxRULx6IU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandrashekar+Dental+Clinic/data=!4m7!3m6!1s0x3bbbafb4388177f7:0x85e8f1424531e80e!8m2!3d13.962852!4d75.5519652!16s%2Fg%2F11mdg_psrh!19sChIJ93eBOLSvuzsRDugxRULx6IU?authuser=0&hl=en&rclk=1"
@@ -1774,8 +1760,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chandrashekar+Dental+Clinic/data=!4m7!3m6!1s0x3bbbafb4388177f7:0x85e8f1424531e80e!8m2!3d13.962852!4d75.5519652!16s%2Fg%2F11mdg_psrh!19sChIJ93eBOLSvuzsRDugxRULx6IU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-hospital-shivamogga",
@@ -1823,7 +1808,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Hospital/data=!4m7!3m6!1s0x3bbba8d69bfdb5d9:0xa4e5d740a9625257!8m2!3d13.9375356!4d75.5703125!16s%2Fg%2F124t10k0y!19sChIJ2bX9m9aouzsRV1JiqUDX5aQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Hospital/data=!4m7!3m6!1s0x3bbba8d69bfdb5d9:0xa4e5d740a9625257!8m2!3d13.9375356!4d75.5703125!16s%2Fg%2F124t10k0y!19sChIJ2bX9m9aouzsRV1JiqUDX5aQ?authuser=0&hl=en&rclk=1"
@@ -1892,8 +1877,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Hospital/data=!4m7!3m6!1s0x3bbba8d69bfdb5d9:0xa4e5d740a9625257!8m2!3d13.9375356!4d75.5703125!16s%2Fg%2F124t10k0y!19sChIJ2bX9m9aouzsRV1JiqUDX5aQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "desi-arthritis-and-medical-center-shivamogga",
@@ -1943,7 +1927,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Desi+Arthritis+%26+Medical+Center/data=!4m7!3m6!1s0x3bbba9e84ace05df:0x86cafcd58e589948!8m2!3d13.937275!4d75.5685967!16s%2Fg%2F11xm68dl3w!19sChIJ3wXOSuipuzsRSJlYjtX8yoY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Desi+Arthritis+%26+Medical+Center/data=!4m7!3m6!1s0x3bbba9e84ace05df:0x86cafcd58e589948!8m2!3d13.937275!4d75.5685967!16s%2Fg%2F11xm68dl3w!19sChIJ3wXOSuipuzsRSJlYjtX8yoY?authuser=0&hl=en&rclk=1"
@@ -2012,8 +1996,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Desi+Arthritis+%26+Medical+Center/data=!4m7!3m6!1s0x3bbba9e84ace05df:0x86cafcd58e589948!8m2!3d13.937275!4d75.5685967!16s%2Fg%2F11xm68dl3w!19sChIJ3wXOSuipuzsRSJlYjtX8yoY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhavala-pentacare-ayurveda-treatment-centre-shivamogga",
@@ -2061,7 +2044,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dhavala+Pentacare+Ayurveda+Treatment+Centre/data=!4m7!3m6!1s0x3bbbaf0348e9eb35:0x78f34abf59b90e75!8m2!3d13.9487567!4d75.5473976!16s%2Fg%2F11ghfdw2dn!19sChIJNevpSAOvuzsRdQ65Wb9K83g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhavala+Pentacare+Ayurveda+Treatment+Centre/data=!4m7!3m6!1s0x3bbbaf0348e9eb35:0x78f34abf59b90e75!8m2!3d13.9487567!4d75.5473976!16s%2Fg%2F11ghfdw2dn!19sChIJNevpSAOvuzsRdQ65Wb9K83g?authuser=0&hl=en&rclk=1"
@@ -2130,8 +2113,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dhavala+Pentacare+Ayurveda+Treatment+Centre/data=!4m7!3m6!1s0x3bbbaf0348e9eb35:0x78f34abf59b90e75!8m2!3d13.9487567!4d75.5473976!16s%2Fg%2F11ghfdw2dn!19sChIJNevpSAOvuzsRdQ65Wb9K83g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dinaaz-hair-and-skin-botox-treatment-hair-transplant-shimoga-tempo-stand",
@@ -2180,7 +2162,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dinaaz+Hair+And+Skin+%7C+Botox+Treatment+%7C+Hair+Transplant+Shimoga/data=!4m7!3m6!1s0x3bbba94bfa37e53f:0x26533c976c94a098!8m2!3d13.9253541!4d75.5694894!16s%2Fg%2F11nfcgvvmp!19sChIJP-U3-kupuzsRmKCUbJc8UyY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dinaaz+Hair+And+Skin+%7C+Botox+Treatment+%7C+Hair+Transplant+Shimoga/data=!4m7!3m6!1s0x3bbba94bfa37e53f:0x26533c976c94a098!8m2!3d13.9253541!4d75.5694894!16s%2Fg%2F11nfcgvvmp!19sChIJP-U3-kupuzsRmKCUbJc8UyY?authuser=0&hl=en&rclk=1"
@@ -2249,8 +2231,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dinaaz+Hair+And+Skin+%7C+Botox+Treatment+%7C+Hair+Transplant+Shimoga/data=!4m7!3m6!1s0x3bbba94bfa37e53f:0x26533c976c94a098!8m2!3d13.9253541!4d75.5694894!16s%2Fg%2F11nfcgvvmp!19sChIJP-U3-kupuzsRmKCUbJc8UyY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "elite-care-shivamogga",
@@ -2300,7 +2281,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ELITE+CARE/data=!4m7!3m6!1s0x3bbba97ebe873ae1:0x72e4122387645275!8m2!3d13.9300032!4d75.5968963!16s%2Fg%2F11wqf7vq0y!19sChIJ4TqHvn6puzsRdVJkhyMS5HI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ELITE+CARE/data=!4m7!3m6!1s0x3bbba97ebe873ae1:0x72e4122387645275!8m2!3d13.9300032!4d75.5968963!16s%2Fg%2F11wqf7vq0y!19sChIJ4TqHvn6puzsRdVJkhyMS5HI?authuser=0&hl=en&rclk=1"
@@ -2366,11 +2347,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ELITE+CARE/data=!4m7!3m6!1s0x3bbba97ebe873ae1:0x72e4122387645275!8m2!3d13.9300032!4d75.5968963!16s%2Fg%2F11wqf7vq0y!19sChIJ4TqHvn6puzsRdVJkhyMS5HI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "esthesy-clinic-shivamogga-shivamogga",
@@ -2419,7 +2399,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Esthesy+clinic,+Shivamogga/data=!4m7!3m6!1s0x3bbba929e245f9eb:0xe1e3b7c47b1fb055!8m2!3d13.9371779!4d75.5744427!16s%2Fg%2F1vp6ymzy!19sChIJ6_lF4impuzsRVbAfe8S34-E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Esthesy+clinic,+Shivamogga/data=!4m7!3m6!1s0x3bbba929e245f9eb:0xe1e3b7c47b1fb055!8m2!3d13.9371779!4d75.5744427!16s%2Fg%2F1vp6ymzy!19sChIJ6_lF4impuzsRVbAfe8S34-E?authuser=0&hl=en&rclk=1"
@@ -2488,8 +2468,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Esthesy+clinic,+Shivamogga/data=!4m7!3m6!1s0x3bbba929e245f9eb:0xe1e3b7c47b1fb055!8m2!3d13.9371779!4d75.5744427!16s%2Fg%2F1vp6ymzy!19sChIJ6_lF4impuzsRVbAfe8S34-E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "girija-dantalaya-dental-and-orthodontic-clinic-shivamogga",
@@ -2539,7 +2518,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GIRIJA+DANTALAYA+%7C+Dental+and+Orthodontic+clinic/data=!4m7!3m6!1s0x3bbba8d445bff5cf:0x9a7cecfbb57265d8!8m2!3d13.9343576!4d75.5691185!16s%2Fg%2F11fyzcmntj!19sChIJz_W_RdSouzsR2GVytfvsfJo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GIRIJA+DANTALAYA+%7C+Dental+and+Orthodontic+clinic/data=!4m7!3m6!1s0x3bbba8d445bff5cf:0x9a7cecfbb57265d8!8m2!3d13.9343576!4d75.5691185!16s%2Fg%2F11fyzcmntj!19sChIJz_W_RdSouzsR2GVytfvsfJo?authuser=0&hl=en&rclk=1"
@@ -2608,8 +2587,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GIRIJA+DANTALAYA+%7C+Dental+and+Orthodontic+clinic/data=!4m7!3m6!1s0x3bbba8d445bff5cf:0x9a7cecfbb57265d8!8m2!3d13.9343576!4d75.5691185!16s%2Fg%2F11fyzcmntj!19sChIJz_W_RdSouzsR2GVytfvsfJo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gutti-malnad-hospital-shivamogga",
@@ -2657,7 +2635,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gutti+Malnad+Hospital/data=!4m7!3m6!1s0x3bbba8d40371b431:0x3809c8a5f58a72e3!8m2!3d13.938141!4d75.5690165!16s%2Fg%2F1263_shvh!19sChIJMbRxA9SouzsR43KK9aXICTg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gutti+Malnad+Hospital/data=!4m7!3m6!1s0x3bbba8d40371b431:0x3809c8a5f58a72e3!8m2!3d13.938141!4d75.5690165!16s%2Fg%2F1263_shvh!19sChIJMbRxA9SouzsR43KK9aXICTg?authuser=0&hl=en&rclk=1"
@@ -2726,8 +2704,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gutti+Malnad+Hospital/data=!4m7!3m6!1s0x3bbba8d40371b431:0x3809c8a5f58a72e3!8m2!3d13.938141!4d75.5690165!16s%2Fg%2F1263_shvh!19sChIJMbRxA9SouzsR43KK9aXICTg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hegde-health-complex-shivamogga",
@@ -2775,7 +2752,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HEGDE+Health+Complex/data=!4m7!3m6!1s0x3bbba8d612a1e6e1:0xffe00bd1f96d7e65!8m2!3d13.9373983!4d75.5728164!16s%2Fg%2F124ypbrgk!19sChIJ4eahEtaouzsRZX5t-dEL4P8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HEGDE+Health+Complex/data=!4m7!3m6!1s0x3bbba8d612a1e6e1:0xffe00bd1f96d7e65!8m2!3d13.9373983!4d75.5728164!16s%2Fg%2F124ypbrgk!19sChIJ4eahEtaouzsRZX5t-dEL4P8?authuser=0&hl=en&rclk=1"
@@ -2844,8 +2821,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HEGDE+Health+Complex/data=!4m7!3m6!1s0x3bbba8d612a1e6e1:0xffe00bd1f96d7e65!8m2!3d13.9373983!4d75.5728164!16s%2Fg%2F124ypbrgk!19sChIJ4eahEtaouzsRZX5t-dEL4P8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "homeocare-international-shivamogga-best-homeopathy-clinic-in-shimoga-shivamogga-bh-rd",
@@ -2895,7 +2871,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Homeocare+International+Shivamogga+%7C+Best+Homeopathy+Clinic+In+Shimoga%28Shivamogga%29/data=!4m7!3m6!1s0x3bbba9caddcf18a1:0xc89e243ff3ad56bd!8m2!3d13.9314916!4d75.5735501!16s%2Fg%2F11gxv69xzd!19sChIJoRjP3cqpuzsRvVat8z8knsg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Homeocare+International+Shivamogga+%7C+Best+Homeopathy+Clinic+In+Shimoga%28Shivamogga%29/data=!4m7!3m6!1s0x3bbba9caddcf18a1:0xc89e243ff3ad56bd!8m2!3d13.9314916!4d75.5735501!16s%2Fg%2F11gxv69xzd!19sChIJoRjP3cqpuzsRvVat8z8knsg?authuser=0&hl=en&rclk=1"
@@ -2964,8 +2940,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Homeocare+International+Shivamogga+%7C+Best+Homeopathy+Clinic+In+Shimoga%28Shivamogga%29/data=!4m7!3m6!1s0x3bbba9caddcf18a1:0xc89e243ff3ad56bd!8m2!3d13.9314916!4d75.5735501!16s%2Fg%2F11gxv69xzd!19sChIJoRjP3cqpuzsRvVat8z8knsg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospital-shivamogga",
@@ -3011,7 +2986,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/hospital/data=!4m7!3m6!1s0x3bbba963d0005e5f:0x59f7abda9f707ad5!8m2!3d13.9384857!4d75.5800678!16s%2Fg%2F11m5r195p3!19sChIJX14A0GOpuzsR1Xpwn9qr91k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/hospital/data=!4m7!3m6!1s0x3bbba963d0005e5f:0x59f7abda9f707ad5!8m2!3d13.9384857!4d75.5800678!16s%2Fg%2F11m5r195p3!19sChIJX14A0GOpuzsR1Xpwn9qr91k?authuser=0&hl=en&rclk=1"
@@ -3077,11 +3052,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/hospital/data=!4m7!3m6!1s0x3bbba963d0005e5f:0x59f7abda9f707ad5!8m2!3d13.9384857!4d75.5800678!16s%2Fg%2F11m5r195p3!19sChIJX14A0GOpuzsR1Xpwn9qr91k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hpc-hospital-shivamogga",
@@ -3129,7 +3103,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HPC+HOSPITAL/data=!4m7!3m6!1s0x3bbba8d632287011:0xdd47bda1adcc5e2f!8m2!3d13.9377293!4d75.5713458!16s%2Fg%2F11g8g41nn6!19sChIJEXAoMtaouzsRL17MraG9R90?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HPC+HOSPITAL/data=!4m7!3m6!1s0x3bbba8d632287011:0xdd47bda1adcc5e2f!8m2!3d13.9377293!4d75.5713458!16s%2Fg%2F11g8g41nn6!19sChIJEXAoMtaouzsRL17MraG9R90?authuser=0&hl=en&rclk=1"
@@ -3198,8 +3172,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HPC+HOSPITAL/data=!4m7!3m6!1s0x3bbba8d632287011:0xdd47bda1adcc5e2f!8m2!3d13.9377293!4d75.5713458!16s%2Fg%2F11g8g41nn6!19sChIJEXAoMtaouzsRL17MraG9R90?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hruday-speciality-clinic-shivamogga",
@@ -3248,7 +3221,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HRUDAY+Speciality+Clinic/data=!4m7!3m6!1s0x3bbba96018f0b92d:0x770cd3983d50146a!8m2!3d13.9368593!4d75.5697927!16s%2Fg%2F11h5x9722w!19sChIJLbnwGGCpuzsRahRQPZjTDHc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HRUDAY+Speciality+Clinic/data=!4m7!3m6!1s0x3bbba96018f0b92d:0x770cd3983d50146a!8m2!3d13.9368593!4d75.5697927!16s%2Fg%2F11h5x9722w!19sChIJLbnwGGCpuzsRahRQPZjTDHc?authuser=0&hl=en&rclk=1"
@@ -3317,8 +3290,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HRUDAY+Speciality+Clinic/data=!4m7!3m6!1s0x3bbba96018f0b92d:0x770cd3983d50146a!8m2!3d13.9368593!4d75.5697927!16s%2Fg%2F11h5x9722w!19sChIJLbnwGGCpuzsRahRQPZjTDHc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indiana-heart-center-shivamogga",
@@ -3367,7 +3339,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indiana+heart+center/data=!4m7!3m6!1s0x3bbbaf404250108f:0xdf30d5ca38f8fab3!8m2!3d13.945489!4d75.5765149!16s%2Fg%2F11f7fn934m!19sChIJjxBQQkCvuzsRs_r4OMrVMN8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indiana+heart+center/data=!4m7!3m6!1s0x3bbbaf404250108f:0xdf30d5ca38f8fab3!8m2!3d13.945489!4d75.5765149!16s%2Fg%2F11f7fn934m!19sChIJjxBQQkCvuzsRs_r4OMrVMN8?authuser=0&hl=en&rclk=1"
@@ -3436,8 +3408,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indiana+heart+center/data=!4m7!3m6!1s0x3bbbaf404250108f:0xdf30d5ca38f8fab3!8m2!3d13.945489!4d75.5765149!16s%2Fg%2F11f7fn934m!19sChIJjxBQQkCvuzsRs_r4OMrVMN8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-shivamogga-best-ivf-centre-shivamogga",
@@ -3487,7 +3458,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Shivamogga+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bbba9c3d9b6b283:0xb3e0e2d49817784b!8m2!3d13.9358838!4d75.569041!16s%2Fg%2F11x_6zlpbp!19sChIJg7K22cOpuzsRS3gXmNTi4LM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Shivamogga+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bbba9c3d9b6b283:0xb3e0e2d49817784b!8m2!3d13.9358838!4d75.569041!16s%2Fg%2F11x_6zlpbp!19sChIJg7K22cOpuzsRS3gXmNTi4LM?authuser=0&hl=en&rclk=1"
@@ -3556,8 +3527,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Shivamogga+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bbba9c3d9b6b283:0xb3e0e2d49817784b!8m2!3d13.9358838!4d75.569041!16s%2Fg%2F11x_6zlpbp!19sChIJg7K22cOpuzsRS3gXmNTi4LM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ishaa-hair-clinic-shivamogga",
@@ -3606,7 +3576,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ISHAA+Hair+Clinic/data=!4m7!3m6!1s0x3bbbafd06d9e1efb:0xae59f361d4a8c443!8m2!3d13.9455984!4d75.5605585!16s%2Fg%2F11wfs2dvj3!19sChIJ-x6ebdCvuzsRQ8So1GHzWa4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ISHAA+Hair+Clinic/data=!4m7!3m6!1s0x3bbbafd06d9e1efb:0xae59f361d4a8c443!8m2!3d13.9455984!4d75.5605585!16s%2Fg%2F11wfs2dvj3!19sChIJ-x6ebdCvuzsRQ8So1GHzWa4?authuser=0&hl=en&rclk=1"
@@ -3675,8 +3645,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ISHAA+Hair+Clinic/data=!4m7!3m6!1s0x3bbbafd06d9e1efb:0xae59f361d4a8c443!8m2!3d13.9455984!4d75.5605585!16s%2Fg%2F11wfs2dvj3!19sChIJ-x6ebdCvuzsRQ8So1GHzWa4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "islets-diabetes-hospital-shivamogga",
@@ -3724,7 +3693,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Islets+Diabetes+Hospital/data=!4m7!3m6!1s0x3bbbaf6555555555:0x9f62fd85d9ecfe49!8m2!3d13.9756338!4d75.5393155!16s%2Fg%2F11stgrlq8d!19sChIJVVVVVWWvuzsRSf7s2YX9Yp8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Islets+Diabetes+Hospital/data=!4m7!3m6!1s0x3bbbaf6555555555:0x9f62fd85d9ecfe49!8m2!3d13.9756338!4d75.5393155!16s%2Fg%2F11stgrlq8d!19sChIJVVVVVWWvuzsRSf7s2YX9Yp8?authuser=0&hl=en&rclk=1"
@@ -3790,11 +3759,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Islets+Diabetes+Hospital/data=!4m7!3m6!1s0x3bbbaf6555555555:0x9f62fd85d9ecfe49!8m2!3d13.9756338!4d75.5393155!16s%2Fg%2F11stgrlq8d!19sChIJVVVVVWWvuzsRSf7s2YX9Yp8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "j-s-sakriya-health-centre-shivamogga",
@@ -3840,7 +3808,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/J.S.+Sakriya+Health+Centre/data=!4m7!3m6!1s0x3bbba9216c607a9b:0x9f0b54569c6ba1e4!8m2!3d13.9252415!4d75.5788031!16s%2Fg%2F11fxc1qxw3!19sChIJm3pgbCGpuzsR5KFrnFZUC58?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J.S.+Sakriya+Health+Centre/data=!4m7!3m6!1s0x3bbba9216c607a9b:0x9f0b54569c6ba1e4!8m2!3d13.9252415!4d75.5788031!16s%2Fg%2F11fxc1qxw3!19sChIJm3pgbCGpuzsR5KFrnFZUC58?authuser=0&hl=en&rclk=1"
@@ -3906,11 +3874,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/J.S.+Sakriya+Health+Centre/data=!4m7!3m6!1s0x3bbba9216c607a9b:0x9f0b54569c6ba1e4!8m2!3d13.9252415!4d75.5788031!16s%2Fg%2F11fxc1qxw3!19sChIJm3pgbCGpuzsR5KFrnFZUC58?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "janani-nulife-mother-and-child-hospital-shivamogga",
@@ -3960,7 +3927,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Janani+Nulife+Mother+%26+Child+Hospital/data=!4m7!3m6!1s0x3bbba90b6c2a591b:0xcbbc480035dc8681!8m2!3d13.9389237!4d75.5458308!16s%2Fg%2F11s38sx1lj!19sChIJG1kqbAupuzsRgYbcNQBIvMs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janani+Nulife+Mother+%26+Child+Hospital/data=!4m7!3m6!1s0x3bbba90b6c2a591b:0xcbbc480035dc8681!8m2!3d13.9389237!4d75.5458308!16s%2Fg%2F11s38sx1lj!19sChIJG1kqbAupuzsRgYbcNQBIvMs?authuser=0&hl=en&rclk=1"
@@ -4029,8 +3996,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Janani+Nulife+Mother+%26+Child+Hospital/data=!4m7!3m6!1s0x3bbba90b6c2a591b:0xcbbc480035dc8681!8m2!3d13.9389237!4d75.5458308!16s%2Fg%2F11s38sx1lj!19sChIJG1kqbAupuzsRgYbcNQBIvMs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevaraksha-clinic-shivamogga",
@@ -4078,7 +4044,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/jeevaraksha+clinic/data=!4m7!3m6!1s0x3bbba964979312b3:0xe80ee83dbe11a24b!8m2!3d13.9099757!4d75.5783345!16s%2Fg%2F11gscn0gn_!19sChIJsxKTl2SpuzsRS6IRvj3oDug?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/jeevaraksha+clinic/data=!4m7!3m6!1s0x3bbba964979312b3:0xe80ee83dbe11a24b!8m2!3d13.9099757!4d75.5783345!16s%2Fg%2F11gscn0gn_!19sChIJsxKTl2SpuzsRS6IRvj3oDug?authuser=0&hl=en&rclk=1"
@@ -4144,11 +4110,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/jeevaraksha+clinic/data=!4m7!3m6!1s0x3bbba964979312b3:0xe80ee83dbe11a24b!8m2!3d13.9099757!4d75.5783345!16s%2Fg%2F11gscn0gn_!19sChIJsxKTl2SpuzsRS6IRvj3oDug?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jp-aradhana-maternity-center-shivamogga",
@@ -4198,7 +4163,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JP+-+Aradhana+Maternity+Center/data=!4m7!3m6!1s0x3bbba95772b1e161:0x6abce39587461f4!8m2!3d13.9435652!4d75.574055!16s%2Fg%2F11rv3jhl4p!19sChIJYeGxclepuzsR9GF0WDnOqwY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JP+-+Aradhana+Maternity+Center/data=!4m7!3m6!1s0x3bbba95772b1e161:0x6abce39587461f4!8m2!3d13.9435652!4d75.574055!16s%2Fg%2F11rv3jhl4p!19sChIJYeGxclepuzsR9GF0WDnOqwY?authuser=0&hl=en&rclk=1"
@@ -4264,11 +4229,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JP+-+Aradhana+Maternity+Center/data=!4m7!3m6!1s0x3bbba95772b1e161:0x6abce39587461f4!8m2!3d13.9435652!4d75.574055!16s%2Fg%2F11rv3jhl4p!19sChIJYeGxclepuzsR9GF0WDnOqwY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jyothi-poly-clinic-shivamogga",
@@ -4316,7 +4280,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jyothi+Poly+Clinic/data=!4m7!3m6!1s0x3bbba8d17aef95d9:0x7bb336cd4a5e861b!8m2!3d13.936907!4d75.5663986!16s%2Fg%2F11dxdj3fsh!19sChIJ2ZXvetGouzsRG4ZeSs02s3s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jyothi+Poly+Clinic/data=!4m7!3m6!1s0x3bbba8d17aef95d9:0x7bb336cd4a5e861b!8m2!3d13.936907!4d75.5663986!16s%2Fg%2F11dxdj3fsh!19sChIJ2ZXvetGouzsRG4ZeSs02s3s?authuser=0&hl=en&rclk=1"
@@ -4385,8 +4349,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jyothi+Poly+Clinic/data=!4m7!3m6!1s0x3bbba8d17aef95d9:0x7bb336cd4a5e861b!8m2!3d13.936907!4d75.5663986!16s%2Fg%2F11dxdj3fsh!19sChIJ2ZXvetGouzsRG4ZeSs02s3s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "k-b-k-dental-speciality-shivamogga",
@@ -4435,7 +4398,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/K.B.K.+Dental+Speciality/data=!4m7!3m6!1s0x3bbba8d80a39812d:0x7124ea25eaa6e49c!8m2!3d13.9313431!4d75.5741203!16s%2Fg%2F11d_1svgf6!19sChIJLYE5CtiouzsRnOSm6iXqJHE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K.B.K.+Dental+Speciality/data=!4m7!3m6!1s0x3bbba8d80a39812d:0x7124ea25eaa6e49c!8m2!3d13.9313431!4d75.5741203!16s%2Fg%2F11d_1svgf6!19sChIJLYE5CtiouzsRnOSm6iXqJHE?authuser=0&hl=en&rclk=1"
@@ -4504,8 +4467,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/K.B.K.+Dental+Speciality/data=!4m7!3m6!1s0x3bbba8d80a39812d:0x7124ea25eaa6e49c!8m2!3d13.9313431!4d75.5741203!16s%2Fg%2F11d_1svgf6!19sChIJLYE5CtiouzsRnOSm6iXqJHE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kgp-hospital-and-hitech-kidney-stone-center-shivamogga",
@@ -4555,7 +4517,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KGP+Hospital+And+Hitech+Kidney+Stone+Center/data=!4m7!3m6!1s0x3bbbaf36ee74a2e5:0x50b5660a0e8b0be1!8m2!3d13.9492676!4d75.5526324!16s%2Fg%2F1tg5y207!19sChIJ5aJ07javuzsR4QuLDgpmtVA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KGP+Hospital+And+Hitech+Kidney+Stone+Center/data=!4m7!3m6!1s0x3bbbaf36ee74a2e5:0x50b5660a0e8b0be1!8m2!3d13.9492676!4d75.5526324!16s%2Fg%2F1tg5y207!19sChIJ5aJ07javuzsR4QuLDgpmtVA?authuser=0&hl=en&rclk=1"
@@ -4624,8 +4586,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KGP+Hospital+And+Hitech+Kidney+Stone+Center/data=!4m7!3m6!1s0x3bbbaf36ee74a2e5:0x50b5660a0e8b0be1!8m2!3d13.9492676!4d75.5526324!16s%2Fg%2F1tg5y207!19sChIJ5aJ07javuzsR4QuLDgpmtVA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kottureshwara-hospital-children-and-maternity-hospital-shivamogga",
@@ -4674,7 +4635,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kottureshwara+Hospital+%28children+and+maternity+hospital%29/data=!4m7!3m6!1s0x3bbba8ccfe355f35:0xa4eeb5a26cefe1f8!8m2!3d13.945436!4d75.5765128!16s%2Fg%2F11pbrjdgmf!19sChIJNV81_syouzsR-OHvbKK17qQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kottureshwara+Hospital+%28children+and+maternity+hospital%29/data=!4m7!3m6!1s0x3bbba8ccfe355f35:0xa4eeb5a26cefe1f8!8m2!3d13.945436!4d75.5765128!16s%2Fg%2F11pbrjdgmf!19sChIJNV81_syouzsR-OHvbKK17qQ?authuser=0&hl=en&rclk=1"
@@ -4743,8 +4704,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kottureshwara+Hospital+%28children+and+maternity+hospital%29/data=!4m7!3m6!1s0x3bbba8ccfe355f35:0xa4eeb5a26cefe1f8!8m2!3d13.945436!4d75.5765128!16s%2Fg%2F11pbrjdgmf!19sChIJNV81_syouzsR-OHvbKK17qQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kusuma-dental-clinic-shivamogga",
@@ -4792,7 +4752,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KUSUMA+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bbbaf31aaa1ec2b:0x297b8c9e46214df9!8m2!3d13.9513416!4d75.5597269!16s%2Fg%2F11crzwvc6s!19sChIJK-yhqjGvuzsR-U0hRp6Meyk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KUSUMA+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bbbaf31aaa1ec2b:0x297b8c9e46214df9!8m2!3d13.9513416!4d75.5597269!16s%2Fg%2F11crzwvc6s!19sChIJK-yhqjGvuzsR-U0hRp6Meyk?authuser=0&hl=en&rclk=1"
@@ -4858,11 +4818,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KUSUMA+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bbbaf31aaa1ec2b:0x297b8c9e46214df9!8m2!3d13.9513416!4d75.5597269!16s%2Fg%2F11crzwvc6s!19sChIJK-yhqjGvuzsR-U0hRp6Meyk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "litho-uro-clinic-shivamogga",
@@ -4910,7 +4869,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Litho+Uro+Clinic/data=!4m7!3m6!1s0x3bbba9f803d476cf:0x432d28023b06db87!8m2!3d13.9388482!4d75.5699862!16s%2Fg%2F11thf15rjv!19sChIJz3bUA_ipuzsRh9sGOwIoLUM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Litho+Uro+Clinic/data=!4m7!3m6!1s0x3bbba9f803d476cf:0x432d28023b06db87!8m2!3d13.9388482!4d75.5699862!16s%2Fg%2F11thf15rjv!19sChIJz3bUA_ipuzsRh9sGOwIoLUM?authuser=0&hl=en&rclk=1"
@@ -4979,8 +4938,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Litho+Uro+Clinic/data=!4m7!3m6!1s0x3bbba9f803d476cf:0x432d28023b06db87!8m2!3d13.9388482!4d75.5699862!16s%2Fg%2F11thf15rjv!19sChIJz3bUA_ipuzsRh9sGOwIoLUM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ljb-ano-rectal-clinic-shivamogga",
@@ -5026,7 +4984,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LJB+Ano+Rectal+Clinic/data=!4m7!3m6!1s0x3bbba9003048cd19:0x10723763f220768!8m2!3d13.9194119!4d75.5675728!16s%2Fg%2F11y4my59l5!19sChIJGc1IMACpuzsRaAciP3YjBwE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LJB+Ano+Rectal+Clinic/data=!4m7!3m6!1s0x3bbba9003048cd19:0x10723763f220768!8m2!3d13.9194119!4d75.5675728!16s%2Fg%2F11y4my59l5!19sChIJGc1IMACpuzsRaAciP3YjBwE?authuser=0&hl=en&rclk=1"
@@ -5092,11 +5050,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LJB+Ano+Rectal+Clinic/data=!4m7!3m6!1s0x3bbba9003048cd19:0x10723763f220768!8m2!3d13.9194119!4d75.5675728!16s%2Fg%2F11y4my59l5!19sChIJGc1IMACpuzsRaAciP3YjBwE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maax-angels-mother-and-child-hospital-shivamogga",
@@ -5146,7 +5103,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MaAx+Angels+Mother+and+Child+Hospital/data=!4m7!3m6!1s0x3bbba98dc9e0bf8f:0xe787d04f2d570a84!8m2!3d13.938426!4d75.5712049!16s%2Fg%2F11grvmfmkw!19sChIJj7_gyY2puzsRhApXLU_Qh-c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MaAx+Angels+Mother+and+Child+Hospital/data=!4m7!3m6!1s0x3bbba98dc9e0bf8f:0xe787d04f2d570a84!8m2!3d13.938426!4d75.5712049!16s%2Fg%2F11grvmfmkw!19sChIJj7_gyY2puzsRhApXLU_Qh-c?authuser=0&hl=en&rclk=1"
@@ -5215,8 +5172,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MaAx+Angels+Mother+and+Child+Hospital/data=!4m7!3m6!1s0x3bbba98dc9e0bf8f:0xe787d04f2d570a84!8m2!3d13.938426!4d75.5712049!16s%2Fg%2F11grvmfmkw!19sChIJj7_gyY2puzsRhApXLU_Qh-c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mallikarjuna-nursing-home-shivamogga",
@@ -5266,7 +5222,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MALLIKARJUNA+NURSING+HOME/data=!4m7!3m6!1s0x3bbba8d6c90f91f3:0x1f84133f55d56534!8m2!3d13.9362904!4d75.568886!16s%2Fg%2F11cnc6whhz!19sChIJ85EPydaouzsRNGXVVT8ThB8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MALLIKARJUNA+NURSING+HOME/data=!4m7!3m6!1s0x3bbba8d6c90f91f3:0x1f84133f55d56534!8m2!3d13.9362904!4d75.568886!16s%2Fg%2F11cnc6whhz!19sChIJ85EPydaouzsRNGXVVT8ThB8?authuser=0&hl=en&rclk=1"
@@ -5335,8 +5291,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MALLIKARJUNA+NURSING+HOME/data=!4m7!3m6!1s0x3bbba8d6c90f91f3:0x1f84133f55d56534!8m2!3d13.9362904!4d75.568886!16s%2Fg%2F11cnc6whhz!19sChIJ85EPydaouzsRNGXVVT8ThB8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "malnad-cancer-hospital-nidige",
@@ -5385,7 +5340,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Malnad+Cancer+Hospital/data=!4m7!3m6!1s0x3bbbaa38ee533071:0x7774dad1dd358615!8m2!3d13.887797!4d75.642575!16s%2Fg%2F11xggkmt_!19sChIJcTBT7jiquzsRFYY13dHadHc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malnad+Cancer+Hospital/data=!4m7!3m6!1s0x3bbbaa38ee533071:0x7774dad1dd358615!8m2!3d13.887797!4d75.642575!16s%2Fg%2F11xggkmt_!19sChIJcTBT7jiquzsRFYY13dHadHc?authuser=0&hl=en&rclk=1"
@@ -5454,8 +5409,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Malnad+Cancer+Hospital/data=!4m7!3m6!1s0x3bbbaa38ee533071:0x7774dad1dd358615!8m2!3d13.887797!4d75.642575!16s%2Fg%2F11xggkmt_!19sChIJcTBT7jiquzsRFYY13dHadHc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "malnad-heart-care-centre-shivamogga",
@@ -5504,7 +5458,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Malnad+Heart+Care+Centre/data=!4m7!3m6!1s0x3bbba8d71dc4d595:0xec676ccffa33cca6!8m2!3d13.934948!4d75.5702911!16s%2Fg%2F11dzt5z949!19sChIJldXEHdeouzsRpswz-s9sZ-w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malnad+Heart+Care+Centre/data=!4m7!3m6!1s0x3bbba8d71dc4d595:0xec676ccffa33cca6!8m2!3d13.934948!4d75.5702911!16s%2Fg%2F11dzt5z949!19sChIJldXEHdeouzsRpswz-s9sZ-w?authuser=0&hl=en&rclk=1"
@@ -5573,8 +5527,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Malnad+Heart+Care+Centre/data=!4m7!3m6!1s0x3bbba8d71dc4d595:0xec676ccffa33cca6!8m2!3d13.934948!4d75.5702911!16s%2Fg%2F11dzt5z949!19sChIJldXEHdeouzsRpswz-s9sZ-w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manasa-hospital-shivamogga",
@@ -5623,7 +5576,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manasa+Hospital/data=!4m7!3m6!1s0x3bbba8d79a17488d:0x7d99d6b402d836de!8m2!3d13.9332976!4d75.5719991!16s%2Fg%2F11cn9x33kj!19sChIJjUgXmteouzsR3jbYArTWmX0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manasa+Hospital/data=!4m7!3m6!1s0x3bbba8d79a17488d:0x7d99d6b402d836de!8m2!3d13.9332976!4d75.5719991!16s%2Fg%2F11cn9x33kj!19sChIJjUgXmteouzsR3jbYArTWmX0?authuser=0&hl=en&rclk=1"
@@ -5692,8 +5645,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manasa+Hospital/data=!4m7!3m6!1s0x3bbba8d79a17488d:0x7d99d6b402d836de!8m2!3d13.9332976!4d75.5719991!16s%2Fg%2F11cn9x33kj!19sChIJjUgXmteouzsR3jbYArTWmX0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mathru-vatsalya-shivamogga",
@@ -5743,7 +5695,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mathru+vatsalya/data=!4m7!3m6!1s0x3bbba9e9ae6cdc65:0x2f901b0c284f859e!8m2!3d13.9351825!4d75.5737789!16s%2Fg%2F11lzd9lqv0!19sChIJZdxsrumpuzsRnoVPKAwbkC8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mathru+vatsalya/data=!4m7!3m6!1s0x3bbba9e9ae6cdc65:0x2f901b0c284f859e!8m2!3d13.9351825!4d75.5737789!16s%2Fg%2F11lzd9lqv0!19sChIJZdxsrumpuzsRnoVPKAwbkC8?authuser=0&hl=en&rclk=1"
@@ -5812,8 +5764,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mathru+vatsalya/data=!4m7!3m6!1s0x3bbba9e9ae6cdc65:0x2f901b0c284f859e!8m2!3d13.9351825!4d75.5737789!16s%2Fg%2F11lzd9lqv0!19sChIJZdxsrumpuzsRnoVPKAwbkC8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mathru-vatsalya-mother-and-baby-care-shivamogga",
@@ -5861,7 +5812,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mathru+Vatsalya+Mother+and+Baby+Care/data=!4m7!3m6!1s0x3bbba99855883dd1:0x8b5d6e288b3f6340!8m2!3d13.935404!4d75.5740648!16s%2Fg%2F11wg9dn5hw!19sChIJ0T2IVZipuzsRQGM_iyhuXYs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mathru+Vatsalya+Mother+and+Baby+Care/data=!4m7!3m6!1s0x3bbba99855883dd1:0x8b5d6e288b3f6340!8m2!3d13.935404!4d75.5740648!16s%2Fg%2F11wg9dn5hw!19sChIJ0T2IVZipuzsRQGM_iyhuXYs?authuser=0&hl=en&rclk=1"
@@ -5930,8 +5881,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mathru+Vatsalya+Mother+and+Baby+Care/data=!4m7!3m6!1s0x3bbba99855883dd1:0x8b5d6e288b3f6340!8m2!3d13.935404!4d75.5740648!16s%2Fg%2F11wg9dn5hw!19sChIJ0T2IVZipuzsRQGM_iyhuXYs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "melige-clinic-shivamogga",
@@ -5979,7 +5929,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Melige+Clinic/data=!4m7!3m6!1s0x3bbba8d40719665f:0x4fbc2271e352658e!8m2!3d13.9382567!4d75.5685779!16s%2Fg%2F11dfj9zsls!19sChIJX2YZB9SouzsRjmVS43EivE8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Melige+Clinic/data=!4m7!3m6!1s0x3bbba8d40719665f:0x4fbc2271e352658e!8m2!3d13.9382567!4d75.5685779!16s%2Fg%2F11dfj9zsls!19sChIJX2YZB9SouzsRjmVS43EivE8?authuser=0&hl=en&rclk=1"
@@ -6048,8 +5998,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Melige+Clinic/data=!4m7!3m6!1s0x3bbba8d40719665f:0x4fbc2271e352658e!8m2!3d13.9382567!4d75.5685779!16s%2Fg%2F11dfj9zsls!19sChIJX2YZB9SouzsRjmVS43EivE8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "metrounited-healthcare-shivamogga",
@@ -6098,7 +6047,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Metrounited+Healthcare/data=!4m7!3m6!1s0x3bbba92a70448181:0x2fabeb6735575ec1!8m2!3d13.9403644!4d75.5750035!16s%2Fg%2F11bxf5mr31!19sChIJgYFEcCqpuzsRwV5XNWfrqy8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metrounited+Healthcare/data=!4m7!3m6!1s0x3bbba92a70448181:0x2fabeb6735575ec1!8m2!3d13.9403644!4d75.5750035!16s%2Fg%2F11bxf5mr31!19sChIJgYFEcCqpuzsRwV5XNWfrqy8?authuser=0&hl=en&rclk=1"
@@ -6167,8 +6116,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Metrounited+Healthcare/data=!4m7!3m6!1s0x3bbba92a70448181:0x2fabeb6735575ec1!8m2!3d13.9403644!4d75.5750035!16s%2Fg%2F11bxf5mr31!19sChIJgYFEcCqpuzsRwV5XNWfrqy8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nagaraj-neuro-clinic-shivamogga",
@@ -6217,7 +6165,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nagaraj+Neuro+Clinic/data=!4m7!3m6!1s0x3bbba8d6742871b5:0x669d11122b2c2c16!8m2!3d13.9408933!4d75.5714453!16s%2Fg%2F1ptzzm3qw!19sChIJtXEodNaouzsRFiwsKxIRnWY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nagaraj+Neuro+Clinic/data=!4m7!3m6!1s0x3bbba8d6742871b5:0x669d11122b2c2c16!8m2!3d13.9408933!4d75.5714453!16s%2Fg%2F1ptzzm3qw!19sChIJtXEodNaouzsRFiwsKxIRnWY?authuser=0&hl=en&rclk=1"
@@ -6286,8 +6234,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nagaraj+Neuro+Clinic/data=!4m7!3m6!1s0x3bbba8d6742871b5:0x669d11122b2c2c16!8m2!3d13.9408933!4d75.5714453!16s%2Fg%2F1ptzzm3qw!19sChIJtXEodNaouzsRFiwsKxIRnWY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nanjappa-hospital-shimoga-shivamogga",
@@ -6336,7 +6283,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nanjappa+Hospital+-+Shimoga/data=!4m7!3m6!1s0x3bbba8d5d2717175:0xe9b47ed1ec4469db!8m2!3d13.9388422!4d75.5714968!16s%2Fg%2F1tgc7zmk!19sChIJdXFx0tWouzsR22lE7NF-tOk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nanjappa+Hospital+-+Shimoga/data=!4m7!3m6!1s0x3bbba8d5d2717175:0xe9b47ed1ec4469db!8m2!3d13.9388422!4d75.5714968!16s%2Fg%2F1tgc7zmk!19sChIJdXFx0tWouzsR22lE7NF-tOk?authuser=0&hl=en&rclk=1"
@@ -6405,8 +6352,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nanjappa+Hospital+-+Shimoga/data=!4m7!3m6!1s0x3bbba8d5d2717175:0xe9b47ed1ec4469db!8m2!3d13.9388422!4d75.5714968!16s%2Fg%2F1tgc7zmk!19sChIJdXFx0tWouzsR22lE7NF-tOk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nanjappa-life-care-hospital-shivamogga",
@@ -6455,7 +6401,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nanjappa+Life+Care+Hospital/data=!4m7!3m6!1s0x3bbbaf53dc69d431:0xf0694665c6a6b464!8m2!3d13.9466491!4d75.5352853!16s%2Fg%2F1vlqnnmr!19sChIJMdRp3FOvuzsRZLSmxmVGafA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nanjappa+Life+Care+Hospital/data=!4m7!3m6!1s0x3bbbaf53dc69d431:0xf0694665c6a6b464!8m2!3d13.9466491!4d75.5352853!16s%2Fg%2F1vlqnnmr!19sChIJMdRp3FOvuzsRZLSmxmVGafA?authuser=0&hl=en&rclk=1"
@@ -6524,8 +6470,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nanjappa+Life+Care+Hospital/data=!4m7!3m6!1s0x3bbbaf53dc69d431:0xf0694665c6a6b464!8m2!3d13.9466491!4d75.5352853!16s%2Fg%2F1vlqnnmr!19sChIJMdRp3FOvuzsRZLSmxmVGafA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "narayana-murthy-medicine-shivamogga",
@@ -6574,7 +6519,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Narayana+Murthy+Medicine/data=!4m7!3m6!1s0x3bbbaf71a50c7a57:0x43fd30798bf9db97!8m2!3d13.9558516!4d75.5548651!16s%2Fg%2F11tgd4kqzx!19sChIJV3oMpXGvuzsRl9v5i3kw_UM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narayana+Murthy+Medicine/data=!4m7!3m6!1s0x3bbbaf71a50c7a57:0x43fd30798bf9db97!8m2!3d13.9558516!4d75.5548651!16s%2Fg%2F11tgd4kqzx!19sChIJV3oMpXGvuzsRl9v5i3kw_UM?authuser=0&hl=en&rclk=1"
@@ -6643,8 +6588,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Narayana+Murthy+Medicine/data=!4m7!3m6!1s0x3bbbaf71a50c7a57:0x43fd30798bf9db97!8m2!3d13.9558516!4d75.5548651!16s%2Fg%2F11tgd4kqzx!19sChIJV3oMpXGvuzsRl9v5i3kw_UM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nava-srushti-fertility-ivf-centre-shivamogga",
@@ -6693,7 +6637,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nava+Srushti+Fertility,+IVF+centre/data=!4m7!3m6!1s0x3bbba9c668ac2ab5:0x1c28ce16f9f0aeae!8m2!3d13.9369694!4d75.5696426!16s%2Fg%2F11l1jz_2s3!19sChIJtSqsaMapuzsRrq7w-RbOKBw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nava+Srushti+Fertility,+IVF+centre/data=!4m7!3m6!1s0x3bbba9c668ac2ab5:0x1c28ce16f9f0aeae!8m2!3d13.9369694!4d75.5696426!16s%2Fg%2F11l1jz_2s3!19sChIJtSqsaMapuzsRrq7w-RbOKBw?authuser=0&hl=en&rclk=1"
@@ -6759,11 +6703,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nava+Srushti+Fertility,+IVF+centre/data=!4m7!3m6!1s0x3bbba9c668ac2ab5:0x1c28ce16f9f0aeae!8m2!3d13.9369694!4d75.5696426!16s%2Fg%2F11l1jz_2s3!19sChIJtSqsaMapuzsRrq7w-RbOKBw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neurobharat-brain-spine-and-trauma-hospital-shivamogga",
@@ -6814,7 +6757,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neurobharat+Brain+spine+and+trauma+hospital/data=!4m7!3m6!1s0x3bbba9cdd8ea195b:0xf553275c82bb4a56!8m2!3d13.936861!4d75.5686419!16s%2Fg%2F11rn7ct5fg!19sChIJWxnq2M2puzsRVkq7glwnU_U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neurobharat+Brain+spine+and+trauma+hospital/data=!4m7!3m6!1s0x3bbba9cdd8ea195b:0xf553275c82bb4a56!8m2!3d13.936861!4d75.5686419!16s%2Fg%2F11rn7ct5fg!19sChIJWxnq2M2puzsRVkq7glwnU_U?authuser=0&hl=en&rclk=1"
@@ -6883,8 +6826,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neurobharat+Brain+spine+and+trauma+hospital/data=!4m7!3m6!1s0x3bbba9cdd8ea195b:0xf553275c82bb4a56!8m2!3d13.936861!4d75.5686419!16s%2Fg%2F11rn7ct5fg!19sChIJWxnq2M2puzsRVkq7glwnU_U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neurobharat-brain-spine-and-trauma-hospital-shivamogga",
@@ -6935,7 +6877,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neurobharat+Brain+spine+and+trauma+hospital/data=!4m7!3m6!1s0x3bbba929fbd2a5f5:0x3427d1c1def984b!8m2!3d13.936861!4d75.5686419!16s%2Fg%2F11cp74n4yy!19sChIJ9aXS-ympuzsRS5jvHRx9QgM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neurobharat+Brain+spine+and+trauma+hospital/data=!4m7!3m6!1s0x3bbba929fbd2a5f5:0x3427d1c1def984b!8m2!3d13.936861!4d75.5686419!16s%2Fg%2F11cp74n4yy!19sChIJ9aXS-ympuzsRS5jvHRx9QgM?authuser=0&hl=en&rclk=1"
@@ -7004,8 +6946,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neurobharat+Brain+spine+and+trauma+hospital/data=!4m7!3m6!1s0x3bbba929fbd2a5f5:0x3427d1c1def984b!8m2!3d13.936861!4d75.5686419!16s%2Fg%2F11cp74n4yy!19sChIJ9aXS-ympuzsRS5jvHRx9QgM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "niranjans-dental-care-and-orthodontic-center-shivamogga",
@@ -7055,7 +6996,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Niranjans+Dental+Care+%26+Orthodontic+Center/data=!4m7!3m6!1s0x3bbbaf4af87f13e9:0x3e3bcc336ece8ce0!8m2!3d13.9468566!4d75.5636547!16s%2Fg%2F11vf2yq01j!19sChIJ6RN_-EqvuzsR4IzObjPMOz4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Niranjans+Dental+Care+%26+Orthodontic+Center/data=!4m7!3m6!1s0x3bbbaf4af87f13e9:0x3e3bcc336ece8ce0!8m2!3d13.9468566!4d75.5636547!16s%2Fg%2F11vf2yq01j!19sChIJ6RN_-EqvuzsR4IzObjPMOz4?authuser=0&hl=en&rclk=1"
@@ -7124,8 +7065,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Niranjans+Dental+Care+%26+Orthodontic+Center/data=!4m7!3m6!1s0x3bbbaf4af87f13e9:0x3e3bcc336ece8ce0!8m2!3d13.9468566!4d75.5636547!16s%2Fg%2F11vf2yq01j!19sChIJ6RN_-EqvuzsR4IzObjPMOz4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirmala-hospital-shivamogga",
@@ -7175,7 +7115,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nirmala+Hospital/data=!4m7!3m6!1s0x3bbbaf2b5b33367b:0x5f4e83c06bae8445!8m2!3d13.9444611!4d75.5691076!16s%2Fg%2F1wk4bj3n!19sChIJezYzWyuvuzsRRYSua8CDTl8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirmala+Hospital/data=!4m7!3m6!1s0x3bbbaf2b5b33367b:0x5f4e83c06bae8445!8m2!3d13.9444611!4d75.5691076!16s%2Fg%2F1wk4bj3n!19sChIJezYzWyuvuzsRRYSua8CDTl8?authuser=0&hl=en&rclk=1"
@@ -7244,8 +7184,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nirmala+Hospital/data=!4m7!3m6!1s0x3bbbaf2b5b33367b:0x5f4e83c06bae8445!8m2!3d13.9444611!4d75.5691076!16s%2Fg%2F1wk4bj3n!19sChIJezYzWyuvuzsRRYSua8CDTl8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirmala-madilu-shivamogga",
@@ -7295,7 +7234,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nirmala+Madilu/data=!4m7!3m6!1s0x3bbbafaf3cdf14bf:0x65084bb1ad6f74dc!8m2!3d13.9445367!4d75.5691928!16s%2Fg%2F11h_ww5r93!19sChIJvxTfPK-vuzsR3HRvrbFLCGU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirmala+Madilu/data=!4m7!3m6!1s0x3bbbafaf3cdf14bf:0x65084bb1ad6f74dc!8m2!3d13.9445367!4d75.5691928!16s%2Fg%2F11h_ww5r93!19sChIJvxTfPK-vuzsR3HRvrbFLCGU?authuser=0&hl=en&rclk=1"
@@ -7361,11 +7300,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nirmala+Madilu/data=!4m7!3m6!1s0x3bbbafaf3cdf14bf:0x65084bb1ad6f74dc!8m2!3d13.9445367!4d75.5691928!16s%2Fg%2F11h_ww5r93!19sChIJvxTfPK-vuzsR3HRvrbFLCGU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nova-ivf-fertility-center-best-ivf-centre-in-shivamogga-shivamogga",
@@ -7415,7 +7353,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Shivamogga/data=!4m7!3m6!1s0x3bbbaf6198103b7d:0x9f0d16f80a10e15!8m2!3d13.944817!4d75.567918!16s%2Fg%2F11y9hwypgr!19sChIJfTsQmGGvuzsRFQ6hgG_R8Ak?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Shivamogga/data=!4m7!3m6!1s0x3bbbaf6198103b7d:0x9f0d16f80a10e15!8m2!3d13.944817!4d75.567918!16s%2Fg%2F11y9hwypgr!19sChIJfTsQmGGvuzsRFQ6hgG_R8Ak?authuser=0&hl=en&rclk=1"
@@ -7484,8 +7422,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Shivamogga/data=!4m7!3m6!1s0x3bbbaf6198103b7d:0x9f0d16f80a10e15!8m2!3d13.944817!4d75.567918!16s%2Fg%2F11y9hwypgr!19sChIJfTsQmGGvuzsRFQ6hgG_R8Ak?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nu-fertility-shivamogga-shivamogga",
@@ -7535,7 +7472,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NU+Fertility+Shivamogga/data=!4m7!3m6!1s0x3bbba8d5944fe891:0xf0c292e8a7190e6!8m2!3d13.9377322!4d75.568246!16s%2Fg%2F11pv2bh80f!19sChIJkehPlNWouzsR5pBxii4pDA8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NU+Fertility+Shivamogga/data=!4m7!3m6!1s0x3bbba8d5944fe891:0xf0c292e8a7190e6!8m2!3d13.9377322!4d75.568246!16s%2Fg%2F11pv2bh80f!19sChIJkehPlNWouzsR5pBxii4pDA8?authuser=0&hl=en&rclk=1"
@@ -7604,8 +7541,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NU+Fertility+Shivamogga/data=!4m7!3m6!1s0x3bbba8d5944fe891:0xf0c292e8a7190e6!8m2!3d13.9377322!4d75.568246!16s%2Fg%2F11pv2bh80f!19sChIJkehPlNWouzsR5pBxii4pDA8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nu-hospitals-shivamogga-shivamogga",
@@ -7654,7 +7590,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NU+Hospitals+%28Shivamogga%29/data=!4m7!3m6!1s0x3bbbab839fb9bf23:0xd97fac1ffc8d1055!8m2!3d13.8774995!4d75.6559401!16s%2Fg%2F11fq_txswq!19sChIJI7-5n4OruzsRVRCN_B-sf9k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NU+Hospitals+%28Shivamogga%29/data=!4m7!3m6!1s0x3bbbab839fb9bf23:0xd97fac1ffc8d1055!8m2!3d13.8774995!4d75.6559401!16s%2Fg%2F11fq_txswq!19sChIJI7-5n4OruzsRVRCN_B-sf9k?authuser=0&hl=en&rclk=1"
@@ -7723,8 +7659,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NU+Hospitals+%28Shivamogga%29/data=!4m7!3m6!1s0x3bbbab839fb9bf23:0xd97fac1ffc8d1055!8m2!3d13.8774995!4d75.6559401!16s%2Fg%2F11fq_txswq!19sChIJI7-5n4OruzsRVRCN_B-sf9k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "obstetrics-and-gynecology-fetal-medicine-shivamogga",
@@ -7773,7 +7708,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Obstetrics+and+gynecology,+fetal+medicine/data=!4m7!3m6!1s0x3bbba9ede7a9984d:0x246ae84316655cf1!8m2!3d13.9013334!4d75.5583175!16s%2Fg%2F11xfdcl7wm!19sChIJTZip5-2puzsR8VxlFkPoaiQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Obstetrics+and+gynecology,+fetal+medicine/data=!4m7!3m6!1s0x3bbba9ede7a9984d:0x246ae84316655cf1!8m2!3d13.9013334!4d75.5583175!16s%2Fg%2F11xfdcl7wm!19sChIJTZip5-2puzsR8VxlFkPoaiQ?authuser=0&hl=en&rclk=1"
@@ -7839,11 +7774,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Obstetrics+and+gynecology,+fetal+medicine/data=!4m7!3m6!1s0x3bbba9ede7a9984d:0x246ae84316655cf1!8m2!3d13.9013334!4d75.5583175!16s%2Fg%2F11xfdcl7wm!19sChIJTZip5-2puzsR8VxlFkPoaiQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "omkar-hospital-shivamogga",
@@ -7891,7 +7825,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Omkar+Hospital/data=!4m7!3m6!1s0x3bbba8d6bd68d44b:0x525a15f6ec87f28a!8m2!3d13.9370531!4d75.5698247!16s%2Fg%2F11dzw6_jmn!19sChIJS9RovdaouzsRivKH7PYVWlI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Omkar+Hospital/data=!4m7!3m6!1s0x3bbba8d6bd68d44b:0x525a15f6ec87f28a!8m2!3d13.9370531!4d75.5698247!16s%2Fg%2F11dzw6_jmn!19sChIJS9RovdaouzsRivKH7PYVWlI?authuser=0&hl=en&rclk=1"
@@ -7960,8 +7894,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Omkar+Hospital/data=!4m7!3m6!1s0x3bbba8d6bd68d44b:0x525a15f6ec87f28a!8m2!3d13.9370531!4d75.5698247!16s%2Fg%2F11dzw6_jmn!19sChIJS9RovdaouzsRivKH7PYVWlI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "onkar-skin-and-aesthetic-clinic-shivamogga",
@@ -8010,7 +7943,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Onkar+skin+and+aesthetic+clinic/data=!4m7!3m6!1s0x3bbba940969d786b:0xb8da2dceab0c3912!8m2!3d13.9410843!4d75.5761546!16s%2Fg%2F11ykmk9_4p!19sChIJa3idlkCpuzsREjkMq84t2rg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Onkar+skin+and+aesthetic+clinic/data=!4m7!3m6!1s0x3bbba940969d786b:0xb8da2dceab0c3912!8m2!3d13.9410843!4d75.5761546!16s%2Fg%2F11ykmk9_4p!19sChIJa3idlkCpuzsREjkMq84t2rg?authuser=0&hl=en&rclk=1"
@@ -8079,8 +8012,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Onkar+skin+and+aesthetic+clinic/data=!4m7!3m6!1s0x3bbba940969d786b:0xb8da2dceab0c3912!8m2!3d13.9410843!4d75.5761546!16s%2Fg%2F11ykmk9_4p!19sChIJa3idlkCpuzsREjkMq84t2rg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orthosquare-dental-clinic-kr-puram-shivamogga-first-floor",
@@ -8130,7 +8062,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+KR+Puram,+Shivamogga/data=!4m7!3m6!1s0x3bbba9afcc0f8b77:0xdb543297e4b0c009!8m2!3d13.929954!4d75.5766662!16s%2Fg%2F11ym0btmlv!19sChIJd4sPzK-puzsRCcCw5JcyVNs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+KR+Puram,+Shivamogga/data=!4m7!3m6!1s0x3bbba9afcc0f8b77:0xdb543297e4b0c009!8m2!3d13.929954!4d75.5766662!16s%2Fg%2F11ym0btmlv!19sChIJd4sPzK-puzsRCcCw5JcyVNs?authuser=0&hl=en&rclk=1"
@@ -8196,11 +8128,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+KR+Puram,+Shivamogga/data=!4m7!3m6!1s0x3bbba9afcc0f8b77:0xdb543297e4b0c009!8m2!3d13.929954!4d75.5766662!16s%2Fg%2F11ym0btmlv!19sChIJd4sPzK-puzsRCcCw5JcyVNs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "padma-dental-clinic-shivamogga",
@@ -8248,7 +8179,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Padma+Dental+Clinic/data=!4m7!3m6!1s0x3bbba926c49c395b:0xc7d7ee390f48a16b!8m2!3d13.9281244!4d75.5779863!16s%2Fg%2F11fxw29ds8!19sChIJWzmcxCapuzsRa6FIDznu18c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Padma+Dental+Clinic/data=!4m7!3m6!1s0x3bbba926c49c395b:0xc7d7ee390f48a16b!8m2!3d13.9281244!4d75.5779863!16s%2Fg%2F11fxw29ds8!19sChIJWzmcxCapuzsRa6FIDznu18c?authuser=0&hl=en&rclk=1"
@@ -8317,8 +8248,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Padma+Dental+Clinic/data=!4m7!3m6!1s0x3bbba926c49c395b:0xc7d7ee390f48a16b!8m2!3d13.9281244!4d75.5779863!16s%2Fg%2F11fxw29ds8!19sChIJWzmcxCapuzsRa6FIDznu18c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patil-s-dental-clinic-and-speciality-root-canal-center-shivamogga",
@@ -8367,7 +8297,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patil%27s+Dental+Clinic+and+Speciality+Root+Canal+Center/data=!4m7!3m6!1s0x3bbbaf2de0d9372b:0x377a94cd5ca2534f!8m2!3d13.948538!4d75.563893!16s%2Fg%2F11gdqklr62!19sChIJKzfZ4C2vuzsRT1OiXM2Uejc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patil%27s+Dental+Clinic+and+Speciality+Root+Canal+Center/data=!4m7!3m6!1s0x3bbbaf2de0d9372b:0x377a94cd5ca2534f!8m2!3d13.948538!4d75.563893!16s%2Fg%2F11gdqklr62!19sChIJKzfZ4C2vuzsRT1OiXM2Uejc?authuser=0&hl=en&rclk=1"
@@ -8433,11 +8363,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patil%27s+Dental+Clinic+and+Speciality+Root+Canal+Center/data=!4m7!3m6!1s0x3bbbaf2de0d9372b:0x377a94cd5ca2534f!8m2!3d13.948538!4d75.563893!16s%2Fg%2F11gdqklr62!19sChIJKzfZ4C2vuzsRT1OiXM2Uejc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "positive-mind-hospital-shivamogga",
@@ -8486,7 +8415,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Positive+Mind+Hospital/data=!4m7!3m6!1s0x3bbba8d6baf94d1b:0x6c5bf86858cac9c0!8m2!3d13.9440024!4d75.5604146!16s%2Fg%2F11g8g0bfr0!19sChIJG035utaouzsRwMnKWGj4W2w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Positive+Mind+Hospital/data=!4m7!3m6!1s0x3bbba8d6baf94d1b:0x6c5bf86858cac9c0!8m2!3d13.9440024!4d75.5604146!16s%2Fg%2F11g8g0bfr0!19sChIJG035utaouzsRwMnKWGj4W2w?authuser=0&hl=en&rclk=1"
@@ -8555,8 +8484,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Positive+Mind+Hospital/data=!4m7!3m6!1s0x3bbba8d6baf94d1b:0x6c5bf86858cac9c0!8m2!3d13.9440024!4d75.5604146!16s%2Fg%2F11g8g0bfr0!19sChIJG035utaouzsRwMnKWGj4W2w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "praaya-aesthetic-internationale-shivamogga",
@@ -8605,7 +8533,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Praaya+Aesthetic+Internationale/data=!4m7!3m6!1s0x46ae416d5c9f2d19:0x219439fbb2538d5b!8m2!3d13.9386056!4d75.5698573!16s%2Fg%2F11md2tfwb8!19sChIJGS2fXG1BrkYRW41Tsvs5lCE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Praaya+Aesthetic+Internationale/data=!4m7!3m6!1s0x46ae416d5c9f2d19:0x219439fbb2538d5b!8m2!3d13.9386056!4d75.5698573!16s%2Fg%2F11md2tfwb8!19sChIJGS2fXG1BrkYRW41Tsvs5lCE?authuser=0&hl=en&rclk=1"
@@ -8671,11 +8599,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Praaya+Aesthetic+Internationale/data=!4m7!3m6!1s0x46ae416d5c9f2d19:0x219439fbb2538d5b!8m2!3d13.9386056!4d75.5698573!16s%2Fg%2F11md2tfwb8!19sChIJGS2fXG1BrkYRW41Tsvs5lCE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prithvi-dental-clinic-shivamogga",
@@ -8723,7 +8650,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prithvi+Dental+Clinic/data=!4m7!3m6!1s0x3bbba9709a43c995:0x5e920d090f63533d!8m2!3d13.9258703!4d75.5506252!16s%2Fg%2F11v9tbd47s!19sChIJlclDmnCpuzsRPVNjDwkNkl4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prithvi+Dental+Clinic/data=!4m7!3m6!1s0x3bbba9709a43c995:0x5e920d090f63533d!8m2!3d13.9258703!4d75.5506252!16s%2Fg%2F11v9tbd47s!19sChIJlclDmnCpuzsRPVNjDwkNkl4?authuser=0&hl=en&rclk=1"
@@ -8789,11 +8716,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prithvi+Dental+Clinic/data=!4m7!3m6!1s0x3bbba9709a43c995:0x5e920d090f63533d!8m2!3d13.9258703!4d75.5506252!16s%2Fg%2F11v9tbd47s!19sChIJlclDmnCpuzsRPVNjDwkNkl4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pro-smile-dental-and-orthodontic-centre-shivamogga",
@@ -8843,7 +8769,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pro-Smile+Dental+%26+Orthodontic+Centre/data=!4m7!3m6!1s0x3bbba9059bf6bb83:0x75d011a62e7937ad!8m2!3d13.9376012!4d75.5568239!16s%2Fg%2F11l5fsjgt2!19sChIJg7v2mwWpuzsRrTd5LqYR0HU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pro-Smile+Dental+%26+Orthodontic+Centre/data=!4m7!3m6!1s0x3bbba9059bf6bb83:0x75d011a62e7937ad!8m2!3d13.9376012!4d75.5568239!16s%2Fg%2F11l5fsjgt2!19sChIJg7v2mwWpuzsRrTd5LqYR0HU?authuser=0&hl=en&rclk=1"
@@ -8912,8 +8838,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pro-Smile+Dental+%26+Orthodontic+Centre/data=!4m7!3m6!1s0x3bbba9059bf6bb83:0x75d011a62e7937ad!8m2!3d13.9376012!4d75.5568239!16s%2Fg%2F11l5fsjgt2!19sChIJg7v2mwWpuzsRrTd5LqYR0HU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "quadri-s-dental-care-dental-clinic-in-shimoga-shivamogga",
@@ -8962,7 +8887,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Quadri%27s+Dental+Care+%7C+Dental+Clinic+in+Shimoga/data=!4m7!3m6!1s0x3bbba8d8a87ed75b:0x9b03ffb21bc04079!8m2!3d13.9274901!4d75.5694556!16s%2Fg%2F11g8vmtbp7!19sChIJW9d-qNiouzsReUDAG7L_A5s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Quadri%27s+Dental+Care+%7C+Dental+Clinic+in+Shimoga/data=!4m7!3m6!1s0x3bbba8d8a87ed75b:0x9b03ffb21bc04079!8m2!3d13.9274901!4d75.5694556!16s%2Fg%2F11g8vmtbp7!19sChIJW9d-qNiouzsReUDAG7L_A5s?authuser=0&hl=en&rclk=1"
@@ -9031,8 +8956,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Quadri%27s+Dental+Care+%7C+Dental+Clinic+in+Shimoga/data=!4m7!3m6!1s0x3bbba8d8a87ed75b:0x9b03ffb21bc04079!8m2!3d13.9274901!4d75.5694556!16s%2Fg%2F11g8vmtbp7!19sChIJW9d-qNiouzsReUDAG7L_A5s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rathna-dental-care-omfs-and-implant-center-shivamogga",
@@ -9080,7 +9004,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rathna+Dental+Care-+OMFS+%26+Implant+Center/data=!4m7!3m6!1s0x3bbba9000b5efe9f:0x2282093951777b96!8m2!3d13.9342516!4d75.5709413!16s%2Fg%2F11wj6r67f6!19sChIJn_5eCwCpuzsRlnt3UTkJgiI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rathna+Dental+Care-+OMFS+%26+Implant+Center/data=!4m7!3m6!1s0x3bbba9000b5efe9f:0x2282093951777b96!8m2!3d13.9342516!4d75.5709413!16s%2Fg%2F11wj6r67f6!19sChIJn_5eCwCpuzsRlnt3UTkJgiI?authuser=0&hl=en&rclk=1"
@@ -9146,11 +9070,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rathna+Dental+Care-+OMFS+%26+Implant+Center/data=!4m7!3m6!1s0x3bbba9000b5efe9f:0x2282093951777b96!8m2!3d13.9342516!4d75.5709413!16s%2Fg%2F11wj6r67f6!19sChIJn_5eCwCpuzsRlnt3UTkJgiI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ravi-poly-clinic-shivamogga",
@@ -9198,7 +9121,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ravi+Poly+Clinic/data=!4m7!3m6!1s0x3bbba9719d4d41a7:0xeb27ef48610c7184!8m2!3d13.9349531!4d75.5704882!16s%2Fg%2F11fkr175bm!19sChIJp0FNnXGpuzsRhHEMYUjvJ-s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ravi+Poly+Clinic/data=!4m7!3m6!1s0x3bbba9719d4d41a7:0xeb27ef48610c7184!8m2!3d13.9349531!4d75.5704882!16s%2Fg%2F11fkr175bm!19sChIJp0FNnXGpuzsRhHEMYUjvJ-s?authuser=0&hl=en&rclk=1"
@@ -9267,8 +9190,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ravi+Poly+Clinic/data=!4m7!3m6!1s0x3bbba9719d4d41a7:0xeb27ef48610c7184!8m2!3d13.9349531!4d75.5704882!16s%2Fg%2F11fkr175bm!19sChIJp0FNnXGpuzsRhHEMYUjvJ-s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sadaayu-ayurveda-hospital-shivamogga",
@@ -9316,7 +9238,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sadaayu+Ayurveda+Hospital/data=!4m7!3m6!1s0x3bbba90ecffe1251:0xd0d1ad56b7f339a4!8m2!3d13.9427953!4d75.5752399!16s%2Fg%2F11n00rsc4l!19sChIJURL-zw6puzsRpDnzt1at0dA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadaayu+Ayurveda+Hospital/data=!4m7!3m6!1s0x3bbba90ecffe1251:0xd0d1ad56b7f339a4!8m2!3d13.9427953!4d75.5752399!16s%2Fg%2F11n00rsc4l!19sChIJURL-zw6puzsRpDnzt1at0dA?authuser=0&hl=en&rclk=1"
@@ -9385,8 +9307,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sadaayu+Ayurveda+Hospital/data=!4m7!3m6!1s0x3bbba90ecffe1251:0xd0d1ad56b7f339a4!8m2!3d13.9427953!4d75.5752399!16s%2Fg%2F11n00rsc4l!19sChIJURL-zw6puzsRpDnzt1at0dA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sadguru-piles-clinic-shivamogga",
@@ -9434,7 +9355,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sadguru+Piles+Clinic/data=!4m7!3m6!1s0x3bbba8cbfd9d6017:0x6638cbb8f47bdac8!8m2!3d13.937102!4d75.5562366!16s%2Fg%2F11rhsyk1md!19sChIJF2Cd_cuouzsRyNp79LjLOGY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadguru+Piles+Clinic/data=!4m7!3m6!1s0x3bbba8cbfd9d6017:0x6638cbb8f47bdac8!8m2!3d13.937102!4d75.5562366!16s%2Fg%2F11rhsyk1md!19sChIJF2Cd_cuouzsRyNp79LjLOGY?authuser=0&hl=en&rclk=1"
@@ -9500,11 +9421,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sadguru+Piles+Clinic/data=!4m7!3m6!1s0x3bbba8cbfd9d6017:0x6638cbb8f47bdac8!8m2!3d13.937102!4d75.5562366!16s%2Fg%2F11rhsyk1md!19sChIJF2Cd_cuouzsRyNp79LjLOGY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "safe-ivf-centre-shivamogga",
@@ -9554,7 +9474,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAFE+IVF+CENTRE,/data=!4m7!3m6!1s0x3bbba9005959b977:0x7ec50026fa2ecf00!8m2!3d13.9377837!4d75.5717306!16s%2Fg%2F11f5xzwmt6!19sChIJd7lZWQCpuzsRAM8u-iYAxX4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAFE+IVF+CENTRE,/data=!4m7!3m6!1s0x3bbba9005959b977:0x7ec50026fa2ecf00!8m2!3d13.9377837!4d75.5717306!16s%2Fg%2F11f5xzwmt6!19sChIJd7lZWQCpuzsRAM8u-iYAxX4?authuser=0&hl=en&rclk=1"
@@ -9623,8 +9543,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAFE+IVF+CENTRE,/data=!4m7!3m6!1s0x3bbba9005959b977:0x7ec50026fa2ecf00!8m2!3d13.9377837!4d75.5717306!16s%2Fg%2F11f5xzwmt6!19sChIJd7lZWQCpuzsRAM8u-iYAxX4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sahyadri-hospital-shivamogga",
@@ -9672,7 +9591,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sahyadri+Hospital/data=!4m7!3m6!1s0x3bbba8d893c718d5:0x5e665d35a14ff8c9!8m2!3d13.9286356!4d75.5730742!16s%2Fg%2F11g8vss73j!19sChIJ1RjHk9iouzsRyfhPoTVdZl4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahyadri+Hospital/data=!4m7!3m6!1s0x3bbba8d893c718d5:0x5e665d35a14ff8c9!8m2!3d13.9286356!4d75.5730742!16s%2Fg%2F11g8vss73j!19sChIJ1RjHk9iouzsRyfhPoTVdZl4?authuser=0&hl=en&rclk=1"
@@ -9741,8 +9660,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sahyadri+Hospital/data=!4m7!3m6!1s0x3bbba8d893c718d5:0x5e665d35a14ff8c9!8m2!3d13.9286356!4d75.5730742!16s%2Fg%2F11g8vss73j!19sChIJ1RjHk9iouzsRyfhPoTVdZl4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanidhya-dental-clinic-shivamogga",
@@ -9790,7 +9708,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanidhya+Dental+Clinic/data=!4m7!3m6!1s0x3bbba929e43167e9:0x26961853b044da!8m2!3d13.9371667!4d75.5747671!16s%2Fg%2F11f403ltyt!19sChIJ6Wcx5CmpuzsR2kSwUxiWJgA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanidhya+Dental+Clinic/data=!4m7!3m6!1s0x3bbba929e43167e9:0x26961853b044da!8m2!3d13.9371667!4d75.5747671!16s%2Fg%2F11f403ltyt!19sChIJ6Wcx5CmpuzsR2kSwUxiWJgA?authuser=0&hl=en&rclk=1"
@@ -9859,8 +9777,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanidhya+Dental+Clinic/data=!4m7!3m6!1s0x3bbba929e43167e9:0x26961853b044da!8m2!3d13.9371667!4d75.5747671!16s%2Fg%2F11f403ltyt!19sChIJ6Wcx5CmpuzsR2kSwUxiWJgA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevini-consultation-center-shivamogga",
@@ -9908,7 +9825,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevini+Consultation+Center/data=!4m7!3m6!1s0x3bbba92a80b5477d:0x75594bbb9eb0c750!8m2!3d13.9410689!4d75.5746068!16s%2Fg%2F11h9_rn__1!19sChIJfUe1gCqpuzsRUMewnrtLWXU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevini+Consultation+Center/data=!4m7!3m6!1s0x3bbba92a80b5477d:0x75594bbb9eb0c750!8m2!3d13.9410689!4d75.5746068!16s%2Fg%2F11h9_rn__1!19sChIJfUe1gCqpuzsRUMewnrtLWXU?authuser=0&hl=en&rclk=1"
@@ -9977,8 +9894,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevini+Consultation+Center/data=!4m7!3m6!1s0x3bbba92a80b5477d:0x75594bbb9eb0c750!8m2!3d13.9410689!4d75.5746068!16s%2Fg%2F11h9_rn__1!19sChIJfUe1gCqpuzsRUMewnrtLWXU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevini-dental-clinic-shimoga-shivamogga",
@@ -10026,7 +9942,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevini+Dental+Clinic,+Shimoga/data=!4m7!3m6!1s0x3bbbaf3192b2b44d:0x2720d92b39e05fd3!8m2!3d13.9469485!4d75.5640339!16s%2Fg%2F11gb3yrqpx!19sChIJTbSykjGvuzsR01_gOSvZICc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevini+Dental+Clinic,+Shimoga/data=!4m7!3m6!1s0x3bbbaf3192b2b44d:0x2720d92b39e05fd3!8m2!3d13.9469485!4d75.5640339!16s%2Fg%2F11gb3yrqpx!19sChIJTbSykjGvuzsR01_gOSvZICc?authuser=0&hl=en&rclk=1"
@@ -10092,11 +10008,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevini+Dental+Clinic,+Shimoga/data=!4m7!3m6!1s0x3bbbaf3192b2b44d:0x2720d92b39e05fd3!8m2!3d13.9469485!4d75.5640339!16s%2Fg%2F11gb3yrqpx!19sChIJTbSykjGvuzsR01_gOSvZICc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sapthami-dental-clinic-shivamogga",
@@ -10144,7 +10059,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sapthami+Dental+Clinic/data=!4m7!3m6!1s0x3bbba92af5eae0e9:0x9641d755af7b8810!8m2!3d13.9411949!4d75.5763218!16s%2Fg%2F1tff61h6!19sChIJ6eDq9SqpuzsREIh7r1XXQZY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sapthami+Dental+Clinic/data=!4m7!3m6!1s0x3bbba92af5eae0e9:0x9641d755af7b8810!8m2!3d13.9411949!4d75.5763218!16s%2Fg%2F1tff61h6!19sChIJ6eDq9SqpuzsREIh7r1XXQZY?authuser=0&hl=en&rclk=1"
@@ -10213,8 +10128,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sapthami+Dental+Clinic/data=!4m7!3m6!1s0x3bbba92af5eae0e9:0x9641d755af7b8810!8m2!3d13.9411949!4d75.5763218!16s%2Fg%2F1tff61h6!19sChIJ6eDq9SqpuzsREIh7r1XXQZY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarji-hospital-shivamogga",
@@ -10264,7 +10178,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarji+Hospital/data=!4m7!3m6!1s0x3bbba8d678dc7c65:0x78fa78a97ac061b!8m2!3d13.9378367!4d75.5719686!16s%2Fg%2F11b6ynk8f1!19sChIJZXzceNaouzsRGwasl4qnjwc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarji+Hospital/data=!4m7!3m6!1s0x3bbba8d678dc7c65:0x78fa78a97ac061b!8m2!3d13.9378367!4d75.5719686!16s%2Fg%2F11b6ynk8f1!19sChIJZXzceNaouzsRGwasl4qnjwc?authuser=0&hl=en&rclk=1"
@@ -10333,8 +10247,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarji+Hospital/data=!4m7!3m6!1s0x3bbba8d678dc7c65:0x78fa78a97ac061b!8m2!3d13.9378367!4d75.5719686!16s%2Fg%2F11b6ynk8f1!19sChIJZXzceNaouzsRGwasl4qnjwc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarji-maternity-hospital-shivamogga",
@@ -10383,7 +10296,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SARJI+MATERNITY+HOSPITAL/data=!4m7!3m6!1s0x3bbba93377760587:0xd361bfbc28706ad3!8m2!3d13.9380266!4d75.5727926!16s%2Fg%2F11ms2f11x3!19sChIJhwV2dzOpuzsR02pwKLy_YdM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SARJI+MATERNITY+HOSPITAL/data=!4m7!3m6!1s0x3bbba93377760587:0xd361bfbc28706ad3!8m2!3d13.9380266!4d75.5727926!16s%2Fg%2F11ms2f11x3!19sChIJhwV2dzOpuzsR02pwKLy_YdM?authuser=0&hl=en&rclk=1"
@@ -10449,11 +10362,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SARJI+MATERNITY+HOSPITAL/data=!4m7!3m6!1s0x3bbba93377760587:0xd361bfbc28706ad3!8m2!3d13.9380266!4d75.5727926!16s%2Fg%2F11ms2f11x3!19sChIJhwV2dzOpuzsR02pwKLy_YdM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharavathi-dental-college-and-hospital-shivamogga",
@@ -10503,7 +10415,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharavathi+Dental+College+and+Hospital/data=!4m7!3m6!1s0x3bbbaf509bac54cf:0x2343b5f5b2a86df6!8m2!3d13.952252!4d75.5354604!16s%2Fg%2F1hdz7db_3!19sChIJz1Ssm1CvuzsR9m2osvW1QyM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharavathi+Dental+College+and+Hospital/data=!4m7!3m6!1s0x3bbbaf509bac54cf:0x2343b5f5b2a86df6!8m2!3d13.952252!4d75.5354604!16s%2Fg%2F1hdz7db_3!19sChIJz1Ssm1CvuzsR9m2osvW1QyM?authuser=0&hl=en&rclk=1"
@@ -10572,8 +10484,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharavathi+Dental+College+and+Hospital/data=!4m7!3m6!1s0x3bbbaf509bac54cf:0x2343b5f5b2a86df6!8m2!3d13.952252!4d75.5354604!16s%2Fg%2F1hdz7db_3!19sChIJz1Ssm1CvuzsR9m2osvW1QyM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shashank-dental-clinic-shivamogga",
@@ -10621,7 +10532,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shashank+Dental+Clinic/data=!4m7!3m6!1s0x3bbba8d1fd4fdaab:0x9f22f406caad7a95!8m2!3d13.9367682!4d75.5626562!16s%2Fg%2F11d_7xcycf!19sChIJq9pP_dGouzsRlXqtygb0Ip8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shashank+Dental+Clinic/data=!4m7!3m6!1s0x3bbba8d1fd4fdaab:0x9f22f406caad7a95!8m2!3d13.9367682!4d75.5626562!16s%2Fg%2F11d_7xcycf!19sChIJq9pP_dGouzsRlXqtygb0Ip8?authuser=0&hl=en&rclk=1"
@@ -10690,8 +10601,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shashank+Dental+Clinic/data=!4m7!3m6!1s0x3bbba8d1fd4fdaab:0x9f22f406caad7a95!8m2!3d13.9367682!4d75.5626562!16s%2Fg%2F11d_7xcycf!19sChIJq9pP_dGouzsRlXqtygb0Ip8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shrushti-skin-clinic-shivamogga",
@@ -10740,7 +10650,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shrushti+Skin+Clinic/data=!4m7!3m6!1s0x3bbba91cb600d173:0x39013de2769b225!8m2!3d13.9352551!4d75.5736538!16s%2Fg%2F11svnl8138!19sChIJc9EAthypuzsRJbJpJ94TkAM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shrushti+Skin+Clinic/data=!4m7!3m6!1s0x3bbba91cb600d173:0x39013de2769b225!8m2!3d13.9352551!4d75.5736538!16s%2Fg%2F11svnl8138!19sChIJc9EAthypuzsRJbJpJ94TkAM?authuser=0&hl=en&rclk=1"
@@ -10809,8 +10719,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shrushti+Skin+Clinic/data=!4m7!3m6!1s0x3bbba91cb600d173:0x39013de2769b225!8m2!3d13.9352551!4d75.5736538!16s%2Fg%2F11svnl8138!19sChIJc9EAthypuzsRJbJpJ94TkAM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sindhu-urology-hospital-shivamogga",
@@ -10858,7 +10767,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sindhu+Urology+Hospital/data=!4m7!3m6!1s0x3bbba8cee858f5ff:0x2b1951285d92231e!8m2!3d13.9532815!4d75.5753315!16s%2Fg%2F11pbrgm01v!19sChIJ__VY6M6ouzsRHiOSXShRGSs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sindhu+Urology+Hospital/data=!4m7!3m6!1s0x3bbba8cee858f5ff:0x2b1951285d92231e!8m2!3d13.9532815!4d75.5753315!16s%2Fg%2F11pbrgm01v!19sChIJ__VY6M6ouzsRHiOSXShRGSs?authuser=0&hl=en&rclk=1"
@@ -10927,8 +10836,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sindhu+Urology+Hospital/data=!4m7!3m6!1s0x3bbba8cee858f5ff:0x2b1951285d92231e!8m2!3d13.9532815!4d75.5753315!16s%2Fg%2F11pbrgm01v!19sChIJ__VY6M6ouzsRHiOSXShRGSs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "skp-shifa-hospital-shivamogga",
@@ -10976,7 +10884,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SKP+Shifa+hospital/data=!4m7!3m6!1s0x3bbba9c67ac30357:0x17380e43a7c1f07c!8m2!3d13.9174268!4d75.5684964!16s%2Fg%2F11txq1rmcl!19sChIJVwPDesapuzsRfPDBp0MOOBc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SKP+Shifa+hospital/data=!4m7!3m6!1s0x3bbba9c67ac30357:0x17380e43a7c1f07c!8m2!3d13.9174268!4d75.5684964!16s%2Fg%2F11txq1rmcl!19sChIJVwPDesapuzsRfPDBp0MOOBc?authuser=0&hl=en&rclk=1"
@@ -11042,11 +10950,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SKP+Shifa+hospital/data=!4m7!3m6!1s0x3bbba9c67ac30357:0x17380e43a7c1f07c!8m2!3d13.9174268!4d75.5684964!16s%2Fg%2F11txq1rmcl!19sChIJVwPDesapuzsRfPDBp0MOOBc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-clinic-shimoga-dr-shanthkumar-hv-shivamogga",
@@ -11095,7 +11002,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Dental+Clinic,shimoga,Dr+Shanthkumar+HV/data=!4m7!3m6!1s0x3bbba92775acaed9:0xa94a03c277b6ec33!8m2!3d13.9299392!4d75.5724331!16s%2Fg%2F1hjh7mmv4!19sChIJ2a6sdSepuzsRM-y2d8IDSqk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental+Clinic,shimoga,Dr+Shanthkumar+HV/data=!4m7!3m6!1s0x3bbba92775acaed9:0xa94a03c277b6ec33!8m2!3d13.9299392!4d75.5724331!16s%2Fg%2F1hjh7mmv4!19sChIJ2a6sdSepuzsRM-y2d8IDSqk?authuser=0&hl=en&rclk=1"
@@ -11164,8 +11071,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Dental+Clinic,shimoga,Dr+Shanthkumar+HV/data=!4m7!3m6!1s0x3bbba92775acaed9:0xa94a03c277b6ec33!8m2!3d13.9299392!4d75.5724331!16s%2Fg%2F1hjh7mmv4!19sChIJ2a6sdSepuzsRM-y2d8IDSqk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-basaveshwara-hospital-shivamogga",
@@ -11214,7 +11120,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Basaveshwara+Hospital/data=!4m7!3m6!1s0x3bbba935a9b70257:0x70a287b9867a8bad!8m2!3d13.9369172!4d75.5734537!16s%2Fg%2F11ty45nt6k!19sChIJVwK3qTWpuzsRrYt6hrmHonA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Basaveshwara+Hospital/data=!4m7!3m6!1s0x3bbba935a9b70257:0x70a287b9867a8bad!8m2!3d13.9369172!4d75.5734537!16s%2Fg%2F11ty45nt6k!19sChIJVwK3qTWpuzsRrYt6hrmHonA?authuser=0&hl=en&rclk=1"
@@ -11283,8 +11189,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Basaveshwara+Hospital/data=!4m7!3m6!1s0x3bbba935a9b70257:0x70a287b9867a8bad!8m2!3d13.9369172!4d75.5734537!16s%2Fg%2F11ty45nt6k!19sChIJVwK3qTWpuzsRrYt6hrmHonA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-basaveshwara-hospital-shivamogga",
@@ -11332,7 +11237,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Basaveshwara+Hospital/data=!4m7!3m6!1s0x3bbba8cd3dcc7c45:0xc99095f2030a98f7!8m2!3d13.9417294!4d75.5607183!16s%2Fg%2F11g8wcpqpm!19sChIJRXzMPc2ouzsR95gKA_KVkMk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Basaveshwara+Hospital/data=!4m7!3m6!1s0x3bbba8cd3dcc7c45:0xc99095f2030a98f7!8m2!3d13.9417294!4d75.5607183!16s%2Fg%2F11g8wcpqpm!19sChIJRXzMPc2ouzsR95gKA_KVkMk?authuser=0&hl=en&rclk=1"
@@ -11398,11 +11303,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Basaveshwara+Hospital/data=!4m7!3m6!1s0x3bbba8cd3dcc7c45:0xc99095f2030a98f7!8m2!3d13.9417294!4d75.5607183!16s%2Fg%2F11g8wcpqpm!19sChIJRXzMPc2ouzsR95gKA_KVkMk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-vinayaka-hospital-shivamogga",
@@ -11450,7 +11354,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Vinayaka+Hospital/data=!4m7!3m6!1s0x3bbba92ac330de33:0xab60c61a8bc41580!8m2!3d13.942899!4d75.5765695!16s%2Fg%2F11dfs_0rjk!19sChIJM94wwyqpuzsRgBXEixrGYKs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Vinayaka+Hospital/data=!4m7!3m6!1s0x3bbba92ac330de33:0xab60c61a8bc41580!8m2!3d13.942899!4d75.5765695!16s%2Fg%2F11dfs_0rjk!19sChIJM94wwyqpuzsRgBXEixrGYKs?authuser=0&hl=en&rclk=1"
@@ -11519,8 +11423,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Vinayaka+Hospital/data=!4m7!3m6!1s0x3bbba92ac330de33:0xab60c61a8bc41580!8m2!3d13.942899!4d75.5765695!16s%2Fg%2F11dfs_0rjk!19sChIJM94wwyqpuzsRgBXEixrGYKs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "subbaiah-hospital-shivamogga",
@@ -11568,7 +11471,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Subbaiah+Hospital/data=!4m7!3m6!1s0x3bbba8d47fb68921:0xfbf716b30028e5f6!8m2!3d13.9405102!4d75.5686505!16s%2Fg%2F1pyqvm1px!19sChIJIYm2f9SouzsR9uUoALMW9_s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Subbaiah+Hospital/data=!4m7!3m6!1s0x3bbba8d47fb68921:0xfbf716b30028e5f6!8m2!3d13.9405102!4d75.5686505!16s%2Fg%2F1pyqvm1px!19sChIJIYm2f9SouzsR9uUoALMW9_s?authuser=0&hl=en&rclk=1"
@@ -11637,8 +11540,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Subbaiah+Hospital/data=!4m7!3m6!1s0x3bbba8d47fb68921:0xfbf716b30028e5f6!8m2!3d13.9405102!4d75.5686505!16s%2Fg%2F1pyqvm1px!19sChIJIYm2f9SouzsR9uUoALMW9_s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sumohan-medico-surgical-centre-and-maternity-home-shivamogga",
@@ -11688,7 +11590,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sumohan+Medico+Surgical+Centre+And+Maternity+Home/data=!4m7!3m6!1s0x3bbba8d45758726d:0x8e55633f16525384!8m2!3d13.940518!4d75.5706183!16s%2Fg%2F11dfjb1yxr!19sChIJbXJYV9SouzsRhFNSFj9jVY4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sumohan+Medico+Surgical+Centre+And+Maternity+Home/data=!4m7!3m6!1s0x3bbba8d45758726d:0x8e55633f16525384!8m2!3d13.940518!4d75.5706183!16s%2Fg%2F11dfjb1yxr!19sChIJbXJYV9SouzsRhFNSFj9jVY4?authuser=0&hl=en&rclk=1"
@@ -11757,8 +11659,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sumohan+Medico+Surgical+Centre+And+Maternity+Home/data=!4m7!3m6!1s0x3bbba8d45758726d:0x8e55633f16525384!8m2!3d13.940518!4d75.5706183!16s%2Fg%2F11dfjb1yxr!19sChIJbXJYV9SouzsRhFNSFj9jVY4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sun-bone-and-spine-speciality-hospital-shivamogga",
@@ -11810,7 +11711,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sun+Bone+and+Spine+Speciality+Hospital/data=!4m7!3m6!1s0x3bbba9d0f1f5cfb7:0xaaa2b31c0ddf54c7!8m2!3d13.938485!4d75.5729413!16s%2Fg%2F11vf4zvfzy!19sChIJt8_18dCpuzsRx1TfDRyzoqo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sun+Bone+and+Spine+Speciality+Hospital/data=!4m7!3m6!1s0x3bbba9d0f1f5cfb7:0xaaa2b31c0ddf54c7!8m2!3d13.938485!4d75.5729413!16s%2Fg%2F11vf4zvfzy!19sChIJt8_18dCpuzsRx1TfDRyzoqo?authuser=0&hl=en&rclk=1"
@@ -11879,8 +11780,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sun+Bone+and+Spine+Speciality+Hospital/data=!4m7!3m6!1s0x3bbba9d0f1f5cfb7:0xaaa2b31c0ddf54c7!8m2!3d13.938485!4d75.5729413!16s%2Fg%2F11vf4zvfzy!19sChIJt8_18dCpuzsRx1TfDRyzoqo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sushodha-intitute-of-gastroenterology-sige-sushodha-hospital-shivamogga",
@@ -11930,7 +11830,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sushodha+Intitute+Of+Gastroenterology-+%28SIGE%29+Sushodha+Hospital/data=!4m7!3m6!1s0x3bbbaf2aa972d2d9:0x4969c3176cd7b2e6!8m2!3d13.9442126!4d75.5740453!16s%2Fg%2F11ggm7z0ff!19sChIJ2dJyqSqvuzsR5rLXbBfDaUk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sushodha+Intitute+Of+Gastroenterology-+%28SIGE%29+Sushodha+Hospital/data=!4m7!3m6!1s0x3bbbaf2aa972d2d9:0x4969c3176cd7b2e6!8m2!3d13.9442126!4d75.5740453!16s%2Fg%2F11ggm7z0ff!19sChIJ2dJyqSqvuzsR5rLXbBfDaUk?authuser=0&hl=en&rclk=1"
@@ -11999,8 +11899,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sushodha+Intitute+Of+Gastroenterology-+%28SIGE%29+Sushodha+Hospital/data=!4m7!3m6!1s0x3bbbaf2aa972d2d9:0x4969c3176cd7b2e6!8m2!3d13.9442126!4d75.5740453!16s%2Fg%2F11ggm7z0ff!19sChIJ2dJyqSqvuzsR5rLXbBfDaUk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sushodhana-hospital-shivamogga",
@@ -12048,7 +11947,7 @@
     "metrics": [
       "Google rating 2.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sushodhana+Hospital/data=!4m7!3m6!1s0x3bbbaffa73e0f7f5:0xa25315987c0889bd!8m2!3d13.9440819!4d75.5740006!16s%2Fg%2F11fkdpx9fh!19sChIJ9ffgc_qvuzsRvYkIfJgVU6I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sushodhana+Hospital/data=!4m7!3m6!1s0x3bbbaffa73e0f7f5:0xa25315987c0889bd!8m2!3d13.9440819!4d75.5740006!16s%2Fg%2F11fkdpx9fh!19sChIJ9ffgc_qvuzsRvYkIfJgVU6I?authuser=0&hl=en&rclk=1"
@@ -12117,8 +12016,7 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sushodhana+Hospital/data=!4m7!3m6!1s0x3bbbaffa73e0f7f5:0xa25315987c0889bd!8m2!3d13.9440819!4d75.5740006!16s%2Fg%2F11fkdpx9fh!19sChIJ9ffgc_qvuzsRvYkIfJgVU6I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tanvi-hospital-shivamogga",
@@ -12167,7 +12065,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tanvi+Hospital/data=!4m7!3m6!1s0x3bbba9e560ef2dd9:0xc995bf76290155fa!8m2!3d13.928386!4d75.591045!16s%2Fg%2F11w4gp162d!19sChIJ2S3vYOWpuzsR-lUBKXa_lck?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tanvi+Hospital/data=!4m7!3m6!1s0x3bbba9e560ef2dd9:0xc995bf76290155fa!8m2!3d13.928386!4d75.591045!16s%2Fg%2F11w4gp162d!19sChIJ2S3vYOWpuzsR-lUBKXa_lck?authuser=0&hl=en&rclk=1"
@@ -12236,8 +12134,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tanvi+Hospital/data=!4m7!3m6!1s0x3bbba9e560ef2dd9:0xc995bf76290155fa!8m2!3d13.928386!4d75.591045!16s%2Fg%2F11w4gp162d!19sChIJ2S3vYOWpuzsR-lUBKXa_lck?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tara-s-dental-advanced-clinic-road",
@@ -12285,7 +12182,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tara%E2%80%99s+Dental+Advanced+Clinic/data=!4m7!3m6!1s0x3bbba90387bc6441:0xaece4fe27fd5b62d!8m2!3d13.9420261!4d75.5744119!16s%2Fg%2F11tjsdmsl8!19sChIJQWS8hwOpuzsRLbbVf-JPzq4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tara%E2%80%99s+Dental+Advanced+Clinic/data=!4m7!3m6!1s0x3bbba90387bc6441:0xaece4fe27fd5b62d!8m2!3d13.9420261!4d75.5744119!16s%2Fg%2F11tjsdmsl8!19sChIJQWS8hwOpuzsRLbbVf-JPzq4?authuser=0&hl=en&rclk=1"
@@ -12354,8 +12251,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tara%E2%80%99s+Dental+Advanced+Clinic/data=!4m7!3m6!1s0x3bbba90387bc6441:0xaece4fe27fd5b62d!8m2!3d13.9420261!4d75.5744119!16s%2Fg%2F11tjsdmsl8!19sChIJQWS8hwOpuzsRLbbVf-JPzq4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thasildar-hospital-shivamogga",
@@ -12403,7 +12299,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/THASILDAR+HOSPITAL/data=!4m7!3m6!1s0x3bbba9ebd98a1443:0x3db54cb844070f36!8m2!3d13.9368131!4d75.5696383!16s%2Fg%2F11s7d0btlt!19sChIJQxSK2eupuzsRNg8HRLhMtT0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THASILDAR+HOSPITAL/data=!4m7!3m6!1s0x3bbba9ebd98a1443:0x3db54cb844070f36!8m2!3d13.9368131!4d75.5696383!16s%2Fg%2F11s7d0btlt!19sChIJQxSK2eupuzsRNg8HRLhMtT0?authuser=0&hl=en&rclk=1"
@@ -12469,11 +12365,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/THASILDAR+HOSPITAL/data=!4m7!3m6!1s0x3bbba9ebd98a1443:0x3db54cb844070f36!8m2!3d13.9368131!4d75.5696383!16s%2Fg%2F11s7d0btlt!19sChIJQxSK2eupuzsRNg8HRLhMtT0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "trishanth-dental-care-shivamogga",
@@ -12521,7 +12416,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Trishanth+Dental+Care/data=!4m7!3m6!1s0x3bbba8d71d2f02e9:0x51afd76e1a180cf!8m2!3d13.9349471!4d75.5705899!16s%2Fg%2F11dfjb0xlt!19sChIJ6QIvHdeouzsRz4Ch4Xb9GgU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trishanth+Dental+Care/data=!4m7!3m6!1s0x3bbba8d71d2f02e9:0x51afd76e1a180cf!8m2!3d13.9349471!4d75.5705899!16s%2Fg%2F11dfjb0xlt!19sChIJ6QIvHdeouzsRz4Ch4Xb9GgU?authuser=0&hl=en&rclk=1"
@@ -12590,8 +12485,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Trishanth+Dental+Care/data=!4m7!3m6!1s0x3bbba8d71d2f02e9:0x51afd76e1a180cf!8m2!3d13.9349471!4d75.5705899!16s%2Fg%2F11dfjb0xlt!19sChIJ6QIvHdeouzsRz4Ch4Xb9GgU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "uma-dental-clinic-shivamogga",
@@ -12640,7 +12534,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Uma+Dental+Clinic/data=!4m7!3m6!1s0x3bbba8d5626df621:0xa328e2718deee5ff!8m2!3d13.9433534!4d75.5741213!16s%2Fg%2F11ckr6jb5b!19sChIJIfZtYtWouzsR_-XujXHiKKM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uma+Dental+Clinic/data=!4m7!3m6!1s0x3bbba8d5626df621:0xa328e2718deee5ff!8m2!3d13.9433534!4d75.5741213!16s%2Fg%2F11ckr6jb5b!19sChIJIfZtYtWouzsR_-XujXHiKKM?authuser=0&hl=en&rclk=1"
@@ -12709,8 +12603,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Uma+Dental+Clinic/data=!4m7!3m6!1s0x3bbba8d5626df621:0xa328e2718deee5ff!8m2!3d13.9433534!4d75.5741213!16s%2Fg%2F11ckr6jb5b!19sChIJIfZtYtWouzsR_-XujXHiKKM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "unity-woman-and-child-hospital-shivamogga",
@@ -12760,7 +12653,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Unity+Woman+%26+Child+Hospital/data=!4m7!3m6!1s0x3bbba8d1ee62443f:0xa02543a9f229c29c!8m2!3d13.9366423!4d75.5636326!16s%2Fg%2F11hd6zrz78!19sChIJP0Ri7tGouzsRnMIp8qlDJaA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unity+Woman+%26+Child+Hospital/data=!4m7!3m6!1s0x3bbba8d1ee62443f:0xa02543a9f229c29c!8m2!3d13.9366423!4d75.5636326!16s%2Fg%2F11hd6zrz78!19sChIJP0Ri7tGouzsRnMIp8qlDJaA?authuser=0&hl=en&rclk=1"
@@ -12829,8 +12722,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Unity+Woman+%26+Child+Hospital/data=!4m7!3m6!1s0x3bbba8d1ee62443f:0xa02543a9f229c29c!8m2!3d13.9366423!4d75.5636326!16s%2Fg%2F11hd6zrz78!19sChIJP0Ri7tGouzsRnMIp8qlDJaA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "urooj-health-dental-care-and-orthodontic-center-medicals-shivamogga",
@@ -12880,7 +12772,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/UROOJ+HEALTH+,+DENTAL+CARE+AND+ORTHODONTIC+CENTER,MEDICALS/data=!4m7!3m6!1s0x3bbba9fa74f02a4f:0xf2b30a442763e894!8m2!3d13.9260283!4d75.5541458!16s%2Fg%2F11g071zb4k!19sChIJTyrwdPqpuzsRlOhjJ0QKs_I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UROOJ+HEALTH+,+DENTAL+CARE+AND+ORTHODONTIC+CENTER,MEDICALS/data=!4m7!3m6!1s0x3bbba9fa74f02a4f:0xf2b30a442763e894!8m2!3d13.9260283!4d75.5541458!16s%2Fg%2F11g071zb4k!19sChIJTyrwdPqpuzsRlOhjJ0QKs_I?authuser=0&hl=en&rclk=1"
@@ -12946,11 +12838,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/UROOJ+HEALTH+,+DENTAL+CARE+AND+ORTHODONTIC+CENTER,MEDICALS/data=!4m7!3m6!1s0x3bbba9fa74f02a4f:0xf2b30a442763e894!8m2!3d13.9260283!4d75.5541458!16s%2Fg%2F11g071zb4k!19sChIJTyrwdPqpuzsRlOhjJ0QKs_I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "usha-ivf-centre-shivamogga",
@@ -12997,7 +12888,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Usha+IVF+Centre/data=!4m7!3m6!1s0x3bbbaf4d892fec67:0x445b17f0d8035c98!8m2!3d13.9455164!4d75.5741526!16s%2Fg%2F11z54h0ps5!19sChIJZ-wviU2vuzsRmFwD2PAXW0Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Usha+IVF+Centre/data=!4m7!3m6!1s0x3bbbaf4d892fec67:0x445b17f0d8035c98!8m2!3d13.9455164!4d75.5741526!16s%2Fg%2F11z54h0ps5!19sChIJZ-wviU2vuzsRmFwD2PAXW0Q?authuser=0&hl=en&rclk=1"
@@ -13063,11 +12954,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Usha+IVF+Centre/data=!4m7!3m6!1s0x3bbbaf4d892fec67:0x445b17f0d8035c98!8m2!3d13.9455164!4d75.5741526!16s%2Fg%2F11z54h0ps5!19sChIJZ-wviU2vuzsRmFwD2PAXW0Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vaatsalya-hospital-shivamogga",
@@ -13115,7 +13005,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vaatsalya+Hospital/data=!4m7!3m6!1s0x3bbba9295e15f305:0x4535563a2a45cdd!8m2!3d13.9380681!4d75.5787409!16s%2Fg%2F11fnw1bdzr!19sChIJBfMVXimpuzsR3VykomNVUwQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaatsalya+Hospital/data=!4m7!3m6!1s0x3bbba9295e15f305:0x4535563a2a45cdd!8m2!3d13.9380681!4d75.5787409!16s%2Fg%2F11fnw1bdzr!19sChIJBfMVXimpuzsR3VykomNVUwQ?authuser=0&hl=en&rclk=1"
@@ -13184,8 +13074,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vaatsalya+Hospital/data=!4m7!3m6!1s0x3bbba9295e15f305:0x4535563a2a45cdd!8m2!3d13.9380681!4d75.5787409!16s%2Fg%2F11fnw1bdzr!19sChIJBfMVXimpuzsR3VykomNVUwQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vcare-hair-and-skin-clinic-shimoga-skin-treatment-hair-treatment-hair-transplant-laser-hair-removal-skin-whitening-shivamogga",
@@ -13234,7 +13123,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Shimoga+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3bbba95959fce735:0x75167a4b1ffc56a0!8m2!3d13.9390981!4d75.5720905!16s%2Fg%2F11y99c1zl6!19sChIJNef8WVmpuzsRoFb8H0t6FnU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Shimoga+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3bbba95959fce735:0x75167a4b1ffc56a0!8m2!3d13.9390981!4d75.5720905!16s%2Fg%2F11y99c1zl6!19sChIJNef8WVmpuzsRoFb8H0t6FnU?authuser=0&hl=en&rclk=1"
@@ -13303,8 +13192,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Shimoga+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3bbba95959fce735:0x75167a4b1ffc56a0!8m2!3d13.9390981!4d75.5720905!16s%2Fg%2F11y99c1zl6!19sChIJNef8WVmpuzsRoFb8H0t6FnU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijaya-clinic-shivamogga",
@@ -13352,7 +13240,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vijaya+clinic/data=!4m7!3m6!1s0x3bbba8d60fffffff:0xd6b6e66c17f6669f!8m2!3d13.930874!4d75.5852568!16s%2Fg%2F11clg8ccds!19sChIJ____D9aouzsRn2b2F2zmttY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaya+clinic/data=!4m7!3m6!1s0x3bbba8d60fffffff:0xd6b6e66c17f6669f!8m2!3d13.930874!4d75.5852568!16s%2Fg%2F11clg8ccds!19sChIJ____D9aouzsRn2b2F2zmttY?authuser=0&hl=en&rclk=1"
@@ -13421,8 +13309,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vijaya+clinic/data=!4m7!3m6!1s0x3bbba8d60fffffff:0xd6b6e66c17f6669f!8m2!3d13.930874!4d75.5852568!16s%2Fg%2F11clg8ccds!19sChIJ____D9aouzsRn2b2F2zmttY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vishwas-clinic-shivamogga",
@@ -13470,7 +13357,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vishwas+Clinic/data=!4m7!3m6!1s0x3bbba8de86b559f5:0xdbb68c788e1eb574!8m2!3d13.923932!4d75.5687924!16s%2Fg%2F11d_23hyw3!19sChIJ9Vm1ht6ouzsRdLUejniMtts?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishwas+Clinic/data=!4m7!3m6!1s0x3bbba8de86b559f5:0xdbb68c788e1eb574!8m2!3d13.923932!4d75.5687924!16s%2Fg%2F11d_23hyw3!19sChIJ9Vm1ht6ouzsRdLUejniMtts?authuser=0&hl=en&rclk=1"
@@ -13536,11 +13423,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vishwas+Clinic/data=!4m7!3m6!1s0x3bbba8de86b559f5:0xdbb68c788e1eb574!8m2!3d13.923932!4d75.5687924!16s%2Fg%2F11d_23hyw3!19sChIJ9Vm1ht6ouzsRdLUejniMtts?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivamogga",
@@ -13588,7 +13474,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%B2%86%E0%B2%B0%E0%B3%88%E0%B2%95%E0%B3%86+%E0%B2%B9%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%BF%E0%B2%9F%E0%B2%B2%E0%B3%8D/data=!4m7!3m6!1s0x3bbba916b1efb4dd:0xb9c9eb3b1455d0b8!8m2!3d13.9402066!4d75.5480446!16s%2Fg%2F11hf1_x6wy!19sChIJ3bTvsRapuzsRuNBVFDvrybk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%B2%86%E0%B2%B0%E0%B3%88%E0%B2%95%E0%B3%86+%E0%B2%B9%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%BF%E0%B2%9F%E0%B2%B2%E0%B3%8D/data=!4m7!3m6!1s0x3bbba916b1efb4dd:0xb9c9eb3b1455d0b8!8m2!3d13.9402066!4d75.5480446!16s%2Fg%2F11hf1_x6wy!19sChIJ3bTvsRapuzsRuNBVFDvrybk?authuser=0&hl=en&rclk=1"
@@ -13657,8 +13543,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%B2%86%E0%B2%B0%E0%B3%88%E0%B2%95%E0%B3%86+%E0%B2%B9%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%BF%E0%B2%9F%E0%B2%B2%E0%B3%8D/data=!4m7!3m6!1s0x3bbba916b1efb4dd:0xb9c9eb3b1455d0b8!8m2!3d13.9402066!4d75.5480446!16s%2Fg%2F11hf1_x6wy!19sChIJ3bTvsRapuzsRuNBVFDvrybk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivamogga",
@@ -13706,7 +13591,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%B2%AE%E0%B2%B2%E0%B3%8D%E0%B2%A8%E0%B2%BE%E0%B2%A1%E0%B3%8D+%E0%B2%B2%E0%B3%88%E0%B2%AB%E0%B3%8D+%E0%B2%B2%E0%B3%88%E0%B2%A8%E0%B3%8D+%E0%B2%B9%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%BF%E0%B2%9F%E0%B2%B2%E0%B3%8D/data=!4m7!3m6!1s0x3bbba93dedfe02af:0x7840d373cba26e!8m2!3d13.9180532!4d75.5680056!16s%2Fg%2F11sf1jtc47!19sChIJrwL-7T2puzsRbqLLc9NAeAA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%B2%AE%E0%B2%B2%E0%B3%8D%E0%B2%A8%E0%B2%BE%E0%B2%A1%E0%B3%8D+%E0%B2%B2%E0%B3%88%E0%B2%AB%E0%B3%8D+%E0%B2%B2%E0%B3%88%E0%B2%A8%E0%B3%8D+%E0%B2%B9%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%BF%E0%B2%9F%E0%B2%B2%E0%B3%8D/data=!4m7!3m6!1s0x3bbba93dedfe02af:0x7840d373cba26e!8m2!3d13.9180532!4d75.5680056!16s%2Fg%2F11sf1jtc47!19sChIJrwL-7T2puzsRbqLLc9NAeAA?authuser=0&hl=en&rclk=1"
@@ -13772,10 +13657,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%B2%AE%E0%B2%B2%E0%B3%8D%E0%B2%A8%E0%B2%BE%E0%B2%A1%E0%B3%8D+%E0%B2%B2%E0%B3%88%E0%B2%AB%E0%B3%8D+%E0%B2%B2%E0%B3%88%E0%B2%A8%E0%B3%8D+%E0%B2%B9%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%BF%E0%B2%9F%E0%B2%B2%E0%B3%8D/data=!4m7!3m6!1s0x3bbba93dedfe02af:0x7840d373cba26e!8m2!3d13.9180532!4d75.5680056!16s%2Fg%2F11sf1jtc47!19sChIJrwL-7T2puzsRbqLLc9NAeAA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

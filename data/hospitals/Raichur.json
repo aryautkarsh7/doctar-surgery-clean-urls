@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 2.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aakriti/@16.2081365,77.3540537,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70cbfc8fd0f:0xa9fbe31aea06a039!8m2!3d16.2081365!4d77.3540537!16s%2Fg%2F11fhqjsl35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aakriti/@16.2081365,77.3540537,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70cbfc8fd0f:0xa9fbe31aea06a039!8m2!3d16.2081365!4d77.3540537!16s%2Fg%2F11fhqjsl35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -111,11 +111,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 2,
+    "rating": 2.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aakriti/@16.2081365,77.3540537,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70cbfc8fd0f:0xa9fbe31aea06a039!8m2!3d16.2081365!4d77.3540537!16s%2Fg%2F11fhqjsl35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aditi-hospital-raichur",
@@ -163,7 +162,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aditi+Hospital/@16.1836539,77.3400339,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7b13af6a739:0x842d3b3951e26208!8m2!3d16.1836539!4d77.3400339!16s%2Fg%2F11bwytfnxz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditi+Hospital/@16.1836539,77.3400339,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7b13af6a739:0x842d3b3951e26208!8m2!3d16.1836539!4d77.3400339!16s%2Fg%2F11bwytfnxz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -232,8 +231,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aditi+Hospital/@16.1836539,77.3400339,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7b13af6a739:0x842d3b3951e26208!8m2!3d16.1836539!4d77.3400339!16s%2Fg%2F11bwytfnxz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advit-dental-clinic-raichur-raichur",
@@ -282,7 +280,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Advit+Dental+Clinic+Raichur/@16.2032837,77.3526765,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a487f04e07:0x97889610ee1f3a5e!8m2!3d16.2032837!4d77.3526765!16s%2Fg%2F11t9p9z5b6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advit+Dental+Clinic+Raichur/@16.2032837,77.3526765,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a487f04e07:0x97889610ee1f3a5e!8m2!3d16.2032837!4d77.3526765!16s%2Fg%2F11t9p9z5b6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -351,8 +349,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Advit+Dental+Clinic+Raichur/@16.2032837,77.3526765,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a487f04e07:0x97889610ee1f3a5e!8m2!3d16.2032837!4d77.3526765!16s%2Fg%2F11t9p9z5b6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "al-shifa-hijama-cupping-therapy-clinic-raichur-raichur",
@@ -401,7 +398,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AL+SHIFA+HIJAMA+CUPPING+THERAPY+CLINIC+RAICHUR/@16.2015358,77.3547322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c1a11998bf:0x9044943ab4adef90!8m2!3d16.2015358!4d77.3547322!16s%2Fg%2F11hzrx252f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AL+SHIFA+HIJAMA+CUPPING+THERAPY+CLINIC+RAICHUR/@16.2015358,77.3547322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c1a11998bf:0x9044943ab4adef90!8m2!3d16.2015358!4d77.3547322!16s%2Fg%2F11hzrx252f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -467,11 +464,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AL+SHIFA+HIJAMA+CUPPING+THERAPY+CLINIC+RAICHUR/@16.2015358,77.3547322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c1a11998bf:0x9044943ab4adef90!8m2!3d16.2015358!4d77.3547322!16s%2Fg%2F11hzrx252f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amareshwara-dental-clinic-raichur",
@@ -519,7 +515,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Amareshwara+Dental+Clinic/@16.2058225,77.355156,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d781e0dad2c9:0x15e54a76589c22c7!8m2!3d16.2058225!4d77.355156!16s%2Fg%2F11g22rpdhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amareshwara+Dental+Clinic/@16.2058225,77.355156,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d781e0dad2c9:0x15e54a76589c22c7!8m2!3d16.2058225!4d77.355156!16s%2Fg%2F11g22rpdhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -585,11 +581,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Amareshwara+Dental+Clinic/@16.2058225,77.355156,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d781e0dad2c9:0x15e54a76589c22c7!8m2!3d16.2058225!4d77.355156!16s%2Fg%2F11g22rpdhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ambulance-service-24-7-raichur",
@@ -637,7 +632,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ambulance+Service+24%2F7/@16.2044267,77.3495586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7113ba1c2fd:0xc732217ff069f2eb!8m2!3d16.2044267!4d77.3495586!16s%2Fg%2F11sdz0twwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ambulance+Service+24%2F7/@16.2044267,77.3495586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7113ba1c2fd:0xc732217ff069f2eb!8m2!3d16.2044267!4d77.3495586!16s%2Fg%2F11sdz0twwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -703,11 +698,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ambulance+Service+24%2F7/@16.2044267,77.3495586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7113ba1c2fd:0xc732217ff069f2eb!8m2!3d16.2044267!4d77.3495586!16s%2Fg%2F11sdz0twwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ame-s-dental-college-and-hospital-raichur",
@@ -757,7 +751,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AME's+Dental+College+And+Hospital/@16.1921191,77.3705638,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78598f46483:0x5b7f1f85bd75cb53!8m2!3d16.1921191!4d77.3705638!16s%2Fg%2F1v76y2k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AME's+Dental+College+And+Hospital/@16.1921191,77.3705638,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78598f46483:0x5b7f1f85bd75cb53!8m2!3d16.1921191!4d77.3705638!16s%2Fg%2F1v76y2k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -826,8 +820,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AME's+Dental+College+And+Hospital/@16.1921191,77.3705638,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78598f46483:0x5b7f1f85bd75cb53!8m2!3d16.1921191!4d77.3705638!16s%2Fg%2F1v76y2k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arogya-surgical-gastro-clinic-raichur",
@@ -874,7 +867,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arogya+Surgical+Gastro+Clinic/@16.2038134,77.354134,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70adfafa4f1:0x88e6d04bfc97d88f!8m2!3d16.2038134!4d77.354134!16s%2Fg%2F11tjy6ypcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arogya+Surgical+Gastro+Clinic/@16.2038134,77.354134,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70adfafa4f1:0x88e6d04bfc97d88f!8m2!3d16.2038134!4d77.354134!16s%2Fg%2F11tjy6ypcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -940,11 +933,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arogya+Surgical+Gastro+Clinic/@16.2038134,77.354134,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70adfafa4f1:0x88e6d04bfc97d88f!8m2!3d16.2038134!4d77.354134!16s%2Fg%2F11tjy6ypcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashwini-clinic-dr-pravee-r-badri-raichur",
@@ -992,7 +984,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashwini+Clinic.Dr+Pravee.R.Badri/@16.2027705,77.3543909,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d783eb49e6ff:0xd68fc3356dfd91c4!8m2!3d16.2027705!4d77.3543909!16s%2Fg%2F11hzxfzjmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashwini+Clinic.Dr+Pravee.R.Badri/@16.2027705,77.3543909,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d783eb49e6ff:0xd68fc3356dfd91c4!8m2!3d16.2027705!4d77.3543909!16s%2Fg%2F11hzxfzjmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1058,11 +1050,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashwini+Clinic.Dr+Pravee.R.Badri/@16.2027705,77.3543909,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d783eb49e6ff:0xd68fc3356dfd91c4!8m2!3d16.2027705!4d77.3543909!16s%2Fg%2F11hzxfzjmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asian-skin-and-hair-transplant-institute-ashi-raichur",
@@ -1110,7 +1101,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asian+Skin+%26+hair+transplant+Institute(ASHI)/@16.2025571,77.3545094,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7ea48ff3e43:0xa1fa2d2adc25716!8m2!3d16.2025571!4d77.3545094!16s%2Fg%2F11z49mshfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Skin+%26+hair+transplant+Institute(ASHI)/@16.2025571,77.3545094,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7ea48ff3e43:0xa1fa2d2adc25716!8m2!3d16.2025571!4d77.3545094!16s%2Fg%2F11z49mshfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1176,11 +1167,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asian+Skin+%26+hair+transplant+Institute(ASHI)/@16.2025571,77.3545094,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7ea48ff3e43:0xa1fa2d2adc25716!8m2!3d16.2025571!4d77.3545094!16s%2Fg%2F11z49mshfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aspalli-dental-clinic-raichur",
@@ -1228,7 +1218,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aspalli+Dental+Clinic/@16.206888,77.35435,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70b35385f13:0x749efcb4e089b540!8m2!3d16.206888!4d77.35435!16s%2Fg%2F11c31y49bb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aspalli+Dental+Clinic/@16.206888,77.35435,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70b35385f13:0x749efcb4e089b540!8m2!3d16.206888!4d77.35435!16s%2Fg%2F11c31y49bb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1297,8 +1287,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aspalli+Dental+Clinic/@16.206888,77.35435,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70b35385f13:0x749efcb4e089b540!8m2!3d16.206888!4d77.35435!16s%2Fg%2F11c31y49bb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "badri-kidney-clinic-raichur",
@@ -1347,7 +1336,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Badri+kidney+clinic/@16.2132974,77.3512375,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76f4784c691:0xcbc3d6e3523a6fa7!8m2!3d16.2132974!4d77.3512375!16s%2Fg%2F11vf0gl0b7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Badri+kidney+clinic/@16.2132974,77.3512375,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76f4784c691:0xcbc3d6e3523a6fa7!8m2!3d16.2132974!4d77.3512375!16s%2Fg%2F11vf0gl0b7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1413,11 +1402,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Badri+kidney+clinic/@16.2132974,77.3512375,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76f4784c691:0xcbc3d6e3523a6fa7!8m2!3d16.2132974!4d77.3512375!16s%2Fg%2F11vf0gl0b7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "badri-narayana-hospital-raichur-raichur",
@@ -1465,7 +1453,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Badri+Narayana+Hospital,+Raichur/@16.1948856,77.342191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a42e81a4af:0xa284de8f78499cfb!8m2!3d16.1948856!4d77.342191!16s%2Fg%2F11xmr927bx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Badri+Narayana+Hospital,+Raichur/@16.1948856,77.342191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a42e81a4af:0xa284de8f78499cfb!8m2!3d16.1948856!4d77.342191!16s%2Fg%2F11xmr927bx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1534,8 +1522,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Badri+Narayana+Hospital,+Raichur/@16.1948856,77.342191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a42e81a4af:0xa284de8f78499cfb!8m2!3d16.1948856!4d77.342191!16s%2Fg%2F11xmr927bx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "balanku-hospital-raichur",
@@ -1584,7 +1571,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Balanku+Hospital/@16.2115002,77.3600334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7723e175031:0x316a36ee7599ee66!8m2!3d16.2115002!4d77.3600334!16s%2Fg%2F1tdbjfr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balanku+Hospital/@16.2115002,77.3600334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7723e175031:0x316a36ee7599ee66!8m2!3d16.2115002!4d77.3600334!16s%2Fg%2F1tdbjfr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1653,8 +1640,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Balanku+Hospital/@16.2115002,77.3600334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7723e175031:0x316a36ee7599ee66!8m2!3d16.2115002!4d77.3600334!16s%2Fg%2F1tdbjfr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bettadur-dental-and-implant-care-raichur",
@@ -1702,7 +1688,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bettadur+Dental+And+Implant+Care/@16.2085158,77.3571115,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d79aa62fe55f:0x5c4000f5480ee0a7!8m2!3d16.2085158!4d77.3571115!16s%2Fg%2F11h07y3r1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bettadur+Dental+And+Implant+Care/@16.2085158,77.3571115,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d79aa62fe55f:0x5c4000f5480ee0a7!8m2!3d16.2085158!4d77.3571115!16s%2Fg%2F11h07y3r1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1771,8 +1757,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bettadur+Dental+And+Implant+Care/@16.2085158,77.3571115,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d79aa62fe55f:0x5c4000f5480ee0a7!8m2!3d16.2085158!4d77.3571115!16s%2Fg%2F11h07y3r1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-n-cure-dental-raichur",
@@ -1820,7 +1805,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CARE+N+CURE+DENTAL/@16.2022709,77.3545261,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d781d81ed04b:0xd92d4ffe7733cff1!8m2!3d16.2022709!4d77.3545261!16s%2Fg%2F11j2w5pj15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CARE+N+CURE+DENTAL/@16.2022709,77.3545261,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d781d81ed04b:0xd92d4ffe7733cff1!8m2!3d16.2022709!4d77.3545261!16s%2Fg%2F11j2w5pj15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1886,11 +1871,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CARE+N+CURE+DENTAL/@16.2022709,77.3545261,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d781d81ed04b:0xd92d4ffe7733cff1!8m2!3d16.2022709!4d77.3545261!16s%2Fg%2F11j2w5pj15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chavadki-hospital-raichur",
@@ -1938,7 +1922,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chavadki+Hospital/@16.2076278,77.3516276,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70c6efc674d:0x749fcfaf2ed5ea70!8m2!3d16.2076278!4d77.3516276!16s%2Fg%2F1tdw1y74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chavadki+Hospital/@16.2076278,77.3516276,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70c6efc674d:0x749fcfaf2ed5ea70!8m2!3d16.2076278!4d77.3516276!16s%2Fg%2F1tdw1y74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2007,8 +1991,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chavadki+Hospital/@16.2076278,77.3516276,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70c6efc674d:0x749fcfaf2ed5ea70!8m2!3d16.2076278!4d77.3516276!16s%2Fg%2F1tdw1y74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chetana-hospital-raichur",
@@ -2057,7 +2040,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chetana+Hospital/@16.2072217,77.3363322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70c6b1f9645:0xee880701fc93a20!8m2!3d16.2072217!4d77.3363322!16s%2Fg%2F11b8083jj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chetana+Hospital/@16.2072217,77.3363322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70c6b1f9645:0xee880701fc93a20!8m2!3d16.2072217!4d77.3363322!16s%2Fg%2F11b8083jj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2126,8 +2109,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chetana+Hospital/@16.2072217,77.3363322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70c6b1f9645:0xee880701fc93a20!8m2!3d16.2072217!4d77.3363322!16s%2Fg%2F11b8083jj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chidananda-cancer-care-center-raichur",
@@ -2176,7 +2158,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chidananda+Cancer+Care+Center+%E0%B2%9A%E0%B2%BF%E0%B2%A6%E0%B2%BE%E0%B2%A8%E0%B2%82%E0%B2%A6+%E0%B2%95%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%A8%E0%B3%8D%E0%B2%B8%E0%B2%B0%E0%B3%8D+%E0%B2%9A%E0%B2%BF%E0%B2%95%E0%B2%BF%E0%B2%A4%E0%B3%8D%E0%B2%B8%E0%B2%BE+%E0%B2%95%E0%B3%87%E0%B2%82%E0%B2%A6%E0%B3%8D%E0%B2%B0/@16.2141178,77.3561585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7b14f04debb:0x4d6b02bafb5bce4b!8m2!3d16.2141178!4d77.3561585!16s%2Fg%2F11mvtxjh_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chidananda+Cancer+Care+Center+%E0%B2%9A%E0%B2%BF%E0%B2%A6%E0%B2%BE%E0%B2%A8%E0%B2%82%E0%B2%A6+%E0%B2%95%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%A8%E0%B3%8D%E0%B2%B8%E0%B2%B0%E0%B3%8D+%E0%B2%9A%E0%B2%BF%E0%B2%95%E0%B2%BF%E0%B2%A4%E0%B3%8D%E0%B2%B8%E0%B2%BE+%E0%B2%95%E0%B3%87%E0%B2%82%E0%B2%A6%E0%B3%8D%E0%B2%B0/@16.2141178,77.3561585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7b14f04debb:0x4d6b02bafb5bce4b!8m2!3d16.2141178!4d77.3561585!16s%2Fg%2F11mvtxjh_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2242,11 +2224,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chidananda+Cancer+Care+Center+%E0%B2%9A%E0%B2%BF%E0%B2%A6%E0%B2%BE%E0%B2%A8%E0%B2%82%E0%B2%A6+%E0%B2%95%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%A8%E0%B3%8D%E0%B2%B8%E0%B2%B0%E0%B3%8D+%E0%B2%9A%E0%B2%BF%E0%B2%95%E0%B2%BF%E0%B2%A4%E0%B3%8D%E0%B2%B8%E0%B2%BE+%E0%B2%95%E0%B3%87%E0%B2%82%E0%B2%A6%E0%B3%8D%E0%B2%B0/@16.2141178,77.3561585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7b14f04debb:0x4d6b02bafb5bce4b!8m2!3d16.2141178!4d77.3561585!16s%2Fg%2F11mvtxjh_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chirayu-skin-care-cosmetic-and-laser-centre-raichur",
@@ -2294,7 +2275,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chirayu+Skin+Care+-+Cosmetic+%26+Laser+Centre/@16.1998775,77.3525986,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ab8efc75b:0x8d82f0abd7cda711!8m2!3d16.1998775!4d77.3525986!16s%2Fg%2F11gxm71rhh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chirayu+Skin+Care+-+Cosmetic+%26+Laser+Centre/@16.1998775,77.3525986,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ab8efc75b:0x8d82f0abd7cda711!8m2!3d16.1998775!4d77.3525986!16s%2Fg%2F11gxm71rhh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2360,11 +2341,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chirayu+Skin+Care+-+Cosmetic+%26+Laser+Centre/@16.1998775,77.3525986,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ab8efc75b:0x8d82f0abd7cda711!8m2!3d16.1998775!4d77.3525986!16s%2Fg%2F11gxm71rhh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-dental-clinic-raichur",
@@ -2412,7 +2392,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Dental+Clinic/@16.2023562,77.3545797,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d775552e30e5:0x6f841d2f4fe59a9f!8m2!3d16.2023562!4d77.3545797!16s%2Fg%2F1tfd5dwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Dental+Clinic/@16.2023562,77.3545797,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d775552e30e5:0x6f841d2f4fe59a9f!8m2!3d16.2023562!4d77.3545797!16s%2Fg%2F1tfd5dwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2481,8 +2461,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Dental+Clinic/@16.2023562,77.3545797,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d775552e30e5:0x6f841d2f4fe59a9f!8m2!3d16.2023562!4d77.3545797!16s%2Fg%2F1tfd5dwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "closed-raichur-raichur",
@@ -2531,7 +2510,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Closed+RAICHUR/@16.215832,77.355214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7aa4e130495:0x3af53e3760c3815b!8m2!3d16.215832!4d77.355214!16s%2Fg%2F11fcs_b038?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Closed+RAICHUR/@16.215832,77.355214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7aa4e130495:0x3af53e3760c3815b!8m2!3d16.215832!4d77.355214!16s%2Fg%2F11fcs_b038?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2597,11 +2576,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Closed+RAICHUR/@16.215832,77.355214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7aa4e130495:0x3af53e3760c3815b!8m2!3d16.215832!4d77.355214!16s%2Fg%2F11fcs_b038?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-maternity-hospital-raichur",
@@ -2650,7 +2628,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+Maternity+Hospital/@16.1974581,77.3527739,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a1a8a19ebd:0xbf1beacd8bb3ded3!8m2!3d16.1974581!4d77.3527739!16s%2Fg%2F1hhwcw0kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Maternity+Hospital/@16.1974581,77.3527739,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a1a8a19ebd:0xbf1beacd8bb3ded3!8m2!3d16.1974581!4d77.3527739!16s%2Fg%2F1hhwcw0kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2719,8 +2697,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+Maternity+Hospital/@16.1974581,77.3527739,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a1a8a19ebd:0xbf1beacd8bb3ded3!8m2!3d16.1974581!4d77.3527739!16s%2Fg%2F1hhwcw0kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gpv-hospital-raichur",
@@ -2768,7 +2745,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GPV+Hospital/@16.2177015,77.3599737,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76c13a5bcdd:0xd7e0778c9c8ede0e!8m2!3d16.2177015!4d77.3599737!16s%2Fg%2F11bx8sb_3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GPV+Hospital/@16.2177015,77.3599737,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76c13a5bcdd:0xd7e0778c9c8ede0e!8m2!3d16.2177015!4d77.3599737!16s%2Fg%2F11bx8sb_3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2837,8 +2814,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GPV+Hospital/@16.2177015,77.3599737,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76c13a5bcdd:0xd7e0778c9c8ede0e!8m2!3d16.2177015!4d77.3599737!16s%2Fg%2F11bx8sb_3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gunjalli-oral-and-dental-health-care-center-raichur",
@@ -2886,7 +2862,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gunjalli+Oral+and+Dental+Health+Care+Center/@16.211915,77.3561069,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d772baad83cd:0x1da33009253054e4!8m2!3d16.211915!4d77.3561069!16s%2Fg%2F1hc2fqsym?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gunjalli+Oral+and+Dental+Health+Care+Center/@16.211915,77.3561069,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d772baad83cd:0x1da33009253054e4!8m2!3d16.211915!4d77.3561069!16s%2Fg%2F1hc2fqsym?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2952,11 +2928,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gunjalli+Oral+and+Dental+Health+Care+Center/@16.211915,77.3561069,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d772baad83cd:0x1da33009253054e4!8m2!3d16.211915!4d77.3561069!16s%2Fg%2F1hc2fqsym?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gururaj-clinic-raichur",
@@ -3004,7 +2979,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gururaj+Clinic/@16.2119014,77.3560365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d772ba9e1515:0x2141153c0996db92!8m2!3d16.2119014!4d77.3560365!16s%2Fg%2F11b7q69ddm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gururaj+Clinic/@16.2119014,77.3560365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d772ba9e1515:0x2141153c0996db92!8m2!3d16.2119014!4d77.3560365!16s%2Fg%2F11b7q69ddm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3073,8 +3048,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gururaj+Clinic/@16.2119014,77.3560365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d772ba9e1515:0x2141153c0996db92!8m2!3d16.2119014!4d77.3560365!16s%2Fg%2F11b7q69ddm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hasya-dental-clinic-raichur",
@@ -3123,7 +3097,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hasya+Dental+Clinic/@16.2146536,77.3536316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d72df164a60f:0xbe98eb076fd92308!8m2!3d16.2146536!4d77.3536316!16s%2Fg%2F11p06bqys_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hasya+Dental+Clinic/@16.2146536,77.3536316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d72df164a60f:0xbe98eb076fd92308!8m2!3d16.2146536!4d77.3536316!16s%2Fg%2F11p06bqys_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3189,11 +3163,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hasya+Dental+Clinic/@16.2146536,77.3536316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d72df164a60f:0xbe98eb076fd92308!8m2!3d16.2146536!4d77.3536316!16s%2Fg%2F11p06bqys_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hope-health-care-clinic-raichur",
@@ -3243,7 +3216,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hope+health+care+clinic/@16.190254,77.350735,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d719e398d9cb:0x5521aa1a8c4370f9!8m2!3d16.190254!4d77.350735!16s%2Fg%2F11hf82x9kw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+health+care+clinic/@16.190254,77.350735,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d719e398d9cb:0x5521aa1a8c4370f9!8m2!3d16.190254!4d77.350735!16s%2Fg%2F11hf82x9kw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3312,8 +3285,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hope+health+care+clinic/@16.190254,77.350735,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d719e398d9cb:0x5521aa1a8c4370f9!8m2!3d16.190254!4d77.350735!16s%2Fg%2F11hf82x9kw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-raichur-best-ivf-centre-raichur",
@@ -3363,7 +3335,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Raichur+-+Best+IVF+Centre/@16.2072481,77.3532482,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d75ce19dc1b7:0xbbd67b161968e5a8!8m2!3d16.2072481!4d77.3532482!16s%2Fg%2F11vzpw8ypj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Raichur+-+Best+IVF+Centre/@16.2072481,77.3532482,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d75ce19dc1b7:0xbbd67b161968e5a8!8m2!3d16.2072481!4d77.3532482!16s%2Fg%2F11vzpw8ypj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3429,11 +3401,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Raichur+-+Best+IVF+Centre/@16.2072481,77.3532482,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d75ce19dc1b7:0xbbd67b161968e5a8!8m2!3d16.2072481!4d77.3532482!16s%2Fg%2F11vzpw8ypj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "janani-hospital-raichur",
@@ -3481,7 +3452,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Janani+Hospital/@16.2066519,77.3570455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d77499502de3:0x7f2461c9ec8f3ed5!8m2!3d16.2066519!4d77.3570455!16s%2Fg%2F11c32917x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janani+Hospital/@16.2066519,77.3570455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d77499502de3:0x7f2461c9ec8f3ed5!8m2!3d16.2066519!4d77.3570455!16s%2Fg%2F11c32917x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3550,8 +3521,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Janani+Hospital/@16.2066519,77.3570455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d77499502de3:0x7f2461c9ec8f3ed5!8m2!3d16.2066519!4d77.3570455!16s%2Fg%2F11c32917x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kanva-hospital-raichur",
@@ -3599,7 +3569,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KANVA+HOSPITAL/@16.2078163,77.3541422,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70d92ac2a55:0x6973b0409838536e!8m2!3d16.2078163!4d77.3541422!16s%2Fg%2F11j0q075mv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KANVA+HOSPITAL/@16.2078163,77.3541422,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70d92ac2a55:0x6973b0409838536e!8m2!3d16.2078163!4d77.3541422!16s%2Fg%2F11j0q075mv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3665,11 +3635,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KANVA+HOSPITAL/@16.2078163,77.3541422,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70d92ac2a55:0x6973b0409838536e!8m2!3d16.2078163!4d77.3541422!16s%2Fg%2F11j0q075mv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "m-m-joshi-eye-hospital-raichur-raichur",
@@ -3718,7 +3687,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/M+M+Joshi+Eye+Hospital+-+Raichur/@16.2052259,77.3403419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d780e001e4bf:0x80d4dcf530a83160!8m2!3d16.2052259!4d77.3403419!16s%2Fg%2F11vjntr884?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+M+Joshi+Eye+Hospital+-+Raichur/@16.2052259,77.3403419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d780e001e4bf:0x80d4dcf530a83160!8m2!3d16.2052259!4d77.3403419!16s%2Fg%2F11vjntr884?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3787,8 +3756,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/M+M+Joshi+Eye+Hospital+-+Raichur/@16.2052259,77.3403419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d780e001e4bf:0x80d4dcf530a83160!8m2!3d16.2052259!4d77.3403419!16s%2Fg%2F11vjntr884?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manasvi-hospital-raichur",
@@ -3837,7 +3805,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manasvi+Hospital/@16.2100169,77.3496433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7070453a441:0x707f301d12bdea21!8m2!3d16.2100169!4d77.3496433!16s%2Fg%2F11ghtmtg7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manasvi+Hospital/@16.2100169,77.3496433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7070453a441:0x707f301d12bdea21!8m2!3d16.2100169!4d77.3496433!16s%2Fg%2F11ghtmtg7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3906,8 +3874,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manasvi+Hospital/@16.2100169,77.3496433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7070453a441:0x707f301d12bdea21!8m2!3d16.2100169!4d77.3496433!16s%2Fg%2F11ghtmtg7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "muktha-heart-care-centre-raichur",
@@ -3956,7 +3923,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Muktha+Heart+Care+Centre/@16.2082643,77.3542602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70cbf32158f:0xf6f964df12e54c33!8m2!3d16.2082643!4d77.3542602!16s%2Fg%2F11dxkvfynj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Muktha+Heart+Care+Centre/@16.2082643,77.3542602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70cbf32158f:0xf6f964df12e54c33!8m2!3d16.2082643!4d77.3542602!16s%2Fg%2F11dxkvfynj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4025,8 +3992,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Muktha+Heart+Care+Centre/@16.2082643,77.3542602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70cbf32158f:0xf6f964df12e54c33!8m2!3d16.2082643!4d77.3542602!16s%2Fg%2F11dxkvfynj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "n-r-m-e-n-t-hospital-raichur",
@@ -4074,7 +4040,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/N.R.M.E.N.T+Hospital/@16.203354,77.3516184,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70a4e5e6b85:0x8875d54bd25aad8f!8m2!3d16.203354!4d77.3516184!16s%2Fg%2F11hdnwghz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/N.R.M.E.N.T+Hospital/@16.203354,77.3516184,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70a4e5e6b85:0x8875d54bd25aad8f!8m2!3d16.203354!4d77.3516184!16s%2Fg%2F11hdnwghz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4140,11 +4106,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/N.R.M.E.N.T+Hospital/@16.203354,77.3516184,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70a4e5e6b85:0x8875d54bd25aad8f!8m2!3d16.203354!4d77.3516184!16s%2Fg%2F11hdnwghz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nandadeepa-cancer-clinic-raichur",
@@ -4193,7 +4158,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NANDADEEPA+CANCER+CLINIC/@16.2068703,77.3371983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c1bd5e8141:0xea7d0e044c2396a5!8m2!3d16.2068703!4d77.3371983!16s%2Fg%2F11lv5ztgnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NANDADEEPA+CANCER+CLINIC/@16.2068703,77.3371983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c1bd5e8141:0xea7d0e044c2396a5!8m2!3d16.2068703!4d77.3371983!16s%2Fg%2F11lv5ztgnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4259,11 +4224,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NANDADEEPA+CANCER+CLINIC/@16.2068703,77.3371983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c1bd5e8141:0xea7d0e044c2396a5!8m2!3d16.2068703!4d77.3371983!16s%2Fg%2F11lv5ztgnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navodaya-dental-college-and-hospital-raichur",
@@ -4312,7 +4276,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navodaya+Dental+College+And+Hospital/@16.1843513,77.3687361,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78e199a0611:0x498c74321e05a38e!8m2!3d16.1843513!4d77.3687361!16s%2Fg%2F11d_tsjyx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navodaya+Dental+College+And+Hospital/@16.1843513,77.3687361,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78e199a0611:0x498c74321e05a38e!8m2!3d16.1843513!4d77.3687361!16s%2Fg%2F11d_tsjyx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4381,8 +4345,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navodaya+Dental+College+And+Hospital/@16.1843513,77.3687361,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78e199a0611:0x498c74321e05a38e!8m2!3d16.1843513!4d77.3687361!16s%2Fg%2F11d_tsjyx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navodaya-medical-college-hospital-and-research-centre-raichur",
@@ -4432,7 +4395,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navodaya+Medical+College+Hospital+%26+Research+Centre/@16.1863886,77.3676213,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78e1e2ac297:0x22346786c9eee823!8m2!3d16.1863886!4d77.3676213!16s%2Fm%2F0hn9btx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navodaya+Medical+College+Hospital+%26+Research+Centre/@16.1863886,77.3676213,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78e1e2ac297:0x22346786c9eee823!8m2!3d16.1863886!4d77.3676213!16s%2Fm%2F0hn9btx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4501,8 +4464,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navodaya+Medical+College+Hospital+%26+Research+Centre/@16.1863886,77.3676213,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78e1e2ac297:0x22346786c9eee823!8m2!3d16.1863886!4d77.3676213!16s%2Fm%2F0hn9btx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nayak-nursing-home-raichur",
@@ -4550,7 +4512,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nayak+Nursing+Home/@16.2144213,77.3564918,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ada2b52f7:0x96511be5aa1459fc!8m2!3d16.2144213!4d77.3564918!16s%2Fg%2F1td8xkt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nayak+Nursing+Home/@16.2144213,77.3564918,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ada2b52f7:0x96511be5aa1459fc!8m2!3d16.2144213!4d77.3564918!16s%2Fg%2F1td8xkt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4619,8 +4581,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nayak+Nursing+Home/@16.2144213,77.3564918,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ada2b52f7:0x96511be5aa1459fc!8m2!3d16.2144213!4d77.3564918!16s%2Fg%2F1td8xkt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ne-urogynaec-clinic-raichur",
@@ -4670,7 +4631,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ne+Urogynaec+Clinic/@16.1998776,77.3525986,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a061f4ad2d:0x287de684ddc33d42!8m2!3d16.1998776!4d77.3525986!16s%2Fg%2F11lmjwqrgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ne+Urogynaec+Clinic/@16.1998776,77.3525986,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a061f4ad2d:0x287de684ddc33d42!8m2!3d16.1998776!4d77.3525986!16s%2Fg%2F11lmjwqrgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4736,11 +4697,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ne+Urogynaec+Clinic/@16.1998776,77.3525986,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a061f4ad2d:0x287de684ddc33d42!8m2!3d16.1998776!4d77.3525986!16s%2Fg%2F11lmjwqrgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neo-fortune-hospital-raichur",
@@ -4788,7 +4748,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neo+Fortune+Hospital/@16.2010114,77.3557697,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d708d040e78d:0xb9b53662415480ed!8m2!3d16.2010114!4d77.3557697!16s%2Fg%2F11g07sgxr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neo+Fortune+Hospital/@16.2010114,77.3557697,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d708d040e78d:0xb9b53662415480ed!8m2!3d16.2010114!4d77.3557697!16s%2Fg%2F11g07sgxr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4857,8 +4817,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neo+Fortune+Hospital/@16.2010114,77.3557697,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d708d040e78d:0xb9b53662415480ed!8m2!3d16.2010114!4d77.3557697!16s%2Fg%2F11g07sgxr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-amrutha-hospital-raichur",
@@ -4906,7 +4865,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Amrutha+Hospital/@16.2103879,77.3543025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d716f33488cb:0xb0a2202bb460d998!8m2!3d16.2103879!4d77.3543025!16s%2Fg%2F11s7xq9w26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Amrutha+Hospital/@16.2103879,77.3543025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d716f33488cb:0xb0a2202bb460d998!8m2!3d16.2103879!4d77.3543025!16s%2Fg%2F11s7xq9w26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4975,8 +4934,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Amrutha+Hospital/@16.2103879,77.3543025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d716f33488cb:0xb0a2202bb460d998!8m2!3d16.2103879!4d77.3543025!16s%2Fg%2F11s7xq9w26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-shree-shivam-hospital-raichur",
@@ -5024,7 +4982,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Shree+Shivam+Hospital/@16.2147062,77.3546304,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d73a3ad41c8d:0x12cee9da6efd7782!8m2!3d16.2147062!4d77.3546304!16s%2Fg%2F11fgm5rg3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Shree+Shivam+Hospital/@16.2147062,77.3546304,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d73a3ad41c8d:0x12cee9da6efd7782!8m2!3d16.2147062!4d77.3546304!16s%2Fg%2F11fgm5rg3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5093,8 +5051,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Shree+Shivam+Hospital/@16.2147062,77.3546304,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d73a3ad41c8d:0x12cee9da6efd7782!8m2!3d16.2147062!4d77.3546304!16s%2Fg%2F11fgm5rg3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "omkareshwar-hospital-raichur",
@@ -5142,7 +5099,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/OMKARESHWAR+HOSPITAL/@16.2005669,77.3630418,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7aac43eb4d9:0x289697c14fd6bfa0!8m2!3d16.2005669!4d77.3630418!16s%2Fg%2F11n7czh0wk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OMKARESHWAR+HOSPITAL/@16.2005669,77.3630418,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7aac43eb4d9:0x289697c14fd6bfa0!8m2!3d16.2005669!4d77.3630418!16s%2Fg%2F11n7czh0wk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5208,11 +5165,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/OMKARESHWAR+HOSPITAL/@16.2005669,77.3630418,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7aac43eb4d9:0x289697c14fd6bfa0!8m2!3d16.2005669!4d77.3630418!16s%2Fg%2F11n7czh0wk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patil-s-dental-clinic-raichur",
@@ -5260,7 +5216,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PATIL'S+DENTAL+CLINIC/@16.2121525,77.341553,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7b1aa0f025f:0xda39f3dba0b4148e!8m2!3d16.2121525!4d77.341553!16s%2Fg%2F11mrlh0y1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PATIL'S+DENTAL+CLINIC/@16.2121525,77.341553,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7b1aa0f025f:0xda39f3dba0b4148e!8m2!3d16.2121525!4d77.341553!16s%2Fg%2F11mrlh0y1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5326,11 +5282,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PATIL'S+DENTAL+CLINIC/@16.2121525,77.341553,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7b1aa0f025f:0xda39f3dba0b4148e!8m2!3d16.2121525!4d77.341553!16s%2Fg%2F11mrlh0y1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pavani-dental-clinic-raichur",
@@ -5378,7 +5333,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pavani+Dental+Clinic/@16.1995495,77.3689955,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d71f3d7e92bb:0x5d11e1eee3eeabdb!8m2!3d16.1995495!4d77.3689955!16s%2Fg%2F11g0kgsrwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pavani+Dental+Clinic/@16.1995495,77.3689955,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d71f3d7e92bb:0x5d11e1eee3eeabdb!8m2!3d16.1995495!4d77.3689955!16s%2Fg%2F11g0kgsrwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5444,11 +5399,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pavani+Dental+Clinic/@16.1995495,77.3689955,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d71f3d7e92bb:0x5d11e1eee3eeabdb!8m2!3d16.1995495!4d77.3689955!16s%2Fg%2F11g0kgsrwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "peace-health-care-raichur",
@@ -5497,7 +5451,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Peace+Health+Care/@16.2045854,77.3545744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7003ae1f8cd:0x5fadb91b05208c5f!8m2!3d16.2045854!4d77.3545744!16s%2Fg%2F11wws1v4y_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Peace+Health+Care/@16.2045854,77.3545744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7003ae1f8cd:0x5fadb91b05208c5f!8m2!3d16.2045854!4d77.3545744!16s%2Fg%2F11wws1v4y_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5563,11 +5517,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Peace+Health+Care/@16.2045854,77.3545744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7003ae1f8cd:0x5fadb91b05208c5f!8m2!3d16.2045854!4d77.3545744!16s%2Fg%2F11wws1v4y_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prakriti-scan-centre-for-fetal-medicine-raichur",
@@ -5618,7 +5571,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PRAKRITI+SCAN+CENTRE+for+Fetal+Medicine/@16.2104183,77.3501825,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c481a13aed:0xc163984c627bc831!8m2!3d16.2104183!4d77.3501825!16s%2Fg%2F11yf81nv92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRAKRITI+SCAN+CENTRE+for+Fetal+Medicine/@16.2104183,77.3501825,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c481a13aed:0xc163984c627bc831!8m2!3d16.2104183!4d77.3501825!16s%2Fg%2F11yf81nv92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5687,8 +5640,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PRAKRITI+SCAN+CENTRE+for+Fetal+Medicine/@16.2104183,77.3501825,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c481a13aed:0xc163984c627bc831!8m2!3d16.2104183!4d77.3501825!16s%2Fg%2F11yf81nv92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-chini-dentist-raichur",
@@ -5737,7 +5689,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R.chini+Dentist/@16.202037,77.3549059,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ab175cf6b:0xd32892217ad6b4bc!8m2!3d16.202037!4d77.3549059!16s%2Fg%2F11tjy6p5wq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.chini+Dentist/@16.202037,77.3549059,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ab175cf6b:0xd32892217ad6b4bc!8m2!3d16.202037!4d77.3549059!16s%2Fg%2F11tjy6p5wq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5806,8 +5758,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R.chini+Dentist/@16.202037,77.3549059,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ab175cf6b:0xd32892217ad6b4bc!8m2!3d16.202037!4d77.3549059!16s%2Fg%2F11tjy6p5wq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ratnagarbha-hospital-raichur-raichur",
@@ -5856,7 +5807,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ratnagarbha+Hospital+Raichur/@16.2129975,77.3557794,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d774a3e6d991:0x6c05d6a576bb8a21!8m2!3d16.2129975!4d77.3557794!16s%2Fg%2F11c0xpbr8y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ratnagarbha+Hospital+Raichur/@16.2129975,77.3557794,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d774a3e6d991:0x6c05d6a576bb8a21!8m2!3d16.2129975!4d77.3557794!16s%2Fg%2F11c0xpbr8y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5925,8 +5876,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ratnagarbha+Hospital+Raichur/@16.2129975,77.3557794,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d774a3e6d991:0x6c05d6a576bb8a21!8m2!3d16.2129975!4d77.3557794!16s%2Fg%2F11c0xpbr8y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rims-hospital-raichur",
@@ -5974,7 +5924,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rims+hospital/data=!4m7!3m6!1s0x3bc9d7fd0899c19b:0xcc4b4842e5b75661!8m2!3d16.213768!4d77.3595213!16s%2Fg%2F11kfpchdsk!19sChIJm8GZCP3XyTsRYVa35UJIS8w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rims+hospital/data=!4m7!3m6!1s0x3bc9d7fd0899c19b:0xcc4b4842e5b75661!8m2!3d16.213768!4d77.3595213!16s%2Fg%2F11kfpchdsk!19sChIJm8GZCP3XyTsRYVa35UJIS8w?authuser=0&hl=en&rclk=1"
@@ -6043,8 +5993,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rims+hospital/data=!4m7!3m6!1s0x3bc9d7fd0899c19b:0xcc4b4842e5b75661!8m2!3d16.213768!4d77.3595213!16s%2Fg%2F11kfpchdsk!19sChIJm8GZCP3XyTsRYVa35UJIS8w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rk-dental-clinic-and-implant-centre-raichur",
@@ -6092,7 +6041,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RK+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@16.1912204,77.3540191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7acd8a748eb:0x9d7f84d0a9007cea!8m2!3d16.1912204!4d77.3540191!16s%2Fg%2F11vynww38y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RK+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@16.1912204,77.3540191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7acd8a748eb:0x9d7f84d0a9007cea!8m2!3d16.1912204!4d77.3540191!16s%2Fg%2F11vynww38y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6158,11 +6107,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RK+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@16.1912204,77.3540191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7acd8a748eb:0x9d7f84d0a9007cea!8m2!3d16.1912204!4d77.3540191!16s%2Fg%2F11vynww38y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rkb-foundation-m-k-bhandari-hospital-raichur",
@@ -6211,7 +6159,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RKB+Foundation+M.K.BHANDARI+HOSPITAL/@16.21567,77.3549553,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76ce38c8589:0x2e309e8ce5eef582!8m2!3d16.21567!4d77.3549553!16s%2Fg%2F11shhzvffr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RKB+Foundation+M.K.BHANDARI+HOSPITAL/@16.21567,77.3549553,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76ce38c8589:0x2e309e8ce5eef582!8m2!3d16.21567!4d77.3549553!16s%2Fg%2F11shhzvffr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6277,11 +6225,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RKB+Foundation+M.K.BHANDARI+HOSPITAL/@16.21567,77.3549553,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76ce38c8589:0x2e309e8ce5eef582!8m2!3d16.21567!4d77.3549553!16s%2Fg%2F11shhzvffr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "royal-dental-care-raichur",
@@ -6330,7 +6277,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Royal+Dental+Care/@16.201513,77.3545416,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d79663805571:0x372e043f6c6b9be1!8m2!3d16.201513!4d77.3545416!16s%2Fg%2F11spzlkhpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+Dental+Care/@16.201513,77.3545416,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d79663805571:0x372e043f6c6b9be1!8m2!3d16.201513!4d77.3545416!16s%2Fg%2F11spzlkhpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6396,11 +6343,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Royal+Dental+Care/@16.201513,77.3545416,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d79663805571:0x372e043f6c6b9be1!8m2!3d16.201513!4d77.3545416!16s%2Fg%2F11spzlkhpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-fertility-centre-raichur",
@@ -6450,7 +6396,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Fertility+Centre/@16.2092764,77.3432502,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d71f74907041:0x5001e4e6496403bf!8m2!3d16.2092764!4d77.3432502!16s%2Fg%2F11hlyyx8td?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Fertility+Centre/@16.2092764,77.3432502,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d71f74907041:0x5001e4e6496403bf!8m2!3d16.2092764!4d77.3432502!16s%2Fg%2F11hlyyx8td?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6519,8 +6465,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Fertility+Centre/@16.2092764,77.3432502,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d71f74907041:0x5001e4e6496403bf!8m2!3d16.2092764!4d77.3432502!16s%2Fg%2F11hlyyx8td?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sajjan-dental-clinic-and-implant-center-raichur-raichur",
@@ -6568,7 +6513,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sajjan+Dental+Clinic+%26+Implant+center,Raichur./@16.203259,77.3543507,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c1715d8cd9:0x4469ab045214e345!8m2!3d16.203259!4d77.3543507!16s%2Fg%2F11fkv0rdm5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sajjan+Dental+Clinic+%26+Implant+center,Raichur./@16.203259,77.3543507,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c1715d8cd9:0x4469ab045214e345!8m2!3d16.203259!4d77.3543507!16s%2Fg%2F11fkv0rdm5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6637,8 +6582,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sajjan+Dental+Clinic+%26+Implant+center,Raichur./@16.203259,77.3543507,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7c1715d8cd9:0x4469ab045214e345!8m2!3d16.203259!4d77.3543507!16s%2Fg%2F11fkv0rdm5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevani-dental-clinic-raichur",
@@ -6687,7 +6631,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevani+Dental+Clinic/@16.2137725,77.3589191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7d4f4a889af:0x7efa7feab2a5a276!8m2!3d16.2137725!4d77.3589191!16s%2Fg%2F11f6f_mkdr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Dental+Clinic/@16.2137725,77.3589191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7d4f4a889af:0x7efa7feab2a5a276!8m2!3d16.2137725!4d77.3589191!16s%2Fg%2F11f6f_mkdr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6756,8 +6700,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevani+Dental+Clinic/@16.2137725,77.3589191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7d4f4a889af:0x7efa7feab2a5a276!8m2!3d16.2137725!4d77.3589191!16s%2Fg%2F11f6f_mkdr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevini-hospital-raichur",
@@ -6806,7 +6749,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SANJEEVINI+HOSPITAL/@16.1975346,77.3448537,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a633bba24b:0x4af67466895fd74e!8m2!3d16.1975346!4d77.3448537!16s%2Fg%2F11d_vl0n8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SANJEEVINI+HOSPITAL/@16.1975346,77.3448537,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a633bba24b:0x4af67466895fd74e!8m2!3d16.1975346!4d77.3448537!16s%2Fg%2F11d_vl0n8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6875,8 +6818,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SANJEEVINI+HOSPITAL/@16.1975346,77.3448537,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a633bba24b:0x4af67466895fd74e!8m2!3d16.1975346!4d77.3448537!16s%2Fg%2F11d_vl0n8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivani-skin-care-and-cosmetic-centre-raichur",
@@ -6925,7 +6867,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivani+Skin+care+%26+cosmetic+Centre/@16.2077887,77.3373348,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7dfc2955a83:0x8d914c61533abec2!8m2!3d16.2077887!4d77.3373348!16s%2Fg%2F11ghshfdqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivani+Skin+care+%26+cosmetic+Centre/@16.2077887,77.3373348,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7dfc2955a83:0x8d914c61533abec2!8m2!3d16.2077887!4d77.3373348!16s%2Fg%2F11ghshfdqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6994,8 +6936,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivani+Skin+care+%26+cosmetic+Centre/@16.2077887,77.3373348,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7dfc2955a83:0x8d914c61533abec2!8m2!3d16.2077887!4d77.3373348!16s%2Fg%2F11ghshfdqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-tirumala-dental-specialities-raichur",
@@ -7044,7 +6985,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Tirumala+Dental+Specialities/@16.2027103,77.3543907,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ac6d958dd:0x5252f2861728fcfd!8m2!3d16.2027103!4d77.3543907!16s%2Fg%2F11b6cq2r4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Tirumala+Dental+Specialities/@16.2027103,77.3543907,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ac6d958dd:0x5252f2861728fcfd!8m2!3d16.2027103!4d77.3543907!16s%2Fg%2F11b6cq2r4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7110,11 +7051,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Tirumala+Dental+Specialities/@16.2027103,77.3543907,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ac6d958dd:0x5252f2861728fcfd!8m2!3d16.2027103!4d77.3543907!16s%2Fg%2F11b6cq2r4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-somnath-hospital-kidney-specialist-at-raichur-raichur",
@@ -7163,7 +7103,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Somnath+Hospital+:+Kidney+Specialist+at+Raichur/@16.2146746,77.3530395,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78a9d13573b:0x3da847fcffac50b9!8m2!3d16.2146746!4d77.3530395!16s%2Fg%2F11ym3mxfnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Somnath+Hospital+:+Kidney+Specialist+at+Raichur/@16.2146746,77.3530395,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78a9d13573b:0x3da847fcffac50b9!8m2!3d16.2146746!4d77.3530395!16s%2Fg%2F11ym3mxfnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7229,11 +7169,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Somnath+Hospital+:+Kidney+Specialist+at+Raichur/@16.2146746,77.3530395,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d78a9d13573b:0x3da847fcffac50b9!8m2!3d16.2146746!4d77.3530395!16s%2Fg%2F11ym3mxfnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "siddhivinaayaka-health-care-services-raichur",
@@ -7281,7 +7220,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Siddhivinaayaka+health+care+Services/@16.2077071,77.3518131,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d719b6d47d53:0x731f88121af0da4d!8m2!3d16.2077071!4d77.3518131!16s%2Fg%2F11yf2n1fwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddhivinaayaka+health+care+Services/@16.2077071,77.3518131,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d719b6d47d53:0x731f88121af0da4d!8m2!3d16.2077071!4d77.3518131!16s%2Fg%2F11yf2n1fwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7350,8 +7289,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Siddhivinaayaka+health+care+Services/@16.2077071,77.3518131,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d719b6d47d53:0x731f88121af0da4d!8m2!3d16.2077071!4d77.3518131!16s%2Fg%2F11yf2n1fwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-and-shine-dental-clinic-raichur",
@@ -7399,7 +7337,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMILE+AND+SHINE+DENTAL+CLINIC/@16.2029935,77.3521085,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70a4143c143:0xba22b87b6cbfba48!8m2!3d16.2029935!4d77.3521085!16s%2Fg%2F11bzsf_wn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+AND+SHINE+DENTAL+CLINIC/@16.2029935,77.3521085,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70a4143c143:0xba22b87b6cbfba48!8m2!3d16.2029935!4d77.3521085!16s%2Fg%2F11bzsf_wn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7465,11 +7403,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMILE+AND+SHINE+DENTAL+CLINIC/@16.2029935,77.3521085,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70a4143c143:0xba22b87b6cbfba48!8m2!3d16.2029935!4d77.3521085!16s%2Fg%2F11bzsf_wn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-clinic-raichur",
@@ -7517,7 +7454,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Dental+Clinic/@16.1888044,77.3428273,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7af03ba5f41:0xce844952404648ee!8m2!3d16.1888044!4d77.3428273!16s%2Fg%2F11gxtbcr5j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental+Clinic/@16.1888044,77.3428273,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7af03ba5f41:0xce844952404648ee!8m2!3d16.1888044!4d77.3428273!16s%2Fg%2F11gxtbcr5j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7586,8 +7523,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Dental+Clinic/@16.1888044,77.3428273,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7af03ba5f41:0xce844952404648ee!8m2!3d16.1888044!4d77.3428273!16s%2Fg%2F11gxtbcr5j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smilespot-dental-clinic-raichur",
@@ -7635,7 +7571,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smilespot+Dental+Clinic/@16.1935529,77.3422577,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7049f6e4b6d:0x554828999984e8bb!8m2!3d16.1935529!4d77.3422577!16s%2Fg%2F11y486_1g7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilespot+Dental+Clinic/@16.1935529,77.3422577,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7049f6e4b6d:0x554828999984e8bb!8m2!3d16.1935529!4d77.3422577!16s%2Fg%2F11y486_1g7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7701,11 +7637,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smilespot+Dental+Clinic/@16.1935529,77.3422577,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7049f6e4b6d:0x554828999984e8bb!8m2!3d16.1935529!4d77.3422577!16s%2Fg%2F11y486_1g7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sparsh-hospital-raichur",
@@ -7754,7 +7689,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sparsh+Hospital/@16.1942699,77.3422905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7af342e0089:0x44684dd44460037!8m2!3d16.1942699!4d77.3422905!16s%2Fg%2F11fhy1w6r1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+Hospital/@16.1942699,77.3422905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7af342e0089:0x44684dd44460037!8m2!3d16.1942699!4d77.3422905!16s%2Fg%2F11fhy1w6r1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7823,8 +7758,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sparsh+Hospital/@16.1942699,77.3422905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7af342e0089:0x44684dd44460037!8m2!3d16.1942699!4d77.3422905!16s%2Fg%2F11fhy1w6r1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-amareshwara-hospital-raichur",
@@ -7872,7 +7806,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Amareshwara+Hospital/@16.2063133,77.3581877,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7ebb1f3349b:0xa1c7fcce65541e26!8m2!3d16.2063133!4d77.3581877!16s%2Fg%2F11mw6yyk_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Amareshwara+Hospital/@16.2063133,77.3581877,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7ebb1f3349b:0xa1c7fcce65541e26!8m2!3d16.2063133!4d77.3581877!16s%2Fg%2F11mw6yyk_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7941,8 +7875,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Amareshwara+Hospital/@16.2063133,77.3581877,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7ebb1f3349b:0xa1c7fcce65541e26!8m2!3d16.2063133!4d77.3581877!16s%2Fg%2F11mw6yyk_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-basava-hospital-and-research-centre-raichur",
@@ -7991,7 +7924,7 @@
       "Google rating 2.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+BASAVA+HOSPITAL+AND+RESEARCH+CENTRE/@16.2074738,77.3338653,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70241e37dbf:0x97dbe13c43f98002!8m2!3d16.2074738!4d77.3338653!16s%2Fg%2F11b87g6kl9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+BASAVA+HOSPITAL+AND+RESEARCH+CENTRE/@16.2074738,77.3338653,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70241e37dbf:0x97dbe13c43f98002!8m2!3d16.2074738!4d77.3338653!16s%2Fg%2F11b87g6kl9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8060,8 +7993,7 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+BASAVA+HOSPITAL+AND+RESEARCH+CENTRE/@16.2074738,77.3338653,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70241e37dbf:0x97dbe13c43f98002!8m2!3d16.2074738!4d77.3338653!16s%2Fg%2F11b87g6kl9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-devika-maternity-home-raichur",
@@ -8108,7 +8040,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+DEVIKA+MATERNITY+HOME/@16.2006282,77.3564053,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d79fe5af07db:0xaff04ca90a46a480!8m2!3d16.2006282!4d77.3564053!16s%2Fg%2F11tsqrh6bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+DEVIKA+MATERNITY+HOME/@16.2006282,77.3564053,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d79fe5af07db:0xaff04ca90a46a480!8m2!3d16.2006282!4d77.3564053!16s%2Fg%2F11tsqrh6bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8174,11 +8106,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+DEVIKA+MATERNITY+HOME/@16.2006282,77.3564053,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d79fe5af07db:0xaff04ca90a46a480!8m2!3d16.2006282!4d77.3564053!16s%2Fg%2F11tsqrh6bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-guru-amareshwara-clinic-raichur",
@@ -8226,7 +8157,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Guru+Amareshwara+Clinic/@16.2059704,77.3564504,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d774b95875b5:0x1d90e4636f494f35!8m2!3d16.2059704!4d77.3564504!16s%2Fg%2F11fhy1s8wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Guru+Amareshwara+Clinic/@16.2059704,77.3564504,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d774b95875b5:0x1d90e4636f494f35!8m2!3d16.2059704!4d77.3564504!16s%2Fg%2F11fhy1s8wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8292,11 +8223,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Guru+Amareshwara+Clinic/@16.2059704,77.3564504,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d774b95875b5:0x1d90e4636f494f35!8m2!3d16.2059704!4d77.3564504!16s%2Fg%2F11fhy1s8wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-lakshmi-venkateshwara-dental-clinic-raichur",
@@ -8344,7 +8274,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Lakshmi+Venkateshwara+Dental+Clinic/@16.2027972,77.3607649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d706e2396e1d:0x879e2f3299e3db96!8m2!3d16.2027972!4d77.3607649!16s%2Fg%2F11vwndw4vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Lakshmi+Venkateshwara+Dental+Clinic/@16.2027972,77.3607649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d706e2396e1d:0x879e2f3299e3db96!8m2!3d16.2027972!4d77.3607649!16s%2Fg%2F11vwndw4vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8413,8 +8343,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Lakshmi+Venkateshwara+Dental+Clinic/@16.2027972,77.3607649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d706e2396e1d:0x879e2f3299e3db96!8m2!3d16.2027972!4d77.3607649!16s%2Fg%2F11vwndw4vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sai-jeevadhara-clinic-raichur",
@@ -8463,7 +8392,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+SAI+JEEVADHARA+CLINIC/@16.2062533,77.3587616,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7095cfac98b:0x361a5ec369036614!8m2!3d16.2062533!4d77.3587616!16s%2Fg%2F11n4jgcvd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SAI+JEEVADHARA+CLINIC/@16.2062533,77.3587616,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7095cfac98b:0x361a5ec369036614!8m2!3d16.2062533!4d77.3587616!16s%2Fg%2F11n4jgcvd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8532,8 +8461,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+SAI+JEEVADHARA+CLINIC/@16.2062533,77.3587616,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7095cfac98b:0x361a5ec369036614!8m2!3d16.2062533!4d77.3587616!16s%2Fg%2F11n4jgcvd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sangameshwara-dental-clinic-raichur",
@@ -8582,7 +8510,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+SANGAMESHWARA+DENTAL+CLINIC/@16.203445,77.3403863,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d706fc9edb11:0x13d659628f270cf9!8m2!3d16.203445!4d77.3403863!16s%2Fg%2F11l6tmdc_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SANGAMESHWARA+DENTAL+CLINIC/@16.203445,77.3403863,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d706fc9edb11:0x13d659628f270cf9!8m2!3d16.203445!4d77.3403863!16s%2Fg%2F11l6tmdc_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8648,11 +8576,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+SANGAMESHWARA+DENTAL+CLINIC/@16.203445,77.3403863,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d706fc9edb11:0x13d659628f270cf9!8m2!3d16.203445!4d77.3403863!16s%2Fg%2F11l6tmdc_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sannidhi-clinic-raichur",
@@ -8701,7 +8628,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Sannidhi+Clinic/@16.20597,77.3564528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d774bbf679db:0xedada76df0066cab!8m2!3d16.20597!4d77.3564528!16s%2Fg%2F11c6w0rw4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sannidhi+Clinic/@16.20597,77.3564528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d774bbf679db:0xedada76df0066cab!8m2!3d16.20597!4d77.3564528!16s%2Fg%2F11c6w0rw4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8767,11 +8694,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Sannidhi+Clinic/@16.20597,77.3564528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d774bbf679db:0xedada76df0066cab!8m2!3d16.20597!4d77.3564528!16s%2Fg%2F11c6w0rw4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-tirumala-dental-specialities-raichur",
@@ -8817,7 +8743,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+tirumala+Dental+specialities/@16.2050748,77.3383675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76b95593539:0x11bfcb791be3e2c9!8m2!3d16.2050748!4d77.3383675!16s%2Fg%2F11shkh7h4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+tirumala+Dental+specialities/@16.2050748,77.3383675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76b95593539:0x11bfcb791be3e2c9!8m2!3d16.2050748!4d77.3383675!16s%2Fg%2F11shkh7h4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8883,11 +8809,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+tirumala+Dental+specialities/@16.2050748,77.3383675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d76b95593539:0x11bfcb791be3e2c9!8m2!3d16.2050748!4d77.3383675!16s%2Fg%2F11shkh7h4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "star-hospital-raichur",
@@ -8935,7 +8860,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Star+Hospital/@16.2097237,77.3497824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7bf833c50d3:0x8c0f1b897336e04e!8m2!3d16.2097237!4d77.3497824!16s%2Fg%2F11fqcr5_nw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+Hospital/@16.2097237,77.3497824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7bf833c50d3:0x8c0f1b897336e04e!8m2!3d16.2097237!4d77.3497824!16s%2Fg%2F11fqcr5_nw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9004,8 +8929,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Star+Hospital/@16.2097237,77.3497824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7bf833c50d3:0x8c0f1b897336e04e!8m2!3d16.2097237!4d77.3497824!16s%2Fg%2F11fqcr5_nw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suraksha-hospital-raichur",
@@ -9054,7 +8978,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SURAKSHA+HOSPITAL/@16.2086093,77.3514034,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70c46f43ac9:0x915d07b128c07a99!8m2!3d16.2086093!4d77.3514034!16s%2Fg%2F1hdzkgynt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SURAKSHA+HOSPITAL/@16.2086093,77.3514034,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70c46f43ac9:0x915d07b128c07a99!8m2!3d16.2086093!4d77.3514034!16s%2Fg%2F1hdzkgynt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9123,8 +9047,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SURAKSHA+HOSPITAL/@16.2086093,77.3514034,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70c46f43ac9:0x915d07b128c07a99!8m2!3d16.2086093!4d77.3514034!16s%2Fg%2F1hdzkgynt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swamy-vivekananda-holistic-health-and-healing-centre-raichur",
@@ -9173,7 +9096,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swamy+Vivekananda+Holistic+Health+%26+Healing+Centre/@16.1883916,77.3661296,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7903b5eb77b:0x8329d9c364456e7c!8m2!3d16.1883916!4d77.3661296!16s%2Fg%2F11c1r6l_jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swamy+Vivekananda+Holistic+Health+%26+Healing+Centre/@16.1883916,77.3661296,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7903b5eb77b:0x8329d9c364456e7c!8m2!3d16.1883916!4d77.3661296!16s%2Fg%2F11c1r6l_jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9242,8 +9165,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swamy+Vivekananda+Holistic+Health+%26+Healing+Centre/@16.1883916,77.3661296,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7903b5eb77b:0x8329d9c364456e7c!8m2!3d16.1883916!4d77.3661296!16s%2Fg%2F11c1r6l_jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "taranath-dental-care-centre-raichur",
@@ -9291,7 +9213,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Taranath+Dental+Care+Centre/@16.2080193,77.3542032,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70cbe92aeb3:0xb4a38f81c730bfd1!8m2!3d16.2080193!4d77.3542032!16s%2Fg%2F11fhklr3v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Taranath+Dental+Care+Centre/@16.2080193,77.3542032,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70cbe92aeb3:0xb4a38f81c730bfd1!8m2!3d16.2080193!4d77.3542032!16s%2Fg%2F11fhklr3v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9357,11 +9279,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Taranath+Dental+Care+Centre/@16.2080193,77.3542032,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70cbe92aeb3:0xb4a38f81c730bfd1!8m2!3d16.2080193!4d77.3542032!16s%2Fg%2F11fhklr3v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -9411,7 +9332,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9477,11 +9398,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "venkat-poly-clinic-raichur",
@@ -9531,7 +9451,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VENKAT+POLY+CLINIC/@16.1959747,77.3613477,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7be6e124c1f:0x7b2a05aecc3aac68!8m2!3d16.1959747!4d77.3613477!16s%2Fg%2F11q1jh0zwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VENKAT+POLY+CLINIC/@16.1959747,77.3613477,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7be6e124c1f:0x7b2a05aecc3aac68!8m2!3d16.1959747!4d77.3613477!16s%2Fg%2F11q1jh0zwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9600,8 +9520,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VENKAT+POLY+CLINIC/@16.1959747,77.3613477,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7be6e124c1f:0x7b2a05aecc3aac68!8m2!3d16.1959747!4d77.3613477!16s%2Fg%2F11q1jh0zwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vgk-hospital-raichur",
@@ -9649,7 +9568,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vgk+hospital/@16.1973923,77.3468275,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a6ff362edb:0xbe3a10f71c3f4e5c!8m2!3d16.1973923!4d77.3468275!16s%2Fg%2F1hhx4p3dq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vgk+hospital/@16.1973923,77.3468275,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a6ff362edb:0xbe3a10f71c3f4e5c!8m2!3d16.1973923!4d77.3468275!16s%2Fg%2F1hhx4p3dq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9718,8 +9637,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vgk+hospital/@16.1973923,77.3468275,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d7a6ff362edb:0xbe3a10f71c3f4e5c!8m2!3d16.1973923!4d77.3468275!16s%2Fg%2F1hhx4p3dq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijaysri-dental-clinic-raichur",
@@ -9767,7 +9685,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VIJAYSRI+DENTAL+CLINIC/@16.2026295,77.3544493,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ab8873451:0x939a9fe9991dcfc8!8m2!3d16.2026295!4d77.3544493!16s%2Fg%2F11hbr495vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIJAYSRI+DENTAL+CLINIC/@16.2026295,77.3544493,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ab8873451:0x939a9fe9991dcfc8!8m2!3d16.2026295!4d77.3544493!16s%2Fg%2F11hbr495vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9836,8 +9754,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VIJAYSRI+DENTAL+CLINIC/@16.2026295,77.3544493,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d70ab8873451:0x939a9fe9991dcfc8!8m2!3d16.2026295!4d77.3544493!16s%2Fg%2F11hbr495vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vvr-chaitanya-hospital-raichur",
@@ -9886,7 +9803,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VVR+Chaitanya+Hospital/@16.2075554,77.3416207,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d705c73da489:0x8bc71de197c3c306!8m2!3d16.2075554!4d77.3416207!16s%2Fg%2F11b7csg_q5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VVR+Chaitanya+Hospital/@16.2075554,77.3416207,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d705c73da489:0x8bc71de197c3c306!8m2!3d16.2075554!4d77.3416207!16s%2Fg%2F11b7csg_q5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9955,7 +9872,6 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VVR+Chaitanya+Hospital/@16.2075554,77.3416207,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc9d705c73da489:0x8bc71de197c3c306!8m2!3d16.2075554!4d77.3416207!16s%2Fg%2F11b7csg_q5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

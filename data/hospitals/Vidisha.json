@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akash+Jyoti+Hospital/data=!4m7!3m6!1s0x397c048a9a28f173:0xe9b53138a7c3144c!8m2!3d23.5193252!4d77.8156207!16s%2Fg%2F11ckx30xzn!19sChIJc_EomooEfDkRTBTDpzgxtek?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akash+Jyoti+Hospital/data=!4m7!3m6!1s0x397c048a9a28f173:0xe9b53138a7c3144c!8m2!3d23.5193252!4d77.8156207!16s%2Fg%2F11ckx30xzn!19sChIJc_EomooEfDkRTBTDpzgxtek?authuser=0&hl=en&rclk=1"
@@ -114,8 +114,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akash+Jyoti+Hospital/data=!4m7!3m6!1s0x397c048a9a28f173:0xe9b53138a7c3144c!8m2!3d23.5193252!4d77.8156207!16s%2Fg%2F11ckx30xzn!19sChIJc_EomooEfDkRTBTDpzgxtek?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ayushman-dental-clinic-vidisha",
@@ -163,7 +162,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ayushman+dental+clinic/data=!4m7!3m6!1s0x397c054aedc255ff:0xbbc91cf585bc7909!8m2!3d23.5193756!4d77.8080541!16s%2Fg%2F11j8t2zfqp!19sChIJ_1XC7UoFfDkRCXm8hfUcybs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayushman+dental+clinic/data=!4m7!3m6!1s0x397c054aedc255ff:0xbbc91cf585bc7909!8m2!3d23.5193756!4d77.8080541!16s%2Fg%2F11j8t2zfqp!19sChIJ_1XC7UoFfDkRCXm8hfUcybs?authuser=0&hl=en&rclk=1"
@@ -229,11 +228,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ayushman+dental+clinic/data=!4m7!3m6!1s0x397c054aedc255ff:0xbbc91cf585bc7909!8m2!3d23.5193756!4d77.8080541!16s%2Fg%2F11j8t2zfqp!19sChIJ_1XC7UoFfDkRCXm8hfUcybs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bagchi-sri-shankara-cancer-centre-and-research-institute-bhubaneswar",
@@ -282,7 +280,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bagchi+Sri+Shankara+Cancer+Centre+and+Research+Institute/data=!4m7!3m6!1s0x3a19a995f26f2d8b:0x20b3b89abfd177a0!8m2!3d20.2321852!4d85.7063509!16s%2Fg%2F11q7z_pmg_!19sChIJiy1v8pWpGToRoHfRv5q4syA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bagchi+Sri+Shankara+Cancer+Centre+and+Research+Institute/data=!4m7!3m6!1s0x3a19a995f26f2d8b:0x20b3b89abfd177a0!8m2!3d20.2321852!4d85.7063509!16s%2Fg%2F11q7z_pmg_!19sChIJiy1v8pWpGToRoHfRv5q4syA?authuser=0&hl=en&rclk=1"
@@ -351,8 +349,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bagchi+Sri+Shankara+Cancer+Centre+and+Research+Institute/data=!4m7!3m6!1s0x3a19a995f26f2d8b:0x20b3b89abfd177a0!8m2!3d20.2321852!4d85.7063509!16s%2Fg%2F11q7z_pmg_!19sChIJiy1v8pWpGToRoHfRv5q4syA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bansal-polyclinic-bpc-vidisha",
@@ -398,7 +395,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bansal+polyclinic+(BPC)/@23.5216849,77.8026774,17z/data=!3m1!4b1!4m6!3m5!1s0x397c050048774a41:0x9f98d3afe42203ba!8m2!3d23.5216849!4d77.8026774!16s%2Fg%2F11yfthxktf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal+polyclinic+(BPC)/@23.5216849,77.8026774,17z/data=!3m1!4b1!4m6!3m5!1s0x397c050048774a41:0x9f98d3afe42203ba!8m2!3d23.5216849!4d77.8026774!16s%2Fg%2F11yfthxktf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -464,11 +461,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bansal+polyclinic+(BPC)/@23.5216849,77.8026774,17z/data=!3m1!4b1!4m6!3m5!1s0x397c050048774a41:0x9f98d3afe42203ba!8m2!3d23.5216849!4d77.8026774!16s%2Fg%2F11yfthxktf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chaitanya-hospital-vidisha",
@@ -516,7 +512,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chaitanya+hospital/data=!4m7!3m6!1s0x397c052612fd329f:0x305532380550cb67!8m2!3d23.5270219!4d77.8200468!16s%2Fg%2F11fnyfnrrt!19sChIJnzL9EiYFfDkRZ8tQBTgyVTA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaitanya+hospital/data=!4m7!3m6!1s0x397c052612fd329f:0x305532380550cb67!8m2!3d23.5270219!4d77.8200468!16s%2Fg%2F11fnyfnrrt!19sChIJnzL9EiYFfDkRZ8tQBTgyVTA?authuser=0&hl=en&rclk=1"
@@ -585,8 +581,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chaitanya+hospital/data=!4m7!3m6!1s0x397c052612fd329f:0x305532380550cb67!8m2!3d23.5270219!4d77.8200468!16s%2Fg%2F11fnyfnrrt!19sChIJnzL9EiYFfDkRZ8tQBTgyVTA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chiranjeevi-hospital-vidisha",
@@ -634,7 +629,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chiranjeevi+Hospital/data=!4m7!3m6!1s0x397c046239bfdca3:0xd33cf05494104a80!8m2!3d23.5222639!4d77.8208584!16s%2Fg%2F12hlhdcxd!19sChIJo9y_OWIEfDkRgEoQlFTwPNM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chiranjeevi+Hospital/data=!4m7!3m6!1s0x397c046239bfdca3:0xd33cf05494104a80!8m2!3d23.5222639!4d77.8208584!16s%2Fg%2F12hlhdcxd!19sChIJo9y_OWIEfDkRgEoQlFTwPNM?authuser=0&hl=en&rclk=1"
@@ -700,11 +695,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chiranjeevi+Hospital/data=!4m7!3m6!1s0x397c046239bfdca3:0xd33cf05494104a80!8m2!3d23.5222639!4d77.8208584!16s%2Fg%2F12hlhdcxd!19sChIJo9y_OWIEfDkRgEoQlFTwPNM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indu-jain-hospital-vidisha",
@@ -752,7 +746,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indu+Jain+Hospital/data=!4m7!3m6!1s0x397c045f112bd00b:0xc8c8cdceefc0b66!8m2!3d23.5213797!4d77.8100168!16s%2Fg%2F1hhhns6j6!19sChIJC9ArEV8EfDkRZgv87tyMjAw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indu+Jain+Hospital/data=!4m7!3m6!1s0x397c045f112bd00b:0xc8c8cdceefc0b66!8m2!3d23.5213797!4d77.8100168!16s%2Fg%2F1hhhns6j6!19sChIJC9ArEV8EfDkRZgv87tyMjAw?authuser=0&hl=en&rclk=1"
@@ -821,8 +815,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indu+Jain+Hospital/data=!4m7!3m6!1s0x397c045f112bd00b:0xc8c8cdceefc0b66!8m2!3d23.5213797!4d77.8100168!16s%2Fg%2F1hhhns6j6!19sChIJC9ArEV8EfDkRZgv87tyMjAw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-dhara-hospital-vidisha",
@@ -870,7 +863,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Dhara+Hospital/@23.5187812,77.8150006,17z/data=!3m1!4b1!4m6!3m5!1s0x397c048a96270f07:0x9cab7075d879747!8m2!3d23.5187812!4d77.8150006!16s%2Fg%2F11ckx1m3zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Dhara+Hospital/@23.5187812,77.8150006,17z/data=!3m1!4b1!4m6!3m5!1s0x397c048a96270f07:0x9cab7075d879747!8m2!3d23.5187812!4d77.8150006!16s%2Fg%2F11ckx1m3zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -939,8 +932,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Dhara+Hospital/@23.5187812,77.8150006,17z/data=!3m1!4b1!4m6!3m5!1s0x397c048a96270f07:0x9cab7075d879747!8m2!3d23.5187812!4d77.8150006!16s%2Fg%2F11ckx1m3zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-cancer-hospital-bhopal",
@@ -989,7 +981,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Cancer+Hospital/data=!4m7!3m6!1s0x397c43a6c0000001:0xf0b703b3803605b2!8m2!3d23.1866638!4d77.4354668!16s%2Fg%2F11kjry2xp3!19sChIJAQAAwKZDfDkRsgU2gLMDt_A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Cancer+Hospital/data=!4m7!3m6!1s0x397c43a6c0000001:0xf0b703b3803605b2!8m2!3d23.1866638!4d77.4354668!16s%2Fg%2F11kjry2xp3!19sChIJAQAAwKZDfDkRsgU2gLMDt_A?authuser=0&hl=en&rclk=1"
@@ -1058,8 +1050,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Cancer+Hospital/data=!4m7!3m6!1s0x397c43a6c0000001:0xf0b703b3803605b2!8m2!3d23.1866638!4d77.4354668!16s%2Fg%2F11kjry2xp3!19sChIJAQAAwKZDfDkRsgU2gLMDt_A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-ivf-centre-vidisha",
@@ -1108,7 +1099,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maa+IVF+Centre/data=!4m7!3m6!1s0x397c05b67de1f7af:0xc6ec8d13c2fd8d8c!8m2!3d23.5326855!4d77.81589!16s%2Fg%2F11yr2d4lc9!19sChIJr_fhfbYFfDkRjI39whON7MY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+IVF+Centre/data=!4m7!3m6!1s0x397c05b67de1f7af:0xc6ec8d13c2fd8d8c!8m2!3d23.5326855!4d77.81589!16s%2Fg%2F11yr2d4lc9!19sChIJr_fhfbYFfDkRjI39whON7MY?authuser=0&hl=en&rclk=1"
@@ -1174,11 +1165,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maa+IVF+Centre/data=!4m7!3m6!1s0x397c05b67de1f7af:0xc6ec8d13c2fd8d8c!8m2!3d23.5326855!4d77.81589!16s%2Fg%2F11yr2d4lc9!19sChIJr_fhfbYFfDkRjI39whON7MY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "miracle-dental-and-facial-aesthetic-center-best-dental-hair-skin-specialist-in-vidisha-vidisha",
@@ -1227,7 +1217,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Miracle+Dental+%26+Facial+Aesthetic+Center+-+Best+Dental,+Hair,+Skin+Specialist+In+Vidisha/data=!4m7!3m6!1s0x397c045fadaf6b95:0x20b8f902346c87d0!8m2!3d23.5224376!4d77.8114176!16s%2Fg%2F11gbk216_6!19sChIJlWuvrV8EfDkR0IdsNAL5uCA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Miracle+Dental+%26+Facial+Aesthetic+Center+-+Best+Dental,+Hair,+Skin+Specialist+In+Vidisha/data=!4m7!3m6!1s0x397c045fadaf6b95:0x20b8f902346c87d0!8m2!3d23.5224376!4d77.8114176!16s%2Fg%2F11gbk216_6!19sChIJlWuvrV8EfDkR0IdsNAL5uCA?authuser=0&hl=en&rclk=1"
@@ -1296,8 +1286,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Miracle+Dental+%26+Facial+Aesthetic+Center+-+Best+Dental,+Hair,+Skin+Specialist+In+Vidisha/data=!4m7!3m6!1s0x397c045fadaf6b95:0x20b8f902346c87d0!8m2!3d23.5224376!4d77.8114176!16s%2Fg%2F11gbk216_6!19sChIJlWuvrV8EfDkR0IdsNAL5uCA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "modern-dental-clinic-vidisha-vidisha",
@@ -1345,7 +1334,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Modern+Dental+Clinic+Vidisha/data=!4m7!3m6!1s0x397c0568a9bf3419:0xa18593ccc2b360bf!8m2!3d23.5267988!4d77.8231611!16s%2Fg%2F11n2nqsj2c!19sChIJGTS_qWgFfDkRv2CzwsyThaE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modern+Dental+Clinic+Vidisha/data=!4m7!3m6!1s0x397c0568a9bf3419:0xa18593ccc2b360bf!8m2!3d23.5267988!4d77.8231611!16s%2Fg%2F11n2nqsj2c!19sChIJGTS_qWgFfDkRv2CzwsyThaE?authuser=0&hl=en&rclk=1"
@@ -1411,11 +1400,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Modern+Dental+Clinic+Vidisha/data=!4m7!3m6!1s0x397c0568a9bf3419:0xa18593ccc2b360bf!8m2!3d23.5267988!4d77.8231611!16s%2Fg%2F11n2nqsj2c!19sChIJGTS_qWgFfDkRv2CzwsyThaE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neuberg-diagnostics-blood-tests-cbc-tests-and-full-body-checkup-vidisha",
@@ -1464,7 +1452,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/data=!4m7!3m6!1s0x397c05210eee0eef:0x1903fb08320bc9ee!8m2!3d23.5235719!4d77.8139718!16s%2Fg%2F11ydwtzgzq!19sChIJ7w7uDiEFfDkR7skLMgj7Axk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/data=!4m7!3m6!1s0x397c05210eee0eef:0x1903fb08320bc9ee!8m2!3d23.5235719!4d77.8139718!16s%2Fg%2F11ydwtzgzq!19sChIJ7w7uDiEFfDkR7skLMgj7Axk?authuser=0&hl=en&rclk=1"
@@ -1530,11 +1518,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/data=!4m7!3m6!1s0x397c05210eee0eef:0x1903fb08320bc9ee!8m2!3d23.5235719!4d77.8139718!16s%2Fg%2F11ydwtzgzq!19sChIJ7w7uDiEFfDkR7skLMgj7Axk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nigam-dental-hospital-vidisha",
@@ -1582,7 +1569,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nigam+Dental+Hospital/data=!4m7!3m6!1s0x397c045f25e5ae4b:0x1e1dc061cc3e9a9f!8m2!3d23.5218835!4d77.809006!16s%2Fg%2F1hc79txfg!19sChIJS67lJV8EfDkRn5o-zGHAHR4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nigam+Dental+Hospital/data=!4m7!3m6!1s0x397c045f25e5ae4b:0x1e1dc061cc3e9a9f!8m2!3d23.5218835!4d77.809006!16s%2Fg%2F1hc79txfg!19sChIJS67lJV8EfDkRn5o-zGHAHR4?authuser=0&hl=en&rclk=1"
@@ -1651,8 +1638,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nigam+Dental+Hospital/data=!4m7!3m6!1s0x397c045f25e5ae4b:0x1e1dc061cc3e9a9f!8m2!3d23.5218835!4d77.809006!16s%2Fg%2F1hc79txfg!19sChIJS67lJV8EfDkRn5o-zGHAHR4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "niramaya-hospital-vidisha",
@@ -1700,7 +1686,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NIRAMAYA+HOSPITAL/@23.5109263,77.8138226,17z/data=!3m1!4b1!4m6!3m5!1s0x397c053a650b4e4b:0x1d928c65d6e7e1d2!8m2!3d23.5109263!4d77.8138226!16s%2Fg%2F11rd8v29fy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIRAMAYA+HOSPITAL/@23.5109263,77.8138226,17z/data=!3m1!4b1!4m6!3m5!1s0x397c053a650b4e4b:0x1d928c65d6e7e1d2!8m2!3d23.5109263!4d77.8138226!16s%2Fg%2F11rd8v29fy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1769,8 +1755,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NIRAMAYA+HOSPITAL/@23.5109263,77.8138226,17z/data=!3m1!4b1!4m6!3m5!1s0x397c053a650b4e4b:0x1d928c65d6e7e1d2!8m2!3d23.5109263!4d77.8138226!16s%2Fg%2F11rd8v29fy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ortho-neuro-care-centre-vidisha-vidisha",
@@ -1820,7 +1805,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ortho+Neuro+Care+Centre,+Vidisha/data=!4m7!3m6!1s0x397c053da37bc36f:0x35135d0c71a676ed!8m2!3d23.5201503!4d77.8157407!16s%2Fg%2F11g2srzgd4!19sChIJb8N7oz0FfDkR7XamcQxdEzU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ortho+Neuro+Care+Centre,+Vidisha/data=!4m7!3m6!1s0x397c053da37bc36f:0x35135d0c71a676ed!8m2!3d23.5201503!4d77.8157407!16s%2Fg%2F11g2srzgd4!19sChIJb8N7oz0FfDkR7XamcQxdEzU?authuser=0&hl=en&rclk=1"
@@ -1886,11 +1871,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ortho+Neuro+Care+Centre,+Vidisha/data=!4m7!3m6!1s0x397c053da37bc36f:0x35135d0c71a676ed!8m2!3d23.5201503!4d77.8157407!16s%2Fg%2F11g2srzgd4!19sChIJb8N7oz0FfDkR7XamcQxdEzU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sadguru-hospital-and-homyo-clinic-vidisha",
@@ -1939,7 +1923,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sadguru+hospital+and+homyo+clinic/data=!4m7!3m6!1s0x397c05cbc0354e3b:0x334b08f57e2e0585!8m2!3d23.5264906!4d77.8061459!16s%2Fg%2F11s3h5l32c!19sChIJO041wMsFfDkRhQUufvUISzM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadguru+hospital+and+homyo+clinic/data=!4m7!3m6!1s0x397c05cbc0354e3b:0x334b08f57e2e0585!8m2!3d23.5264906!4d77.8061459!16s%2Fg%2F11s3h5l32c!19sChIJO041wMsFfDkRhQUufvUISzM?authuser=0&hl=en&rclk=1"
@@ -2005,11 +1989,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sadguru+hospital+and+homyo+clinic/data=!4m7!3m6!1s0x397c05cbc0354e3b:0x334b08f57e2e0585!8m2!3d23.5264906!4d77.8061459!16s%2Fg%2F11s3h5l32c!19sChIJO041wMsFfDkRhQUufvUISzM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-shankar-hospital-vidisha",
@@ -2057,7 +2040,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Shankar+Hospital/data=!4m7!3m6!1s0x397c05d537257cf7:0xe83628862e7bc17b!8m2!3d23.5138044!4d77.79354!16s%2Fg%2F11shpdk8jx!19sChIJ93wlN9UFfDkRe8F7LoYoNug?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Shankar+Hospital/data=!4m7!3m6!1s0x397c05d537257cf7:0xe83628862e7bc17b!8m2!3d23.5138044!4d77.79354!16s%2Fg%2F11shpdk8jx!19sChIJ93wlN9UFfDkRe8F7LoYoNug?authuser=0&hl=en&rclk=1"
@@ -2126,8 +2109,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Shankar+Hospital/data=!4m7!3m6!1s0x397c05d537257cf7:0xe83628862e7bc17b!8m2!3d23.5138044!4d77.79354!16s%2Fg%2F11shpdk8jx!19sChIJ93wlN9UFfDkRe8F7LoYoNug?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shriram-sonography-vidisha-ashirwad-hospital-vidisha",
@@ -2175,7 +2157,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ShriRam+Sonography,+Vidisha+Ashirwad+hospital/data=!4m7!3m6!1s0x397c0461245f5f9d:0x777b6b2e50e891ad!8m2!3d23.5250456!4d77.8155207!16s%2Fg%2F11f11p24g9!19sChIJnV9fJGEEfDkRrZHoUC5re3c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ShriRam+Sonography,+Vidisha+Ashirwad+hospital/data=!4m7!3m6!1s0x397c0461245f5f9d:0x777b6b2e50e891ad!8m2!3d23.5250456!4d77.8155207!16s%2Fg%2F11f11p24g9!19sChIJnV9fJGEEfDkRrZHoUC5re3c?authuser=0&hl=en&rclk=1"
@@ -2244,8 +2226,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ShriRam+Sonography,+Vidisha+Ashirwad+hospital/data=!4m7!3m6!1s0x397c0461245f5f9d:0x777b6b2e50e891ad!8m2!3d23.5250456!4d77.8155207!16s%2Fg%2F11f11p24g9!19sChIJnV9fJGEEfDkRrZHoUC5re3c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vivaan-healthcare-vidisha",
@@ -2293,7 +2274,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vivaan+Healthcare/data=!4m7!3m6!1s0x397c050b536cb857:0x548b55283bc36936!8m2!3d23.5219608!4d77.8113701!16s%2Fg%2F11x1_swlm6!19sChIJV7hsUwsFfDkRNmnDOyhVi1Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vivaan+Healthcare/data=!4m7!3m6!1s0x397c050b536cb857:0x548b55283bc36936!8m2!3d23.5219608!4d77.8113701!16s%2Fg%2F11x1_swlm6!19sChIJV7hsUwsFfDkRNmnDOyhVi1Q?authuser=0&hl=en&rclk=1"
@@ -2359,10 +2340,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vivaan+Healthcare/data=!4m7!3m6!1s0x397c050b536cb857:0x548b55283bc36936!8m2!3d23.5219608!4d77.8113701!16s%2Fg%2F11x1_swlm6!19sChIJV7hsUwsFfDkRNmnDOyhVi1Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

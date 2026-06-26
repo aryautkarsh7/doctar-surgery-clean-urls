@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A+City+Dental+Clinic/data=!4m7!3m6!1s0x3be021d574bd7e81:0x1ac0b82fa2af6e2e!8m2!3d21.7241679!4d73.038043!16s%2Fg%2F11y7wjvz8s!19sChIJgX69dNUh4DsRLm6voi-4wBo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+City+Dental+Clinic/data=!4m7!3m6!1s0x3be021d574bd7e81:0x1ac0b82fa2af6e2e!8m2!3d21.7241679!4d73.038043!16s%2Fg%2F11y7wjvz8s!19sChIJgX69dNUh4DsRLm6voi-4wBo?authuser=0&hl=en&rclk=1"
@@ -111,11 +111,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A+City+Dental+Clinic/data=!4m7!3m6!1s0x3be021d574bd7e81:0x1ac0b82fa2af6e2e!8m2!3d21.7241679!4d73.038043!16s%2Fg%2F11y7wjvz8s!19sChIJgX69dNUh4DsRLm6voi-4wBo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aagman-women-s-hospital-best-hospital-women-hospital-gynec-hospital-ladies-hospital-bharuch",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aagman+Women%27s+Hospital+%7C%7C+Best+Hospital,+Women+Hospital,+Gynec+Hospital,+Ladies+Hospital/data=!4m7!3m6!1s0x3be0279cd6d60b63:0xf28159873d789c22!8m2!3d21.7043612!4d72.9930126!16s%2Fg%2F11k3gzdym5!19sChIJYwvW1pwn4DsRIpx4PYdZgfI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aagman+Women%27s+Hospital+%7C%7C+Best+Hospital,+Women+Hospital,+Gynec+Hospital,+Ladies+Hospital/data=!4m7!3m6!1s0x3be0279cd6d60b63:0xf28159873d789c22!8m2!3d21.7043612!4d72.9930126!16s%2Fg%2F11k3gzdym5!19sChIJYwvW1pwn4DsRIpx4PYdZgfI?authuser=0&hl=en&rclk=1"
@@ -233,8 +232,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aagman+Women%27s+Hospital+%7C%7C+Best+Hospital,+Women+Hospital,+Gynec+Hospital,+Ladies+Hospital/data=!4m7!3m6!1s0x3be0279cd6d60b63:0xf28159873d789c22!8m2!3d21.7043612!4d72.9930126!16s%2Fg%2F11k3gzdym5!19sChIJYwvW1pwn4DsRIpx4PYdZgfI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "adarsh-hospital-bharuch",
@@ -282,7 +280,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Adarsh+Hospital/data=!4m7!3m6!1s0x3be02748bca9cc3b:0x649ea9e3ff076f2e!8m2!3d21.7002261!4d72.9854558!16s%2Fg%2F11n7q130r0!19sChIJO8ypvEgn4DsRLm8H_-OpnmQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adarsh+Hospital/data=!4m7!3m6!1s0x3be02748bca9cc3b:0x649ea9e3ff076f2e!8m2!3d21.7002261!4d72.9854558!16s%2Fg%2F11n7q130r0!19sChIJO8ypvEgn4DsRLm8H_-OpnmQ?authuser=0&hl=en&rclk=1"
@@ -351,8 +349,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Adarsh+Hospital/data=!4m7!3m6!1s0x3be02748bca9cc3b:0x649ea9e3ff076f2e!8m2!3d21.7002261!4d72.9854558!16s%2Fg%2F11n7q130r0!19sChIJO8ypvEgn4DsRLm8H_-OpnmQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aesthetica-hair-transplant-and-cosmetic-clinic-bharuch",
@@ -400,7 +397,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aesthetica+Hair+Transplant+and+Cosmetic+clinic/data=!4m7!3m6!1s0x3be021916dd0caa1:0xa49d2960d01cd4c9!8m2!3d21.7043861!4d72.9935251!16s%2Fg%2F11x018n7yz!19sChIJocrQbZEh4DsRydQc0GApnaQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aesthetica+Hair+Transplant+and+Cosmetic+clinic/data=!4m7!3m6!1s0x3be021916dd0caa1:0xa49d2960d01cd4c9!8m2!3d21.7043861!4d72.9935251!16s%2Fg%2F11x018n7yz!19sChIJocrQbZEh4DsRydQc0GApnaQ?authuser=0&hl=en&rclk=1"
@@ -469,8 +466,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aesthetica+Hair+Transplant+and+Cosmetic+clinic/data=!4m7!3m6!1s0x3be021916dd0caa1:0xa49d2960d01cd4c9!8m2!3d21.7043861!4d72.9935251!16s%2Fg%2F11x018n7yz!19sChIJocrQbZEh4DsRydQc0GApnaQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akshardeep-women-s-hospital-bharuch",
@@ -519,7 +515,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akshardeep+women%60s+Hospital/data=!4m7!3m6!1s0x3be027b054a24b81:0x21e7301803b89094!8m2!3d21.7043626!4d72.9929708!16s%2Fg%2F11j4fl8_vy!19sChIJgUuiVLAn4DsRlJC4Axgw5yE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akshardeep+women%60s+Hospital/data=!4m7!3m6!1s0x3be027b054a24b81:0x21e7301803b89094!8m2!3d21.7043626!4d72.9929708!16s%2Fg%2F11j4fl8_vy!19sChIJgUuiVLAn4DsRlJC4Axgw5yE?authuser=0&hl=en&rclk=1"
@@ -588,8 +584,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akshardeep+women%60s+Hospital/data=!4m7!3m6!1s0x3be027b054a24b81:0x21e7301803b89094!8m2!3d21.7043626!4d72.9929708!16s%2Fg%2F11j4fl8_vy!19sChIJgUuiVLAn4DsRlJC4Axgw5yE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "al-amanah-hospital-bharuch",
@@ -638,7 +633,7 @@
       "Google rating 4.5",
       "13+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Al-AMANAH+HOSPITAL/data=!4m7!3m6!1s0x3be027db775b2f7b:0x6cb14809b614a12!8m2!3d21.700577!4d72.9640101!16s%2Fg%2F11t9cy653w!19sChIJey9bd9sn4DsREkphm4AUywY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Al-AMANAH+HOSPITAL/data=!4m7!3m6!1s0x3be027db775b2f7b:0x6cb14809b614a12!8m2!3d21.700577!4d72.9640101!16s%2Fg%2F11t9cy653w!19sChIJey9bd9sn4DsREkphm4AUywY?authuser=0&hl=en&rclk=1"
@@ -707,8 +702,7 @@
     "rating": 4.5,
     "reviews": 13,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Al-AMANAH+HOSPITAL/data=!4m7!3m6!1s0x3be027db775b2f7b:0x6cb14809b614a12!8m2!3d21.700577!4d72.9640101!16s%2Fg%2F11t9cy653w!19sChIJey9bd9sn4DsREkphm4AUywY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amax-medical-center-bharuch",
@@ -756,7 +750,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AMAX+MEDICAL+CENTER/data=!4m7!3m6!1s0x3be02097edcd9175:0xe2198c3d0a54bb67!8m2!3d21.719632!4d73.0310991!16s%2Fg%2F11c76vpn_k!19sChIJdZHN7Zcg4DsRZ7tUCj2MGeI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMAX+MEDICAL+CENTER/data=!4m7!3m6!1s0x3be02097edcd9175:0xe2198c3d0a54bb67!8m2!3d21.719632!4d73.0310991!16s%2Fg%2F11c76vpn_k!19sChIJdZHN7Zcg4DsRZ7tUCj2MGeI?authuser=0&hl=en&rclk=1"
@@ -825,8 +819,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AMAX+MEDICAL+CENTER/data=!4m7!3m6!1s0x3be02097edcd9175:0xe2198c3d0a54bb67!8m2!3d21.719632!4d73.0310991!16s%2Fg%2F11c76vpn_k!19sChIJdZHN7Zcg4DsRZ7tUCj2MGeI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aum-sai-dental-clinic-bharuch",
@@ -875,7 +868,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aum+Sai+Dental+Clinic/data=!4m7!3m6!1s0x3be020978c8bb183:0x9cd997af4f58bdaa!8m2!3d21.7153457!4d73.0185846!16s%2Fg%2F11hbvyc21d!19sChIJg7GLjJcg4DsRqr1YT6-X2Zw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aum+Sai+Dental+Clinic/data=!4m7!3m6!1s0x3be020978c8bb183:0x9cd997af4f58bdaa!8m2!3d21.7153457!4d73.0185846!16s%2Fg%2F11hbvyc21d!19sChIJg7GLjJcg4DsRqr1YT6-X2Zw?authuser=0&hl=en&rclk=1"
@@ -944,8 +937,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aum+Sai+Dental+Clinic/data=!4m7!3m6!1s0x3be020978c8bb183:0x9cd997af4f58bdaa!8m2!3d21.7153457!4d73.0185846!16s%2Fg%2F11hbvyc21d!19sChIJg7GLjJcg4DsRqr1YT6-X2Zw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ayush-health-centre-mutli-specialty-health-centre-in-gujarat-bharuch",
@@ -996,7 +988,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ayush+Health+Centre+-+Mutli+specialty+Health+Centre+in+Gujarat/data=!4m7!3m6!1s0x3be020b7825e6199:0x30c9f55e5c446edc!8m2!3d21.7060562!4d73.0059455!16s%2Fg%2F1q6jgs1sq!19sChIJmWFegrcg4DsR3G5EXF71yTA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayush+Health+Centre+-+Mutli+specialty+Health+Centre+in+Gujarat/data=!4m7!3m6!1s0x3be020b7825e6199:0x30c9f55e5c446edc!8m2!3d21.7060562!4d73.0059455!16s%2Fg%2F1q6jgs1sq!19sChIJmWFegrcg4DsR3G5EXF71yTA?authuser=0&hl=en&rclk=1"
@@ -1065,8 +1057,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ayush+Health+Centre+-+Mutli+specialty+Health+Centre+in+Gujarat/data=!4m7!3m6!1s0x3be020b7825e6199:0x30c9f55e5c446edc!8m2!3d21.7060562!4d73.0059455!16s%2Fg%2F1q6jgs1sq!19sChIJmWFegrcg4DsR3G5EXF71yTA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhakti-dental-care-bharuch",
@@ -1114,7 +1105,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhakti+Dental+Care/data=!4m7!3m6!1s0x3be021034712f98d:0x9b9cce5132322dea!8m2!3d21.7154781!4d73.0191922!16s%2Fg%2F11ygmz55xf!19sChIJjfkSRwMh4DsR6i0yMlHOnJs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhakti+Dental+Care/data=!4m7!3m6!1s0x3be021034712f98d:0x9b9cce5132322dea!8m2!3d21.7154781!4d73.0191922!16s%2Fg%2F11ygmz55xf!19sChIJjfkSRwMh4DsR6i0yMlHOnJs?authuser=0&hl=en&rclk=1"
@@ -1183,8 +1174,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhakti+Dental+Care/data=!4m7!3m6!1s0x3be021034712f98d:0x9b9cce5132322dea!8m2!3d21.7154781!4d73.0191922!16s%2Fg%2F11ygmz55xf!19sChIJjfkSRwMh4DsR6i0yMlHOnJs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "candor-ivf-center-bharuch-bharuch",
@@ -1234,7 +1224,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Candor+IVF+Center+Bharuch/data=!4m7!3m6!1s0x3be0218cf9b898d7:0x1783a4a85643f2b7!8m2!3d21.7051071!4d72.9953958!16s%2Fg%2F11sh_1cr3r!19sChIJ15i4-Ywh4DsRt_JDVqikgxc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Candor+IVF+Center+Bharuch/data=!4m7!3m6!1s0x3be0218cf9b898d7:0x1783a4a85643f2b7!8m2!3d21.7051071!4d72.9953958!16s%2Fg%2F11sh_1cr3r!19sChIJ15i4-Ywh4DsRt_JDVqikgxc?authuser=0&hl=en&rclk=1"
@@ -1303,8 +1293,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Candor+IVF+Center+Bharuch/data=!4m7!3m6!1s0x3be0218cf9b898d7:0x1783a4a85643f2b7!8m2!3d21.7051071!4d72.9953958!16s%2Fg%2F11sh_1cr3r!19sChIJ15i4-Ywh4DsRt_JDVqikgxc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-and-cure-hospital-bharuch",
@@ -1353,7 +1342,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Care+and+Cure+Hospital/data=!4m7!3m6!1s0x3be020b55cdcb8f5:0xfbbf3c7bc05a4826!8m2!3d21.7011474!4d72.9958497!16s%2Fg%2F11bwfkt_zn!19sChIJ9bjcXLUg4DsRJkhawHs8v_s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+and+Cure+Hospital/data=!4m7!3m6!1s0x3be020b55cdcb8f5:0xfbbf3c7bc05a4826!8m2!3d21.7011474!4d72.9958497!16s%2Fg%2F11bwfkt_zn!19sChIJ9bjcXLUg4DsRJkhawHs8v_s?authuser=0&hl=en&rclk=1"
@@ -1422,8 +1411,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Care+and+Cure+Hospital/data=!4m7!3m6!1s0x3be020b55cdcb8f5:0xfbbf3c7bc05a4826!8m2!3d21.7011474!4d72.9958497!16s%2Fg%2F11bwfkt_zn!19sChIJ9bjcXLUg4DsRJkhawHs8v_s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-and-cure-hospital-bharuch",
@@ -1472,7 +1460,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CARE+AND+CURE+HOSPITAL/data=!4m7!3m6!1s0x3be02100542abcb9:0x7c8ec52140c603bf!8m2!3d21.7284035!4d73.0467154!16s%2Fg%2F11vpj9cc4z!19sChIJubwqVAAh4DsRvwPGQCHFjnw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CARE+AND+CURE+HOSPITAL/data=!4m7!3m6!1s0x3be02100542abcb9:0x7c8ec52140c603bf!8m2!3d21.7284035!4d73.0467154!16s%2Fg%2F11vpj9cc4z!19sChIJubwqVAAh4DsRvwPGQCHFjnw?authuser=0&hl=en&rclk=1"
@@ -1541,8 +1529,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CARE+AND+CURE+HOSPITAL/data=!4m7!3m6!1s0x3be02100542abcb9:0x7c8ec52140c603bf!8m2!3d21.7284035!4d73.0467154!16s%2Fg%2F11vpj9cc4z!19sChIJubwqVAAh4DsRvwPGQCHFjnw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-care-hospital-bharuch-bharuch",
@@ -1591,7 +1578,7 @@
       "Google rating 4.5",
       "1+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Care+Hospital+Bharuch/data=!4m7!3m6!1s0x3be027491616111b:0x604aaf64476c8d85!8m2!3d21.7051832!4d72.9656842!16s%2Fg%2F11gk5hd053!19sChIJGxEWFkkn4DsRhY1sR2SvSmA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Care+Hospital+Bharuch/data=!4m7!3m6!1s0x3be027491616111b:0x604aaf64476c8d85!8m2!3d21.7051832!4d72.9656842!16s%2Fg%2F11gk5hd053!19sChIJGxEWFkkn4DsRhY1sR2SvSmA?authuser=0&hl=en&rclk=1"
@@ -1660,8 +1647,7 @@
     "rating": 4.5,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Care+Hospital+Bharuch/data=!4m7!3m6!1s0x3be027491616111b:0x604aaf64476c8d85!8m2!3d21.7051832!4d72.9656842!16s%2Fg%2F11gk5hd053!19sChIJGxEWFkkn4DsRhY1sR2SvSmA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-avenue-bharuch",
@@ -1709,7 +1695,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Avenue/data=!4m7!3m6!1s0x3be027fdc1e6b045:0xf504b58a11e10e0f!8m2!3d21.7198648!4d72.9796715!16s%2Fg%2F11h_10zblz!19sChIJRbDmwf0n4DsRDw7hEYq1BPU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Avenue/data=!4m7!3m6!1s0x3be027fdc1e6b045:0xf504b58a11e10e0f!8m2!3d21.7198648!4d72.9796715!16s%2Fg%2F11h_10zblz!19sChIJRbDmwf0n4DsRDw7hEYq1BPU?authuser=0&hl=en&rclk=1"
@@ -1775,11 +1761,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Avenue/data=!4m7!3m6!1s0x3be027fdc1e6b045:0xf504b58a11e10e0f!8m2!3d21.7198648!4d72.9796715!16s%2Fg%2F11h_10zblz!19sChIJRbDmwf0n4DsRDw7hEYq1BPU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "divine-dental-care-bharuch-bharuch",
@@ -1828,7 +1813,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Divine+Dental+Care,+Bharuch/data=!4m7!3m6!1s0x3be021916dc840bb:0x64b6bb66033819b9!8m2!3d21.7149698!4d73.0134778!16s%2Fg%2F11l5fc8696!19sChIJu0DIbZEh4DsRuRk4A2a7tmQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divine+Dental+Care,+Bharuch/data=!4m7!3m6!1s0x3be021916dc840bb:0x64b6bb66033819b9!8m2!3d21.7149698!4d73.0134778!16s%2Fg%2F11l5fc8696!19sChIJu0DIbZEh4DsRuRk4A2a7tmQ?authuser=0&hl=en&rclk=1"
@@ -1894,11 +1879,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Divine+Dental+Care,+Bharuch/data=!4m7!3m6!1s0x3be021916dc840bb:0x64b6bb66033819b9!8m2!3d21.7149698!4d73.0134778!16s%2Fg%2F11l5fc8696!19sChIJu0DIbZEh4DsRuRk4A2a7tmQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "divyajivan-sangh-s-lgms-hospital-bharuch",
@@ -1946,7 +1930,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Divyajivan+Sangh's+LGMS+Hospital/@21.703687,72.9953925,17z/data=!3m1!4b1!4m6!3m5!1s0x3be021b683f637b7:0x1d228ec97f12dcce!8m2!3d21.703687!4d72.9953925!16s%2Fg%2F11r_dkhsqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divyajivan+Sangh's+LGMS+Hospital/@21.703687,72.9953925,17z/data=!3m1!4b1!4m6!3m5!1s0x3be021b683f637b7:0x1d228ec97f12dcce!8m2!3d21.703687!4d72.9953925!16s%2Fg%2F11r_dkhsqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2012,11 +1996,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Divyajivan+Sangh's+LGMS+Hospital/@21.703687,72.9953925,17z/data=!3m1!4b1!4m6!3m5!1s0x3be021b683f637b7:0x1d228ec97f12dcce!8m2!3d21.703687!4d72.9953925!16s%2Fg%2F11r_dkhsqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "faiz-clinic-bharuch",
@@ -2065,7 +2048,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Faiz+clinic/data=!4m7!3m6!1s0x3be0274773d42b75:0x8557b772584a3fbe!8m2!3d21.704874!4d72.9667655!16s%2Fg%2F11hzc2758w!19sChIJdSvUc0cn4DsRvj9KWHK3V4U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Faiz+clinic/data=!4m7!3m6!1s0x3be0274773d42b75:0x8557b772584a3fbe!8m2!3d21.704874!4d72.9667655!16s%2Fg%2F11hzc2758w!19sChIJdSvUc0cn4DsRvj9KWHK3V4U?authuser=0&hl=en&rclk=1"
@@ -2131,11 +2114,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Faiz+clinic/data=!4m7!3m6!1s0x3be0274773d42b75:0x8557b772584a3fbe!8m2!3d21.704874!4d72.9667655!16s%2Fg%2F11hzc2758w!19sChIJdSvUc0cn4DsRvj9KWHK3V4U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "garvita-dental-and-orthodontic-clinic-bharuch",
@@ -2185,7 +2167,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Garvita+Dental+%26+Orthodontic+Clinic/data=!4m7!3m6!1s0x3be04da1245494bb:0x5f53c35531105883!8m2!3d21.7238486!4d72.9856214!16s%2Fg%2F11j09ynt3k!19sChIJu5RUJKFN4DsRg1gQMVXDU18?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Garvita+Dental+%26+Orthodontic+Clinic/data=!4m7!3m6!1s0x3be04da1245494bb:0x5f53c35531105883!8m2!3d21.7238486!4d72.9856214!16s%2Fg%2F11j09ynt3k!19sChIJu5RUJKFN4DsRg1gQMVXDU18?authuser=0&hl=en&rclk=1"
@@ -2251,11 +2233,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Garvita+Dental+%26+Orthodontic+Clinic/data=!4m7!3m6!1s0x3be04da1245494bb:0x5f53c35531105883!8m2!3d21.7238486!4d72.9856214!16s%2Fg%2F11j09ynt3k!19sChIJu5RUJKFN4DsRg1gQMVXDU18?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gdp-bharuch-bharuch",
@@ -2302,7 +2283,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GDP+BHARUCH/data=!4m7!3m6!1s0x3be0271fb6bd219b:0x52ec097f8ba17a11!8m2!3d21.7036244!4d72.9904024!16s%2Fg%2F11s7lrk7l_!19sChIJmyG9th8n4DsREXqhi38J7FI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GDP+BHARUCH/data=!4m7!3m6!1s0x3be0271fb6bd219b:0x52ec097f8ba17a11!8m2!3d21.7036244!4d72.9904024!16s%2Fg%2F11s7lrk7l_!19sChIJmyG9th8n4DsREXqhi38J7FI?authuser=0&hl=en&rclk=1"
@@ -2368,11 +2349,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GDP+BHARUCH/data=!4m7!3m6!1s0x3be0271fb6bd219b:0x52ec097f8ba17a11!8m2!3d21.7036244!4d72.9904024!16s%2Fg%2F11s7lrk7l_!19sChIJmyG9th8n4DsREXqhi38J7FI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "general-hospital-bharuch-bharuch",
@@ -2422,7 +2402,7 @@
       "31+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/General+Hospital+Bharuch/data=!4m7!3m6!1s0x3be0274baf997a7f:0xb6cddc7753181bbc!8m2!3d21.7037191!4d72.9906806!16s%2Fg%2F1tdzdg1w!19sChIJf3qZr0sn4DsRvBsYU3fczbY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/General+Hospital+Bharuch/data=!4m7!3m6!1s0x3be0274baf997a7f:0xb6cddc7753181bbc!8m2!3d21.7037191!4d72.9906806!16s%2Fg%2F1tdzdg1w!19sChIJf3qZr0sn4DsRvBsYU3fczbY?authuser=0&hl=en&rclk=1"
@@ -2491,8 +2471,7 @@
     "rating": 3.3,
     "reviews": 31,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/General+Hospital+Bharuch/data=!4m7!3m6!1s0x3be0274baf997a7f:0xb6cddc7753181bbc!8m2!3d21.7037191!4d72.9906806!16s%2Fg%2F1tdzdg1w!19sChIJf3qZr0sn4DsRvBsYU3fczbY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hcg-hospital-bharuch-cancer-hospital-in-bharuch-bharuch",
@@ -2540,7 +2519,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HCG+Hospital+Bharuch+%28Cancer+Hospital+in+Bharuch%29/data=!4m7!3m6!1s0x3be02753decf439b:0x745faef3ff7cb7c0!8m2!3d21.7019849!4d72.9921944!16s%2Fg%2F11j2g0j418!19sChIJm0PP3lMn4DsRwLd8__OuX3Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HCG+Hospital+Bharuch+%28Cancer+Hospital+in+Bharuch%29/data=!4m7!3m6!1s0x3be02753decf439b:0x745faef3ff7cb7c0!8m2!3d21.7019849!4d72.9921944!16s%2Fg%2F11j2g0j418!19sChIJm0PP3lMn4DsRwLd8__OuX3Q?authuser=0&hl=en&rclk=1"
@@ -2609,8 +2588,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HCG+Hospital+Bharuch+%28Cancer+Hospital+in+Bharuch%29/data=!4m7!3m6!1s0x3be02753decf439b:0x745faef3ff7cb7c0!8m2!3d21.7019849!4d72.9921944!16s%2Fg%2F11j2g0j418!19sChIJm0PP3lMn4DsRwLd8__OuX3Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "het-dental-clinic-best-dental-clinic-best-roor-canal-treatment-best-dental-implant-clinic-in-bharuch-bharuch",
@@ -2658,7 +2636,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Het+Dental+Clinic+-Best+Dental+Clinic+%7CBest+Roor+Canal+Treatment+%7CBest+Dental+Implant+Clinic+in+Bharuch/data=!4m7!3m6!1s0x3be0209075812403:0xfbce48889827d99b!8m2!3d21.71941!4d73.0332856!16s%2Fg%2F11fy4zh25_!19sChIJAySBdZAg4DsRm9knmIhIzvs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Het+Dental+Clinic+-Best+Dental+Clinic+%7CBest+Roor+Canal+Treatment+%7CBest+Dental+Implant+Clinic+in+Bharuch/data=!4m7!3m6!1s0x3be0209075812403:0xfbce48889827d99b!8m2!3d21.71941!4d73.0332856!16s%2Fg%2F11fy4zh25_!19sChIJAySBdZAg4DsRm9knmIhIzvs?authuser=0&hl=en&rclk=1"
@@ -2727,8 +2705,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Het+Dental+Clinic+-Best+Dental+Clinic+%7CBest+Roor+Canal+Treatment+%7CBest+Dental+Implant+Clinic+in+Bharuch/data=!4m7!3m6!1s0x3be0209075812403:0xfbce48889827d99b!8m2!3d21.71941!4d73.0332856!16s%2Fg%2F11fy4zh25_!19sChIJAySBdZAg4DsRm9knmIhIzvs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospital-bharuch",
@@ -2775,7 +2752,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hospital/data=!4m7!3m6!1s0x3be021877d0b6051:0xe1bdf3fd9d8b728e!8m2!3d21.7184184!4d73.0289717!16s%2Fg%2F11wvt098sr!19sChIJUWALfYch4DsRjnKLnf3zveE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital/data=!4m7!3m6!1s0x3be021877d0b6051:0xe1bdf3fd9d8b728e!8m2!3d21.7184184!4d73.0289717!16s%2Fg%2F11wvt098sr!19sChIJUWALfYch4DsRjnKLnf3zveE?authuser=0&hl=en&rclk=1"
@@ -2841,11 +2818,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hospital/data=!4m7!3m6!1s0x3be021877d0b6051:0xe1bdf3fd9d8b728e!8m2!3d21.7184184!4d73.0289717!16s%2Fg%2F11wvt098sr!19sChIJUWALfYch4DsRjnKLnf3zveE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jai-jhulelal-hospital-bharuch",
@@ -2895,7 +2871,7 @@
       "7+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jai+Jhulelal+Hospital/data=!4m7!3m6!1s0x3be02081260a9573:0x702b04a996db1b40!8m2!3d21.724465!4d73.0381206!16s%2Fg%2F11c6mfhwr7!19sChIJc5UKJoEg4DsRQBvblqkEK3A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jai+Jhulelal+Hospital/data=!4m7!3m6!1s0x3be02081260a9573:0x702b04a996db1b40!8m2!3d21.724465!4d73.0381206!16s%2Fg%2F11c6mfhwr7!19sChIJc5UKJoEg4DsRQBvblqkEK3A?authuser=0&hl=en&rclk=1"
@@ -2964,8 +2940,7 @@
     "rating": 3.5,
     "reviews": 7,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jai+Jhulelal+Hospital/data=!4m7!3m6!1s0x3be02081260a9573:0x702b04a996db1b40!8m2!3d21.724465!4d73.0381206!16s%2Fg%2F11c6mfhwr7!19sChIJc5UKJoEg4DsRQBvblqkEK3A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kamaldeep-dental-clinic-best-dental-clinic-in-bharuch-best-dentist-in-zadeshwar-bharuch-good-dental-and-implants-centre-bharuch",
@@ -3014,7 +2989,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kamaldeep+Dental+Clinic+%7C%7C+Best+Dental+Clinic+In+Bharuch+%7C+Best+Dentist+In+zadeshwar+Bharuch+%7C+Good+Dental+%26+Implants+Centre/data=!4m7!3m6!1s0x395f8b05bd4016af:0x5c496727832432fd!8m2!3d21.7268533!4d73.0423679!16s%2Fg%2F11vk14bn0t!19sChIJrxZAvQWLXzkR_TIkgydnSVw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamaldeep+Dental+Clinic+%7C%7C+Best+Dental+Clinic+In+Bharuch+%7C+Best+Dentist+In+zadeshwar+Bharuch+%7C+Good+Dental+%26+Implants+Centre/data=!4m7!3m6!1s0x395f8b05bd4016af:0x5c496727832432fd!8m2!3d21.7268533!4d73.0423679!16s%2Fg%2F11vk14bn0t!19sChIJrxZAvQWLXzkR_TIkgydnSVw?authuser=0&hl=en&rclk=1"
@@ -3080,11 +3055,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kamaldeep+Dental+Clinic+%7C%7C+Best+Dental+Clinic+In+Bharuch+%7C+Best+Dentist+In+zadeshwar+Bharuch+%7C+Good+Dental+%26+Implants+Centre/data=!4m7!3m6!1s0x395f8b05bd4016af:0x5c496727832432fd!8m2!3d21.7268533!4d73.0423679!16s%2Fg%2F11vk14bn0t!19sChIJrxZAvQWLXzkR_TIkgydnSVw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kapadia-clinic-a-mother-and-childcare-hospital-bharuch",
@@ -3133,7 +3107,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kapadia+Clinic-+A+Mother+And+Childcare+Hospital/@21.7044023,72.9959415,17z/data=!3m1!4b1!4m6!3m5!1s0x3be020a9daeda477:0x70905e0dd4700159!8m2!3d21.7044023!4d72.9959415!16s%2Fg%2F1tp_4vw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kapadia+Clinic-+A+Mother+And+Childcare+Hospital/@21.7044023,72.9959415,17z/data=!3m1!4b1!4m6!3m5!1s0x3be020a9daeda477:0x70905e0dd4700159!8m2!3d21.7044023!4d72.9959415!16s%2Fg%2F1tp_4vw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3202,8 +3176,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kapadia+Clinic-+A+Mother+And+Childcare+Hospital/@21.7044023,72.9959415,17z/data=!3m1!4b1!4m6!3m5!1s0x3be020a9daeda477:0x70905e0dd4700159!8m2!3d21.7044023!4d72.9959415!16s%2Fg%2F1tp_4vw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-dental-clinic-and-implant-centre-bharuch",
@@ -3252,7 +3225,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KRISHNA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3be020b7bd0cd885:0x94c66d0571d8234f!8m2!3d21.7055414!4d73.0046087!16s%2Fg%2F1yg93lfgg!19sChIJhdgMvbcg4DsRTyPYcQVtxpQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KRISHNA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3be020b7bd0cd885:0x94c66d0571d8234f!8m2!3d21.7055414!4d73.0046087!16s%2Fg%2F1yg93lfgg!19sChIJhdgMvbcg4DsRTyPYcQVtxpQ?authuser=0&hl=en&rclk=1"
@@ -3321,8 +3294,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KRISHNA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3be020b7bd0cd885:0x94c66d0571d8234f!8m2!3d21.7055414!4d73.0046087!16s%2Fg%2F1yg93lfgg!19sChIJhdgMvbcg4DsRTyPYcQVtxpQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-hospital-bharuch",
@@ -3368,7 +3340,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x3be020a9daeda477:0x19a4eca100fc27f5!8m2!3d21.6991692!4d72.9881303!16s%2Fg%2F1tcxn3w9!19sChIJd6Tt2qkg4DsR9Sf8AKHspBk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x3be020a9daeda477:0x19a4eca100fc27f5!8m2!3d21.6991692!4d72.9881303!16s%2Fg%2F1tcxn3w9!19sChIJd6Tt2qkg4DsR9Sf8AKHspBk?authuser=0&hl=en&rclk=1"
@@ -3434,11 +3406,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x3be020a9daeda477:0x19a4eca100fc27f5!8m2!3d21.6991692!4d72.9881303!16s%2Fg%2F1tcxn3w9!19sChIJd6Tt2qkg4DsR9Sf8AKHspBk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kyara-skin-and-hair-clinic-bharuch",
@@ -3487,7 +3458,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kyara+Skin+%26+Hair+Clinic/data=!4m7!3m6!1s0x3be0274ab16783ad:0x2126873979f526d9!8m2!3d21.7023749!4d72.9934749!16s%2Fg%2F11fyx6x8rw!19sChIJrYNnsUon4DsR2Sb1eTmHJiE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kyara+Skin+%26+Hair+Clinic/data=!4m7!3m6!1s0x3be0274ab16783ad:0x2126873979f526d9!8m2!3d21.7023749!4d72.9934749!16s%2Fg%2F11fyx6x8rw!19sChIJrYNnsUon4DsR2Sb1eTmHJiE?authuser=0&hl=en&rclk=1"
@@ -3556,8 +3527,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kyara+Skin+%26+Hair+Clinic/data=!4m7!3m6!1s0x3be0274ab16783ad:0x2126873979f526d9!8m2!3d21.7023749!4d72.9934749!16s%2Fg%2F11fyx6x8rw!19sChIJrYNnsUon4DsR2Sb1eTmHJiE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lilaben-dialysis-centre-bharuch",
@@ -3605,7 +3575,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lilaben+Dialysis+Centre/data=!4m7!3m6!1s0x3be02749f68978e1:0xcd8abd581ddae9c8!8m2!3d21.7019286!4d72.9871382!16s%2Fg%2F11ckkx0x8j!19sChIJ4XiJ9kkn4DsRyOnaHVi9is0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lilaben+Dialysis+Centre/data=!4m7!3m6!1s0x3be02749f68978e1:0xcd8abd581ddae9c8!8m2!3d21.7019286!4d72.9871382!16s%2Fg%2F11ckkx0x8j!19sChIJ4XiJ9kkn4DsRyOnaHVi9is0?authuser=0&hl=en&rclk=1"
@@ -3671,11 +3641,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lilaben+Dialysis+Centre/data=!4m7!3m6!1s0x3be02749f68978e1:0xcd8abd581ddae9c8!8m2!3d21.7019286!4d72.9871382!16s%2Fg%2F11ckkx0x8j!19sChIJ4XiJ9kkn4DsRyOnaHVi9is0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lily-esthederm-hair-skin-laser-bharuch",
@@ -3724,7 +3693,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lily+Esthederm+Hair+Skin+Laser/data=!4m7!3m6!1s0x3be0212332caa731:0x805e86c225384235!8m2!3d21.7041499!4d72.9935008!16s%2Fg%2F11rmsghwn5!19sChIJMafKMiMh4DsRNUI4JcKGXoA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lily+Esthederm+Hair+Skin+Laser/data=!4m7!3m6!1s0x3be0212332caa731:0x805e86c225384235!8m2!3d21.7041499!4d72.9935008!16s%2Fg%2F11rmsghwn5!19sChIJMafKMiMh4DsRNUI4JcKGXoA?authuser=0&hl=en&rclk=1"
@@ -3793,8 +3762,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lily+Esthederm+Hair+Skin+Laser/data=!4m7!3m6!1s0x3be0212332caa731:0x805e86c225384235!8m2!3d21.7041499!4d72.9935008!16s%2Fg%2F11rmsghwn5!19sChIJMafKMiMh4DsRNUI4JcKGXoA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maple-hospital-bharuch",
@@ -3843,7 +3811,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maple+Hospital/@21.7044809,72.993206,17z/data=!3m1!4b1!4m6!3m5!1s0x3be020b4fbdfe0f1:0x80c0c50fb0e53bc1!8m2!3d21.7044809!4d72.993206!16s%2Fg%2F11w2zld0gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maple+Hospital/@21.7044809,72.993206,17z/data=!3m1!4b1!4m6!3m5!1s0x3be020b4fbdfe0f1:0x80c0c50fb0e53bc1!8m2!3d21.7044809!4d72.993206!16s%2Fg%2F11w2zld0gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3912,8 +3880,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maple+Hospital/@21.7044809,72.993206,17z/data=!3m1!4b1!4m6!3m5!1s0x3be020b4fbdfe0f1:0x80c0c50fb0e53bc1!8m2!3d21.7044809!4d72.993206!16s%2Fg%2F11w2zld0gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mateshree-ent-hospital-bharuch",
@@ -3961,7 +3928,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MATESHREE+ENT+HOSPITAL/data=!4m7!3m6!1s0x395f8a00b1d90083:0xb2efb44d648d46ac!8m2!3d21.6999013!4d72.9861719!16s%2Fg%2F1hm4fy1wy!19sChIJgwDZsQCKXzkRrEaNZE2077I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MATESHREE+ENT+HOSPITAL/data=!4m7!3m6!1s0x395f8a00b1d90083:0xb2efb44d648d46ac!8m2!3d21.6999013!4d72.9861719!16s%2Fg%2F1hm4fy1wy!19sChIJgwDZsQCKXzkRrEaNZE2077I?authuser=0&hl=en&rclk=1"
@@ -4030,8 +3997,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MATESHREE+ENT+HOSPITAL/data=!4m7!3m6!1s0x395f8a00b1d90083:0xb2efb44d648d46ac!8m2!3d21.6999013!4d72.9861719!16s%2Fg%2F1hm4fy1wy!19sChIJgwDZsQCKXzkRrEaNZE2077I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mds-dental-clinic-bharuch",
@@ -4080,7 +4046,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MDS+Dental+Clinic/data=!4m7!3m6!1s0x3be027d166f9830f:0x2efd2519ddc5889c!8m2!3d21.704027!4d72.9939181!16s%2Fg%2F11tp4c7jf4!19sChIJD4P5ZtEn4DsRnIjF3Rkl_S4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MDS+Dental+Clinic/data=!4m7!3m6!1s0x3be027d166f9830f:0x2efd2519ddc5889c!8m2!3d21.704027!4d72.9939181!16s%2Fg%2F11tp4c7jf4!19sChIJD4P5ZtEn4DsRnIjF3Rkl_S4?authuser=0&hl=en&rclk=1"
@@ -4149,8 +4115,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MDS+Dental+Clinic/data=!4m7!3m6!1s0x3be027d166f9830f:0x2efd2519ddc5889c!8m2!3d21.704027!4d72.9939181!16s%2Fg%2F11tp4c7jf4!19sChIJD4P5ZtEn4DsRnIjF3Rkl_S4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "modh-ent-hospital-bharuch",
@@ -4198,7 +4163,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Modh+ENT+Hospital/@21.7008309,72.9886192,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0213628b3aadb:0x8d67c49a2a663af1!8m2!3d21.7008309!4d72.9886192!16s%2Fg%2F11g1fvq51g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modh+ENT+Hospital/@21.7008309,72.9886192,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0213628b3aadb:0x8d67c49a2a663af1!8m2!3d21.7008309!4d72.9886192!16s%2Fg%2F11g1fvq51g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4267,8 +4232,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Modh+ENT+Hospital/@21.7008309,72.9886192,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0213628b3aadb:0x8d67c49a2a663af1!8m2!3d21.7008309!4d72.9886192!16s%2Fg%2F11g1fvq51g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mothercare-hospital-bharuch",
@@ -4316,7 +4280,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mothercare+Hospital/data=!4m7!3m6!1s0x3be020a9daeda477:0xd540aaa315ccd51!8m2!3d21.724864!4d73.0013097!16s%2Fg%2F1tt1r4fm!19sChIJd6Tt2qkg4DsRUc1cMaoKVA0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mothercare+Hospital/data=!4m7!3m6!1s0x3be020a9daeda477:0xd540aaa315ccd51!8m2!3d21.724864!4d73.0013097!16s%2Fg%2F1tt1r4fm!19sChIJd6Tt2qkg4DsRUc1cMaoKVA0?authuser=0&hl=en&rclk=1"
@@ -4382,11 +4346,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mothercare+Hospital/data=!4m7!3m6!1s0x3be020a9daeda477:0xd540aaa315ccd51!8m2!3d21.724864!4d73.0013097!16s%2Fg%2F1tt1r4fm!19sChIJd6Tt2qkg4DsRUc1cMaoKVA0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "motherhood-women-s-hospital-bharuch",
@@ -4435,7 +4398,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Motherhood+Women%27s+Hospital/data=!4m7!3m6!1s0x3be02758e3c6e813:0xf5ed1307548ea13c!8m2!3d21.7200882!4d72.9863553!16s%2Fg%2F11gwh2c36m!19sChIJE-jG41gn4DsRPKGOVAcT7fU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Motherhood+Women%27s+Hospital/data=!4m7!3m6!1s0x3be02758e3c6e813:0xf5ed1307548ea13c!8m2!3d21.7200882!4d72.9863553!16s%2Fg%2F11gwh2c36m!19sChIJE-jG41gn4DsRPKGOVAcT7fU?authuser=0&hl=en&rclk=1"
@@ -4504,8 +4467,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Motherhood+Women%27s+Hospital/data=!4m7!3m6!1s0x3be02758e3c6e813:0xf5ed1307548ea13c!8m2!3d21.7200882!4d72.9863553!16s%2Fg%2F11gwh2c36m!19sChIJE-jG41gn4DsRPKGOVAcT7fU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "motherhood-wonen-s-hospital-bharuch",
@@ -4553,7 +4515,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Motherhood+Wonen%E2%80%99s+Hospital/data=!4m7!3m6!1s0x3be02700025145ad:0x5ae1a8cfbd2f272b!8m2!3d21.7201167!4d72.9862882!16s%2Fg%2F11xfhff67p!19sChIJrUVRAgAn4DsRKycvvc-o4Vo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Motherhood+Wonen%E2%80%99s+Hospital/data=!4m7!3m6!1s0x3be02700025145ad:0x5ae1a8cfbd2f272b!8m2!3d21.7201167!4d72.9862882!16s%2Fg%2F11xfhff67p!19sChIJrUVRAgAn4DsRKycvvc-o4Vo?authuser=0&hl=en&rclk=1"
@@ -4619,11 +4581,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Motherhood+Wonen%E2%80%99s+Hospital/data=!4m7!3m6!1s0x3be02700025145ad:0x5ae1a8cfbd2f272b!8m2!3d21.7201167!4d72.9862882!16s%2Fg%2F11xfhff67p!19sChIJrUVRAgAn4DsRKycvvc-o4Vo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "naaz-maternity-and-gynaec-hospital-bharuch",
@@ -4671,7 +4632,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Naaz+Maternity+%26+Gynaec+Hospital/data=!4m7!3m6!1s0x3be02749e1364db1:0x650431add9fcadd1!8m2!3d21.7010782!4d72.9860938!16s%2Fg%2F11f0_dk04x!19sChIJsU024Ukn4DsR0a382a0xBGU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naaz+Maternity+%26+Gynaec+Hospital/data=!4m7!3m6!1s0x3be02749e1364db1:0x650431add9fcadd1!8m2!3d21.7010782!4d72.9860938!16s%2Fg%2F11f0_dk04x!19sChIJsU024Ukn4DsR0a382a0xBGU?authuser=0&hl=en&rclk=1"
@@ -4740,8 +4701,7 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Naaz+Maternity+%26+Gynaec+Hospital/data=!4m7!3m6!1s0x3be02749e1364db1:0x650431add9fcadd1!8m2!3d21.7010782!4d72.9860938!16s%2Fg%2F11f0_dk04x!19sChIJsU024Ukn4DsR0a382a0xBGU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "narayan-hospital-and-research-center-bharuch",
@@ -4789,7 +4749,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NARAYAN+HOSPITAL+AND+RESEARCH+CENTER/data=!4m7!3m6!1s0x3be020b6bf60e193:0xdca1f1c4031f4f1a!8m2!3d21.707188!4d73.00069!16s%2Fg%2F11f4tzwct0!19sChIJk-Fgv7Yg4DsRGk8fA8Txodw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NARAYAN+HOSPITAL+AND+RESEARCH+CENTER/data=!4m7!3m6!1s0x3be020b6bf60e193:0xdca1f1c4031f4f1a!8m2!3d21.707188!4d73.00069!16s%2Fg%2F11f4tzwct0!19sChIJk-Fgv7Yg4DsRGk8fA8Txodw?authuser=0&hl=en&rclk=1"
@@ -4858,8 +4818,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NARAYAN+HOSPITAL+AND+RESEARCH+CENTER/data=!4m7!3m6!1s0x3be020b6bf60e193:0xdca1f1c4031f4f1a!8m2!3d21.707188!4d73.00069!16s%2Fg%2F11f4tzwct0!19sChIJk-Fgv7Yg4DsRGk8fA8Txodw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navjeevan-heart-and-women-s-hospital-gidc-ankleshwar",
@@ -4909,7 +4868,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navjeevan+Heart+and+Women%27s+Hospital%28GIDC%29/data=!4m7!3m6!1s0x3be02340c1cb21c5:0xe595f75abe057d77!8m2!3d21.6232298!4d73.004255!16s%2Fg%2F11qr9lkrcx!19sChIJxSHLwUAj4DsRd30Fvlr3leU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navjeevan+Heart+and+Women%27s+Hospital%28GIDC%29/data=!4m7!3m6!1s0x3be02340c1cb21c5:0xe595f75abe057d77!8m2!3d21.6232298!4d73.004255!16s%2Fg%2F11qr9lkrcx!19sChIJxSHLwUAj4DsRd30Fvlr3leU?authuser=0&hl=en&rclk=1"
@@ -4978,8 +4937,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navjeevan+Heart+and+Women%27s+Hospital%28GIDC%29/data=!4m7!3m6!1s0x3be02340c1cb21c5:0xe595f75abe057d77!8m2!3d21.6232298!4d73.004255!16s%2Fg%2F11qr9lkrcx!19sChIJxSHLwUAj4DsRd30Fvlr3leU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neo-smiles-dental-care-bharuch",
@@ -5029,7 +4987,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neo+Smiles+Dental+Care/data=!4m7!3m6!1s0x3be0274c32f7f201:0xf42b34a183e50dda!8m2!3d21.709403!4d72.9881466!16s%2Fg%2F11gcc82qdv!19sChIJAfL3Mkwn4DsR2g3lg6E0K_Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neo+Smiles+Dental+Care/data=!4m7!3m6!1s0x3be0274c32f7f201:0xf42b34a183e50dda!8m2!3d21.709403!4d72.9881466!16s%2Fg%2F11gcc82qdv!19sChIJAfL3Mkwn4DsR2g3lg6E0K_Q?authuser=0&hl=en&rclk=1"
@@ -5098,8 +5056,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neo+Smiles+Dental+Care/data=!4m7!3m6!1s0x3be0274c32f7f201:0xf42b34a183e50dda!8m2!3d21.709403!4d72.9881466!16s%2Fg%2F11gcc82qdv!19sChIJAfL3Mkwn4DsR2g3lg6E0K_Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirvana-dental-clinic-bharuch",
@@ -5147,7 +5104,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nirvana+Dental+Clinic/data=!4m7!3m6!1s0x3be021c10664822d:0x73fd53e9ebf302cc!8m2!3d21.7192894!4d73.0302034!16s%2Fg%2F11t5nkf9mw!19sChIJLYJkBsEh4DsRzALz6-lT_XM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirvana+Dental+Clinic/data=!4m7!3m6!1s0x3be021c10664822d:0x73fd53e9ebf302cc!8m2!3d21.7192894!4d73.0302034!16s%2Fg%2F11t5nkf9mw!19sChIJLYJkBsEh4DsRzALz6-lT_XM?authuser=0&hl=en&rclk=1"
@@ -5213,11 +5170,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nirvana+Dental+Clinic/data=!4m7!3m6!1s0x3be021c10664822d:0x73fd53e9ebf302cc!8m2!3d21.7192894!4d73.0302034!16s%2Fg%2F11t5nkf9mw!19sChIJLYJkBsEh4DsRzALz6-lT_XM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ongc-dispensary-bharuch",
@@ -5266,7 +5222,7 @@
       "Google rating 5.0",
       "30+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ONGC+Dispensary/data=!4m7!3m6!1s0x3be020b4e4d5699f:0x40cc2f41c9ab4bdc!8m2!3d21.7048978!4d72.995442!16s%2Fg%2F11g8dh6gnm!19sChIJn2nV5LQg4DsR3EuryUEvzEA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ONGC+Dispensary/data=!4m7!3m6!1s0x3be020b4e4d5699f:0x40cc2f41c9ab4bdc!8m2!3d21.7048978!4d72.995442!16s%2Fg%2F11g8dh6gnm!19sChIJn2nV5LQg4DsR3EuryUEvzEA?authuser=0&hl=en&rclk=1"
@@ -5332,11 +5288,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 30,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ONGC+Dispensary/data=!4m7!3m6!1s0x3be020b4e4d5699f:0x40cc2f41c9ab4bdc!8m2!3d21.7048978!4d72.995442!16s%2Fg%2F11g8dh6gnm!19sChIJn2nV5LQg4DsR3EuryUEvzEA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oral-care-dental-clinic-nature-care-ayurvedic-clinic-bharuch",
@@ -5384,7 +5339,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oral+Care+Dental+Clinic%2F+Nature+Care+Ayurvedic+Clinic/data=!4m7!3m6!1s0x3be02097632b5c8b:0x819f10635fbd181a!8m2!3d21.7158039!4d73.0207116!16s%2Fg%2F1tk89l9c!19sChIJi1wrY5cg4DsRGhi9X2MQn4E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Care+Dental+Clinic%2F+Nature+Care+Ayurvedic+Clinic/data=!4m7!3m6!1s0x3be02097632b5c8b:0x819f10635fbd181a!8m2!3d21.7158039!4d73.0207116!16s%2Fg%2F1tk89l9c!19sChIJi1wrY5cg4DsRGhi9X2MQn4E?authuser=0&hl=en&rclk=1"
@@ -5450,11 +5405,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oral+Care+Dental+Clinic%2F+Nature+Care+Ayurvedic+Clinic/data=!4m7!3m6!1s0x3be02097632b5c8b:0x819f10635fbd181a!8m2!3d21.7158039!4d73.0207116!16s%2Fg%2F1tk89l9c!19sChIJi1wrY5cg4DsRGhi9X2MQn4E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parishram-women-s-hospital-bharuch",
@@ -5504,7 +5458,7 @@
       "Google rating 4.7",
       "1+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Parishram+Women%27s+Hospital/data=!4m7!3m6!1s0x3be0273639764f95:0xadaa9fba1ec44c9d!8m2!3d21.6994372!4d72.9861262!16s%2Fg%2F11bbtn29h7!19sChIJlU92OTYn4DsRnUzEHrqfqq0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parishram+Women%27s+Hospital/data=!4m7!3m6!1s0x3be0273639764f95:0xadaa9fba1ec44c9d!8m2!3d21.6994372!4d72.9861262!16s%2Fg%2F11bbtn29h7!19sChIJlU92OTYn4DsRnUzEHrqfqq0?authuser=0&hl=en&rclk=1"
@@ -5573,8 +5527,7 @@
     "rating": 4.7,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Parishram+Women%27s+Hospital/data=!4m7!3m6!1s0x3be0273639764f95:0xadaa9fba1ec44c9d!8m2!3d21.6994372!4d72.9861262!16s%2Fg%2F11bbtn29h7!19sChIJlU92OTYn4DsRnUzEHrqfqq0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prakriti-medical-bharuch",
@@ -5624,7 +5577,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prakriti+Medical/data=!4m7!3m6!1s0x3be02735e55745bb:0x16fa841185df5dbb!8m2!3d21.7001229!4d72.9882269!16s%2Fg%2F11bzx5jytk!19sChIJu0VX5TUn4DsRu13fhRGE-hY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prakriti+Medical/data=!4m7!3m6!1s0x3be02735e55745bb:0x16fa841185df5dbb!8m2!3d21.7001229!4d72.9882269!16s%2Fg%2F11bzx5jytk!19sChIJu0VX5TUn4DsRu13fhRGE-hY?authuser=0&hl=en&rclk=1"
@@ -5693,8 +5646,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prakriti+Medical/data=!4m7!3m6!1s0x3be02735e55745bb:0x16fa841185df5dbb!8m2!3d21.7001229!4d72.9882269!16s%2Fg%2F11bzx5jytk!19sChIJu0VX5TUn4DsRu13fhRGE-hY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "priydeep-eye-hospital-private-limited-bharuch",
@@ -5743,7 +5695,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Priydeep+Eye+Hospital+Private+Limited/data=!4m7!3m6!1s0x3be020a9daeda477:0x810548aef1250858!8m2!3d21.700824!4d72.9908843!16s%2Fg%2F11cs4ldxwd!19sChIJd6Tt2qkg4DsRWAgl8a5IBYE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Priydeep+Eye+Hospital+Private+Limited/data=!4m7!3m6!1s0x3be020a9daeda477:0x810548aef1250858!8m2!3d21.700824!4d72.9908843!16s%2Fg%2F11cs4ldxwd!19sChIJd6Tt2qkg4DsRWAgl8a5IBYE?authuser=0&hl=en&rclk=1"
@@ -5812,8 +5764,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Priydeep+Eye+Hospital+Private+Limited/data=!4m7!3m6!1s0x3be020a9daeda477:0x810548aef1250858!8m2!3d21.700824!4d72.9908843!16s%2Fg%2F11cs4ldxwd!19sChIJd6Tt2qkg4DsRWAgl8a5IBYE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pushti-hospital-maternity-home-ivf-and-icu-bharuch",
@@ -5863,7 +5814,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pushti+Hospital+Maternity+Home,+IVF+%26+ICU/data=!4m7!3m6!1s0x3be021ea227b0bf1:0x22b098b88a9fdf99!8m2!3d21.719632!4d73.0310991!16s%2Fg%2F11rv1xgwkn!19sChIJ8Qt7Iuoh4DsRmd-firiYsCI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pushti+Hospital+Maternity+Home,+IVF+%26+ICU/data=!4m7!3m6!1s0x3be021ea227b0bf1:0x22b098b88a9fdf99!8m2!3d21.719632!4d73.0310991!16s%2Fg%2F11rv1xgwkn!19sChIJ8Qt7Iuoh4DsRmd-firiYsCI?authuser=0&hl=en&rclk=1"
@@ -5932,8 +5883,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pushti+Hospital+Maternity+Home,+IVF+%26+ICU/data=!4m7!3m6!1s0x3be021ea227b0bf1:0x22b098b88a9fdf99!8m2!3d21.719632!4d73.0310991!16s%2Fg%2F11rv1xgwkn!19sChIJ8Qt7Iuoh4DsRmd-firiYsCI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "radiance-beauty-clinic-bharuch",
@@ -5981,7 +5931,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Radiance+beauty+Clinic/data=!4m7!3m6!1s0x3be02097ffa4b53f:0x46da27f63b83cf98!8m2!3d21.7148557!4d73.018833!16s%2Fg%2F11g69x9xjr!19sChIJP7Wk_5cg4DsRmM-DO_Yn2kY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiance+beauty+Clinic/data=!4m7!3m6!1s0x3be02097ffa4b53f:0x46da27f63b83cf98!8m2!3d21.7148557!4d73.018833!16s%2Fg%2F11g69x9xjr!19sChIJP7Wk_5cg4DsRmM-DO_Yn2kY?authuser=0&hl=en&rclk=1"
@@ -6050,8 +6000,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Radiance+beauty+Clinic/data=!4m7!3m6!1s0x3be02097ffa4b53f:0x46da27f63b83cf98!8m2!3d21.7148557!4d73.018833!16s%2Fg%2F11g69x9xjr!19sChIJP7Wk_5cg4DsRmM-DO_Yn2kY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raj-diabetes-and-women-s-hospital-bharuch",
@@ -6102,7 +6051,7 @@
       "Google rating 4.9",
       "1+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RAJ+DIABETES+%26+WOMEN%27S+HOSPITAL/data=!4m7!3m6!1s0x3be0270037b9c3f7:0x30de41bc4a89e7e0!8m2!3d21.7012128!4d72.9922298!16s%2Fg%2F11vr03w0ch!19sChIJ98O5NwAn4DsR4OeJSrxB3jA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAJ+DIABETES+%26+WOMEN%27S+HOSPITAL/data=!4m7!3m6!1s0x3be0270037b9c3f7:0x30de41bc4a89e7e0!8m2!3d21.7012128!4d72.9922298!16s%2Fg%2F11vr03w0ch!19sChIJ98O5NwAn4DsR4OeJSrxB3jA?authuser=0&hl=en&rclk=1"
@@ -6171,8 +6120,7 @@
     "rating": 4.9,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RAJ+DIABETES+%26+WOMEN%27S+HOSPITAL/data=!4m7!3m6!1s0x3be0270037b9c3f7:0x30de41bc4a89e7e0!8m2!3d21.7012128!4d72.9922298!16s%2Fg%2F11vr03w0ch!19sChIJ98O5NwAn4DsR4OeJSrxB3jA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raj-diabetes-care-bharuch",
@@ -6221,7 +6169,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RAJ+DIABETES+CARE/data=!4m7!3m6!1s0x3be027bc93c4eda5:0x6f979cf115196858!8m2!3d21.7012096!4d72.9920728!16s%2Fg%2F11qq7dfncn!19sChIJpe3Ek7wn4DsRWGgZFfGcl28?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAJ+DIABETES+CARE/data=!4m7!3m6!1s0x3be027bc93c4eda5:0x6f979cf115196858!8m2!3d21.7012096!4d72.9920728!16s%2Fg%2F11qq7dfncn!19sChIJpe3Ek7wn4DsRWGgZFfGcl28?authuser=0&hl=en&rclk=1"
@@ -6290,8 +6238,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RAJ+DIABETES+CARE/data=!4m7!3m6!1s0x3be027bc93c4eda5:0x6f979cf115196858!8m2!3d21.7012096!4d72.9920728!16s%2Fg%2F11qq7dfncn!19sChIJpe3Ek7wn4DsRWGgZFfGcl28?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rangoli-fracture-accident-hospital-bharuch",
@@ -6339,7 +6286,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rangoli+Fracture+Accident+Hospital/data=!4m7!3m6!1s0x3be0273589d0f2ad:0xd64677268c113405!8m2!3d21.7011301!4d72.9910149!16s%2Fg%2F1tlzymt3!19sChIJrfLQiTUn4DsRBTQRjCZ3RtY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rangoli+Fracture+Accident+Hospital/data=!4m7!3m6!1s0x3be0273589d0f2ad:0xd64677268c113405!8m2!3d21.7011301!4d72.9910149!16s%2Fg%2F1tlzymt3!19sChIJrfLQiTUn4DsRBTQRjCZ3RtY?authuser=0&hl=en&rclk=1"
@@ -6408,8 +6355,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rangoli+Fracture+Accident+Hospital/data=!4m7!3m6!1s0x3be0273589d0f2ad:0xd64677268c113405!8m2!3d21.7011301!4d72.9910149!16s%2Fg%2F1tlzymt3!19sChIJrfLQiTUn4DsRBTQRjCZ3RtY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rapid-dental-care-bharuch",
@@ -6457,7 +6403,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rapid+Dental+Care/data=!4m7!3m6!1s0x395f89c81cb8bfdd:0x52753e04e814114c!8m2!3d21.7235145!4d72.9853466!16s%2Fg%2F11lm6458js!19sChIJ3b-4HMiJXzkRTBEU6AQ-dVI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rapid+Dental+Care/data=!4m7!3m6!1s0x395f89c81cb8bfdd:0x52753e04e814114c!8m2!3d21.7235145!4d72.9853466!16s%2Fg%2F11lm6458js!19sChIJ3b-4HMiJXzkRTBEU6AQ-dVI?authuser=0&hl=en&rclk=1"
@@ -6526,8 +6472,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rapid+Dental+Care/data=!4m7!3m6!1s0x395f89c81cb8bfdd:0x52753e04e814114c!8m2!3d21.7235145!4d72.9853466!16s%2Fg%2F11lm6458js!19sChIJ3b-4HMiJXzkRTBEU6AQ-dVI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "redefine-aesthetic-clinic-bharuch",
@@ -6577,7 +6522,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ReDefine+Aesthetic+Clinic/data=!4m7!3m6!1s0x3be021f3042e25b3:0x9ff09f534300fc9!8m2!3d21.7033012!4d72.997095!16s%2Fg%2F11krpshzx0!19sChIJsyUuBPMh4DsRyQ8wNPUJ_wk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ReDefine+Aesthetic+Clinic/data=!4m7!3m6!1s0x3be021f3042e25b3:0x9ff09f534300fc9!8m2!3d21.7033012!4d72.997095!16s%2Fg%2F11krpshzx0!19sChIJsyUuBPMh4DsRyQ8wNPUJ_wk?authuser=0&hl=en&rclk=1"
@@ -6643,11 +6588,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ReDefine+Aesthetic+Clinic/data=!4m7!3m6!1s0x3be021f3042e25b3:0x9ff09f534300fc9!8m2!3d21.7033012!4d72.997095!16s%2Fg%2F11krpshzx0!19sChIJsyUuBPMh4DsRyQ8wNPUJ_wk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "revive-laser-centre-bharuch",
@@ -6695,7 +6639,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Revive+Laser+centre/data=!4m7!3m6!1s0x3be02713e08be839:0x32cf39eb04ea695f!8m2!3d21.6994238!4d72.9858808!16s%2Fg%2F11fl5n6d8m!19sChIJOeiL4BMn4DsRX2nqBOs5zzI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Revive+Laser+centre/data=!4m7!3m6!1s0x3be02713e08be839:0x32cf39eb04ea695f!8m2!3d21.6994238!4d72.9858808!16s%2Fg%2F11fl5n6d8m!19sChIJOeiL4BMn4DsRX2nqBOs5zzI?authuser=0&hl=en&rclk=1"
@@ -6761,11 +6705,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Revive+Laser+centre/data=!4m7!3m6!1s0x3be02713e08be839:0x32cf39eb04ea695f!8m2!3d21.6994238!4d72.9858808!16s%2Fg%2F11fl5n6d8m!19sChIJOeiL4BMn4DsRX2nqBOs5zzI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sahyog-hospital-icu-bharuch",
@@ -6816,7 +6759,7 @@
       "26+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sahyog+Hospital+ICU/data=!4m7!3m6!1s0x3be02759cf14b583:0xbd4b9fdfb80d2087!8m2!3d21.7195666!4d72.9796949!16s%2Fg%2F11b6rws9mx!19sChIJg7UUz1kn4DsRhyANuN-fS70?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahyog+Hospital+ICU/data=!4m7!3m6!1s0x3be02759cf14b583:0xbd4b9fdfb80d2087!8m2!3d21.7195666!4d72.9796949!16s%2Fg%2F11b6rws9mx!19sChIJg7UUz1kn4DsRhyANuN-fS70?authuser=0&hl=en&rclk=1"
@@ -6885,8 +6828,7 @@
     "rating": 4.1,
     "reviews": 26,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sahyog+Hospital+ICU/data=!4m7!3m6!1s0x3be02759cf14b583:0xbd4b9fdfb80d2087!8m2!3d21.7195666!4d72.9796949!16s%2Fg%2F11b6rws9mx!19sChIJg7UUz1kn4DsRhyANuN-fS70?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sakhiya-skin-clinic-india-s-no-1-skin-clinic-chain-bharuch",
@@ -6935,7 +6877,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+India%27s+No.1+Skin+Clinic+Chain/data=!4m7!3m6!1s0x3be0278f570612c3:0xb1bee72a576829f6!8m2!3d21.720107!4d72.9857213!16s%2Fg%2F11y2904nrm!19sChIJwxIGV48n4DsR9iloVyrnvrE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+India%27s+No.1+Skin+Clinic+Chain/data=!4m7!3m6!1s0x3be0278f570612c3:0xb1bee72a576829f6!8m2!3d21.720107!4d72.9857213!16s%2Fg%2F11y2904nrm!19sChIJwxIGV48n4DsR9iloVyrnvrE?authuser=0&hl=en&rclk=1"
@@ -7004,8 +6946,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+India%27s+No.1+Skin+Clinic+Chain/data=!4m7!3m6!1s0x3be0278f570612c3:0xb1bee72a576829f6!8m2!3d21.720107!4d72.9857213!16s%2Fg%2F11y2904nrm!19sChIJwxIGV48n4DsR9iloVyrnvrE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjivani-children-hospital-bharuch",
@@ -7054,7 +6995,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjivani+children+hospital/data=!4m7!3m6!1s0x3be020ca429926bb:0x9fffc18fada78bee!8m2!3d21.704016!4d72.995635!16s%2Fg%2F11c1xfck1j!19sChIJuyaZQsog4DsR7ounrY_B_58?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjivani+children+hospital/data=!4m7!3m6!1s0x3be020ca429926bb:0x9fffc18fada78bee!8m2!3d21.704016!4d72.995635!16s%2Fg%2F11c1xfck1j!19sChIJuyaZQsog4DsR7ounrY_B_58?authuser=0&hl=en&rclk=1"
@@ -7123,8 +7064,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjivani+children+hospital/data=!4m7!3m6!1s0x3be020ca429926bb:0x9fffc18fada78bee!8m2!3d21.704016!4d72.995635!16s%2Fg%2F11c1xfck1j!19sChIJuyaZQsog4DsR7ounrY_B_58?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjivani-hospital-bharuch",
@@ -7172,7 +7112,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjivani+Hospital/data=!4m7!3m6!1s0x3be02097ece033cd:0xf23ca3a82e7b182a!8m2!3d21.7148399!4d73.0182358!16s%2Fg%2F1q67qx11_!19sChIJzTPg7Jcg4DsRKhh7LqijPPI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjivani+Hospital/data=!4m7!3m6!1s0x3be02097ece033cd:0xf23ca3a82e7b182a!8m2!3d21.7148399!4d73.0182358!16s%2Fg%2F1q67qx11_!19sChIJzTPg7Jcg4DsRKhh7LqijPPI?authuser=0&hl=en&rclk=1"
@@ -7241,8 +7181,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjivani+Hospital/data=!4m7!3m6!1s0x3be02097ece033cd:0xf23ca3a82e7b182a!8m2!3d21.7148399!4d73.0182358!16s%2Fg%2F1q67qx11_!19sChIJzTPg7Jcg4DsRKhh7LqijPPI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sankalp-hospital-bharuch",
@@ -7290,7 +7229,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sankalp+Hospital/data=!4m7!3m6!1s0x3be02155fb9f7591:0xa38ab8275b2ecc88!8m2!3d21.7249602!4d73.0401883!16s%2Fg%2F11j6hq70x3!19sChIJkXWf-1Uh4DsRiMwuWye4iqM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sankalp+Hospital/data=!4m7!3m6!1s0x3be02155fb9f7591:0xa38ab8275b2ecc88!8m2!3d21.7249602!4d73.0401883!16s%2Fg%2F11j6hq70x3!19sChIJkXWf-1Uh4DsRiMwuWye4iqM?authuser=0&hl=en&rclk=1"
@@ -7359,8 +7298,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sankalp+Hospital/data=!4m7!3m6!1s0x3be02155fb9f7591:0xa38ab8275b2ecc88!8m2!3d21.7249602!4d73.0401883!16s%2Fg%2F11j6hq70x3!19sChIJkXWf-1Uh4DsRiMwuWye4iqM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sardar-patel-hospital-and-heart-institute-ankleshwar",
@@ -7411,7 +7349,7 @@
       "17+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sardar+Patel+Hospital+%26+Heart+Institute/data=!4m7!3m6!1s0x3be023fc5b83862f:0xa4a03f75b4581c46!8m2!3d21.629526!4d73.0012607!16s%2Fg%2F11bwfltwvl!19sChIJL4aDW_wj4DsRRhxYtHU_oKQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sardar+Patel+Hospital+%26+Heart+Institute/data=!4m7!3m6!1s0x3be023fc5b83862f:0xa4a03f75b4581c46!8m2!3d21.629526!4d73.0012607!16s%2Fg%2F11bwfltwvl!19sChIJL4aDW_wj4DsRRhxYtHU_oKQ?authuser=0&hl=en&rclk=1"
@@ -7480,8 +7418,7 @@
     "rating": 4.5,
     "reviews": 17,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sardar+Patel+Hospital+%26+Heart+Institute/data=!4m7!3m6!1s0x3be023fc5b83862f:0xa4a03f75b4581c46!8m2!3d21.629526!4d73.0012607!16s%2Fg%2F11bwfltwvl!19sChIJL4aDW_wj4DsRRhxYtHU_oKQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sdc-shaikh-dental-clinic-bharuch",
@@ -7529,7 +7466,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SDC+Shaikh+Dental+Clinic/data=!4m7!3m6!1s0x3be02717cbf1d82b:0xa035502a166b3432!8m2!3d21.7001272!4d72.9864472!16s%2Fg%2F11grc0_6xf!19sChIJK9jxyxcn4DsRMjRrFipQNaA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SDC+Shaikh+Dental+Clinic/data=!4m7!3m6!1s0x3be02717cbf1d82b:0xa035502a166b3432!8m2!3d21.7001272!4d72.9864472!16s%2Fg%2F11grc0_6xf!19sChIJK9jxyxcn4DsRMjRrFipQNaA?authuser=0&hl=en&rclk=1"
@@ -7598,8 +7535,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SDC+Shaikh+Dental+Clinic/data=!4m7!3m6!1s0x3be02717cbf1d82b:0xa035502a166b3432!8m2!3d21.7001272!4d72.9864472!16s%2Fg%2F11grc0_6xf!19sChIJK9jxyxcn4DsRMjRrFipQNaA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sevashram-hospital-bharuch",
@@ -7647,7 +7583,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sevashram+Hospital/data=!4m7!3m6!1s0x3be027498d818d6b:0x10968598ea655cf1!8m2!3d21.7025522!4d72.9867466!16s%2Fg%2F1hdzp0553!19sChIJa42BjUkn4DsR8Vxl6piFlhA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sevashram+Hospital/data=!4m7!3m6!1s0x3be027498d818d6b:0x10968598ea655cf1!8m2!3d21.7025522!4d72.9867466!16s%2Fg%2F1hdzp0553!19sChIJa42BjUkn4DsR8Vxl6piFlhA?authuser=0&hl=en&rclk=1"
@@ -7713,11 +7649,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sevashram+Hospital/data=!4m7!3m6!1s0x3be027498d818d6b:0x10968598ea655cf1!8m2!3d21.7025522!4d72.9867466!16s%2Fg%2F1hdzp0553!19sChIJa42BjUkn4DsR8Vxl6piFlhA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivani-surgical-and-ent-hospital-bharuch",
@@ -7765,7 +7700,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivani+Surgical+and+ENT+Hospital/data=!4m7!3m6!1s0x3be0273589d0f2ad:0x917f493145697168!8m2!3d21.7054997!4d72.9957648!16s%2Fg%2F1vm_wbs2!19sChIJrfLQiTUn4DsRaHFpRTFJf5E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivani+Surgical+and+ENT+Hospital/data=!4m7!3m6!1s0x3be0273589d0f2ad:0x917f493145697168!8m2!3d21.7054997!4d72.9957648!16s%2Fg%2F1vm_wbs2!19sChIJrfLQiTUn4DsRaHFpRTFJf5E?authuser=0&hl=en&rclk=1"
@@ -7834,8 +7769,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivani+Surgical+and+ENT+Hospital/data=!4m7!3m6!1s0x3be0273589d0f2ad:0x917f493145697168!8m2!3d21.7054997!4d72.9957648!16s%2Fg%2F1vm_wbs2!19sChIJrfLQiTUn4DsRaHFpRTFJf5E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shraddha-orthodontics-and-dental-clinic-bharuch-and-ankleshwar-bharuch",
@@ -7886,7 +7820,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shraddha+Orthodontics+%26+Dental+Clinic+%E2%80%93+Bharuch+%26+Ankleshwar/data=!4m7!3m6!1s0x3be020b53a6a670f:0x171fbe7f4e6beae5!8m2!3d21.7041569!4d72.9930211!16s%2Fg%2F11btyv6zrd!19sChIJD2dqOrUg4DsR5eprTn--Hxc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddha+Orthodontics+%26+Dental+Clinic+%E2%80%93+Bharuch+%26+Ankleshwar/data=!4m7!3m6!1s0x3be020b53a6a670f:0x171fbe7f4e6beae5!8m2!3d21.7041569!4d72.9930211!16s%2Fg%2F11btyv6zrd!19sChIJD2dqOrUg4DsR5eprTn--Hxc?authuser=0&hl=en&rclk=1"
@@ -7952,11 +7886,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shraddha+Orthodontics+%26+Dental+Clinic+%E2%80%93+Bharuch+%26+Ankleshwar/data=!4m7!3m6!1s0x3be020b53a6a670f:0x171fbe7f4e6beae5!8m2!3d21.7041569!4d72.9930211!16s%2Fg%2F11btyv6zrd!19sChIJD2dqOrUg4DsR5eprTn--Hxc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shraddha-skin-care-clinic-bharuch",
@@ -8004,7 +7937,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shraddha+Skin+Care+Clinic/data=!4m7!3m6!1s0x3be0274a99e7ebc3:0xb1905f3a20902308!8m2!3d21.7020212!4d72.9915396!16s%2Fg%2F1q6jd_zcb!19sChIJw-vnmUon4DsRCCOQIDpfkLE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddha+Skin+Care+Clinic/data=!4m7!3m6!1s0x3be0274a99e7ebc3:0xb1905f3a20902308!8m2!3d21.7020212!4d72.9915396!16s%2Fg%2F1q6jd_zcb!19sChIJw-vnmUon4DsRCCOQIDpfkLE?authuser=0&hl=en&rclk=1"
@@ -8070,11 +8003,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shraddha+Skin+Care+Clinic/data=!4m7!3m6!1s0x3be0274a99e7ebc3:0xb1905f3a20902308!8m2!3d21.7020212!4d72.9915396!16s%2Fg%2F1q6jd_zcb!19sChIJw-vnmUon4DsRCCOQIDpfkLE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-rang-dental-clinic-bharuch",
@@ -8122,7 +8054,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Rang+Dental+Clinic/data=!4m7!3m6!1s0x3be0219067e532b7:0x2205b0d181f99a65!8m2!3d21.7178708!4d73.020887!16s%2Fg%2F11g24qsm9v!19sChIJtzLlZ5Ah4DsRZZr5gdGwBSI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Rang+Dental+Clinic/data=!4m7!3m6!1s0x3be0219067e532b7:0x2205b0d181f99a65!8m2!3d21.7178708!4d73.020887!16s%2Fg%2F11g24qsm9v!19sChIJtzLlZ5Ah4DsRZZr5gdGwBSI?authuser=0&hl=en&rclk=1"
@@ -8188,11 +8120,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Rang+Dental+Clinic/data=!4m7!3m6!1s0x3be0219067e532b7:0x2205b0d181f99a65!8m2!3d21.7178708!4d73.020887!16s%2Fg%2F11g24qsm9v!19sChIJtzLlZ5Ah4DsRZZr5gdGwBSI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sickle-cell-awareness-foundation-c131-meghdoot-t-ship",
@@ -8242,7 +8173,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sickle+cell+awareness+foundation/data=!4m7!3m6!1s0x3be021d4d56c2359:0x385ed193d7d90d3b!8m2!3d21.6732875!4d72.9992013!16s%2Fg%2F11sfjzxlgr!19sChIJWSNs1dQh4DsROw3Z15PRXjg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sickle+cell+awareness+foundation/data=!4m7!3m6!1s0x3be021d4d56c2359:0x385ed193d7d90d3b!8m2!3d21.6732875!4d72.9992013!16s%2Fg%2F11sfjzxlgr!19sChIJWSNs1dQh4DsROw3Z15PRXjg?authuser=0&hl=en&rclk=1"
@@ -8308,11 +8239,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sickle+cell+awareness+foundation/data=!4m7!3m6!1s0x3be021d4d56c2359:0x385ed193d7d90d3b!8m2!3d21.6732875!4d72.9992013!16s%2Fg%2F11sfjzxlgr!19sChIJWSNs1dQh4DsROw3Z15PRXjg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swar-s-beauty-clinic-bharuch",
@@ -8361,7 +8291,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swar%27s+Beauty+Clinic/data=!4m7!3m6!1s0x3be0278edbbaa78d:0x961a05b49849404c!8m2!3d21.7169843!4d72.986736!16s%2Fg%2F11q95j__p4!19sChIJjae6244n4DsRTEBJmLQFGpY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swar%27s+Beauty+Clinic/data=!4m7!3m6!1s0x3be0278edbbaa78d:0x961a05b49849404c!8m2!3d21.7169843!4d72.986736!16s%2Fg%2F11q95j__p4!19sChIJjae6244n4DsRTEBJmLQFGpY?authuser=0&hl=en&rclk=1"
@@ -8427,11 +8357,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swar%27s+Beauty+Clinic/data=!4m7!3m6!1s0x3be0278edbbaa78d:0x961a05b49849404c!8m2!3d21.7169843!4d72.986736!16s%2Fg%2F11q95j__p4!19sChIJjae6244n4DsRTEBJmLQFGpY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-gandhi-s-dental-clinic-bharuch",
@@ -8479,7 +8408,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Gandhi%27s+Dental+Clinic/data=!4m7!3m6!1s0x3be02735f87cd82d:0xe0d53db98990fd45!8m2!3d21.700935!4d72.987976!16s%2Fg%2F11bbth6yzp!19sChIJLdh8-DUn4DsRRf2Qibk91eA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Gandhi%27s+Dental+Clinic/data=!4m7!3m6!1s0x3be02735f87cd82d:0xe0d53db98990fd45!8m2!3d21.700935!4d72.987976!16s%2Fg%2F11bbth6yzp!19sChIJLdh8-DUn4DsRRf2Qibk91eA?authuser=0&hl=en&rclk=1"
@@ -8548,8 +8477,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Gandhi%27s+Dental+Clinic/data=!4m7!3m6!1s0x3be02735f87cd82d:0xe0d53db98990fd45!8m2!3d21.700935!4d72.987976!16s%2Fg%2F11bbth6yzp!19sChIJLdh8-DUn4DsRRf2Qibk91eA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-rk-hospital-bharuch",
@@ -8597,7 +8525,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+RK+Hospital/data=!4m7!3m6!1s0x3be0274ad442e7f3:0xe38953f46fcdabbb!8m2!3d21.7040816!4d72.9929952!16s%2Fg%2F11cmsy5_lx!19sChIJ8-dC1Eon4DsRu6vNb_RTieM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+RK+Hospital/data=!4m7!3m6!1s0x3be0274ad442e7f3:0xe38953f46fcdabbb!8m2!3d21.7040816!4d72.9929952!16s%2Fg%2F11cmsy5_lx!19sChIJ8-dC1Eon4DsRu6vNb_RTieM?authuser=0&hl=en&rclk=1"
@@ -8666,8 +8594,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+RK+Hospital/data=!4m7!3m6!1s0x3be0274ad442e7f3:0xe38953f46fcdabbb!8m2!3d21.7040816!4d72.9929952!16s%2Fg%2F11cmsy5_lx!19sChIJ8-dC1Eon4DsRu6vNb_RTieM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "toothbuds-pediatric-dentistry-orthodontics-and-cosmetology-bharuch",
@@ -8717,7 +8644,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Toothbuds+pediatric+dentistry+orthodontics+and+cosmetology/data=!4m7!3m6!1s0x3be020b4fbdfe0e1:0x773c97f31964851b!8m2!3d21.7044813!4d72.9938664!16s%2Fg%2F11hc_2k_vb!19sChIJ4eDf-7Qg4DsRG4VkGfOXPHc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Toothbuds+pediatric+dentistry+orthodontics+and+cosmetology/data=!4m7!3m6!1s0x3be020b4fbdfe0e1:0x773c97f31964851b!8m2!3d21.7044813!4d72.9938664!16s%2Fg%2F11hc_2k_vb!19sChIJ4eDf-7Qg4DsRG4VkGfOXPHc?authuser=0&hl=en&rclk=1"
@@ -8786,8 +8713,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Toothbuds+pediatric+dentistry+orthodontics+and+cosmetology/data=!4m7!3m6!1s0x3be020b4fbdfe0e1:0x773c97f31964851b!8m2!3d21.7044813!4d72.9938664!16s%2Fg%2F11hc_2k_vb!19sChIJ4eDf-7Qg4DsRG4VkGfOXPHc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "trupti-nursing-home-bharuch",
@@ -8835,7 +8761,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/TRUPTI+NURSING+HOME/data=!4m7!3m6!1s0x3be020a9be17fa09:0xf7f97ceca2ec914!8m2!3d21.699449!4d72.9860823!16s%2Fg%2F1hm2txngh!19sChIJCfoXvqkg4DsRFMkuys6Xfw8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TRUPTI+NURSING+HOME/data=!4m7!3m6!1s0x3be020a9be17fa09:0xf7f97ceca2ec914!8m2!3d21.699449!4d72.9860823!16s%2Fg%2F1hm2txngh!19sChIJCfoXvqkg4DsRFMkuys6Xfw8?authuser=0&hl=en&rclk=1"
@@ -8904,8 +8830,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/TRUPTI+NURSING+HOME/data=!4m7!3m6!1s0x3be020a9be17fa09:0xf7f97ceca2ec914!8m2!3d21.699449!4d72.9860823!16s%2Fg%2F1hm2txngh!19sChIJCfoXvqkg4DsRFMkuys6Xfw8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "varia-hospital-and-icu-pvt-ltd-hypertension-thyroid-diabetes-asthma-and-heart-care-bharuch",
@@ -8956,7 +8881,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Varia+Hospital+%26+ICU+Pvt.+Ltd.+-+Hypertension,+Thyroid,+Diabetes,+Asthma+%26+Heart+Care/data=!4m7!3m6!1s0x3be020b539ff9089:0x9f9cda23a447e326!8m2!3d21.7025342!4d72.9947269!16s%2Fg%2F1q6bc1jgb!19sChIJiZD_ObUg4DsRJuNHpCPanJ8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varia+Hospital+%26+ICU+Pvt.+Ltd.+-+Hypertension,+Thyroid,+Diabetes,+Asthma+%26+Heart+Care/data=!4m7!3m6!1s0x3be020b539ff9089:0x9f9cda23a447e326!8m2!3d21.7025342!4d72.9947269!16s%2Fg%2F1q6bc1jgb!19sChIJiZD_ObUg4DsRJuNHpCPanJ8?authuser=0&hl=en&rclk=1"
@@ -9025,8 +8950,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Varia+Hospital+%26+ICU+Pvt.+Ltd.+-+Hypertension,+Thyroid,+Diabetes,+Asthma+%26+Heart+Care/data=!4m7!3m6!1s0x3be020b539ff9089:0x9f9cda23a447e326!8m2!3d21.7025342!4d72.9947269!16s%2Fg%2F1q6bc1jgb!19sChIJiZD_ObUg4DsRJuNHpCPanJ8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vatsalya-hospital-bharuch",
@@ -9074,7 +8998,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vatsalya+Hospital/data=!4m7!3m6!1s0x3be0274ad3f585c1:0x440f48f9874aa442!8m2!3d21.7040372!4d72.9930501!16s%2Fg%2F11d_7818lr!19sChIJwYX100on4DsRQqRKh_lID0Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vatsalya+Hospital/data=!4m7!3m6!1s0x3be0274ad3f585c1:0x440f48f9874aa442!8m2!3d21.7040372!4d72.9930501!16s%2Fg%2F11d_7818lr!19sChIJwYX100on4DsRQqRKh_lID0Q?authuser=0&hl=en&rclk=1"
@@ -9143,8 +9067,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vatsalya+Hospital/data=!4m7!3m6!1s0x3be0274ad3f585c1:0x440f48f9874aa442!8m2!3d21.7040372!4d72.9930501!16s%2Fg%2F11d_7818lr!19sChIJwYX100on4DsRQqRKh_lID0Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vedant-hospital-bharuch-bharuch",
@@ -9192,7 +9115,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vedant+Hospital,+Bharuch/data=!4m7!3m6!1s0x3be020b5149a57e7:0x8f5311bb0ff436b7!8m2!3d21.7041758!4d72.9958935!16s%2Fg%2F11g71_w082!19sChIJ51eaFLUg4DsRtzb0D7sRU48?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vedant+Hospital,+Bharuch/data=!4m7!3m6!1s0x3be020b5149a57e7:0x8f5311bb0ff436b7!8m2!3d21.7041758!4d72.9958935!16s%2Fg%2F11g71_w082!19sChIJ51eaFLUg4DsRtzb0D7sRU48?authuser=0&hl=en&rclk=1"
@@ -9261,8 +9184,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vedant+Hospital,+Bharuch/data=!4m7!3m6!1s0x3be020b5149a57e7:0x8f5311bb0ff436b7!8m2!3d21.7041758!4d72.9958935!16s%2Fg%2F11g71_w082!19sChIJ51eaFLUg4DsRtzb0D7sRU48?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vishwas-hospital-bharuch",
@@ -9310,7 +9232,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vishwas+Hospital/data=!4m7!3m6!1s0x3be0273589d0f2ad:0xe1f64e10bf9e6d9f!8m2!3d21.7040247!4d72.9954576!16s%2Fg%2F1v62g383!19sChIJrfLQiTUn4DsRn22evxBO9uE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishwas+Hospital/data=!4m7!3m6!1s0x3be0273589d0f2ad:0xe1f64e10bf9e6d9f!8m2!3d21.7040247!4d72.9954576!16s%2Fg%2F1v62g383!19sChIJrfLQiTUn4DsRn22evxBO9uE?authuser=0&hl=en&rclk=1"
@@ -9376,11 +9298,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vishwas+Hospital/data=!4m7!3m6!1s0x3be0273589d0f2ad:0xe1f64e10bf9e6d9f!8m2!3d21.7040247!4d72.9954576!16s%2Fg%2F1v62g383!19sChIJrfLQiTUn4DsRn22evxBO9uE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wardwizard-divine-hospital-bharuch",
@@ -9428,7 +9349,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Wardwizard+Divine+Hospital/data=!4m7!3m6!1s0x3be02735f87ce715:0xead0724029ca9bfe!8m2!3d21.7009271!4d72.9879593!16s%2Fg%2F11bzsr8n_z!19sChIJFed8-DUn4DsR_pvKKUBy0Oo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wardwizard+Divine+Hospital/data=!4m7!3m6!1s0x3be02735f87ce715:0xead0724029ca9bfe!8m2!3d21.7009271!4d72.9879593!16s%2Fg%2F11bzsr8n_z!19sChIJFed8-DUn4DsR_pvKKUBy0Oo?authuser=0&hl=en&rclk=1"
@@ -9497,8 +9418,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Wardwizard+Divine+Hospital/data=!4m7!3m6!1s0x3be02735f87ce715:0xead0724029ca9bfe!8m2!3d21.7009271!4d72.9879593!16s%2Fg%2F11bzsr8n_z!19sChIJFed8-DUn4DsR_pvKKUBy0Oo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "welfare-hospital-bharuch-and-research-centre-bharuch",
@@ -9547,7 +9467,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Welfare+Hospital+Bharuch+And+Research+Centre/@21.7029724,72.9661264,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0276bb7d6e273:0x92faa7c409f2455a!8m2!3d21.7029724!4d72.9661264!16s%2Fg%2F1td6qpk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Welfare+Hospital+Bharuch+And+Research+Centre/@21.7029724,72.9661264,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0276bb7d6e273:0x92faa7c409f2455a!8m2!3d21.7029724!4d72.9661264!16s%2Fg%2F1td6qpk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9616,8 +9536,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Welfare+Hospital+Bharuch+And+Research+Centre/@21.7029724,72.9661264,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0276bb7d6e273:0x92faa7c409f2455a!8m2!3d21.7029724!4d72.9661264!16s%2Fg%2F1td6qpk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yash-medical-nursing-home-bharuch",
@@ -9665,7 +9584,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yash+Medical+Nursing+Home/data=!4m7!3m6!1s0x3be020a9daeda477:0x657e4421948ac796!8m2!3d21.6999649!4d72.9853826!16s%2Fg%2F1thx2hkw!19sChIJd6Tt2qkg4DsRlseKlCFEfmU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yash+Medical+Nursing+Home/data=!4m7!3m6!1s0x3be020a9daeda477:0x657e4421948ac796!8m2!3d21.6999649!4d72.9853826!16s%2Fg%2F1thx2hkw!19sChIJd6Tt2qkg4DsRlseKlCFEfmU?authuser=0&hl=en&rclk=1"
@@ -9734,8 +9653,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yash+Medical+Nursing+Home/data=!4m7!3m6!1s0x3be020a9daeda477:0x657e4421948ac796!8m2!3d21.6999649!4d72.9853826!16s%2Fg%2F1thx2hkw!19sChIJd6Tt2qkg4DsRlseKlCFEfmU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yashojay-hospital-bharuch",
@@ -9783,7 +9701,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yashojay+Hospital/data=!4m7!3m6!1s0x3be020b51b0f5005:0x80004fed74b4cb7d!8m2!3d21.7041501!4d72.9953377!16s%2Fg%2F11clgjss58!19sChIJBVAPG7Ug4DsRfcu0dO1PAIA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashojay+Hospital/data=!4m7!3m6!1s0x3be020b51b0f5005:0x80004fed74b4cb7d!8m2!3d21.7041501!4d72.9953377!16s%2Fg%2F11clgjss58!19sChIJBVAPG7Ug4DsRfcu0dO1PAIA?authuser=0&hl=en&rclk=1"
@@ -9852,8 +9770,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yashojay+Hospital/data=!4m7!3m6!1s0x3be020b51b0f5005:0x80004fed74b4cb7d!8m2!3d21.7041501!4d72.9953377!16s%2Fg%2F11clgjss58!19sChIJBVAPG7Ug4DsRfcu0dO1PAIA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "zain-hospital-bharuch",
@@ -9901,7 +9818,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Zain+Hospital/data=!4m7!3m6!1s0x3be0273615576459:0x87e1b4b519d5d1ed!8m2!3d21.6993533!4d72.9859314!16s%2Fg%2F11bbt5hyzt!19sChIJWWRXFTYn4DsR7dHVGbW04Yc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zain+Hospital/data=!4m7!3m6!1s0x3be0273615576459:0x87e1b4b519d5d1ed!8m2!3d21.6993533!4d72.9859314!16s%2Fg%2F11bbt5hyzt!19sChIJWWRXFTYn4DsR7dHVGbW04Yc?authuser=0&hl=en&rclk=1"
@@ -9970,8 +9887,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Zain+Hospital/data=!4m7!3m6!1s0x3be0273615576459:0x87e1b4b519d5d1ed!8m2!3d21.6993533!4d72.9859314!16s%2Fg%2F11bbt5hyzt!19sChIJWWRXFTYn4DsR7dHVGbW04Yc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "zeal-dental-care-and-implant-centre-bharuch",
@@ -10019,7 +9935,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Zeal+Dental+Care+and+Implant+Centre/data=!4m7!3m6!1s0x3be0270069cf26e1:0x4be5c4bd274b9366!8m2!3d21.7000086!4d72.9855656!16s%2Fg%2F11lcdsgnbc!19sChIJ4SbPaQAn4DsRZpNLJ73E5Us?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zeal+Dental+Care+and+Implant+Centre/data=!4m7!3m6!1s0x3be0270069cf26e1:0x4be5c4bd274b9366!8m2!3d21.7000086!4d72.9855656!16s%2Fg%2F11lcdsgnbc!19sChIJ4SbPaQAn4DsRZpNLJ73E5Us?authuser=0&hl=en&rclk=1"
@@ -10088,8 +10004,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Zeal+Dental+Care+and+Implant+Centre/data=!4m7!3m6!1s0x3be0270069cf26e1:0x4be5c4bd274b9366!8m2!3d21.7000086!4d72.9855656!16s%2Fg%2F11lcdsgnbc!19sChIJ4SbPaQAn4DsRZpNLJ73E5Us?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "zeel-surgical-hospital-bharuch",
@@ -10138,7 +10053,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ZEEL+SURGICAL+HOSPITAL/data=!4m7!3m6!1s0x3be020b56ba97b19:0x8fcfad5dfa5eb502!8m2!3d21.7041886!4d72.9956884!16s%2Fg%2F1hm23xxy2!19sChIJGXupa7Ug4DsRArVe-l2tz48?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ZEEL+SURGICAL+HOSPITAL/data=!4m7!3m6!1s0x3be020b56ba97b19:0x8fcfad5dfa5eb502!8m2!3d21.7041886!4d72.9956884!16s%2Fg%2F1hm23xxy2!19sChIJGXupa7Ug4DsRArVe-l2tz48?authuser=0&hl=en&rclk=1"
@@ -10207,8 +10122,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ZEEL+SURGICAL+HOSPITAL/data=!4m7!3m6!1s0x3be020b56ba97b19:0x8fcfad5dfa5eb502!8m2!3d21.7041886!4d72.9956884!16s%2Fg%2F1hm23xxy2!19sChIJGXupa7Ug4DsRArVe-l2tz48?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "best-dental-implant-clinic-best-rct-specialist-in-bharuch-bharuch",
@@ -10256,7 +10170,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF+-Best+Dental+Implant+Clinic+%7CBest+RCT+Specialist+in+Bharuch/data=!4m7!3m6!1s0x3be0276921fe8a43:0xa15f0baaada65270!8m2!3d21.7015691!4d72.9682792!16s%2Fg%2F1q6h_qjwx!19sChIJQ4r-IWkn4DsRcFKmraoLX6E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF+-Best+Dental+Implant+Clinic+%7CBest+RCT+Specialist+in+Bharuch/data=!4m7!3m6!1s0x3be0276921fe8a43:0xa15f0baaada65270!8m2!3d21.7015691!4d72.9682792!16s%2Fg%2F1q6h_qjwx!19sChIJQ4r-IWkn4DsRcFKmraoLX6E?authuser=0&hl=en&rclk=1"
@@ -10325,7 +10239,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF+-Best+Dental+Implant+Clinic+%7CBest+RCT+Specialist+in+Bharuch/data=!4m7!3m6!1s0x3be0276921fe8a43:0xa15f0baaada65270!8m2!3d21.7015691!4d72.9682792!16s%2Fg%2F1q6h_qjwx!19sChIJQ4r-IWkn4DsRcFKmraoLX6E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

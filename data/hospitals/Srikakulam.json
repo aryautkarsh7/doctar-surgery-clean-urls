@@ -46,7 +46,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Abhaya+Hospital/data=!4m7!3m6!1s0x3a3c15602e5b6d89:0x79d81726d6667745!8m2!3d18.3057164!4d83.8927794!16s%2Fg%2F11vz7xmv7r!19sChIJiW1bLmAVPDoRRXdm1iYX2Hk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abhaya+Hospital/data=!4m7!3m6!1s0x3a3c15602e5b6d89:0x79d81726d6667745!8m2!3d18.3057164!4d83.8927794!16s%2Fg%2F11vz7xmv7r!19sChIJiW1bLmAVPDoRRXdm1iYX2Hk?authuser=0&hl=en&rclk=1"
@@ -115,8 +115,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Abhaya+Hospital/data=!4m7!3m6!1s0x3a3c15602e5b6d89:0x79d81726d6667745!8m2!3d18.3057164!4d83.8927794!16s%2Fg%2F11vz7xmv7r!19sChIJiW1bLmAVPDoRRXdm1iYX2Hk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "andal-dental-care-srikakulam",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Andal+Dental+Care/data=!4m7!3m6!1s0x3a3c15152cb2cbed:0x733e904103f3c8d2!8m2!3d18.3041802!4d83.8945606!16s%2Fg%2F11x33n952q!19sChIJ7cuyLBUVPDoR0sjzA0GQPnM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Andal+Dental+Care/data=!4m7!3m6!1s0x3a3c15152cb2cbed:0x733e904103f3c8d2!8m2!3d18.3041802!4d83.8945606!16s%2Fg%2F11x33n952q!19sChIJ7cuyLBUVPDoR0sjzA0GQPnM?authuser=0&hl=en&rclk=1"
@@ -233,8 +232,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Andal+Dental+Care/data=!4m7!3m6!1s0x3a3c15152cb2cbed:0x733e904103f3c8d2!8m2!3d18.3041802!4d83.8945606!16s%2Fg%2F11x33n952q!19sChIJ7cuyLBUVPDoR0sjzA0GQPnM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apple-international-dental-srikakulam",
@@ -282,7 +280,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/APPLE+INTERNATIONAL+DENTAL/data=!4m7!3m6!1s0x3a3c15659ba16a2b:0x53cae115073cbe0e!8m2!3d18.3080801!4d83.8891557!16s%2Fg%2F11x8yvvqlv!19sChIJK2qhm2UVPDoRDr48BxXhylM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/APPLE+INTERNATIONAL+DENTAL/data=!4m7!3m6!1s0x3a3c15659ba16a2b:0x53cae115073cbe0e!8m2!3d18.3080801!4d83.8891557!16s%2Fg%2F11x8yvvqlv!19sChIJK2qhm2UVPDoRDr48BxXhylM?authuser=0&hl=en&rclk=1"
@@ -348,11 +346,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/APPLE+INTERNATIONAL+DENTAL/data=!4m7!3m6!1s0x3a3c15659ba16a2b:0x53cae115073cbe0e!8m2!3d18.3080801!4d83.8891557!16s%2Fg%2F11x8yvvqlv!19sChIJK2qhm2UVPDoRDr48BxXhylM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asian-cancer-hospital-srikakulam",
@@ -401,7 +398,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asian+Cancer+Hospital/data=!4m7!3m6!1s0x3a3c1535d4555443:0xbd18edbcb3ce56f4!8m2!3d18.3061445!4d83.8940083!16s%2Fg%2F11x7ysq1p3!19sChIJQ1RV1DUVPDoR9FbOs7ztGL0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Cancer+Hospital/data=!4m7!3m6!1s0x3a3c1535d4555443:0xbd18edbcb3ce56f4!8m2!3d18.3061445!4d83.8940083!16s%2Fg%2F11x7ysq1p3!19sChIJQ1RV1DUVPDoR9FbOs7ztGL0?authuser=0&hl=en&rclk=1"
@@ -470,8 +467,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asian+Cancer+Hospital/data=!4m7!3m6!1s0x3a3c1535d4555443:0xbd18edbcb3ce56f4!8m2!3d18.3061445!4d83.8940083!16s%2Fg%2F11x7ysq1p3!19sChIJQ1RV1DUVPDoR9FbOs7ztGL0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "baggu-sarojini-devi-hospital-srikakulam",
@@ -520,7 +516,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Baggu+Sarojini+Devi+Hospital/data=!4m7!3m6!1s0x3a3c152249e29535:0xe285c9ba6ead0097!8m2!3d18.3092216!4d83.897463!16s%2Fg%2F11cs09pkyz!19sChIJNZXiSSIVPDoRlwCtbrrJheI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Baggu+Sarojini+Devi+Hospital/data=!4m7!3m6!1s0x3a3c152249e29535:0xe285c9ba6ead0097!8m2!3d18.3092216!4d83.897463!16s%2Fg%2F11cs09pkyz!19sChIJNZXiSSIVPDoRlwCtbrrJheI?authuser=0&hl=en&rclk=1"
@@ -589,8 +585,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Baggu+Sarojini+Devi+Hospital/data=!4m7!3m6!1s0x3a3c152249e29535:0xe285c9ba6ead0097!8m2!3d18.3092216!4d83.897463!16s%2Fg%2F11cs09pkyz!19sChIJNZXiSSIVPDoRlwCtbrrJheI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bmr-medical-centre-srikakulam",
@@ -638,7 +633,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BMR+MEDICAL+CENTRE/data=!4m7!3m6!1s0x3a3c14e4ed86351b:0x2a3567d0582e362a!8m2!3d18.2967289!4d83.8829083!16s%2Fg%2F11tdr25w91!19sChIJGzWG7eQUPDoRKjYuWNBnNSo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BMR+MEDICAL+CENTRE/data=!4m7!3m6!1s0x3a3c14e4ed86351b:0x2a3567d0582e362a!8m2!3d18.2967289!4d83.8829083!16s%2Fg%2F11tdr25w91!19sChIJGzWG7eQUPDoRKjYuWNBnNSo?authuser=0&hl=en&rclk=1"
@@ -707,8 +702,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BMR+MEDICAL+CENTRE/data=!4m7!3m6!1s0x3a3c14e4ed86351b:0x2a3567d0582e362a!8m2!3d18.2967289!4d83.8829083!16s%2Fg%2F11tdr25w91!19sChIJGzWG7eQUPDoRKjYuWNBnNSo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-and-cure-hospital-srikakulam",
@@ -756,7 +750,7 @@
     "metrics": [
       "Google rating 2.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Care+and+cure+hospital/data=!4m7!3m6!1s0x3a3c15476e064145:0xcdf12e9ea9726d2!8m2!3d18.3057464!4d83.8954895!16s%2Fg%2F11gflzhd1q!19sChIJRUEGbkcVPDoR0iaX6ukS3ww?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+and+cure+hospital/data=!4m7!3m6!1s0x3a3c15476e064145:0xcdf12e9ea9726d2!8m2!3d18.3057464!4d83.8954895!16s%2Fg%2F11gflzhd1q!19sChIJRUEGbkcVPDoR0iaX6ukS3ww?authuser=0&hl=en&rclk=1"
@@ -825,8 +819,7 @@
     "rating": 2.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Care+and+cure+hospital/data=!4m7!3m6!1s0x3a3c15476e064145:0xcdf12e9ea9726d2!8m2!3d18.3057464!4d83.8954895!16s%2Fg%2F11gflzhd1q!19sChIJRUEGbkcVPDoR0iaX6ukS3ww?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmediq-clinic-best-skin-and-hair-care-clinic-in-srikakulam-prp-laser-hair-removal-acne-scar-and-skin-glow-treatments-srikakulam",
@@ -875,7 +868,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CosMediQ+Clinic%E2%80%93Best+Skin+%26+Hair+Care+Clinic+in+Srikakulam+%7C+PRP,+Laser+Hair+Removal,+Acne+Scar+%26+Skin+Glow+Treatments/data=!4m7!3m6!1s0x3a3c158330c37191:0x30089c8d933da624!8m2!3d18.3060156!4d83.8973059!16s%2Fg%2F11ml__9hvq!19sChIJkXHDMIMVPDoRJKY9k42cCDA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CosMediQ+Clinic%E2%80%93Best+Skin+%26+Hair+Care+Clinic+in+Srikakulam+%7C+PRP,+Laser+Hair+Removal,+Acne+Scar+%26+Skin+Glow+Treatments/data=!4m7!3m6!1s0x3a3c158330c37191:0x30089c8d933da624!8m2!3d18.3060156!4d83.8973059!16s%2Fg%2F11ml__9hvq!19sChIJkXHDMIMVPDoRJKY9k42cCDA?authuser=0&hl=en&rclk=1"
@@ -944,8 +937,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CosMediQ+Clinic%E2%80%93Best+Skin+%26+Hair+Care+Clinic+in+Srikakulam+%7C+PRP,+Laser+Hair+Removal,+Acne+Scar+%26+Skin+Glow+Treatments/data=!4m7!3m6!1s0x3a3c158330c37191:0x30089c8d933da624!8m2!3d18.3060156!4d83.8973059!16s%2Fg%2F11ml__9hvq!19sChIJkXHDMIMVPDoRJKY9k42cCDA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "day-and-night-dental-clinic-best-dental-clinic-in-srikakulam-srikakulam",
@@ -993,7 +985,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Day+and+Night+Dental+Clinic+%7C+Best+Dental+Clinic+in+Srikakulam/data=!4m7!3m6!1s0x3a3c15759bec87f1:0x6a2e95916a27b32b!8m2!3d18.3056693!4d83.8955507!16s%2Fg%2F11s16g8_mx!19sChIJ8Yfsm3UVPDoRK7MnapGVLmo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Day+and+Night+Dental+Clinic+%7C+Best+Dental+Clinic+in+Srikakulam/data=!4m7!3m6!1s0x3a3c15759bec87f1:0x6a2e95916a27b32b!8m2!3d18.3056693!4d83.8955507!16s%2Fg%2F11s16g8_mx!19sChIJ8Yfsm3UVPDoRK7MnapGVLmo?authuser=0&hl=en&rclk=1"
@@ -1062,8 +1054,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Day+and+Night+Dental+Clinic+%7C+Best+Dental+Clinic+in+Srikakulam/data=!4m7!3m6!1s0x3a3c15759bec87f1:0x6a2e95916a27b32b!8m2!3d18.3056693!4d83.8955507!16s%2Fg%2F11s16g8_mx!19sChIJ8Yfsm3UVPDoRK7MnapGVLmo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhanalakshmi-dental-clinic-srikakulam",
@@ -1111,7 +1102,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/dhanalakshmi+dental+clinic/data=!4m7!3m6!1s0x3a3c151a0603a483:0x23f26d3036cc67f1!8m2!3d18.2936566!4d83.8942767!16s%2Fg%2F1hf3lt89b!19sChIJg6QDBhoVPDoR8WfMNjBt8iM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/dhanalakshmi+dental+clinic/data=!4m7!3m6!1s0x3a3c151a0603a483:0x23f26d3036cc67f1!8m2!3d18.2936566!4d83.8942767!16s%2Fg%2F1hf3lt89b!19sChIJg6QDBhoVPDoR8WfMNjBt8iM?authuser=0&hl=en&rclk=1"
@@ -1177,11 +1168,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/dhanalakshmi+dental+clinic/data=!4m7!3m6!1s0x3a3c151a0603a483:0x23f26d3036cc67f1!8m2!3d18.2936566!4d83.8942767!16s%2Fg%2F1hf3lt89b!19sChIJg6QDBhoVPDoR8WfMNjBt8iM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dr-bagaadi-jagan-srikakulam",
@@ -1229,7 +1219,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dr;+Bagaadi+Jagan/data=!4m7!3m6!1s0x3a3c151f606eaf77:0xfcaadfd547767377!8m2!3d18.3063063!4d83.8935854!16s%2Fg%2F11gflzq21y!19sChIJd69uYB8VPDoRd3N2R9Xfqvw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dr;+Bagaadi+Jagan/data=!4m7!3m6!1s0x3a3c151f606eaf77:0xfcaadfd547767377!8m2!3d18.3063063!4d83.8935854!16s%2Fg%2F11gflzq21y!19sChIJd69uYB8VPDoRd3N2R9Xfqvw?authuser=0&hl=en&rclk=1"
@@ -1298,8 +1288,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dr;+Bagaadi+Jagan/data=!4m7!3m6!1s0x3a3c151f606eaf77:0xfcaadfd547767377!8m2!3d18.3063063!4d83.8935854!16s%2Fg%2F11gflzq21y!19sChIJd69uYB8VPDoRd3N2R9Xfqvw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "good-health-hospitals-srikakulam",
@@ -1347,7 +1336,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Good+Health+Hospitals/data=!4m7!3m6!1s0x3a3c15cdc68044b1:0x2b5cca2efb4b2d32!8m2!3d18.3079402!4d83.8932512!16s%2Fg%2F11lgg4tgh1!19sChIJsUSAxs0VPDoRMi1L-y7KXCs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Good+Health+Hospitals/data=!4m7!3m6!1s0x3a3c15cdc68044b1:0x2b5cca2efb4b2d32!8m2!3d18.3079402!4d83.8932512!16s%2Fg%2F11lgg4tgh1!19sChIJsUSAxs0VPDoRMi1L-y7KXCs?authuser=0&hl=en&rclk=1"
@@ -1416,8 +1405,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Good+Health+Hospitals/data=!4m7!3m6!1s0x3a3c15cdc68044b1:0x2b5cca2efb4b2d32!8m2!3d18.3079402!4d83.8932512!16s%2Fg%2F11lgg4tgh1!19sChIJsUSAxs0VPDoRMi1L-y7KXCs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-general-hospital-srikakulam-srikakulam",
@@ -1466,7 +1454,7 @@
       "Google rating 2.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+General+Hospital,+Srikakulam/data=!4m7!3m6!1s0x3a3c15271a6ab4cf:0xd63372986e5f78f9!8m2!3d18.3129167!4d83.8885671!16s%2Fg%2F11q7zyvpc0!19sChIJz7RqGicVPDoR-XhfbphyM9Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+General+Hospital,+Srikakulam/data=!4m7!3m6!1s0x3a3c15271a6ab4cf:0xd63372986e5f78f9!8m2!3d18.3129167!4d83.8885671!16s%2Fg%2F11q7zyvpc0!19sChIJz7RqGicVPDoR-XhfbphyM9Y?authuser=0&hl=en&rclk=1"
@@ -1535,8 +1523,7 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+General+Hospital,+Srikakulam/data=!4m7!3m6!1s0x3a3c15271a6ab4cf:0xd63372986e5f78f9!8m2!3d18.3129167!4d83.8885671!16s%2Fg%2F11q7zyvpc0!19sChIJz7RqGicVPDoR-XhfbphyM9Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hair-creations-srikakulam-srikakulam",
@@ -1584,7 +1571,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hair+Creations+Srikakulam/data=!4m7!3m6!1s0x3a3c156c08c9fba9:0xda9b9dcee057fb20!8m2!3d18.3060318!4d83.893857!16s%2Fg%2F11rzjfbsh3!19sChIJqfvJCGwVPDoRIPtX4M6dm9o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hair+Creations+Srikakulam/data=!4m7!3m6!1s0x3a3c156c08c9fba9:0xda9b9dcee057fb20!8m2!3d18.3060318!4d83.893857!16s%2Fg%2F11rzjfbsh3!19sChIJqfvJCGwVPDoRIPtX4M6dm9o?authuser=0&hl=en&rclk=1"
@@ -1653,8 +1640,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hair+Creations+Srikakulam/data=!4m7!3m6!1s0x3a3c156c08c9fba9:0xda9b9dcee057fb20!8m2!3d18.3060318!4d83.893857!16s%2Fg%2F11rzjfbsh3!19sChIJqfvJCGwVPDoRIPtX4M6dm9o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "haranadh-hospitals-srikakulam",
@@ -1702,7 +1688,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HARANADH+HOSPITALS/data=!4m7!3m6!1s0x3a3c15319c62c669:0x17a881440121ec1c!8m2!3d18.3090185!4d83.8922875!16s%2Fg%2F11smfn6mk7!19sChIJacZinDEVPDoRHOwhAUSBqBc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HARANADH+HOSPITALS/data=!4m7!3m6!1s0x3a3c15319c62c669:0x17a881440121ec1c!8m2!3d18.3090185!4d83.8922875!16s%2Fg%2F11smfn6mk7!19sChIJacZinDEVPDoRHOwhAUSBqBc?authuser=0&hl=en&rclk=1"
@@ -1771,8 +1757,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HARANADH+HOSPITALS/data=!4m7!3m6!1s0x3a3c15319c62c669:0x17a881440121ec1c!8m2!3d18.3090185!4d83.8922875!16s%2Fg%2F11smfn6mk7!19sChIJacZinDEVPDoRHOwhAUSBqBc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hari-prasad-kidney-centre-srikakulam",
@@ -1822,7 +1807,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hari+Prasad+Kidney+Centre/data=!4m7!3m6!1s0x3a3c15001760d7b3:0x81abf9f31d0e0ad9!8m2!3d18.3136174!4d83.8910036!16s%2Fg%2F11wplw448r!19sChIJs9dgFwAVPDoR2QoOHfP5q4E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hari+Prasad+Kidney+Centre/data=!4m7!3m6!1s0x3a3c15001760d7b3:0x81abf9f31d0e0ad9!8m2!3d18.3136174!4d83.8910036!16s%2Fg%2F11wplw448r!19sChIJs9dgFwAVPDoR2QoOHfP5q4E?authuser=0&hl=en&rclk=1"
@@ -1891,8 +1876,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hari+Prasad+Kidney+Centre/data=!4m7!3m6!1s0x3a3c15001760d7b3:0x81abf9f31d0e0ad9!8m2!3d18.3136174!4d83.8910036!16s%2Fg%2F11wplw448r!19sChIJs9dgFwAVPDoR2QoOHfP5q4E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hn-advanced-laproscopy-and-hernia-center-srikakulam",
@@ -1941,7 +1925,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HN+ADVANCED+LAPROSCOPY+AND+HERNIA+CENTER/data=!4m7!3m6!1s0x3a3c159cbf7475dd:0x2f85056c9997a9d5!8m2!3d18.30502!4d83.8975166!16s%2Fg%2F11yqlw3xpj!19sChIJ3XV0v5wVPDoR1amXmWwFhS8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HN+ADVANCED+LAPROSCOPY+AND+HERNIA+CENTER/data=!4m7!3m6!1s0x3a3c159cbf7475dd:0x2f85056c9997a9d5!8m2!3d18.30502!4d83.8975166!16s%2Fg%2F11yqlw3xpj!19sChIJ3XV0v5wVPDoR1amXmWwFhS8?authuser=0&hl=en&rclk=1"
@@ -2010,8 +1994,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HN+ADVANCED+LAPROSCOPY+AND+HERNIA+CENTER/data=!4m7!3m6!1s0x3a3c159cbf7475dd:0x2f85056c9997a9d5!8m2!3d18.30502!4d83.8975166!16s%2Fg%2F11yqlw3xpj!19sChIJ3XV0v5wVPDoR1amXmWwFhS8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "janani-mother-and-child-hospital-srikakulam",
@@ -2060,7 +2043,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Janani+mother+and+child+hospital/data=!4m7!3m6!1s0x3a3c151f6dfded37:0x8690f8837eaeaccd!8m2!3d18.305297!4d83.893043!16s%2Fg%2F11g9dgg4lq!19sChIJN-39bR8VPDoRzayufoP4kIY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janani+mother+and+child+hospital/data=!4m7!3m6!1s0x3a3c151f6dfded37:0x8690f8837eaeaccd!8m2!3d18.305297!4d83.893043!16s%2Fg%2F11g9dgg4lq!19sChIJN-39bR8VPDoRzayufoP4kIY?authuser=0&hl=en&rclk=1"
@@ -2126,11 +2109,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Janani+mother+and+child+hospital/data=!4m7!3m6!1s0x3a3c151f6dfded37:0x8690f8837eaeaccd!8m2!3d18.305297!4d83.893043!16s%2Fg%2F11g9dgg4lq!19sChIJN-39bR8VPDoRzayufoP4kIY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jvr-skin-and-hair-hospital-srikakulam",
@@ -2178,7 +2160,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JVR+Skin+%26+Hair+Hospital/data=!4m7!3m6!1s0x3a3c15ad2089b827:0x5dfe17020a66b42a!8m2!3d18.2994389!4d83.8948881!16s%2Fg%2F11vbjb8fhz!19sChIJJ7iJIK0VPDoRKrRmCgIX_l0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JVR+Skin+%26+Hair+Hospital/data=!4m7!3m6!1s0x3a3c15ad2089b827:0x5dfe17020a66b42a!8m2!3d18.2994389!4d83.8948881!16s%2Fg%2F11vbjb8fhz!19sChIJJ7iJIK0VPDoRKrRmCgIX_l0?authuser=0&hl=en&rclk=1"
@@ -2244,11 +2226,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JVR+Skin+%26+Hair+Hospital/data=!4m7!3m6!1s0x3a3c15ad2089b827:0x5dfe17020a66b42a!8m2!3d18.2994389!4d83.8948881!16s%2Fg%2F11vbjb8fhz!19sChIJJ7iJIK0VPDoRKrRmCgIX_l0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kims-srikakulam-srikakulam",
@@ -2297,7 +2278,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KIMS+Srikakulam/data=!4m7!3m6!1s0x3a3c14e7754a0ceb:0x16c66b15b0252d30!8m2!3d18.3044497!4d83.8819085!16s%2Fg%2F1hhhcgp1z!19sChIJ6wxKdecUPDoRMC0lsBVrxhY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMS+Srikakulam/data=!4m7!3m6!1s0x3a3c14e7754a0ceb:0x16c66b15b0252d30!8m2!3d18.3044497!4d83.8819085!16s%2Fg%2F1hhhcgp1z!19sChIJ6wxKdecUPDoRMC0lsBVrxhY?authuser=0&hl=en&rclk=1"
@@ -2366,8 +2347,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KIMS+Srikakulam/data=!4m7!3m6!1s0x3a3c14e7754a0ceb:0x16c66b15b0252d30!8m2!3d18.3044497!4d83.8819085!16s%2Fg%2F1hhhcgp1z!19sChIJ6wxKdecUPDoRMC0lsBVrxhY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-dental-and-craniofacial-hospital-srikakulam",
@@ -2415,7 +2395,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KRISHNA+DENTAL+%26+CRANIOFACIAL+HOSPITAL/data=!4m7!3m6!1s0x3a3c15b60c231f45:0xe42f19713623913a!8m2!3d18.2947447!4d83.9009286!16s%2Fg%2F11hjdp5m_n!19sChIJRR8jDLYVPDoROpEjNnEZL-Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KRISHNA+DENTAL+%26+CRANIOFACIAL+HOSPITAL/data=!4m7!3m6!1s0x3a3c15b60c231f45:0xe42f19713623913a!8m2!3d18.2947447!4d83.9009286!16s%2Fg%2F11hjdp5m_n!19sChIJRR8jDLYVPDoROpEjNnEZL-Q?authuser=0&hl=en&rclk=1"
@@ -2484,8 +2464,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KRISHNA+DENTAL+%26+CRANIOFACIAL+HOSPITAL/data=!4m7!3m6!1s0x3a3c15b60c231f45:0xe42f19713623913a!8m2!3d18.2947447!4d83.9009286!16s%2Fg%2F11hjdp5m_n!19sChIJRR8jDLYVPDoROpEjNnEZL-Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-hospital-best-hospital-in-srikakulam-srikakulam",
@@ -2534,7 +2513,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+Hospital+%7C+Best+Hospital+In+Srikakulam/data=!4m7!3m6!1s0x3a3c151f69223d2d:0xc975c9fb4e3f310e!8m2!3d18.3065171!4d83.8930342!16s%2Fg%2F11gds0ztt0!19sChIJLT0iaR8VPDoRDjE_TvvJdck?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Hospital+%7C+Best+Hospital+In+Srikakulam/data=!4m7!3m6!1s0x3a3c151f69223d2d:0xc975c9fb4e3f310e!8m2!3d18.3065171!4d83.8930342!16s%2Fg%2F11gds0ztt0!19sChIJLT0iaR8VPDoRDjE_TvvJdck?authuser=0&hl=en&rclk=1"
@@ -2600,11 +2579,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+Hospital+%7C+Best+Hospital+In+Srikakulam/data=!4m7!3m6!1s0x3a3c151f69223d2d:0xc975c9fb4e3f310e!8m2!3d18.3065171!4d83.8930342!16s%2Fg%2F11gds0ztt0!19sChIJLT0iaR8VPDoRDjE_TvvJdck?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-ray-hospital-mahalakshmi-life-ray-hospital-best-hospital-in-srikakulam-srikakulam",
@@ -2652,7 +2630,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LIFE+RAY+HOSPITAL+-+Mahalakshmi+Life+Ray+Hospital+%28Best+Hospital+in+Srikakulam%29/data=!4m7!3m6!1s0x3a3c1540258fdea3:0x4796b299dc378be9!8m2!3d18.3038243!4d83.8757433!16s%2Fg%2F11rkf39k1z!19sChIJo96PJUAVPDoR6Ys33Jmylkc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LIFE+RAY+HOSPITAL+-+Mahalakshmi+Life+Ray+Hospital+%28Best+Hospital+in+Srikakulam%29/data=!4m7!3m6!1s0x3a3c1540258fdea3:0x4796b299dc378be9!8m2!3d18.3038243!4d83.8757433!16s%2Fg%2F11rkf39k1z!19sChIJo96PJUAVPDoR6Ys33Jmylkc?authuser=0&hl=en&rclk=1"
@@ -2718,11 +2696,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LIFE+RAY+HOSPITAL+-+Mahalakshmi+Life+Ray+Hospital+%28Best+Hospital+in+Srikakulam%29/data=!4m7!3m6!1s0x3a3c1540258fdea3:0x4796b299dc378be9!8m2!3d18.3038243!4d83.8757433!16s%2Fg%2F11rkf39k1z!19sChIJo96PJUAVPDoR6Ys33Jmylkc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "little-masters-hospital-srikakulam",
@@ -2770,7 +2747,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Little+Masters+Hospital/data=!4m7!3m6!1s0x3a3c15f99c88f991:0x624b532dafcb1ef3!8m2!3d18.3037366!4d83.8767007!16s%2Fg%2F11y3w3_gzx!19sChIJkfmInPkVPDoR8x7Lry1TS2I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Little+Masters+Hospital/data=!4m7!3m6!1s0x3a3c15f99c88f991:0x624b532dafcb1ef3!8m2!3d18.3037366!4d83.8767007!16s%2Fg%2F11y3w3_gzx!19sChIJkfmInPkVPDoR8x7Lry1TS2I?authuser=0&hl=en&rclk=1"
@@ -2839,8 +2816,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Little+Masters+Hospital/data=!4m7!3m6!1s0x3a3c15f99c88f991:0x624b532dafcb1ef3!8m2!3d18.3037366!4d83.8767007!16s%2Fg%2F11y3w3_gzx!19sChIJkfmInPkVPDoR8x7Lry1TS2I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medicover-hospitals-best-hospital-in-srikakulam-srikakulam",
@@ -2889,7 +2865,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Srikakulam/data=!4m7!3m6!1s0x3a3c15d120be54db:0x1a9d447863f61003!8m2!3d18.3045725!4d83.876896!16s%2Fg%2F11lfgs_1wn!19sChIJ21S-INEVPDoRAxD2Y3hEnRo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Srikakulam/data=!4m7!3m6!1s0x3a3c15d120be54db:0x1a9d447863f61003!8m2!3d18.3045725!4d83.876896!16s%2Fg%2F11lfgs_1wn!19sChIJ21S-INEVPDoRAxD2Y3hEnRo?authuser=0&hl=en&rclk=1"
@@ -2958,8 +2934,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Srikakulam/data=!4m7!3m6!1s0x3a3c15d120be54db:0x1a9d447863f61003!8m2!3d18.3045725!4d83.876896!16s%2Fg%2F11lfgs_1wn!19sChIJ21S-INEVPDoRAxD2Y3hEnRo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meenakshi-hospital-srikakulam",
@@ -3008,7 +2983,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Meenakshi+Hospital/data=!4m7!3m6!1s0x3a3c153486744acd:0xf9e39a99f5d587ca!8m2!3d18.3073178!4d83.8928842!16s%2Fg%2F11rth9jqdr!19sChIJzUp0hjQVPDoRyofV9Zma4_k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meenakshi+Hospital/data=!4m7!3m6!1s0x3a3c153486744acd:0xf9e39a99f5d587ca!8m2!3d18.3073178!4d83.8928842!16s%2Fg%2F11rth9jqdr!19sChIJzUp0hjQVPDoRyofV9Zma4_k?authuser=0&hl=en&rclk=1"
@@ -3077,8 +3052,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Meenakshi+Hospital/data=!4m7!3m6!1s0x3a3c153486744acd:0xf9e39a99f5d587ca!8m2!3d18.3073178!4d83.8928842!16s%2Fg%2F11rth9jqdr!19sChIJzUp0hjQVPDoRyofV9Zma4_k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "modern-hospital-srikakulam",
@@ -3126,7 +3100,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Modern+Hospital/data=!4m7!3m6!1s0x3a3c1521b785f70b:0x7e84c0834ae356c6!8m2!3d18.3080223!4d83.8929936!16s%2Fg%2F11f4l9g5kj!19sChIJC_eFtyEVPDoRxlbjSoPAhH4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modern+Hospital/data=!4m7!3m6!1s0x3a3c1521b785f70b:0x7e84c0834ae356c6!8m2!3d18.3080223!4d83.8929936!16s%2Fg%2F11f4l9g5kj!19sChIJC_eFtyEVPDoRxlbjSoPAhH4?authuser=0&hl=en&rclk=1"
@@ -3195,8 +3169,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Modern+Hospital/data=!4m7!3m6!1s0x3a3c1521b785f70b:0x7e84c0834ae356c6!8m2!3d18.3080223!4d83.8929936!16s%2Fg%2F11f4l9g5kj!19sChIJC_eFtyEVPDoRxlbjSoPAhH4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neelima-dental-clinic-srikakulam",
@@ -3244,7 +3217,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neelima+dental+clinic/data=!4m7!3m6!1s0x3a3c15d625a53403:0x39d60778db3c4074!8m2!3d18.3044627!4d83.8793005!16s%2Fg%2F11kpqlr058!19sChIJAzSlJdYVPDoRdEA823gH1jk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neelima+dental+clinic/data=!4m7!3m6!1s0x3a3c15d625a53403:0x39d60778db3c4074!8m2!3d18.3044627!4d83.8793005!16s%2Fg%2F11kpqlr058!19sChIJAzSlJdYVPDoRdEA823gH1jk?authuser=0&hl=en&rclk=1"
@@ -3310,11 +3283,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neelima+dental+clinic/data=!4m7!3m6!1s0x3a3c15d625a53403:0x39d60778db3c4074!8m2!3d18.3044627!4d83.8793005!16s%2Fg%2F11kpqlr058!19sChIJAzSlJdYVPDoRdEA823gH1jk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "partha-dental-clinic-srikakulam-invisalign-provider-braces-rct-and-dental-implant-centre-srikakulam",
@@ -3363,7 +3335,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Srikakulam+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Braces,+RCT+%26+Dental+Implant+Centre/data=!4m7!3m6!1s0x3a3c1521e35dfc57:0xd2d2040cd998286e!8m2!3d18.3058965!4d83.8944134!16s%2Fg%2F11c531zhtf!19sChIJV_xd4yEVPDoRbiiY2QwE0tI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Srikakulam+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Braces,+RCT+%26+Dental+Implant+Centre/data=!4m7!3m6!1s0x3a3c1521e35dfc57:0xd2d2040cd998286e!8m2!3d18.3058965!4d83.8944134!16s%2Fg%2F11c531zhtf!19sChIJV_xd4yEVPDoRbiiY2QwE0tI?authuser=0&hl=en&rclk=1"
@@ -3432,8 +3404,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Srikakulam+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Braces,+RCT+%26+Dental+Implant+Centre/data=!4m7!3m6!1s0x3a3c1521e35dfc57:0xd2d2040cd998286e!8m2!3d18.3058965!4d83.8944134!16s%2Fg%2F11c531zhtf!19sChIJV_xd4yEVPDoRbiiY2QwE0tI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "physiotherapy-physical-healing-srikakulam",
@@ -3482,7 +3453,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Physiotherapy+%2F+Physical+healing/data=!4m7!3m6!1s0x3a3c152e5217c665:0x22274a16c7f102ac!8m2!3d18.3095477!4d83.8924444!16s%2Fg%2F11mdq1g4bv!19sChIJZcYXUi4VPDoRrALxxxZKJyI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Physiotherapy+%2F+Physical+healing/data=!4m7!3m6!1s0x3a3c152e5217c665:0x22274a16c7f102ac!8m2!3d18.3095477!4d83.8924444!16s%2Fg%2F11mdq1g4bv!19sChIJZcYXUi4VPDoRrALxxxZKJyI?authuser=0&hl=en&rclk=1"
@@ -3551,8 +3522,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Physiotherapy+%2F+Physical+healing/data=!4m7!3m6!1s0x3a3c152e5217c665:0x22274a16c7f102ac!8m2!3d18.3095477!4d83.8924444!16s%2Fg%2F11mdq1g4bv!19sChIJZcYXUi4VPDoRrALxxxZKJyI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rainbow-hospitals-a1-hospital-srikakulam",
@@ -3600,7 +3570,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rainbow+hospitals%28A1+HOSPITAL%29/data=!4m7!3m6!1s0x3a3c151f58b97d93:0x781ad3ad0387757c!8m2!3d18.3064075!4d83.8938857!16s%2Fg%2F11bxf4hmnz!19sChIJk325WB8VPDoRfHWHA63TGng?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rainbow+hospitals%28A1+HOSPITAL%29/data=!4m7!3m6!1s0x3a3c151f58b97d93:0x781ad3ad0387757c!8m2!3d18.3064075!4d83.8938857!16s%2Fg%2F11bxf4hmnz!19sChIJk325WB8VPDoRfHWHA63TGng?authuser=0&hl=en&rclk=1"
@@ -3669,8 +3639,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rainbow+hospitals%28A1+HOSPITAL%29/data=!4m7!3m6!1s0x3a3c151f58b97d93:0x781ad3ad0387757c!8m2!3d18.3064075!4d83.8938857!16s%2Fg%2F11bxf4hmnz!19sChIJk325WB8VPDoRfHWHA63TGng?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rama-s-day-and-night-medical-complex-srikakulam",
@@ -3718,7 +3687,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rama%27s+day+and+night+medical+complex/data=!4m7!3m6!1s0x3a3c15913efdeb27:0x2b0932bab4a9515b!8m2!3d18.3054419!4d83.8957451!16s%2Fg%2F11r96ydgm9!19sChIJJ-v9PpEVPDoRW1GptLoyCSs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rama%27s+day+and+night+medical+complex/data=!4m7!3m6!1s0x3a3c15913efdeb27:0x2b0932bab4a9515b!8m2!3d18.3054419!4d83.8957451!16s%2Fg%2F11r96ydgm9!19sChIJJ-v9PpEVPDoRW1GptLoyCSs?authuser=0&hl=en&rclk=1"
@@ -3787,8 +3756,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rama%27s+day+and+night+medical+complex/data=!4m7!3m6!1s0x3a3c15913efdeb27:0x2b0932bab4a9515b!8m2!3d18.3054419!4d83.8957451!16s%2Fg%2F11r96ydgm9!19sChIJJ-v9PpEVPDoRW1GptLoyCSs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rjr-herbal-hospital-srikakulam-srikakulam",
@@ -3837,7 +3805,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+-+SRIKAKULAM/data=!4m7!3m6!1s0x3a3c158ccee72bcb:0xbc19258888eb1f69!8m2!3d18.3161392!4d83.8946103!16s%2Fg%2F11rtzl3s_1!19sChIJyyvnzowVPDoRaR_riIglGbw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+-+SRIKAKULAM/data=!4m7!3m6!1s0x3a3c158ccee72bcb:0xbc19258888eb1f69!8m2!3d18.3161392!4d83.8946103!16s%2Fg%2F11rtzl3s_1!19sChIJyyvnzowVPDoRaR_riIglGbw?authuser=0&hl=en&rclk=1"
@@ -3906,8 +3874,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+-+SRIKAKULAM/data=!4m7!3m6!1s0x3a3c158ccee72bcb:0xbc19258888eb1f69!8m2!3d18.3161392!4d83.8946103!16s%2Fg%2F11rtzl3s_1!19sChIJyyvnzowVPDoRaR_riIglGbw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-v-hospital-convent-junction",
@@ -3955,7 +3922,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S.V.+HOSPITAL/data=!4m7!3m6!1s0x3a3c1521dbe75ff3:0x9d9901f8bfaf5c23!8m2!3d18.3068127!4d83.8932658!16s%2Fg%2F11gg64rp30!19sChIJ81_n2yEVPDoRI1yvv_gBmZ0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.V.+HOSPITAL/data=!4m7!3m6!1s0x3a3c1521dbe75ff3:0x9d9901f8bfaf5c23!8m2!3d18.3068127!4d83.8932658!16s%2Fg%2F11gg64rp30!19sChIJ81_n2yEVPDoRI1yvv_gBmZ0?authuser=0&hl=en&rclk=1"
@@ -4024,8 +3991,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S.V.+HOSPITAL/data=!4m7!3m6!1s0x3a3c1521dbe75ff3:0x9d9901f8bfaf5c23!8m2!3d18.3068127!4d83.8932658!16s%2Fg%2F11gg64rp30!19sChIJ81_n2yEVPDoRI1yvv_gBmZ0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sadhana-hospital-srikakulam",
@@ -4074,7 +4040,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sadhana+Hospital/data=!4m7!3m6!1s0x3a3c1538df7c9d67:0xf535bb8754bb3cc1!8m2!3d18.3035924!4d83.8952799!16s%2Fg%2F11hsxj3stc!19sChIJZ5183zgVPDoRwTy7VIe7NfU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadhana+Hospital/data=!4m7!3m6!1s0x3a3c1538df7c9d67:0xf535bb8754bb3cc1!8m2!3d18.3035924!4d83.8952799!16s%2Fg%2F11hsxj3stc!19sChIJZ5183zgVPDoRwTy7VIe7NfU?authuser=0&hl=en&rclk=1"
@@ -4143,8 +4109,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sadhana+Hospital/data=!4m7!3m6!1s0x3a3c1538df7c9d67:0xf535bb8754bb3cc1!8m2!3d18.3035924!4d83.8952799!16s%2Fg%2F11hsxj3stc!19sChIJZ5183zgVPDoRwTy7VIe7NfU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-aditya-hospital-srikakulam",
@@ -4192,7 +4157,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Aditya+Hospital/data=!4m7!3m6!1s0x3a3c15b8495cea7b:0x41a24c20c761e195!8m2!3d18.3056052!4d83.8927937!16s%2Fg%2F11t2myfl9c!19sChIJe-pcSbgVPDoRleFhxyBMokE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Aditya+Hospital/data=!4m7!3m6!1s0x3a3c15b8495cea7b:0x41a24c20c761e195!8m2!3d18.3056052!4d83.8927937!16s%2Fg%2F11t2myfl9c!19sChIJe-pcSbgVPDoRleFhxyBMokE?authuser=0&hl=en&rclk=1"
@@ -4261,8 +4226,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Aditya+Hospital/data=!4m7!3m6!1s0x3a3c15b8495cea7b:0x41a24c20c761e195!8m2!3d18.3056052!4d83.8927937!16s%2Fg%2F11t2myfl9c!19sChIJe-pcSbgVPDoRleFhxyBMokE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarojini-laser-implant-and-orthodontic-dental-clinic-srikakulam",
@@ -4311,7 +4275,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarojini+Laser,+Implant+and+Orthodontic+Dental+Clinic/data=!4m7!3m6!1s0x3a3c151f161b938d:0x151c1bac393988fb!8m2!3d18.3070838!4d83.8942243!16s%2Fg%2F11f3zhrl2t!19sChIJjZMbFh8VPDoR-4g5OawbHBU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarojini+Laser,+Implant+and+Orthodontic+Dental+Clinic/data=!4m7!3m6!1s0x3a3c151f161b938d:0x151c1bac393988fb!8m2!3d18.3070838!4d83.8942243!16s%2Fg%2F11f3zhrl2t!19sChIJjZMbFh8VPDoR-4g5OawbHBU?authuser=0&hl=en&rclk=1"
@@ -4380,8 +4344,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarojini+Laser,+Implant+and+Orthodontic+Dental+Clinic/data=!4m7!3m6!1s0x3a3c151f161b938d:0x151c1bac393988fb!8m2!3d18.3070838!4d83.8942243!16s%2Fg%2F11f3zhrl2t!19sChIJjZMbFh8VPDoR-4g5OawbHBU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shanthi-hospitals-srikakulam",
@@ -4429,7 +4392,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shanthi+Hospitals/data=!4m7!3m6!1s0x3a3c151110e501d1:0x6a06fb69f7669b8!8m2!3d18.2988682!4d83.9037476!16s%2Fg%2F11gfnh3q6t!19sChIJ0QHlEBEVPDoRuGl2n7ZvoAY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanthi+Hospitals/data=!4m7!3m6!1s0x3a3c151110e501d1:0x6a06fb69f7669b8!8m2!3d18.2988682!4d83.9037476!16s%2Fg%2F11gfnh3q6t!19sChIJ0QHlEBEVPDoRuGl2n7ZvoAY?authuser=0&hl=en&rclk=1"
@@ -4498,8 +4461,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shanthi+Hospitals/data=!4m7!3m6!1s0x3a3c151110e501d1:0x6a06fb69f7669b8!8m2!3d18.2988682!4d83.9037476!16s%2Fg%2F11gfnh3q6t!19sChIJ0QHlEBEVPDoRuGl2n7ZvoAY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharath-dental-care-srikakulam",
@@ -4547,7 +4509,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHARATH+DENTAL+CARE+-+%E0%B0%B6%E0%B0%B0%E0%B0%A4%E0%B1%8D+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2/data=!4m7!3m6!1s0x3a3c15b22d6ae8f1:0xa5dd208280564581!8m2!3d18.3060744!4d83.8944312!16s%2Fg%2F11sy3dg37t!19sChIJ8ehqLbIVPDoRgUVWgIIg3aU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHARATH+DENTAL+CARE+-+%E0%B0%B6%E0%B0%B0%E0%B0%A4%E0%B1%8D+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2/data=!4m7!3m6!1s0x3a3c15b22d6ae8f1:0xa5dd208280564581!8m2!3d18.3060744!4d83.8944312!16s%2Fg%2F11sy3dg37t!19sChIJ8ehqLbIVPDoRgUVWgIIg3aU?authuser=0&hl=en&rclk=1"
@@ -4613,11 +4575,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHARATH+DENTAL+CARE+-+%E0%B0%B6%E0%B0%B0%E0%B0%A4%E0%B1%8D+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2/data=!4m7!3m6!1s0x3a3c15b22d6ae8f1:0xa5dd208280564581!8m2!3d18.3060744!4d83.8944312!16s%2Fg%2F11sy3dg37t!19sChIJ8ehqLbIVPDoRgUVWgIIg3aU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sindhura-hospital-srikakulam",
@@ -4665,7 +4626,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sindhura+Hospital/data=!4m7!3m6!1s0x3a3c1521d9e5ea5b:0x8f9355155775563e!8m2!3d18.3066897!4d83.89303!16s%2Fg%2F11bwhb502z!19sChIJW-rl2SEVPDoRPlZ1VxVVk48?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sindhura+Hospital/data=!4m7!3m6!1s0x3a3c1521d9e5ea5b:0x8f9355155775563e!8m2!3d18.3066897!4d83.89303!16s%2Fg%2F11bwhb502z!19sChIJW-rl2SEVPDoRPlZ1VxVVk48?authuser=0&hl=en&rclk=1"
@@ -4734,8 +4695,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sindhura+Hospital/data=!4m7!3m6!1s0x3a3c1521d9e5ea5b:0x8f9355155775563e!8m2!3d18.3066897!4d83.89303!16s%2Fg%2F11bwhb502z!19sChIJW-rl2SEVPDoRPlZ1VxVVk48?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sindu-skin-and-cosmetic-care-srikakulam",
@@ -4783,7 +4743,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SINDU+SKIN+AND+COSMETIC+CARE/data=!4m7!3m6!1s0x3a3c15c41e04bd35:0x4000ea4889819503!8m2!3d18.3077682!4d83.8925878!16s%2Fg%2F11sgh_9qgb!19sChIJNb0EHsQVPDoRA5WBiUjqAEA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SINDU+SKIN+AND+COSMETIC+CARE/data=!4m7!3m6!1s0x3a3c15c41e04bd35:0x4000ea4889819503!8m2!3d18.3077682!4d83.8925878!16s%2Fg%2F11sgh_9qgb!19sChIJNb0EHsQVPDoRA5WBiUjqAEA?authuser=0&hl=en&rclk=1"
@@ -4852,8 +4812,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SINDU+SKIN+AND+COSMETIC+CARE/data=!4m7!3m6!1s0x3a3c15c41e04bd35:0x4000ea4889819503!8m2!3d18.3077682!4d83.8925878!16s%2Fg%2F11sgh_9qgb!19sChIJNb0EHsQVPDoRA5WBiUjqAEA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "singuru-dental-care-srikakulam",
@@ -4901,7 +4860,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Singuru+dental+care/data=!4m7!3m6!1s0x3a3c15451521bbff:0xe975f9e4bf83fbdc!8m2!3d18.3005845!4d83.9030358!16s%2Fg%2F11llkj8ybl!19sChIJ_7shFUUVPDoR3PuDv-T5dek?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singuru+dental+care/data=!4m7!3m6!1s0x3a3c15451521bbff:0xe975f9e4bf83fbdc!8m2!3d18.3005845!4d83.9030358!16s%2Fg%2F11llkj8ybl!19sChIJ_7shFUUVPDoR3PuDv-T5dek?authuser=0&hl=en&rclk=1"
@@ -4967,11 +4926,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Singuru+dental+care/data=!4m7!3m6!1s0x3a3c15451521bbff:0xe975f9e4bf83fbdc!8m2!3d18.3005845!4d83.9030358!16s%2Fg%2F11llkj8ybl!19sChIJ_7shFUUVPDoR3PuDv-T5dek?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "siri-hospital-srikakulam",
@@ -5019,7 +4977,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Siri+Hospital/data=!4m7!3m6!1s0x3a3c151f77d90b45:0x300ca6d47a585df!8m2!3d18.3056134!4d83.8928311!16s%2Fg%2F11hbspd21t!19sChIJRQvZdx8VPDoR34WlR23KAAM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siri+Hospital/data=!4m7!3m6!1s0x3a3c151f77d90b45:0x300ca6d47a585df!8m2!3d18.3056134!4d83.8928311!16s%2Fg%2F11hbspd21t!19sChIJRQvZdx8VPDoR34WlR23KAAM?authuser=0&hl=en&rclk=1"
@@ -5085,11 +5043,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Siri+Hospital/data=!4m7!3m6!1s0x3a3c151f77d90b45:0x300ca6d47a585df!8m2!3d18.3056134!4d83.8928311!16s%2Fg%2F11hbspd21t!19sChIJRQvZdx8VPDoR34WlR23KAAM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "siri-sanjeevani-hospital-srikakulam",
@@ -5137,7 +5094,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Siri+Sanjeevani+Hospital/data=!4m7!3m6!1s0x3a3c1528813c9069:0x6c12ad9f4b4c5332!8m2!3d18.3085127!4d83.8919591!16s%2Fg%2F11sp23btrt!19sChIJaZA8gSgVPDoRMlNMS5-tEmw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siri+Sanjeevani+Hospital/data=!4m7!3m6!1s0x3a3c1528813c9069:0x6c12ad9f4b4c5332!8m2!3d18.3085127!4d83.8919591!16s%2Fg%2F11sp23btrt!19sChIJaZA8gSgVPDoRMlNMS5-tEmw?authuser=0&hl=en&rclk=1"
@@ -5206,8 +5163,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Siri+Sanjeevani+Hospital/data=!4m7!3m6!1s0x3a3c1528813c9069:0x6c12ad9f4b4c5332!8m2!3d18.3085127!4d83.8919591!16s%2Fg%2F11sp23btrt!19sChIJaZA8gSgVPDoRMlNMS5-tEmw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sivakarthikeya-dentalcare-kusharapuram",
@@ -5256,7 +5212,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sivakarthikeya+Dentalcare/data=!4m7!3m6!1s0x3a3c15004a4cee77:0xfe9812bb0e2d5f3a!8m2!3d18.3038321!4d83.8732301!16s%2Fg%2F11vzqgcx1b!19sChIJd-5MSgAVPDoROl8tDrsSmP4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sivakarthikeya+Dentalcare/data=!4m7!3m6!1s0x3a3c15004a4cee77:0xfe9812bb0e2d5f3a!8m2!3d18.3038321!4d83.8732301!16s%2Fg%2F11vzqgcx1b!19sChIJd-5MSgAVPDoROl8tDrsSmP4?authuser=0&hl=en&rclk=1"
@@ -5325,8 +5281,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sivakarthikeya+Dentalcare/data=!4m7!3m6!1s0x3a3c15004a4cee77:0xfe9812bb0e2d5f3a!8m2!3d18.3038321!4d83.8732301!16s%2Fg%2F11vzqgcx1b!19sChIJd-5MSgAVPDoROl8tDrsSmP4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-inn-dental-clinic-srikakulam",
@@ -5374,7 +5329,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Inn+Dental+Clinic/data=!4m7!3m6!1s0x3a3c151b2aef350d:0x7d38bd8f4568aa3!8m2!3d18.2989022!4d83.89452!16s%2Fg%2F1hc3l15_3!19sChIJDTXvKhsVPDoRo4pW9NiL0wc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Inn+Dental+Clinic/data=!4m7!3m6!1s0x3a3c151b2aef350d:0x7d38bd8f4568aa3!8m2!3d18.2989022!4d83.89452!16s%2Fg%2F1hc3l15_3!19sChIJDTXvKhsVPDoRo4pW9NiL0wc?authuser=0&hl=en&rclk=1"
@@ -5440,11 +5395,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Inn+Dental+Clinic/data=!4m7!3m6!1s0x3a3c151b2aef350d:0x7d38bd8f4568aa3!8m2!3d18.2989022!4d83.89452!16s%2Fg%2F1hc3l15_3!19sChIJDTXvKhsVPDoRo4pW9NiL0wc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sree-sai-dental-college-and-research-institute-srikakulam",
@@ -5493,7 +5447,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sree+Sai+Dental+College+%26+Research+Institute/data=!4m7!3m6!1s0x3a3c151ba4574ea1:0x3b5d2311f7fd9799!8m2!3d18.2981988!4d83.8967876!16s%2Fg%2F11j007tdnr!19sChIJoU5XpBsVPDoRmZf99xEjXTs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Sai+Dental+College+%26+Research+Institute/data=!4m7!3m6!1s0x3a3c151ba4574ea1:0x3b5d2311f7fd9799!8m2!3d18.2981988!4d83.8967876!16s%2Fg%2F11j007tdnr!19sChIJoU5XpBsVPDoRmZf99xEjXTs?authuser=0&hl=en&rclk=1"
@@ -5562,8 +5516,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sree+Sai+Dental+College+%26+Research+Institute/data=!4m7!3m6!1s0x3a3c151ba4574ea1:0x3b5d2311f7fd9799!8m2!3d18.2981988!4d83.8967876!16s%2Fg%2F11j007tdnr!19sChIJoU5XpBsVPDoRmZf99xEjXTs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-gowri-dental-clinic-and-orthodontic-care-srikakulam",
@@ -5612,7 +5565,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Gowri+Dental+Clinic+%26+Orthodontic+Care/data=!4m7!3m6!1s0x3a3c15420e639045:0x25fdebf7e2450332!8m2!3d18.3047552!4d83.894227!16s%2Fg%2F11n0y8nrqh!19sChIJRZBjDkIVPDoRMgNF4vfr_SU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Gowri+Dental+Clinic+%26+Orthodontic+Care/data=!4m7!3m6!1s0x3a3c15420e639045:0x25fdebf7e2450332!8m2!3d18.3047552!4d83.894227!16s%2Fg%2F11n0y8nrqh!19sChIJRZBjDkIVPDoRMgNF4vfr_SU?authuser=0&hl=en&rclk=1"
@@ -5681,8 +5634,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Gowri+Dental+Clinic+%26+Orthodontic+Care/data=!4m7!3m6!1s0x3a3c15420e639045:0x25fdebf7e2450332!8m2!3d18.3047552!4d83.894227!16s%2Fg%2F11n0y8nrqh!19sChIJRZBjDkIVPDoRMgNF4vfr_SU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-rajeswari-nursing-home-srikakulam",
@@ -5730,7 +5682,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Rajeswari+Nursing+Home/data=!4m7!3m6!1s0x3a3c15d67c8e1f97:0xe116982507db029a!8m2!3d18.3057058!4d83.8934061!16s%2Fg%2F11ynx6h8l9!19sChIJlx-OfNYVPDoRmgLbByWYFuE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Rajeswari+Nursing+Home/data=!4m7!3m6!1s0x3a3c15d67c8e1f97:0xe116982507db029a!8m2!3d18.3057058!4d83.8934061!16s%2Fg%2F11ynx6h8l9!19sChIJlx-OfNYVPDoRmgLbByWYFuE?authuser=0&hl=en&rclk=1"
@@ -5799,8 +5751,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Rajeswari+Nursing+Home/data=!4m7!3m6!1s0x3a3c15d67c8e1f97:0xe116982507db029a!8m2!3d18.3057058!4d83.8934061!16s%2Fg%2F11ynx6h8l9!19sChIJlx-OfNYVPDoRmgLbByWYFuE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-rk-mother-and-child-care-hospital-srikakulam",
@@ -5850,7 +5801,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+RK+MOTHER+AND+CHILD+CARE+HOSPITAL/data=!4m7!3m6!1s0x3a3c153652575407:0x8e356cf4f5b37ce!8m2!3d18.305864!4d83.8950065!16s%2Fg%2F11vbrrzpm1!19sChIJB1RXUjYVPDoRzjdbT89W4wg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+RK+MOTHER+AND+CHILD+CARE+HOSPITAL/data=!4m7!3m6!1s0x3a3c153652575407:0x8e356cf4f5b37ce!8m2!3d18.305864!4d83.8950065!16s%2Fg%2F11vbrrzpm1!19sChIJB1RXUjYVPDoRzjdbT89W4wg?authuser=0&hl=en&rclk=1"
@@ -5919,8 +5870,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+RK+MOTHER+AND+CHILD+CARE+HOSPITAL/data=!4m7!3m6!1s0x3a3c153652575407:0x8e356cf4f5b37ce!8m2!3d18.305864!4d83.8950065!16s%2Fg%2F11vbrrzpm1!19sChIJB1RXUjYVPDoRzjdbT89W4wg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sai-dental-college-canteen-srikakulam",
@@ -5969,7 +5919,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Sai+Dental+College+Canteen/data=!4m7!3m6!1s0x3a3c1549840acbf9:0xbc98383b41c7be65!8m2!3d18.3236838!4d83.9132091!16s%2Fg%2F11c3s9dtdy!19sChIJ-csKhEkVPDoRZb7HQTs4mLw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+Dental+College+Canteen/data=!4m7!3m6!1s0x3a3c1549840acbf9:0xbc98383b41c7be65!8m2!3d18.3236838!4d83.9132091!16s%2Fg%2F11c3s9dtdy!19sChIJ-csKhEkVPDoRZb7HQTs4mLw?authuser=0&hl=en&rclk=1"
@@ -6038,8 +5988,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Sai+Dental+College+Canteen/data=!4m7!3m6!1s0x3a3c1549840acbf9:0xbc98383b41c7be65!8m2!3d18.3236838!4d83.9132091!16s%2Fg%2F11c3s9dtdy!19sChIJ-csKhEkVPDoRZb7HQTs4mLw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sai-medicare-srikakulam",
@@ -6087,7 +6036,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+SAI+MEDICARE/data=!4m7!3m6!1s0x3a3c1521e01cdc01:0x66631395a2e0dab4!8m2!3d18.3063974!4d83.8938494!16s%2Fg%2F11c3k2yj4t!19sChIJAdwc4CEVPDoRtNrgopUTY2Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SAI+MEDICARE/data=!4m7!3m6!1s0x3a3c1521e01cdc01:0x66631395a2e0dab4!8m2!3d18.3063974!4d83.8938494!16s%2Fg%2F11c3k2yj4t!19sChIJAdwc4CEVPDoRtNrgopUTY2Y?authuser=0&hl=en&rclk=1"
@@ -6156,8 +6105,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+SAI+MEDICARE/data=!4m7!3m6!1s0x3a3c1521e01cdc01:0x66631395a2e0dab4!8m2!3d18.3063974!4d83.8938494!16s%2Fg%2F11c3k2yj4t!19sChIJAdwc4CEVPDoRtNrgopUTY2Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sai-parnithas-dental-care-sindhura-hospital-road",
@@ -6205,7 +6153,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+SAI+PARNITHAS+DENTAL+CARE/data=!4m7!3m6!1s0x3a3c15429062009f:0x74a7af232738eaf2!8m2!3d18.3072242!4d83.8932938!16s%2Fg%2F11q4hy4msw!19sChIJnwBikEIVPDoR8uo4JyOvp3Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SAI+PARNITHAS+DENTAL+CARE/data=!4m7!3m6!1s0x3a3c15429062009f:0x74a7af232738eaf2!8m2!3d18.3072242!4d83.8932938!16s%2Fg%2F11q4hy4msw!19sChIJnwBikEIVPDoR8uo4JyOvp3Q?authuser=0&hl=en&rclk=1"
@@ -6271,11 +6219,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+SAI+PARNITHAS+DENTAL+CARE/data=!4m7!3m6!1s0x3a3c15429062009f:0x74a7af232738eaf2!8m2!3d18.3072242!4d83.8932938!16s%2Fg%2F11q4hy4msw!19sChIJnwBikEIVPDoR8uo4JyOvp3Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sai-surya-dental-care-srikakulam",
@@ -6323,7 +6270,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+SAI+SURYA+DENTAL+CARE/data=!4m7!3m6!1s0x3a3c151dd28e91a1:0xa12df860f942fbb0!8m2!3d18.3097097!4d83.8973587!16s%2Fg%2F11yfmyltdg!19sChIJoZGO0h0VPDoRsPtC-WD4LaE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SAI+SURYA+DENTAL+CARE/data=!4m7!3m6!1s0x3a3c151dd28e91a1:0xa12df860f942fbb0!8m2!3d18.3097097!4d83.8973587!16s%2Fg%2F11yfmyltdg!19sChIJoZGO0h0VPDoRsPtC-WD4LaE?authuser=0&hl=en&rclk=1"
@@ -6389,11 +6336,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+SAI+SURYA+DENTAL+CARE/data=!4m7!3m6!1s0x3a3c151dd28e91a1:0xa12df860f942fbb0!8m2!3d18.3097097!4d83.8973587!16s%2Fg%2F11yfmyltdg!19sChIJoZGO0h0VPDoRsPtC-WD4LaE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-shirdi-sai-dental-clinic-srikakulam",
@@ -6441,7 +6387,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Shirdi+Sai+Dental+Clinic/data=!4m7!3m6!1s0x3a3c151f44b4d013:0xa943e2ecb6d5225e!8m2!3d18.3056999!4d83.8940809!16s%2Fg%2F11hbsq7g6c!19sChIJE9C0RB8VPDoRXiLVtuziQ6k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Shirdi+Sai+Dental+Clinic/data=!4m7!3m6!1s0x3a3c151f44b4d013:0xa943e2ecb6d5225e!8m2!3d18.3056999!4d83.8940809!16s%2Fg%2F11hbsq7g6c!19sChIJE9C0RB8VPDoRXiLVtuziQ6k?authuser=0&hl=en&rclk=1"
@@ -6510,8 +6456,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Shirdi+Sai+Dental+Clinic/data=!4m7!3m6!1s0x3a3c151f44b4d013:0xa943e2ecb6d5225e!8m2!3d18.3056999!4d83.8940809!16s%2Fg%2F11hbsq7g6c!19sChIJE9C0RB8VPDoRXiLVtuziQ6k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-soukya-hospital-srikakulam",
@@ -6559,7 +6504,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+SOUKYA+HOSPITAL/data=!4m7!3m6!1s0x3a3c15004b6ad1f5:0x3f5f1dd37785a7b2!8m2!3d18.3064669!4d83.8975548!16s%2Fg%2F11x17hd6jw!19sChIJ9dFqSwAVPDoRsqeFd9MdXz8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SOUKYA+HOSPITAL/data=!4m7!3m6!1s0x3a3c15004b6ad1f5:0x3f5f1dd37785a7b2!8m2!3d18.3064669!4d83.8975548!16s%2Fg%2F11x17hd6jw!19sChIJ9dFqSwAVPDoRsqeFd9MdXz8?authuser=0&hl=en&rclk=1"
@@ -6628,8 +6573,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+SOUKYA+HOSPITAL/data=!4m7!3m6!1s0x3a3c15004b6ad1f5:0x3f5f1dd37785a7b2!8m2!3d18.3064669!4d83.8975548!16s%2Fg%2F11x17hd6jw!19sChIJ9dFqSwAVPDoRsqeFd9MdXz8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-srinivasa-maternity-hospital-srikakulam",
@@ -6678,7 +6622,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+SRINIVASA+MATERNITY+HOSPITAL/data=!4m7!3m6!1s0x3a3c151894010b7b:0x8c024f2305db03dd!8m2!3d18.3053281!4d83.8966366!16s%2Fg%2F11dyws8n5k!19sChIJewsBlBgVPDoR3QPbBSNPAow?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SRINIVASA+MATERNITY+HOSPITAL/data=!4m7!3m6!1s0x3a3c151894010b7b:0x8c024f2305db03dd!8m2!3d18.3053281!4d83.8966366!16s%2Fg%2F11dyws8n5k!19sChIJewsBlBgVPDoR3QPbBSNPAow?authuser=0&hl=en&rclk=1"
@@ -6747,8 +6691,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+SRINIVASA+MATERNITY+HOSPITAL/data=!4m7!3m6!1s0x3a3c151894010b7b:0x8c024f2305db03dd!8m2!3d18.3053281!4d83.8966366!16s%2Fg%2F11dyws8n5k!19sChIJewsBlBgVPDoR3QPbBSNPAow?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srinivasa-pain-centre-srikakulam",
@@ -6796,7 +6739,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Srinivasa+Pain+centre/data=!4m7!3m6!1s0x3a3c15f7118db15d:0x413aa1c0fb4e6b13!8m2!3d18.3048977!4d83.8985633!16s%2Fg%2F11vzg0hfj2!19sChIJXbGNEfcVPDoRE2tO-8ChOkE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinivasa+Pain+centre/data=!4m7!3m6!1s0x3a3c15f7118db15d:0x413aa1c0fb4e6b13!8m2!3d18.3048977!4d83.8985633!16s%2Fg%2F11vzg0hfj2!19sChIJXbGNEfcVPDoRE2tO-8ChOkE?authuser=0&hl=en&rclk=1"
@@ -6865,8 +6808,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Srinivasa+Pain+centre/data=!4m7!3m6!1s0x3a3c15f7118db15d:0x413aa1c0fb4e6b13!8m2!3d18.3048977!4d83.8985633!16s%2Fg%2F11vzg0hfj2!19sChIJXbGNEfcVPDoRE2tO-8ChOkE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suraksha-kidney-and-maternity-centre-srikakulam",
@@ -6915,7 +6857,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Suraksha+Kidney+%26+Maternity+Centre/data=!4m7!3m6!1s0x3a3c15241af2d561:0x67f61c2994c9fa23!8m2!3d18.3132845!4d83.8955833!16s%2Fg%2F1tdvy9td!19sChIJYdXyGiQVPDoRI_rJlCkc9mc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suraksha+Kidney+%26+Maternity+Centre/data=!4m7!3m6!1s0x3a3c15241af2d561:0x67f61c2994c9fa23!8m2!3d18.3132845!4d83.8955833!16s%2Fg%2F1tdvy9td!19sChIJYdXyGiQVPDoRI_rJlCkc9mc?authuser=0&hl=en&rclk=1"
@@ -6984,8 +6926,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Suraksha+Kidney+%26+Maternity+Centre/data=!4m7!3m6!1s0x3a3c15241af2d561:0x67f61c2994c9fa23!8m2!3d18.3132845!4d83.8955833!16s%2Fg%2F1tdvy9td!19sChIJYdXyGiQVPDoRI_rJlCkc9mc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surya-dental-care-srikakulam",
@@ -7033,7 +6974,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surya+Dental+Care/data=!4m7!3m6!1s0x3a3c1519f1c48651:0x318fb50de0910048!8m2!3d18.3054402!4d83.8973928!16s%2Fg%2F11vpy1pmwc!19sChIJUYbE8RkVPDoRSACR4A21jzE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+Dental+Care/data=!4m7!3m6!1s0x3a3c1519f1c48651:0x318fb50de0910048!8m2!3d18.3054402!4d83.8973928!16s%2Fg%2F11vpy1pmwc!19sChIJUYbE8RkVPDoRSACR4A21jzE?authuser=0&hl=en&rclk=1"
@@ -7102,8 +7043,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surya+Dental+Care/data=!4m7!3m6!1s0x3a3c1519f1c48651:0x318fb50de0910048!8m2!3d18.3054402!4d83.8973928!16s%2Fg%2F11vpy1pmwc!19sChIJUYbE8RkVPDoRSACR4A21jzE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surya-physio-therapy-clinic-beside-madhava-motors",
@@ -7152,7 +7092,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surya+Physio+Therapy+Clinic/data=!4m7!3m6!1s0x3a3c1521e3a97feb:0x65fd5a62c0f1b72f!8m2!3d18.3051347!4d83.9016353!16s%2Fg%2F11gg6525wy!19sChIJ63-p4yEVPDoRL7fxwGJa_WU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+Physio+Therapy+Clinic/data=!4m7!3m6!1s0x3a3c1521e3a97feb:0x65fd5a62c0f1b72f!8m2!3d18.3051347!4d83.9016353!16s%2Fg%2F11gg6525wy!19sChIJ63-p4yEVPDoRL7fxwGJa_WU?authuser=0&hl=en&rclk=1"
@@ -7221,8 +7161,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surya+Physio+Therapy+Clinic/data=!4m7!3m6!1s0x3a3c1521e3a97feb:0x65fd5a62c0f1b72f!8m2!3d18.3051347!4d83.9016353!16s%2Fg%2F11gg6525wy!19sChIJ63-p4yEVPDoRL7fxwGJa_WU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sv-cardiac-care-srikakulam",
@@ -7271,7 +7210,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SV+Cardiac+care/data=!4m7!3m6!1s0x3a3c15db2a150fe3:0xc63488556a33a9d9!8m2!3d18.3067706!4d83.8932186!16s%2Fg%2F11ww991rpr!19sChIJ4w8VKtsVPDoR2akzalWINMY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SV+Cardiac+care/data=!4m7!3m6!1s0x3a3c15db2a150fe3:0xc63488556a33a9d9!8m2!3d18.3067706!4d83.8932186!16s%2Fg%2F11ww991rpr!19sChIJ4w8VKtsVPDoR2akzalWINMY?authuser=0&hl=en&rclk=1"
@@ -7340,8 +7279,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SV+Cardiac+care/data=!4m7!3m6!1s0x3a3c15db2a150fe3:0xc63488556a33a9d9!8m2!3d18.3067706!4d83.8932186!16s%2Fg%2F11ww991rpr!19sChIJ4w8VKtsVPDoR2akzalWINMY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "svs-hope-hospital-srikakulam",
@@ -7389,7 +7327,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SVS+HOPE+HOSPITAL/data=!4m7!3m6!1s0x3a3c157108fc1003:0xc1bc592834440987!8m2!3d18.3063235!4d83.8932138!16s%2Fg%2F11t2s9v5jb!19sChIJAxD8CHEVPDoRhwlENChZvME?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SVS+HOPE+HOSPITAL/data=!4m7!3m6!1s0x3a3c157108fc1003:0xc1bc592834440987!8m2!3d18.3063235!4d83.8932138!16s%2Fg%2F11t2s9v5jb!19sChIJAxD8CHEVPDoRhwlENChZvME?authuser=0&hl=en&rclk=1"
@@ -7458,8 +7396,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SVS+HOPE+HOSPITAL/data=!4m7!3m6!1s0x3a3c157108fc1003:0xc1bc592834440987!8m2!3d18.3063235!4d83.8932138!16s%2Fg%2F11t2s9v5jb!19sChIJAxD8CHEVPDoRhwlENChZvME?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swarna-hospital-srikakulam",
@@ -7508,7 +7445,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swarna+Hospital/data=!4m7!3m6!1s0x3a3c15005ea4bd6f:0x364c449a6aac162b!8m2!3d18.3071773!4d83.8932125!16s%2Fg%2F11wxwv9jhf!19sChIJb72kXgAVPDoRKxasappETDY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swarna+Hospital/data=!4m7!3m6!1s0x3a3c15005ea4bd6f:0x364c449a6aac162b!8m2!3d18.3071773!4d83.8932125!16s%2Fg%2F11wxwv9jhf!19sChIJb72kXgAVPDoRKxasappETDY?authuser=0&hl=en&rclk=1"
@@ -7574,11 +7511,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swarna+Hospital/data=!4m7!3m6!1s0x3a3c15005ea4bd6f:0x364c449a6aac162b!8m2!3d18.3071773!4d83.8932125!16s%2Fg%2F11wxwv9jhf!19sChIJb72kXgAVPDoRKxasappETDY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thangi-satyanarayana-dental-clinic-srikakulam",
@@ -7626,7 +7562,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Thangi+Satyanarayana+Dental+Clinic/data=!4m7!3m6!1s0x3a3c159fe5238a73:0x10d44e352f66cc2f!8m2!3d18.3055059!4d83.8991421!16s%2Fg%2F11v689qgjb!19sChIJc4oj5Z8VPDoRL8xmLzVO1BA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thangi+Satyanarayana+Dental+Clinic/data=!4m7!3m6!1s0x3a3c159fe5238a73:0x10d44e352f66cc2f!8m2!3d18.3055059!4d83.8991421!16s%2Fg%2F11v689qgjb!19sChIJc4oj5Z8VPDoRL8xmLzVO1BA?authuser=0&hl=en&rclk=1"
@@ -7692,11 +7628,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Thangi+Satyanarayana+Dental+Clinic/data=!4m7!3m6!1s0x3a3c159fe5238a73:0x10d44e352f66cc2f!8m2!3d18.3055059!4d83.8991421!16s%2Fg%2F11v689qgjb!19sChIJc4oj5Z8VPDoRL8xmLzVO1BA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tirumala-maternity-and-surgical-hospital-srikakulam",
@@ -7745,7 +7680,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tirumala+Maternity+%26+Surgical+Hospital/data=!4m7!3m6!1s0x3a3c1516d778c2b5:0xf520048bf9782ded!8m2!3d18.3016338!4d83.903198!16s%2Fg%2F11gg737dls!19sChIJtcJ41xYVPDoR7S14-YsEIPU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirumala+Maternity+%26+Surgical+Hospital/data=!4m7!3m6!1s0x3a3c1516d778c2b5:0xf520048bf9782ded!8m2!3d18.3016338!4d83.903198!16s%2Fg%2F11gg737dls!19sChIJtcJ41xYVPDoR7S14-YsEIPU?authuser=0&hl=en&rclk=1"
@@ -7811,11 +7746,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tirumala+Maternity+%26+Surgical+Hospital/data=!4m7!3m6!1s0x3a3c1516d778c2b5:0xf520048bf9782ded!8m2!3d18.3016338!4d83.903198!16s%2Fg%2F11gg737dls!19sChIJtcJ41xYVPDoR7S14-YsEIPU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tirumala-medical-center-srikakulam",
@@ -7863,7 +7797,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/TIRUMALA+MEDICAL+CENTER/data=!4m7!3m6!1s0x3a3c1518bcfc82f5:0xce31224b2ce868de!8m2!3d18.3056205!4d83.8961428!16s%2Fg%2F11tczth5yc!19sChIJ9YL8vBgVPDoR3mjoLEsiMc4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TIRUMALA+MEDICAL+CENTER/data=!4m7!3m6!1s0x3a3c1518bcfc82f5:0xce31224b2ce868de!8m2!3d18.3056205!4d83.8961428!16s%2Fg%2F11tczth5yc!19sChIJ9YL8vBgVPDoR3mjoLEsiMc4?authuser=0&hl=en&rclk=1"
@@ -7932,8 +7866,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/TIRUMALA+MEDICAL+CENTER/data=!4m7!3m6!1s0x3a3c1518bcfc82f5:0xce31224b2ce868de!8m2!3d18.3056205!4d83.8961428!16s%2Fg%2F11tczth5yc!19sChIJ9YL8vBgVPDoR3mjoLEsiMc4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tmc-s-tirumala-hospital-srikakulam-srikakulam",
@@ -7982,7 +7915,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/TMC%27s+TIRUMALA+HOSPITAL,+SRIKAKULAM/data=!4m7!3m6!1s0x3a3c1518bc53ae73:0xcd1785b645edbb7!8m2!3d18.3049893!4d83.897506!16s%2Fg%2F1tdkkn3x!19sChIJc65TvBgVPDoRt9teZFt40Qw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TMC%27s+TIRUMALA+HOSPITAL,+SRIKAKULAM/data=!4m7!3m6!1s0x3a3c1518bc53ae73:0xcd1785b645edbb7!8m2!3d18.3049893!4d83.897506!16s%2Fg%2F1tdkkn3x!19sChIJc65TvBgVPDoRt9teZFt40Qw?authuser=0&hl=en&rclk=1"
@@ -8051,8 +7984,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/TMC%27s+TIRUMALA+HOSPITAL,+SRIKAKULAM/data=!4m7!3m6!1s0x3a3c1518bc53ae73:0xcd1785b645edbb7!8m2!3d18.3049893!4d83.897506!16s%2Fg%2F1tdkkn3x!19sChIJc65TvBgVPDoRt9teZFt40Qw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "unique-hospital-opp-forest-office-day-and-night-junction",
@@ -8100,7 +8032,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Unique+Hospital/data=!4m7!3m6!1s0x3a3c151f52b6309d:0xf8cb15c8732e78de!8m2!3d18.3058196!4d83.8949757!16s%2Fg%2F11f3zgsm4t!19sChIJnTC2Uh8VPDoR3nguc8gVy_g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unique+Hospital/data=!4m7!3m6!1s0x3a3c151f52b6309d:0xf8cb15c8732e78de!8m2!3d18.3058196!4d83.8949757!16s%2Fg%2F11f3zgsm4t!19sChIJnTC2Uh8VPDoR3nguc8gVy_g?authuser=0&hl=en&rclk=1"
@@ -8169,8 +8101,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Unique+Hospital/data=!4m7!3m6!1s0x3a3c151f52b6309d:0xf8cb15c8732e78de!8m2!3d18.3058196!4d83.8949757!16s%2Fg%2F11f3zgsm4t!19sChIJnTC2Uh8VPDoR3nguc8gVy_g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "v-dental-hospitals-srikakulam",
@@ -8219,7 +8150,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/V+Dental+Hospitals/data=!4m7!3m6!1s0x3a3c15c9060e0867:0x499040e7e0ac18c2!8m2!3d18.2996482!4d83.8947505!16s%2Fg%2F11r2qx9n8b!19sChIJZwgOBskVPDoRwhis4OdAkEk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V+Dental+Hospitals/data=!4m7!3m6!1s0x3a3c15c9060e0867:0x499040e7e0ac18c2!8m2!3d18.2996482!4d83.8947505!16s%2Fg%2F11r2qx9n8b!19sChIJZwgOBskVPDoRwhis4OdAkEk?authuser=0&hl=en&rclk=1"
@@ -8288,8 +8219,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/V+Dental+Hospitals/data=!4m7!3m6!1s0x3a3c15c9060e0867:0x499040e7e0ac18c2!8m2!3d18.2996482!4d83.8947505!16s%2Fg%2F11r2qx9n8b!19sChIJZwgOBskVPDoRwhis4OdAkEk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vamsi-krishna-multi-specality-dental-hospital-srikakulam",
@@ -8337,7 +8267,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vamsi+Krishna+Multi+Specality+Dental+Hospital/data=!4m7!3m6!1s0x3a3c151f5c2fe477:0xb34a585002c85218!8m2!3d18.3062114!4d83.8934578!16s%2Fg%2F11f3wkyd3j!19sChIJd-QvXB8VPDoRGFLIAlBYSrM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vamsi+Krishna+Multi+Specality+Dental+Hospital/data=!4m7!3m6!1s0x3a3c151f5c2fe477:0xb34a585002c85218!8m2!3d18.3062114!4d83.8934578!16s%2Fg%2F11f3wkyd3j!19sChIJd-QvXB8VPDoRGFLIAlBYSrM?authuser=0&hl=en&rclk=1"
@@ -8403,11 +8333,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vamsi+Krishna+Multi+Specality+Dental+Hospital/data=!4m7!3m6!1s0x3a3c151f5c2fe477:0xb34a585002c85218!8m2!3d18.3062114!4d83.8934578!16s%2Fg%2F11f3wkyd3j!19sChIJd-QvXB8VPDoRGFLIAlBYSrM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vandaana-hospital-srikakulam",
@@ -8455,7 +8384,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VANDAANA+Hospital/data=!4m7!3m6!1s0x3a3c15a823f63dd5:0x46d715838be4658a!8m2!3d18.2794869!4d83.9027469!16s%2Fg%2F11h0g495p!19sChIJ1T32I6gVPDoRimXki4MV10Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VANDAANA+Hospital/data=!4m7!3m6!1s0x3a3c15a823f63dd5:0x46d715838be4658a!8m2!3d18.2794869!4d83.9027469!16s%2Fg%2F11h0g495p!19sChIJ1T32I6gVPDoRimXki4MV10Y?authuser=0&hl=en&rclk=1"
@@ -8524,8 +8453,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VANDAANA+Hospital/data=!4m7!3m6!1s0x3a3c15a823f63dd5:0x46d715838be4658a!8m2!3d18.2794869!4d83.9027469!16s%2Fg%2F11h0g495p!19sChIJ1T32I6gVPDoRimXki4MV10Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "varun-health-centre-kusharapuram",
@@ -8574,7 +8502,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VARUN+HEALTH+CENTRE/data=!4m7!3m6!1s0x3a3c14ea2f9909e1:0x958cb2b050456712!8m2!3d18.3035131!4d83.8736888!16s%2Fg%2F11c5g89r32!19sChIJ4QmZL-oUPDoREmdFULCyjJU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VARUN+HEALTH+CENTRE/data=!4m7!3m6!1s0x3a3c14ea2f9909e1:0x958cb2b050456712!8m2!3d18.3035131!4d83.8736888!16s%2Fg%2F11c5g89r32!19sChIJ4QmZL-oUPDoREmdFULCyjJU?authuser=0&hl=en&rclk=1"
@@ -8643,8 +8571,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VARUN+HEALTH+CENTRE/data=!4m7!3m6!1s0x3a3c14ea2f9909e1:0x958cb2b050456712!8m2!3d18.3035131!4d83.8736888!16s%2Fg%2F11c5g89r32!19sChIJ4QmZL-oUPDoREmdFULCyjJU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vcare-hair-and-skin-clinic-srikakulam-skin-treatment-hair-treatment-hair-transplant-laser-hair-removal-skin-whitening-srikakulam",
@@ -8693,7 +8620,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Srikakulam+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3a3c15eb332dde3f:0x55ebee574808758b!8m2!3d18.29686!4d83.8949915!16s%2Fg%2F11fmyzw7hv!19sChIJP94tM-sVPDoRi3UISFfu61U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Srikakulam+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3a3c15eb332dde3f:0x55ebee574808758b!8m2!3d18.29686!4d83.8949915!16s%2Fg%2F11fmyzw7hv!19sChIJP94tM-sVPDoRi3UISFfu61U?authuser=0&hl=en&rclk=1"
@@ -8762,8 +8689,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Srikakulam+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3a3c15eb332dde3f:0x55ebee574808758b!8m2!3d18.29686!4d83.8949915!16s%2Fg%2F11fmyzw7hv!19sChIJP94tM-sVPDoRi3UISFfu61U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijaya-harsha-mother-and-child-hospital-srikakulam",
@@ -8812,7 +8738,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vijaya+Harsha+Mother+%26+CHild+Hospital/data=!4m7!3m6!1s0x3a3c15a1e9292431:0xc6f0040c74542e49!8m2!3d18.3014608!4d83.9030594!16s%2Fg%2F11jfjh7x3m!19sChIJMSQp6aEVPDoRSS5UdAwE8MY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaya+Harsha+Mother+%26+CHild+Hospital/data=!4m7!3m6!1s0x3a3c15a1e9292431:0xc6f0040c74542e49!8m2!3d18.3014608!4d83.9030594!16s%2Fg%2F11jfjh7x3m!19sChIJMSQp6aEVPDoRSS5UdAwE8MY?authuser=0&hl=en&rclk=1"
@@ -8881,8 +8807,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vijaya+Harsha+Mother+%26+CHild+Hospital/data=!4m7!3m6!1s0x3a3c15a1e9292431:0xc6f0040c74542e49!8m2!3d18.3014608!4d83.9030594!16s%2Fg%2F11jfjh7x3m!19sChIJMSQp6aEVPDoRSS5UdAwE8MY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vizag-ivf-centre-best-ivf-clinic-in-srikakulam-srikakulam",
@@ -8932,7 +8857,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vizag+IVF+Centre+-+Best+IVF+Clinic+in+Srikakulam/data=!4m7!3m6!1s0x3a3c15e3ff3fb343:0xf70d4836f82bda46!8m2!3d18.3049753!4d83.8900293!16s%2Fg%2F11ts_5b3y6!19sChIJQ7M__-MVPDoRRtor-DZIDfc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vizag+IVF+Centre+-+Best+IVF+Clinic+in+Srikakulam/data=!4m7!3m6!1s0x3a3c15e3ff3fb343:0xf70d4836f82bda46!8m2!3d18.3049753!4d83.8900293!16s%2Fg%2F11ts_5b3y6!19sChIJQ7M__-MVPDoRRtor-DZIDfc?authuser=0&hl=en&rclk=1"
@@ -8998,11 +8923,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vizag+IVF+Centre+-+Best+IVF+Clinic+in+Srikakulam/data=!4m7!3m6!1s0x3a3c15e3ff3fb343:0xf70d4836f82bda46!8m2!3d18.3049753!4d83.8900293!16s%2Fg%2F11ts_5b3y6!19sChIJQ7M__-MVPDoRRtor-DZIDfc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yd-dental-srikakulam",
@@ -9050,7 +8974,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/YD+Dental/data=!4m7!3m6!1s0x3a3c15cb686c36bf:0xabe6918ad19842b3!8m2!3d18.3067374!4d83.8941346!16s%2Fg%2F11w34h8klg!19sChIJvzZsaMsVPDoRs0KY0YqR5qs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/YD+Dental/data=!4m7!3m6!1s0x3a3c15cb686c36bf:0xabe6918ad19842b3!8m2!3d18.3067374!4d83.8941346!16s%2Fg%2F11w34h8klg!19sChIJvzZsaMsVPDoRs0KY0YqR5qs?authuser=0&hl=en&rclk=1"
@@ -9119,7 +9043,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/YD+Dental/data=!4m7!3m6!1s0x3a3c15cb686c36bf:0xabe6918ad19842b3!8m2!3d18.3067374!4d83.8941346!16s%2Fg%2F11w34h8klg!19sChIJvzZsaMsVPDoRs0KY0YqR5qs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

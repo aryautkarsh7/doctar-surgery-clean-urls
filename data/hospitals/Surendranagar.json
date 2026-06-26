@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aatmiya+ICU+hospital/data=!4m7!3m6!1s0x3959419efb88d7fb:0xfa6c708564019afa!8m2!3d22.7234942!4d71.6415839!16s%2Fg%2F11kh9pl8pn!19sChIJ-9eI-55BWTkR-poBZIVwbPo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aatmiya+ICU+hospital/data=!4m7!3m6!1s0x3959419efb88d7fb:0xfa6c708564019afa!8m2!3d22.7234942!4d71.6415839!16s%2Fg%2F11kh9pl8pn!19sChIJ-9eI-55BWTkR-poBZIVwbPo?authuser=0&hl=en&rclk=1"
@@ -114,8 +114,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aatmiya+ICU+hospital/data=!4m7!3m6!1s0x3959419efb88d7fb:0xfa6c708564019afa!8m2!3d22.7234942!4d71.6415839!16s%2Fg%2F11kh9pl8pn!19sChIJ-9eI-55BWTkR-poBZIVwbPo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aayush-cancer-hospital-jamnagar",
@@ -164,7 +163,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aayush+Cancer+Hospital/data=!4m7!3m6!1s0x395715a36702eb4b:0x4752c2f67f458de1!8m2!3d22.4587502!4d70.0348984!16s%2Fg%2F11x8dv_qnb!19sChIJS-sCZ6MVVzkR4Y1Ff_bCUkc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aayush+Cancer+Hospital/data=!4m7!3m6!1s0x395715a36702eb4b:0x4752c2f67f458de1!8m2!3d22.4587502!4d70.0348984!16s%2Fg%2F11x8dv_qnb!19sChIJS-sCZ6MVVzkR4Y1Ff_bCUkc?authuser=0&hl=en&rclk=1"
@@ -233,8 +232,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aayush+Cancer+Hospital/data=!4m7!3m6!1s0x395715a36702eb4b:0x4752c2f67f458de1!8m2!3d22.4587502!4d70.0348984!16s%2Fg%2F11x8dv_qnb!19sChIJS-sCZ6MVVzkR4Y1Ff_bCUkc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "astha-hospital-surendranagar",
@@ -282,7 +280,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Astha+Hospital/data=!4m7!3m6!1s0x3959411b6680a56f:0xca0bba09886b58c0!8m2!3d22.7310175!4d71.6339346!16s%2Fg%2F11ggrqz82f!19sChIJb6WAZhtBWTkRwFhriAm6C8o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Astha+Hospital/data=!4m7!3m6!1s0x3959411b6680a56f:0xca0bba09886b58c0!8m2!3d22.7310175!4d71.6339346!16s%2Fg%2F11ggrqz82f!19sChIJb6WAZhtBWTkRwFhriAm6C8o?authuser=0&hl=en&rclk=1"
@@ -351,8 +349,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Astha+Hospital/data=!4m7!3m6!1s0x3959411b6680a56f:0xca0bba09886b58c0!8m2!3d22.7310175!4d71.6339346!16s%2Fg%2F11ggrqz82f!19sChIJb6WAZhtBWTkRwFhriAm6C8o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aum-orthocare-hospital-surendranagar",
@@ -402,7 +399,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aum+Orthocare+Hospital/data=!4m7!3m6!1s0x3959410f8966e143:0x559dde92c9c94c25!8m2!3d22.735368!4d71.6303032!16s%2Fg%2F11bym_dldq!19sChIJQ-FmiQ9BWTkRJUzJyZLenVU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aum+Orthocare+Hospital/data=!4m7!3m6!1s0x3959410f8966e143:0x559dde92c9c94c25!8m2!3d22.735368!4d71.6303032!16s%2Fg%2F11bym_dldq!19sChIJQ-FmiQ9BWTkRJUzJyZLenVU?authuser=0&hl=en&rclk=1"
@@ -468,11 +465,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aum+Orthocare+Hospital/data=!4m7!3m6!1s0x3959410f8966e143:0x559dde92c9c94c25!8m2!3d22.735368!4d71.6303032!16s%2Fg%2F11bym_dldq!19sChIJQ-FmiQ9BWTkRJUzJyZLenVU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "c-j-hospital-surendranagar",
@@ -520,7 +516,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/C+J+Hospital/data=!4m7!3m6!1s0x3959411c8fff2be5:0xa5b33e6212a4672a!8m2!3d22.728973!4d71.6340537!16s%2Fg%2F1tks4qp9!19sChIJ5Sv_jxxBWTkRKmekEmI-s6U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/C+J+Hospital/data=!4m7!3m6!1s0x3959411c8fff2be5:0xa5b33e6212a4672a!8m2!3d22.728973!4d71.6340537!16s%2Fg%2F1tks4qp9!19sChIJ5Sv_jxxBWTkRKmekEmI-s6U?authuser=0&hl=en&rclk=1"
@@ -589,8 +585,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/C+J+Hospital/data=!4m7!3m6!1s0x3959411c8fff2be5:0xa5b33e6212a4672a!8m2!3d22.728973!4d71.6340537!16s%2Fg%2F1tks4qp9!19sChIJ5Sv_jxxBWTkRKmekEmI-s6U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "candor-ivf-centre-ltd-surendranagar-surendranagar",
@@ -640,7 +635,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Candor+IVF+Centre+LTD+Surendranagar/data=!4m7!3m6!1s0x395941f8d913d6b1:0xa4289f7b2f177ef5!8m2!3d22.7201782!4d71.6555451!16s%2Fg%2F11wg7d96_z!19sChIJsdYT2fhBWTkR9X4XL3ufKKQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Candor+IVF+Centre+LTD+Surendranagar/data=!4m7!3m6!1s0x395941f8d913d6b1:0xa4289f7b2f177ef5!8m2!3d22.7201782!4d71.6555451!16s%2Fg%2F11wg7d96_z!19sChIJsdYT2fhBWTkR9X4XL3ufKKQ?authuser=0&hl=en&rclk=1"
@@ -709,8 +704,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Candor+IVF+Centre+LTD+Surendranagar/data=!4m7!3m6!1s0x395941f8d913d6b1:0xa4289f7b2f177ef5!8m2!3d22.7201782!4d71.6555451!16s%2Fg%2F11wg7d96_z!19sChIJsdYT2fhBWTkR9X4XL3ufKKQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gandhi-hospital-surendranagar",
@@ -758,7 +752,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gandhi+Hospital/data=!4m7!3m6!1s0x395940ded7e9948f:0x4a894b1177976aa2!8m2!3d22.7216973!4d71.6487334!16s%2Fg%2F1hff5psk7!19sChIJj5Tp195AWTkRomqXdxFLiUo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gandhi+Hospital/data=!4m7!3m6!1s0x395940ded7e9948f:0x4a894b1177976aa2!8m2!3d22.7216973!4d71.6487334!16s%2Fg%2F1hff5psk7!19sChIJj5Tp195AWTkRomqXdxFLiUo?authuser=0&hl=en&rclk=1"
@@ -827,8 +821,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gandhi+Hospital/data=!4m7!3m6!1s0x395940ded7e9948f:0x4a894b1177976aa2!8m2!3d22.7216973!4d71.6487334!16s%2Fg%2F1hff5psk7!19sChIJj5Tp195AWTkRomqXdxFLiUo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hanumant-hospital-surendranagar",
@@ -876,7 +869,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hanumant+Hospital/data=!4m7!3m6!1s0x3959416d812fb9bf:0x840a960b3329f1c4!8m2!3d22.72391!4d71.6405927!16s%2Fg%2F11gh9fpvwd!19sChIJv7kvgW1BWTkRxPEpMwuWCoQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hanumant+Hospital/data=!4m7!3m6!1s0x3959416d812fb9bf:0x840a960b3329f1c4!8m2!3d22.72391!4d71.6405927!16s%2Fg%2F11gh9fpvwd!19sChIJv7kvgW1BWTkRxPEpMwuWCoQ?authuser=0&hl=en&rclk=1"
@@ -945,8 +938,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hanumant+Hospital/data=!4m7!3m6!1s0x3959416d812fb9bf:0x840a960b3329f1c4!8m2!3d22.72391!4d71.6405927!16s%2Fg%2F11gh9fpvwd!19sChIJv7kvgW1BWTkRxPEpMwuWCoQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-and-ivf-center-in-surendranagar-best-iui-icsi-and-ivf-treatment-surendranagar",
@@ -996,7 +988,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Surendranagar+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/data=!4m7!3m6!1s0x3959411cf1abc60f:0xaab9036b4a45dc9!8m2!3d22.727974!4d71.634046!16s%2Fg%2F11c601s7g9!19sChIJD8ar8RxBWTkRyV2ktDaQqwo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Surendranagar+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/data=!4m7!3m6!1s0x3959411cf1abc60f:0xaab9036b4a45dc9!8m2!3d22.727974!4d71.634046!16s%2Fg%2F11c601s7g9!19sChIJD8ar8RxBWTkRyV2ktDaQqwo?authuser=0&hl=en&rclk=1"
@@ -1062,11 +1054,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Surendranagar+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/data=!4m7!3m6!1s0x3959411cf1abc60f:0xaab9036b4a45dc9!8m2!3d22.727974!4d71.634046!16s%2Fg%2F11c601s7g9!19sChIJD8ar8RxBWTkRyV2ktDaQqwo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "janani-women-hospital-women-hospital-female-hospital-gynaec-hospital-surendranagar",
@@ -1116,7 +1107,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Janani+Women+Hospital+-+Women+Hospital,+Female+Hospital,+Gynaec+Hospital/data=!4m7!3m6!1s0x395941da9de2872b:0xf261b7b848ba1d46!8m2!3d22.73054!4d71.6290539!16s%2Fg%2F11fj_0lwbz!19sChIJK4findpBWTkRRh26SLi3YfI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janani+Women+Hospital+-+Women+Hospital,+Female+Hospital,+Gynaec+Hospital/data=!4m7!3m6!1s0x395941da9de2872b:0xf261b7b848ba1d46!8m2!3d22.73054!4d71.6290539!16s%2Fg%2F11fj_0lwbz!19sChIJK4findpBWTkRRh26SLi3YfI?authuser=0&hl=en&rclk=1"
@@ -1185,8 +1176,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Janani+Women+Hospital+-+Women+Hospital,+Female+Hospital,+Gynaec+Hospital/data=!4m7!3m6!1s0x395941da9de2872b:0xf261b7b848ba1d46!8m2!3d22.73054!4d71.6290539!16s%2Fg%2F11fj_0lwbz!19sChIJK4findpBWTkRRh26SLi3YfI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kharod-surgical-hospital-surendranagar",
@@ -1234,7 +1224,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kharod+Surgical+Hospital/data=!4m7!3m6!1s0x3959412f60f8faa9:0x3ad55ce61134f25f!8m2!3d22.7231267!4d71.6408983!16s%2Fg%2F11qqswngnr!19sChIJqfr4YC9BWTkRX_I0EeZc1To?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kharod+Surgical+Hospital/data=!4m7!3m6!1s0x3959412f60f8faa9:0x3ad55ce61134f25f!8m2!3d22.7231267!4d71.6408983!16s%2Fg%2F11qqswngnr!19sChIJqfr4YC9BWTkRX_I0EeZc1To?authuser=0&hl=en&rclk=1"
@@ -1303,8 +1293,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kharod+Surgical+Hospital/data=!4m7!3m6!1s0x3959412f60f8faa9:0x3ad55ce61134f25f!8m2!3d22.7231267!4d71.6408983!16s%2Fg%2F11qqswngnr!19sChIJqfr4YC9BWTkRX_I0EeZc1To?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kidney-plus-clinics-kolkata-kolkata",
@@ -1355,7 +1344,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/data=!4m7!3m6!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1!19sChIJ0W9cWP5xAjoRjp1vXrBPH9A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/data=!4m7!3m6!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1!19sChIJ0W9cWP5xAjoRjp1vXrBPH9A?authuser=0&hl=en&rclk=1"
@@ -1424,8 +1413,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/data=!4m7!3m6!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1!19sChIJ0W9cWP5xAjoRjp1vXrBPH9A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-hospital-surendranagar",
@@ -1473,7 +1461,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x395941569c9f05db:0xd011c0b53a837b4a!8m2!3d22.7226745!4d71.6436246!16s%2Fg%2F11q5862qjt!19sChIJ2wWfnFZBWTkRSnuDOrXAEdA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x395941569c9f05db:0xd011c0b53a837b4a!8m2!3d22.7226745!4d71.6436246!16s%2Fg%2F11q5862qjt!19sChIJ2wWfnFZBWTkRSnuDOrXAEdA?authuser=0&hl=en&rclk=1"
@@ -1542,8 +1530,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x395941569c9f05db:0xd011c0b53a837b4a!8m2!3d22.7226745!4d71.6436246!16s%2Fg%2F11q5862qjt!19sChIJ2wWfnFZBWTkRSnuDOrXAEdA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maharshi-hospital-surendranagar",
@@ -1591,7 +1578,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maharshi+Hospital/data=!4m7!3m6!1s0x395941039759eac1:0xc850d0a5e43e6a00!8m2!3d22.7178134!4d71.6536307!16s%2Fg%2F11ry7cng5d!19sChIJwepZlwNBWTkRAGo-5KXQUMg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maharshi+Hospital/data=!4m7!3m6!1s0x395941039759eac1:0xc850d0a5e43e6a00!8m2!3d22.7178134!4d71.6536307!16s%2Fg%2F11ry7cng5d!19sChIJwepZlwNBWTkRAGo-5KXQUMg?authuser=0&hl=en&rclk=1"
@@ -1657,11 +1644,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maharshi+Hospital/data=!4m7!3m6!1s0x395941039759eac1:0xc850d0a5e43e6a00!8m2!3d22.7178134!4d71.6536307!16s%2Fg%2F11ry7cng5d!19sChIJwepZlwNBWTkRAGo-5KXQUMg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mahavir-hospital-and-manish-ivf-centre-surendranagar",
@@ -1711,7 +1697,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mahavir+Hospital+And+Manish+IVF+Centre/data=!4m7!3m6!1s0x3959411c8a968faf:0xbdd2ebaa77f291ea!8m2!3d22.7287412!4d71.6343722!16s%2Fg%2F11bzt50136!19sChIJr4-WihxBWTkR6pHyd6rr0r0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahavir+Hospital+And+Manish+IVF+Centre/data=!4m7!3m6!1s0x3959411c8a968faf:0xbdd2ebaa77f291ea!8m2!3d22.7287412!4d71.6343722!16s%2Fg%2F11bzt50136!19sChIJr4-WihxBWTkR6pHyd6rr0r0?authuser=0&hl=en&rclk=1"
@@ -1777,11 +1763,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mahavir+Hospital+And+Manish+IVF+Centre/data=!4m7!3m6!1s0x3959411c8a968faf:0xbdd2ebaa77f291ea!8m2!3d22.7287412!4d71.6343722!16s%2Fg%2F11bzt50136!19sChIJr4-WihxBWTkR6pHyd6rr0r0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirali-clinic-surendranagar",
@@ -1829,7 +1814,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nirali+Clinic/data=!4m7!3m6!1s0x395940e1dbb4e999:0xac820a726bec1f73!8m2!3d22.7245167!4d71.639212!16s%2Fg%2F11fzj6tg_1!19sChIJmem02-FAWTkRcx_sa3IKgqw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirali+Clinic/data=!4m7!3m6!1s0x395940e1dbb4e999:0xac820a726bec1f73!8m2!3d22.7245167!4d71.639212!16s%2Fg%2F11fzj6tg_1!19sChIJmem02-FAWTkRcx_sa3IKgqw?authuser=0&hl=en&rclk=1"
@@ -1898,8 +1883,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nirali+Clinic/data=!4m7!3m6!1s0x395940e1dbb4e999:0xac820a726bec1f73!8m2!3d22.7245167!4d71.639212!16s%2Fg%2F11fzj6tg_1!19sChIJmem02-FAWTkRcx_sa3IKgqw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nkpc-kidney-clinic-kolkata",
@@ -1949,7 +1933,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1"
@@ -2018,8 +2002,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "obgyn-surendranagar",
@@ -2067,7 +2050,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/OBGYN/data=!4m7!3m6!1s0x39594109869d435b:0x4897ab930c98c606!8m2!3d22.7394586!4d71.6223406!16s%2Fg%2F1hf34xlmj!19sChIJW0OdhglBWTkRBsaYDJOrl0g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OBGYN/data=!4m7!3m6!1s0x39594109869d435b:0x4897ab930c98c606!8m2!3d22.7394586!4d71.6223406!16s%2Fg%2F1hf34xlmj!19sChIJW0OdhglBWTkRBsaYDJOrl0g?authuser=0&hl=en&rclk=1"
@@ -2136,8 +2119,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/OBGYN/data=!4m7!3m6!1s0x39594109869d435b:0x4897ab930c98c606!8m2!3d22.7394586!4d71.6223406!16s%2Fg%2F1hf34xlmj!19sChIJW0OdhglBWTkRBsaYDJOrl0g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parimal-hospital-surendranagar",
@@ -2185,7 +2167,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Parimal+Hospital/data=!4m7!3m6!1s0x3959411c52380675:0x95bb56388bfe8660!8m2!3d22.7272843!4d71.6351339!16s%2Fg%2F11g8g3qldg!19sChIJdQY4UhxBWTkRYIb-izhWu5U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parimal+Hospital/data=!4m7!3m6!1s0x3959411c52380675:0x95bb56388bfe8660!8m2!3d22.7272843!4d71.6351339!16s%2Fg%2F11g8g3qldg!19sChIJdQY4UhxBWTkRYIb-izhWu5U?authuser=0&hl=en&rclk=1"
@@ -2254,8 +2236,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Parimal+Hospital/data=!4m7!3m6!1s0x3959411c52380675:0x95bb56388bfe8660!8m2!3d22.7272843!4d71.6351339!16s%2Fg%2F11g8g3qldg!19sChIJdQY4UhxBWTkRYIb-izhWu5U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pramukh-hospital-surendranagar",
@@ -2303,7 +2284,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pramukh+Hospital/data=!4m7!3m6!1s0x3959411c57a9195d:0x651ba87dff6d01d8!8m2!3d22.7265735!4d71.635101!16s%2Fg%2F11bxf47m1h!19sChIJXRmpVxxBWTkR2AFt_32oG2U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pramukh+Hospital/data=!4m7!3m6!1s0x3959411c57a9195d:0x651ba87dff6d01d8!8m2!3d22.7265735!4d71.635101!16s%2Fg%2F11bxf47m1h!19sChIJXRmpVxxBWTkR2AFt_32oG2U?authuser=0&hl=en&rclk=1"
@@ -2369,11 +2350,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pramukh+Hospital/data=!4m7!3m6!1s0x3959411c57a9195d:0x651ba87dff6d01d8!8m2!3d22.7265735!4d71.635101!16s%2Fg%2F11bxf47m1h!19sChIJXRmpVxxBWTkR2AFt_32oG2U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sava-aayush-hospital-surendranagar",
@@ -2421,7 +2401,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sava+Aayush+Hospital/data=!4m7!3m6!1s0x395940e6a16545f9:0xc7f16fe1e3d2c440!8m2!3d22.7176053!4d71.6380691!16s%2Fg%2F11cjj59808!19sChIJ-UVloeZAWTkRQMTS4-Fv8cc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sava+Aayush+Hospital/data=!4m7!3m6!1s0x395940e6a16545f9:0xc7f16fe1e3d2c440!8m2!3d22.7176053!4d71.6380691!16s%2Fg%2F11cjj59808!19sChIJ-UVloeZAWTkRQMTS4-Fv8cc?authuser=0&hl=en&rclk=1"
@@ -2490,8 +2470,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sava+Aayush+Hospital/data=!4m7!3m6!1s0x395940e6a16545f9:0xc7f16fe1e3d2c440!8m2!3d22.7176053!4d71.6380691!16s%2Fg%2F11cjj59808!19sChIJ-UVloeZAWTkRQMTS4-Fv8cc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreeji-satva-gynocare-hospital-and-advance-laparoscopy-surgery-centre-surendranagar",
@@ -2539,7 +2518,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreeji+Satva+Gynocare+Hospital+%26+Advance+Laparoscopy+Surgery+Centre/data=!4m7!3m6!1s0x3959413cf458b699:0xd366f78e615a55c0!8m2!3d22.724999!4d71.6404149!16s%2Fg%2F11y9j247h2!19sChIJmbZY9DxBWTkRwFVaYY73ZtM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreeji+Satva+Gynocare+Hospital+%26+Advance+Laparoscopy+Surgery+Centre/data=!4m7!3m6!1s0x3959413cf458b699:0xd366f78e615a55c0!8m2!3d22.724999!4d71.6404149!16s%2Fg%2F11y9j247h2!19sChIJmbZY9DxBWTkRwFVaYY73ZtM?authuser=0&hl=en&rclk=1"
@@ -2608,8 +2587,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreeji+Satva+Gynocare+Hospital+%26+Advance+Laparoscopy+Surgery+Centre/data=!4m7!3m6!1s0x3959413cf458b699:0xd366f78e615a55c0!8m2!3d22.724999!4d71.6404149!16s%2Fg%2F11y9j247h2!19sChIJmbZY9DxBWTkRwFVaYY73ZtM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-hari-maternity-surgical-home-and-ent-hospital-surendranagar",
@@ -2657,7 +2635,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Hari+Maternity+Surgical+Home+%26+ENT+Hospital/data=!4m7!3m6!1s0x3959411cf1b4a90d:0x473a78317e1e8e3e!8m2!3d22.7278279!4d71.6340499!16s%2Fg%2F11c60mvl5_!19sChIJDam08RxBWTkRPo4efjF4Okc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Hari+Maternity+Surgical+Home+%26+ENT+Hospital/data=!4m7!3m6!1s0x3959411cf1b4a90d:0x473a78317e1e8e3e!8m2!3d22.7278279!4d71.6340499!16s%2Fg%2F11c60mvl5_!19sChIJDam08RxBWTkRPo4efjF4Okc?authuser=0&hl=en&rclk=1"
@@ -2726,8 +2704,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Hari+Maternity+Surgical+Home+%26+ENT+Hospital/data=!4m7!3m6!1s0x3959411cf1b4a90d:0x473a78317e1e8e3e!8m2!3d22.7278279!4d71.6340499!16s%2Fg%2F11c60mvl5_!19sChIJDam08RxBWTkRPo4efjF4Okc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shrimad-rajchandra-sarvamangal-hospital-c-u-shah-medical-college-surendranagar",
@@ -2776,7 +2753,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shrimad+Rajchandra+Sarvamangal+Hospital,+C+U+Shah+Medical+College+%E0%AA%B6%E0%AB%8D%E0%AA%B0%E0%AB%80%E0%AA%AE%E0%AA%A6+%E0%AA%B0%E0%AA%BE%E0%AA%9C%E0%AA%9A%E0%AA%82%E0%AA%A6%E0%AB%8D%E0%AA%B0+%E0%AA%B8%E0%AA%B0%E0%AB%8D%E0%AA%B5%E0%AA%AE%E0%AA%82%E0%AA%97%E0%AA%B2+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2+%E0%AA%85%E0%AA%A8%E0%AB%87+%E0%AA%B6%E0%AA%BE%E0%AA%B9+%E0%AA%AE%E0%AB%87%E0%AA%A1%E0%AA%BF%E0%AA%95%E0%AA%B2+%E0%AA%95%E0%AB%8B%E0%AA%B2%E0%AB%87%E0%AA%9C/data=!4m7!3m6!1s0x3959410a4f6608c1:0x10e9b690fa65643d!8m2!3d22.7419748!4d71.6221878!16s%2Fg%2F11f3xh2yk0!19sChIJwQhmTwpBWTkRPWRl-pC26RA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shrimad+Rajchandra+Sarvamangal+Hospital,+C+U+Shah+Medical+College+%E0%AA%B6%E0%AB%8D%E0%AA%B0%E0%AB%80%E0%AA%AE%E0%AA%A6+%E0%AA%B0%E0%AA%BE%E0%AA%9C%E0%AA%9A%E0%AA%82%E0%AA%A6%E0%AB%8D%E0%AA%B0+%E0%AA%B8%E0%AA%B0%E0%AB%8D%E0%AA%B5%E0%AA%AE%E0%AA%82%E0%AA%97%E0%AA%B2+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2+%E0%AA%85%E0%AA%A8%E0%AB%87+%E0%AA%B6%E0%AA%BE%E0%AA%B9+%E0%AA%AE%E0%AB%87%E0%AA%A1%E0%AA%BF%E0%AA%95%E0%AA%B2+%E0%AA%95%E0%AB%8B%E0%AA%B2%E0%AB%87%E0%AA%9C/data=!4m7!3m6!1s0x3959410a4f6608c1:0x10e9b690fa65643d!8m2!3d22.7419748!4d71.6221878!16s%2Fg%2F11f3xh2yk0!19sChIJwQhmTwpBWTkRPWRl-pC26RA?authuser=0&hl=en&rclk=1"
@@ -2845,8 +2822,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shrimad+Rajchandra+Sarvamangal+Hospital,+C+U+Shah+Medical+College+%E0%AA%B6%E0%AB%8D%E0%AA%B0%E0%AB%80%E0%AA%AE%E0%AA%A6+%E0%AA%B0%E0%AA%BE%E0%AA%9C%E0%AA%9A%E0%AA%82%E0%AA%A6%E0%AB%8D%E0%AA%B0+%E0%AA%B8%E0%AA%B0%E0%AB%8D%E0%AA%B5%E0%AA%AE%E0%AA%82%E0%AA%97%E0%AA%B2+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2+%E0%AA%85%E0%AA%A8%E0%AB%87+%E0%AA%B6%E0%AA%BE%E0%AA%B9+%E0%AA%AE%E0%AB%87%E0%AA%A1%E0%AA%BF%E0%AA%95%E0%AA%B2+%E0%AA%95%E0%AB%8B%E0%AA%B2%E0%AB%87%E0%AA%9C/data=!4m7!3m6!1s0x3959410a4f6608c1:0x10e9b690fa65643d!8m2!3d22.7419748!4d71.6221878!16s%2Fg%2F11f3xh2yk0!19sChIJwQhmTwpBWTkRPWRl-pC26RA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-clinic-and-implant-center-surendranagar",
@@ -2895,7 +2871,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMILE+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x395940dfcb8a5001:0xcaa8cd1962d99458!8m2!3d22.7227388!4d71.6440898!16s%2Fg%2F11clyhbc_f!19sChIJAVCKy99AWTkRWJTZYhnNqMo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x395940dfcb8a5001:0xcaa8cd1962d99458!8m2!3d22.7227388!4d71.6440898!16s%2Fg%2F11clyhbc_f!19sChIJAVCKy99AWTkRWJTZYhnNqMo?authuser=0&hl=en&rclk=1"
@@ -2961,11 +2937,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMILE+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x395940dfcb8a5001:0xcaa8cd1962d99458!8m2!3d22.7227388!4d71.6440898!16s%2Fg%2F11clyhbc_f!19sChIJAVCKy99AWTkRWJTZYhnNqMo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "stavya-spine-clinic-surendranagar",
@@ -3015,7 +2990,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Stavya+Spine+Clinic/data=!4m7!3m6!1s0x395941d6fa74d2f5:0x7f1f9703a66f0904!8m2!3d22.7239368!4d71.6406601!16s%2Fg%2F11y86t5_zt!19sChIJ9dJ0-tZBWTkRBAlvpgOXH38?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Stavya+Spine+Clinic/data=!4m7!3m6!1s0x395941d6fa74d2f5:0x7f1f9703a66f0904!8m2!3d22.7239368!4d71.6406601!16s%2Fg%2F11y86t5_zt!19sChIJ9dJ0-tZBWTkRBAlvpgOXH38?authuser=0&hl=en&rclk=1"
@@ -3084,8 +3059,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Stavya+Spine+Clinic/data=!4m7!3m6!1s0x395941d6fa74d2f5:0x7f1f9703a66f0904!8m2!3d22.7239368!4d71.6406601!16s%2Fg%2F11y86t5_zt!19sChIJ9dJ0-tZBWTkRBAlvpgOXH38?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "upasana-hospital-joravarnagar-surendranagar",
@@ -3133,7 +3107,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Upasana+Hospital+joravarnagar/data=!4m7!3m6!1s0x395941a78bb1d98f:0x66612bc86a0ad515!8m2!3d22.7168726!4d71.64033!16s%2Fg%2F11rjv540c8!19sChIJj9mxi6dBWTkRFdUKasgrYWY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Upasana+Hospital+joravarnagar/data=!4m7!3m6!1s0x395941a78bb1d98f:0x66612bc86a0ad515!8m2!3d22.7168726!4d71.64033!16s%2Fg%2F11rjv540c8!19sChIJj9mxi6dBWTkRFdUKasgrYWY?authuser=0&hl=en&rclk=1"
@@ -3199,11 +3173,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Upasana+Hospital+joravarnagar/data=!4m7!3m6!1s0x395941a78bb1d98f:0x66612bc86a0ad515!8m2!3d22.7168726!4d71.64033!16s%2Fg%2F11rjv540c8!19sChIJj9mxi6dBWTkRFdUKasgrYWY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "upasana-hospital-surendranagar-surendranagar",
@@ -3252,7 +3225,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Upasana+Hospital+Surendranagar/data=!4m7!3m6!1s0x395941fe195d7047:0xdbe8ec063d023b3c!8m2!3d22.7257047!4d71.642397!16s%2Fg%2F11l5wjw97t!19sChIJR3BdGf5BWTkRPDsCPQbs6Ns?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Upasana+Hospital+Surendranagar/data=!4m7!3m6!1s0x395941fe195d7047:0xdbe8ec063d023b3c!8m2!3d22.7257047!4d71.642397!16s%2Fg%2F11l5wjw97t!19sChIJR3BdGf5BWTkRPDsCPQbs6Ns?authuser=0&hl=en&rclk=1"
@@ -3321,8 +3294,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Upasana+Hospital+Surendranagar/data=!4m7!3m6!1s0x395941fe195d7047:0xdbe8ec063d023b3c!8m2!3d22.7257047!4d71.642397!16s%2Fg%2F11l5wjw97t!19sChIJR3BdGf5BWTkRPDsCPQbs6Ns?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "varun-surgical-hospital-surendranagar",
@@ -3370,7 +3342,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Varun+Surgical+Hospital/data=!4m7!3m6!1s0x395941672ee3f073:0xa7c7193a405dcdf9!8m2!3d22.7285374!4d71.6351526!16s%2Fg%2F11fm78f0dp!19sChIJc_DjLmdBWTkR-c1dQDoZx6c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varun+Surgical+Hospital/data=!4m7!3m6!1s0x395941672ee3f073:0xa7c7193a405dcdf9!8m2!3d22.7285374!4d71.6351526!16s%2Fg%2F11fm78f0dp!19sChIJc_DjLmdBWTkR-c1dQDoZx6c?authuser=0&hl=en&rclk=1"
@@ -3439,8 +3411,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Varun+Surgical+Hospital/data=!4m7!3m6!1s0x395941672ee3f073:0xa7c7193a405dcdf9!8m2!3d22.7285374!4d71.6351526!16s%2Fg%2F11fm78f0dp!19sChIJc_DjLmdBWTkR-c1dQDoZx6c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vedant-dental-clinic-and-implant-centre-surendranagar",
@@ -3488,7 +3459,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VEDANT+DENTAL+CLINIC+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3959411fce5f464b:0x77bcd5617af545ad!8m2!3d22.7259265!4d71.6408608!16s%2Fg%2F11bx1sm__t!19sChIJS0Zfzh9BWTkRrUX1emHVvHc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VEDANT+DENTAL+CLINIC+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3959411fce5f464b:0x77bcd5617af545ad!8m2!3d22.7259265!4d71.6408608!16s%2Fg%2F11bx1sm__t!19sChIJS0Zfzh9BWTkRrUX1emHVvHc?authuser=0&hl=en&rclk=1"
@@ -3554,11 +3525,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VEDANT+DENTAL+CLINIC+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3959411fce5f464b:0x77bcd5617af545ad!8m2!3d22.7259265!4d71.6408608!16s%2Fg%2F11bx1sm__t!19sChIJS0Zfzh9BWTkRrUX1emHVvHc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vora-hospital-surendranagar",
@@ -3606,7 +3576,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vora+Hospital/data=!4m7!3m6!1s0x3959411d1b417ef5:0xbdad1a234fb83e97!8m2!3d22.7264633!4d71.6338809!16s%2Fg%2F11cjk3xnd8!19sChIJ9X5BGx1BWTkRlz64TyMarb0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vora+Hospital/data=!4m7!3m6!1s0x3959411d1b417ef5:0xbdad1a234fb83e97!8m2!3d22.7264633!4d71.6338809!16s%2Fg%2F11cjk3xnd8!19sChIJ9X5BGx1BWTkRlz64TyMarb0?authuser=0&hl=en&rclk=1"
@@ -3675,8 +3645,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vora+Hospital/data=!4m7!3m6!1s0x3959411d1b417ef5:0xbdad1a234fb83e97!8m2!3d22.7264633!4d71.6338809!16s%2Fg%2F11cjk3xnd8!19sChIJ9X5BGx1BWTkRlz64TyMarb0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yugam-hospital-surendranagar",
@@ -3724,7 +3693,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yugam+Hospital/data=!4m7!3m6!1s0x395941aa832fd627:0x421e8841f024aa50!8m2!3d22.7259555!4d71.6324496!16s%2Fg%2F11gycb5yw5!19sChIJJ9Yvg6pBWTkRUKok8EGIHkI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yugam+Hospital/data=!4m7!3m6!1s0x395941aa832fd627:0x421e8841f024aa50!8m2!3d22.7259555!4d71.6324496!16s%2Fg%2F11gycb5yw5!19sChIJJ9Yvg6pBWTkRUKok8EGIHkI?authuser=0&hl=en&rclk=1"
@@ -3790,11 +3759,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yugam+Hospital/data=!4m7!3m6!1s0x395941aa832fd627:0x421e8841f024aa50!8m2!3d22.7259555!4d71.6324496!16s%2Fg%2F11gycb5yw5!19sChIJJ9Yvg6pBWTkRUKok8EGIHkI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yugam-surgical-hospital-surendranagar",
@@ -3842,7 +3810,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yugam+surgical+hospital/data=!4m7!3m6!1s0x3959411322bc0867:0x6be1aedf328b14a!8m2!3d22.7273942!4d71.6351761!16s%2Fg%2F11h9gs5fwg!19sChIJZwi8IhNBWTkRSrEo8-0avgY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yugam+surgical+hospital/data=!4m7!3m6!1s0x3959411322bc0867:0x6be1aedf328b14a!8m2!3d22.7273942!4d71.6351761!16s%2Fg%2F11h9gs5fwg!19sChIJZwi8IhNBWTkRSrEo8-0avgY?authuser=0&hl=en&rclk=1"
@@ -3908,10 +3876,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yugam+surgical+hospital/data=!4m7!3m6!1s0x3959411322bc0867:0x6be1aedf328b14a!8m2!3d22.7273942!4d71.6351761!16s%2Fg%2F11h9gs5fwg!19sChIJZwi8IhNBWTkRSrEo8-0avgY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

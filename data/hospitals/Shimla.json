@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aastha+Hospital+%26+Pediatric+Centre/data=!4m7!3m6!1s0x39057f51e2bb3497:0x5fb61bd29a94fab0!8m2!3d31.0703598!4d77.1827763!16s%2Fg%2F11b7l7vf5l!19sChIJlzS74lF_BTkRsPqUmtIbtl8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+Hospital+%26+Pediatric+Centre/data=!4m7!3m6!1s0x39057f51e2bb3497:0x5fb61bd29a94fab0!8m2!3d31.0703598!4d77.1827763!16s%2Fg%2F11b7l7vf5l!19sChIJlzS74lF_BTkRsPqUmtIbtl8?authuser=0&hl=en&rclk=1"
@@ -114,8 +114,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aastha+Hospital+%26+Pediatric+Centre/data=!4m7!3m6!1s0x39057f51e2bb3497:0x5fb61bd29a94fab0!8m2!3d31.0703598!4d77.1827763!16s%2Fg%2F11b7l7vf5l!19sChIJlzS74lF_BTkRsPqUmtIbtl8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aayu-dental-clinic-shimla",
@@ -164,7 +163,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aayu+dental+clinic/data=!4m7!3m6!1s0x3905789e47446273:0x1d4838f3f01ae001!8m2!3d31.083327!4d77.1684888!16s%2Fg%2F1tj8_xx9!19sChIJc2JER554BTkRAeAa8PM4SB0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aayu+dental+clinic/data=!4m7!3m6!1s0x3905789e47446273:0x1d4838f3f01ae001!8m2!3d31.083327!4d77.1684888!16s%2Fg%2F1tj8_xx9!19sChIJc2JER554BTkRAeAa8PM4SB0?authuser=0&hl=en&rclk=1"
@@ -230,11 +229,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aayu+dental+clinic/data=!4m7!3m6!1s0x3905789e47446273:0x1d4838f3f01ae001!8m2!3d31.083327!4d77.1684888!16s%2Fg%2F1tj8_xx9!19sChIJc2JER554BTkRAeAa8PM4SB0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aimss-chamiana-shimla",
@@ -283,7 +281,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AIMSS+Chamiana/data=!4m7!3m6!1s0x390581cb3bf67cd1:0x432d67a248c98f6a!8m2!3d31.0761073!4d77.2106837!16s%2Fg%2F11kc69f36q!19sChIJ0Xz2O8uBBTkRao_JSKJnLUM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AIMSS+Chamiana/data=!4m7!3m6!1s0x390581cb3bf67cd1:0x432d67a248c98f6a!8m2!3d31.0761073!4d77.2106837!16s%2Fg%2F11kc69f36q!19sChIJ0Xz2O8uBBTkRao_JSKJnLUM?authuser=0&hl=en&rclk=1"
@@ -352,8 +350,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AIMSS+Chamiana/data=!4m7!3m6!1s0x390581cb3bf67cd1:0x432d67a248c98f6a!8m2!3d31.0761073!4d77.2106837!16s%2Fg%2F11kc69f36q!19sChIJ0Xz2O8uBBTkRao_JSKJnLUM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amcare-hospital-hospitals-in-zirakpur-zirakpur",
@@ -402,7 +399,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Amcare+Hospital+-+Hospitals+in+Zirakpur/data=!4m7!3m6!1s0x390feb2f2c19ce85:0xca1eb6bb70732918!8m2!3d30.6389834!4d76.8168632!16s%2Fg%2F11cnqsfdll!19sChIJhc4ZLC_rDzkRGClzcLu2Hso?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amcare+Hospital+-+Hospitals+in+Zirakpur/data=!4m7!3m6!1s0x390feb2f2c19ce85:0xca1eb6bb70732918!8m2!3d30.6389834!4d76.8168632!16s%2Fg%2F11cnqsfdll!19sChIJhc4ZLC_rDzkRGClzcLu2Hso?authuser=0&hl=en&rclk=1"
@@ -471,8 +468,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Amcare+Hospital+-+Hospitals+in+Zirakpur/data=!4m7!3m6!1s0x390feb2f2c19ce85:0xca1eb6bb70732918!8m2!3d30.6389834!4d76.8168632!16s%2Fg%2F11cnqsfdll!19sChIJhc4ZLC_rDzkRGClzcLu2Hso?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apex-diagnostics-mri-ct-in-solan-diagnostic-center-hospital-in-solan-himachal-pradesh-solan",
@@ -522,7 +518,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apex+Diagnostics+%7C+MRI+CT+in+Solan+%7CDiagnostic+center+Hospital+in+Solan,+Himachal+Pradesh/data=!4m7!3m6!1s0x390f814946e45ae7:0x1e52569405c5b8a6!8m2!3d30.9065841!4d77.1096622!16s%2Fg%2F11cmzngdkf!19sChIJ51rkRkmBDzkRprjFBZRWUh4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Diagnostics+%7C+MRI+CT+in+Solan+%7CDiagnostic+center+Hospital+in+Solan,+Himachal+Pradesh/data=!4m7!3m6!1s0x390f814946e45ae7:0x1e52569405c5b8a6!8m2!3d30.9065841!4d77.1096622!16s%2Fg%2F11cmzngdkf!19sChIJ51rkRkmBDzkRprjFBZRWUh4?authuser=0&hl=en&rclk=1"
@@ -591,8 +587,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apex+Diagnostics+%7C+MRI+CT+in+Solan+%7CDiagnostic+center+Hospital+in+Solan,+Himachal+Pradesh/data=!4m7!3m6!1s0x390f814946e45ae7:0x1e52569405c5b8a6!8m2!3d30.9065841!4d77.1096622!16s%2Fg%2F11cmzngdkf!19sChIJ51rkRkmBDzkRprjFBZRWUh4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arya-dental-clinic-shimla",
@@ -641,7 +636,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arya+dental+clinic/data=!4m7!3m6!1s0x3905789367465f25:0x4770741e815fdafe!8m2!3d31.10425!4d77.1730347!16s%2Fg%2F11f4ytqlw6!19sChIJJV9GZ5N4BTkR_tpfgR50cEc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arya+dental+clinic/data=!4m7!3m6!1s0x3905789367465f25:0x4770741e815fdafe!8m2!3d31.10425!4d77.1730347!16s%2Fg%2F11f4ytqlw6!19sChIJJV9GZ5N4BTkR_tpfgR50cEc?authuser=0&hl=en&rclk=1"
@@ -707,11 +702,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arya+dental+clinic/data=!4m7!3m6!1s0x3905789367465f25:0x4770741e815fdafe!8m2!3d31.10425!4d77.1730347!16s%2Fg%2F11f4ytqlw6!19sChIJJV9GZ5N4BTkR_tpfgR50cEc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "atulaya-healthcare-shimla",
@@ -761,7 +755,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Atulaya+Healthcare/data=!4m7!3m6!1s0x3905795f226bdc45:0xa4081b5fe1c8e7a7!8m2!3d31.101543!4d77.1755292!16s%2Fg%2F11tdmbz58c!19sChIJRdxrIl95BTkRp-fI4V8bCKQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Atulaya+Healthcare/data=!4m7!3m6!1s0x3905795f226bdc45:0xa4081b5fe1c8e7a7!8m2!3d31.101543!4d77.1755292!16s%2Fg%2F11tdmbz58c!19sChIJRdxrIl95BTkRp-fI4V8bCKQ?authuser=0&hl=en&rclk=1"
@@ -830,8 +824,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Atulaya+Healthcare/data=!4m7!3m6!1s0x3905795f226bdc45:0xa4081b5fe1c8e7a7!8m2!3d31.101543!4d77.1755292!16s%2Fg%2F11tdmbz58c!19sChIJRdxrIl95BTkRp-fI4V8bCKQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "basant-eye-clinic-shimla",
@@ -880,7 +873,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Basant+Eye+Clinic/data=!4m7!3m6!1s0x3905835e7777b677:0x5b1f418ab3bd8e75!8m2!3d31.0993743!4d77.2092268!16s%2Fg%2F11vcvd4md9!19sChIJd7Z3d16DBTkRdY69s4pBH1s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Basant+Eye+Clinic/data=!4m7!3m6!1s0x3905835e7777b677:0x5b1f418ab3bd8e75!8m2!3d31.0993743!4d77.2092268!16s%2Fg%2F11vcvd4md9!19sChIJd7Z3d16DBTkRdY69s4pBH1s?authuser=0&hl=en&rclk=1"
@@ -949,8 +942,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Basant+Eye+Clinic/data=!4m7!3m6!1s0x3905835e7777b677:0x5b1f418ab3bd8e75!8m2!3d31.0993743!4d77.2092268!16s%2Fg%2F11vcvd4md9!19sChIJd7Z3d16DBTkRdY69s4pBH1s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "braces-and-implants-dental-clinic-in-shimla-shimla",
@@ -999,7 +991,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Braces+%26+Implants+Dental+Clinic+in+Shimla/data=!4m7!3m6!1s0x3905796d52a6d185:0x31e668a38fffce3d!8m2!3d31.0839107!4d77.1713691!16s%2Fg%2F11pf6kjwjb!19sChIJhdGmUm15BTkRPc7_j6No5jE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Braces+%26+Implants+Dental+Clinic+in+Shimla/data=!4m7!3m6!1s0x3905796d52a6d185:0x31e668a38fffce3d!8m2!3d31.0839107!4d77.1713691!16s%2Fg%2F11pf6kjwjb!19sChIJhdGmUm15BTkRPc7_j6No5jE?authuser=0&hl=en&rclk=1"
@@ -1065,11 +1057,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Braces+%26+Implants+Dental+Clinic+in+Shimla/data=!4m7!3m6!1s0x3905796d52a6d185:0x31e668a38fffce3d!8m2!3d31.0839107!4d77.1713691!16s%2Fg%2F11pf6kjwjb!19sChIJhdGmUm15BTkRPc7_j6No5jE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chanana-medical-centre-shimla",
@@ -1117,7 +1108,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chanana+Medical+Centre/data=!4m7!3m6!1s0x390578b7daa98301:0xcda384d405aa9c!8m2!3d31.0848041!4d77.1721745!16s%2Fg%2F119vv59qs!19sChIJAYOp2rd4BTkRnKoF1ISjzQA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chanana+Medical+Centre/data=!4m7!3m6!1s0x390578b7daa98301:0xcda384d405aa9c!8m2!3d31.0848041!4d77.1721745!16s%2Fg%2F119vv59qs!19sChIJAYOp2rd4BTkRnKoF1ISjzQA?authuser=0&hl=en&rclk=1"
@@ -1186,8 +1177,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chanana+Medical+Centre/data=!4m7!3m6!1s0x390578b7daa98301:0xcda384d405aa9c!8m2!3d31.0848041!4d77.1721745!16s%2Fg%2F119vv59qs!19sChIJAYOp2rd4BTkRnKoF1ISjzQA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-clinic-and-physiotherapy-centre-shimla",
@@ -1235,7 +1225,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Clinic+%26+Physiotherapy+Centre/data=!4m7!3m6!1s0x390578936450cc05:0xe3371352a906c4ab!8m2!3d31.1043121!4d77.1736166!16s%2Fg%2F11c3k9tttx!19sChIJBcxQZJN4BTkRq8QGqVITN-M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Clinic+%26+Physiotherapy+Centre/data=!4m7!3m6!1s0x390578936450cc05:0xe3371352a906c4ab!8m2!3d31.1043121!4d77.1736166!16s%2Fg%2F11c3k9tttx!19sChIJBcxQZJN4BTkRq8QGqVITN-M?authuser=0&hl=en&rclk=1"
@@ -1304,8 +1294,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Clinic+%26+Physiotherapy+Centre/data=!4m7!3m6!1s0x390578936450cc05:0xe3371352a906c4ab!8m2!3d31.1043121!4d77.1736166!16s%2Fg%2F11c3k9tttx!19sChIJBcxQZJN4BTkRq8QGqVITN-M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "crown-32-dental-care-new-shimla-shimla",
@@ -1354,7 +1343,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Crown+32+Dental+Care+New+Shimla/data=!4m7!3m6!1s0x390579fc8e3230d7:0x5dc52895e3a5cc3!8m2!3d31.0814015!4d77.1687453!16s%2Fg%2F11j0rzyms2!19sChIJ1zAyjvx5BTkRw1w6XolS3AU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Crown+32+Dental+Care+New+Shimla/data=!4m7!3m6!1s0x390579fc8e3230d7:0x5dc52895e3a5cc3!8m2!3d31.0814015!4d77.1687453!16s%2Fg%2F11j0rzyms2!19sChIJ1zAyjvx5BTkRw1w6XolS3AU?authuser=0&hl=en&rclk=1"
@@ -1423,8 +1412,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Crown+32+Dental+Care+New+Shimla/data=!4m7!3m6!1s0x390579fc8e3230d7:0x5dc52895e3a5cc3!8m2!3d31.0814015!4d77.1687453!16s%2Fg%2F11j0rzyms2!19sChIJ1zAyjvx5BTkRw1w6XolS3AU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "crown-32-dental-care-shimla-shimla",
@@ -1473,7 +1461,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Crown+32+Dental+Care+Shimla/data=!4m7!3m6!1s0x390579590ec7ef4b:0x245255a11ae2c749!8m2!3d31.0944984!4d77.2059013!16s%2Fg%2F11y3n78k68!19sChIJS-_HDll5BTkRScfiGqFVUiQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Crown+32+Dental+Care+Shimla/data=!4m7!3m6!1s0x390579590ec7ef4b:0x245255a11ae2c749!8m2!3d31.0944984!4d77.2059013!16s%2Fg%2F11y3n78k68!19sChIJS-_HDll5BTkRScfiGqFVUiQ?authuser=0&hl=en&rclk=1"
@@ -1539,11 +1527,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Crown+32+Dental+Care+Shimla/data=!4m7!3m6!1s0x390579590ec7ef4b:0x245255a11ae2c749!8m2!3d31.0944984!4d77.2059013!16s%2Fg%2F11y3n78k68!19sChIJS-_HDll5BTkRScfiGqFVUiQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "deendyal-upadhyay-zonal-hospital-shimla",
@@ -1592,7 +1579,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Deendyal+Upadhyay+Zonal+Hospital/data=!4m7!3m6!1s0x39057894aa9bc2d1:0x9f0128bac5c7edb!8m2!3d31.1037055!4d77.171295!16s%2Fg%2F11jn6cxpvj!19sChIJ0cKbqpR4BTkR235crIsS8Ak?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deendyal+Upadhyay+Zonal+Hospital/data=!4m7!3m6!1s0x39057894aa9bc2d1:0x9f0128bac5c7edb!8m2!3d31.1037055!4d77.171295!16s%2Fg%2F11jn6cxpvj!19sChIJ0cKbqpR4BTkR235crIsS8Ak?authuser=0&hl=en&rclk=1"
@@ -1661,8 +1648,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Deendyal+Upadhyay+Zonal+Hospital/data=!4m7!3m6!1s0x39057894aa9bc2d1:0x9f0128bac5c7edb!8m2!3d31.1037055!4d77.171295!16s%2Fg%2F11jn6cxpvj!19sChIJ0cKbqpR4BTkR235crIsS8Ak?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "divya-smile-dental-clinic-shimla",
@@ -1710,7 +1696,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Divya+Smile+Dental+Clinic/data=!4m7!3m6!1s0x39057924d427b465:0xffef08cd2b6c0919!8m2!3d31.1063481!4d77.1781041!16s%2Fg%2F11r9tsp8rl!19sChIJZbQn1CR5BTkRGQlsK80I7_8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divya+Smile+Dental+Clinic/data=!4m7!3m6!1s0x39057924d427b465:0xffef08cd2b6c0919!8m2!3d31.1063481!4d77.1781041!16s%2Fg%2F11r9tsp8rl!19sChIJZbQn1CR5BTkRGQlsK80I7_8?authuser=0&hl=en&rclk=1"
@@ -1779,8 +1765,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Divya+Smile+Dental+Clinic/data=!4m7!3m6!1s0x39057924d427b465:0xffef08cd2b6c0919!8m2!3d31.1063481!4d77.1781041!16s%2Fg%2F11r9tsp8rl!19sChIJZbQn1CR5BTkRGQlsK80I7_8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "female-medicine-ward-iv-shimla",
@@ -1826,7 +1811,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Female+Medicine+Ward+IV/data=!4m7!3m6!1s0x3905796e9adb1c1f:0x8167005e2e2c147f!8m2!3d31.1070763!4d77.1819397!16s%2Fg%2F11fhryxyzf!19sChIJHxzbmm55BTkRfxQsLl4AZ4E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Female+Medicine+Ward+IV/data=!4m7!3m6!1s0x3905796e9adb1c1f:0x8167005e2e2c147f!8m2!3d31.1070763!4d77.1819397!16s%2Fg%2F11fhryxyzf!19sChIJHxzbmm55BTkRfxQsLl4AZ4E?authuser=0&hl=en&rclk=1"
@@ -1892,11 +1877,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Female+Medicine+Ward+IV/data=!4m7!3m6!1s0x3905796e9adb1c1f:0x8167005e2e2c147f!8m2!3d31.1070763!4d77.1819397!16s%2Fg%2F11fhryxyzf!19sChIJHxzbmm55BTkRfxQsLl4AZ4E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "goel-eye-and-dental-clinic-shimla",
@@ -1945,7 +1929,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Goel+Eye+%26+Dental+Clinic/data=!4m7!3m6!1s0x3905789173b04bc9:0x7aed4e73948b6c5e!8m2!3d31.106692!4d77.1785479!16s%2Fg%2F1232kdb72!19sChIJyUuwc5F4BTkRXmyLlHNO7Xo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goel+Eye+%26+Dental+Clinic/data=!4m7!3m6!1s0x3905789173b04bc9:0x7aed4e73948b6c5e!8m2!3d31.106692!4d77.1785479!16s%2Fg%2F1232kdb72!19sChIJyUuwc5F4BTkRXmyLlHNO7Xo?authuser=0&hl=en&rclk=1"
@@ -2014,8 +1998,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Goel+Eye+%26+Dental+Clinic/data=!4m7!3m6!1s0x3905789173b04bc9:0x7aed4e73948b6c5e!8m2!3d31.106692!4d77.1785479!16s%2Fg%2F1232kdb72!19sChIJyUuwc5F4BTkRXmyLlHNO7Xo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "goma-dental-clinic-and-implant-center-shimla",
@@ -2063,7 +2046,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Goma+Dental+Clinic+%26+Implant+Center/data=!4m7!3m6!1s0x3905793d20e19619:0xfd7be9ced6e2c797!8m2!3d31.0917963!4d77.1358171!16s%2Fg%2F11j8wg8crn!19sChIJGZbhID15BTkRl8fi1s7pe_0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goma+Dental+Clinic+%26+Implant+Center/data=!4m7!3m6!1s0x3905793d20e19619:0xfd7be9ced6e2c797!8m2!3d31.0917963!4d77.1358171!16s%2Fg%2F11j8wg8crn!19sChIJGZbhID15BTkRl8fi1s7pe_0?authuser=0&hl=en&rclk=1"
@@ -2132,8 +2115,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Goma+Dental+Clinic+%26+Implant+Center/data=!4m7!3m6!1s0x3905793d20e19619:0xfd7be9ced6e2c797!8m2!3d31.0917963!4d77.1358171!16s%2Fg%2F11j8wg8crn!19sChIJGZbhID15BTkRl8fi1s7pe_0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gulati-pediatric-centre-shimla",
@@ -2183,7 +2165,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gulati+Pediatric+Centre/data=!4m7!3m6!1s0x390578c70b1e79f7:0xac80f15c333c3662!8m2!3d31.0901016!4d77.1710556!16s%2Fg%2F1tct72p4!19sChIJ93keC8d4BTkRYjY8M1zxgKw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gulati+Pediatric+Centre/data=!4m7!3m6!1s0x390578c70b1e79f7:0xac80f15c333c3662!8m2!3d31.0901016!4d77.1710556!16s%2Fg%2F1tct72p4!19sChIJ93keC8d4BTkRYjY8M1zxgKw?authuser=0&hl=en&rclk=1"
@@ -2252,8 +2234,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gulati+Pediatric+Centre/data=!4m7!3m6!1s0x390578c70b1e79f7:0xac80f15c333c3662!8m2!3d31.0901016!4d77.1710556!16s%2Fg%2F1tct72p4!19sChIJ93keC8d4BTkRYjY8M1zxgKw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "himachal-dental-care-shimla",
@@ -2302,7 +2283,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HIMACHAL+DENTAL+CARE/data=!4m7!3m6!1s0x390579906034e717:0xe535dbd012ba1044!8m2!3d31.0963362!4d77.1532933!16s%2Fg%2F11k40f64xp!19sChIJF-c0YJB5BTkRRBC6EtDbNeU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HIMACHAL+DENTAL+CARE/data=!4m7!3m6!1s0x390579906034e717:0xe535dbd012ba1044!8m2!3d31.0963362!4d77.1532933!16s%2Fg%2F11k40f64xp!19sChIJF-c0YJB5BTkRRBC6EtDbNeU?authuser=0&hl=en&rclk=1"
@@ -2371,8 +2352,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HIMACHAL+DENTAL+CARE/data=!4m7!3m6!1s0x390579906034e717:0xe535dbd012ba1044!8m2!3d31.0963362!4d77.1532933!16s%2Fg%2F11k40f64xp!19sChIJF-c0YJB5BTkRRBC6EtDbNeU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hollistic-health-cure-homeopathy-clinic-psychologist-skin-and-hair-treatment-laser-and-hydrafacial-treatment-shimla",
@@ -2422,7 +2402,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hollistic+Health+Cure+%7C+Homeopathy+Clinic+%7C+Psychologist+%7C+Skin+%26+Hair+Treatment+%7C+Laser+%26+Hydrafacial+Treatment/data=!4m7!3m6!1s0x3905792fa89fe7e3:0xc7d4aaef74384431!8m2!3d31.0829071!4d77.1728315!16s%2Fg%2F11scl53tlt!19sChIJ4-efqC95BTkRMUQ4dO-q1Mc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hollistic+Health+Cure+%7C+Homeopathy+Clinic+%7C+Psychologist+%7C+Skin+%26+Hair+Treatment+%7C+Laser+%26+Hydrafacial+Treatment/data=!4m7!3m6!1s0x3905792fa89fe7e3:0xc7d4aaef74384431!8m2!3d31.0829071!4d77.1728315!16s%2Fg%2F11scl53tlt!19sChIJ4-efqC95BTkRMUQ4dO-q1Mc?authuser=0&hl=en&rclk=1"
@@ -2488,11 +2468,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hollistic+Health+Cure+%7C+Homeopathy+Clinic+%7C+Psychologist+%7C+Skin+%26+Hair+Treatment+%7C+Laser+%26+Hydrafacial+Treatment/data=!4m7!3m6!1s0x3905792fa89fe7e3:0xc7d4aaef74384431!8m2!3d31.0829071!4d77.1728315!16s%2Fg%2F11scl53tlt!19sChIJ4-efqC95BTkRMUQ4dO-q1Mc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hp-government-dental-college-and-hospital-shimla",
@@ -2542,7 +2521,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HP+Government+Dental+College+%26+Hospital/data=!4m7!3m6!1s0x3905789a0a529aad:0x1c4a8f21dcd432e7!8m2!3d31.1059602!4d77.1831494!16s%2Fg%2F1td4n1x8!19sChIJrZpSCpp4BTkR5zLU3CGPShw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HP+Government+Dental+College+%26+Hospital/data=!4m7!3m6!1s0x3905789a0a529aad:0x1c4a8f21dcd432e7!8m2!3d31.1059602!4d77.1831494!16s%2Fg%2F1td4n1x8!19sChIJrZpSCpp4BTkR5zLU3CGPShw?authuser=0&hl=en&rclk=1"
@@ -2611,8 +2590,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HP+Government+Dental+College+%26+Hospital/data=!4m7!3m6!1s0x3905789a0a529aad:0x1c4a8f21dcd432e7!8m2!3d31.1059602!4d77.1831494!16s%2Fg%2F1td4n1x8!19sChIJrZpSCpp4BTkR5zLU3CGPShw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "igmc-shimla-block-d-shimla",
@@ -2660,7 +2638,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/IGMC+Shimla+-+BLOCK+D/data=!4m7!3m6!1s0x390579e7083da177:0x67124153e526b031!8m2!3d31.1074116!4d77.1818113!16s%2Fg%2F11f6cqfdfv!19sChIJd6E9COd5BTkRMbAm5VNBEmc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IGMC+Shimla+-+BLOCK+D/data=!4m7!3m6!1s0x390579e7083da177:0x67124153e526b031!8m2!3d31.1074116!4d77.1818113!16s%2Fg%2F11f6cqfdfv!19sChIJd6E9COd5BTkRMbAm5VNBEmc?authuser=0&hl=en&rclk=1"
@@ -2729,8 +2707,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/IGMC+Shimla+-+BLOCK+D/data=!4m7!3m6!1s0x390579e7083da177:0x67124153e526b031!8m2!3d31.1074116!4d77.1818113!16s%2Fg%2F11f6cqfdfv!19sChIJd6E9COd5BTkRMbAm5VNBEmc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-gandhi-medical-college-and-hospital-shimla",
@@ -2780,7 +2757,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+Gandhi+Medical+College+%26+Hospital/data=!4m7!3m6!1s0x39057890673943bd:0x9d9fd945c9a4a3f5!8m2!3d31.1078468!4d77.1806519!16s%2Fm%2F0hn9wmv!19sChIJvUM5Z5B4BTkR9aOkyUXZn50?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+Gandhi+Medical+College+%26+Hospital/data=!4m7!3m6!1s0x39057890673943bd:0x9d9fd945c9a4a3f5!8m2!3d31.1078468!4d77.1806519!16s%2Fm%2F0hn9wmv!19sChIJvUM5Z5B4BTkR9aOkyUXZn50?authuser=0&hl=en&rclk=1"
@@ -2849,8 +2826,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+Gandhi+Medical+College+%26+Hospital/data=!4m7!3m6!1s0x39057890673943bd:0x9d9fd945c9a4a3f5!8m2!3d31.1078468!4d77.1806519!16s%2Fm%2F0hn9wmv!19sChIJvUM5Z5B4BTkR9aOkyUXZn50?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-and-ivf-center-in-shimla-best-iui-icsi-and-ivf-treatment-shimla",
@@ -2900,7 +2876,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Shimla+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/data=!4m7!3m6!1s0x390583b91c247a7f:0x27237a5552e8f1c!8m2!3d31.0791793!4d77.1806689!16s%2Fg%2F11hypp0grt!19sChIJf3okHLmDBTkRHI8uVaU3cgI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Shimla+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/data=!4m7!3m6!1s0x390583b91c247a7f:0x27237a5552e8f1c!8m2!3d31.0791793!4d77.1806689!16s%2Fg%2F11hypp0grt!19sChIJf3okHLmDBTkRHI8uVaU3cgI?authuser=0&hl=en&rclk=1"
@@ -2969,8 +2945,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Shimla+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/data=!4m7!3m6!1s0x390583b91c247a7f:0x27237a5552e8f1c!8m2!3d31.0791793!4d77.1806689!16s%2Fg%2F11hypp0grt!19sChIJf3okHLmDBTkRHI8uVaU3cgI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indu-dental-care-malyana-branch-shimla",
@@ -3018,7 +2993,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indu+Dental+Care+-+Malyana+Branch/data=!4m7!3m6!1s0x39057926c3dd67f5:0x11901ab8c5386b7!8m2!3d31.0858616!4d77.1888194!16s%2Fg%2F11kjpbfxb0!19sChIJ9WfdwyZ5BTkRt4ZTjKsBGQE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indu+Dental+Care+-+Malyana+Branch/data=!4m7!3m6!1s0x39057926c3dd67f5:0x11901ab8c5386b7!8m2!3d31.0858616!4d77.1888194!16s%2Fg%2F11kjpbfxb0!19sChIJ9WfdwyZ5BTkRt4ZTjKsBGQE?authuser=0&hl=en&rclk=1"
@@ -3084,11 +3059,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indu+Dental+Care+-+Malyana+Branch/data=!4m7!3m6!1s0x39057926c3dd67f5:0x11901ab8c5386b7!8m2!3d31.0858616!4d77.1888194!16s%2Fg%2F11kjpbfxb0!19sChIJ9WfdwyZ5BTkRt4ZTjKsBGQE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indu-dental-care-sanjauli-chowk-branch-2-best-dentist-clinic-nearby-shimla",
@@ -3136,7 +3110,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indu+Dental+Care+-+Sanjauli+Chowk-Branch+2%2FBest+Dentist+Clinic+Nearby/data=!4m7!3m6!1s0x39057908ef0216f3:0xa843ce4ebd429a13!8m2!3d31.1027303!4d77.1924391!16s%2Fg%2F11r9nrcgq8!19sChIJ8xYC7wh5BTkRE5pCvU7OQ6g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indu+Dental+Care+-+Sanjauli+Chowk-Branch+2%2FBest+Dentist+Clinic+Nearby/data=!4m7!3m6!1s0x39057908ef0216f3:0xa843ce4ebd429a13!8m2!3d31.1027303!4d77.1924391!16s%2Fg%2F11r9nrcgq8!19sChIJ8xYC7wh5BTkRE5pCvU7OQ6g?authuser=0&hl=en&rclk=1"
@@ -3202,11 +3176,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indu+Dental+Care+-+Sanjauli+Chowk-Branch+2%2FBest+Dentist+Clinic+Nearby/data=!4m7!3m6!1s0x39057908ef0216f3:0xa843ce4ebd429a13!8m2!3d31.1027303!4d77.1924391!16s%2Fg%2F11r9nrcgq8!19sChIJ8xYC7wh5BTkRE5pCvU7OQ6g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jatoli-hospital-shimla",
@@ -3254,7 +3227,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jatoli+Hospital/data=!4m7!3m6!1s0x39058131311e8419:0xbd38794ff2716507!8m2!3d31.0575773!4d77.2787832!16s%2Fg%2F11fxb5vkhm!19sChIJGYQeMTGBBTkRB2Vx8k95OL0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jatoli+Hospital/data=!4m7!3m6!1s0x39058131311e8419:0xbd38794ff2716507!8m2!3d31.0575773!4d77.2787832!16s%2Fg%2F11fxb5vkhm!19sChIJGYQeMTGBBTkRB2Vx8k95OL0?authuser=0&hl=en&rclk=1"
@@ -3320,11 +3293,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jatoli+Hospital/data=!4m7!3m6!1s0x39058131311e8419:0xbd38794ff2716507!8m2!3d31.0575773!4d77.2787832!16s%2Fg%2F11fxb5vkhm!19sChIJGYQeMTGBBTkRB2Vx8k95OL0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kamla-nehru-hospital-shimla",
@@ -3372,7 +3344,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kamla+Nehru+Hospital/data=!4m7!3m6!1s0x390578be45d5c6d3:0xbfe2fd52ca3745d9!8m2!3d31.0966289!4d77.1752519!16s%2Fg%2F1hdzd4wnx!19sChIJ08bVRb54BTkR2UU3ylL94r8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamla+Nehru+Hospital/data=!4m7!3m6!1s0x390578be45d5c6d3:0xbfe2fd52ca3745d9!8m2!3d31.0966289!4d77.1752519!16s%2Fg%2F1hdzd4wnx!19sChIJ08bVRb54BTkR2UU3ylL94r8?authuser=0&hl=en&rclk=1"
@@ -3441,8 +3413,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kamla+Nehru+Hospital/data=!4m7!3m6!1s0x390578be45d5c6d3:0xbfe2fd52ca3745d9!8m2!3d31.0966289!4d77.1752519!16s%2Fg%2F1hdzd4wnx!19sChIJ08bVRb54BTkR2UU3ylL94r8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kayaa-kalp-shimla",
@@ -3490,7 +3461,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kayaa+Kalp/data=!4m7!3m6!1s0x390583facb34194f:0xe882d4d1ae32a4c2!8m2!3d31.1035091!4d77.1948617!16s%2Fg%2F11g_x7h9my!19sChIJTxk0y_qDBTkRwqQyrtHUgug?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kayaa+Kalp/data=!4m7!3m6!1s0x390583facb34194f:0xe882d4d1ae32a4c2!8m2!3d31.1035091!4d77.1948617!16s%2Fg%2F11g_x7h9my!19sChIJTxk0y_qDBTkRwqQyrtHUgug?authuser=0&hl=en&rclk=1"
@@ -3556,11 +3527,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kayaa+Kalp/data=!4m7!3m6!1s0x390583facb34194f:0xe882d4d1ae32a4c2!8m2!3d31.1035091!4d77.1948617!16s%2Fg%2F11g_x7h9my!19sChIJTxk0y_qDBTkRwqQyrtHUgug?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "m-c-m-dental-clinic-shimla",
@@ -3609,7 +3579,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/M.C.M.+DENTAL+CLINIC/data=!4m7!3m6!1s0x39057f527155555d:0xe3f6d0c9d885007e!8m2!3d31.0779787!4d77.1830037!16s%2Fg%2F1tcxsm8n!19sChIJXVVVcVJ_BTkRfgCF2MnQ9uM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.C.M.+DENTAL+CLINIC/data=!4m7!3m6!1s0x39057f527155555d:0xe3f6d0c9d885007e!8m2!3d31.0779787!4d77.1830037!16s%2Fg%2F1tcxsm8n!19sChIJXVVVcVJ_BTkRfgCF2MnQ9uM?authuser=0&hl=en&rclk=1"
@@ -3678,8 +3648,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/M.C.M.+DENTAL+CLINIC/data=!4m7!3m6!1s0x39057f527155555d:0xe3f6d0c9d885007e!8m2!3d31.0779787!4d77.1830037!16s%2Fg%2F1tcxsm8n!19sChIJXVVVcVJ_BTkRfgCF2MnQ9uM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maneology-shimla",
@@ -3728,7 +3697,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maneology/data=!4m7!3m6!1s0x390579b478b32b75:0x1fc061b9aa5aa186!8m2!3d31.0981277!4d77.1509776!16s%2Fg%2F11v3z2hgjq!19sChIJdSuzeLR5BTkRhqFaqrlhwB8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maneology/data=!4m7!3m6!1s0x390579b478b32b75:0x1fc061b9aa5aa186!8m2!3d31.0981277!4d77.1509776!16s%2Fg%2F11v3z2hgjq!19sChIJdSuzeLR5BTkRhqFaqrlhwB8?authuser=0&hl=en&rclk=1"
@@ -3794,11 +3763,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maneology/data=!4m7!3m6!1s0x390579b478b32b75:0x1fc061b9aa5aa186!8m2!3d31.0981277!4d77.1509776!16s%2Fg%2F11v3z2hgjq!19sChIJdSuzeLR5BTkRhqFaqrlhwB8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meghna-s-dental-studio-shimla",
@@ -3846,7 +3814,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Meghna%27s+Dental+Studio/data=!4m7!3m6!1s0x3905834b61beebf5:0xad9f25b826f3d143!8m2!3d31.0946298!4d77.2074614!16s%2Fg%2F11vd9rdwrg!19sChIJ9eu-YUuDBTkRQ9HzJrgln60?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meghna%27s+Dental+Studio/data=!4m7!3m6!1s0x3905834b61beebf5:0xad9f25b826f3d143!8m2!3d31.0946298!4d77.2074614!16s%2Fg%2F11vd9rdwrg!19sChIJ9eu-YUuDBTkRQ9HzJrgln60?authuser=0&hl=en&rclk=1"
@@ -3912,11 +3880,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Meghna%27s+Dental+Studio/data=!4m7!3m6!1s0x3905834b61beebf5:0xad9f25b826f3d143!8m2!3d31.0946298!4d77.2074614!16s%2Fg%2F11vd9rdwrg!19sChIJ9eu-YUuDBTkRQ9HzJrgln60?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "military-hospital-shimla",
@@ -3964,7 +3931,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Military+Hospital/data=!4m7!3m6!1s0x3905789b79d1bc69:0x64ddb8937d5254ff!8m2!3d31.108014!4d77.1882356!16s%2Fg%2F1tf5j02n!19sChIJabzReZt4BTkR_1RSfZO43WQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Military+Hospital/data=!4m7!3m6!1s0x3905789b79d1bc69:0x64ddb8937d5254ff!8m2!3d31.108014!4d77.1882356!16s%2Fg%2F1tf5j02n!19sChIJabzReZt4BTkR_1RSfZO43WQ?authuser=0&hl=en&rclk=1"
@@ -4030,11 +3997,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Military+Hospital/data=!4m7!3m6!1s0x3905789b79d1bc69:0x64ddb8937d5254ff!8m2!3d31.108014!4d77.1882356!16s%2Fg%2F1tf5j02n!19sChIJabzReZt4BTkR_1RSfZO43WQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "moti-dental-care-shimla",
@@ -4082,7 +4048,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MOTI+Dental+Care/data=!4m7!3m6!1s0x3905789380ad8413:0xe77c04f33725e2f1!8m2!3d31.104057!4d77.17474!16s%2Fg%2F11ggqyzs5r!19sChIJE4StgJN4BTkR8eIlN_MEfOc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MOTI+Dental+Care/data=!4m7!3m6!1s0x3905789380ad8413:0xe77c04f33725e2f1!8m2!3d31.104057!4d77.17474!16s%2Fg%2F11ggqyzs5r!19sChIJE4StgJN4BTkR8eIlN_MEfOc?authuser=0&hl=en&rclk=1"
@@ -4151,8 +4117,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MOTI+Dental+Care/data=!4m7!3m6!1s0x3905789380ad8413:0xe77c04f33725e2f1!8m2!3d31.104057!4d77.17474!16s%2Fg%2F11ggqyzs5r!19sChIJE4StgJN4BTkR8eIlN_MEfOc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navjeevan-shimla",
@@ -4201,7 +4166,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NAVJEEVAN/data=!4m7!3m6!1s0x3905789e4e8e47d9:0x87e1806b06d43a89!8m2!3d31.1033062!4d77.1925653!16s%2Fg%2F11cn9qnj6p!19sChIJ2UeOTp54BTkRiTrUBmuA4Yc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NAVJEEVAN/data=!4m7!3m6!1s0x3905789e4e8e47d9:0x87e1806b06d43a89!8m2!3d31.1033062!4d77.1925653!16s%2Fg%2F11cn9qnj6p!19sChIJ2UeOTp54BTkRiTrUBmuA4Yc?authuser=0&hl=en&rclk=1"
@@ -4267,11 +4232,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NAVJEEVAN/data=!4m7!3m6!1s0x3905789e4e8e47d9:0x87e1806b06d43a89!8m2!3d31.1033062!4d77.1925653!16s%2Fg%2F11cn9qnj6p!19sChIJ2UeOTp54BTkRiTrUBmuA4Yc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oasis-aesthetics-clinic-hair-skin-and-laser-shimla",
@@ -4320,7 +4284,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oasis+Aesthetics+Clinic+Hair+%7C+skin+%26+Laser/data=!4m7!3m6!1s0x3905796b5c9d370f:0x25f7faf2d46fa1ba!8m2!3d31.0765601!4d77.1824478!16s%2Fg%2F11v5_wdp3p!19sChIJDzedXGt5BTkRuqFv1PL69yU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oasis+Aesthetics+Clinic+Hair+%7C+skin+%26+Laser/data=!4m7!3m6!1s0x3905796b5c9d370f:0x25f7faf2d46fa1ba!8m2!3d31.0765601!4d77.1824478!16s%2Fg%2F11v5_wdp3p!19sChIJDzedXGt5BTkRuqFv1PL69yU?authuser=0&hl=en&rclk=1"
@@ -4389,8 +4353,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oasis+Aesthetics+Clinic+Hair+%7C+skin+%26+Laser/data=!4m7!3m6!1s0x3905796b5c9d370f:0x25f7faf2d46fa1ba!8m2!3d31.0765601!4d77.1824478!16s%2Fg%2F11v5_wdp3p!19sChIJDzedXGt5BTkRuqFv1PL69yU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oro-dental-clinic-shimla",
@@ -4438,7 +4401,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oro+Dental+Clinic/data=!4m7!3m6!1s0x390578b7e86e9bff:0x63a2253932308c5c!8m2!3d31.0855865!4d77.1721486!16s%2Fg%2F11btwhfx95!19sChIJ_5tu6Ld4BTkRXIwwMjklomM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oro+Dental+Clinic/data=!4m7!3m6!1s0x390578b7e86e9bff:0x63a2253932308c5c!8m2!3d31.0855865!4d77.1721486!16s%2Fg%2F11btwhfx95!19sChIJ_5tu6Ld4BTkRXIwwMjklomM?authuser=0&hl=en&rclk=1"
@@ -4507,8 +4470,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oro+Dental+Clinic/data=!4m7!3m6!1s0x390578b7e86e9bff:0x63a2253932308c5c!8m2!3d31.0855865!4d77.1721486!16s%2Fg%2F11btwhfx95!19sChIJ_5tu6Ld4BTkRXIwwMjklomM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orthocare-center-shimla",
@@ -4557,7 +4519,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Orthocare+Center/data=!4m7!3m6!1s0x39057952fad0d1a1:0xf351af1b855f4bb1!8m2!3d31.1041895!4d77.1931772!16s%2Fg%2F11scyp72hb!19sChIJodHQ-lJ5BTkRsUtfhRuvUfM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orthocare+Center/data=!4m7!3m6!1s0x39057952fad0d1a1:0xf351af1b855f4bb1!8m2!3d31.1041895!4d77.1931772!16s%2Fg%2F11scyp72hb!19sChIJodHQ-lJ5BTkRsUtfhRuvUfM?authuser=0&hl=en&rclk=1"
@@ -4626,8 +4588,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Orthocare+Center/data=!4m7!3m6!1s0x39057952fad0d1a1:0xf351af1b855f4bb1!8m2!3d31.1041895!4d77.1931772!16s%2Fg%2F11scyp72hb!19sChIJodHQ-lJ5BTkRsUtfhRuvUfM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "panacea-urocare-solan",
@@ -4675,7 +4636,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Panacea,+Urocare/data=!4m7!3m6!1s0x390f8167f76d2569:0x3b5d8bc104e96912!8m2!3d30.9066001!4d77.1075669!16s%2Fg%2F11rzgsff1j!19sChIJaSVt92eBDzkREmnpBMGLXTs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Panacea,+Urocare/data=!4m7!3m6!1s0x390f8167f76d2569:0x3b5d8bc104e96912!8m2!3d30.9066001!4d77.1075669!16s%2Fg%2F11rzgsff1j!19sChIJaSVt92eBDzkREmnpBMGLXTs?authuser=0&hl=en&rclk=1"
@@ -4744,8 +4705,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Panacea,+Urocare/data=!4m7!3m6!1s0x390f8167f76d2569:0x3b5d8bc104e96912!8m2!3d30.9066001!4d77.1075669!16s%2Fg%2F11rzgsff1j!19sChIJaSVt92eBDzkREmnpBMGLXTs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "perfect-smile-dental-clinic-shimla",
@@ -4793,7 +4753,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Perfect+smile+Dental+clinic/data=!4m7!3m6!1s0x390578b62d6c9eed:0xfe1611204ccf27b7!8m2!3d31.0839054!4d77.1721849!16s%2Fg%2F1tcvggbn!19sChIJ7Z5sLbZ4BTkRtyfPTCARFv4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Perfect+smile+Dental+clinic/data=!4m7!3m6!1s0x390578b62d6c9eed:0xfe1611204ccf27b7!8m2!3d31.0839054!4d77.1721849!16s%2Fg%2F1tcvggbn!19sChIJ7Z5sLbZ4BTkRtyfPTCARFv4?authuser=0&hl=en&rclk=1"
@@ -4862,8 +4822,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Perfect+smile+Dental+clinic/data=!4m7!3m6!1s0x390578b62d6c9eed:0xfe1611204ccf27b7!8m2!3d31.0839054!4d77.1721849!16s%2Fg%2F1tcvggbn!19sChIJ7Z5sLbZ4BTkRtyfPTCARFv4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "plastic-surgery-opd-shimla",
@@ -4909,7 +4868,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Plastic+Surgery+OPD/data=!4m7!3m6!1s0x390581a85e5b4157:0x60608654c13dec1a!8m2!3d31.0761073!4d77.2106837!16s%2Fg%2F11sw2qt1fb!19sChIJV0FbXqiBBTkRGuw9wVSGYGA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Plastic+Surgery+OPD/data=!4m7!3m6!1s0x390581a85e5b4157:0x60608654c13dec1a!8m2!3d31.0761073!4d77.2106837!16s%2Fg%2F11sw2qt1fb!19sChIJV0FbXqiBBTkRGuw9wVSGYGA?authuser=0&hl=en&rclk=1"
@@ -4975,11 +4934,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Plastic+Surgery+OPD/data=!4m7!3m6!1s0x390581a85e5b4157:0x60608654c13dec1a!8m2!3d31.0761073!4d77.2106837!16s%2Fg%2F11sw2qt1fb!19sChIJV0FbXqiBBTkRGuw9wVSGYGA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "regional-ayurvedic-hospital-shimla-shimla",
@@ -5027,7 +4985,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Regional+Ayurvedic+Hospital+Shimla/data=!4m7!3m6!1s0x390578b1b69f92d1:0xdf463243c5af54a5!8m2!3d31.0846019!4d77.1813205!16s%2Fg%2F11c7p6_vj6!19sChIJ0ZKftrF4BTkRpVSvxUMyRt8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Regional+Ayurvedic+Hospital+Shimla/data=!4m7!3m6!1s0x390578b1b69f92d1:0xdf463243c5af54a5!8m2!3d31.0846019!4d77.1813205!16s%2Fg%2F11c7p6_vj6!19sChIJ0ZKftrF4BTkRpVSvxUMyRt8?authuser=0&hl=en&rclk=1"
@@ -5096,8 +5054,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Regional+Ayurvedic+Hospital+Shimla/data=!4m7!3m6!1s0x390578b1b69f92d1:0xdf463243c5af54a5!8m2!3d31.0846019!4d77.1813205!16s%2Fg%2F11c7p6_vj6!19sChIJ0ZKftrF4BTkRpVSvxUMyRt8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "regional-cancer-hospital-shimla",
@@ -5146,7 +5103,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Regional+Cancer+Hospital/data=!4m7!3m6!1s0x3905789a220db5bb:0x8becc1be72fb9946!8m2!3d31.1053944!4d77.1845069!16s%2Fg%2F1ywqg115l!19sChIJu7UNIpp4BTkRRpn7cr7B7Is?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Regional+Cancer+Hospital/data=!4m7!3m6!1s0x3905789a220db5bb:0x8becc1be72fb9946!8m2!3d31.1053944!4d77.1845069!16s%2Fg%2F1ywqg115l!19sChIJu7UNIpp4BTkRRpn7cr7B7Is?authuser=0&hl=en&rclk=1"
@@ -5215,8 +5172,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Regional+Cancer+Hospital/data=!4m7!3m6!1s0x3905789a220db5bb:0x8becc1be72fb9946!8m2!3d31.1053944!4d77.1845069!16s%2Fg%2F1ywqg115l!19sChIJu7UNIpp4BTkRRpn7cr7B7Is?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "renew-you-skin-and-hair-clinic-shimla",
@@ -5265,7 +5221,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Renew+You+Skin+%26+hair+Clinic/data=!4m7!3m6!1s0x3905792e3e248c0f:0xe5d60e3fe27bfda4!8m2!3d31.0894233!4d77.1718647!16s%2Fg%2F11t46n1ys0!19sChIJD4wkPi55BTkRpP174j8O1uU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renew+You+Skin+%26+hair+Clinic/data=!4m7!3m6!1s0x3905792e3e248c0f:0xe5d60e3fe27bfda4!8m2!3d31.0894233!4d77.1718647!16s%2Fg%2F11t46n1ys0!19sChIJD4wkPi55BTkRpP174j8O1uU?authuser=0&hl=en&rclk=1"
@@ -5334,8 +5290,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Renew+You+Skin+%26+hair+Clinic/data=!4m7!3m6!1s0x3905792e3e248c0f:0xe5d60e3fe27bfda4!8m2!3d31.0894233!4d77.1718647!16s%2Fg%2F11t46n1ys0!19sChIJD4wkPi55BTkRpP174j8O1uU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-hospital-sanjauli",
@@ -5383,7 +5338,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAI+HOSPITAL/data=!4m7!3m6!1s0x3905827455555555:0xa84ff499b3deffe5!8m2!3d31.1040341!4d77.1755249!16s%2Fg%2F11gg6724f8!19sChIJVVVVVXSCBTkR5f_es5n0T6g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAI+HOSPITAL/data=!4m7!3m6!1s0x3905827455555555:0xa84ff499b3deffe5!8m2!3d31.1040341!4d77.1755249!16s%2Fg%2F11gg6724f8!19sChIJVVVVVXSCBTkR5f_es5n0T6g?authuser=0&hl=en&rclk=1"
@@ -5452,8 +5407,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAI+HOSPITAL/data=!4m7!3m6!1s0x3905827455555555:0xa84ff499b3deffe5!8m2!3d31.1040341!4d77.1755249!16s%2Fg%2F11gg6724f8!19sChIJVVVVVXSCBTkR5f_es5n0T6g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanitarium-hospital-shimla",
@@ -5502,7 +5456,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanitarium+Hospital/data=!4m7!3m6!1s0x390578e43d0bae55:0x895bfd6f18067ba3!8m2!3d31.1031228!4d77.1558045!16s%2Fg%2F11dfsv0rwv!19sChIJVa4LPeR4BTkRo3sGGG_9W4k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanitarium+Hospital/data=!4m7!3m6!1s0x390578e43d0bae55:0x895bfd6f18067ba3!8m2!3d31.1031228!4d77.1558045!16s%2Fg%2F11dfsv0rwv!19sChIJVa4LPeR4BTkRo3sGGG_9W4k?authuser=0&hl=en&rclk=1"
@@ -5571,8 +5525,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanitarium+Hospital/data=!4m7!3m6!1s0x390578e43d0bae55:0x895bfd6f18067ba3!8m2!3d31.1031228!4d77.1558045!16s%2Fg%2F11dfsv0rwv!19sChIJVa4LPeR4BTkRo3sGGG_9W4k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sankhyayan-dental-care-and-implant-centre-best-dental-clinic-rct-teeth-pain-gum-disease-filling-treatment-teeth-cleaning-shimla",
@@ -5621,7 +5574,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sankhyayan+Dental+care+and+Implant+centre+-+Best+Dental+Clinic%2FRCT%2FTeeth+Pain%2FGum+Disease%2FFilling+Treatment%2FTeeth+Cleaning/data=!4m7!3m6!1s0x390579ef78f2c2c1:0x95eaad902457df95!8m2!3d31.0833807!4d77.1742396!16s%2Fg%2F11k4fs4xfh!19sChIJwcLyeO95BTkRld9XJJCt6pU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sankhyayan+Dental+care+and+Implant+centre+-+Best+Dental+Clinic%2FRCT%2FTeeth+Pain%2FGum+Disease%2FFilling+Treatment%2FTeeth+Cleaning/data=!4m7!3m6!1s0x390579ef78f2c2c1:0x95eaad902457df95!8m2!3d31.0833807!4d77.1742396!16s%2Fg%2F11k4fs4xfh!19sChIJwcLyeO95BTkRld9XJJCt6pU?authuser=0&hl=en&rclk=1"
@@ -5690,8 +5643,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sankhyayan+Dental+care+and+Implant+centre+-+Best+Dental+Clinic%2FRCT%2FTeeth+Pain%2FGum+Disease%2FFilling+Treatment%2FTeeth+Cleaning/data=!4m7!3m6!1s0x390579ef78f2c2c1:0x95eaad902457df95!8m2!3d31.0833807!4d77.1742396!16s%2Fg%2F11k4fs4xfh!19sChIJwcLyeO95BTkRld9XJJCt6pU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarin-s-glow-and-smile-shimla",
@@ -5739,7 +5691,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarin%27s+Glow+%26+Smile/data=!4m7!3m6!1s0x390578b6321606d7:0x8638d2c0946cbb5a!8m2!3d31.0838076!4d77.172336!16s%2Fg%2F11c3k32f9g!19sChIJ1wYWMrZ4BTkRWrtslMDSOIY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarin%27s+Glow+%26+Smile/data=!4m7!3m6!1s0x390578b6321606d7:0x8638d2c0946cbb5a!8m2!3d31.0838076!4d77.172336!16s%2Fg%2F11c3k32f9g!19sChIJ1wYWMrZ4BTkRWrtslMDSOIY?authuser=0&hl=en&rclk=1"
@@ -5808,8 +5760,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarin%27s+Glow+%26+Smile/data=!4m7!3m6!1s0x390578b6321606d7:0x8638d2c0946cbb5a!8m2!3d31.0838076!4d77.172336!16s%2Fg%2F11c3k32f9g!19sChIJ1wYWMrZ4BTkRWrtslMDSOIY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shimla-bone-and-joint-centre-shimla",
@@ -5858,7 +5809,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shimla+Bone+And+Joint+Centre/data=!4m7!3m6!1s0x390578ec9a17fd2d:0x155aed165fb8a64a!8m2!3d31.1040365!4d77.1696516!16s%2Fg%2F11c3k9vclg!19sChIJLf0Xmux4BTkRSqa4XxbtWhU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shimla+Bone+And+Joint+Centre/data=!4m7!3m6!1s0x390578ec9a17fd2d:0x155aed165fb8a64a!8m2!3d31.1040365!4d77.1696516!16s%2Fg%2F11c3k9vclg!19sChIJLf0Xmux4BTkRSqa4XxbtWhU?authuser=0&hl=en&rclk=1"
@@ -5927,8 +5878,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shimla+Bone+And+Joint+Centre/data=!4m7!3m6!1s0x390578ec9a17fd2d:0x155aed165fb8a64a!8m2!3d31.1040365!4d77.1696516!16s%2Fg%2F11c3k9vclg!19sChIJLf0Xmux4BTkRSqa4XxbtWhU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shimla-psychiatric-hospital-shimla",
@@ -5976,7 +5926,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shimla+Psychiatric+Hospital/data=!4m7!3m6!1s0x390583e7a1d1909b:0x39e953fec7fc4656!8m2!3d31.0980873!4d77.2026323!16s%2Fg%2F11j_15zm_b!19sChIJm5DRoeeDBTkRVkb8x_5T6Tk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shimla+Psychiatric+Hospital/data=!4m7!3m6!1s0x390583e7a1d1909b:0x39e953fec7fc4656!8m2!3d31.0980873!4d77.2026323!16s%2Fg%2F11j_15zm_b!19sChIJm5DRoeeDBTkRVkb8x_5T6Tk?authuser=0&hl=en&rclk=1"
@@ -6045,8 +5995,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shimla+Psychiatric+Hospital/data=!4m7!3m6!1s0x390583e7a1d1909b:0x39e953fec7fc4656!8m2!3d31.0980873!4d77.2026323!16s%2Fg%2F11j_15zm_b!19sChIJm5DRoeeDBTkRVkb8x_5T6Tk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiva-hospital-solan",
@@ -6094,7 +6043,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiva+Hospital/data=!4m7!3m6!1s0x390f814ba3afcc0f:0x4abea1159028ea37!8m2!3d30.907034!4d77.105906!16s%2Fg%2F11bv2gzzx3!19sChIJD8yvo0uBDzkRN-ookBWhvko?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiva+Hospital/data=!4m7!3m6!1s0x390f814ba3afcc0f:0x4abea1159028ea37!8m2!3d30.907034!4d77.105906!16s%2Fg%2F11bv2gzzx3!19sChIJD8yvo0uBDzkRN-ookBWhvko?authuser=0&hl=en&rclk=1"
@@ -6163,8 +6112,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiva+Hospital/data=!4m7!3m6!1s0x390f814ba3afcc0f:0x4abea1159028ea37!8m2!3d30.907034!4d77.105906!16s%2Fg%2F11bv2gzzx3!19sChIJD8yvo0uBDzkRN-ookBWhvko?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiwalik-medical-center-shimla",
@@ -6210,7 +6158,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiwalik+Medical+Center/data=!4m7!3m6!1s0x39058272ff9ad74f:0x948c39225132a785!8m2!3d31.1040246!4d77.2033028!16s%2Fg%2F11c3k6jft7!19sChIJT9ea_3KCBTkRhacyUSI5jJQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiwalik+Medical+Center/data=!4m7!3m6!1s0x39058272ff9ad74f:0x948c39225132a785!8m2!3d31.1040246!4d77.2033028!16s%2Fg%2F11c3k6jft7!19sChIJT9ea_3KCBTkRhacyUSI5jJQ?authuser=0&hl=en&rclk=1"
@@ -6276,11 +6224,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiwalik+Medical+Center/data=!4m7!3m6!1s0x39058272ff9ad74f:0x948c39225132a785!8m2!3d31.1040246!4d77.2033028!16s%2Fg%2F11c3k6jft7!19sChIJT9ea_3KCBTkRhacyUSI5jJQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-ram-dental-clinic-sanjauli-shimla-shimla",
@@ -6328,7 +6275,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Ram+Dental+Clinic,+Sanjauli+Shimla/data=!4m7!3m6!1s0x39058326dceb2c17:0x71fd33ccfdbabbb0!8m2!3d31.1028323!4d77.197141!16s%2Fg%2F11ry5zy27z!19sChIJFyzr3CaDBTkRsLu6_cwz_XE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Ram+Dental+Clinic,+Sanjauli+Shimla/data=!4m7!3m6!1s0x39058326dceb2c17:0x71fd33ccfdbabbb0!8m2!3d31.1028323!4d77.197141!16s%2Fg%2F11ry5zy27z!19sChIJFyzr3CaDBTkRsLu6_cwz_XE?authuser=0&hl=en&rclk=1"
@@ -6394,11 +6341,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Ram+Dental+Clinic,+Sanjauli+Shimla/data=!4m7!3m6!1s0x39058326dceb2c17:0x71fd33ccfdbabbb0!8m2!3d31.1028323!4d77.197141!16s%2Fg%2F11ry5zy27z!19sChIJFyzr3CaDBTkRsLu6_cwz_XE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-craft-dental-clinic-best-dentist-in-shimla-shimla",
@@ -6447,7 +6393,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Craft+Dental+Clinic+%7C+Best+Dentist+in+Shimla/data=!4m7!3m6!1s0x39058321b506f5a1:0x24f94b6cec69982a!8m2!3d31.1110811!4d77.1980556!16s%2Fg%2F11ybc8bpcr!19sChIJofUGtSGDBTkRKphp7GxL-SQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Craft+Dental+Clinic+%7C+Best+Dentist+in+Shimla/data=!4m7!3m6!1s0x39058321b506f5a1:0x24f94b6cec69982a!8m2!3d31.1110811!4d77.1980556!16s%2Fg%2F11ybc8bpcr!19sChIJofUGtSGDBTkRKphp7GxL-SQ?authuser=0&hl=en&rclk=1"
@@ -6516,8 +6462,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Craft+Dental+Clinic+%7C+Best+Dentist+in+Shimla/data=!4m7!3m6!1s0x39058321b506f5a1:0x24f94b6cec69982a!8m2!3d31.1110811!4d77.1980556!16s%2Fg%2F11ybc8bpcr!19sChIJofUGtSGDBTkRKphp7GxL-SQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smileworks-dental-clinic-shimla",
@@ -6565,7 +6510,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smileworks+Dental+Clinic/data=!4m7!3m6!1s0x3905793410b17043:0xafebc2c326388826!8m2!3d31.1096448!4d77.1389147!16s%2Fg%2F11j0q2n4y1!19sChIJQ3CxEDR5BTkRJog4JsPC668?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smileworks+Dental+Clinic/data=!4m7!3m6!1s0x3905793410b17043:0xafebc2c326388826!8m2!3d31.1096448!4d77.1389147!16s%2Fg%2F11j0q2n4y1!19sChIJQ3CxEDR5BTkRJog4JsPC668?authuser=0&hl=en&rclk=1"
@@ -6631,11 +6576,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smileworks+Dental+Clinic/data=!4m7!3m6!1s0x3905793410b17043:0xafebc2c326388826!8m2!3d31.1096448!4d77.1389147!16s%2Fg%2F11j0q2n4y1!19sChIJQ3CxEDR5BTkRJog4JsPC668?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "specialized-dental-clinic-shimla",
@@ -6683,7 +6627,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Specialized+dental+clinic/data=!4m7!3m6!1s0x390581e575e4fd57:0x262d6d3a2687566c!8m2!3d31.0709271!4d77.1802411!16s%2Fg%2F11f5zx96dc!19sChIJV_3kdeWBBTkRbFaHJjptLSY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Specialized+dental+clinic/data=!4m7!3m6!1s0x390581e575e4fd57:0x262d6d3a2687566c!8m2!3d31.0709271!4d77.1802411!16s%2Fg%2F11f5zx96dc!19sChIJV_3kdeWBBTkRbFaHJjptLSY?authuser=0&hl=en&rclk=1"
@@ -6752,8 +6696,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Specialized+dental+clinic/data=!4m7!3m6!1s0x390581e575e4fd57:0x262d6d3a2687566c!8m2!3d31.0709271!4d77.1802411!16s%2Fg%2F11f5zx96dc!19sChIJV_3kdeWBBTkRbFaHJjptLSY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srs-health-care-clinic-shimla",
@@ -6801,7 +6744,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRS+Health+Care+Clinic/data=!4m7!3m6!1s0x390578b612ccf637:0x39f21d6715a9666d!8m2!3d31.0821061!4d77.1729236!16s%2Fg%2F11c30t9zrc!19sChIJN_bMErZ4BTkRbWapFWcd8jk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRS+Health+Care+Clinic/data=!4m7!3m6!1s0x390578b612ccf637:0x39f21d6715a9666d!8m2!3d31.0821061!4d77.1729236!16s%2Fg%2F11c30t9zrc!19sChIJN_bMErZ4BTkRbWapFWcd8jk?authuser=0&hl=en&rclk=1"
@@ -6870,8 +6813,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRS+Health+Care+Clinic/data=!4m7!3m6!1s0x390578b612ccf637:0x39f21d6715a9666d!8m2!3d31.0821061!4d77.1729236!16s%2Fg%2F11c30t9zrc!19sChIJN_bMErZ4BTkRbWapFWcd8jk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surya-dental-clinic-and-implant-center-shimla",
@@ -6919,7 +6861,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surya+Dental+Clinic+%26+Implant+Center/data=!4m7!3m6!1s0x3905830ee2cbd735:0x6b17de5cfb78608a!8m2!3d31.0927851!4d77.2051493!16s%2Fg%2F11ny0p6zq_!19sChIJNdfL4g6DBTkRimB4-1zeF2s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+Dental+Clinic+%26+Implant+Center/data=!4m7!3m6!1s0x3905830ee2cbd735:0x6b17de5cfb78608a!8m2!3d31.0927851!4d77.2051493!16s%2Fg%2F11ny0p6zq_!19sChIJNdfL4g6DBTkRimB4-1zeF2s?authuser=0&hl=en&rclk=1"
@@ -6985,11 +6927,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surya+Dental+Clinic+%26+Implant+Center/data=!4m7!3m6!1s0x3905830ee2cbd735:0x6b17de5cfb78608a!8m2!3d31.0927851!4d77.2051493!16s%2Fg%2F11ny0p6zq_!19sChIJNdfL4g6DBTkRimB4-1zeF2s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tenzin-hospital-shimla",
@@ -7038,7 +6979,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tenzin+Hospital/data=!4m7!3m6!1s0x39057f4d97b6ee47:0x40b62f32d296c1db!8m2!3d31.0729091!4d77.1816306!16s%2Fg%2F11r94xn_0!19sChIJR-62l01_BTkR28GW0jIvtkA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tenzin+Hospital/data=!4m7!3m6!1s0x39057f4d97b6ee47:0x40b62f32d296c1db!8m2!3d31.0729091!4d77.1816306!16s%2Fg%2F11r94xn_0!19sChIJR-62l01_BTkR28GW0jIvtkA?authuser=0&hl=en&rclk=1"
@@ -7107,8 +7048,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tenzin+Hospital/data=!4m7!3m6!1s0x39057f4d97b6ee47:0x40b62f32d296c1db!8m2!3d31.0729091!4d77.1816306!16s%2Fg%2F11r94xn_0!19sChIJR-62l01_BTkR28GW0jIvtkA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-dentist-shimla",
@@ -7156,7 +7096,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Dentist/data=!4m7!3m6!1s0x39057f4d52c568dd:0x1f877d1cca83259c!8m2!3d31.0773311!4d77.1861119!16s%2Fg%2F11hcyvdy30!19sChIJ3WjFUk1_BTkRnCWDyhx9hx8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dentist/data=!4m7!3m6!1s0x39057f4d52c568dd:0x1f877d1cca83259c!8m2!3d31.0773311!4d77.1861119!16s%2Fg%2F11hcyvdy30!19sChIJ3WjFUk1_BTkRnCWDyhx9hx8?authuser=0&hl=en&rclk=1"
@@ -7225,8 +7165,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Dentist/data=!4m7!3m6!1s0x39057f4d52c568dd:0x1f877d1cca83259c!8m2!3d31.0773311!4d77.1861119!16s%2Fg%2F11hcyvdy30!19sChIJ3WjFUk1_BTkRnCWDyhx9hx8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-pulp-a-complete-dental-care-shimla",
@@ -7274,7 +7213,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Pulp:+A+Complete+Dental+Care/data=!4m7!3m6!1s0x390578c77d4d9b41:0x965c9ba07b43ef9a!8m2!3d31.0902942!4d77.1714747!16s%2Fg%2F11css_nz1t!19sChIJQZtNfcd4BTkRmu9De6CbXJY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Pulp:+A+Complete+Dental+Care/data=!4m7!3m6!1s0x390578c77d4d9b41:0x965c9ba07b43ef9a!8m2!3d31.0902942!4d77.1714747!16s%2Fg%2F11css_nz1t!19sChIJQZtNfcd4BTkRmu9De6CbXJY?authuser=0&hl=en&rclk=1"
@@ -7343,8 +7282,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Pulp:+A+Complete+Dental+Care/data=!4m7!3m6!1s0x390578c77d4d9b41:0x965c9ba07b43ef9a!8m2!3d31.0902942!4d77.1714747!16s%2Fg%2F11css_nz1t!19sChIJQZtNfcd4BTkRmu9De6CbXJY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vidya-clinic-and-diagnostic-centre-shimla",
@@ -7392,7 +7330,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vidya+Clinic+%26+Diagnostic+Centre/data=!4m7!3m6!1s0x390578947f6e0b13:0x27bb8e963a7675d0!8m2!3d31.1039952!4d77.1746914!16s%2Fg%2F11c3k9jzwx!19sChIJEwtuf5R4BTkR0HV2OpaOuyc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vidya+Clinic+%26+Diagnostic+Centre/data=!4m7!3m6!1s0x390578947f6e0b13:0x27bb8e963a7675d0!8m2!3d31.1039952!4d77.1746914!16s%2Fg%2F11c3k9jzwx!19sChIJEwtuf5R4BTkR0HV2OpaOuyc?authuser=0&hl=en&rclk=1"
@@ -7458,11 +7396,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vidya+Clinic+%26+Diagnostic+Centre/data=!4m7!3m6!1s0x390578947f6e0b13:0x27bb8e963a7675d0!8m2!3d31.1039952!4d77.1746914!16s%2Fg%2F11c3k9jzwx!19sChIJEwtuf5R4BTkR0HV2OpaOuyc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijay-clinic-shimla",
@@ -7510,7 +7447,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vijay+Clinic/data=!4m7!3m6!1s0x390578c79fae670d:0x1395840dd3c4efe6!8m2!3d31.0895052!4d77.1701219!16s%2Fg%2F11btyrhcjq!19sChIJDWeun8d4BTkR5u_E0w2ElRM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijay+Clinic/data=!4m7!3m6!1s0x390578c79fae670d:0x1395840dd3c4efe6!8m2!3d31.0895052!4d77.1701219!16s%2Fg%2F11btyrhcjq!19sChIJDWeun8d4BTkR5u_E0w2ElRM?authuser=0&hl=en&rclk=1"
@@ -7579,8 +7516,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vijay+Clinic/data=!4m7!3m6!1s0x390578c79fae670d:0x1395840dd3c4efe6!8m2!3d31.0895052!4d77.1701219!16s%2Fg%2F11btyrhcjq!19sChIJDWeun8d4BTkR5u_E0w2ElRM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kalra-s-dental-clinic-shimla-best-dentist-in-shimla-root-canal-treatment-in-shimla-shimla",
@@ -7629,7 +7565,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%B7%F0%9D%97%BC%F0%9D%97%BF+%28%F0%9D%97%97%F0%9D%97%BF.%29+%F0%9D%97%A5%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%82+%F0%9D%97%9E%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%BF%F0%9D%97%AE+%28+Kalra%27s+Dental+Clinic+Shimla+%29+-+Best+Dentist+in+Shimla+%7C+Root+Canal+Treatment+in+Shimla/data=!4m7!3m6!1s0x390578969ef90a23:0x98f69101ae5852b3!8m2!3d31.1029307!4d77.1772489!16s%2Fg%2F12qhdl1dp!19sChIJIwr5npZ4BTkRs1JYrgGR9pg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%B7%F0%9D%97%BC%F0%9D%97%BF+%28%F0%9D%97%97%F0%9D%97%BF.%29+%F0%9D%97%A5%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%82+%F0%9D%97%9E%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%BF%F0%9D%97%AE+%28+Kalra%27s+Dental+Clinic+Shimla+%29+-+Best+Dentist+in+Shimla+%7C+Root+Canal+Treatment+in+Shimla/data=!4m7!3m6!1s0x390578969ef90a23:0x98f69101ae5852b3!8m2!3d31.1029307!4d77.1772489!16s%2Fg%2F12qhdl1dp!19sChIJIwr5npZ4BTkRs1JYrgGR9pg?authuser=0&hl=en&rclk=1"
@@ -7698,8 +7634,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%B7%F0%9D%97%BC%F0%9D%97%BF+%28%F0%9D%97%97%F0%9D%97%BF.%29+%F0%9D%97%A5%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%82+%F0%9D%97%9E%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%BF%F0%9D%97%AE+%28+Kalra%27s+Dental+Clinic+Shimla+%29+-+Best+Dentist+in+Shimla+%7C+Root+Canal+Treatment+in+Shimla/data=!4m7!3m6!1s0x390578969ef90a23:0x98f69101ae5852b3!8m2!3d31.1029307!4d77.1772489!16s%2Fg%2F12qhdl1dp!19sChIJIwr5npZ4BTkRs1JYrgGR9pg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "solan",
@@ -7749,7 +7684,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%98%83+%F0%9D%97%9D%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BB+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/data=!4m7!3m6!1s0x390f814b0455cb51:0xc6c641f362315399!8m2!3d30.9062154!4d77.1061926!16s%2Fg%2F11bv2gzfj9!19sChIJUctVBEuBDzkRmVMxYvNBxsY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%98%83+%F0%9D%97%9D%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BB+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/data=!4m7!3m6!1s0x390f814b0455cb51:0xc6c641f362315399!8m2!3d30.9062154!4d77.1061926!16s%2Fg%2F11bv2gzfj9!19sChIJUctVBEuBDzkRmVMxYvNBxsY?authuser=0&hl=en&rclk=1"
@@ -7818,8 +7753,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%98%83+%F0%9D%97%9D%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BB+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/data=!4m7!3m6!1s0x390f814b0455cb51:0xc6c641f362315399!8m2!3d30.9062154!4d77.1061926!16s%2Fg%2F11bv2gzfj9!19sChIJUctVBEuBDzkRmVMxYvNBxsY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "and-shimla",
@@ -7868,7 +7802,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2+%26+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2/data=!4m7!3m6!1s0x3905789e3a71877f:0x39176b348f305584!8m2!3d31.1037647!4d77.1934457!16s%2Fg%2F11dx8y_p93!19sChIJf4dxOp54BTkRhFUwjzRrFzk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2+%26+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2/data=!4m7!3m6!1s0x3905789e3a71877f:0x39176b348f305584!8m2!3d31.1037647!4d77.1934457!16s%2Fg%2F11dx8y_p93!19sChIJf4dxOp54BTkRhFUwjzRrFzk?authuser=0&hl=en&rclk=1"
@@ -7937,8 +7871,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2+%26+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2/data=!4m7!3m6!1s0x3905789e3a71877f:0x39176b348f305584!8m2!3d31.1037647!4d77.1934457!16s%2Fg%2F11dx8y_p93!19sChIJf4dxOp54BTkRhFUwjzRrFzk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shimla",
@@ -7986,7 +7919,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%AA%F0%9D%97%98+%F0%9D%97%96%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%98+%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F+%F0%9D%97%96%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9C%F0%9D%97%96/data=!4m7!3m6!1s0x39058274f2c48139:0xe5eb1d5698750e7a!8m2!3d31.1030584!4d77.1987203!16s%2Fg%2F11gbzbkvgy!19sChIJOYHE8nSCBTkReg51mFYd6-U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%AA%F0%9D%97%98+%F0%9D%97%96%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%98+%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F+%F0%9D%97%96%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9C%F0%9D%97%96/data=!4m7!3m6!1s0x39058274f2c48139:0xe5eb1d5698750e7a!8m2!3d31.1030584!4d77.1987203!16s%2Fg%2F11gbzbkvgy!19sChIJOYHE8nSCBTkReg51mFYd6-U?authuser=0&hl=en&rclk=1"
@@ -8055,7 +7988,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%AA%F0%9D%97%98+%F0%9D%97%96%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%98+%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F+%F0%9D%97%96%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9C%F0%9D%97%96/data=!4m7!3m6!1s0x39058274f2c48139:0xe5eb1d5698750e7a!8m2!3d31.1030584!4d77.1987203!16s%2Fg%2F11gbzbkvgy!19sChIJOYHE8nSCBTkReg51mFYd6-U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

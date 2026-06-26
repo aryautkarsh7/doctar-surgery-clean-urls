@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Balco+Hospital/@22.4076171,82.7532932,17z/data=!3m1!4b1!4m6!3m5!1s0x3a27877ac8fe4f6b:0x422e509cbcb691a4!8m2!3d22.4076171!4d82.7532932!16s%2Fg%2F11gw2n362m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balco+Hospital/@22.4076171,82.7532932,17z/data=!3m1!4b1!4m6!3m5!1s0x3a27877ac8fe4f6b:0x422e509cbcb691a4!8m2!3d22.4076171!4d82.7532932!16s%2Fg%2F11gw2n362m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -111,11 +111,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Balco+Hospital/@22.4076171,82.7532932,17z/data=!3m1!4b1!4m6!3m5!1s0x3a27877ac8fe4f6b:0x422e509cbcb691a4!8m2!3d22.4076171!4d82.7532932!16s%2Fg%2F11gw2n362m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "d-k-hospital-korba",
@@ -163,7 +162,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/D.K.HOSPITAL/data=!4m7!3m6!1s0x3a2788cb1c472e61:0x3aa2fe1a2830c1ba!8m2!3d22.3623917!4d82.7102035!16s%2Fg%2F11vl9g5nw5!19sChIJYS5HHMuIJzoRusEwKBr-ojo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D.K.HOSPITAL/data=!4m7!3m6!1s0x3a2788cb1c472e61:0x3aa2fe1a2830c1ba!8m2!3d22.3623917!4d82.7102035!16s%2Fg%2F11vl9g5nw5!19sChIJYS5HHMuIJzoRusEwKBr-ojo?authuser=0&hl=en&rclk=1"
@@ -232,8 +231,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/D.K.HOSPITAL/data=!4m7!3m6!1s0x3a2788cb1c472e61:0x3aa2fe1a2830c1ba!8m2!3d22.3623917!4d82.7102035!16s%2Fg%2F11vl9g5nw5!19sChIJYS5HHMuIJzoRusEwKBr-ojo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hair-transplant-clinic-korba-korba",
@@ -282,7 +280,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HAIR+TRANSPLANT+CLINIC,+KORBA./data=!4m7!3m6!1s0x3a27894e4de460ef:0x63e2112c43f172f8!8m2!3d22.3602554!4d82.721788!16s%2Fg%2F11j0v1ccfz!19sChIJ72DkTU6JJzoR-HLxQywR4mM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HAIR+TRANSPLANT+CLINIC,+KORBA./data=!4m7!3m6!1s0x3a27894e4de460ef:0x63e2112c43f172f8!8m2!3d22.3602554!4d82.721788!16s%2Fg%2F11j0v1ccfz!19sChIJ72DkTU6JJzoR-HLxQywR4mM?authuser=0&hl=en&rclk=1"
@@ -351,8 +349,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HAIR+TRANSPLANT+CLINIC,+KORBA./data=!4m7!3m6!1s0x3a27894e4de460ef:0x63e2112c43f172f8!8m2!3d22.3602554!4d82.721788!16s%2Fg%2F11j0v1ccfz!19sChIJ72DkTU6JJzoR-HLxQywR4mM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "j-k-hospital-korba",
@@ -400,7 +397,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/J+K+HOSPITAL/@22.3704829,82.7338304,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2789f8ae11d899:0x38eca1ed6d2460ac!8m2!3d22.3704829!4d82.7338304!16s%2Fg%2F11lky4hwjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J+K+HOSPITAL/@22.3704829,82.7338304,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2789f8ae11d899:0x38eca1ed6d2460ac!8m2!3d22.3704829!4d82.7338304!16s%2Fg%2F11lky4hwjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -469,8 +466,7 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/J+K+HOSPITAL/@22.3704829,82.7338304,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2789f8ae11d899:0x38eca1ed6d2460ac!8m2!3d22.3704829!4d82.7338304!16s%2Fg%2F11lky4hwjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manglam-vihar-new-korba-hospital-pranav-kashyap-korba",
@@ -518,7 +514,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manglam+Vihar+New+Korba+Hospital+Pranav+Kashyap/@22.3626067,82.7353275,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278541cadaeca3:0x4fe1d63304a67ac7!8m2!3d22.3626067!4d82.7353275!16s%2Fg%2F11grpzfd3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manglam+Vihar+New+Korba+Hospital+Pranav+Kashyap/@22.3626067,82.7353275,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278541cadaeca3:0x4fe1d63304a67ac7!8m2!3d22.3626067!4d82.7353275!16s%2Fg%2F11grpzfd3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -587,8 +583,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manglam+Vihar+New+Korba+Hospital+Pranav+Kashyap/@22.3626067,82.7353275,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278541cadaeca3:0x4fe1d63304a67ac7!8m2!3d22.3626067!4d82.7353275!16s%2Fg%2F11grpzfd3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "newkorbahospital-kosabadi",
@@ -637,7 +632,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/newkorbahospital/@22.3482323,82.7023383,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278f2b3b6f223b:0xe594a461a807b28a!8m2!3d22.3482323!4d82.7023383!16s%2Fg%2F11txjcysr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/newkorbahospital/@22.3482323,82.7023383,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278f2b3b6f223b:0xe594a461a807b28a!8m2!3d22.3482323!4d82.7023383!16s%2Fg%2F11txjcysr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -703,11 +698,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/newkorbahospital/@22.3482323,82.7023383,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278f2b3b6f223b:0xe594a461a807b28a!8m2!3d22.3482323!4d82.7023383!16s%2Fg%2F11txjcysr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nkh-hospital-balco-korba",
@@ -753,7 +747,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NKH+Hospital+Balco/@22.4061857,82.7483849,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2787004cc21d05:0xb593ab50970b03de!8m2!3d22.4061857!4d82.7483849!16s%2Fg%2F11vk79k_sc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKH+Hospital+Balco/@22.4061857,82.7483849,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2787004cc21d05:0xb593ab50970b03de!8m2!3d22.4061857!4d82.7483849!16s%2Fg%2F11vk79k_sc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -819,11 +813,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NKH+Hospital+Balco/@22.4061857,82.7483849,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2787004cc21d05:0xb593ab50970b03de!8m2!3d22.4061857!4d82.7483849!16s%2Fg%2F11vk79k_sc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ozone-neuro-center-korba",
@@ -873,7 +866,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ozone+Neuro+Center/data=!4m7!3m6!1s0x3a278f4a46a5d1bd:0xd6d6bde943c422a6!8m2!3d22.3681732!4d82.7679953!16s%2Fg%2F11qm6kh819!19sChIJvdGlRkqPJzoRpiLEQ-m91tY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ozone+Neuro+Center/data=!4m7!3m6!1s0x3a278f4a46a5d1bd:0xd6d6bde943c422a6!8m2!3d22.3681732!4d82.7679953!16s%2Fg%2F11qm6kh819!19sChIJvdGlRkqPJzoRpiLEQ-m91tY?authuser=0&hl=en&rclk=1"
@@ -942,8 +935,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ozone+Neuro+Center/data=!4m7!3m6!1s0x3a278f4a46a5d1bd:0xd6d6bde943c422a6!8m2!3d22.3681732!4d82.7679953!16s%2Fg%2F11qm6kh819!19sChIJvdGlRkqPJzoRpiLEQ-m91tY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pushkar-clinic-dr-sharad-anant-korba",
@@ -991,7 +983,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pushkar+clinic+%28Dr+Sharad+Anant%29/data=!4m7!3m6!1s0x3a2788aac62d47a5:0x64c9fb41535b5584!8m2!3d22.3622797!4d82.7332004!16s%2Fg%2F11cn2_k7b2!19sChIJpUctxqqIJzoRhFVbU0H7yWQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pushkar+clinic+%28Dr+Sharad+Anant%29/data=!4m7!3m6!1s0x3a2788aac62d47a5:0x64c9fb41535b5584!8m2!3d22.3622797!4d82.7332004!16s%2Fg%2F11cn2_k7b2!19sChIJpUctxqqIJzoRhFVbU0H7yWQ?authuser=0&hl=en&rclk=1"
@@ -1060,8 +1052,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pushkar+clinic+%28Dr+Sharad+Anant%29/data=!4m7!3m6!1s0x3a2788aac62d47a5:0x64c9fb41535b5584!8m2!3d22.3622797!4d82.7332004!16s%2Fg%2F11cn2_k7b2!19sChIJpUctxqqIJzoRhFVbU0H7yWQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "renuka-diagnostics-korba",
@@ -1110,7 +1101,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Renuka+Diagnostics/@22.350566,82.7017538,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278f2fc89a6db7:0x4f908959e8919999!8m2!3d22.350566!4d82.7017538!16s%2Fg%2F11fylg2vr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renuka+Diagnostics/@22.350566,82.7017538,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278f2fc89a6db7:0x4f908959e8919999!8m2!3d22.350566!4d82.7017538!16s%2Fg%2F11fylg2vr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1176,11 +1167,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Renuka+Diagnostics/@22.350566,82.7017538,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278f2fc89a6db7:0x4f908959e8919999!8m2!3d22.350566!4d82.7017538!16s%2Fg%2F11fylg2vr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivaay-hospital-korba-korba",
@@ -1229,7 +1219,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivaay+Hospital+Korba/@22.3567939,82.7052656,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278fac3e33e833:0xd17394249c8bc3a5!8m2!3d22.3567939!4d82.7052656!16s%2Fg%2F11yywcm9sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivaay+Hospital+Korba/@22.3567939,82.7052656,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278fac3e33e833:0xd17394249c8bc3a5!8m2!3d22.3567939!4d82.7052656!16s%2Fg%2F11yywcm9sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1298,7 +1288,6 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivaay+Hospital+Korba/@22.3567939,82.7052656,17z/data=!3m1!4b1!4m6!3m5!1s0x3a278fac3e33e833:0xd17394249c8bc3a5!8m2!3d22.3567939!4d82.7052656!16s%2Fg%2F11yywcm9sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

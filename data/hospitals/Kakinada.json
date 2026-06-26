@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aasista+Dental+and+aesthetic+hospital/data=!4m7!3m6!1s0x3a38286b7a4a190f:0xab738bedd94c0b19!8m2!3d16.9700885!4d82.2361984!16s%2Fg%2F11cmhxbggz!19sChIJDxlKemsoODoRGQtM2e2Lc6s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aasista+Dental+and+aesthetic+hospital/data=!4m7!3m6!1s0x3a38286b7a4a190f:0xab738bedd94c0b19!8m2!3d16.9700885!4d82.2361984!16s%2Fg%2F11cmhxbggz!19sChIJDxlKemsoODoRGQtM2e2Lc6s?authuser=0&hl=en&rclk=1"
@@ -111,11 +111,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aasista+Dental+and+aesthetic+hospital/data=!4m7!3m6!1s0x3a38286b7a4a190f:0xab738bedd94c0b19!8m2!3d16.9700885!4d82.2361984!16s%2Fg%2F11cmhxbggz!19sChIJDxlKemsoODoRGQtM2e2Lc6s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "abhaya-dental-hospital-kakinada",
@@ -163,7 +162,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Abhaya+Dental+Hospital/data=!4m7!3m6!1s0x3a38280d26f0345f:0x7c429804bc697825!8m2!3d16.9623294!4d82.235707!16s%2Fg%2F11g01v71_m!19sChIJXzTwJg0oODoRJXhpvASYQnw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abhaya+Dental+Hospital/data=!4m7!3m6!1s0x3a38280d26f0345f:0x7c429804bc697825!8m2!3d16.9623294!4d82.235707!16s%2Fg%2F11g01v71_m!19sChIJXzTwJg0oODoRJXhpvASYQnw?authuser=0&hl=en&rclk=1"
@@ -232,8 +231,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Abhaya+Dental+Hospital/data=!4m7!3m6!1s0x3a38280d26f0345f:0x7c429804bc697825!8m2!3d16.9623294!4d82.235707!16s%2Fg%2F11g01v71_m!19sChIJXzTwJg0oODoRJXhpvASYQnw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aj-dental-and-facial-aesthetics-kakinada",
@@ -281,7 +279,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AJ+Dental+and+Facial+Aesthetics/data=!4m7!3m6!1s0x3a3829dc8b708745:0xa4e961950dfbb2a5!8m2!3d16.9620602!4d82.2453863!16s%2Fg%2F11yf6yygm1!19sChIJRYdwi9wpODoRpbL7DZVh6aQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AJ+Dental+and+Facial+Aesthetics/data=!4m7!3m6!1s0x3a3829dc8b708745:0xa4e961950dfbb2a5!8m2!3d16.9620602!4d82.2453863!16s%2Fg%2F11yf6yygm1!19sChIJRYdwi9wpODoRpbL7DZVh6aQ?authuser=0&hl=en&rclk=1"
@@ -347,11 +345,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AJ+Dental+and+Facial+Aesthetics/data=!4m7!3m6!1s0x3a3829dc8b708745:0xa4e961950dfbb2a5!8m2!3d16.9620602!4d82.2453863!16s%2Fg%2F11yf6yygm1!19sChIJRYdwi9wpODoRpbL7DZVh6aQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anand-dental-clinic-kakinada",
@@ -399,7 +396,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anand+Dental+Clinic/@16.9682515,82.2269283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828108dcced1b:0x639f8d4fc6586947!8m2!3d16.9682515!4d82.2269283!16s%2Fg%2F12hr00dc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Dental+Clinic/@16.9682515,82.2269283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828108dcced1b:0x639f8d4fc6586947!8m2!3d16.9682515!4d82.2269283!16s%2Fg%2F12hr00dc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -468,8 +465,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anand+Dental+Clinic/@16.9682515,82.2269283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828108dcced1b:0x639f8d4fc6586947!8m2!3d16.9682515!4d82.2269283!16s%2Fg%2F12hr00dc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apex-dental-hospital-ramanayyapeta",
@@ -517,7 +513,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apex+Dental+Hospital/@16.9946308,82.2474742,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382903be4bb95d:0xc0fae4e2d22426b5!8m2!3d16.9946308!4d82.2474742!16s%2Fg%2F11t2bzvg1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Dental+Hospital/@16.9946308,82.2474742,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382903be4bb95d:0xc0fae4e2d22426b5!8m2!3d16.9946308!4d82.2474742!16s%2Fg%2F11t2bzvg1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -586,8 +582,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apex+Dental+Hospital/@16.9946308,82.2474742,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382903be4bb95d:0xc0fae4e2d22426b5!8m2!3d16.9946308!4d82.2474742!16s%2Fg%2F11t2bzvg1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-dental-clinic-surya-rao-peta-best-dental-clinic-in-kakinada-root-canals-aligners-implants-crowns-kakinada",
@@ -636,7 +631,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Surya+Rao+Peta+%7C+Best+Dental+Clinic+in+Kakinada+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@16.9605481,82.2358765,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382964c81e7b5d:0xb8a924cd69a19c6f!8m2!3d16.9605481!4d82.2358765!16s%2Fg%2F11wx6y_jjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Surya+Rao+Peta+%7C+Best+Dental+Clinic+in+Kakinada+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@16.9605481,82.2358765,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382964c81e7b5d:0xb8a924cd69a19c6f!8m2!3d16.9605481!4d82.2358765!16s%2Fg%2F11wx6y_jjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -702,11 +697,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Surya+Rao+Peta+%7C+Best+Dental+Clinic+in+Kakinada+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@16.9605481,82.2358765,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382964c81e7b5d:0xb8a924cd69a19c6f!8m2!3d16.9605481!4d82.2358765!16s%2Fg%2F11wx6y_jjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospital-emergency-centre-bhanugudi-junction-kakinada",
@@ -754,7 +748,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Bhanugudi+Junction/@16.9635,82.247,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38299a6705e09f:0x3c91bea6fec0dd9e!8m2!3d16.9635!4d82.247!16s%2Fg%2F11nc7h0bc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Bhanugudi+Junction/@16.9635,82.247,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38299a6705e09f:0x3c91bea6fec0dd9e!8m2!3d16.9635!4d82.247!16s%2Fg%2F11nc7h0bc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -820,11 +814,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Bhanugudi+Junction/@16.9635,82.247,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38299a6705e09f:0x3c91bea6fec0dd9e!8m2!3d16.9635!4d82.247!16s%2Fg%2F11nc7h0bc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospital-emergency-centre-gandhinagar-kakinada",
@@ -872,7 +865,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Gandhinagar/@16.9565,82.2475,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829c84a79644f:0x156746b53242f7!8m2!3d16.9565!4d82.2475!16s%2Fg%2F11nc7grd74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Gandhinagar/@16.9565,82.2475,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829c84a79644f:0x156746b53242f7!8m2!3d16.9565!4d82.2475!16s%2Fg%2F11nc7grd74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -938,11 +931,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Gandhinagar/@16.9565,82.2475,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829c84a79644f:0x156746b53242f7!8m2!3d16.9565!4d82.2475!16s%2Fg%2F11nc7grd74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospital-emergency-centre-ganganapalli-kakinada",
@@ -990,7 +982,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Ganganapalli/@16.9755,82.2255,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829ab7a08d267:0x289aaf1699457bd0!8m2!3d16.9755!4d82.2255!16s%2Fg%2F11nc7m316g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Ganganapalli/@16.9755,82.2255,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829ab7a08d267:0x289aaf1699457bd0!8m2!3d16.9755!4d82.2255!16s%2Fg%2F11nc7m316g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1056,11 +1048,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Ganganapalli/@16.9755,82.2255,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829ab7a08d267:0x289aaf1699457bd0!8m2!3d16.9755!4d82.2255!16s%2Fg%2F11nc7m316g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospital-emergency-centre-indrapalem-kakinada",
@@ -1108,7 +1099,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Indrapalem/@16.9575,82.2502,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382922fa804431:0x4725b810d47268e9!8m2!3d16.9575!4d82.2502!16s%2Fg%2F11z5_mpkxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Indrapalem/@16.9575,82.2502,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382922fa804431:0x4725b810d47268e9!8m2!3d16.9575!4d82.2502!16s%2Fg%2F11z5_mpkxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1174,11 +1165,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Indrapalem/@16.9575,82.2502,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382922fa804431:0x4725b810d47268e9!8m2!3d16.9575!4d82.2502!16s%2Fg%2F11z5_mpkxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospital-emergency-centre-jagannaickpur-kakinada",
@@ -1226,7 +1216,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Jagannaickpur/@16.952,82.2385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3827e26be0f339:0x96ca2f2b7133f983!8m2!3d16.952!4d82.2385!16s%2Fg%2F11z514xl9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Jagannaickpur/@16.952,82.2385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3827e26be0f339:0x96ca2f2b7133f983!8m2!3d16.952!4d82.2385!16s%2Fg%2F11z514xl9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1292,11 +1282,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Jagannaickpur/@16.952,82.2385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3827e26be0f339:0x96ca2f2b7133f983!8m2!3d16.952!4d82.2385!16s%2Fg%2F11z514xl9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospital-emergency-centre-madhavapatnam-kakinada",
@@ -1344,7 +1333,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Madhavapatnam/data=!4m7!3m6!1s0x3a38273548f55f21:0xe02bbabb48934740!8m2!3d16.9455!4d82.2655!16s%2Fg%2F11nc7ly7k8!19sChIJIV_1SDUnODoRQEeTSLu6K-A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Madhavapatnam/data=!4m7!3m6!1s0x3a38273548f55f21:0xe02bbabb48934740!8m2!3d16.9455!4d82.2655!16s%2Fg%2F11nc7ly7k8!19sChIJIV_1SDUnODoRQEeTSLu6K-A?authuser=0&hl=en&rclk=1"
@@ -1410,11 +1399,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Madhavapatnam/data=!4m7!3m6!1s0x3a38273548f55f21:0xe02bbabb48934740!8m2!3d16.9455!4d82.2655!16s%2Fg%2F11nc7ly7k8!19sChIJIV_1SDUnODoRQEeTSLu6K-A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospital-emergency-centre-ramanayyapeta-kakinada",
@@ -1462,7 +1450,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Ramanayyapeta/@16.9805,82.2555,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38296f6dac81c3:0x78fa40182afc45f1!8m2!3d16.9805!4d82.2555!16s%2Fg%2F11nc7lz8f7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Ramanayyapeta/@16.9805,82.2555,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38296f6dac81c3:0x78fa40182afc45f1!8m2!3d16.9805!4d82.2555!16s%2Fg%2F11nc7lz8f7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1528,11 +1516,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Ramanayyapeta/@16.9805,82.2555,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38296f6dac81c3:0x78fa40182afc45f1!8m2!3d16.9805!4d82.2555!16s%2Fg%2F11nc7lz8f7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospital-emergency-centre-sarpavaram-kakinada",
@@ -1580,7 +1567,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Sarpavaram/data=!4m7!3m6!1s0x3a38299e6d7259a7:0xdec2f665746fe4ba!8m2!3d16.9895!4d82.2475!16s%2Fg%2F11z5108yty!19sChIJp1lybZ4pODoRuuRvdGX2wt4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Sarpavaram/data=!4m7!3m6!1s0x3a38299e6d7259a7:0xdec2f665746fe4ba!8m2!3d16.9895!4d82.2475!16s%2Fg%2F11z5108yty!19sChIJp1lybZ4pODoRuuRvdGX2wt4?authuser=0&hl=en&rclk=1"
@@ -1646,11 +1633,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Sarpavaram/data=!4m7!3m6!1s0x3a38299e6d7259a7:0xdec2f665746fe4ba!8m2!3d16.9895!4d82.2475!16s%2Fg%2F11z5108yty!19sChIJp1lybZ4pODoRuuRvdGX2wt4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospital-emergency-centre-turangi-kakinada",
@@ -1698,7 +1684,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Turangi/@17.0155,82.265,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d93b047911:0x854cc8044a9b6bb6!8m2!3d17.0155!4d82.265!16s%2Fg%2F11z5_g0z8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Turangi/@17.0155,82.265,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d93b047911:0x854cc8044a9b6bb6!8m2!3d17.0155!4d82.265!16s%2Fg%2F11z5_g0z8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1764,11 +1750,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Turangi/@17.0155,82.265,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d93b047911:0x854cc8044a9b6bb6!8m2!3d17.0155!4d82.265!16s%2Fg%2F11z5_g0z8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospital-emergency-centre-vakalapudi-kakinada",
@@ -1816,7 +1801,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Vakalapudi/data=!4m7!3m6!1s0x3a382947392a7fef:0x8c6cc77aa871f59e!8m2!3d16.9675!4d82.2805!16s%2Fg%2F11z514td2t!19sChIJ738qOUcpODoRnvVxqHrHbIw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Vakalapudi/data=!4m7!3m6!1s0x3a382947392a7fef:0x8c6cc77aa871f59e!8m2!3d16.9675!4d82.2805!16s%2Fg%2F11z514td2t!19sChIJ738qOUcpODoRnvVxqHrHbIw?authuser=0&hl=en&rclk=1"
@@ -1882,11 +1867,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+Emergency+Centre+-+Vakalapudi/data=!4m7!3m6!1s0x3a382947392a7fef:0x8c6cc77aa871f59e!8m2!3d16.9675!4d82.2805!16s%2Fg%2F11z514td2t!19sChIJ738qOUcpODoRnvVxqHrHbIw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospitals-best-hospital-in-kakinada-kakinada",
@@ -1935,7 +1919,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Kakinada/@16.9605545,82.2358552,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3780d0ccb077b7:0x2f529c4e08c9473b!8m2!3d16.9605545!4d82.2358552!16s%2Fg%2F1td7xhp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Kakinada/@16.9605545,82.2358552,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3780d0ccb077b7:0x2f529c4e08c9473b!8m2!3d16.9605545!4d82.2358552!16s%2Fg%2F1td7xhp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2004,8 +1988,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Kakinada/@16.9605545,82.2358552,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3780d0ccb077b7:0x2f529c4e08c9473b!8m2!3d16.9605545!4d82.2358552!16s%2Fg%2F1td7xhp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "atmiya-hospital-vakalapudi",
@@ -2054,7 +2037,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Atmiya+Hospital/@16.9810007,82.2528684,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38294f02794fc5:0xf690535aa4f72d0c!8m2!3d16.9810007!4d82.2528684!16s%2Fg%2F11kymp14lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Atmiya+Hospital/@16.9810007,82.2528684,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38294f02794fc5:0xf690535aa4f72d0c!8m2!3d16.9810007!4d82.2528684!16s%2Fg%2F11kymp14lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2123,8 +2106,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Atmiya+Hospital/@16.9810007,82.2528684,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38294f02794fc5:0xf690535aa4f72d0c!8m2!3d16.9810007!4d82.2528684!16s%2Fg%2F11kymp14lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "atmiya-hospital-vakalapudi",
@@ -2172,7 +2154,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Atmiya+Hospital/@16.9810356,82.2529027,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382991b45ecf67:0x1798b4a2a39bdd52!8m2!3d16.9810356!4d82.2529027!16s%2Fg%2F11lw2txp8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Atmiya+Hospital/@16.9810356,82.2529027,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382991b45ecf67:0x1798b4a2a39bdd52!8m2!3d16.9810356!4d82.2529027!16s%2Fg%2F11lw2txp8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2241,8 +2223,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Atmiya+Hospital/@16.9810356,82.2529027,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382991b45ecf67:0x1798b4a2a39bdd52!8m2!3d16.9810356!4d82.2529027!16s%2Fg%2F11lw2txp8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "avon-diagnostics-kakinada",
@@ -2290,7 +2271,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Avon+Diagnostics/@16.9543611,82.2324256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829569da63713:0x58c35034b3ca79e1!8m2!3d16.9543611!4d82.2324256!16s%2Fg%2F11gszxcrp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avon+Diagnostics/@16.9543611,82.2324256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829569da63713:0x58c35034b3ca79e1!8m2!3d16.9543611!4d82.2324256!16s%2Fg%2F11gszxcrp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2359,8 +2340,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Avon+Diagnostics/@16.9543611,82.2324256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829569da63713:0x58c35034b3ca79e1!8m2!3d16.9543611!4d82.2324256!16s%2Fg%2F11gszxcrp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ayush-dental-kakinada-suryaraopeta",
@@ -2408,7 +2388,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ayush+Dental+Kakinada/data=!4m7!3m6!1s0x3a3787f8628ebe73:0x2a38f6ef4376f70!8m2!3d16.9614765!4d82.2139557!16s%2Fg%2F11c5s93cpf!19sChIJc76OYviHNzoRcG839G6PowI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayush+Dental+Kakinada/data=!4m7!3m6!1s0x3a3787f8628ebe73:0x2a38f6ef4376f70!8m2!3d16.9614765!4d82.2139557!16s%2Fg%2F11c5s93cpf!19sChIJc76OYviHNzoRcG839G6PowI?authuser=0&hl=en&rclk=1"
@@ -2477,8 +2457,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ayush+Dental+Kakinada/data=!4m7!3m6!1s0x3a3787f8628ebe73:0x2a38f6ef4376f70!8m2!3d16.9614765!4d82.2139557!16s%2Fg%2F11c5s93cpf!19sChIJc76OYviHNzoRcG839G6PowI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bluerain-emergency-pediatric-hospitals-kakinada",
@@ -2527,7 +2506,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BlueRain+emergency+pediatric+Hospitals/data=!4m7!3m6!1s0x3a3829c925003ccf:0xa141aa293f24e66a!8m2!3d16.9600908!4d82.2345797!16s%2Fg%2F11l1bk2v9p!19sChIJzzwAJckpODoRauYkPymqQaE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BlueRain+emergency+pediatric+Hospitals/data=!4m7!3m6!1s0x3a3829c925003ccf:0xa141aa293f24e66a!8m2!3d16.9600908!4d82.2345797!16s%2Fg%2F11l1bk2v9p!19sChIJzzwAJckpODoRauYkPymqQaE?authuser=0&hl=en&rclk=1"
@@ -2596,8 +2575,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BlueRain+emergency+pediatric+Hospitals/data=!4m7!3m6!1s0x3a3829c925003ccf:0xa141aa293f24e66a!8m2!3d16.9600908!4d82.2345797!16s%2Fg%2F11l1bk2v9p!19sChIJzzwAJckpODoRauYkPymqQaE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "blueray-hospitals-kakinada",
@@ -2645,7 +2623,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Blueray+Hospitals/data=!4m7!3m6!1s0x3a382924c9dc8453:0x378aa3dc251a0e3e!8m2!3d16.9713613!4d82.2389893!16s%2Fg%2F11lgzk70pk!19sChIJU4TcySQpODoRPg4aJdyjijc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Blueray+Hospitals/data=!4m7!3m6!1s0x3a382924c9dc8453:0x378aa3dc251a0e3e!8m2!3d16.9713613!4d82.2389893!16s%2Fg%2F11lgzk70pk!19sChIJU4TcySQpODoRPg4aJdyjijc?authuser=0&hl=en&rclk=1"
@@ -2714,8 +2692,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Blueray+Hospitals/data=!4m7!3m6!1s0x3a382924c9dc8453:0x378aa3dc251a0e3e!8m2!3d16.9713613!4d82.2389893!16s%2Fg%2F11lgzk70pk!19sChIJU4TcySQpODoRPg4aJdyjijc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-emergency-hospital-kakinada",
@@ -2763,7 +2740,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Care+Emergency+Hospital/@16.9640556,82.2318763,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280ca465eb3b:0xb8514ec0b7f8b7a6!8m2!3d16.9640556!4d82.2318763!16s%2Fg%2F1tdyzch9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+Emergency+Hospital/@16.9640556,82.2318763,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280ca465eb3b:0xb8514ec0b7f8b7a6!8m2!3d16.9640556!4d82.2318763!16s%2Fg%2F1tdyzch9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2832,8 +2809,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Care+Emergency+Hospital/@16.9640556,82.2318763,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280ca465eb3b:0xb8514ec0b7f8b7a6!8m2!3d16.9640556!4d82.2318763!16s%2Fg%2F1tdyzch9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "clove-dental-clinic-kakinada-ramaraopet-apc-kakinada",
@@ -2882,7 +2858,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Kakinada+Ramaraopet,+APC/data=!4m7!3m6!1s0x3a3827ddaf59b4f7:0x5d8c327cbeab456!8m2!3d16.9633918!4d82.2338509!16s%2Fg%2F1tcvmpsk!19sChIJ97RZr90nODoRVrTqyyfD2AU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Kakinada+Ramaraopet,+APC/data=!4m7!3m6!1s0x3a3827ddaf59b4f7:0x5d8c327cbeab456!8m2!3d16.9633918!4d82.2338509!16s%2Fg%2F1tcvmpsk!19sChIJ97RZr90nODoRVrTqyyfD2AU?authuser=0&hl=en&rclk=1"
@@ -2951,8 +2927,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Kakinada+Ramaraopet,+APC/data=!4m7!3m6!1s0x3a3827ddaf59b4f7:0x5d8c327cbeab456!8m2!3d16.9633918!4d82.2338509!16s%2Fg%2F1tcvmpsk!19sChIJ97RZr90nODoRVrTqyyfD2AU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "d-v-raju-eye-hospital-kakinada",
@@ -3001,7 +2976,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/D+V+Raju+Eye+Hospital/@16.9570638,82.2307919,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d54f735ec3:0x86fc8b052332aca!8m2!3d16.9570638!4d82.2307919!16s%2Fg%2F11rcyfmm88?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D+V+Raju+Eye+Hospital/@16.9570638,82.2307919,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d54f735ec3:0x86fc8b052332aca!8m2!3d16.9570638!4d82.2307919!16s%2Fg%2F11rcyfmm88?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3070,8 +3045,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/D+V+Raju+Eye+Hospital/@16.9570638,82.2307919,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d54f735ec3:0x86fc8b052332aca!8m2!3d16.9570638!4d82.2307919!16s%2Fg%2F11rcyfmm88?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentrust-dental-clinic-suryaraopeta",
@@ -3119,7 +3093,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DenTrust+Dental+Clinic/data=!4m7!3m6!1s0x3a3829cd8cf96121:0xdae4171bd10438d5!8m2!3d16.9744936!4d82.2269762!16s%2Fg%2F11sxwpcc31!19sChIJIWH5jM0pODoR1TgE0RsX5No?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DenTrust+Dental+Clinic/data=!4m7!3m6!1s0x3a3829cd8cf96121:0xdae4171bd10438d5!8m2!3d16.9744936!4d82.2269762!16s%2Fg%2F11sxwpcc31!19sChIJIWH5jM0pODoR1TgE0RsX5No?authuser=0&hl=en&rclk=1"
@@ -3185,11 +3159,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DenTrust+Dental+Clinic/data=!4m7!3m6!1s0x3a3829cd8cf96121:0xdae4171bd10438d5!8m2!3d16.9744936!4d82.2269762!16s%2Fg%2F11sxwpcc31!19sChIJIWH5jM0pODoR1TgE0RsX5No?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhrusti-eye-hospital-and-retina-care-ramanayyapeta",
@@ -3238,7 +3211,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DHRUSTI+EYE+HOSPITAL+and+RETINA+CARE/@16.986179,82.2367886,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d78df29551:0xe9ce06463c41427!8m2!3d16.986179!4d82.2367886!16s%2Fg%2F11h1z2xlnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DHRUSTI+EYE+HOSPITAL+and+RETINA+CARE/@16.986179,82.2367886,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d78df29551:0xe9ce06463c41427!8m2!3d16.986179!4d82.2367886!16s%2Fg%2F11h1z2xlnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3307,8 +3280,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DHRUSTI+EYE+HOSPITAL+and+RETINA+CARE/@16.986179,82.2367886,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d78df29551:0xe9ce06463c41427!8m2!3d16.986179!4d82.2367886!16s%2Fg%2F11h1z2xlnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "edge-dental-clinic-ramanayyapeta",
@@ -3358,7 +3330,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/EDGE+DENTAL+CLINIC/@16.9846021,82.2408727,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829099cb45d81:0x861728e4a4f5c6c5!8m2!3d16.9846021!4d82.2408727!16s%2Fg%2F11t5jfrcds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/EDGE+DENTAL+CLINIC/@16.9846021,82.2408727,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829099cb45d81:0x861728e4a4f5c6c5!8m2!3d16.9846021!4d82.2408727!16s%2Fg%2F11t5jfrcds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3424,11 +3396,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/EDGE+DENTAL+CLINIC/@16.9846021,82.2408727,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829099cb45d81:0x861728e4a4f5c6c5!8m2!3d16.9846021!4d82.2408727!16s%2Fg%2F11t5jfrcds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "elite-dental-implants-and-facial-trauma-care-ramanayyapeta",
@@ -3477,7 +3448,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Elite+Dental+Implants+%26+Facial+Trauma+Care/@16.9827387,82.2465282,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829a3d798c67d:0xcdf9403155de5091!8m2!3d16.9827387!4d82.2465282!16s%2Fg%2F11rcnws6jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elite+Dental+Implants+%26+Facial+Trauma+Care/@16.9827387,82.2465282,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829a3d798c67d:0xcdf9403155de5091!8m2!3d16.9827387!4d82.2465282!16s%2Fg%2F11rcnws6jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3546,8 +3517,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Elite+Dental+Implants+%26+Facial+Trauma+Care/@16.9827387,82.2465282,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829a3d798c67d:0xcdf9403155de5091!8m2!3d16.9827387!4d82.2465282!16s%2Fg%2F11rcnws6jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "expert-dental-studio-kakinada",
@@ -3596,7 +3566,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Expert+Dental+Studio/data=!4m7!3m6!1s0x3a3827fe4992ac91:0xbb9f748575bb1418!8m2!3d16.9514331!4d82.236673!16s%2Fg%2F11yrrjzgh_!19sChIJkaySSf4nODoRGBS7dYV0n7s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Expert+Dental+Studio/data=!4m7!3m6!1s0x3a3827fe4992ac91:0xbb9f748575bb1418!8m2!3d16.9514331!4d82.236673!16s%2Fg%2F11yrrjzgh_!19sChIJkaySSf4nODoRGBS7dYV0n7s?authuser=0&hl=en&rclk=1"
@@ -3662,11 +3632,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Expert+Dental+Studio/data=!4m7!3m6!1s0x3a3827fe4992ac91:0xbb9f748575bb1418!8m2!3d16.9514331!4d82.236673!16s%2Fg%2F11yrrjzgh_!19sChIJkaySSf4nODoRGBS7dYV0n7s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "folica-hair-care-kakinada",
@@ -3715,7 +3684,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Folica+Hair+Care/@16.9709328,82.2358819,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828151000007b:0xe9210f78f2897bec!8m2!3d16.9709328!4d82.2358819!16s%2Fg%2F11c1tf6v_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Folica+Hair+Care/@16.9709328,82.2358819,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828151000007b:0xe9210f78f2897bec!8m2!3d16.9709328!4d82.2358819!16s%2Fg%2F11c1tf6v_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3784,8 +3753,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Folica+Hair+Care/@16.9709328,82.2358819,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828151000007b:0xe9210f78f2897bec!8m2!3d16.9709328!4d82.2358819!16s%2Fg%2F11c1tf6v_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "foundation-hospital-kakinada",
@@ -3833,7 +3801,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Foundation+Hospital/@16.9658663,82.244869,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286fd49cf7b7:0x341da6b48308ef12!8m2!3d16.9658663!4d82.244869!16s%2Fg%2F11c5zwqbqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Foundation+Hospital/@16.9658663,82.244869,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286fd49cf7b7:0x341da6b48308ef12!8m2!3d16.9658663!4d82.244869!16s%2Fg%2F11c5zwqbqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3902,8 +3870,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Foundation+Hospital/@16.9658663,82.244869,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286fd49cf7b7:0x341da6b48308ef12!8m2!3d16.9658663!4d82.244869!16s%2Fg%2F11c5zwqbqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fresh-dent-family-care-hospital-kakinada",
@@ -3952,7 +3919,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/FRESH+DENT+FAMILY+CARE+HOSPITAL/@16.9682508,82.2378104,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286d3c4ac78d:0xfab1a4c3242e1028!8m2!3d16.9682508!4d82.2378104!16s%2Fg%2F11f_0ndv32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FRESH+DENT+FAMILY+CARE+HOSPITAL/@16.9682508,82.2378104,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286d3c4ac78d:0xfab1a4c3242e1028!8m2!3d16.9682508!4d82.2378104!16s%2Fg%2F11f_0ndv32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4021,8 +3988,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/FRESH+DENT+FAMILY+CARE+HOSPITAL/@16.9682508,82.2378104,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286d3c4ac78d:0xfab1a4c3242e1028!8m2!3d16.9682508!4d82.2378104!16s%2Fg%2F11f_0ndv32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fresh-dent-family-care-hospital-ramanayyapeta",
@@ -4071,7 +4037,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/FRESH+DENT+FAMILY+CARE+HOSPITAL/@16.9952263,82.245455,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38292fcdda3d97:0x50328b0106c03777!8m2!3d16.9952263!4d82.245455!16s%2Fg%2F11ss8v_wvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FRESH+DENT+FAMILY+CARE+HOSPITAL/@16.9952263,82.245455,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38292fcdda3d97:0x50328b0106c03777!8m2!3d16.9952263!4d82.245455!16s%2Fg%2F11ss8v_wvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4137,11 +4103,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/FRESH+DENT+FAMILY+CARE+HOSPITAL/@16.9952263,82.245455,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38292fcdda3d97:0x50328b0106c03777!8m2!3d16.9952263!4d82.245455!16s%2Fg%2F11ss8v_wvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "g-g-h-kakinada-kakinada",
@@ -4189,7 +4154,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/G.G.H.+Kakinada/@16.9549687,82.2301022,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382808f5c0a8cb:0xb633129b023be82!8m2!3d16.9549687!4d82.2301022!16s%2Fg%2F1tj7ttf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/G.G.H.+Kakinada/@16.9549687,82.2301022,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382808f5c0a8cb:0xb633129b023be82!8m2!3d16.9549687!4d82.2301022!16s%2Fg%2F1tj7ttf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4258,8 +4223,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/G.G.H.+Kakinada/@16.9549687,82.2301022,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382808f5c0a8cb:0xb633129b023be82!8m2!3d16.9549687!4d82.2301022!16s%2Fg%2F1tj7ttf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "godavari-heart-care-center-kakinada",
@@ -4308,7 +4272,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Godavari+Heart+Care+center/@16.9670633,82.2313765,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38281227cb8f23:0xdaa442ce21ca1bca!8m2!3d16.9670633!4d82.2313765!16s%2Fg%2F1tkp3ddx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Godavari+Heart+Care+center/@16.9670633,82.2313765,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38281227cb8f23:0xdaa442ce21ca1bca!8m2!3d16.9670633!4d82.2313765!16s%2Fg%2F1tkp3ddx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4377,8 +4341,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Godavari+Heart+Care+center/@16.9670633,82.2313765,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38281227cb8f23:0xdaa442ce21ca1bca!8m2!3d16.9670633!4d82.2313765!16s%2Fg%2F1tkp3ddx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "godavari-multispecality-dental-hospital-ramanayyapeta",
@@ -4426,7 +4389,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Godavari+Multispecality+Dental+Hospital/@16.9951511,82.2424986,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38284c0390d255:0x1a1ce5e312f5fe66!8m2!3d16.9951511!4d82.2424986!16s%2Fg%2F1tflkvy4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Godavari+Multispecality+Dental+Hospital/@16.9951511,82.2424986,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38284c0390d255:0x1a1ce5e312f5fe66!8m2!3d16.9951511!4d82.2424986!16s%2Fg%2F1tflkvy4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4495,8 +4458,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Godavari+Multispecality+Dental+Hospital/@16.9951511,82.2424986,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38284c0390d255:0x1a1ce5e312f5fe66!8m2!3d16.9951511!4d82.2424986!16s%2Fg%2F1tflkvy4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "godavari-vascular-and-chest-clinic-kakinada",
@@ -4546,7 +4508,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GODAVARI+VASCULAR+AND+CHEST+CLINIC/data=!4m7!3m6!1s0x3a38294a1d48f83d:0x96990b76d2b4e6e!8m2!3d16.9549827!4d82.2329204!16s%2Fg%2F11s188lzwt!19sChIJPfhIHUopODoRbk4rbbeQaQk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GODAVARI+VASCULAR+AND+CHEST+CLINIC/data=!4m7!3m6!1s0x3a38294a1d48f83d:0x96990b76d2b4e6e!8m2!3d16.9549827!4d82.2329204!16s%2Fg%2F11s188lzwt!19sChIJPfhIHUopODoRbk4rbbeQaQk?authuser=0&hl=en&rclk=1"
@@ -4615,8 +4577,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GODAVARI+VASCULAR+AND+CHEST+CLINIC/data=!4m7!3m6!1s0x3a38294a1d48f83d:0x96990b76d2b4e6e!8m2!3d16.9549827!4d82.2329204!16s%2Fg%2F11s188lzwt!19sChIJPfhIHUopODoRbk4rbbeQaQk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hasini-dental-clinic-suryaraopeta",
@@ -4664,7 +4625,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hasini+Dental+Clinic/@16.9603539,82.221221,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828047bc0d8df:0xffe838581b1cd1f8!8m2!3d16.9603539!4d82.221221!16s%2Fg%2F11hd1mnrz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hasini+Dental+Clinic/@16.9603539,82.221221,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828047bc0d8df:0xffe838581b1cd1f8!8m2!3d16.9603539!4d82.221221!16s%2Fg%2F11hd1mnrz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4733,8 +4694,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hasini+Dental+Clinic/@16.9603539,82.221221,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828047bc0d8df:0xffe838581b1cd1f8!8m2!3d16.9603539!4d82.221221!16s%2Fg%2F11hd1mnrz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "heart-brain-and-kidney-kakinada",
@@ -4785,7 +4745,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Heart+Brain+%26+Kidney/@16.9732519,82.2377766,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b3cd852ed:0x53ed0ae4c360fb5d!8m2!3d16.9732519!4d82.2377766!16s%2Fg%2F11byv9yddc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heart+Brain+%26+Kidney/@16.9732519,82.2377766,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b3cd852ed:0x53ed0ae4c360fb5d!8m2!3d16.9732519!4d82.2377766!16s%2Fg%2F11byv9yddc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4854,8 +4814,7 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Heart+Brain+%26+Kidney/@16.9732519,82.2377766,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b3cd852ed:0x53ed0ae4c360fb5d!8m2!3d16.9732519!4d82.2377766!16s%2Fg%2F11byv9yddc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hrudeyaa-heart-care-kakinada",
@@ -4904,7 +4863,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hrudeyaa+Heart+Care/data=!4m7!3m6!1s0x3a38286d2355b1e7:0xcde7aeb7b23f1510!8m2!3d16.9679153!4d82.2375928!16s%2Fg%2F11css6hsc7!19sChIJ57FVI20oODoREBU_sreu580?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hrudeyaa+Heart+Care/data=!4m7!3m6!1s0x3a38286d2355b1e7:0xcde7aeb7b23f1510!8m2!3d16.9679153!4d82.2375928!16s%2Fg%2F11css6hsc7!19sChIJ57FVI20oODoREBU_sreu580?authuser=0&hl=en&rclk=1"
@@ -4973,8 +4932,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hrudeyaa+Heart+Care/data=!4m7!3m6!1s0x3a38286d2355b1e7:0xcde7aeb7b23f1510!8m2!3d16.9679153!4d82.2375928!16s%2Fg%2F11css6hsc7!19sChIJ57FVI20oODoREBU_sreu580?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "inodaya-hospitals-ramanayyapeta",
@@ -5023,7 +4981,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/INODAYA+HOSPITALS/@16.9846921,82.2422707,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38284420c3a14b:0xca63f2cefa468478!8m2!3d16.9846921!4d82.2422707!16s%2Fg%2F11c5rp6zgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/INODAYA+HOSPITALS/@16.9846921,82.2422707,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38284420c3a14b:0xca63f2cefa468478!8m2!3d16.9846921!4d82.2422707!16s%2Fg%2F11c5rp6zgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5092,8 +5050,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/INODAYA+HOSPITALS/@16.9846921,82.2422707,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38284420c3a14b:0xca63f2cefa468478!8m2!3d16.9846921!4d82.2422707!16s%2Fg%2F11c5rp6zgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ivory-dental-kakinada",
@@ -5141,7 +5098,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ivory+Dental/data=!4m7!3m6!1s0x3a3827aa0a2bc485:0x2006acdde3b619dc!8m2!3d16.9505943!4d82.2364143!16s%2Fg%2F11h9kykzjx!19sChIJhcQrCqonODoR3Bm2492sBiA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ivory+Dental/data=!4m7!3m6!1s0x3a3827aa0a2bc485:0x2006acdde3b619dc!8m2!3d16.9505943!4d82.2364143!16s%2Fg%2F11h9kykzjx!19sChIJhcQrCqonODoR3Bm2492sBiA?authuser=0&hl=en&rclk=1"
@@ -5210,8 +5167,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ivory+Dental/data=!4m7!3m6!1s0x3a3827aa0a2bc485:0x2006acdde3b619dc!8m2!3d16.9505943!4d82.2364143!16s%2Fg%2F11h9kykzjx!19sChIJhcQrCqonODoR3Bm2492sBiA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kakinada-skin-center-kakinada",
@@ -5260,7 +5216,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kakinada+Skin+Center/@16.9637184,82.2302856,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280e1399fd23:0x887c728acce7d303!8m2!3d16.9637184!4d82.2302856!16s%2Fg%2F1tgd4yqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kakinada+Skin+Center/@16.9637184,82.2302856,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280e1399fd23:0x887c728acce7d303!8m2!3d16.9637184!4d82.2302856!16s%2Fg%2F1tgd4yqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5329,8 +5285,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kakinada+Skin+Center/@16.9637184,82.2302856,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280e1399fd23:0x887c728acce7d303!8m2!3d16.9637184!4d82.2302856!16s%2Fg%2F1tgd4yqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kishore-dental-care-suryaraopeta",
@@ -5378,7 +5333,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KISHORE+DENTAL+CARE/@16.9757887,82.2253563,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38294ef4766eaf:0xa2e8770d2633b274!8m2!3d16.9757887!4d82.2253563!16s%2Fg%2F11rqzd1tr8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KISHORE+DENTAL+CARE/@16.9757887,82.2253563,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38294ef4766eaf:0xa2e8770d2633b274!8m2!3d16.9757887!4d82.2253563!16s%2Fg%2F11rqzd1tr8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5444,11 +5399,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KISHORE+DENTAL+CARE/@16.9757887,82.2253563,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38294ef4766eaf:0xa2e8770d2633b274!8m2!3d16.9757887!4d82.2253563!16s%2Fg%2F11rqzd1tr8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-chaitanya-dental-care-ramanayyapeta",
@@ -5497,7 +5451,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Chaitanya+Dental+Care/data=!4m7!3m6!1s0x3a3829af716c8d87:0xf490756e001c8d09!8m2!3d16.9952307!4d82.2430978!16s%2Fg%2F11gmdnfd1l!19sChIJh41sca8pODoRCY0cAG51kPQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Chaitanya+Dental+Care/data=!4m7!3m6!1s0x3a3829af716c8d87:0xf490756e001c8d09!8m2!3d16.9952307!4d82.2430978!16s%2Fg%2F11gmdnfd1l!19sChIJh41sca8pODoRCY0cAG51kPQ?authuser=0&hl=en&rclk=1"
@@ -5566,8 +5520,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Chaitanya+Dental+Care/data=!4m7!3m6!1s0x3a3829af716c8d87:0xf490756e001c8d09!8m2!3d16.9952307!4d82.2430978!16s%2Fg%2F11gmdnfd1l!19sChIJh41sca8pODoRCY0cAG51kPQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-mohan-dental-care-kakinada",
@@ -5615,7 +5568,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Mohan+Dental+Care/data=!4m7!3m6!1s0x3a38280d0deeacfb:0x31f24803bfa8d396!8m2!3d16.9633053!4d82.2345084!16s%2Fg%2F11fx9b1pwh!19sChIJ-6zuDQ0oODoRltOovwNI8jE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Mohan+Dental+Care/data=!4m7!3m6!1s0x3a38280d0deeacfb:0x31f24803bfa8d396!8m2!3d16.9633053!4d82.2345084!16s%2Fg%2F11fx9b1pwh!19sChIJ-6zuDQ0oODoRltOovwNI8jE?authuser=0&hl=en&rclk=1"
@@ -5684,8 +5637,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Mohan+Dental+Care/data=!4m7!3m6!1s0x3a38280d0deeacfb:0x31f24803bfa8d396!8m2!3d16.9633053!4d82.2345084!16s%2Fg%2F11fx9b1pwh!19sChIJ-6zuDQ0oODoRltOovwNI8jE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kusuma-dental-and-maxillofacial-clinic-kakinada",
@@ -5734,7 +5686,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kusuma+dental+%26+maxillofacial+clinic/@16.9673587,82.2319256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382990b61a595b:0x4b5fea66f53b5e40!8m2!3d16.9673587!4d82.2319256!16s%2Fg%2F11k3wgzycr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kusuma+dental+%26+maxillofacial+clinic/@16.9673587,82.2319256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382990b61a595b:0x4b5fea66f53b5e40!8m2!3d16.9673587!4d82.2319256!16s%2Fg%2F11k3wgzycr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5803,8 +5755,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kusuma+dental+%26+maxillofacial+clinic/@16.9673587,82.2319256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382990b61a595b:0x4b5fea66f53b5e40!8m2!3d16.9673587!4d82.2319256!16s%2Fg%2F11k3wgzycr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kusuma-hospitals-kakinada",
@@ -5853,7 +5804,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kusuma+Hospitals/data=!4m7!3m6!1s0x3a3828110030808d:0xc13681d5dcf5fd9f!8m2!3d16.9672463!4d82.2319506!16s%2Fg%2F11jyngcrq4!19sChIJjYAwABEoODoRn_313NWBNsE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kusuma+Hospitals/data=!4m7!3m6!1s0x3a3828110030808d:0xc13681d5dcf5fd9f!8m2!3d16.9672463!4d82.2319506!16s%2Fg%2F11jyngcrq4!19sChIJjYAwABEoODoRn_313NWBNsE?authuser=0&hl=en&rclk=1"
@@ -5922,8 +5873,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kusuma+Hospitals/data=!4m7!3m6!1s0x3a3828110030808d:0xc13681d5dcf5fd9f!8m2!3d16.9672463!4d82.2319506!16s%2Fg%2F11jyngcrq4!19sChIJjYAwABEoODoRn_313NWBNsE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "laxmi-hospital-kakinada",
@@ -5972,7 +5922,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Laxmi+Hospital/@16.9724531,82.2486476,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382866130613a1:0x3ab63904a8845db1!8m2!3d16.9724531!4d82.2486476!16s%2Fg%2F1hm5l7hdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+Hospital/@16.9724531,82.2486476,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382866130613a1:0x3ab63904a8845db1!8m2!3d16.9724531!4d82.2486476!16s%2Fg%2F1hm5l7hdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6041,8 +5991,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Laxmi+Hospital/@16.9724531,82.2486476,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382866130613a1:0x3ab63904a8845db1!8m2!3d16.9724531!4d82.2486476!16s%2Fg%2F1hm5l7hdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "leela-dental-hospital-chidiga",
@@ -6090,7 +6039,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Leela+dental+hospital/@16.960945,82.2098257,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3787cab59fbbeb:0xd5a67d72b6ea7f51!8m2!3d16.960945!4d82.2098257!16s%2Fg%2F11fn32svtd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Leela+dental+hospital/@16.960945,82.2098257,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3787cab59fbbeb:0xd5a67d72b6ea7f51!8m2!3d16.960945!4d82.2098257!16s%2Fg%2F11fn32svtd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6159,8 +6108,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Leela+dental+hospital/@16.960945,82.2098257,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3787cab59fbbeb:0xd5a67d72b6ea7f51!8m2!3d16.960945!4d82.2098257!16s%2Fg%2F11fn32svtd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manoj-dental-care-kakinada",
@@ -6209,7 +6157,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MANOJ+DENTAL+CARE/@16.9641688,82.2287622,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280e32817833:0xf7b5fb27abd9da7!8m2!3d16.9641688!4d82.2287622!16s%2Fg%2F11ff546dgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MANOJ+DENTAL+CARE/@16.9641688,82.2287622,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280e32817833:0xf7b5fb27abd9da7!8m2!3d16.9641688!4d82.2287622!16s%2Fg%2F11ff546dgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6275,11 +6223,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MANOJ+DENTAL+CARE/@16.9641688,82.2287622,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280e32817833:0xf7b5fb27abd9da7!8m2!3d16.9641688!4d82.2287622!16s%2Fg%2F11ff546dgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medicover-hospitals-kakinada-panasapadu",
@@ -6328,7 +6275,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medicover+Hospitals+-+Kakinada/@17.02431,82.232311,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829ea206e370f:0xf8ba5df62f3a943!8m2!3d17.02431!4d82.232311!16s%2Fg%2F11b67kl206?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicover+Hospitals+-+Kakinada/@17.02431,82.232311,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829ea206e370f:0xf8ba5df62f3a943!8m2!3d17.02431!4d82.232311!16s%2Fg%2F11b67kl206?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6397,8 +6344,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medicover+Hospitals+-+Kakinada/@17.02431,82.232311,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829ea206e370f:0xf8ba5df62f3a943!8m2!3d17.02431!4d82.232311!16s%2Fg%2F11b67kl206?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medway-sanjivi-hospitals-kakinada",
@@ -6447,7 +6393,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medway+Sanjivi+Hospitals/data=!4m7!3m6!1s0x3a38280da6c274b3:0xdc67bacb8f15ce22!8m2!3d16.9632238!4d82.2337714!16s%2Fg%2F1tlbs49x!19sChIJs3TCpg0oODoRIs4Vj8u6Z9w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medway+Sanjivi+Hospitals/data=!4m7!3m6!1s0x3a38280da6c274b3:0xdc67bacb8f15ce22!8m2!3d16.9632238!4d82.2337714!16s%2Fg%2F1tlbs49x!19sChIJs3TCpg0oODoRIs4Vj8u6Z9w?authuser=0&hl=en&rclk=1"
@@ -6516,8 +6462,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medway+Sanjivi+Hospitals/data=!4m7!3m6!1s0x3a38280da6c274b3:0xdc67bacb8f15ce22!8m2!3d16.9632238!4d82.2337714!16s%2Fg%2F1tlbs49x!19sChIJs3TCpg0oODoRIs4Vj8u6Z9w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mk-dental-clinic-best-dental-clinic-in-kakinada-kakinada",
@@ -6566,7 +6511,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mk+Dental+Clinic+Best+Dental+Clinic+In+Kakinada/@16.967496,82.2442786,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829b1606e9123:0x11536a0818264154!8m2!3d16.967496!4d82.2442786!16s%2Fg%2F11n005bnjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mk+Dental+Clinic+Best+Dental+Clinic+In+Kakinada/@16.967496,82.2442786,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829b1606e9123:0x11536a0818264154!8m2!3d16.967496!4d82.2442786!16s%2Fg%2F11n005bnjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6635,8 +6580,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mk+Dental+Clinic+Best+Dental+Clinic+In+Kakinada/@16.967496,82.2442786,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829b1606e9123:0x11536a0818264154!8m2!3d16.967496!4d82.2442786!16s%2Fg%2F11n005bnjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mk-skin-hospitals-kakinada",
@@ -6685,7 +6629,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MK+Skin+Hospitals/@16.9707866,82.2404396,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829f96fd2956f:0x4f7ae93b88905702!8m2!3d16.9707866!4d82.2404396!16s%2Fg%2F11ptv6fyj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MK+Skin+Hospitals/@16.9707866,82.2404396,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829f96fd2956f:0x4f7ae93b88905702!8m2!3d16.9707866!4d82.2404396!16s%2Fg%2F11ptv6fyj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6754,8 +6698,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MK+Skin+Hospitals/@16.9707866,82.2404396,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829f96fd2956f:0x4f7ae93b88905702!8m2!3d16.9707866!4d82.2404396!16s%2Fg%2F11ptv6fyj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "murthy-dental-clinic-kakinada",
@@ -6803,7 +6746,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Murthy+Dental+Clinic/@16.971155,82.2354461,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382814a01a4521:0x11e4de226e9318b0!8m2!3d16.971155!4d82.2354461!16s%2Fg%2F11gd67bptc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Murthy+Dental+Clinic/@16.971155,82.2354461,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382814a01a4521:0x11e4de226e9318b0!8m2!3d16.971155!4d82.2354461!16s%2Fg%2F11gd67bptc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6872,8 +6815,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Murthy+Dental+Clinic/@16.971155,82.2354461,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382814a01a4521:0x11e4de226e9318b0!8m2!3d16.971155!4d82.2354461!16s%2Fg%2F11gd67bptc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mythri-dental-care-ramanayyapeta",
@@ -6921,7 +6863,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mythri+Dental+Care/@16.9950979,82.2424353,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38284c030655f5:0x656eaa08063ead85!8m2!3d16.9950979!4d82.2424353!16s%2Fg%2F11c0q11q_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mythri+Dental+Care/@16.9950979,82.2424353,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38284c030655f5:0x656eaa08063ead85!8m2!3d16.9950979!4d82.2424353!16s%2Fg%2F11c0q11q_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6987,11 +6929,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mythri+Dental+Care/@16.9950979,82.2424353,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38284c030655f5:0x656eaa08063ead85!8m2!3d16.9950979!4d82.2424353!16s%2Fg%2F11c0q11q_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nayana-eye-care-top-eye-care-hospital-in-kakinada-kakinada",
@@ -7041,7 +6982,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NAYANA+EYE+CARE+%7C+Top+Eye+Care+Hospital+in+Kakinada/@16.9720171,82.2375299,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b45878fab:0xc4f3f91ebf84d255!8m2!3d16.9720171!4d82.2375299!16s%2Fg%2F1v26kjgf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NAYANA+EYE+CARE+%7C+Top+Eye+Care+Hospital+in+Kakinada/@16.9720171,82.2375299,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b45878fab:0xc4f3f91ebf84d255!8m2!3d16.9720171!4d82.2375299!16s%2Fg%2F1v26kjgf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7110,8 +7051,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NAYANA+EYE+CARE+%7C+Top+Eye+Care+Hospital+in+Kakinada/@16.9720171,82.2375299,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b45878fab:0xc4f3f91ebf84d255!8m2!3d16.9720171!4d82.2375299!16s%2Fg%2F1v26kjgf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "partha-dental-clinic-kakinada-invisalign-provider-braces-root-canal-and-dental-implants-kakinada",
@@ -7160,7 +7100,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Kakinada+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Braces,+Root+Canal+%26+Dental+Implants/@16.9626101,82.2362133,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3827d7df2874f1:0xb9e5a74bcbda759a!8m2!3d16.9626101!4d82.2362133!16s%2Fg%2F11bx2k474w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Kakinada+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Braces,+Root+Canal+%26+Dental+Implants/@16.9626101,82.2362133,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3827d7df2874f1:0xb9e5a74bcbda759a!8m2!3d16.9626101!4d82.2362133!16s%2Fg%2F11bx2k474w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7229,8 +7169,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Kakinada+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Braces,+Root+Canal+%26+Dental+Implants/@16.9626101,82.2362133,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3827d7df2874f1:0xb9e5a74bcbda759a!8m2!3d16.9626101!4d82.2362133!16s%2Fg%2F11bx2k474w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prasad-s-dental-care-kakinada",
@@ -7278,7 +7217,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prasad's+Dental+care/@16.9653091,82.2246646,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38295f14497385:0x9388405780398ff1!8m2!3d16.9653091!4d82.2246646!16s%2Fg%2F11p009zz0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prasad's+Dental+care/@16.9653091,82.2246646,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38295f14497385:0x9388405780398ff1!8m2!3d16.9653091!4d82.2246646!16s%2Fg%2F11p009zz0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7344,11 +7283,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prasad's+Dental+care/@16.9653091,82.2246646,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38295f14497385:0x9388405780398ff1!8m2!3d16.9653091!4d82.2246646!16s%2Fg%2F11p009zz0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "priya-s-dental-hospital-ramanayyapeta",
@@ -7397,7 +7335,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Priya's+Dental+Hospital/@16.9958556,82.2359237,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38294d4811a2c1:0x421a6dce6be8241d!8m2!3d16.9958556!4d82.2359237!16s%2Fg%2F11tf2qz17p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Priya's+Dental+Hospital/@16.9958556,82.2359237,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38294d4811a2c1:0x421a6dce6be8241d!8m2!3d16.9958556!4d82.2359237!16s%2Fg%2F11tf2qz17p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7463,11 +7401,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Priya's+Dental+Hospital/@16.9958556,82.2359237,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38294d4811a2c1:0x421a6dce6be8241d!8m2!3d16.9958556!4d82.2359237!16s%2Fg%2F11tf2qz17p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "priyanka-children-hospital-kakinada",
@@ -7516,7 +7453,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Priyanka+Children+Hospital/@16.9384144,82.233762,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3827e900d3d5b5:0x61857e3dc389b9b7!8m2!3d16.9384144!4d82.233762!16s%2Fg%2F11c31pwpx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Priyanka+Children+Hospital/@16.9384144,82.233762,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3827e900d3d5b5:0x61857e3dc389b9b7!8m2!3d16.9384144!4d82.233762!16s%2Fg%2F11c31pwpx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7585,8 +7522,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Priyanka+Children+Hospital/@16.9384144,82.233762,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3827e900d3d5b5:0x61857e3dc389b9b7!8m2!3d16.9384144!4d82.233762!16s%2Fg%2F11c31pwpx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prudvi-dental-care-suryaraopeta",
@@ -7635,7 +7571,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PRUDVI+DENTAL+CARE/@16.9770783,82.2273336,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38283d667d84d5:0x472a7ccc1c1a4fc2!8m2!3d16.9770783!4d82.2273336!16s%2Fg%2F11f2xx_jdd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRUDVI+DENTAL+CARE/@16.9770783,82.2273336,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38283d667d84d5:0x472a7ccc1c1a4fc2!8m2!3d16.9770783!4d82.2273336!16s%2Fg%2F11f2xx_jdd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7704,8 +7640,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PRUDVI+DENTAL+CARE/@16.9770783,82.2273336,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38283d667d84d5:0x472a7ccc1c1a4fc2!8m2!3d16.9770783!4d82.2273336!16s%2Fg%2F11f2xx_jdd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raghava-24-hours-hospital-kakinada",
@@ -7753,7 +7688,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raghava+24+Hours+Hospital/@16.963326,82.232645,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280dbf176ca5:0xbba5f2bd99463984!8m2!3d16.963326!4d82.232645!16s%2Fg%2F11r48qyp52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raghava+24+Hours+Hospital/@16.963326,82.232645,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280dbf176ca5:0xbba5f2bd99463984!8m2!3d16.963326!4d82.232645!16s%2Fg%2F11r48qyp52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7822,8 +7757,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raghava+24+Hours+Hospital/@16.963326,82.232645,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280dbf176ca5:0xbba5f2bd99463984!8m2!3d16.963326!4d82.232645!16s%2Fg%2F11r48qyp52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ravi-dental-clinic-kakinada-kakinada",
@@ -7871,7 +7805,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RAVI+DENTAL+CLINIC,+KAKINADA/@16.9591283,82.2365419,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d18e8b17fb:0xe4c0ca0ab7b1ec59!8m2!3d16.9591283!4d82.2365419!16s%2Fg%2F11j3tlss3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAVI+DENTAL+CLINIC,+KAKINADA/@16.9591283,82.2365419,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d18e8b17fb:0xe4c0ca0ab7b1ec59!8m2!3d16.9591283!4d82.2365419!16s%2Fg%2F11j3tlss3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7940,8 +7874,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RAVI+DENTAL+CLINIC,+KAKINADA/@16.9591283,82.2365419,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829d18e8b17fb:0xe4c0ca0ab7b1ec59!8m2!3d16.9591283!4d82.2365419!16s%2Fg%2F11j3tlss3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ravichandra-hospital-obgyn-division-kakinada",
@@ -7989,7 +7922,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ravichandra+Hospital+OBGYN+DIVISION/@16.9636636,82.2335525,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280d9f527d97:0x7b62921eb405e6e9!8m2!3d16.9636636!4d82.2335525!16s%2Fg%2F11bc5s2pf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ravichandra+Hospital+OBGYN+DIVISION/@16.9636636,82.2335525,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280d9f527d97:0x7b62921eb405e6e9!8m2!3d16.9636636!4d82.2335525!16s%2Fg%2F11bc5s2pf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8058,8 +7991,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ravichandra+Hospital+OBGYN+DIVISION/@16.9636636,82.2335525,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280d9f527d97:0x7b62921eb405e6e9!8m2!3d16.9636636!4d82.2335525!16s%2Fg%2F11bc5s2pf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "riyanshi-cosmetic-dental-clinic-kakinada",
@@ -8107,7 +8039,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Riyanshi+Cosmetic+Dental+Clinic/@16.9725733,82.2385982,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829b64a9940c1:0xdf4f813e07ef402!8m2!3d16.9725733!4d82.2385982!16s%2Fg%2F11n9h1dsg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Riyanshi+Cosmetic+Dental+Clinic/@16.9725733,82.2385982,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829b64a9940c1:0xdf4f813e07ef402!8m2!3d16.9725733!4d82.2385982!16s%2Fg%2F11n9h1dsg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8173,11 +8105,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Riyanshi+Cosmetic+Dental+Clinic/@16.9725733,82.2385982,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829b64a9940c1:0xdf4f813e07ef402!8m2!3d16.9725733!4d82.2385982!16s%2Fg%2F11n9h1dsg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ruben-dental-care-kakinada",
@@ -8225,7 +8156,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ruben+Dental+Care/@16.9715311,82.219812,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38299a0bd791f3:0x89000b02d59abd41!8m2!3d16.9715311!4d82.219812!16s%2Fg%2F11y_55s48c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ruben+Dental+Care/@16.9715311,82.219812,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38299a0bd791f3:0x89000b02d59abd41!8m2!3d16.9715311!4d82.219812!16s%2Fg%2F11y_55s48c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8291,11 +8222,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ruben+Dental+Care/@16.9715311,82.219812,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38299a0bd791f3:0x89000b02d59abd41!8m2!3d16.9715311!4d82.219812!16s%2Fg%2F11y_55s48c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-krishna-dental-care-and-implant-center-kakinada",
@@ -8344,7 +8274,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAI+KRISHNA+DENTAL+CARE+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3a38299eed8f3ceb:0xf3915658a8ae269c!8m2!3d16.9721474!4d82.233537!16s%2Fg%2F11qp118_f7!19sChIJ6zyP7Z4pODoRnCauqFhWkfM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAI+KRISHNA+DENTAL+CARE+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3a38299eed8f3ceb:0xf3915658a8ae269c!8m2!3d16.9721474!4d82.233537!16s%2Fg%2F11qp118_f7!19sChIJ6zyP7Z4pODoRnCauqFhWkfM?authuser=0&hl=en&rclk=1"
@@ -8413,8 +8343,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAI+KRISHNA+DENTAL+CARE+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3a38299eed8f3ceb:0xf3915658a8ae269c!8m2!3d16.9721474!4d82.233537!16s%2Fg%2F11qp118_f7!19sChIJ6zyP7Z4pODoRnCauqFhWkfM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-sri-dental-clinic-kakinada",
@@ -8462,7 +8391,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Sri+Dental+Clinic/@16.9519541,82.2320555,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38272fdd67ab9f:0xafb4b071ec75851c!8m2!3d16.9519541!4d82.2320555!16s%2Fg%2F11j4gz7hj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Sri+Dental+Clinic/@16.9519541,82.2320555,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38272fdd67ab9f:0xafb4b071ec75851c!8m2!3d16.9519541!4d82.2320555!16s%2Fg%2F11j4gz7hj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8531,8 +8460,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Sri+Dental+Clinic/@16.9519541,82.2320555,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38272fdd67ab9f:0xafb4b071ec75851c!8m2!3d16.9519541!4d82.2320555!16s%2Fg%2F11j4gz7hj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-sri-krishna-clinic-kakinada",
@@ -8580,7 +8508,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Sri+Krishna+Clinic/@16.9660868,82.2284033,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382812036f2aa9:0x764e62a56afb0a5b!8m2!3d16.9660868!4d82.2284033!16s%2Fg%2F11csrrmt95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Sri+Krishna+Clinic/@16.9660868,82.2284033,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382812036f2aa9:0x764e62a56afb0a5b!8m2!3d16.9660868!4d82.2284033!16s%2Fg%2F11csrrmt95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8649,8 +8577,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Sri+Krishna+Clinic/@16.9660868,82.2284033,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382812036f2aa9:0x764e62a56afb0a5b!8m2!3d16.9660868!4d82.2284033!16s%2Fg%2F11csrrmt95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saradha-dental-clinic-suryaraopeta",
@@ -8698,7 +8625,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saradha+Dental+Clinic/@16.9606316,82.2207913,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382804716fb303:0x28adffd3d36f9178!8m2!3d16.9606316!4d82.2207913!16s%2Fg%2F11c5s487zl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saradha+Dental+Clinic/@16.9606316,82.2207913,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382804716fb303:0x28adffd3d36f9178!8m2!3d16.9606316!4d82.2207913!16s%2Fg%2F11c5s487zl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8764,11 +8691,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saradha+Dental+Clinic/@16.9606316,82.2207913,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382804716fb303:0x28adffd3d36f9178!8m2!3d16.9606316!4d82.2207913!16s%2Fg%2F11c5s487zl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarojini-devi-skin-hospital-kakinada",
@@ -8816,7 +8742,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarojini+Devi+Skin+Hospital/@16.9704512,82.2390925,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286c86294199:0xc380e02d0e5f004!8m2!3d16.9704512!4d82.2390925!16s%2Fg%2F11csr0yb6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarojini+Devi+Skin+Hospital/@16.9704512,82.2390925,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286c86294199:0xc380e02d0e5f004!8m2!3d16.9704512!4d82.2390925!16s%2Fg%2F11csr0yb6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8882,11 +8808,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarojini+Devi+Skin+Hospital/@16.9704512,82.2390925,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286c86294199:0xc380e02d0e5f004!8m2!3d16.9704512!4d82.2390925!16s%2Fg%2F11csr0yb6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sastry-dental-hospital-kakinada",
@@ -8934,7 +8859,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SASTRY+DENTAL+HOSPITAL/data=!4m7!3m6!1s0x3a382984fa429d2b:0xcdb791388de187cf!8m2!3d16.9540682!4d82.2322895!16s%2Fg%2F11s_xr3ftk!19sChIJK51C-oQpODoRz4fhjTiRt80?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SASTRY+DENTAL+HOSPITAL/data=!4m7!3m6!1s0x3a382984fa429d2b:0xcdb791388de187cf!8m2!3d16.9540682!4d82.2322895!16s%2Fg%2F11s_xr3ftk!19sChIJK51C-oQpODoRz4fhjTiRt80?authuser=0&hl=en&rclk=1"
@@ -9003,8 +8928,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SASTRY+DENTAL+HOSPITAL/data=!4m7!3m6!1s0x3a382984fa429d2b:0xcdb791388de187cf!8m2!3d16.9540682!4d82.2322895!16s%2Fg%2F11s_xr3ftk!19sChIJK51C-oQpODoRz4fhjTiRt80?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sattva-dental-kakinada-ramanayyapeta",
@@ -9053,7 +8977,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sattva+Dental,+Kakinada/data=!4m7!3m6!1s0x3a382900071cd443:0x67e4f4a6e5d27b15!8m2!3d17.002489!4d82.2455135!16s%2Fg%2F11vc931m6z!19sChIJQ9QcBwApODoRFXvS5ab05Gc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sattva+Dental,+Kakinada/data=!4m7!3m6!1s0x3a382900071cd443:0x67e4f4a6e5d27b15!8m2!3d17.002489!4d82.2455135!16s%2Fg%2F11vc931m6z!19sChIJQ9QcBwApODoRFXvS5ab05Gc?authuser=0&hl=en&rclk=1"
@@ -9119,11 +9043,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sattva+Dental,+Kakinada/data=!4m7!3m6!1s0x3a382900071cd443:0x67e4f4a6e5d27b15!8m2!3d17.002489!4d82.2455135!16s%2Fg%2F11vc931m6z!19sChIJQ9QcBwApODoRFXvS5ab05Gc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sbm-dental-hospital-and-implant-center-kakinada",
@@ -9172,7 +9095,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SBM+Dental+Hospital+%26+Implant+Center/@16.9709068,82.2359723,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38281358053d65:0x3311074825b2d5b8!8m2!3d16.9709068!4d82.2359723!16s%2Fg%2F1tmy3g_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SBM+Dental+Hospital+%26+Implant+Center/@16.9709068,82.2359723,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38281358053d65:0x3311074825b2d5b8!8m2!3d16.9709068!4d82.2359723!16s%2Fg%2F1tmy3g_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9238,11 +9161,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SBM+Dental+Hospital+%26+Implant+Center/@16.9709068,82.2359723,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38281358053d65:0x3311074825b2d5b8!8m2!3d16.9709068!4d82.2359723!16s%2Fg%2F1tmy3g_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shape-you-plastic-and-cosmetic-centre-ramanayyapeta",
@@ -9291,7 +9213,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shape+you+Plastic+%26+Cosmetic+Centre/@16.9852591,82.2407589,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382955d5e560d3:0x703d0f2b7aa31b08!8m2!3d16.9852591!4d82.2407589!16s%2Fg%2F11l2m3smz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shape+you+Plastic+%26+Cosmetic+Centre/@16.9852591,82.2407589,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382955d5e560d3:0x703d0f2b7aa31b08!8m2!3d16.9852591!4d82.2407589!16s%2Fg%2F11l2m3smz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9357,11 +9279,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shape+you+Plastic+%26+Cosmetic+Centre/@16.9852591,82.2407589,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382955d5e560d3:0x703d0f2b7aa31b08!8m2!3d16.9852591!4d82.2407589!16s%2Fg%2F11l2m3smz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sheeba-dental-and-face-esthetics-kakinada",
@@ -9410,7 +9331,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHEEBA+DENTAL+%26+FACE+ESTHETICS/@16.9510484,82.2352164,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38273db52ecd65:0x151e863228a7da84!8m2!3d16.9510484!4d82.2352164!16s%2Fg%2F11y56rfb0b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHEEBA+DENTAL+%26+FACE+ESTHETICS/@16.9510484,82.2352164,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38273db52ecd65:0x151e863228a7da84!8m2!3d16.9510484!4d82.2352164!16s%2Fg%2F11y56rfb0b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9476,11 +9397,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHEEBA+DENTAL+%26+FACE+ESTHETICS/@16.9510484,82.2352164,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38273db52ecd65:0x151e863228a7da84!8m2!3d16.9510484!4d82.2352164!16s%2Fg%2F11y56rfb0b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shine-dental-children-and-adults-dental-hospital-teeth-replacement-and-implant-centre-artificial-eyes-kakinada",
@@ -9530,7 +9450,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shine+Dental%7CChildren+%26+Adults+Dental+Hospital%7CTeeth+Replacement+%26+Implant+Centre%7C+Artificial+Eyes/@16.9663694,82.2249047,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829cb8c110cfd:0x2cb6cb449fae168c!8m2!3d16.9663694!4d82.2249047!16s%2Fg%2F11h1k8xpgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shine+Dental%7CChildren+%26+Adults+Dental+Hospital%7CTeeth+Replacement+%26+Implant+Centre%7C+Artificial+Eyes/@16.9663694,82.2249047,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829cb8c110cfd:0x2cb6cb449fae168c!8m2!3d16.9663694!4d82.2249047!16s%2Fg%2F11h1k8xpgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9599,8 +9519,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shine+Dental%7CChildren+%26+Adults+Dental+Hospital%7CTeeth+Replacement+%26+Implant+Centre%7C+Artificial+Eyes/@16.9663694,82.2249047,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829cb8c110cfd:0x2cb6cb449fae168c!8m2!3d16.9663694!4d82.2249047!16s%2Fg%2F11h1k8xpgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shravani-ent-hospital-kakinada",
@@ -9649,7 +9568,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shravani+ENT+Hospital/data=!4m7!3m6!1s0x3a38280a4008ba4f:0xc8f05973cdbac0c7!8m2!3d16.9550212!4d82.2326422!16s%2Fg%2F1xcbn12j!19sChIJT7oIQAooODoRx8C6zXNZ8Mg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shravani+ENT+Hospital/data=!4m7!3m6!1s0x3a38280a4008ba4f:0xc8f05973cdbac0c7!8m2!3d16.9550212!4d82.2326422!16s%2Fg%2F1xcbn12j!19sChIJT7oIQAooODoRx8C6zXNZ8Mg?authuser=0&hl=en&rclk=1"
@@ -9718,8 +9637,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shravani+ENT+Hospital/data=!4m7!3m6!1s0x3a38280a4008ba4f:0xc8f05973cdbac0c7!8m2!3d16.9550212!4d82.2326422!16s%2Fg%2F1xcbn12j!19sChIJT7oIQAooODoRx8C6zXNZ8Mg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "siddhartha-hospital-kakinada",
@@ -9767,7 +9685,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Siddhartha+Hospital/@16.947424,82.2314236,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828796ec75139:0x51a54d8e0d324aa8!8m2!3d16.947424!4d82.2314236!16s%2Fg%2F11c45tw4b3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddhartha+Hospital/@16.947424,82.2314236,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828796ec75139:0x51a54d8e0d324aa8!8m2!3d16.947424!4d82.2314236!16s%2Fg%2F11c45tw4b3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9833,11 +9751,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Siddhartha+Hospital/@16.947424,82.2314236,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3828796ec75139:0x51a54d8e0d324aa8!8m2!3d16.947424!4d82.2314236!16s%2Fg%2F11c45tw4b3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "siraj-dental-care-kakinada",
@@ -9885,7 +9802,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Siraj+Dental+Care/data=!4m7!3m6!1s0x3a38287498ee5f53:0x5b1eac6f677212b2!8m2!3d16.9505725!4d82.2332871!16s%2Fg%2F11dxdlc66k!19sChIJU1_umHQoODoRshJyZ2-sHls?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siraj+Dental+Care/data=!4m7!3m6!1s0x3a38287498ee5f53:0x5b1eac6f677212b2!8m2!3d16.9505725!4d82.2332871!16s%2Fg%2F11dxdlc66k!19sChIJU1_umHQoODoRshJyZ2-sHls?authuser=0&hl=en&rclk=1"
@@ -9954,8 +9871,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Siraj+Dental+Care/data=!4m7!3m6!1s0x3a38287498ee5f53:0x5b1eac6f677212b2!8m2!3d16.9505725!4d82.2332871!16s%2Fg%2F11dxdlc66k!19sChIJU1_umHQoODoRshJyZ2-sHls?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sowjanya-advanced-family-dental-care-kakinada",
@@ -10003,7 +9919,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sowjanya+Advanced+Family+Dental+Care/data=!4m7!3m6!1s0x3a3829b20893ac37:0x29c8ad4b975323b6!8m2!3d16.973909!4d82.2462003!16s%2Fg%2F11m_h877hl!19sChIJN6yTCLIpODoRtiNTl0utyCk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sowjanya+Advanced+Family+Dental+Care/data=!4m7!3m6!1s0x3a3829b20893ac37:0x29c8ad4b975323b6!8m2!3d16.973909!4d82.2462003!16s%2Fg%2F11m_h877hl!19sChIJN6yTCLIpODoRtiNTl0utyCk?authuser=0&hl=en&rclk=1"
@@ -10069,11 +9985,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sowjanya+Advanced+Family+Dental+Care/data=!4m7!3m6!1s0x3a3829b20893ac37:0x29c8ad4b975323b6!8m2!3d16.973909!4d82.2462003!16s%2Fg%2F11m_h877hl!19sChIJN6yTCLIpODoRtiNTl0utyCk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sree-bala-nursing-home-sree-bala-ent-care-center-kakinada",
@@ -10122,7 +10037,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sree+Bala+Nursing+Home+%7C%7C+Sree+Bala+ENT+Care+Center/@16.9587633,82.2345636,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280b633f5fb3:0x379bb9a124c123f0!8m2!3d16.9587633!4d82.2345636!16s%2Fg%2F1tj_3nzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Bala+Nursing+Home+%7C%7C+Sree+Bala+ENT+Care+Center/@16.9587633,82.2345636,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280b633f5fb3:0x379bb9a124c123f0!8m2!3d16.9587633!4d82.2345636!16s%2Fg%2F1tj_3nzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10191,8 +10106,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sree+Bala+Nursing+Home+%7C%7C+Sree+Bala+ENT+Care+Center/@16.9587633,82.2345636,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280b633f5fb3:0x379bb9a124c123f0!8m2!3d16.9587633!4d82.2345636!16s%2Fg%2F1tj_3nzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sree-sai-seetha-speciality-dental-clinic-kakinada",
@@ -10241,7 +10155,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sree+Sai+Seetha+Speciality+Dental+Clinic/@16.9685485,82.2369152,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286cd3f55773:0xd80e365505e879ab!8m2!3d16.9685485!4d82.2369152!16s%2Fg%2F11c5s7hqdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Sai+Seetha+Speciality+Dental+Clinic/@16.9685485,82.2369152,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286cd3f55773:0xd80e365505e879ab!8m2!3d16.9685485!4d82.2369152!16s%2Fg%2F11c5s7hqdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10310,8 +10224,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sree+Sai+Seetha+Speciality+Dental+Clinic/@16.9685485,82.2369152,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286cd3f55773:0xd80e365505e879ab!8m2!3d16.9685485!4d82.2369152!16s%2Fg%2F11c5s7hqdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-chaitanya-advanced-dental-and-cosmetic-centre-suryaraopeta",
@@ -10360,7 +10273,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Chaitanya+Advanced+Dental+and+cosmetic+Centre/@16.9778328,82.2279346,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38283d6d57cc7d:0xd48f1605f7f18f9a!8m2!3d16.9778328!4d82.2279346!16s%2Fg%2F11csqxtb75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Chaitanya+Advanced+Dental+and+cosmetic+Centre/@16.9778328,82.2279346,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38283d6d57cc7d:0xd48f1605f7f18f9a!8m2!3d16.9778328!4d82.2279346!16s%2Fg%2F11csqxtb75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10429,8 +10342,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Chaitanya+Advanced+Dental+and+cosmetic+Centre/@16.9778328,82.2279346,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38283d6d57cc7d:0xd48f1605f7f18f9a!8m2!3d16.9778328!4d82.2279346!16s%2Fg%2F11csqxtb75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-datta-dental-clinic-sarpavaram-ramanayyapeta",
@@ -10478,7 +10390,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Datta+dental+clinic,+Sarpavaram/@16.9928131,82.2392331,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382948cdcf611b:0x7c6095abb56cf0f8!8m2!3d16.9928131!4d82.2392331!16s%2Fg%2F11khqj0zz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Datta+dental+clinic,+Sarpavaram/@16.9928131,82.2392331,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382948cdcf611b:0x7c6095abb56cf0f8!8m2!3d16.9928131!4d82.2392331!16s%2Fg%2F11khqj0zz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10544,11 +10456,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Datta+dental+clinic,+Sarpavaram/@16.9928131,82.2392331,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382948cdcf611b:0x7c6095abb56cf0f8!8m2!3d16.9928131!4d82.2392331!16s%2Fg%2F11khqj0zz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-hospitals-kakinada",
@@ -10596,7 +10507,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Hospitals/@16.9728006,82.2382362,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b1467cb5f:0xb091ce5d62d83a13!8m2!3d16.9728006!4d82.2382362!16s%2Fg%2F11rw66k7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Hospitals/@16.9728006,82.2382362,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b1467cb5f:0xb091ce5d62d83a13!8m2!3d16.9728006!4d82.2382362!16s%2Fg%2F11rw66k7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10665,8 +10576,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Hospitals/@16.9728006,82.2382362,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b1467cb5f:0xb091ce5d62d83a13!8m2!3d16.9728006!4d82.2382362!16s%2Fg%2F11rw66k7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-kasturi-hospital-kakinada",
@@ -10714,7 +10624,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Kasturi+Hospital/@16.9719729,82.2387775,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b7075576d:0x60de83c728a4758a!8m2!3d16.9719729!4d82.2387775!16s%2Fg%2F11sbr0g38b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Kasturi+Hospital/@16.9719729,82.2387775,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b7075576d:0x60de83c728a4758a!8m2!3d16.9719729!4d82.2387775!16s%2Fg%2F11sbr0g38b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10780,11 +10690,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Kasturi+Hospital/@16.9719729,82.2387775,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b7075576d:0x60de83c728a4758a!8m2!3d16.9719729!4d82.2387775!16s%2Fg%2F11sbr0g38b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-narayana-hrudayalaya-heart-clinic-ramanayyapeta",
@@ -10833,7 +10742,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/sri+narayana+hrudayalaya+heart+clinic/data=!4m7!3m6!1s0x3a3828471e5e47ad:0xbd17f1923719ed96!8m2!3d16.98462!4d82.239159!16s%2Fg%2F11k3wtzd57!19sChIJrUdeHkcoODoRlu0ZN5LxF70?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/sri+narayana+hrudayalaya+heart+clinic/data=!4m7!3m6!1s0x3a3828471e5e47ad:0xbd17f1923719ed96!8m2!3d16.98462!4d82.239159!16s%2Fg%2F11k3wtzd57!19sChIJrUdeHkcoODoRlu0ZN5LxF70?authuser=0&hl=en&rclk=1"
@@ -10902,8 +10811,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/sri+narayana+hrudayalaya+heart+clinic/data=!4m7!3m6!1s0x3a3828471e5e47ad:0xbd17f1923719ed96!8m2!3d16.98462!4d82.239159!16s%2Fg%2F11k3wtzd57!19sChIJrUdeHkcoODoRlu0ZN5LxF70?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-sai-krishna-hospital-kakinada",
@@ -10951,7 +10859,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Sai+Krishna+Hospital/@16.9659994,82.2282873,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382994744d18db:0x5e24af0839fe0cec!8m2!3d16.9659994!4d82.2282873!16s%2Fg%2F11l7rkkqdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+Krishna+Hospital/@16.9659994,82.2282873,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382994744d18db:0x5e24af0839fe0cec!8m2!3d16.9659994!4d82.2282873!16s%2Fg%2F11l7rkkqdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11020,8 +10928,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Sai+Krishna+Hospital/@16.9659994,82.2282873,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382994744d18db:0x5e24af0839fe0cec!8m2!3d16.9659994!4d82.2282873!16s%2Fg%2F11l7rkkqdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-shiva-dental-clinic-ramanayyapeta",
@@ -11070,7 +10977,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+shiva+dental+clinic/@16.9978036,82.2441075,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829c35244ee19:0x902ff873efd33262!8m2!3d16.9978036!4d82.2441075!16s%2Fg%2F11sjgqzh7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+shiva+dental+clinic/@16.9978036,82.2441075,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829c35244ee19:0x902ff873efd33262!8m2!3d16.9978036!4d82.2441075!16s%2Fg%2F11sjgqzh7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11136,11 +11043,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+shiva+dental+clinic/@16.9978036,82.2441075,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829c35244ee19:0x902ff873efd33262!8m2!3d16.9978036!4d82.2441075!16s%2Fg%2F11sjgqzh7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-surya-chandra-dental-hospital-kakinada",
@@ -11188,7 +11094,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Surya+Chandra+Dental+Hospital/@16.9635191,82.2343492,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280a4e5c48c1:0xc0458f5bda708430!8m2!3d16.9635191!4d82.2343492!16s%2Fg%2F11fsm3zdhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Surya+Chandra+Dental+Hospital/@16.9635191,82.2343492,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280a4e5c48c1:0xc0458f5bda708430!8m2!3d16.9635191!4d82.2343492!16s%2Fg%2F11fsm3zdhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11257,8 +11163,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Surya+Chandra+Dental+Hospital/@16.9635191,82.2343492,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280a4e5c48c1:0xc0458f5bda708430!8m2!3d16.9635191!4d82.2343492!16s%2Fg%2F11fsm3zdhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-valli-speciality-dental-clinic-kakinada",
@@ -11307,7 +11212,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+valli+speciality+dental+clinic/@16.974371,82.2449604,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382903ad5dcf71:0xb35beda1e0130e47!8m2!3d16.974371!4d82.2449604!16s%2Fg%2F11r9lkn_6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+valli+speciality+dental+clinic/@16.974371,82.2449604,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382903ad5dcf71:0xb35beda1e0130e47!8m2!3d16.974371!4d82.2449604!16s%2Fg%2F11r9lkn_6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11373,11 +11278,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+valli+speciality+dental+clinic/@16.974371,82.2449604,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382903ad5dcf71:0xb35beda1e0130e47!8m2!3d16.974371!4d82.2449604!16s%2Fg%2F11r9lkn_6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sridevi-dental-clinic-kakinada",
@@ -11426,7 +11330,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sridevi+Dental+Clinic/data=!4m7!3m6!1s0x3a38280b1dfa703f:0xcfd428eb23dac0c9!8m2!3d16.956402!4d82.234817!16s%2Fg%2F11g_tnmh0!19sChIJP3D6HQsoODoRycDaI-so1M8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sridevi+Dental+Clinic/data=!4m7!3m6!1s0x3a38280b1dfa703f:0xcfd428eb23dac0c9!8m2!3d16.956402!4d82.234817!16s%2Fg%2F11g_tnmh0!19sChIJP3D6HQsoODoRycDaI-so1M8?authuser=0&hl=en&rclk=1"
@@ -11495,8 +11399,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sridevi+Dental+Clinic/data=!4m7!3m6!1s0x3a38280b1dfa703f:0xcfd428eb23dac0c9!8m2!3d16.956402!4d82.234817!16s%2Fg%2F11g_tnmh0!19sChIJP3D6HQsoODoRycDaI-so1M8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srikiran-institute-of-ophthalmology-best-eye-hospital-timmapuram",
@@ -11545,7 +11448,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Srikiran+Institute+of+Ophthalmology-Best+Eye+Hospital/@17.0242535,82.2585003,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382b1a5acfdfff:0x32fbe985ff6a3c39!8m2!3d17.0242535!4d82.2585003!16s%2Fg%2F124yhhfkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srikiran+Institute+of+Ophthalmology-Best+Eye+Hospital/@17.0242535,82.2585003,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382b1a5acfdfff:0x32fbe985ff6a3c39!8m2!3d17.0242535!4d82.2585003!16s%2Fg%2F124yhhfkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11614,8 +11517,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Srikiran+Institute+of+Ophthalmology-Best+Eye+Hospital/@17.0242535,82.2585003,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382b1a5acfdfff:0x32fbe985ff6a3c39!8m2!3d17.0242535!4d82.2585003!16s%2Fg%2F124yhhfkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srinivasa-ear-nose-throat-hospital-kakinada",
@@ -11663,7 +11565,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Srinivasa+Ear+Nose+Throat+hospital/@16.9711235,82.2368053,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b55769b93:0x9bc3ec3a913c3e6a!8m2!3d16.9711235!4d82.2368053!16s%2Fg%2F11cjkqcf61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinivasa+Ear+Nose+Throat+hospital/@16.9711235,82.2368053,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b55769b93:0x9bc3ec3a913c3e6a!8m2!3d16.9711235!4d82.2368053!16s%2Fg%2F11cjkqcf61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11732,8 +11634,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Srinivasa+Ear+Nose+Throat+hospital/@16.9711235,82.2368053,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38286b55769b93:0x9bc3ec3a913c3e6a!8m2!3d16.9711235!4d82.2368053!16s%2Fg%2F11cjkqcf61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ss-dental-clinic-kakinada",
@@ -11781,7 +11682,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SS+Dental+Clinic/@16.9598231,82.2347411,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38298e859a2905:0x90264ab8ed1c40c1!8m2!3d16.9598231!4d82.2347411!16s%2Fg%2F11mrztsg_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SS+Dental+Clinic/@16.9598231,82.2347411,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38298e859a2905:0x90264ab8ed1c40c1!8m2!3d16.9598231!4d82.2347411!16s%2Fg%2F11mrztsg_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11847,11 +11748,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SS+Dental+Clinic/@16.9598231,82.2347411,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38298e859a2905:0x90264ab8ed1c40c1!8m2!3d16.9598231!4d82.2347411!16s%2Fg%2F11mrztsg_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sudha-urology-hospital-kakinada",
@@ -11899,7 +11799,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sudha+Urology+Hospital/@16.9635759,82.228884,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280e35ca1589:0xb549efeaf214e483!8m2!3d16.9635759!4d82.228884!16s%2Fg%2F1tz944yd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudha+Urology+Hospital/@16.9635759,82.228884,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280e35ca1589:0xb549efeaf214e483!8m2!3d16.9635759!4d82.228884!16s%2Fg%2F1tz944yd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11968,8 +11868,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sudha+Urology+Hospital/@16.9635759,82.228884,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38280e35ca1589:0xb549efeaf214e483!8m2!3d16.9635759!4d82.228884!16s%2Fg%2F1tz944yd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunrise-dental-hospital-kakinada",
@@ -12017,7 +11916,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sunrise+Dental+Hospital/data=!4m7!3m6!1s0x3a38284ecc970ecd:0xffa03fab56f461cb!8m2!3d16.9694837!4d82.239094!16s%2Fg%2F11bzq3gv_6!19sChIJzQ6XzE4oODoRy2H0Vqs_oP8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunrise+Dental+Hospital/data=!4m7!3m6!1s0x3a38284ecc970ecd:0xffa03fab56f461cb!8m2!3d16.9694837!4d82.239094!16s%2Fg%2F11bzq3gv_6!19sChIJzQ6XzE4oODoRy2H0Vqs_oP8?authuser=0&hl=en&rclk=1"
@@ -12086,8 +11985,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sunrise+Dental+Hospital/data=!4m7!3m6!1s0x3a38284ecc970ecd:0xffa03fab56f461cb!8m2!3d16.9694837!4d82.239094!16s%2Fg%2F11bzq3gv_6!19sChIJzQ6XzE4oODoRy2H0Vqs_oP8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunrise-hospitals-kakinada",
@@ -12136,7 +12034,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SUNRISE+HOSPITALS/data=!4m7!3m6!1s0x3a38290aacc2c631:0x2daffaa498c481e!8m2!3d16.9711242!4d82.2368727!16s%2Fg%2F11h3l365cx!19sChIJMcbCrAopODoRHkiMSar_2gI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUNRISE+HOSPITALS/data=!4m7!3m6!1s0x3a38290aacc2c631:0x2daffaa498c481e!8m2!3d16.9711242!4d82.2368727!16s%2Fg%2F11h3l365cx!19sChIJMcbCrAopODoRHkiMSar_2gI?authuser=0&hl=en&rclk=1"
@@ -12205,8 +12103,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SUNRISE+HOSPITALS/data=!4m7!3m6!1s0x3a38290aacc2c631:0x2daffaa498c481e!8m2!3d16.9711242!4d82.2368727!16s%2Fg%2F11h3l365cx!19sChIJMcbCrAopODoRHkiMSar_2gI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tagore-dental-care-ramanayyapeta",
@@ -12254,7 +12151,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tagore+Dental+Care/@16.9904525,82.240855,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829df89fc198b:0xa17ae039f37efcb!8m2!3d16.9904525!4d82.240855!16s%2Fg%2F11h6m0fzvc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tagore+Dental+Care/@16.9904525,82.240855,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829df89fc198b:0xa17ae039f37efcb!8m2!3d16.9904525!4d82.240855!16s%2Fg%2F11h6m0fzvc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12323,8 +12220,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tagore+Dental+Care/@16.9904525,82.240855,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829df89fc198b:0xa17ae039f37efcb!8m2!3d16.9904525!4d82.240855!16s%2Fg%2F11h6m0fzvc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tangella-heart-care-kakinada",
@@ -12374,7 +12270,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tangella+Heart+Care/@16.9705239,82.2387642,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382919da9a5a97:0x130016dcfd3f16e7!8m2!3d16.9705239!4d82.2387642!16s%2Fg%2F11yv0l2jrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tangella+Heart+Care/@16.9705239,82.2387642,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382919da9a5a97:0x130016dcfd3f16e7!8m2!3d16.9705239!4d82.2387642!16s%2Fg%2F11yv0l2jrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12443,8 +12339,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tangella+Heart+Care/@16.9705239,82.2387642,17z/data=!3m1!4b1!4m6!3m5!1s0x3a382919da9a5a97:0x130016dcfd3f16e7!8m2!3d16.9705239!4d82.2387642!16s%2Fg%2F11yv0l2jrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "triveni-supespeciality-dental-hospital-and-implant-center-ramanayyapeta",
@@ -12493,7 +12388,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Triveni+SupeSpeciality+Dental+Hospital+%26+Implant+Center/data=!4m7!3m6!1s0x3a3828696849fd87:0x5d39c6344fd4ded4!8m2!3d16.9729491!4d82.2429114!16s%2Fg%2F11b6_zzjcj!19sChIJh_1JaGkoODoR1N7UTzTGOV0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Triveni+SupeSpeciality+Dental+Hospital+%26+Implant+Center/data=!4m7!3m6!1s0x3a3828696849fd87:0x5d39c6344fd4ded4!8m2!3d16.9729491!4d82.2429114!16s%2Fg%2F11b6_zzjcj!19sChIJh_1JaGkoODoR1N7UTzTGOV0?authuser=0&hl=en&rclk=1"
@@ -12562,8 +12457,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Triveni+SupeSpeciality+Dental+Hospital+%26+Implant+Center/data=!4m7!3m6!1s0x3a3828696849fd87:0x5d39c6344fd4ded4!8m2!3d16.9729491!4d82.2429114!16s%2Fg%2F11b6_zzjcj!19sChIJh_1JaGkoODoR1N7UTzTGOV0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "trust-hospital-ramanayyapeta",
@@ -12612,7 +12506,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Trust+Hospital/data=!4m7!3m6!1s0x3a38284bcbef7399:0x5e7b2f83afa40491!8m2!3d16.9956174!4d82.2411163!16s%2Fg%2F1hhkrdsql!19sChIJmXPvy0soODoRkQSkr4Mve14?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trust+Hospital/data=!4m7!3m6!1s0x3a38284bcbef7399:0x5e7b2f83afa40491!8m2!3d16.9956174!4d82.2411163!16s%2Fg%2F1hhkrdsql!19sChIJmXPvy0soODoRkQSkr4Mve14?authuser=0&hl=en&rclk=1"
@@ -12681,8 +12575,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Trust+Hospital/data=!4m7!3m6!1s0x3a38284bcbef7399:0x5e7b2f83afa40491!8m2!3d16.9956174!4d82.2411163!16s%2Fg%2F1hhkrdsql!19sChIJmXPvy0soODoRkQSkr4Mve14?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "urban-dental-care-ramanayyapeta",
@@ -12730,7 +12623,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/URBAN+DENTAL+CARE/data=!4m7!3m6!1s0x3a3829d08569e841:0x8757d37493b2967a!8m2!3d17.0061398!4d82.2439739!16s%2Fg%2F11sgnyvqgh!19sChIJQehphdApODoRepayk3TTV4c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/URBAN+DENTAL+CARE/data=!4m7!3m6!1s0x3a3829d08569e841:0x8757d37493b2967a!8m2!3d17.0061398!4d82.2439739!16s%2Fg%2F11sgnyvqgh!19sChIJQehphdApODoRepayk3TTV4c?authuser=0&hl=en&rclk=1"
@@ -12799,8 +12692,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/URBAN+DENTAL+CARE/data=!4m7!3m6!1s0x3a3829d08569e841:0x8757d37493b2967a!8m2!3d17.0061398!4d82.2439739!16s%2Fg%2F11sgnyvqgh!19sChIJQehphdApODoRepayk3TTV4c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vcare-hair-and-skin-clinic-kakinada-skin-treatment-hair-treatment-hair-transplant-laser-hair-removal-skin-whitening-kakinada",
@@ -12849,7 +12741,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Kakinada+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@16.9720232,82.2365854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829be3449eacb:0x4afddb40663de784!8m2!3d16.9720232!4d82.2365854!16s%2Fg%2F11hzpcyk4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Kakinada+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@16.9720232,82.2365854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829be3449eacb:0x4afddb40663de784!8m2!3d16.9720232!4d82.2365854!16s%2Fg%2F11hzpcyk4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12918,8 +12810,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Kakinada+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@16.9720232,82.2365854,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829be3449eacb:0x4afddb40663de784!8m2!3d16.9720232!4d82.2365854!16s%2Fg%2F11hzpcyk4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijay-darpan-dental-hospital-kakinada",
@@ -12967,7 +12858,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vijay+Darpan+Dental+Hospital/@16.9646351,82.225868,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38296de219120b:0x9320ccbbc54d1ff5!8m2!3d16.9646351!4d82.225868!16s%2Fg%2F11h3c4fcqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijay+Darpan+Dental+Hospital/@16.9646351,82.225868,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38296de219120b:0x9320ccbbc54d1ff5!8m2!3d16.9646351!4d82.225868!16s%2Fg%2F11h3c4fcqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13036,8 +12927,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vijay+Darpan+Dental+Hospital/@16.9646351,82.225868,17z/data=!3m1!4b1!4m6!3m5!1s0x3a38296de219120b:0x9320ccbbc54d1ff5!8m2!3d16.9646351!4d82.225868!16s%2Fg%2F11h3c4fcqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijaya-e-n-t-care-kakinada",
@@ -13085,7 +12975,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VIJAYA+E.N.T+CARE/data=!4m7!3m6!1s0x3a38275e83a07521:0x514e099d5f7c56f0!8m2!3d16.9510428!4d82.2318589!16s%2Fg%2F11h431zz30!19sChIJIXWgg14nODoR8FZ8X50JTlE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIJAYA+E.N.T+CARE/data=!4m7!3m6!1s0x3a38275e83a07521:0x514e099d5f7c56f0!8m2!3d16.9510428!4d82.2318589!16s%2Fg%2F11h431zz30!19sChIJIXWgg14nODoR8FZ8X50JTlE?authuser=0&hl=en&rclk=1"
@@ -13154,8 +13044,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VIJAYA+E.N.T+CARE/data=!4m7!3m6!1s0x3a38275e83a07521:0x514e099d5f7c56f0!8m2!3d16.9510428!4d82.2318589!16s%2Fg%2F11h431zz30!19sChIJIXWgg14nODoR8FZ8X50JTlE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vimala-advanced-dental-care-kakinada",
@@ -13203,7 +13092,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VIMALA+ADVANCED+DENTAL+CARE/@16.9682055,82.2274295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829efac97a673:0xf6c66cbc37fee394!8m2!3d16.9682055!4d82.2274295!16s%2Fg%2F11h79twfg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIMALA+ADVANCED+DENTAL+CARE/@16.9682055,82.2274295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829efac97a673:0xf6c66cbc37fee394!8m2!3d16.9682055!4d82.2274295!16s%2Fg%2F11h79twfg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13272,8 +13161,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VIMALA+ADVANCED+DENTAL+CARE/@16.9682055,82.2274295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829efac97a673:0xf6c66cbc37fee394!8m2!3d16.9682055!4d82.2274295!16s%2Fg%2F11h79twfg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wonder-kids-children-s-dental-clinic-best-pediatric-dentist-in-kakinada-kakinada",
@@ -13324,7 +13212,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Wonder+Kids+Children's+Dental+Clinic+%7C+Best+Pediatric+Dentist+In+Kakinada/@16.9717102,82.2386335,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829732d5bc9c7:0x78e64fcf02bf9929!8m2!3d16.9717102!4d82.2386335!16s%2Fg%2F11mvsh47jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wonder+Kids+Children's+Dental+Clinic+%7C+Best+Pediatric+Dentist+In+Kakinada/@16.9717102,82.2386335,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829732d5bc9c7:0x78e64fcf02bf9929!8m2!3d16.9717102!4d82.2386335!16s%2Fg%2F11mvsh47jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13390,10 +13278,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Wonder+Kids+Children's+Dental+Clinic+%7C+Best+Pediatric+Dentist+In+Kakinada/@16.9717102,82.2386335,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3829732d5bc9c7:0x78e64fcf02bf9929!8m2!3d16.9717102!4d82.2386335!16s%2Fg%2F11mvsh47jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

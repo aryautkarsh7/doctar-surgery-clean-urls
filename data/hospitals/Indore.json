@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aarna's+Cosmetic+%26+Dental+Clinic/@22.7156143,75.8755037,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40940bab9d:0xdd15ed7e083ca90b!8m2!3d22.7156143!4d75.8755037!16s%2Fg%2F11vbzrjp0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarna's+Cosmetic+%26+Dental+Clinic/@22.7156143,75.8755037,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40940bab9d:0xdd15ed7e083ca90b!8m2!3d22.7156143!4d75.8755037!16s%2Fg%2F11vbzrjp0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -111,11 +111,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aarna's+Cosmetic+%26+Dental+Clinic/@22.7156143,75.8755037,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40940bab9d:0xdd15ed7e083ca90b!8m2!3d22.7156143!4d75.8755037!16s%2Fg%2F11vbzrjp0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aarogyam-speciality-dental-and-face-clinic-indore",
@@ -165,7 +164,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aarogyam+Speciality+Dental+and+Face+Clinic/@22.7611918,75.8716677,17z/data=!3m1!4b1!4m6!3m5!1s0x3963029133021939:0x4b836c5349bfadab!8m2!3d22.7611918!4d75.8716677!16s%2Fg%2F1q64k470x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogyam+Speciality+Dental+and+Face+Clinic/@22.7611918,75.8716677,17z/data=!3m1!4b1!4m6!3m5!1s0x3963029133021939:0x4b836c5349bfadab!8m2!3d22.7611918!4d75.8716677!16s%2Fg%2F1q64k470x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -234,8 +233,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aarogyam+Speciality+Dental+and+Face+Clinic/@22.7611918,75.8716677,17z/data=!3m1!4b1!4m6!3m5!1s0x3963029133021939:0x4b836c5349bfadab!8m2!3d22.7611918!4d75.8716677!16s%2Fg%2F1q64k470x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advanced-dental-care-indore",
@@ -284,7 +282,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Advanced+Dental+Care/@22.7128729,75.8779609,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd22b9d92463:0x82aa8d01e054f7a4!8m2!3d22.7128729!4d75.8779609!16s%2Fg%2F11scks216d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Dental+Care/@22.7128729,75.8779609,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd22b9d92463:0x82aa8d01e054f7a4!8m2!3d22.7128729!4d75.8779609!16s%2Fg%2F11scks216d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -353,8 +351,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Advanced+Dental+Care/@22.7128729,75.8779609,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd22b9d92463:0x82aa8d01e054f7a4!8m2!3d22.7128729!4d75.8779609!16s%2Fg%2F11scks216d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aesthetic-dental-clinic-indore",
@@ -402,7 +399,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aesthetic+Dental+Clinic/@22.6967166,75.8795347,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcde7c6a3663:0xc2bb51233415e6c6!8m2!3d22.6967166!4d75.8795347!16s%2Fg%2F1q66678vn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aesthetic+Dental+Clinic/@22.6967166,75.8795347,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcde7c6a3663:0xc2bb51233415e6c6!8m2!3d22.6967166!4d75.8795347!16s%2Fg%2F1q66678vn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -471,8 +468,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aesthetic+Dental+Clinic/@22.6967166,75.8795347,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcde7c6a3663:0xc2bb51233415e6c6!8m2!3d22.6967166!4d75.8795347!16s%2Fg%2F1q66678vn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akash-hospital-indore",
@@ -521,7 +517,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AKASH+HOSPITAL/@22.7026143,75.9211835,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3204ad91e85:0x9462e3a7d6d37693!8m2!3d22.7026143!4d75.9211835!16s%2Fg%2F1tgz8rvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AKASH+HOSPITAL/@22.7026143,75.9211835,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3204ad91e85:0x9462e3a7d6d37693!8m2!3d22.7026143!4d75.9211835!16s%2Fg%2F1tgz8rvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -590,8 +586,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AKASH+HOSPITAL/@22.7026143,75.9211835,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3204ad91e85:0x9462e3a7d6d37693!8m2!3d22.7026143!4d75.9211835!16s%2Fg%2F1tgz8rvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "angiography-indore-indore",
@@ -641,7 +636,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Angiography+Indore/@22.7245917,75.8819168,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a453bdcc13:0x7ef1cd95a6c80324!8m2!3d22.7245917!4d75.8819168!16s%2Fg%2F11f08cb0ns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Angiography+Indore/@22.7245917,75.8819168,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a453bdcc13:0x7ef1cd95a6c80324!8m2!3d22.7245917!4d75.8819168!16s%2Fg%2F11f08cb0ns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -710,8 +705,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Angiography+Indore/@22.7245917,75.8819168,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a453bdcc13:0x7ef1cd95a6c80324!8m2!3d22.7245917!4d75.8819168!16s%2Fg%2F11f08cb0ns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-dental-clinic-nipania-best-dental-clinic-in-indore-root-canals-aligners-implants-crowns-indore",
@@ -760,7 +754,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Nipania+%7C+Best+Dental+Clinic+in+Indore+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@22.759082,75.9229162,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dae3bea1c15:0x1f47ca64d293fee6!8m2!3d22.759082!4d75.9229162!16s%2Fg%2F11y1xg953g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Nipania+%7C+Best+Dental+Clinic+in+Indore+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@22.759082,75.9229162,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dae3bea1c15:0x1f47ca64d293fee6!8m2!3d22.759082!4d75.9229162!16s%2Fg%2F11y1xg953g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -829,8 +823,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Nipania+%7C+Best+Dental+Clinic+in+Indore+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@22.759082,75.9229162,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dae3bea1c15:0x1f47ca64d293fee6!8m2!3d22.759082!4d75.9229162!16s%2Fg%2F11y1xg953g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospitals-indore-new-block-indore",
@@ -879,7 +872,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+Indore+-+New+Block/@22.758545,75.8889088,17z/data=!3m1!4b1!4m6!3m5!1s0x396302af9cd29a33:0x44e2aa069d0f8184!8m2!3d22.758545!4d75.8889088!16s%2Fg%2F1wj_4fm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospitals+Indore+-+New+Block/@22.758545,75.8889088,17z/data=!3m1!4b1!4m6!3m5!1s0x396302af9cd29a33:0x44e2aa069d0f8184!8m2!3d22.758545!4d75.8889088!16s%2Fg%2F1wj_4fm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -948,8 +941,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospitals+Indore+-+New+Block/@22.758545,75.8889088,17z/data=!3m1!4b1!4m6!3m5!1s0x396302af9cd29a33:0x44e2aa069d0f8184!8m2!3d22.758545!4d75.8889088!16s%2Fg%2F1wj_4fm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospitals-best-hospital-in-indore-indore",
@@ -998,7 +990,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Indore/@22.7575019,75.8851377,17z/data=!3m1!4b1!4m6!3m5!1s0x396303bd0d6aa29f:0x17b069d0af3202ff!8m2!3d22.7575019!4d75.8851377!16s%2Fg%2F11rhnrb3lj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Indore/@22.7575019,75.8851377,17z/data=!3m1!4b1!4m6!3m5!1s0x396303bd0d6aa29f:0x17b069d0af3202ff!8m2!3d22.7575019!4d75.8851377!16s%2Fg%2F11rhnrb3lj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1067,8 +1059,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Indore/@22.7575019,75.8851377,17z/data=!3m1!4b1!4m6!3m5!1s0x396303bd0d6aa29f:0x17b069d0af3202ff!8m2!3d22.7575019!4d75.8851377!16s%2Fg%2F11rhnrb3lj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apple-hospital-indore",
@@ -1117,7 +1108,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apple+Hospital/@22.6939541,75.8665271,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce495ee903f:0xf0b46034bc2ce47c!8m2!3d22.6939541!4d75.8665271!16s%2Fg%2F11bccd3n9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apple+Hospital/@22.6939541,75.8665271,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce495ee903f:0xf0b46034bc2ce47c!8m2!3d22.6939541!4d75.8665271!16s%2Fg%2F11bccd3n9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1186,8 +1177,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apple+Hospital/@22.6939541,75.8665271,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce495ee903f:0xf0b46034bc2ce47c!8m2!3d22.6939541!4d75.8665271!16s%2Fg%2F11bccd3n9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arihant-hospital-and-research-centre-indore",
@@ -1236,7 +1226,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arihant+Hospital+%26+Research+Centre/@22.7014298,75.8292953,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd354a4cda9d:0xaa9f54e6905d5901!8m2!3d22.7014298!4d75.8292953!16s%2Fg%2F1tf73ygq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arihant+Hospital+%26+Research+Centre/@22.7014298,75.8292953,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd354a4cda9d:0xaa9f54e6905d5901!8m2!3d22.7014298!4d75.8292953!16s%2Fg%2F1tf73ygq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1305,8 +1295,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arihant+Hospital+%26+Research+Centre/@22.7014298,75.8292953,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd354a4cda9d:0xaa9f54e6905d5901!8m2!3d22.7014298!4d75.8292953!16s%2Fg%2F1tf73ygq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arpit-hospital-and-laparoscopy-centre-indore-indore",
@@ -1355,7 +1344,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arpit+Hospital+%26+Laparoscopy+Centre+Indore/@22.7119238,75.9061591,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1640000001:0x6514f62f99fc5b48!8m2!3d22.7119238!4d75.9061591!16s%2Fg%2F1tfv3jk4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arpit+Hospital+%26+Laparoscopy+Centre+Indore/@22.7119238,75.9061591,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1640000001:0x6514f62f99fc5b48!8m2!3d22.7119238!4d75.9061591!16s%2Fg%2F1tfv3jk4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1424,8 +1413,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arpit+Hospital+%26+Laparoscopy+Centre+Indore/@22.7119238,75.9061591,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1640000001:0x6514f62f99fc5b48!8m2!3d22.7119238!4d75.9061591!16s%2Fg%2F1tfv3jk4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirwad-hospital-indore",
@@ -1474,7 +1462,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashirwad+Hospital/@22.6949776,75.8437853,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc51b4f139d5:0xd03e5ac3c3523b41!8m2!3d22.6949776!4d75.8437853!16s%2Fg%2F11g7329rf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirwad+Hospital/@22.6949776,75.8437853,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc51b4f139d5:0xd03e5ac3c3523b41!8m2!3d22.6949776!4d75.8437853!16s%2Fg%2F11g7329rf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1543,8 +1531,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashirwad+Hospital/@22.6949776,75.8437853,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc51b4f139d5:0xd03e5ac3c3523b41!8m2!3d22.6949776!4d75.8437853!16s%2Fg%2F11g7329rf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asian-institute-of-infertility-management-indore",
@@ -1594,7 +1581,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asian+Institute+Of+Infertility+Management/@22.7353111,75.8879413,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f30cc53e1:0xdca1056981c06ca1!8m2!3d22.7353111!4d75.8879413!16s%2Fg%2F124sxw427?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Institute+Of+Infertility+Management/@22.7353111,75.8879413,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f30cc53e1:0xdca1056981c06ca1!8m2!3d22.7353111!4d75.8879413!16s%2Fg%2F124sxw427?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1663,8 +1650,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asian+Institute+Of+Infertility+Management/@22.7353111,75.8879413,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f30cc53e1:0xdca1056981c06ca1!8m2!3d22.7353111!4d75.8879413!16s%2Fg%2F124sxw427?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asperia-plastic-and-dental-surgery-clinic-indore",
@@ -1713,7 +1699,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asperia+Plastic+%26+Dental+Surgery+Clinic/@22.7332572,75.9023956,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e377f4908a43:0xccc3642305f540ad!8m2!3d22.7332572!4d75.9023956!16s%2Fg%2F11lcsg4v9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asperia+Plastic+%26+Dental+Surgery+Clinic/@22.7332572,75.9023956,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e377f4908a43:0xccc3642305f540ad!8m2!3d22.7332572!4d75.9023956!16s%2Fg%2F11lcsg4v9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1779,11 +1765,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asperia+Plastic+%26+Dental+Surgery+Clinic/@22.7332572,75.9023956,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e377f4908a43:0xccc3642305f540ad!8m2!3d22.7332572!4d75.9023956!16s%2Fg%2F11lcsg4v9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ayushman-heart-and-wellness-centre-indore",
@@ -1833,7 +1818,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ayushman+Heart+And+Wellness+Centre/@22.7007651,75.9163339,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ee8a5924ab:0xb3ed6bd29db59d23!8m2!3d22.7007651!4d75.9163339!16s%2Fg%2F11lv8x9tv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayushman+Heart+And+Wellness+Centre/@22.7007651,75.9163339,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ee8a5924ab:0xb3ed6bd29db59d23!8m2!3d22.7007651!4d75.9163339!16s%2Fg%2F11lv8x9tv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1899,11 +1884,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ayushman+Heart+And+Wellness+Centre/@22.7007651,75.9163339,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ee8a5924ab:0xb3ed6bd29db59d23!8m2!3d22.7007651!4d75.9163339!16s%2Fg%2F11lv8x9tv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bansal-hospital-indore",
@@ -1952,7 +1936,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bansal+hospital/@22.7133327,75.843763,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda51d1197bd:0xd65717c6ffb51dc!8m2!3d22.7133327!4d75.843763!16s%2Fg%2F11clyqv63h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal+hospital/@22.7133327,75.843763,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda51d1197bd:0xd65717c6ffb51dc!8m2!3d22.7133327!4d75.843763!16s%2Fg%2F11clyqv63h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2021,8 +2005,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bansal+hospital/@22.7133327,75.843763,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda51d1197bd:0xd65717c6ffb51dc!8m2!3d22.7133327!4d75.843763!16s%2Fg%2F11clyqv63h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "barod-hospital-indore",
@@ -2070,7 +2053,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Barod+Hospital/@22.7561297,75.8782054,17z/data=!3m1!4b1!4m6!3m5!1s0x39630321e3ccbec1:0xd42cc8f30ad6e440!8m2!3d22.7561297!4d75.8782054!16s%2Fg%2F11qrsf617v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Barod+Hospital/@22.7561297,75.8782054,17z/data=!3m1!4b1!4m6!3m5!1s0x39630321e3ccbec1:0xd42cc8f30ad6e440!8m2!3d22.7561297!4d75.8782054!16s%2Fg%2F11qrsf617v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2136,11 +2119,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Barod+Hospital/@22.7561297,75.8782054,17z/data=!3m1!4b1!4m6!3m5!1s0x39630321e3ccbec1:0xd42cc8f30ad6e440!8m2!3d22.7561297!4d75.8782054!16s%2Fg%2F11qrsf617v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "baser-ivf-center-indore",
@@ -2189,7 +2171,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Baser+IVF+Center/@22.7027019,75.9212565,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e321b385c399:0x1ea909163954f04e!8m2!3d22.7027019!4d75.9212565!16s%2Fg%2F1yg4vbl6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Baser+IVF+Center/@22.7027019,75.9212565,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e321b385c399:0x1ea909163954f04e!8m2!3d22.7027019!4d75.9212565!16s%2Fg%2F1yg4vbl6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2255,11 +2237,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Baser+IVF+Center/@22.7027019,75.9212565,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e321b385c399:0x1ea909163954f04e!8m2!3d22.7027019!4d75.9212565!16s%2Fg%2F1yg4vbl6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bcm-kokilaben-dhirubhai-ambani-hospital-indore-indore",
@@ -2308,7 +2289,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BCM+Kokilaben+Dhirubhai+Ambani+Hospital,+Indore/@22.7522398,75.9256119,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d54cfa57299:0x2d9f47c1b220b595!8m2!3d22.7522398!4d75.9256119!16s%2Fg%2F11f4l95g14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BCM+Kokilaben+Dhirubhai+Ambani+Hospital,+Indore/@22.7522398,75.9256119,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d54cfa57299:0x2d9f47c1b220b595!8m2!3d22.7522398!4d75.9256119!16s%2Fg%2F11f4l95g14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2377,8 +2358,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BCM+Kokilaben+Dhirubhai+Ambani+Hospital,+Indore/@22.7522398,75.9256119,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d54cfa57299:0x2d9f47c1b220b595!8m2!3d22.7522398!4d75.9256119!16s%2Fg%2F11f4l95g14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhandari-hospital-and-research-centre-indore",
@@ -2427,7 +2407,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhandari+Hospital+and+Research+Centre/@22.7527509,75.8890385,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a8893efb37:0xdccf05a77b7ff3eb!8m2!3d22.7527509!4d75.8890385!16s%2Fg%2F1w0h5xxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhandari+Hospital+and+Research+Centre/@22.7527509,75.8890385,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a8893efb37:0xdccf05a77b7ff3eb!8m2!3d22.7527509!4d75.8890385!16s%2Fg%2F1w0h5xxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2496,8 +2476,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhandari+Hospital+and+Research+Centre/@22.7527509,75.8890385,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a8893efb37:0xdccf05a77b7ff3eb!8m2!3d22.7527509!4d75.8890385!16s%2Fg%2F1w0h5xxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhardwaj-dental-clinic-best-dental-clinic-in-indore-dentist-in-indore-indore",
@@ -2546,7 +2525,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhardwaj+Dental+Clinic+%7C+Best+Dental+Clinic+in+Indore+%7C+Dentist+in+Indore/@22.720457,75.8765951,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd15f612c97b:0xb72dff9750c97689!8m2!3d22.720457!4d75.8765951!16s%2Fg%2F1hf8rr7_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhardwaj+Dental+Clinic+%7C+Best+Dental+Clinic+in+Indore+%7C+Dentist+in+Indore/@22.720457,75.8765951,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd15f612c97b:0xb72dff9750c97689!8m2!3d22.720457!4d75.8765951!16s%2Fg%2F1hf8rr7_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2615,8 +2594,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhardwaj+Dental+Clinic+%7C+Best+Dental+Clinic+in+Indore+%7C+Dentist+in+Indore/@22.720457,75.8765951,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd15f612c97b:0xb72dff9750c97689!8m2!3d22.720457!4d75.8765951!16s%2Fg%2F1hf8rr7_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "birla-fertility-and-ivf-center-best-ivf-centre-in-indore-indore",
@@ -2666,7 +2644,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Indore/@22.7308117,75.8895321,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd989173845b:0x98cfe45843c05cb8!8m2!3d22.7308117!4d75.8895321!16s%2Fg%2F11y4797ngr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Indore/@22.7308117,75.8895321,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd989173845b:0x98cfe45843c05cb8!8m2!3d22.7308117!4d75.8895321!16s%2Fg%2F11y4797ngr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2735,8 +2713,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Indore/@22.7308117,75.8895321,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd989173845b:0x98cfe45843c05cb8!8m2!3d22.7308117!4d75.8895321!16s%2Fg%2F11y4797ngr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bombay-hospital-indore",
@@ -2785,7 +2762,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bombay+Hospital/@22.7543445,75.9033461,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d54503f21d3:0xc114629679b13584!8m2!3d22.7543445!4d75.9033461!16s%2Fg%2F1tkc52c6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bombay+Hospital/@22.7543445,75.9033461,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d54503f21d3:0xc114629679b13584!8m2!3d22.7543445!4d75.9033461!16s%2Fg%2F1tkc52c6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2851,11 +2828,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bombay+Hospital/@22.7543445,75.9033461,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d54503f21d3:0xc114629679b13584!8m2!3d22.7543445!4d75.9033461!16s%2Fg%2F1tkc52c6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cancer-healer-center-best-cancer-treatment-in-madhya-pradesh-cancer-hospital-in-madhya-pradesh-indore",
@@ -2904,7 +2880,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Madhya+Pradesh+%7C+Cancer+Hospital+in+Madhya+Pradesh/@22.7241875,75.8822901,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a453400001:0x4f8fb1f1a38957de!8m2!3d22.7241875!4d75.8822901!16s%2Fg%2F11cktvd13y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Madhya+Pradesh+%7C+Cancer+Hospital+in+Madhya+Pradesh/@22.7241875,75.8822901,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a453400001:0x4f8fb1f1a38957de!8m2!3d22.7241875!4d75.8822901!16s%2Fg%2F11cktvd13y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2973,8 +2949,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Madhya+Pradesh+%7C+Cancer+Hospital+in+Madhya+Pradesh/@22.7241875,75.8822901,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a453400001:0x4f8fb1f1a38957de!8m2!3d22.7241875!4d75.8822901!16s%2Fg%2F11cktvd13y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-chl-hospitals-indore-indore",
@@ -3023,7 +2998,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Care+CHL+Hospitals+Indore/@22.7322578,75.8893409,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f4dca1777:0x62bc8f8b155a8bd8!8m2!3d22.7322578!4d75.8893409!16s%2Fg%2F1tfg1h0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+CHL+Hospitals+Indore/@22.7322578,75.8893409,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f4dca1777:0x62bc8f8b155a8bd8!8m2!3d22.7322578!4d75.8893409!16s%2Fg%2F1tfg1h0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3092,8 +3067,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Care+CHL+Hospitals+Indore/@22.7322578,75.8893409,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f4dca1777:0x62bc8f8b155a8bd8!8m2!3d22.7322578!4d75.8893409!16s%2Fg%2F1tfg1h0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chaitanya-dental-clinic-and-implant-centre-indore",
@@ -3142,7 +3116,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chaitanya+Dental+Clinic+and+Implant+Centre/@22.7194349,75.9008318,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2ccc50ab39b:0x2eb05967d0af764f!8m2!3d22.7194349!4d75.9008318!16s%2Fg%2F11bwf7jcbs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaitanya+Dental+Clinic+and+Implant+Centre/@22.7194349,75.9008318,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2ccc50ab39b:0x2eb05967d0af764f!8m2!3d22.7194349!4d75.9008318!16s%2Fg%2F11bwf7jcbs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3211,8 +3185,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chaitanya+Dental+Clinic+and+Implant+Centre/@22.7194349,75.9008318,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2ccc50ab39b:0x2eb05967d0af764f!8m2!3d22.7194349!4d75.9008318!16s%2Fg%2F11bwf7jcbs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chirayu-clinic-indore",
@@ -3260,7 +3233,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chirayu+Clinic/@22.7011134,75.8344024,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb45e353473:0x7f9e88baab6e4612!8m2!3d22.7011134!4d75.8344024!16s%2Fg%2F12m97fn4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chirayu+Clinic/@22.7011134,75.8344024,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb45e353473:0x7f9e88baab6e4612!8m2!3d22.7011134!4d75.8344024!16s%2Fg%2F12m97fn4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3329,8 +3302,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chirayu+Clinic/@22.7011134,75.8344024,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb45e353473:0x7f9e88baab6e4612!8m2!3d22.7011134!4d75.8344024!16s%2Fg%2F12m97fn4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "choithram-hospital-and-research-centre-indore",
@@ -3378,7 +3350,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Choithram+Hospital+%26+Research+Centre/@22.6875578,75.8542563,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd072fc57783:0x87cd7c50fde2db84!8m2!3d22.6875578!4d75.8542563!16s%2Fg%2F1tcv98v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Choithram+Hospital+%26+Research+Centre/@22.6875578,75.8542563,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd072fc57783:0x87cd7c50fde2db84!8m2!3d22.6875578!4d75.8542563!16s%2Fg%2F1tcv98v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3447,8 +3419,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Choithram+Hospital+%26+Research+Centre/@22.6875578,75.8542563,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd072fc57783:0x87cd7c50fde2db84!8m2!3d22.6875578!4d75.8542563!16s%2Fg%2F1tcv98v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "confident-dental-clinic-and-implant-centre-indore",
@@ -3498,7 +3469,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Confident+Dental+Clinic+and+Implant+Centre/@22.7336478,75.8908875,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1a0a9d62b5:0xba464f05b8d84bd5!8m2!3d22.7336478!4d75.8908875!16s%2Fg%2F11yshqcrhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Confident+Dental+Clinic+and+Implant+Centre/@22.7336478,75.8908875,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1a0a9d62b5:0xba464f05b8d84bd5!8m2!3d22.7336478!4d75.8908875!16s%2Fg%2F11yshqcrhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3567,8 +3538,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Confident+Dental+Clinic+and+Implant+Centre/@22.7336478,75.8908875,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1a0a9d62b5:0xba464f05b8d84bd5!8m2!3d22.7336478!4d75.8908875!16s%2Fg%2F11yshqcrhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmo-dental-clinic-indore-dental-implants-invisalign-dentist-in-indore-indore",
@@ -3617,7 +3587,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cosmo+Dental+Clinic+Indore+%7C+Dental+Implants,+Invisalign+%7C+Dentist+in+Indore/@22.7193429,75.8837163,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fde811869b69:0x1d6fa214cde8045c!8m2!3d22.7193429!4d75.8837163!16s%2Fg%2F11bxfzcsvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmo+Dental+Clinic+Indore+%7C+Dental+Implants,+Invisalign+%7C+Dentist+in+Indore/@22.7193429,75.8837163,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fde811869b69:0x1d6fa214cde8045c!8m2!3d22.7193429!4d75.8837163!16s%2Fg%2F11bxfzcsvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3686,8 +3656,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cosmo+Dental+Clinic+Indore+%7C+Dental+Implants,+Invisalign+%7C+Dentist+in+Indore/@22.7193429,75.8837163,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fde811869b69:0x1d6fa214cde8045c!8m2!3d22.7193429!4d75.8837163!16s%2Fg%2F11bxfzcsvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmotouch-skin-clinic-in-indore-indore",
@@ -3736,7 +3705,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CosmoTouch+%7C+Skin+Clinic+in+Indore/@22.7035267,75.9177127,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2d848f4ac1f:0xcdde8b6e9a3bb5d9!8m2!3d22.7035267!4d75.9177127!16s%2Fg%2F11l2wpkf3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CosmoTouch+%7C+Skin+Clinic+in+Indore/@22.7035267,75.9177127,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2d848f4ac1f:0xcdde8b6e9a3bb5d9!8m2!3d22.7035267!4d75.9177127!16s%2Fg%2F11l2wpkf3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3805,8 +3774,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CosmoTouch+%7C+Skin+Clinic+in+Indore/@22.7035267,75.9177127,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2d848f4ac1f:0xcdde8b6e9a3bb5d9!8m2!3d22.7035267!4d75.9177127!16s%2Fg%2F11l2wpkf3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "daksh-total-dental-solution-dental-clinic-in-indore-indore",
@@ -3855,7 +3823,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Daksh+Total+Dental+Solution+-+Dental+Clinic+in+indore/@22.6993382,75.8365216,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb3ab57a663:0xa591e1fbe17db325!8m2!3d22.6993382!4d75.8365216!16s%2Fg%2F1q64ld57c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Daksh+Total+Dental+Solution+-+Dental+Clinic+in+indore/@22.6993382,75.8365216,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb3ab57a663:0xa591e1fbe17db325!8m2!3d22.6993382!4d75.8365216!16s%2Fg%2F1q64ld57c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3924,8 +3892,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Daksh+Total+Dental+Solution+-+Dental+Clinic+in+indore/@22.6993382,75.8365216,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb3ab57a663:0xa591e1fbe17db325!8m2!3d22.6993382!4d75.8365216!16s%2Fg%2F1q64ld57c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-clinic-indore",
@@ -3974,7 +3941,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Clinic/@22.7300407,75.8826754,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd043b6655d9:0x5f275d51994506ee!8m2!3d22.7300407!4d75.8826754!16s%2Fg%2F11mvb4p672?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Clinic/@22.7300407,75.8826754,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd043b6655d9:0x5f275d51994506ee!8m2!3d22.7300407!4d75.8826754!16s%2Fg%2F11mvb4p672?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4040,11 +4007,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Clinic/@22.7300407,75.8826754,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd043b6655d9:0x5f275d51994506ee!8m2!3d22.7300407!4d75.8826754!16s%2Fg%2F11mvb4p672?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-gallery-indore",
@@ -4094,7 +4060,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Gallery/@22.7566894,75.8808038,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d1ab65155:0xa864ba1d409eddb3!8m2!3d22.7566894!4d75.8808038!16s%2Fg%2F11s6g0xmmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Gallery/@22.7566894,75.8808038,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d1ab65155:0xa864ba1d409eddb3!8m2!3d22.7566894!4d75.8808038!16s%2Fg%2F11s6g0xmmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4163,8 +4129,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Gallery/@22.7566894,75.8808038,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d1ab65155:0xa864ba1d409eddb3!8m2!3d22.7566894!4d75.8808038!16s%2Fg%2F11s6g0xmmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentheal-indore",
@@ -4212,7 +4177,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DentHeal/@22.6874829,75.8365239,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd409dfa9693:0xa15846b06cd48c7d!8m2!3d22.6874829!4d75.8365239!16s%2Fg%2F11rxtlk8t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DentHeal/@22.6874829,75.8365239,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd409dfa9693:0xa15846b06cd48c7d!8m2!3d22.6874829!4d75.8365239!16s%2Fg%2F11rxtlk8t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4278,11 +4243,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DentHeal/@22.6874829,75.8365239,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd409dfa9693:0xa15846b06cd48c7d!8m2!3d22.6874829!4d75.8365239!16s%2Fg%2F11rxtlk8t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "devi-ahilya-hospital-and-research-centre-indore",
@@ -4332,7 +4296,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Devi+Ahilya+Hospital+and+Research+Centre/@22.6901244,75.8815196,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdcda85036c9:0xc245f2c3b242bd33!8m2!3d22.6901244!4d75.8815196!16s%2Fg%2F11fsvnrk_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devi+Ahilya+Hospital+and+Research+Centre/@22.6901244,75.8815196,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdcda85036c9:0xc245f2c3b242bd33!8m2!3d22.6901244!4d75.8815196!16s%2Fg%2F11fsvnrk_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4398,11 +4362,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Devi+Ahilya+Hospital+and+Research+Centre/@22.6901244,75.8815196,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdcda85036c9:0xc245f2c3b242bd33!8m2!3d22.6901244!4d75.8815196!16s%2Fg%2F11fsvnrk_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dezy-dental-clinic-in-vijaynagar-get-dental-implants-and-aligners-in-indore-indore",
@@ -4451,7 +4414,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dezy+Dental+Clinic+in+Vijaynagar+%7C+Get+Dental+Implants+%26+Aligners+in+Indore/@22.7585826,75.903911,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d90440c72e9:0xf237d05ee995ce88!8m2!3d22.7585826!4d75.903911!16s%2Fg%2F11v69xkv83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dezy+Dental+Clinic+in+Vijaynagar+%7C+Get+Dental+Implants+%26+Aligners+in+Indore/@22.7585826,75.903911,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d90440c72e9:0xf237d05ee995ce88!8m2!3d22.7585826!4d75.903911!16s%2Fg%2F11v69xkv83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4520,8 +4483,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dezy+Dental+Clinic+in+Vijaynagar+%7C+Get+Dental+Implants+%26+Aligners+in+Indore/@22.7585826,75.903911,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d90440c72e9:0xf237d05ee995ce88!8m2!3d22.7585826!4d75.903911!16s%2Fg%2F11v69xkv83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ekdant-the-complete-dental-solutions-indore",
@@ -4571,7 +4533,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ekdant+-+The+Complete+Dental+Solutions/@22.7579279,75.8914488,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdfa6bfaa8eb:0x88a831b89e7cc940!8m2!3d22.7579279!4d75.8914488!16s%2Fg%2F11fktynhws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ekdant+-+The+Complete+Dental+Solutions/@22.7579279,75.8914488,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdfa6bfaa8eb:0x88a831b89e7cc940!8m2!3d22.7579279!4d75.8914488!16s%2Fg%2F11fktynhws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4637,11 +4599,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ekdant+-+The+Complete+Dental+Solutions/@22.7579279,75.8914488,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdfa6bfaa8eb:0x88a831b89e7cc940!8m2!3d22.7579279!4d75.8914488!16s%2Fg%2F11fktynhws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "enhance-aesthetic-hub-indore",
@@ -4690,7 +4651,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Enhance+Aesthetic+hub/@22.6898775,75.8290593,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd23dc8c7c39:0x6b237a34dc2758ba!8m2!3d22.6898775!4d75.8290593!16s%2Fg%2F11jygkyx7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Enhance+Aesthetic+hub/@22.6898775,75.8290593,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd23dc8c7c39:0x6b237a34dc2758ba!8m2!3d22.6898775!4d75.8290593!16s%2Fg%2F11jygkyx7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4756,11 +4717,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Enhance+Aesthetic+hub/@22.6898775,75.8290593,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd23dc8c7c39:0x6b237a34dc2758ba!8m2!3d22.6898775!4d75.8290593!16s%2Fg%2F11jygkyx7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fortmax-clinic-hair-transplant-and-cosmetic-surgery-in-indore-indore",
@@ -4809,7 +4769,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fortmax+Clinic+Hair+Transplant+%26+Cosmetic+Surgery+in+Indore/@22.7494393,75.8985964,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8165178311:0x80bbad025e8471d2!8m2!3d22.7494393!4d75.8985964!16s%2Fg%2F11s99m_y74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fortmax+Clinic+Hair+Transplant+%26+Cosmetic+Surgery+in+Indore/@22.7494393,75.8985964,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8165178311:0x80bbad025e8471d2!8m2!3d22.7494393!4d75.8985964!16s%2Fg%2F11s99m_y74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4875,11 +4835,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fortmax+Clinic+Hair+Transplant+%26+Cosmetic+Surgery+in+Indore/@22.7494393,75.8985964,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8165178311:0x80bbad025e8471d2!8m2!3d22.7494393!4d75.8985964!16s%2Fg%2F11s99m_y74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "garbhveda-ayurvedic-fertility-centre-best-ayurvedic-clinic-male-and-female-infertility-clinic-pcos-tubal-blockage-indore",
@@ -4929,7 +4888,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Garbhveda+Ayurvedic+Fertility+Centre+%7C+Best+Ayurvedic+Clinic+%7C+Male+%26+female+Infertility+Clinic,+PCOS,+Tubal+Blockage/@22.7497099,75.9040781,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d00bee7ab07:0x79e809eaba4bcc6!8m2!3d22.7497099!4d75.9040781!16s%2Fg%2F11s2n40r1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Garbhveda+Ayurvedic+Fertility+Centre+%7C+Best+Ayurvedic+Clinic+%7C+Male+%26+female+Infertility+Clinic,+PCOS,+Tubal+Blockage/@22.7497099,75.9040781,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d00bee7ab07:0x79e809eaba4bcc6!8m2!3d22.7497099!4d75.9040781!16s%2Fg%2F11s2n40r1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4998,8 +4957,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Garbhveda+Ayurvedic+Fertility+Centre+%7C+Best+Ayurvedic+Clinic+%7C+Male+%26+female+Infertility+Clinic,+PCOS,+Tubal+Blockage/@22.7497099,75.9040781,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d00bee7ab07:0x79e809eaba4bcc6!8m2!3d22.7497099!4d75.9040781!16s%2Fg%2F11s2n40r1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gbl-hospital-indore",
@@ -5048,7 +5006,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GBL+Hospital/@22.7564799,75.8778894,17z/data=!3m1!4b1!4m6!3m5!1s0x3963033bd65f5e69:0x1080e517030ead09!8m2!3d22.7564799!4d75.8778894!16s%2Fg%2F11fkqbf404?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GBL+Hospital/@22.7564799,75.8778894,17z/data=!3m1!4b1!4m6!3m5!1s0x3963033bd65f5e69:0x1080e517030ead09!8m2!3d22.7564799!4d75.8778894!16s%2Fg%2F11fkqbf404?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5117,8 +5075,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GBL+Hospital/@22.7564799,75.8778894,17z/data=!3m1!4b1!4m6!3m5!1s0x3963033bd65f5e69:0x1080e517030ead09!8m2!3d22.7564799!4d75.8778894!16s%2Fg%2F11fkqbf404?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "geetanjali-hospital-indore",
@@ -5167,7 +5124,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Geetanjali+Hospital/@22.721875,75.8347405,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd95f24b8475:0x32e9d551d5e3d0a5!8m2!3d22.721875!4d75.8347405!16s%2Fg%2F124ymbw7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Geetanjali+Hospital/@22.721875,75.8347405,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd95f24b8475:0x32e9d551d5e3d0a5!8m2!3d22.721875!4d75.8347405!16s%2Fg%2F124ymbw7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5236,8 +5193,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Geetanjali+Hospital/@22.721875,75.8347405,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd95f24b8475:0x32e9d551d5e3d0a5!8m2!3d22.721875!4d75.8347405!16s%2Fg%2F124ymbw7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gender-change-hospital-indore",
@@ -5286,7 +5242,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GENDER+CHANGE+HOSPITAL/@22.7303556,75.9034607,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3a3cdc1f09d:0xd1fd3b8e8450c77c!8m2!3d22.7303556!4d75.9034607!16s%2Fg%2F11w8b4jm1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GENDER+CHANGE+HOSPITAL/@22.7303556,75.9034607,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3a3cdc1f09d:0xd1fd3b8e8450c77c!8m2!3d22.7303556!4d75.9034607!16s%2Fg%2F11w8b4jm1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5352,11 +5308,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GENDER+CHANGE+HOSPITAL/@22.7303556,75.9034607,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3a3cdc1f09d:0xd1fd3b8e8450c77c!8m2!3d22.7303556!4d75.9034607!16s%2Fg%2F11w8b4jm1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "general-and-laproscopic-surgery-jtp-hospitals-in-indore-indore",
@@ -5404,7 +5359,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/General+%26+Laproscopic+Surgery+-+JTP+Hospitals+in+Indore/@22.6881338,75.825681,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda22f9fa059:0xf9e51a1844dad866!8m2!3d22.6881338!4d75.825681!16s%2Fg%2F11ymhmzbtj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/General+%26+Laproscopic+Surgery+-+JTP+Hospitals+in+Indore/@22.6881338,75.825681,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda22f9fa059:0xf9e51a1844dad866!8m2!3d22.6881338!4d75.825681!16s%2Fg%2F11ymhmzbtj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5470,11 +5425,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/General+%26+Laproscopic+Surgery+-+JTP+Hospitals+in+Indore/@22.6881338,75.825681,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda22f9fa059:0xf9e51a1844dad866!8m2!3d22.6881338!4d75.825681!16s%2Fg%2F11ymhmzbtj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-dental-centre-indore",
@@ -5523,7 +5477,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Global+Dental+Centre/@22.7535362,75.9025906,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dddc9f03d5b:0x64215c5db726409b!8m2!3d22.7535362!4d75.9025906!16s%2Fg%2F11gxgj46wq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Dental+Centre/@22.7535362,75.9025906,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dddc9f03d5b:0x64215c5db726409b!8m2!3d22.7535362!4d75.9025906!16s%2Fg%2F11gxgj46wq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5592,8 +5546,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Global+Dental+Centre/@22.7535362,75.9025906,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dddc9f03d5b:0x64215c5db726409b!8m2!3d22.7535362!4d75.9025906!16s%2Fg%2F11gxgj46wq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gokuldas-hospital-indore",
@@ -5642,7 +5595,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gokuldas+Hospital/@22.7165807,75.87606,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd162cde2ad7:0x2079ab196bd4cb31!8m2!3d22.7165807!4d75.87606!16s%2Fg%2F1vnth8_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gokuldas+Hospital/@22.7165807,75.87606,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd162cde2ad7:0x2079ab196bd4cb31!8m2!3d22.7165807!4d75.87606!16s%2Fg%2F1vnth8_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5711,8 +5664,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gokuldas+Hospital/@22.7165807,75.87606,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd162cde2ad7:0x2079ab196bd4cb31!8m2!3d22.7165807!4d75.87606!16s%2Fg%2F1vnth8_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "govt-cancer-hospital-indore",
@@ -5760,7 +5712,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Govt+Cancer+Hospital/@22.7140744,75.8786641,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x4ec0f9708fe8495c!8m2!3d22.7140744!4d75.8786641!16s%2Fg%2F1vhlwl45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt+Cancer+Hospital/@22.7140744,75.8786641,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x4ec0f9708fe8495c!8m2!3d22.7140744!4d75.8786641!16s%2Fg%2F1vhlwl45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5829,8 +5781,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Govt+Cancer+Hospital/@22.7140744,75.8786641,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x4ec0f9708fe8495c!8m2!3d22.7140744!4d75.8786641!16s%2Fg%2F1vhlwl45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gupta-hand-surgery-centre-indore",
@@ -5879,7 +5830,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gupta+Hand+Surgery+Centre/@22.6909272,75.8807849,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcdcc95ba209:0x6d9304f6cae072c6!8m2!3d22.6909272!4d75.8807849!16s%2Fg%2F11b807w10s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Hand+Surgery+Centre/@22.6909272,75.8807849,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcdcc95ba209:0x6d9304f6cae072c6!8m2!3d22.6909272!4d75.8807849!16s%2Fg%2F11b807w10s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5948,8 +5899,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gupta+Hand+Surgery+Centre/@22.6909272,75.8807849,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcdcc95ba209:0x6d9304f6cae072c6!8m2!3d22.6909272!4d75.8807849!16s%2Fg%2F11b807w10s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gurjar-hospital-indore",
@@ -5998,7 +5948,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gurjar+Hospital/@22.6919473,75.8660795,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce520d180b5:0xfe7b2da61f6fae92!8m2!3d22.6919473!4d75.8660795!16s%2Fg%2F1v3_122r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurjar+Hospital/@22.6919473,75.8660795,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce520d180b5:0xfe7b2da61f6fae92!8m2!3d22.6919473!4d75.8660795!16s%2Fg%2F1v3_122r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6067,8 +6017,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gurjar+Hospital/@22.6919473,75.8660795,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce520d180b5:0xfe7b2da61f6fae92!8m2!3d22.6919473!4d75.8660795!16s%2Fg%2F1v3_122r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hair-transplant-in-indore-marmm-klinik-indore",
@@ -6117,7 +6066,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hair+Transplant+in+Indore+%7C+Marmm+Klinik/@22.7357962,75.895774,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4c5c000001:0x59708de4d0f7bcdd!8m2!3d22.7357962!4d75.895774!16s%2Fg%2F11rvhplr4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hair+Transplant+in+Indore+%7C+Marmm+Klinik/@22.7357962,75.895774,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4c5c000001:0x59708de4d0f7bcdd!8m2!3d22.7357962!4d75.895774!16s%2Fg%2F11rvhplr4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6186,8 +6135,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hair+Transplant+in+Indore+%7C+Marmm+Klinik/@22.7357962,75.895774,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4c5c000001:0x59708de4d0f7bcdd!8m2!3d22.7357962!4d75.895774!16s%2Fg%2F11rvhplr4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hcg-cancer-hospital-phadnis-colony-indore-indore",
@@ -6237,7 +6185,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Phadnis+Colony,+Indore)/@22.7318146,75.8891889,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd002bd01e41:0x705bd2313ff1fb5d!8m2!3d22.7318146!4d75.8891889!16s%2Fg%2F11vpr8jntd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Phadnis+Colony,+Indore)/@22.7318146,75.8891889,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd002bd01e41:0x705bd2313ff1fb5d!8m2!3d22.7318146!4d75.8891889!16s%2Fg%2F11vpr8jntd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6306,8 +6254,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Phadnis+Colony,+Indore)/@22.7318146,75.8891889,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd002bd01e41:0x705bd2313ff1fb5d!8m2!3d22.7318146!4d75.8891889!16s%2Fg%2F11vpr8jntd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hope-fertility-center-indore",
@@ -6357,7 +6304,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hope+Fertility+Center/@22.71607,75.87399,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd17ab148795:0xd25b17f8681c57bb!8m2!3d22.71607!4d75.87399!16s%2Fg%2F1tfjp2y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+Fertility+Center/@22.71607,75.87399,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd17ab148795:0xd25b17f8681c57bb!8m2!3d22.71607!4d75.87399!16s%2Fg%2F1tfjp2y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6423,11 +6370,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hope+Fertility+Center/@22.71607,75.87399,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd17ab148795:0xd25b17f8681c57bb!8m2!3d22.71607!4d75.87399!16s%2Fg%2F1tfjp2y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ideal-dental-care-indore",
@@ -6477,7 +6423,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ideal+Dental+Care/@22.7286108,75.8956957,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4a41204c3f:0xa23b032beb390fcd!8m2!3d22.7286108!4d75.8956957!16s%2Fg%2F1trcdt_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ideal+Dental+Care/@22.7286108,75.8956957,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4a41204c3f:0xa23b032beb390fcd!8m2!3d22.7286108!4d75.8956957!16s%2Fg%2F1trcdt_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6546,8 +6492,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ideal+Dental+Care/@22.7286108,75.8956957,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4a41204c3f:0xa23b032beb390fcd!8m2!3d22.7286108!4d75.8956957!16s%2Fg%2F1trcdt_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-indore-best-ivf-centre-indore",
@@ -6597,7 +6542,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Indore+-+Best+IVF+Centre/@22.7456006,75.892432,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd56994f3379:0xd083b721cd30fd78!8m2!3d22.7456006!4d75.892432!16s%2Fg%2F11bx49c2r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Indore+-+Best+IVF+Centre/@22.7456006,75.892432,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd56994f3379:0xd083b721cd30fd78!8m2!3d22.7456006!4d75.892432!16s%2Fg%2F11bx49c2r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6666,8 +6611,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Indore+-+Best+IVF+Centre/@22.7456006,75.892432,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd56994f3379:0xd083b721cd30fd78!8m2!3d22.7456006!4d75.892432!16s%2Fg%2F11bx49c2r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-indore-best-ivf-centre-indore",
@@ -6717,7 +6661,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Indore+-+Best+IVF+Centre/@22.6828741,75.8357051,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8d559f2f7b:0xdad98e30212d6b80!8m2!3d22.6828741!4d75.8357051!16s%2Fg%2F11ydr9sqgs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Indore+-+Best+IVF+Centre/@22.6828741,75.8357051,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8d559f2f7b:0xdad98e30212d6b80!8m2!3d22.6828741!4d75.8357051!16s%2Fg%2F11ydr9sqgs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6786,8 +6730,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Indore+-+Best+IVF+Centre/@22.6828741,75.8357051,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8d559f2f7b:0xdad98e30212d6b80!8m2!3d22.6828741!4d75.8357051!16s%2Fg%2F11ydr9sqgs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-memorial-hospital-indore",
@@ -6835,7 +6778,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+Memorial+Hospital/@22.6694526,75.827855,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc148e698459:0xc45ec6e4d4abf539!8m2!3d22.6694526!4d75.827855!16s%2Fg%2F1q6j3htkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+Memorial+Hospital/@22.6694526,75.827855,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc148e698459:0xc45ec6e4d4abf539!8m2!3d22.6694526!4d75.827855!16s%2Fg%2F1q6j3htkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6904,8 +6847,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+Memorial+Hospital/@22.6694526,75.827855,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc148e698459:0xc45ec6e4d4abf539!8m2!3d22.6694526!4d75.827855!16s%2Fg%2F1q6j3htkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indore-infertility-clinic-indore",
@@ -6955,7 +6897,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indore+Infertility+Clinic/@22.7313392,75.8925108,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f4b1f333b:0xa800e3388b4ef0f9!8m2!3d22.7313392!4d75.8925108!16s%2Fg%2F12qfyvbr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indore+Infertility+Clinic/@22.7313392,75.8925108,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f4b1f333b:0xa800e3388b4ef0f9!8m2!3d22.7313392!4d75.8925108!16s%2Fg%2F12qfyvbr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7024,8 +6966,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indore+Infertility+Clinic/@22.7313392,75.8925108,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f4b1f333b:0xa800e3388b4ef0f9!8m2!3d22.7313392!4d75.8925108!16s%2Fg%2F12qfyvbr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indore-poly-dental-clinic-indore",
@@ -7074,7 +7015,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indore+Poly+Dental+Clinic/@22.725532,75.884849,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3883a19c79:0xcd1b920f981233a6!8m2!3d22.725532!4d75.884849!16s%2Fg%2F1tx8rlrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indore+Poly+Dental+Clinic/@22.725532,75.884849,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3883a19c79:0xcd1b920f981233a6!8m2!3d22.725532!4d75.884849!16s%2Fg%2F1tx8rlrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7143,8 +7084,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indore+Poly+Dental+Clinic/@22.725532,75.884849,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3883a19c79:0xcd1b920f981233a6!8m2!3d22.725532!4d75.884849!16s%2Fg%2F1tx8rlrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indore-trauma-centre-indore",
@@ -7192,7 +7132,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indore+Trauma+Centre/@22.6721264,75.8809607,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd9bf3f9d897:0x9bc7b55e739a1ae6!8m2!3d22.6721264!4d75.8809607!16s%2Fg%2F11mx5p4yvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indore+Trauma+Centre/@22.6721264,75.8809607,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd9bf3f9d897:0x9bc7b55e739a1ae6!8m2!3d22.6721264!4d75.8809607!16s%2Fg%2F11mx5p4yvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7261,8 +7201,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indore+Trauma+Centre/@22.6721264,75.8809607,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd9bf3f9d897:0x9bc7b55e739a1ae6!8m2!3d22.6721264!4d75.8809607!16s%2Fg%2F11mx5p4yvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "infinity-dental-clinic-indore",
@@ -7311,7 +7250,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Infinity+Dental+Clinic/@22.7549172,75.8921809,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a93a6b0887:0xfe97c1eb14efa3!8m2!3d22.7549172!4d75.8921809!16s%2Fg%2F1q62mmml1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Infinity+Dental+Clinic/@22.7549172,75.8921809,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a93a6b0887:0xfe97c1eb14efa3!8m2!3d22.7549172!4d75.8921809!16s%2Fg%2F1q62mmml1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7380,8 +7319,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Infinity+Dental+Clinic/@22.7549172,75.8921809,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a93a6b0887:0xfe97c1eb14efa3!8m2!3d22.7549172!4d75.8921809!16s%2Fg%2F1q62mmml1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "isfprs-indore",
@@ -7429,7 +7367,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ISFPRS/@22.7171121,75.884803,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3b07c638bd:0xd9ff747641103196!8m2!3d22.7171121!4d75.884803!16s%2Fg%2F11j8zbz5jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ISFPRS/@22.7171121,75.884803,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3b07c638bd:0xd9ff747641103196!8m2!3d22.7171121!4d75.884803!16s%2Fg%2F11j8zbz5jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7495,11 +7433,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ISFPRS/@22.7171121,75.884803,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3b07c638bd:0xd9ff747641103196!8m2!3d22.7171121!4d75.884803!16s%2Fg%2F11j8zbz5jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "iswarya-ivf-and-fertility-centre-indore-indore",
@@ -7549,7 +7486,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Indore/@22.7178909,75.8845171,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd36ff0f0277:0xe35a20e8fbcc36c5!8m2!3d22.7178909!4d75.8845171!16s%2Fg%2F11l3296pjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Indore/@22.7178909,75.8845171,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd36ff0f0277:0xe35a20e8fbcc36c5!8m2!3d22.7178909!4d75.8845171!16s%2Fg%2F11l3296pjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7618,8 +7555,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Indore/@22.7178909,75.8845171,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd36ff0f0277:0xe35a20e8fbcc36c5!8m2!3d22.7178909!4d75.8845171!16s%2Fg%2F11l3296pjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-dental-care-indore",
@@ -7667,7 +7603,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Dental+Care/@22.7147031,75.888779,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd0036df7a35:0xd6bc535acb9b9299!8m2!3d22.7147031!4d75.888779!16s%2Fg%2F11wxg1lnvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Dental+Care/@22.7147031,75.888779,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd0036df7a35:0xd6bc535acb9b9299!8m2!3d22.7147031!4d75.888779!16s%2Fg%2F11wxg1lnvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7733,11 +7669,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Dental+Care/@22.7147031,75.888779,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd0036df7a35:0xd6bc535acb9b9299!8m2!3d22.7147031!4d75.888779!16s%2Fg%2F11wxg1lnvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lotus-hospital-indore",
@@ -7785,7 +7720,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lotus+Hospital/@22.7338116,75.9022537,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e31d89597535:0x83374eea15d82673!8m2!3d22.7338116!4d75.9022537!16s%2Fg%2F11sqh9_zgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lotus+Hospital/@22.7338116,75.9022537,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e31d89597535:0x83374eea15d82673!8m2!3d22.7338116!4d75.9022537!16s%2Fg%2F11sqh9_zgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7854,8 +7789,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lotus+Hospital/@22.7338116,75.9022537,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e31d89597535:0x83374eea15d82673!8m2!3d22.7338116!4d75.9022537!16s%2Fg%2F11sqh9_zgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhavbaug-cardiac-clinic-vidya-nagar-indore-indore",
@@ -7905,7 +7839,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Madhavbaug+cardiac+clinic+Vidya+Nagar,+Indore/@22.6964832,75.8674428,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce37385b131:0x913b44253d33eb31!8m2!3d22.6964832!4d75.8674428!16s%2Fg%2F11hbbtb1d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+cardiac+clinic+Vidya+Nagar,+Indore/@22.6964832,75.8674428,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce37385b131:0x913b44253d33eb31!8m2!3d22.6964832!4d75.8674428!16s%2Fg%2F11hbbtb1d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7974,8 +7908,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Madhavbaug+cardiac+clinic+Vidya+Nagar,+Indore/@22.6964832,75.8674428,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce37385b131:0x913b44253d33eb31!8m2!3d22.6964832!4d75.8674428!16s%2Fg%2F11hbbtb1d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhavbaug-clinic-bengali-square-indore-indore",
@@ -8025,7 +7958,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MADHAVBAUG+CLINIC+-+Bengali+Square+Indore/@22.7177404,75.9076873,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ccd7341207:0xc8bf269257f19549!8m2!3d22.7177404!4d75.9076873!16s%2Fg%2F11hdjt71q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MADHAVBAUG+CLINIC+-+Bengali+Square+Indore/@22.7177404,75.9076873,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ccd7341207:0xc8bf269257f19549!8m2!3d22.7177404!4d75.9076873!16s%2Fg%2F11hdjt71q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8094,8 +8027,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MADHAVBAUG+CLINIC+-+Bengali+Square+Indore/@22.7177404,75.9076873,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ccd7341207:0xc8bf269257f19549!8m2!3d22.7177404!4d75.9076873!16s%2Fg%2F11hdjt71q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-scheme-no-74-c-vijay-nagar-indore-indore",
@@ -8145,7 +8077,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+(Scheme+no-+74+C,+Vijay+Nagar,+Indore)/@22.7593287,75.8877246,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a5134919bb:0xe4d2f3c74fcb5c16!8m2!3d22.7593287!4d75.8877246!16s%2Fg%2F11g8bwwbss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+(Scheme+no-+74+C,+Vijay+Nagar,+Indore)/@22.7593287,75.8877246,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a5134919bb:0xe4d2f3c74fcb5c16!8m2!3d22.7593287!4d75.8877246!16s%2Fg%2F11g8bwwbss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8214,8 +8146,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+(Scheme+no-+74+C,+Vijay+Nagar,+Indore)/@22.7593287,75.8877246,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a5134919bb:0xe4d2f3c74fcb5c16!8m2!3d22.7593287!4d75.8877246!16s%2Fg%2F11g8bwwbss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mahajan-ent-and-dental-braces-and-aligner-specialist-dentist-in-indore-indore",
@@ -8265,7 +8196,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mahajan+Ent+%26+Dental+-+braces+and+Aligner+specialist+-+dentist+in+Indore/@22.7345128,75.8885276,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0xfc91a023ea156773!8m2!3d22.7345128!4d75.8885276!16s%2Fg%2F1tq8gz7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahajan+Ent+%26+Dental+-+braces+and+Aligner+specialist+-+dentist+in+Indore/@22.7345128,75.8885276,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0xfc91a023ea156773!8m2!3d22.7345128!4d75.8885276!16s%2Fg%2F1tq8gz7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8334,8 +8265,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mahajan+Ent+%26+Dental+-+braces+and+Aligner+specialist+-+dentist+in+Indore/@22.7345128,75.8885276,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0xfc91a023ea156773!8m2!3d22.7345128!4d75.8885276!16s%2Fg%2F1tq8gz7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "male-fertility-centre-sexologist-in-indore-indore",
@@ -8386,7 +8316,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Male+Fertility+Centre+-+Sexologist+in+Indore/@22.7263918,75.8786755,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4070210caf:0x8849c5a9eafadc3e!8m2!3d22.7263918!4d75.8786755!16s%2Fg%2F11ckr782gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Male+Fertility+Centre+-+Sexologist+in+Indore/@22.7263918,75.8786755,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4070210caf:0x8849c5a9eafadc3e!8m2!3d22.7263918!4d75.8786755!16s%2Fg%2F11ckr782gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8455,8 +8385,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Male+Fertility+Centre+-+Sexologist+in+Indore/@22.7263918,75.8786755,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4070210caf:0x8849c5a9eafadc3e!8m2!3d22.7263918!4d75.8786755!16s%2Fg%2F11ckr782gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medanta-homecare-indore-indore",
@@ -8506,7 +8435,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medanta+HomeCare+-+Indore/@22.7488763,75.8961048,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd35e5e22e39:0xc911ad9baaee9314!8m2!3d22.7488763!4d75.8961048!16s%2Fg%2F11t6_5ws9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medanta+HomeCare+-+Indore/@22.7488763,75.8961048,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd35e5e22e39:0xc911ad9baaee9314!8m2!3d22.7488763!4d75.8961048!16s%2Fg%2F11t6_5ws9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8572,11 +8501,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medanta+HomeCare+-+Indore/@22.7488763,75.8961048,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd35e5e22e39:0xc911ad9baaee9314!8m2!3d22.7488763!4d75.8961048!16s%2Fg%2F11t6_5ws9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medicare-hospital-and-research-centre-indore",
@@ -8625,7 +8553,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medicare+Hospital+%26+Research+Centre/@22.7224053,75.8909271,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3696aaaaab:0x588615776af2c7a8!8m2!3d22.7224053!4d75.8909271!16s%2Fg%2F1tf061vq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicare+Hospital+%26+Research+Centre/@22.7224053,75.8909271,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3696aaaaab:0x588615776af2c7a8!8m2!3d22.7224053!4d75.8909271!16s%2Fg%2F1tf061vq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8694,8 +8622,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medicare+Hospital+%26+Research+Centre/@22.7224053,75.8909271,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3696aaaaab:0x588615776af2c7a8!8m2!3d22.7224053!4d75.8909271!16s%2Fg%2F1tf061vq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mg-plastic-surgery-advanced-cosmetic-and-reconstructive-clinic-indore-indore",
@@ -8744,7 +8671,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MG+Plastic+Surgery+%E2%80%93+Advanced+Cosmetic+%26+Reconstructive+Clinic+Indore/@22.7619343,75.8850383,17z/data=!3m1!4b1!4m6!3m5!1s0x39630320f686ccad:0x57ca0b415d316991!8m2!3d22.7619343!4d75.8850383!16s%2Fg%2F11y_xgc8gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MG+Plastic+Surgery+%E2%80%93+Advanced+Cosmetic+%26+Reconstructive+Clinic+Indore/@22.7619343,75.8850383,17z/data=!3m1!4b1!4m6!3m5!1s0x39630320f686ccad:0x57ca0b415d316991!8m2!3d22.7619343!4d75.8850383!16s%2Fg%2F11y_xgc8gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8813,8 +8740,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MG+Plastic+Surgery+%E2%80%93+Advanced+Cosmetic+%26+Reconstructive+Clinic+Indore/@22.7619343,75.8850383,17z/data=!3m1!4b1!4m6!3m5!1s0x39630320f686ccad:0x57ca0b415d316991!8m2!3d22.7619343!4d75.8850383!16s%2Fg%2F11y_xgc8gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mg-plastic-surgery-advanced-cosmetic-and-reconstructive-clinic-indore-indore",
@@ -8863,7 +8789,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MG+Plastic+Surgery+%E2%80%93+Advanced+Cosmetic+%26+Reconstructive+Clinic+Indore/@22.7045946,75.8606874,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3eff019261:0x965c68dad744fda0!8m2!3d22.7045946!4d75.8606874!16s%2Fg%2F11ykx49n0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MG+Plastic+Surgery+%E2%80%93+Advanced+Cosmetic+%26+Reconstructive+Clinic+Indore/@22.7045946,75.8606874,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3eff019261:0x965c68dad744fda0!8m2!3d22.7045946!4d75.8606874!16s%2Fg%2F11ykx49n0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8929,11 +8855,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MG+Plastic+Surgery+%E2%80%93+Advanced+Cosmetic+%26+Reconstructive+Clinic+Indore/@22.7045946,75.8606874,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3eff019261:0x965c68dad744fda0!8m2!3d22.7045946!4d75.8606874!16s%2Fg%2F11ykx49n0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "morpheus-sridhar-indore",
@@ -8982,7 +8907,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Morpheus+Sridhar/@22.6958896,75.8348523,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc4f4077a8f1:0x90f16457cadb2995!8m2!3d22.6958896!4d75.8348523!16s%2Fg%2F1pp2tlj4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Morpheus+Sridhar/@22.6958896,75.8348523,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc4f4077a8f1:0x90f16457cadb2995!8m2!3d22.6958896!4d75.8348523!16s%2Fg%2F1pp2tlj4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9051,8 +8976,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Morpheus+Sridhar/@22.6958896,75.8348523,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc4f4077a8f1:0x90f16457cadb2995!8m2!3d22.6958896!4d75.8348523!16s%2Fg%2F1pp2tlj4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "motherhood-fertility-and-ivf-center-best-ivf-centre-in-indore-iui-icsi-infertility-treatment-indore",
@@ -9102,7 +9026,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Motherhood+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Indore+%7C+IUI,+ICSI,+Infertility+Treatment/@22.7478976,75.8917963,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4ee98f12c9:0x941d1b3bc3ad8139!8m2!3d22.7478976!4d75.8917963!16s%2Fg%2F11pvmdl839?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Motherhood+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Indore+%7C+IUI,+ICSI,+Infertility+Treatment/@22.7478976,75.8917963,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4ee98f12c9:0x941d1b3bc3ad8139!8m2!3d22.7478976!4d75.8917963!16s%2Fg%2F11pvmdl839?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9171,8 +9095,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Motherhood+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Indore+%7C+IUI,+ICSI,+Infertility+Treatment/@22.7478976,75.8917963,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4ee98f12c9:0x941d1b3bc3ad8139!8m2!3d22.7478976!4d75.8917963!16s%2Fg%2F11pvmdl839?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mp-fertility-center-indore",
@@ -9222,7 +9145,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MP+Fertility+Center/@22.7296653,75.8777434,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd400ca690eb:0x3c371a9f16e3f8f2!8m2!3d22.7296653!4d75.8777434!16s%2Fg%2F1z44_c0m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MP+Fertility+Center/@22.7296653,75.8777434,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd400ca690eb:0x3c371a9f16e3f8f2!8m2!3d22.7296653!4d75.8777434!16s%2Fg%2F1z44_c0m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9291,8 +9214,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MP+Fertility+Center/@22.7296653,75.8777434,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd400ca690eb:0x3c371a9f16e3f8f2!8m2!3d22.7296653!4d75.8777434!16s%2Fg%2F1z44_c0m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mukherjee-fertility-centre-indore",
@@ -9341,7 +9263,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mukherjee+Fertility+Centre/@22.7647808,75.8927738,17z/data=!3m1!4b1!4m6!3m5!1s0x396302b17460bc55:0x18adac0e44fa320a!8m2!3d22.7647808!4d75.8927738!16s%2Fg%2F11b7q1f812?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mukherjee+Fertility+Centre/@22.7647808,75.8927738,17z/data=!3m1!4b1!4m6!3m5!1s0x396302b17460bc55:0x18adac0e44fa320a!8m2!3d22.7647808!4d75.8927738!16s%2Fg%2F11b7q1f812?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9410,8 +9332,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mukherjee+Fertility+Centre/@22.7647808,75.8927738,17z/data=!3m1!4b1!4m6!3m5!1s0x396302b17460bc55:0x18adac0e44fa320a!8m2!3d22.7647808!4d75.8927738!16s%2Fg%2F11b7q1f812?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "namah-hospital-and-laparoscopic-centre-indore",
@@ -9460,7 +9381,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NAMAH+HOSPITAL+AND+LAPAROSCOPIC+CENTRE/@22.7530288,75.8920926,17z/data=!3m1!4b1!4m6!3m5!1s0x3963030017e1f87d:0x466146ade9a32448!8m2!3d22.7530288!4d75.8920926!16s%2Fg%2F11vt0rn337?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NAMAH+HOSPITAL+AND+LAPAROSCOPIC+CENTRE/@22.7530288,75.8920926,17z/data=!3m1!4b1!4m6!3m5!1s0x3963030017e1f87d:0x466146ade9a32448!8m2!3d22.7530288!4d75.8920926!16s%2Fg%2F11vt0rn337?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9529,8 +9450,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NAMAH+HOSPITAL+AND+LAPAROSCOPIC+CENTRE/@22.7530288,75.8920926,17z/data=!3m1!4b1!4m6!3m5!1s0x3963030017e1f87d:0x466146ade9a32448!8m2!3d22.7530288!4d75.8920926!16s%2Fg%2F11vt0rn337?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-hope-ivf-fertility-and-research-centre-indore",
@@ -9580,7 +9500,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Hope+IVF+Fertility+%26+Research+Centre/@22.7297053,75.8749166,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda2ec6dd795:0xdb5056b2728aab43!8m2!3d22.7297053!4d75.8749166!16s%2Fg%2F11rghfwcn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Hope+IVF+Fertility+%26+Research+Centre/@22.7297053,75.8749166,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda2ec6dd795:0xdb5056b2728aab43!8m2!3d22.7297053!4d75.8749166!16s%2Fg%2F11rghfwcn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9649,8 +9569,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Hope+IVF+Fertility+%26+Research+Centre/@22.7297053,75.8749166,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda2ec6dd795:0xdb5056b2728aab43!8m2!3d22.7297053!4d75.8749166!16s%2Fg%2F11rghfwcn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-muskan-dental-clinic-top-dental-clinic-dentist-root-canal-treatment-in-indore-indore",
@@ -9699,7 +9618,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Muskan+Dental+Clinic+-+Top+Dental+Clinic,+Dentist,+Root+Canal+Treatment+In+Indore/@22.7109613,75.9209844,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2cefeeaea43:0xe17260ac53acf240!8m2!3d22.7109613!4d75.9209844!16s%2Fg%2F1q629jxmj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Muskan+Dental+Clinic+-+Top+Dental+Clinic,+Dentist,+Root+Canal+Treatment+In+Indore/@22.7109613,75.9209844,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2cefeeaea43:0xe17260ac53acf240!8m2!3d22.7109613!4d75.9209844!16s%2Fg%2F1q629jxmj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9768,8 +9687,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Muskan+Dental+Clinic+-+Top+Dental+Clinic,+Dentist,+Root+Canal+Treatment+In+Indore/@22.7109613,75.9209844,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2cefeeaea43:0xe17260ac53acf240!8m2!3d22.7109613!4d75.9209844!16s%2Fg%2F1q629jxmj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nova-ivf-fertility-centre-best-ivf-center-in-indore-indore",
@@ -9819,7 +9737,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Center+in+Indore/@22.7517825,75.8965712,17z/data=!3m1!4b1!4m6!3m5!1s0x396302aa5e2a9d4d:0x6b25ab7ea97e21f1!8m2!3d22.7517825!4d75.8965712!16s%2Fg%2F11c1nrvlr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Center+in+Indore/@22.7517825,75.8965712,17z/data=!3m1!4b1!4m6!3m5!1s0x396302aa5e2a9d4d:0x6b25ab7ea97e21f1!8m2!3d22.7517825!4d75.8965712!16s%2Fg%2F11c1nrvlr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9888,8 +9806,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Center+in+Indore/@22.7517825,75.8965712,17z/data=!3m1!4b1!4m6!3m5!1s0x396302aa5e2a9d4d:0x6b25ab7ea97e21f1!8m2!3d22.7517825!4d75.8965712!16s%2Fg%2F11c1nrvlr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oasis-fertility-best-ivf-centre-in-indore-indore",
@@ -9938,7 +9855,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Indore/@22.7292237,75.8891171,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdac149bb97f:0x2eb41a365700ab48!8m2!3d22.7292237!4d75.8891171!16s%2Fg%2F11nhxdpqs2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Indore/@22.7292237,75.8891171,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdac149bb97f:0x2eb41a365700ab48!8m2!3d22.7292237!4d75.8891171!16s%2Fg%2F11nhxdpqs2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10004,11 +9921,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Indore/@22.7292237,75.8891171,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdac149bb97f:0x2eb41a365700ab48!8m2!3d22.7292237!4d75.8891171!16s%2Fg%2F11nhxdpqs2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oral-care-centre-indore",
@@ -10057,7 +9973,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oral+Care+Centre/@22.7583258,75.9121302,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e322ceea37bf:0x8249586b6342859!8m2!3d22.7583258!4d75.9121302!16s%2Fg%2F11rz2sr3v_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Care+Centre/@22.7583258,75.9121302,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e322ceea37bf:0x8249586b6342859!8m2!3d22.7583258!4d75.9121302!16s%2Fg%2F11rz2sr3v_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10126,8 +10042,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oral+Care+Centre/@22.7583258,75.9121302,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e322ceea37bf:0x8249586b6342859!8m2!3d22.7583258!4d75.9121302!16s%2Fg%2F11rz2sr3v_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oral-maxillofacial-surgery-and-dental-clinic-indore",
@@ -10176,7 +10091,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oral+Maxillofacial+Surgery+and+Dental+Clinic/@22.6988542,75.8545192,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcffe9484ce1:0xa34e9d7d87079d8c!8m2!3d22.6988542!4d75.8545192!16s%2Fg%2F11b6dydf5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Maxillofacial+Surgery+and+Dental+Clinic/@22.6988542,75.8545192,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcffe9484ce1:0xa34e9d7d87079d8c!8m2!3d22.6988542!4d75.8545192!16s%2Fg%2F11b6dydf5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10242,11 +10157,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oral+Maxillofacial+Surgery+and+Dental+Clinic/@22.6988542,75.8545192,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcffe9484ce1:0xa34e9d7d87079d8c!8m2!3d22.6988542!4d75.8545192!16s%2Fg%2F11b6dydf5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orthosquare-dental-clinic-scheme-no-140-indore-indore",
@@ -10296,7 +10210,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Scheme+No+140,+Indore/@22.7120203,75.9140853,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3926c009a0d:0xf8e9c7fb66f1edd8!8m2!3d22.7120203!4d75.9140853!16s%2Fg%2F11y3lps1sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Scheme+No+140,+Indore/@22.7120203,75.9140853,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3926c009a0d:0xf8e9c7fb66f1edd8!8m2!3d22.7120203!4d75.9140853!16s%2Fg%2F11y3lps1sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10365,8 +10279,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Scheme+No+140,+Indore/@22.7120203,75.9140853,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3926c009a0d:0xf8e9c7fb66f1edd8!8m2!3d22.7120203!4d75.9140853!16s%2Fg%2F11y3lps1sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "osteosmile-dental-and-physiotherapy-clinic-by-maheshwari-s-indore",
@@ -10414,7 +10327,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/OsteoSmile+Dental+%26+Physiotherapy+Clinic+By+Maheshwari%E2%80%99s/@22.7123972,75.9062415,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e31b7f95f453:0xbfab2af86515f729!8m2!3d22.7123972!4d75.9062415!16s%2Fg%2F11y0xlkdbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OsteoSmile+Dental+%26+Physiotherapy+Clinic+By+Maheshwari%E2%80%99s/@22.7123972,75.9062415,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e31b7f95f453:0xbfab2af86515f729!8m2!3d22.7123972!4d75.9062415!16s%2Fg%2F11y0xlkdbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10480,11 +10393,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/OsteoSmile+Dental+%26+Physiotherapy+Clinic+By+Maheshwari%E2%80%99s/@22.7123972,75.9062415,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e31b7f95f453:0xbfab2af86515f729!8m2!3d22.7123972!4d75.9062415!16s%2Fg%2F11y0xlkdbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pacific-dental-clinic-and-implant-center-root-canal-specialist-dental-crown-and-bridge-centre-indore",
@@ -10533,7 +10445,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pacific+Dental+Clinic+and+Implant+center%7C+Root+canal+specialist%7C+Dental+crown+and+bridge+centre/@22.7058053,75.914178,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2d87d34af7f:0x2340e813f7c4fc2e!8m2!3d22.7058053!4d75.914178!16s%2Fg%2F11c2pc1j73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pacific+Dental+Clinic+and+Implant+center%7C+Root+canal+specialist%7C+Dental+crown+and+bridge+centre/@22.7058053,75.914178,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2d87d34af7f:0x2340e813f7c4fc2e!8m2!3d22.7058053!4d75.914178!16s%2Fg%2F11c2pc1j73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10602,8 +10514,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pacific+Dental+Clinic+and+Implant+center%7C+Root+canal+specialist%7C+Dental+crown+and+bridge+centre/@22.7058053,75.914178,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2d87d34af7f:0x2340e813f7c4fc2e!8m2!3d22.7058053!4d75.914178!16s%2Fg%2F11c2pc1j73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pc-trust-dental-clinic-your-smile-is-our-identity-indore",
@@ -10653,7 +10564,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PC+TRUST+DENTAL+CLINIC+%22Your+smile+is+our+identity+%22/@22.755545,75.9075471,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d56ea126e23:0x2e43e02973464dec!8m2!3d22.755545!4d75.9075471!16s%2Fg%2F11g8fmnyw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PC+TRUST+DENTAL+CLINIC+%22Your+smile+is+our+identity+%22/@22.755545,75.9075471,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d56ea126e23:0x2e43e02973464dec!8m2!3d22.755545!4d75.9075471!16s%2Fg%2F11g8fmnyw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10719,11 +10630,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PC+TRUST+DENTAL+CLINIC+%22Your+smile+is+our+identity+%22/@22.755545,75.9075471,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d56ea126e23:0x2e43e02973464dec!8m2!3d22.755545!4d75.9075471!16s%2Fg%2F11g8fmnyw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "plastic-surgery-clinic-indore",
@@ -10772,7 +10682,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Plastic+surgery+clinic/@22.7229572,75.8917263,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdc89d78e8bd:0xd248ed1f61b8256c!8m2!3d22.7229572!4d75.8917263!16s%2Fg%2F11m5csvm9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Plastic+surgery+clinic/@22.7229572,75.8917263,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdc89d78e8bd:0xd248ed1f61b8256c!8m2!3d22.7229572!4d75.8917263!16s%2Fg%2F11m5csvm9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10838,11 +10748,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Plastic+surgery+clinic/@22.7229572,75.8917263,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdc89d78e8bd:0xd248ed1f61b8256c!8m2!3d22.7229572!4d75.8917263!16s%2Fg%2F11m5csvm9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pramila-hospital-ivf-center-best-fertility-center-in-indore-indore",
@@ -10892,7 +10801,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pramila+Hospital+%7C+IVF+Center+%7C+Best+Fertility+Center+in+Indore/@22.6968261,75.8316768,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdd5676f2db5:0x37d1a64f715d9daa!8m2!3d22.6968261!4d75.8316768!16s%2Fg%2F11hrxzjc1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pramila+Hospital+%7C+IVF+Center+%7C+Best+Fertility+Center+in+Indore/@22.6968261,75.8316768,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdd5676f2db5:0x37d1a64f715d9daa!8m2!3d22.6968261!4d75.8316768!16s%2Fg%2F11hrxzjc1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10961,8 +10870,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pramila+Hospital+%7C+IVF+Center+%7C+Best+Fertility+Center+in+Indore/@22.6968261,75.8316768,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdd5676f2db5:0x37d1a64f715d9daa!8m2!3d22.6968261!4d75.8316768!16s%2Fg%2F11hrxzjc1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-k-hospital-indore",
@@ -11011,7 +10919,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R+K+Hospital/@22.6978229,75.8786129,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd0a65fdb3b7:0x9a51dbda785c46cc!8m2!3d22.6978229!4d75.8786129!16s%2Fg%2F11h5vhvc5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+K+Hospital/@22.6978229,75.8786129,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd0a65fdb3b7:0x9a51dbda785c46cc!8m2!3d22.6978229!4d75.8786129!16s%2Fg%2F11h5vhvc5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11080,8 +10988,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R+K+Hospital/@22.6978229,75.8786129,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd0a65fdb3b7:0x9a51dbda785c46cc!8m2!3d22.6978229!4d75.8786129!16s%2Fg%2F11h5vhvc5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rawal-indore",
@@ -11131,7 +11038,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rawal/@22.6709402,75.8377216,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdf42526579b:0xb8cb1d79a6bb142!8m2!3d22.6709402!4d75.8377216!16s%2Fg%2F11gtqjkf1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rawal/@22.6709402,75.8377216,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdf42526579b:0xb8cb1d79a6bb142!8m2!3d22.6709402!4d75.8377216!16s%2Fg%2F11gtqjkf1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11200,8 +11107,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rawal/@22.6709402,75.8377216,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdf42526579b:0xb8cb1d79a6bb142!8m2!3d22.6709402!4d75.8377216!16s%2Fg%2F11gtqjkf1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rejuvenate-hair-transplant-indore",
@@ -11250,7 +11156,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rejuvenate+Hair+Transplant/@22.7282699,75.8798891,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40fe3c852f:0x42f1bd93f3def787!8m2!3d22.7282699!4d75.8798891!16s%2Fg%2F119t_9srf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rejuvenate+Hair+Transplant/@22.7282699,75.8798891,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40fe3c852f:0x42f1bd93f3def787!8m2!3d22.7282699!4d75.8798891!16s%2Fg%2F119t_9srf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11319,8 +11225,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rejuvenate+Hair+Transplant/@22.7282699,75.8798891,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40fe3c852f:0x42f1bd93f3def787!8m2!3d22.7282699!4d75.8798891!16s%2Fg%2F119t_9srf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rmd-hair-transplant-clinic-best-hair-transplant-clinic-in-indore-indore",
@@ -11369,7 +11274,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RMD+Hair+Transplant+clinic+Best+Hair+Transplant+Clinic+in+Indore/@22.7269895,75.8835584,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8300618fa1:0xc744f52a4c989336!8m2!3d22.7269895!4d75.8835584!16s%2Fg%2F11lmkc2dfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RMD+Hair+Transplant+clinic+Best+Hair+Transplant+Clinic+in+Indore/@22.7269895,75.8835584,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8300618fa1:0xc744f52a4c989336!8m2!3d22.7269895!4d75.8835584!16s%2Fg%2F11lmkc2dfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11438,8 +11343,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RMD+Hair+Transplant+clinic+Best+Hair+Transplant+Clinic+in+Indore/@22.7269895,75.8835584,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8300618fa1:0xc744f52a4c989336!8m2!3d22.7269895!4d75.8835584!16s%2Fg%2F11lmkc2dfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "roots-dental-care-indore",
@@ -11488,7 +11392,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Roots+Dental+Care/@22.7672196,75.8989348,17z/data=!3m1!4b1!4m6!3m5!1s0x396303da1d270137:0x692ff1b374261386!8m2!3d22.7672196!4d75.8989348!16s%2Fg%2F11mvrydysn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Roots+Dental+Care/@22.7672196,75.8989348,17z/data=!3m1!4b1!4m6!3m5!1s0x396303da1d270137:0x692ff1b374261386!8m2!3d22.7672196!4d75.8989348!16s%2Fg%2F11mvrydysn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11557,8 +11461,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Roots+Dental+Care/@22.7672196,75.8989348,17z/data=!3m1!4b1!4m6!3m5!1s0x396303da1d270137:0x692ff1b374261386!8m2!3d22.7672196!4d75.8989348!16s%2Fg%2F11mvrydysn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sakhiya-skin-clinic-indore-top-skincare-and-cosmetic-treatments-indore",
@@ -11607,7 +11510,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+Indore+-+Top+Skincare+and+Cosmetic+Treatments/@22.7454704,75.8941763,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb9f3f99589:0xe080556fb0c078b0!8m2!3d22.7454704!4d75.8941763!16s%2Fg%2F11y9qj7r39?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+Indore+-+Top+Skincare+and+Cosmetic+Treatments/@22.7454704,75.8941763,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb9f3f99589:0xe080556fb0c078b0!8m2!3d22.7454704!4d75.8941763!16s%2Fg%2F11y9qj7r39?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11676,8 +11579,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+Indore+-+Top+Skincare+and+Cosmetic+Treatments/@22.7454704,75.8941763,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb9f3f99589:0xe080556fb0c078b0!8m2!3d22.7454704!4d75.8941763!16s%2Fg%2F11y9qj7r39?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevani-dental-implant-and-laser-clinic-indore",
@@ -11727,7 +11629,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SANJEEVANI+DENTAL+IMPLANT+%26+LASER+CLINIC/@22.7207768,75.9028449,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2cc62728e25:0xa185d3c21cc7844e!8m2!3d22.7207768!4d75.9028449!16s%2Fg%2F1xg5r21_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SANJEEVANI+DENTAL+IMPLANT+%26+LASER+CLINIC/@22.7207768,75.9028449,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2cc62728e25:0xa185d3c21cc7844e!8m2!3d22.7207768!4d75.9028449!16s%2Fg%2F1xg5r21_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11796,8 +11698,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SANJEEVANI+DENTAL+IMPLANT+%26+LASER+CLINIC/@22.7207768,75.9028449,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2cc62728e25:0xa185d3c21cc7844e!8m2!3d22.7207768!4d75.9028449!16s%2Fg%2F1xg5r21_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "santati-infertility-and-test-tube-baby-center-best-ivf-center-in-indore-iui-infertility-icsi-treatment-indore",
@@ -11847,7 +11748,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Santati+Infertility+%26+Test+Tube+Baby+Center+-+Best+IVF+Center+in+Indore+%7C+IUI,+Infertility,+ICSI+Treatment/@22.7626575,75.8841697,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd541e8a5353:0x5e3d4266d1b8f831!8m2!3d22.7626575!4d75.8841697!16s%2Fg%2F1jkw6k0qx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Santati+Infertility+%26+Test+Tube+Baby+Center+-+Best+IVF+Center+in+Indore+%7C+IUI,+Infertility,+ICSI+Treatment/@22.7626575,75.8841697,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd541e8a5353:0x5e3d4266d1b8f831!8m2!3d22.7626575!4d75.8841697!16s%2Fg%2F1jkw6k0qx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11916,8 +11817,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Santati+Infertility+%26+Test+Tube+Baby+Center+-+Best+IVF+Center+in+Indore+%7C+IUI,+Infertility,+ICSI+Treatment/@22.7626575,75.8841697,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd541e8a5353:0x5e3d4266d1b8f831!8m2!3d22.7626575!4d75.8841697!16s%2Fg%2F1jkw6k0qx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarvam-hospital-indore",
@@ -11966,7 +11866,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SARVAM+HOSPITAL/@22.7675254,75.9081903,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d052a80e8d1:0x1f9d253867c31cd!8m2!3d22.7675254!4d75.9081903!16s%2Fg%2F11z2xs1cbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SARVAM+HOSPITAL/@22.7675254,75.9081903,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d052a80e8d1:0x1f9d253867c31cd!8m2!3d22.7675254!4d75.9081903!16s%2Fg%2F11z2xs1cbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12035,8 +11935,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SARVAM+HOSPITAL/@22.7675254,75.9081903,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d052a80e8d1:0x1f9d253867c31cd!8m2!3d22.7675254!4d75.9081903!16s%2Fg%2F11z2xs1cbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "seraphic-dental-clinic-in-indore-dental-implants-smile-design-invisalign-braces-best-dentist-in-indore-indore",
@@ -12086,7 +11985,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Seraphic+Dental+clinic+in+Indore+%7C+Dental+Implants+%7C+Smile+Design+%7C+Invisalign+%7C+Braces+%7C+Best+Dentist+in+Indore/@22.7195594,75.8815792,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd27555108cb:0x421c03be3d4f4add!8m2!3d22.7195594!4d75.8815792!16s%2Fg%2F11hdnyg4s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seraphic+Dental+clinic+in+Indore+%7C+Dental+Implants+%7C+Smile+Design+%7C+Invisalign+%7C+Braces+%7C+Best+Dentist+in+Indore/@22.7195594,75.8815792,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd27555108cb:0x421c03be3d4f4add!8m2!3d22.7195594!4d75.8815792!16s%2Fg%2F11hdnyg4s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12155,8 +12054,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Seraphic+Dental+clinic+in+Indore+%7C+Dental+Implants+%7C+Smile+Design+%7C+Invisalign+%7C+Braces+%7C+Best+Dentist+in+Indore/@22.7195594,75.8815792,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd27555108cb:0x421c03be3d4f4add!8m2!3d22.7195594!4d75.8815792!16s%2Fg%2F11hdnyg4s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sevyam-heart-centre-no-bypass-no-angioplasty-no-surgery-indore",
@@ -12206,7 +12104,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sevyam+Heart+Centre-+(No+Bypass,+No+Angioplasty,+No+surgery)/@22.7312783,75.8909454,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd48d1555555:0x1f56e5d8918b6f09!8m2!3d22.7312783!4d75.8909454!16s%2Fg%2F11c20qdgrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sevyam+Heart+Centre-+(No+Bypass,+No+Angioplasty,+No+surgery)/@22.7312783,75.8909454,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd48d1555555:0x1f56e5d8918b6f09!8m2!3d22.7312783!4d75.8909454!16s%2Fg%2F11c20qdgrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12275,8 +12173,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sevyam+Heart+Centre-+(No+Bypass,+No+Angioplasty,+No+surgery)/@22.7312783,75.8909454,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd48d1555555:0x1f56e5d8918b6f09!8m2!3d22.7312783!4d75.8909454!16s%2Fg%2F11c20qdgrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shakuntala-devi-hospital-and-research-centre-indore",
@@ -12325,7 +12222,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shakuntala+Devi+Hospital+And+Research+Centre/@22.7175201,75.9055927,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x9699989f91264889!8m2!3d22.7175201!4d75.9055927!16s%2Fg%2F1tcxn20p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shakuntala+Devi+Hospital+And+Research+Centre/@22.7175201,75.9055927,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x9699989f91264889!8m2!3d22.7175201!4d75.9055927!16s%2Fg%2F1tcxn20p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12394,8 +12291,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shakuntala+Devi+Hospital+And+Research+Centre/@22.7175201,75.9055927,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x9699989f91264889!8m2!3d22.7175201!4d75.9055927!16s%2Fg%2F1tcxn20p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shakuntala-netralaya-indore-indore",
@@ -12444,7 +12340,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHAKUNTALA+NETRALAYA+INDORE/@22.699895,75.867395,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce21ad080c3:0xbae1fae2091e9dd3!8m2!3d22.699895!4d75.867395!16s%2Fg%2F11bzq2y4mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHAKUNTALA+NETRALAYA+INDORE/@22.699895,75.867395,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce21ad080c3:0xbae1fae2091e9dd3!8m2!3d22.699895!4d75.867395!16s%2Fg%2F11bzq2y4mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12513,8 +12409,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHAKUNTALA+NETRALAYA+INDORE/@22.699895,75.867395,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce21ad080c3:0xbae1fae2091e9dd3!8m2!3d22.699895!4d75.867395!16s%2Fg%2F11bzq2y4mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shankar-clinic-and-infertility-center-indore",
@@ -12563,7 +12458,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shankar+Clinic+%26+Infertility+Center/@22.7245799,75.8230907,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fde96a573859:0x3fe265d8691af1a2!8m2!3d22.7245799!4d75.8230907!16s%2Fg%2F11bbrj2tsc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shankar+Clinic+%26+Infertility+Center/@22.7245799,75.8230907,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fde96a573859:0x3fe265d8691af1a2!8m2!3d22.7245799!4d75.8230907!16s%2Fg%2F11bbrj2tsc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12629,11 +12524,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shankar+Clinic+%26+Infertility+Center/@22.7245799,75.8230907,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fde96a573859:0x3fe265d8691af1a2!8m2!3d22.7245799!4d75.8230907!16s%2Fg%2F11bbrj2tsc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivaay-dental-clinic-and-implant-center-indore",
@@ -12682,7 +12576,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivaay+Dental+Clinic+%26+Implant+Center/@22.727032,75.881801,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40b9ea3a09:0x8615e9a76c8449f8!8m2!3d22.727032!4d75.881801!16s%2Fg%2F11gfhyv0z7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivaay+Dental+Clinic+%26+Implant+Center/@22.727032,75.881801,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40b9ea3a09:0x8615e9a76c8449f8!8m2!3d22.727032!4d75.881801!16s%2Fg%2F11gfhyv0z7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12751,8 +12645,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivaay+Dental+Clinic+%26+Implant+Center/@22.727032,75.881801,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40b9ea3a09:0x8615e9a76c8449f8!8m2!3d22.727032!4d75.881801!16s%2Fg%2F11gfhyv0z7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-trinetram-eye-hospital-indore",
@@ -12802,7 +12695,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Trinetram+Eye+Hospital/@22.7604716,75.9052376,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d2ed68d0627:0x15cacff0f5896c27!8m2!3d22.7604716!4d75.9052376!16s%2Fg%2F11vd747h51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Trinetram+Eye+Hospital/@22.7604716,75.9052376,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d2ed68d0627:0x15cacff0f5896c27!8m2!3d22.7604716!4d75.9052376!16s%2Fg%2F11vd747h51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12871,8 +12764,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Trinetram+Eye+Hospital/@22.7604716,75.9052376,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d2ed68d0627:0x15cacff0f5896c27!8m2!3d22.7604716!4d75.9052376!16s%2Fg%2F11vd747h51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-nanka-nursing-home-advanced-neuro-and-skin-care-center-indore",
@@ -12921,7 +12813,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Nanka+Nursing+Home+-Advanced+Neuro+%26+Skin+Care+Center/@22.682248,75.9325942,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e32169a52367:0x96e4ffefbdb80bf3!8m2!3d22.682248!4d75.9325942!16s%2Fg%2F11sshfhfjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Nanka+Nursing+Home+-Advanced+Neuro+%26+Skin+Care+Center/@22.682248,75.9325942,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e32169a52367:0x96e4ffefbdb80bf3!8m2!3d22.682248!4d75.9325942!16s%2Fg%2F11sshfhfjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12990,8 +12882,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Nanka+Nursing+Home+-Advanced+Neuro+%26+Skin+Care+Center/@22.682248,75.9325942,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e32169a52367:0x96e4ffefbdb80bf3!8m2!3d22.682248!4d75.9325942!16s%2Fg%2F11sshfhfjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-p-d-siddhi-vinayak-hospital-indore",
@@ -13039,7 +12930,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+P.D.+Siddhi+Vinayak+Hospital/@22.7298316,75.903683,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2b5b05fc731:0x36a3356ac58b8201!8m2!3d22.7298316!4d75.903683!16s%2Fg%2F11bbtkqdbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+P.D.+Siddhi+Vinayak+Hospital/@22.7298316,75.903683,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2b5b05fc731:0x36a3356ac58b8201!8m2!3d22.7298316!4d75.903683!16s%2Fg%2F11bbtkqdbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13108,8 +12999,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+P.D.+Siddhi+Vinayak+Hospital/@22.7298316,75.903683,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2b5b05fc731:0x36a3356ac58b8201!8m2!3d22.7298316!4d75.903683!16s%2Fg%2F11bbtkqdbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shubham-hospital-and-maternity-home-indore-indore",
@@ -13158,7 +13048,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shubham+Hospital+%26+Maternity+Home,Indore/@22.6913687,75.8264288,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd24c245f127:0x1e5dff33d4990dce!8m2!3d22.6913687!4d75.8264288!16s%2Fg%2F11y_gycjm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubham+Hospital+%26+Maternity+Home,Indore/@22.6913687,75.8264288,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd24c245f127:0x1e5dff33d4990dce!8m2!3d22.6913687!4d75.8264288!16s%2Fg%2F11y_gycjm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13227,8 +13117,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shubham+Hospital+%26+Maternity+Home,Indore/@22.6913687,75.8264288,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd24c245f127:0x1e5dff33d4990dce!8m2!3d22.6913687!4d75.8264288!16s%2Fg%2F11y_gycjm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shukla-hospital-indore",
@@ -13277,7 +13166,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shukla+Hospital/@22.6942604,75.8814291,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcdc43cc9809:0x52ee9f434c0bd107!8m2!3d22.6942604!4d75.8814291!16s%2Fg%2F1hg518hkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shukla+Hospital/@22.6942604,75.8814291,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcdc43cc9809:0x52ee9f434c0bd107!8m2!3d22.6942604!4d75.8814291!16s%2Fg%2F1hg518hkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13343,11 +13232,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shukla+Hospital/@22.6942604,75.8814291,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcdc43cc9809:0x52ee9f434c0bd107!8m2!3d22.6942604!4d75.8814291!16s%2Fg%2F1hg518hkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-n-shine-dental-clinic-indore",
@@ -13395,7 +13283,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+n+shine+dental+clinic/@22.731945,75.9103355,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e35216fb3dbd:0x3643b2eb9a67618f!8m2!3d22.731945!4d75.9103355!16s%2Fg%2F11fqz8d1d4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+n+shine+dental+clinic/@22.731945,75.9103355,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e35216fb3dbd:0x3643b2eb9a67618f!8m2!3d22.731945!4d75.9103355!16s%2Fg%2F11fqz8d1d4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13461,11 +13349,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+n+shine+dental+clinic/@22.731945,75.9103355,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e35216fb3dbd:0x3643b2eb9a67618f!8m2!3d22.731945!4d75.9103355!16s%2Fg%2F11fqz8d1d4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smylexl-dental-clinic-basant-vihar-vijay-nagar-indore-indore",
@@ -13514,7 +13401,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Basant+Vihar+Vijay+Nagar+Indore/@22.7571768,75.8982447,17z/data=!3m1!4b1!4m6!3m5!1s0x396303b88b930659:0x13964ff1110dfae0!8m2!3d22.7571768!4d75.8982447!16s%2Fg%2F11y7b0lt1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Basant+Vihar+Vijay+Nagar+Indore/@22.7571768,75.8982447,17z/data=!3m1!4b1!4m6!3m5!1s0x396303b88b930659:0x13964ff1110dfae0!8m2!3d22.7571768!4d75.8982447!16s%2Fg%2F11y7b0lt1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13583,8 +13470,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Basant+Vihar+Vijay+Nagar+Indore/@22.7571768,75.8982447,17z/data=!3m1!4b1!4m6!3m5!1s0x396303b88b930659:0x13964ff1110dfae0!8m2!3d22.7571768!4d75.8982447!16s%2Fg%2F11y7b0lt1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sng-hospital-indore",
@@ -13633,7 +13519,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SNG+Hospital/@22.7202848,75.8816224,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdf0e614e0c5:0x728aa04c2a007156!8m2!3d22.7202848!4d75.8816224!16s%2Fg%2F11lk1j7p2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SNG+Hospital/@22.7202848,75.8816224,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdf0e614e0c5:0x728aa04c2a007156!8m2!3d22.7202848!4d75.8816224!16s%2Fg%2F11lk1j7p2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13702,8 +13588,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SNG+Hospital/@22.7202848,75.8816224,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdf0e614e0c5:0x728aa04c2a007156!8m2!3d22.7202848!4d75.8816224!16s%2Fg%2F11lk1j7p2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sparsh-skin-hair-and-aesthetic-clinic-indore",
@@ -13751,7 +13636,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sparsh+Skin+Hair+And+Aesthetic+Clinic/@22.7011523,75.837527,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb30a13573d:0xf9f181857be7796f!8m2!3d22.7011523!4d75.837527!16s%2Fg%2F1q62fxt_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+Skin+Hair+And+Aesthetic+Clinic/@22.7011523,75.837527,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb30a13573d:0xf9f181857be7796f!8m2!3d22.7011523!4d75.837527!16s%2Fg%2F1q62fxt_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13820,8 +13705,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sparsh+Skin+Hair+And+Aesthetic+Clinic/@22.7011523,75.837527,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb30a13573d:0xf9f181857be7796f!8m2!3d22.7011523!4d75.837527!16s%2Fg%2F1q62fxt_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "speciality-dental-care-indore",
@@ -13870,7 +13754,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Speciality+Dental+Care/@22.7255103,75.8948129,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda0adb68ad7:0xf404f5522aa37f94!8m2!3d22.7255103!4d75.8948129!16s%2Fg%2F11h1yh8c5r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Speciality+Dental+Care/@22.7255103,75.8948129,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda0adb68ad7:0xf404f5522aa37f94!8m2!3d22.7255103!4d75.8948129!16s%2Fg%2F11h1yh8c5r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13939,8 +13823,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Speciality+Dental+Care/@22.7255103,75.8948129,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda0adb68ad7:0xf404f5522aa37f94!8m2!3d22.7255103!4d75.8948129!16s%2Fg%2F11h1yh8c5r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suraj-vision-and-dental-centre-dental-clinic-in-indore-eye-clinic-in-indore-indore",
@@ -13989,7 +13872,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Suraj+Vision+And+Dental+Centre+-+Dental+Clinic+in+Indore+%7C+Eye+Clinic+in+Indore/@22.7187954,75.8694071,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd15f0a449c9:0x9eaffe0d0d8688b4!8m2!3d22.7187954!4d75.8694071!16s%2Fg%2F119v92nv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suraj+Vision+And+Dental+Centre+-+Dental+Clinic+in+Indore+%7C+Eye+Clinic+in+Indore/@22.7187954,75.8694071,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd15f0a449c9:0x9eaffe0d0d8688b4!8m2!3d22.7187954!4d75.8694071!16s%2Fg%2F119v92nv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14058,8 +13941,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Suraj+Vision+And+Dental+Centre+-+Dental+Clinic+in+Indore+%7C+Eye+Clinic+in+Indore/@22.7187954,75.8694071,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd15f0a449c9:0x9eaffe0d0d8688b4!8m2!3d22.7187954!4d75.8694071!16s%2Fg%2F119v92nv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surana-dental-clinic-indore",
@@ -14108,7 +13990,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surana+Dental+Clinic/@22.7557821,75.8965123,17z/data=!3m1!4b1!4m6!3m5!1s0x396302af45d8f831:0x594d8a0f1d292998!8m2!3d22.7557821!4d75.8965123!16s%2Fg%2F1q62kk3vn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surana+Dental+Clinic/@22.7557821,75.8965123,17z/data=!3m1!4b1!4m6!3m5!1s0x396302af45d8f831:0x594d8a0f1d292998!8m2!3d22.7557821!4d75.8965123!16s%2Fg%2F1q62kk3vn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14177,8 +14059,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surana+Dental+Clinic/@22.7557821,75.8965123,17z/data=!3m1!4b1!4m6!3m5!1s0x396302af45d8f831:0x594d8a0f1d292998!8m2!3d22.7557821!4d75.8965123!16s%2Fg%2F1q62kk3vn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suyash-hospital-indore",
@@ -14227,7 +14108,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Suyash+Hospital/@22.7137987,75.8840006,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd24c94dff33:0x1921cc5ec69a838!8m2!3d22.7137987!4d75.8840006!16s%2Fg%2F1thxjgjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suyash+Hospital/@22.7137987,75.8840006,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd24c94dff33:0x1921cc5ec69a838!8m2!3d22.7137987!4d75.8840006!16s%2Fg%2F1thxjgjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -14296,8 +14177,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Suyash+Hospital/@22.7137987,75.8840006,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd24c94dff33:0x1921cc5ec69a838!8m2!3d22.7137987!4d75.8840006!16s%2Fg%2F1thxjgjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "test-tube-baby-centre-indore",
@@ -14346,7 +14226,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Test+Tube+Baby+Centre/@22.735436,75.8877973,15z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0xcf24204044639b1!8m2!3d22.735436!4d75.8877973!16s%2Fg%2F1v82_hp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Test+Tube+Baby+Centre/@22.735436,75.8877973,15z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0xcf24204044639b1!8m2!3d22.735436!4d75.8877973!16s%2Fg%2F1v82_hp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14415,8 +14295,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Test+Tube+Baby+Centre/@22.735436,75.8877973,15z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0xcf24204044639b1!8m2!3d22.735436!4d75.8877973!16s%2Fg%2F1v82_hp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-dental-360-dental-clinic-best-dentist-in-indore-dr-manish-patel-dentist-indore",
@@ -14465,7 +14344,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Dental+360+dental+clinic+%7C+Best+dentist+in+Indore+%7CDr+Manish+Patel+dentist+%7C+%E0%A4%A6%E0%A4%BE%E0%A4%81%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@22.6938244,75.8443233,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd5d6bf72a4d:0x47e51cfda7018785!8m2!3d22.6938244!4d75.8443233!16s%2Fg%2F11kpwyd0yv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dental+360+dental+clinic+%7C+Best+dentist+in+Indore+%7CDr+Manish+Patel+dentist+%7C+%E0%A4%A6%E0%A4%BE%E0%A4%81%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@22.6938244,75.8443233,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd5d6bf72a4d:0x47e51cfda7018785!8m2!3d22.6938244!4d75.8443233!16s%2Fg%2F11kpwyd0yv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14531,11 +14410,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Dental+360+dental+clinic+%7C+Best+dentist+in+Indore+%7CDr+Manish+Patel+dentist+%7C+%E0%A4%A6%E0%A4%BE%E0%A4%81%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@22.6938244,75.8443233,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd5d6bf72a4d:0x47e51cfda7018785!8m2!3d22.6938244!4d75.8443233!16s%2Fg%2F11kpwyd0yv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-shining-32-dental-clinic-braces-implant-and-root-canal-centre-best-dentist-indore",
@@ -14585,7 +14463,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Shining+32+Dental+Clinic+Braces+implant+and+root+canal+centre.+Best+dentist/@22.723738,75.874385,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1660af26fb:0x4bdcceef078bfbdc!8m2!3d22.723738!4d75.874385!16s%2Fg%2F11gdqtmxbl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Shining+32+Dental+Clinic+Braces+implant+and+root+canal+centre.+Best+dentist/@22.723738,75.874385,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1660af26fb:0x4bdcceef078bfbdc!8m2!3d22.723738!4d75.874385!16s%2Fg%2F11gdqtmxbl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14654,8 +14532,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Shining+32+Dental+Clinic+Braces+implant+and+root+canal+centre.+Best+dentist/@22.723738,75.874385,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1660af26fb:0x4bdcceef078bfbdc!8m2!3d22.723738!4d75.874385!16s%2Fg%2F11gdqtmxbl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-smile-store-advanced-dental-care-and-implant-centre-indore",
@@ -14704,7 +14581,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Smile+Store+-+Advanced+Dental+Care+%26+Implant+Centre/@22.6809571,75.8347218,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd2b41b5d563:0xd8b9e6898b458828!8m2!3d22.6809571!4d75.8347218!16s%2Fg%2F11fjzkcns6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Smile+Store+-+Advanced+Dental+Care+%26+Implant+Centre/@22.6809571,75.8347218,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd2b41b5d563:0xd8b9e6898b458828!8m2!3d22.6809571!4d75.8347218!16s%2Fg%2F11fjzkcns6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14773,8 +14650,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Smile+Store+-+Advanced+Dental+Care+%26+Implant+Centre/@22.6809571,75.8347218,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd2b41b5d563:0xd8b9e6898b458828!8m2!3d22.6809571!4d75.8347218!16s%2Fg%2F11fjzkcns6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-sneh-care-co-clinic-best-cosmetologist-in-indore-indore",
@@ -14822,7 +14698,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Sneh+Care+Co.+Clinic+-+Best+Cosmetologist+in+Indore/@22.7624464,75.8691152,17z/data=!3m1!4b1!4m6!3m5!1s0x396303ac819ba2d9:0xe4399f0b89795dac!8m2!3d22.7624464!4d75.8691152!16s%2Fg%2F11f09qhb3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Sneh+Care+Co.+Clinic+-+Best+Cosmetologist+in+Indore/@22.7624464,75.8691152,17z/data=!3m1!4b1!4m6!3m5!1s0x396303ac819ba2d9:0xe4399f0b89795dac!8m2!3d22.7624464!4d75.8691152!16s%2Fg%2F11f09qhb3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14891,8 +14767,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Sneh+Care+Co.+Clinic+-+Best+Cosmetologist+in+Indore/@22.7624464,75.8691152,17z/data=!3m1!4b1!4m6!3m5!1s0x396303ac819ba2d9:0xe4399f0b89795dac!8m2!3d22.7624464!4d75.8691152!16s%2Fg%2F11f09qhb3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tooth-savvy-dental-clinic-indore",
@@ -14941,7 +14816,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tooth+Savvy+Dental+Clinic/@22.7254413,75.8978028,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fddfee3194df:0x2f066d4ad87d4c80!8m2!3d22.7254413!4d75.8978028!16s%2Fg%2F11fswclnn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tooth+Savvy+Dental+Clinic/@22.7254413,75.8978028,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fddfee3194df:0x2f066d4ad87d4c80!8m2!3d22.7254413!4d75.8978028!16s%2Fg%2F11fswclnn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15010,8 +14885,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tooth+Savvy+Dental+Clinic/@22.7254413,75.8978028,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fddfee3194df:0x2f066d4ad87d4c80!8m2!3d22.7254413!4d75.8978028!16s%2Fg%2F11fswclnn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "uk-dental-anand-bazar-indore-indore",
@@ -15060,7 +14934,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/UK+Dental+%7C+Anand+Bazar+%7C+Indore/@22.7257817,75.8946586,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd045ddbc7af:0x88f1ecac09f5593e!8m2!3d22.7257817!4d75.8946586!16s%2Fg%2F11vz6832r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UK+Dental+%7C+Anand+Bazar+%7C+Indore/@22.7257817,75.8946586,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd045ddbc7af:0x88f1ecac09f5593e!8m2!3d22.7257817!4d75.8946586!16s%2Fg%2F11vz6832r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15126,11 +15000,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/UK+Dental+%7C+Anand+Bazar+%7C+Indore/@22.7257817,75.8946586,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd045ddbc7af:0x88f1ecac09f5593e!8m2!3d22.7257817!4d75.8946586!16s%2Fg%2F11vz6832r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "uk-dental-kalani-nagar-indore-indore",
@@ -15179,7 +15052,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/UK+Dental+%7C+Kalani+Nagar+%7C+Indore/@22.7247658,75.8252075,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd2436ce2ec3:0xff56fa6d541981d5!8m2!3d22.7247658!4d75.8252075!16s%2Fg%2F11vw_vstz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UK+Dental+%7C+Kalani+Nagar+%7C+Indore/@22.7247658,75.8252075,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd2436ce2ec3:0xff56fa6d541981d5!8m2!3d22.7247658!4d75.8252075!16s%2Fg%2F11vw_vstz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15248,8 +15121,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/UK+Dental+%7C+Kalani+Nagar+%7C+Indore/@22.7247658,75.8252075,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd2436ce2ec3:0xff56fa6d541981d5!8m2!3d22.7247658!4d75.8252075!16s%2Fg%2F11vw_vstz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "uk-dental-sch-no-140-pipliyahana-indore",
@@ -15298,7 +15170,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/UK+Dental+%7C+Sch.+No.140+(Pipliyahana)/@22.7033997,75.9134595,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ca7f16373d:0xbe5bbee6addcd95e!8m2!3d22.7033997!4d75.9134595!16s%2Fg%2F11y486cfg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UK+Dental+%7C+Sch.+No.140+(Pipliyahana)/@22.7033997,75.9134595,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ca7f16373d:0xbe5bbee6addcd95e!8m2!3d22.7033997!4d75.9134595!16s%2Fg%2F11y486cfg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15367,8 +15239,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/UK+Dental+%7C+Sch.+No.140+(Pipliyahana)/@22.7033997,75.9134595,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ca7f16373d:0xbe5bbee6addcd95e!8m2!3d22.7033997!4d75.9134595!16s%2Fg%2F11y486cfg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "urocare-hospital-scheme-94c-between-bombay-hospital-and-radisson-hotel-square",
@@ -15417,7 +15288,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/UROCARE+HOSPITAL/@22.7518904,75.9042788,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x7e64ff7e00e88341!8m2!3d22.7518904!4d75.9042788!16s%2Fg%2F1tfph6j2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UROCARE+HOSPITAL/@22.7518904,75.9042788,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x7e64ff7e00e88341!8m2!3d22.7518904!4d75.9042788!16s%2Fg%2F1tfph6j2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15486,8 +15357,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/UROCARE+HOSPITAL/@22.7518904,75.9042788,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x7e64ff7e00e88341!8m2!3d22.7518904!4d75.9042788!16s%2Fg%2F1tfph6j2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "v-one-hospital-indore",
@@ -15536,7 +15406,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/V+One+Hospital/@22.7166843,75.8842311,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd36ba636e09:0xaaa9249802b39ea4!8m2!3d22.7166843!4d75.8842311!16s%2Fg%2F11rhkvqybq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V+One+Hospital/@22.7166843,75.8842311,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd36ba636e09:0xaaa9249802b39ea4!8m2!3d22.7166843!4d75.8842311!16s%2Fg%2F11rhkvqybq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15605,8 +15475,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/V+One+Hospital/@22.7166843,75.8842311,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd36ba636e09:0xaaa9249802b39ea4!8m2!3d22.7166843!4d75.8842311!16s%2Fg%2F11rhkvqybq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vardaan-fertility-center-indore",
@@ -15655,7 +15524,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vardaan+Fertility+Center/@22.7532406,75.883495,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dbea110dc35:0xf24220005d60cb8f!8m2!3d22.7532406!4d75.883495!16s%2Fg%2F11gntv5xvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardaan+Fertility+Center/@22.7532406,75.883495,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dbea110dc35:0xf24220005d60cb8f!8m2!3d22.7532406!4d75.883495!16s%2Fg%2F11gntv5xvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15724,8 +15593,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vardaan+Fertility+Center/@22.7532406,75.883495,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dbea110dc35:0xf24220005d60cb8f!8m2!3d22.7532406!4d75.883495!16s%2Fg%2F11gntv5xvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "varma-union-hospital-indore",
@@ -15774,7 +15642,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Varma+Union+Hospital/@22.711952,75.838128,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdd3ebbfb295:0x601c8695b6341f3a!8m2!3d22.711952!4d75.838128!16s%2Fg%2F11pkfnvdr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varma+Union+Hospital/@22.711952,75.838128,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdd3ebbfb295:0x601c8695b6341f3a!8m2!3d22.711952!4d75.838128!16s%2Fg%2F11pkfnvdr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15843,8 +15711,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Varma+Union+Hospital/@22.711952,75.838128,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdd3ebbfb295:0x601c8695b6341f3a!8m2!3d22.711952!4d75.838128!16s%2Fg%2F11pkfnvdr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "virang-s-dental-care-and-implant-center-indore",
@@ -15893,7 +15760,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Virang's+Dental+Care+and+Implant+Center/@22.7004138,75.8759805,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd18bb4d30d7:0x2221a8137f1c3f17!8m2!3d22.7004138!4d75.8759805!16s%2Fg%2F1v6p2pdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Virang's+Dental+Care+and+Implant+Center/@22.7004138,75.8759805,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd18bb4d30d7:0x2221a8137f1c3f17!8m2!3d22.7004138!4d75.8759805!16s%2Fg%2F1v6p2pdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15962,8 +15829,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Virang's+Dental+Care+and+Implant+Center/@22.7004138,75.8759805,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd18bb4d30d7:0x2221a8137f1c3f17!8m2!3d22.7004138!4d75.8759805!16s%2Fg%2F1v6p2pdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vishesh-jupiter-hospital-indore",
@@ -16012,7 +15878,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vishesh+Jupiter+Hospital/@22.6838092,75.8816723,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d28522ddaa7:0x82accb333fb3f6d4!8m2!3d22.6838092!4d75.8816723!16s%2Fg%2F11q7mh7zsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishesh+Jupiter+Hospital/@22.6838092,75.8816723,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d28522ddaa7:0x82accb333fb3f6d4!8m2!3d22.6838092!4d75.8816723!16s%2Fg%2F11q7mh7zsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16081,8 +15947,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vishesh+Jupiter+Hospital/@22.6838092,75.8816723,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d28522ddaa7:0x82accb333fb3f6d4!8m2!3d22.6838092!4d75.8816723!16s%2Fg%2F11q7mh7zsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vivek-memorial-hospital-indore-indore",
@@ -16131,7 +15996,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vivek+Memorial+Hospital+Indore/@22.7663914,75.8995403,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd7376e35443:0x7e6cdff90ad2a9f6!8m2!3d22.7663914!4d75.8995403!16s%2Fg%2F11s4_zmmcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vivek+Memorial+Hospital+Indore/@22.7663914,75.8995403,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd7376e35443:0x7e6cdff90ad2a9f6!8m2!3d22.7663914!4d75.8995403!16s%2Fg%2F11s4_zmmcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16200,8 +16065,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vivek+Memorial+Hospital+Indore/@22.7663914,75.8995403,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd7376e35443:0x7e6cdff90ad2a9f6!8m2!3d22.7663914!4d75.8995403!16s%2Fg%2F11s4_zmmcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yaami-fertility-and-ivf-center-indore-best-ivf-center-in-indore-madhya-pradesh-indore",
@@ -16251,7 +16115,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yaami+Fertility+and+IVF+Center+Indore+-+Best+IVF+Center+in+Indore,+Madhya+Pradesh/@22.7587475,75.8982551,17z/data=!3m1!4b1!4m6!3m5!1s0x396303db7621a377:0x688e4e9728dec0d7!8m2!3d22.7587475!4d75.8982551!16s%2Fg%2F11r_rtgt80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yaami+Fertility+and+IVF+Center+Indore+-+Best+IVF+Center+in+Indore,+Madhya+Pradesh/@22.7587475,75.8982551,17z/data=!3m1!4b1!4m6!3m5!1s0x396303db7621a377:0x688e4e9728dec0d7!8m2!3d22.7587475!4d75.8982551!16s%2Fg%2F11r_rtgt80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16317,11 +16181,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yaami+Fertility+and+IVF+Center+Indore+-+Best+IVF+Center+in+Indore,+Madhya+Pradesh/@22.7587475,75.8982551,17z/data=!3m1!4b1!4m6!3m5!1s0x396303db7621a377:0x688e4e9728dec0d7!8m2!3d22.7587475!4d75.8982551!16s%2Fg%2F11r_rtgt80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yashlok-dental-face-and-jaw-surgery-centre-indore",
@@ -16369,7 +16232,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yashlok+Dental+Face+and+Jaw+Surgery+Centre/@22.6905021,75.8283631,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4a12cbf08f:0x94acf8c7e2805d0c!8m2!3d22.6905021!4d75.8283631!16s%2Fg%2F11trgd6v98?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashlok+Dental+Face+and+Jaw+Surgery+Centre/@22.6905021,75.8283631,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4a12cbf08f:0x94acf8c7e2805d0c!8m2!3d22.6905021!4d75.8283631!16s%2Fg%2F11trgd6v98?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16438,7 +16301,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yashlok+Dental+Face+and+Jaw+Surgery+Centre/@22.6905021,75.8283631,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4a12cbf08f:0x94acf8c7e2805d0c!8m2!3d22.6905021!4d75.8283631!16s%2Fg%2F11trgd6v98?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

@@ -48,7 +48,7 @@
       "4+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Advance+Clinic+and+Diagnostic/data=!4m7!3m6!1s0x39f849dffc0a6193:0x11da5c1e020a3b96!8m2!3d23.2417949!4d87.8617395!16s%2Fg%2F11js_p0qwx!19sChIJk2EK_N9J-DkRljsKAh5c2hE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Clinic+and+Diagnostic/data=!4m7!3m6!1s0x39f849dffc0a6193:0x11da5c1e020a3b96!8m2!3d23.2417949!4d87.8617395!16s%2Fg%2F11js_p0qwx!19sChIJk2EK_N9J-DkRljsKAh5c2hE?authuser=0&hl=en&rclk=1"
@@ -114,11 +114,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 4,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Advance+Clinic+and+Diagnostic/data=!4m7!3m6!1s0x39f849dffc0a6193:0x11da5c1e020a3b96!8m2!3d23.2417949!4d87.8617395!16s%2Fg%2F11js_p0qwx!19sChIJk2EK_N9J-DkRljsKAh5c2hE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aesthetics-dental-and-cosmetic-clinic-bardhaman",
@@ -167,7 +166,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aesthetics+-+Dental+%26+Cosmetic+Clinic/data=!4m7!3m6!1s0x39f8372dd7cdd691:0x1f5716f4b1444378!8m2!3d23.2363125!4d87.8495625!16s%2Fg%2F11v5b8dtsm!19sChIJkdbN1y03-DkReENEsfQWVx8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aesthetics+-+Dental+%26+Cosmetic+Clinic/data=!4m7!3m6!1s0x39f8372dd7cdd691:0x1f5716f4b1444378!8m2!3d23.2363125!4d87.8495625!16s%2Fg%2F11v5b8dtsm!19sChIJkdbN1y03-DkReENEsfQWVx8?authuser=0&hl=en&rclk=1"
@@ -236,8 +235,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aesthetics+-+Dental+%26+Cosmetic+Clinic/data=!4m7!3m6!1s0x39f8372dd7cdd691:0x1f5716f4b1444378!8m2!3d23.2363125!4d87.8495625!16s%2Fg%2F11v5b8dtsm!19sChIJkdbN1y03-DkReENEsfQWVx8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anamoy-hospital-pamra",
@@ -285,7 +283,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anamoy+Hospital/data=!4m7!3m6!1s0x39f8491186110133:0x3ddd1df75a9a45f6!8m2!3d23.2187604!4d87.8981424!16s%2Fg%2F11rpkhq5s9!19sChIJMwERhhFJ-DkR9kWaWvcd3T0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anamoy+Hospital/data=!4m7!3m6!1s0x39f8491186110133:0x3ddd1df75a9a45f6!8m2!3d23.2187604!4d87.8981424!16s%2Fg%2F11rpkhq5s9!19sChIJMwERhhFJ-DkR9kWaWvcd3T0?authuser=0&hl=en&rclk=1"
@@ -354,8 +352,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anamoy+Hospital/data=!4m7!3m6!1s0x39f8491186110133:0x3ddd1df75a9a45f6!8m2!3d23.2187604!4d87.8981424!16s%2Fg%2F11rpkhq5s9!19sChIJMwERhhFJ-DkR9kWaWvcd3T0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ananya-hospital-and-ananya-pharmacy-bardhaman",
@@ -404,7 +401,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ananya+Hospital+%26+Ananya+Pharmacy/data=!4m7!3m6!1s0x39f837e1f8db11fd:0x12120bba8f946e2b!8m2!3d23.2604816!4d87.8429858!16s%2Fg%2F11t7h4h4wx!19sChIJ_RHb-OE3-DkRK26Uj7oLEhI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ananya+Hospital+%26+Ananya+Pharmacy/data=!4m7!3m6!1s0x39f837e1f8db11fd:0x12120bba8f946e2b!8m2!3d23.2604816!4d87.8429858!16s%2Fg%2F11t7h4h4wx!19sChIJ_RHb-OE3-DkRK26Uj7oLEhI?authuser=0&hl=en&rclk=1"
@@ -473,8 +470,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ananya+Hospital+%26+Ananya+Pharmacy/data=!4m7!3m6!1s0x39f837e1f8db11fd:0x12120bba8f946e2b!8m2!3d23.2604816!4d87.8429858!16s%2Fg%2F11t7h4h4wx!19sChIJ_RHb-OE3-DkRK26Uj7oLEhI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "angel-ivf-and-diagnostic-centre-kalna",
@@ -525,7 +521,7 @@
       "Google rating 3.4",
       "1+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ANGEL+IVF+%26+DIAGNOSTIC+CENTRE/data=!4m7!3m6!1s0x39f843d63d1854db:0x334bdac8392a70a!8m2!3d23.0402548!4d87.9850921!16s%2Fg%2F11v_7bzhfr!19sChIJ21QYPdZD-DkRCqeSg6y9NAM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANGEL+IVF+%26+DIAGNOSTIC+CENTRE/data=!4m7!3m6!1s0x39f843d63d1854db:0x334bdac8392a70a!8m2!3d23.0402548!4d87.9850921!16s%2Fg%2F11v_7bzhfr!19sChIJ21QYPdZD-DkRCqeSg6y9NAM?authuser=0&hl=en&rclk=1"
@@ -594,8 +590,7 @@
     "rating": 3.4,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ANGEL+IVF+%26+DIAGNOSTIC+CENTRE/data=!4m7!3m6!1s0x39f843d63d1854db:0x334bdac8392a70a!8m2!3d23.0402548!4d87.9850921!16s%2Fg%2F11v_7bzhfr!19sChIJ21QYPdZD-DkRCqeSg6y9NAM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apanjan-hospital-bardhaman",
@@ -644,7 +639,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apanjan+Hospital/data=!4m7!3m6!1s0x39f8376a858bf769:0x6ec360292dd6fb15!8m2!3d23.2632822!4d87.8353135!16s%2Fg%2F11h1010g_j!19sChIJafeLhWo3-DkRFfvWLSlgw24?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apanjan+Hospital/data=!4m7!3m6!1s0x39f8376a858bf769:0x6ec360292dd6fb15!8m2!3d23.2632822!4d87.8353135!16s%2Fg%2F11h1010g_j!19sChIJafeLhWo3-DkRFfvWLSlgw24?authuser=0&hl=en&rclk=1"
@@ -713,8 +708,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apanjan+Hospital/data=!4m7!3m6!1s0x39f8376a858bf769:0x6ec360292dd6fb15!8m2!3d23.2632822!4d87.8353135!16s%2Fg%2F11h1010g_j!19sChIJafeLhWo3-DkRFfvWLSlgw24?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "artim-polyclinic-and-diagnostics-goda-p",
@@ -763,7 +757,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Artim+PolyClinic+and+Diagnostics/data=!4m7!3m6!1s0x39f83708dd91f70f:0xcad5b37c5492a0e6!8m2!3d23.266325!4d87.8270025!16s%2Fg%2F11h7s1pkhf!19sChIJD_eR3Qg3-DkR5qCSVHyz1co?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Artim+PolyClinic+and+Diagnostics/data=!4m7!3m6!1s0x39f83708dd91f70f:0xcad5b37c5492a0e6!8m2!3d23.266325!4d87.8270025!16s%2Fg%2F11h7s1pkhf!19sChIJD_eR3Qg3-DkR5qCSVHyz1co?authuser=0&hl=en&rclk=1"
@@ -832,8 +826,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Artim+PolyClinic+and+Diagnostics/data=!4m7!3m6!1s0x39f83708dd91f70f:0xcad5b37c5492a0e6!8m2!3d23.266325!4d87.8270025!16s%2Fg%2F11h7s1pkhf!19sChIJD_eR3Qg3-DkR5qCSVHyz1co?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "astha-medical-centre-bardhaman",
@@ -883,7 +876,7 @@
       "25+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Astha+Medical+Centre/data=!4m7!3m6!1s0x39f849dc7e2fbfdf:0x9883e291719697e8!8m2!3d23.2447748!4d87.8618481!16s%2Fg%2F11dxl0k02j!19sChIJ378vftxJ-DkR6JeWcZHig5g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Astha+Medical+Centre/data=!4m7!3m6!1s0x39f849dc7e2fbfdf:0x9883e291719697e8!8m2!3d23.2447748!4d87.8618481!16s%2Fg%2F11dxl0k02j!19sChIJ378vftxJ-DkR6JeWcZHig5g?authuser=0&hl=en&rclk=1"
@@ -952,8 +945,7 @@
     "rating": 3.1,
     "reviews": 25,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Astha+Medical+Centre/data=!4m7!3m6!1s0x39f849dc7e2fbfdf:0x9883e291719697e8!8m2!3d23.2447748!4d87.8618481!16s%2Fg%2F11dxl0k02j!19sChIJ378vftxJ-DkR6JeWcZHig5g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aurorith-dental-care-burdwan-bardhaman",
@@ -1001,7 +993,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AuroRith+Dental+Care+%28Burdwan%29/data=!4m7!3m6!1s0x39f849322515fff1:0xf20fc721723371fe!8m2!3d23.2523162!4d87.8648046!16s%2Fg%2F11x7xz8bg4!19sChIJ8f8VJTJJ-DkR_nEzciHHD_I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AuroRith+Dental+Care+%28Burdwan%29/data=!4m7!3m6!1s0x39f849322515fff1:0xf20fc721723371fe!8m2!3d23.2523162!4d87.8648046!16s%2Fg%2F11x7xz8bg4!19sChIJ8f8VJTJJ-DkR_nEzciHHD_I?authuser=0&hl=en&rclk=1"
@@ -1067,11 +1059,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AuroRith+Dental+Care+%28Burdwan%29/data=!4m7!3m6!1s0x39f849322515fff1:0xf20fc721723371fe!8m2!3d23.2523162!4d87.8648046!16s%2Fg%2F11x7xz8bg4!19sChIJ8f8VJTJJ-DkR_nEzciHHD_I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "b-c-c-u-pvt-ltd-hospital-bardhaman",
@@ -1119,7 +1110,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/B.C.C.U.+PVT.+LTD.+%28HOSPITAL%29/data=!4m7!3m6!1s0x39f849db93e6b6c5:0x90e37c9011202c85!8m2!3d23.2425828!4d87.8597173!16s%2Fg%2F11b66cbml0!19sChIJxbbmk9tJ-DkRhSwgEZB845A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B.C.C.U.+PVT.+LTD.+%28HOSPITAL%29/data=!4m7!3m6!1s0x39f849db93e6b6c5:0x90e37c9011202c85!8m2!3d23.2425828!4d87.8597173!16s%2Fg%2F11b66cbml0!19sChIJxbbmk9tJ-DkRhSwgEZB845A?authuser=0&hl=en&rclk=1"
@@ -1188,8 +1179,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/B.C.C.U.+PVT.+LTD.+%28HOSPITAL%29/data=!4m7!3m6!1s0x39f849db93e6b6c5:0x90e37c9011202c85!8m2!3d23.2425828!4d87.8597173!16s%2Fg%2F11b66cbml0!19sChIJxbbmk9tJ-DkRhSwgEZB845A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "babuji-medical-consultancy-and-services-bmc-and-s-bardhaman",
@@ -1238,7 +1228,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BABUJI+MEDICAL+CONSULTANCY%26+SERVICES+%28+BMC%26S%29/data=!4m7!3m6!1s0x39f849a10b0c0b9f:0xb790a31ba3dae6e3!8m2!3d23.2489893!4d87.8604963!16s%2Fg%2F11lcysnvcg!19sChIJnwsMC6FJ-DkR4-baoxujkLc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BABUJI+MEDICAL+CONSULTANCY%26+SERVICES+%28+BMC%26S%29/data=!4m7!3m6!1s0x39f849a10b0c0b9f:0xb790a31ba3dae6e3!8m2!3d23.2489893!4d87.8604963!16s%2Fg%2F11lcysnvcg!19sChIJnwsMC6FJ-DkR4-baoxujkLc?authuser=0&hl=en&rclk=1"
@@ -1304,11 +1294,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BABUJI+MEDICAL+CONSULTANCY%26+SERVICES+%28+BMC%26S%29/data=!4m7!3m6!1s0x39f849a10b0c0b9f:0xb790a31ba3dae6e3!8m2!3d23.2489893!4d87.8604963!16s%2Fg%2F11lcysnvcg!19sChIJnwsMC6FJ-DkR4-baoxujkLc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "barddhaman-apollo-hospital-bardhaman",
@@ -1357,7 +1346,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BARDDHAMAN+APOLLO+HOSPITAL/data=!4m7!3m6!1s0x39f8490066366729:0xe579554ae8d3d1e2!8m2!3d23.2420085!4d87.8600992!16s%2Fg%2F11w1ks0kd4!19sChIJKWc2ZgBJ-DkR4tHT6EpVeeU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BARDDHAMAN+APOLLO+HOSPITAL/data=!4m7!3m6!1s0x39f8490066366729:0xe579554ae8d3d1e2!8m2!3d23.2420085!4d87.8600992!16s%2Fg%2F11w1ks0kd4!19sChIJKWc2ZgBJ-DkR4tHT6EpVeeU?authuser=0&hl=en&rclk=1"
@@ -1426,8 +1415,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BARDDHAMAN+APOLLO+HOSPITAL/data=!4m7!3m6!1s0x39f8490066366729:0xe579554ae8d3d1e2!8m2!3d23.2420085!4d87.8600992!16s%2Fg%2F11w1ks0kd4!19sChIJKWc2ZgBJ-DkR4tHT6EpVeeU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bardhaman-eye-care-nursing-home-bardhaman",
@@ -1477,7 +1465,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bardhaman+Eye+Care+Nursing+Home/data=!4m7!3m6!1s0x39f849ce19a91509:0xd87b917614f4d01d!8m2!3d23.2322035!4d87.865252!16s%2Fg%2F11dz_mlk6c!19sChIJCRWpGc5J-DkRHdD0FHaRe9g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bardhaman+Eye+Care+Nursing+Home/data=!4m7!3m6!1s0x39f849ce19a91509:0xd87b917614f4d01d!8m2!3d23.2322035!4d87.865252!16s%2Fg%2F11dz_mlk6c!19sChIJCRWpGc5J-DkRHdD0FHaRe9g?authuser=0&hl=en&rclk=1"
@@ -1546,8 +1534,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bardhaman+Eye+Care+Nursing+Home/data=!4m7!3m6!1s0x39f849ce19a91509:0xd87b917614f4d01d!8m2!3d23.2322035!4d87.865252!16s%2Fg%2F11dz_mlk6c!19sChIJCRWpGc5J-DkRHdD0FHaRe9g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bengal-cancer-foundation-renaissance-township",
@@ -1596,7 +1583,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bengal+Cancer+Foundation/data=!4m7!3m6!1s0x39f8377927e8ea1d:0x8301c21354b80b28!8m2!3d23.2654103!4d87.8265708!16s%2Fg%2F11j8zrv4nb!19sChIJHeroJ3k3-DkRKAu4VBPCAYM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bengal+Cancer+Foundation/data=!4m7!3m6!1s0x39f8377927e8ea1d:0x8301c21354b80b28!8m2!3d23.2654103!4d87.8265708!16s%2Fg%2F11j8zrv4nb!19sChIJHeroJ3k3-DkRKAu4VBPCAYM?authuser=0&hl=en&rclk=1"
@@ -1665,8 +1652,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bengal+Cancer+Foundation/data=!4m7!3m6!1s0x39f8377927e8ea1d:0x8301c21354b80b28!8m2!3d23.2654103!4d87.8265708!16s%2Fg%2F11j8zrv4nb!19sChIJHeroJ3k3-DkRKAu4VBPCAYM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bengal-faith-hospital-bardhaman",
@@ -1715,7 +1701,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bengal+FAITH+Hospital./data=!4m7!3m6!1s0x39f837f1ae0af09d:0xdbe6adc9aeb655a7!8m2!3d23.2601841!4d87.8353604!16s%2Fg%2F11j0vqylkf!19sChIJnfAKrvE3-DkRp1W2rsmt5ts?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bengal+FAITH+Hospital./data=!4m7!3m6!1s0x39f837f1ae0af09d:0xdbe6adc9aeb655a7!8m2!3d23.2601841!4d87.8353604!16s%2Fg%2F11j0vqylkf!19sChIJnfAKrvE3-DkRp1W2rsmt5ts?authuser=0&hl=en&rclk=1"
@@ -1784,8 +1770,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bengal+FAITH+Hospital./data=!4m7!3m6!1s0x39f837f1ae0af09d:0xdbe6adc9aeb655a7!8m2!3d23.2601841!4d87.8353604!16s%2Fg%2F11j0vqylkf!19sChIJnfAKrvE3-DkRp1W2rsmt5ts?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "burdwan-dental-college-and-hospital-play-ground-bardhaman",
@@ -1834,7 +1819,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Burdwan+Dental+College+and+Hospital+play+ground/data=!4m7!3m6!1s0x39f849dc27e89de1:0xa1786cb8f882eb1!8m2!3d23.244997!4d87.8599496!16s%2Fg%2F11f3hc78c3!19sChIJ4Z3oJ9xJ-DkRsS6Ij8uGFwo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Burdwan+Dental+College+and+Hospital+play+ground/data=!4m7!3m6!1s0x39f849dc27e89de1:0xa1786cb8f882eb1!8m2!3d23.244997!4d87.8599496!16s%2Fg%2F11f3hc78c3!19sChIJ4Z3oJ9xJ-DkRsS6Ij8uGFwo?authuser=0&hl=en&rclk=1"
@@ -1903,8 +1888,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Burdwan+Dental+College+and+Hospital+play+ground/data=!4m7!3m6!1s0x39f849dc27e89de1:0xa1786cb8f882eb1!8m2!3d23.244997!4d87.8599496!16s%2Fg%2F11f3hc78c3!19sChIJ4Z3oJ9xJ-DkRsS6Ij8uGFwo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "burdwan-hospital-opd-bardhaman",
@@ -1952,7 +1936,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Burdwan+Hospital+OPD/data=!4m7!3m6!1s0x39f849df4519be15:0xf4b7ee5aef603916!8m2!3d23.2435971!4d87.8556629!16s%2Fg%2F11f1jxdtct!19sChIJFb4ZRd9J-DkRFjlg71rut_Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Burdwan+Hospital+OPD/data=!4m7!3m6!1s0x39f849df4519be15:0xf4b7ee5aef603916!8m2!3d23.2435971!4d87.8556629!16s%2Fg%2F11f1jxdtct!19sChIJFb4ZRd9J-DkRFjlg71rut_Q?authuser=0&hl=en&rclk=1"
@@ -2018,11 +2002,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Burdwan+Hospital+OPD/data=!4m7!3m6!1s0x39f849df4519be15:0xf4b7ee5aef603916!8m2!3d23.2435971!4d87.8556629!16s%2Fg%2F11f1jxdtct!19sChIJFb4ZRd9J-DkRFjlg71rut_Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "burdwan-medical-college-and-hospital-bardhaman",
@@ -2071,7 +2054,7 @@
       "Google rating 4.1",
       "24+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Burdwan+Medical+College+and+Hospital/data=!4m7!3m6!1s0x39f849df1435fa6b:0x8d2c0458f879895a!8m2!3d23.2441908!4d87.8561268!16s%2Fg%2F1thtm_z9!19sChIJa_o1FN9J-DkRWol5-FgELI0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Burdwan+Medical+College+and+Hospital/data=!4m7!3m6!1s0x39f849df1435fa6b:0x8d2c0458f879895a!8m2!3d23.2441908!4d87.8561268!16s%2Fg%2F1thtm_z9!19sChIJa_o1FN9J-DkRWol5-FgELI0?authuser=0&hl=en&rclk=1"
@@ -2140,8 +2123,7 @@
     "rating": 4.1,
     "reviews": 24,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Burdwan+Medical+College+and+Hospital/data=!4m7!3m6!1s0x39f849df1435fa6b:0x8d2c0458f879895a!8m2!3d23.2441908!4d87.8561268!16s%2Fg%2F1thtm_z9!19sChIJa_o1FN9J-DkRWol5-FgELI0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "burdwan-urology-clinic-and-centre-bardhaman",
@@ -2189,7 +2171,7 @@
     "metrics": [
       "Google rating 2.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Burdwan+urology+Clinic+And+Centre/data=!4m7!3m6!1s0x39f849ded4445437:0x60b6a68ce2b1ecac!8m2!3d23.2429933!4d87.8576578!16s%2Fg%2F11fzfb2frg!19sChIJN1RE1N5J-DkRrOyx4oymtmA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Burdwan+urology+Clinic+And+Centre/data=!4m7!3m6!1s0x39f849ded4445437:0x60b6a68ce2b1ecac!8m2!3d23.2429933!4d87.8576578!16s%2Fg%2F11fzfb2frg!19sChIJN1RE1N5J-DkRrOyx4oymtmA?authuser=0&hl=en&rclk=1"
@@ -2258,8 +2240,7 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Burdwan+urology+Clinic+And+Centre/data=!4m7!3m6!1s0x39f849ded4445437:0x60b6a68ce2b1ecac!8m2!3d23.2429933!4d87.8576578!16s%2Fg%2F11fzfb2frg!19sChIJN1RE1N5J-DkRrOyx4oymtmA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "camri-full-nabh-accredited-hospital-gangpur",
@@ -2308,7 +2289,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CAMRI+Full+NABH+Accredited+Hospital/data=!4m7!3m6!1s0x39f848e148480ef5:0x7018aea82a0318f9!8m2!3d23.2201387!4d87.9100745!16s%2Fg%2F1tf3mb5j!19sChIJ9Q5ISOFI-DkR-RgDKqiuGHA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CAMRI+Full+NABH+Accredited+Hospital/data=!4m7!3m6!1s0x39f848e148480ef5:0x7018aea82a0318f9!8m2!3d23.2201387!4d87.9100745!16s%2Fg%2F1tf3mb5j!19sChIJ9Q5ISOFI-DkR-RgDKqiuGHA?authuser=0&hl=en&rclk=1"
@@ -2377,8 +2358,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CAMRI+Full+NABH+Accredited+Hospital/data=!4m7!3m6!1s0x39f848e148480ef5:0x7018aea82a0318f9!8m2!3d23.2201387!4d87.9100745!16s%2Fg%2F1tf3mb5j!19sChIJ9Q5ISOFI-DkR-RgDKqiuGHA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cardiac-care-in-burdwan-bardhaman",
@@ -2426,7 +2406,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cardiac+Care+in+Burdwan/data=!4m7!3m6!1s0x39f849fb9a0baf51:0x457514362eabb4e8!8m2!3d23.220429!4d87.9100827!16s%2Fg%2F11xvs9dyxf!19sChIJUa8LmvtJ-DkR6LSrLjYUdUU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cardiac+Care+in+Burdwan/data=!4m7!3m6!1s0x39f849fb9a0baf51:0x457514362eabb4e8!8m2!3d23.220429!4d87.9100827!16s%2Fg%2F11xvs9dyxf!19sChIJUa8LmvtJ-DkR6LSrLjYUdUU?authuser=0&hl=en&rclk=1"
@@ -2492,11 +2472,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cardiac+Care+in+Burdwan/data=!4m7!3m6!1s0x39f849fb9a0baf51:0x457514362eabb4e8!8m2!3d23.220429!4d87.9100827!16s%2Fg%2F11xvs9dyxf!19sChIJUa8LmvtJ-DkR6LSrLjYUdUU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "clinic-synapse-burdwan-neuro-emergency-critical-care-headache-lower-back-pain-migraine-epilepsy-bardhaman",
@@ -2546,7 +2525,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Clinic+Synapse+%28Burdwan%29+%7C+Neuro-Emergency,+Critical+Care,+Headache,+Lower+Back+Pain,+Migraine,+Epilepsy/data=!4m7!3m6!1s0x39f849494a116b1d:0x2948a2d94c3c25fa!8m2!3d23.2469471!4d87.8596763!16s%2Fg%2F11t9mjp6g5!19sChIJHWsRSklJ-DkR-iU8TNmiSCk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic+Synapse+%28Burdwan%29+%7C+Neuro-Emergency,+Critical+Care,+Headache,+Lower+Back+Pain,+Migraine,+Epilepsy/data=!4m7!3m6!1s0x39f849494a116b1d:0x2948a2d94c3c25fa!8m2!3d23.2469471!4d87.8596763!16s%2Fg%2F11t9mjp6g5!19sChIJHWsRSklJ-DkR-iU8TNmiSCk?authuser=0&hl=en&rclk=1"
@@ -2612,11 +2591,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Clinic+Synapse+%28Burdwan%29+%7C+Neuro-Emergency,+Critical+Care,+Headache,+Lower+Back+Pain,+Migraine,+Epilepsy/data=!4m7!3m6!1s0x39f849494a116b1d:0x2948a2d94c3c25fa!8m2!3d23.2469471!4d87.8596763!16s%2Fg%2F11t9mjp6g5!19sChIJHWsRSklJ-DkR-iU8TNmiSCk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "command-hospital-eastern-command-kolkata",
@@ -2666,7 +2644,7 @@
       "89+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Command+Hospital%28Eastern+Command%29/data=!4m7!3m6!1s0x3a02775a42fe811f:0x96ec3d9d1c8f1b7d!8m2!3d22.5304003!4d88.3316927!16s%2Fg%2F11bvt2jm8y!19sChIJH4H-Qlp3AjoRfRuPHJ097JY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Command+Hospital%28Eastern+Command%29/data=!4m7!3m6!1s0x3a02775a42fe811f:0x96ec3d9d1c8f1b7d!8m2!3d22.5304003!4d88.3316927!16s%2Fg%2F11bvt2jm8y!19sChIJH4H-Qlp3AjoRfRuPHJ097JY?authuser=0&hl=en&rclk=1"
@@ -2735,8 +2713,7 @@
     "rating": 4.2,
     "reviews": 89,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Command+Hospital%28Eastern+Command%29/data=!4m7!3m6!1s0x3a02775a42fe811f:0x96ec3d9d1c8f1b7d!8m2!3d22.5304003!4d88.3316927!16s%2Fg%2F11bvt2jm8y!19sChIJH4H-Qlp3AjoRfRuPHJ097JY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "coradent-bardhaman",
@@ -2784,7 +2761,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Coradent/data=!4m7!3m6!1s0x39f84904a11c34e9:0x6c8f7e7dd5ddba3!8m2!3d23.2284034!4d87.8719868!16s%2Fg%2F11ycfmtvlx!19sChIJ6TQcoQRJ-DkRo9td3ef3yAY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Coradent/data=!4m7!3m6!1s0x39f84904a11c34e9:0x6c8f7e7dd5ddba3!8m2!3d23.2284034!4d87.8719868!16s%2Fg%2F11ycfmtvlx!19sChIJ6TQcoQRJ-DkRo9td3ef3yAY?authuser=0&hl=en&rclk=1"
@@ -2850,11 +2827,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Coradent/data=!4m7!3m6!1s0x39f84904a11c34e9:0x6c8f7e7dd5ddba3!8m2!3d23.2284034!4d87.8719868!16s%2Fg%2F11ycfmtvlx!19sChIJ6TQcoQRJ-DkRo9td3ef3yAY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmetic-skin-and-hair-care-clinic-dr-sumita-bhaduri-bardhaman",
@@ -2903,7 +2879,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cosmetic+Skin+%26+Hair+Care+Clinic...Dr+sumita+Bhaduri/data=!4m7!3m6!1s0x39f8499d8a04d15b:0x3f041dc1d78469f0!8m2!3d23.2548319!4d87.8584939!16s%2Fg%2F11shfxtsjr!19sChIJW9EEip1J-DkR8GmE18EdBD8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmetic+Skin+%26+Hair+Care+Clinic...Dr+sumita+Bhaduri/data=!4m7!3m6!1s0x39f8499d8a04d15b:0x3f041dc1d78469f0!8m2!3d23.2548319!4d87.8584939!16s%2Fg%2F11shfxtsjr!19sChIJW9EEip1J-DkR8GmE18EdBD8?authuser=0&hl=en&rclk=1"
@@ -2969,11 +2945,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cosmetic+Skin+%26+Hair+Care+Clinic...Dr+sumita+Bhaduri/data=!4m7!3m6!1s0x39f8499d8a04d15b:0x3f041dc1d78469f0!8m2!3d23.2548319!4d87.8584939!16s%2Fg%2F11shfxtsjr!19sChIJW9EEip1J-DkR8GmE18EdBD8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "crown-king-dental-clinic-bardhaman",
@@ -3021,7 +2996,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Crown+King+Dental+Clinic/data=!4m7!3m6!1s0x39f849004df855a9:0x8d4c8019ebcca66c!8m2!3d23.2252381!4d87.8649298!16s%2Fg%2F11xf5k12hq!19sChIJqVX4TQBJ-DkRbKbM6xmATI0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Crown+King+Dental+Clinic/data=!4m7!3m6!1s0x39f849004df855a9:0x8d4c8019ebcca66c!8m2!3d23.2252381!4d87.8649298!16s%2Fg%2F11xf5k12hq!19sChIJqVX4TQBJ-DkRbKbM6xmATI0?authuser=0&hl=en&rclk=1"
@@ -3087,11 +3062,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Crown+King+Dental+Clinic/data=!4m7!3m6!1s0x39f849004df855a9:0x8d4c8019ebcca66c!8m2!3d23.2252381!4d87.8649298!16s%2Fg%2F11xf5k12hq!19sChIJqVX4TQBJ-DkRbKbM6xmATI0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dent-al-elaz-clinic-bardhaman",
@@ -3139,7 +3113,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dent-Al+Elaz+Clinic/data=!4m7!3m6!1s0x39f83700656ba261:0xe9194d5cc6650448!8m2!3d23.2596625!4d87.8434844!16s%2Fg%2F11mdqlb2kw!19sChIJYaJrZQA3-DkRSARlxlxNGek?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dent-Al+Elaz+Clinic/data=!4m7!3m6!1s0x39f83700656ba261:0xe9194d5cc6650448!8m2!3d23.2596625!4d87.8434844!16s%2Fg%2F11mdqlb2kw!19sChIJYaJrZQA3-DkRSARlxlxNGek?authuser=0&hl=en&rclk=1"
@@ -3205,11 +3179,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dent-Al+Elaz+Clinic/data=!4m7!3m6!1s0x39f83700656ba261:0xe9194d5cc6650448!8m2!3d23.2596625!4d87.8434844!16s%2Fg%2F11mdqlb2kw!19sChIJYaJrZQA3-DkRSARlxlxNGek?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dent-inn-dental-clinic-and-maxillofacial-centre-bardhaman",
@@ -3258,7 +3231,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dent-Inn+Dental+Clinic+%26+Maxillofacial+Centre/data=!4m7!3m6!1s0x39f837d51a823feb:0xb122a280218c9062!8m2!3d23.2600809!4d87.847855!16s%2Fg%2F11t2byr20p!19sChIJ6z-CGtU3-DkRYpCMIYCiIrE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dent-Inn+Dental+Clinic+%26+Maxillofacial+Centre/data=!4m7!3m6!1s0x39f837d51a823feb:0xb122a280218c9062!8m2!3d23.2600809!4d87.847855!16s%2Fg%2F11t2byr20p!19sChIJ6z-CGtU3-DkRYpCMIYCiIrE?authuser=0&hl=en&rclk=1"
@@ -3324,11 +3297,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dent-Inn+Dental+Clinic+%26+Maxillofacial+Centre/data=!4m7!3m6!1s0x39f837d51a823feb:0xb122a280218c9062!8m2!3d23.2600809!4d87.847855!16s%2Fg%2F11t2byr20p!19sChIJ6z-CGtU3-DkRYpCMIYCiIrE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-clinic-nutanpally",
@@ -3376,7 +3348,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+clinic/data=!4m7!3m6!1s0x39f849b6e175326d:0xb9ac6e5f57042f39!8m2!3d23.2339367!4d87.8780412!16s%2Fg%2F11fy7bght_!19sChIJbTJ14bZJ-DkROS8EV19urLk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+clinic/data=!4m7!3m6!1s0x39f849b6e175326d:0xb9ac6e5f57042f39!8m2!3d23.2339367!4d87.8780412!16s%2Fg%2F11fy7bght_!19sChIJbTJ14bZJ-DkROS8EV19urLk?authuser=0&hl=en&rclk=1"
@@ -3442,11 +3414,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+clinic/data=!4m7!3m6!1s0x39f849b6e175326d:0xb9ac6e5f57042f39!8m2!3d23.2339367!4d87.8780412!16s%2Fg%2F11fy7bght_!19sChIJbTJ14bZJ-DkROS8EV19urLk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-craft-dental-clinic-nutanpally",
@@ -3495,7 +3466,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Craft+Dental+Clinic/data=!4m7!3m6!1s0x39f84994e5bcc5bd:0x67a57a2685effce3!8m2!3d23.235249!4d87.871736!16s%2Fg%2F11lfkf5c5y!19sChIJvcW85ZRJ-DkR4_zvhSZ6pWc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Craft+Dental+Clinic/data=!4m7!3m6!1s0x39f84994e5bcc5bd:0x67a57a2685effce3!8m2!3d23.235249!4d87.871736!16s%2Fg%2F11lfkf5c5y!19sChIJvcW85ZRJ-DkR4_zvhSZ6pWc?authuser=0&hl=en&rclk=1"
@@ -3564,8 +3535,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Craft+Dental+Clinic/data=!4m7!3m6!1s0x39f84994e5bcc5bd:0x67a57a2685effce3!8m2!3d23.235249!4d87.871736!16s%2Fg%2F11lfkf5c5y!19sChIJvcW85ZRJ-DkR4_zvhSZ6pWc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentist-in-burdwan-town-vignesh-modern-smile-and-dental-care-clinic-best-dentist-in-burdwan-dental-clinic-in-burdwan-bardhaman",
@@ -3615,7 +3585,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dentist+in+Burdwan+Town%7C+VIGNESH+MODERN+SMILE+%26+DENTAL+CARE+CLINIC%7C+Best+Dentist+In+Burdwan%7C+Dental+Clinic+In+Burdwan/data=!4m7!3m6!1s0x39f849d383437697:0x845bd9de89be2cca!8m2!3d23.2255243!4d87.8786793!16s%2Fg%2F11gw24hd2z!19sChIJl3ZDg9NJ-DkRyiy-id7ZW4Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentist+in+Burdwan+Town%7C+VIGNESH+MODERN+SMILE+%26+DENTAL+CARE+CLINIC%7C+Best+Dentist+In+Burdwan%7C+Dental+Clinic+In+Burdwan/data=!4m7!3m6!1s0x39f849d383437697:0x845bd9de89be2cca!8m2!3d23.2255243!4d87.8786793!16s%2Fg%2F11gw24hd2z!19sChIJl3ZDg9NJ-DkRyiy-id7ZW4Q?authuser=0&hl=en&rclk=1"
@@ -3684,8 +3654,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dentist+in+Burdwan+Town%7C+VIGNESH+MODERN+SMILE+%26+DENTAL+CARE+CLINIC%7C+Best+Dentist+In+Burdwan%7C+Dental+Clinic+In+Burdwan/data=!4m7!3m6!1s0x39f849d383437697:0x845bd9de89be2cca!8m2!3d23.2255243!4d87.8786793!16s%2Fg%2F11gw24hd2z!19sChIJl3ZDg9NJ-DkRyiy-id7ZW4Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dento-smile-dental-clinic-bardhaman",
@@ -3734,7 +3703,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dento-Smile+Dental+Clinic/data=!4m7!3m6!1s0x39f849deb359deef:0x63e2805994834971!8m2!3d23.2428841!4d87.8590984!16s%2Fg%2F11c6_w9_32!19sChIJ795Zs95J-DkRcUmDlFmA4mM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dento-Smile+Dental+Clinic/data=!4m7!3m6!1s0x39f849deb359deef:0x63e2805994834971!8m2!3d23.2428841!4d87.8590984!16s%2Fg%2F11c6_w9_32!19sChIJ795Zs95J-DkRcUmDlFmA4mM?authuser=0&hl=en&rclk=1"
@@ -3803,8 +3772,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dento-Smile+Dental+Clinic/data=!4m7!3m6!1s0x39f849deb359deef:0x63e2805994834971!8m2!3d23.2428841!4d87.8590984!16s%2Fg%2F11c6_w9_32!19sChIJ795Zs95J-DkRcUmDlFmA4mM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "diplomat-nursing-home-bardhaman",
@@ -3853,7 +3821,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Diplomat+Nursing+Home/data=!4m7!3m6!1s0x39f849db8b6b4c4d:0x7d1d5be8e6814168!8m2!3d23.2428339!4d87.8604067!16s%2Fg%2F1hm2n32qc!19sChIJTUxri9tJ-DkRaEGB5uhbHX0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diplomat+Nursing+Home/data=!4m7!3m6!1s0x39f849db8b6b4c4d:0x7d1d5be8e6814168!8m2!3d23.2428339!4d87.8604067!16s%2Fg%2F1hm2n32qc!19sChIJTUxri9tJ-DkRaEGB5uhbHX0?authuser=0&hl=en&rclk=1"
@@ -3922,8 +3890,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Diplomat+Nursing+Home/data=!4m7!3m6!1s0x39f849db8b6b4c4d:0x7d1d5be8e6814168!8m2!3d23.2428339!4d87.8604067!16s%2Fg%2F1hm2n32qc!19sChIJTUxri9tJ-DkRaEGB5uhbHX0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dipti-medical-7r6g-g8-goda-p",
@@ -3972,7 +3939,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DIPTI+MEDICAL/data=!4m7!3m6!1s0x39f8379f8b08fe6f:0xc4e16346462d1bff!8m2!3d23.2614941!4d87.8258248!16s%2Fg%2F11px9dz72n!19sChIJb_4Ii583-DkR_xstRkZj4cQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DIPTI+MEDICAL/data=!4m7!3m6!1s0x39f8379f8b08fe6f:0xc4e16346462d1bff!8m2!3d23.2614941!4d87.8258248!16s%2Fg%2F11px9dz72n!19sChIJb_4Ii583-DkR_xstRkZj4cQ?authuser=0&hl=en&rclk=1"
@@ -4038,11 +4005,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DIPTI+MEDICAL/data=!4m7!3m6!1s0x39f8379f8b08fe6f:0xc4e16346462d1bff!8m2!3d23.2614941!4d87.8258248!16s%2Fg%2F11px9dz72n!19sChIJb_4Ii583-DkR_xstRkZj4cQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dishari-polyclinic-general-practitioner-clinic-near-me-rasikpur-kolkata-kolkata",
@@ -4091,7 +4057,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dishari+Polyclinic+%7C+General+practitioner+clinic+near+me+%7C+Rasikpur+%7C+Kolkata/data=!4m7!3m6!1s0x39f84ffa1ed427bf:0x1676068341593cff!8m2!3d23.2408468!4d87.9359313!16s%2Fg%2F11w3tf2j67!19sChIJvyfUHvpP-DkR_zxZQYMGdhY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dishari+Polyclinic+%7C+General+practitioner+clinic+near+me+%7C+Rasikpur+%7C+Kolkata/data=!4m7!3m6!1s0x39f84ffa1ed427bf:0x1676068341593cff!8m2!3d23.2408468!4d87.9359313!16s%2Fg%2F11w3tf2j67!19sChIJvyfUHvpP-DkR_zxZQYMGdhY?authuser=0&hl=en&rclk=1"
@@ -4157,11 +4123,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dishari+Polyclinic+%7C+General+practitioner+clinic+near+me+%7C+Rasikpur+%7C+Kolkata/data=!4m7!3m6!1s0x39f84ffa1ed427bf:0x1676068341593cff!8m2!3d23.2408468!4d87.9359313!16s%2Fg%2F11w3tf2j67!19sChIJvyfUHvpP-DkR_zxZQYMGdhY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fit-o-fine-physiotherapy-clinic-and-fitness-center-pain-relief-pediatric-and-neurological-physio-bardhaman",
@@ -4212,7 +4177,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fit+O+Fine+Physiotherapy+Clinic+%26+Fitness+Center+%7C+Pain+Relief+%7C+Pediatric+%26+Neurological+Physio/data=!4m7!3m6!1s0x39f849cf648bf107:0xc418b00e6b3ff812!8m2!3d23.236335!4d87.8679265!16s%2Fg%2F11b5pj27b8!19sChIJB_GLZM9J-DkREvg_aw6wGMQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fit+O+Fine+Physiotherapy+Clinic+%26+Fitness+Center+%7C+Pain+Relief+%7C+Pediatric+%26+Neurological+Physio/data=!4m7!3m6!1s0x39f849cf648bf107:0xc418b00e6b3ff812!8m2!3d23.236335!4d87.8679265!16s%2Fg%2F11b5pj27b8!19sChIJB_GLZM9J-DkREvg_aw6wGMQ?authuser=0&hl=en&rclk=1"
@@ -4278,11 +4243,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fit+O+Fine+Physiotherapy+Clinic+%26+Fitness+Center+%7C+Pain+Relief+%7C+Pediatric+%26+Neurological+Physio/data=!4m7!3m6!1s0x39f849cf648bf107:0xc418b00e6b3ff812!8m2!3d23.236335!4d87.8679265!16s%2Fg%2F11b5pj27b8!19sChIJB_GLZM9J-DkREvg_aw6wGMQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "genome-the-fertility-centre-bardhaman",
@@ -4333,7 +4297,7 @@
       "22+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Genome+The+Fertility+Centre/data=!4m7!3m6!1s0x39f84959a31bd9d3:0xd138ea52458d808b!8m2!3d23.2430849!4d87.8626777!16s%2Fg%2F11fkvy9106!19sChIJ09kbo1lJ-DkRi4CNRVLqONE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Genome+The+Fertility+Centre/data=!4m7!3m6!1s0x39f84959a31bd9d3:0xd138ea52458d808b!8m2!3d23.2430849!4d87.8626777!16s%2Fg%2F11fkvy9106!19sChIJ09kbo1lJ-DkRi4CNRVLqONE?authuser=0&hl=en&rclk=1"
@@ -4402,8 +4366,7 @@
     "rating": 4.7,
     "reviews": 22,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Genome+The+Fertility+Centre/data=!4m7!3m6!1s0x39f84959a31bd9d3:0xd138ea52458d808b!8m2!3d23.2430849!4d87.8626777!16s%2Fg%2F11fkvy9106!19sChIJ09kbo1lJ-DkRi4CNRVLqONE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gouri-nursing-home-bardhaman",
@@ -4453,7 +4416,7 @@
       "Google rating 4.7",
       "17+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gouri+Nursing+Home/data=!4m7!3m6!1s0x39f849d8d05b5f4f:0xbbefb21c4f422328!8m2!3d23.2421434!4d87.8569358!16s%2Fg%2F11dymbr45w!19sChIJT19b0NhJ-DkRKCNCTxyy77s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gouri+Nursing+Home/data=!4m7!3m6!1s0x39f849d8d05b5f4f:0xbbefb21c4f422328!8m2!3d23.2421434!4d87.8569358!16s%2Fg%2F11dymbr45w!19sChIJT19b0NhJ-DkRKCNCTxyy77s?authuser=0&hl=en&rclk=1"
@@ -4522,8 +4485,7 @@
     "rating": 4.7,
     "reviews": 17,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gouri+Nursing+Home/data=!4m7!3m6!1s0x39f849d8d05b5f4f:0xbbefb21c4f422328!8m2!3d23.2421434!4d87.8569358!16s%2Fg%2F11dymbr45w!19sChIJT19b0NhJ-DkRKCNCTxyy77s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "h-k-nursing-home-bardhaman",
@@ -4572,7 +4534,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/H.K.+Nursing+Home/data=!4m7!3m6!1s0x39f849d952c8c88f:0xabb9a6ad0e60b736!8m2!3d23.2428215!4d87.8594491!16s%2Fg%2F11cmczqhsr!19sChIJj8jIUtlJ-DkRNrdgDq2muas?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/H.K.+Nursing+Home/data=!4m7!3m6!1s0x39f849d952c8c88f:0xabb9a6ad0e60b736!8m2!3d23.2428215!4d87.8594491!16s%2Fg%2F11cmczqhsr!19sChIJj8jIUtlJ-DkRNrdgDq2muas?authuser=0&hl=en&rclk=1"
@@ -4641,8 +4603,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/H.K.+Nursing+Home/data=!4m7!3m6!1s0x39f849d952c8c88f:0xabb9a6ad0e60b736!8m2!3d23.2428215!4d87.8594491!16s%2Fg%2F11cmczqhsr!19sChIJj8jIUtlJ-DkRNrdgDq2muas?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "health-care-hospital-bardhaman",
@@ -4691,7 +4652,7 @@
       "Google rating 4.7",
       "9+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Health+Care+Hospital/data=!4m7!3m6!1s0x39f8370008a8bcf3:0x6d99255a0bc12d87!8m2!3d23.2608719!4d87.8412433!16s%2Fg%2F11vz3lz99r!19sChIJ87yoCAA3-DkRhy3BC1olmW0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Health+Care+Hospital/data=!4m7!3m6!1s0x39f8370008a8bcf3:0x6d99255a0bc12d87!8m2!3d23.2608719!4d87.8412433!16s%2Fg%2F11vz3lz99r!19sChIJ87yoCAA3-DkRhy3BC1olmW0?authuser=0&hl=en&rclk=1"
@@ -4760,8 +4721,7 @@
     "rating": 4.7,
     "reviews": 9,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Health+Care+Hospital/data=!4m7!3m6!1s0x39f8370008a8bcf3:0x6d99255a0bc12d87!8m2!3d23.2608719!4d87.8412433!16s%2Fg%2F11vz3lz99r!19sChIJ87yoCAA3-DkRhy3BC1olmW0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospitalciti-bardhaman",
@@ -4810,7 +4770,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HospitalCiti/data=!4m7!3m6!1s0x39f83705558832d5:0x6fcad271a5734a07!8m2!3d23.2381955!4d87.8499212!16s%2Fg%2F11js3x42fk!19sChIJ1TKIVQU3-DkRB0pzpXHSym8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HospitalCiti/data=!4m7!3m6!1s0x39f83705558832d5:0x6fcad271a5734a07!8m2!3d23.2381955!4d87.8499212!16s%2Fg%2F11js3x42fk!19sChIJ1TKIVQU3-DkRB0pzpXHSym8?authuser=0&hl=en&rclk=1"
@@ -4876,11 +4836,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HospitalCiti/data=!4m7!3m6!1s0x39f83705558832d5:0x6fcad271a5734a07!8m2!3d23.2381955!4d87.8499212!16s%2Fg%2F11js3x42fk!19sChIJ1TKIVQU3-DkRB0pzpXHSym8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ils-hospitals-dumdum-north-dumdum",
@@ -4930,7 +4889,7 @@
       "22+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ILS+Hospitals,+Dumdum/data=!4m7!3m6!1s0x39f89e19fdffba2b:0x5461c4ec9df3487c!8m2!3d22.624582!4d88.417126!16s%2Fg%2F124swbg14!19sChIJK7r__Rme-DkRfEjznezEYVQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ILS+Hospitals,+Dumdum/data=!4m7!3m6!1s0x39f89e19fdffba2b:0x5461c4ec9df3487c!8m2!3d22.624582!4d88.417126!16s%2Fg%2F124swbg14!19sChIJK7r__Rme-DkRfEjznezEYVQ?authuser=0&hl=en&rclk=1"
@@ -4999,8 +4958,7 @@
     "rating": 4.7,
     "reviews": 22,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ILS+Hospitals,+Dumdum/data=!4m7!3m6!1s0x39f89e19fdffba2b:0x5461c4ec9df3487c!8m2!3d22.624582!4d88.417126!16s%2Fg%2F124swbg14!19sChIJK7r__Rme-DkRfEjznezEYVQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indian-institute-of-liver-and-digestive-sciences-kolkata",
@@ -5052,7 +5010,7 @@
       "29+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/data=!4m7!3m6!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r!19sChIJ77X66JByAjoRMD8iLlFtvNA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/data=!4m7!3m6!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r!19sChIJ77X66JByAjoRMD8iLlFtvNA?authuser=0&hl=en&rclk=1"
@@ -5121,8 +5079,7 @@
     "rating": 3.8,
     "reviews": 29,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/data=!4m7!3m6!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r!19sChIJ77X66JByAjoRMD8iLlFtvNA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "just-smile-dental-and-paediatric-clinic-bardhaman",
@@ -5170,7 +5127,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Just+Smile+Dental+And+Paediatric+Clinic/data=!4m7!3m6!1s0x39f849d5028b0edb:0xc7094ae1b9f937a!8m2!3d23.2272169!4d87.8572939!16s%2Fg%2F11d_7yjlfy!19sChIJ2w6LAtVJ-DkRepOfG66UcAw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Just+Smile+Dental+And+Paediatric+Clinic/data=!4m7!3m6!1s0x39f849d5028b0edb:0xc7094ae1b9f937a!8m2!3d23.2272169!4d87.8572939!16s%2Fg%2F11d_7yjlfy!19sChIJ2w6LAtVJ-DkRepOfG66UcAw?authuser=0&hl=en&rclk=1"
@@ -5236,11 +5193,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Just+Smile+Dental+And+Paediatric+Clinic/data=!4m7!3m6!1s0x39f849d5028b0edb:0xc7094ae1b9f937a!8m2!3d23.2272169!4d87.8572939!16s%2Fg%2F11d_7yjlfy!19sChIJ2w6LAtVJ-DkRepOfG66UcAw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kabita-family-dental-clinic-bardhaman",
@@ -5289,7 +5245,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kabita+Family+Dental+Clinic/data=!4m7!3m6!1s0x39f849db8e5797bd:0xd11038a027b4ded9!8m2!3d23.2423877!4d87.8611812!16s%2Fg%2F11g9r2w35y!19sChIJvZdXjttJ-DkR2d60J6A4ENE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kabita+Family+Dental+Clinic/data=!4m7!3m6!1s0x39f849db8e5797bd:0xd11038a027b4ded9!8m2!3d23.2423877!4d87.8611812!16s%2Fg%2F11g9r2w35y!19sChIJvZdXjttJ-DkR2d60J6A4ENE?authuser=0&hl=en&rclk=1"
@@ -5358,8 +5314,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kabita+Family+Dental+Clinic/data=!4m7!3m6!1s0x39f849db8e5797bd:0xd11038a027b4ded9!8m2!3d23.2423877!4d87.8611812!16s%2Fg%2F11g9r2w35y!19sChIJvZdXjttJ-DkR2d60J6A4ENE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kalpataru-nursing-home-bardhaman",
@@ -5408,7 +5363,7 @@
     "metrics": [
       "Google rating 2.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kalpataru+Nursing+Home/data=!4m7!3m6!1s0x39f849d8d0073c7b:0x8be4ab0b7252c48f!8m2!3d23.2421036!4d87.8568617!16s%2Fg%2F11g7zt78y0!19sChIJezwH0NhJ-DkRj8RScgur5Is?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalpataru+Nursing+Home/data=!4m7!3m6!1s0x39f849d8d0073c7b:0x8be4ab0b7252c48f!8m2!3d23.2421036!4d87.8568617!16s%2Fg%2F11g7zt78y0!19sChIJezwH0NhJ-DkRj8RScgur5Is?authuser=0&hl=en&rclk=1"
@@ -5477,8 +5432,7 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kalpataru+Nursing+Home/data=!4m7!3m6!1s0x39f849d8d0073c7b:0x8be4ab0b7252c48f!8m2!3d23.2421036!4d87.8568617!16s%2Fg%2F11g7zt78y0!19sChIJezwH0NhJ-DkRj8RScgur5Is?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kims-hospital-bardhaman",
@@ -5527,7 +5481,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KIMS+HOSPITAL/data=!4m7!3m6!1s0x39f849121347a703:0x4d6a0d9bc73b4e62!8m2!3d23.218271!4d87.892368!16s%2Fg%2F11h1m4v0bj!19sChIJA6dHExJJ-DkRYk47x5sNak0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMS+HOSPITAL/data=!4m7!3m6!1s0x39f849121347a703:0x4d6a0d9bc73b4e62!8m2!3d23.218271!4d87.892368!16s%2Fg%2F11h1m4v0bj!19sChIJA6dHExJJ-DkRYk47x5sNak0?authuser=0&hl=en&rclk=1"
@@ -5596,8 +5550,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KIMS+HOSPITAL/data=!4m7!3m6!1s0x39f849121347a703:0x4d6a0d9bc73b4e62!8m2!3d23.218271!4d87.892368!16s%2Fg%2F11h1m4v0bj!19sChIJA6dHExJJ-DkRYk47x5sNak0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kisholoy-children-s-hospital-bardhaman",
@@ -5648,7 +5601,7 @@
       "2+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kisholoy+Children%27s+Hospital/data=!4m7!3m6!1s0x39f849c3cda94027:0x8d407e9d73a26ad0!8m2!3d23.2244397!4d87.8804037!16s%2Fg%2F11hcmlfzq9!19sChIJJ0CpzcNJ-DkR0Gqic51-QI0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kisholoy+Children%27s+Hospital/data=!4m7!3m6!1s0x39f849c3cda94027:0x8d407e9d73a26ad0!8m2!3d23.2244397!4d87.8804037!16s%2Fg%2F11hcmlfzq9!19sChIJJ0CpzcNJ-DkR0Gqic51-QI0?authuser=0&hl=en&rclk=1"
@@ -5717,8 +5670,7 @@
     "rating": 4.6,
     "reviews": 2,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kisholoy+Children%27s+Hospital/data=!4m7!3m6!1s0x39f849c3cda94027:0x8d407e9d73a26ad0!8m2!3d23.2244397!4d87.8804037!16s%2Fg%2F11hcmlfzq9!19sChIJJ0CpzcNJ-DkR0Gqic51-QI0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-care-nursing-home-nawabhat",
@@ -5766,7 +5718,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+Care+Nursing+Home/data=!4m7!3m6!1s0x39f83675c7f4872f:0x39e94392c056115f!8m2!3d23.2708956!4d87.8309529!16s%2Fg%2F11c31s091c!19sChIJL4f0x3U2-DkRXxFWwJJD6Tk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Care+Nursing+Home/data=!4m7!3m6!1s0x39f83675c7f4872f:0x39e94392c056115f!8m2!3d23.2708956!4d87.8309529!16s%2Fg%2F11c31s091c!19sChIJL4f0x3U2-DkRXxFWwJJD6Tk?authuser=0&hl=en&rclk=1"
@@ -5832,11 +5784,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+Care+Nursing+Home/data=!4m7!3m6!1s0x39f83675c7f4872f:0x39e94392c056115f!8m2!3d23.2708956!4d87.8309529!16s%2Fg%2F11c31s091c!19sChIJL4f0x3U2-DkRXxFWwJJD6Tk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-kali-surgical-bardhaman",
@@ -5882,7 +5833,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MAA+KALI+SURGICAL/data=!4m7!3m6!1s0x39f8497241a1e373:0xd3db43e4758bcb3b!8m2!3d23.2435244!4d87.8606862!16s%2Fg%2F11vsnvhdgh!19sChIJc-OhQXJJ-DkRO8uLdeRD29M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAA+KALI+SURGICAL/data=!4m7!3m6!1s0x39f8497241a1e373:0xd3db43e4758bcb3b!8m2!3d23.2435244!4d87.8606862!16s%2Fg%2F11vsnvhdgh!19sChIJc-OhQXJJ-DkRO8uLdeRD29M?authuser=0&hl=en&rclk=1"
@@ -5948,11 +5899,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MAA+KALI+SURGICAL/data=!4m7!3m6!1s0x39f8497241a1e373:0xd3db43e4758bcb3b!8m2!3d23.2435244!4d87.8606862!16s%2Fg%2F11vsnvhdgh!19sChIJc-OhQXJJ-DkRO8uLdeRD29M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manipal-hospital-whitefield-information-centre-bardhaman",
@@ -6002,7 +5952,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manipal+Hospital+Whitefield+Information+Centre/data=!4m7!3m6!1s0x39f849dc13dd3c51:0xdb70536ec50c0b9b!8m2!3d23.2438243!4d87.8608303!16s%2Fg%2F11ddzp8tpt!19sChIJUTzdE9xJ-DkRmwsMxW5TcNs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospital+Whitefield+Information+Centre/data=!4m7!3m6!1s0x39f849dc13dd3c51:0xdb70536ec50c0b9b!8m2!3d23.2438243!4d87.8608303!16s%2Fg%2F11ddzp8tpt!19sChIJUTzdE9xJ-DkRmwsMxW5TcNs?authuser=0&hl=en&rclk=1"
@@ -6071,8 +6021,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manipal+Hospital+Whitefield+Information+Centre/data=!4m7!3m6!1s0x39f849dc13dd3c51:0xdb70536ec50c0b9b!8m2!3d23.2438243!4d87.8608303!16s%2Fg%2F11ddzp8tpt!19sChIJUTzdE9xJ-DkRmwsMxW5TcNs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "med-in-bard-office-bardhaman",
@@ -6121,7 +6070,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MED+IN+BARD+Office/data=!4m7!3m6!1s0x39f837381ea59b9d:0x827de4043cf0781d!8m2!3d23.2600737!4d87.8545762!16s%2Fg%2F11qqp0cdyq!19sChIJnZulHjg3-DkRHXjwPATkfYI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MED+IN+BARD+Office/data=!4m7!3m6!1s0x39f837381ea59b9d:0x827de4043cf0781d!8m2!3d23.2600737!4d87.8545762!16s%2Fg%2F11qqp0cdyq!19sChIJnZulHjg3-DkRHXjwPATkfYI?authuser=0&hl=en&rclk=1"
@@ -6187,11 +6136,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MED+IN+BARD+Office/data=!4m7!3m6!1s0x39f837381ea59b9d:0x827de4043cf0781d!8m2!3d23.2600737!4d87.8545762!16s%2Fg%2F11qqp0cdyq!19sChIJnZulHjg3-DkRHXjwPATkfYI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medi-care-urology-bardhaman",
@@ -6237,7 +6185,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medi+Care+%28Urology%29/data=!4m7!3m6!1s0x39f849cf11678a23:0x3bcc33bf7d3485ab!8m2!3d23.2429582!4d87.8576489!16s%2Fg%2F11g07zqx02!19sChIJI4pnEc9J-DkRq4U0fb8zzDs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medi+Care+%28Urology%29/data=!4m7!3m6!1s0x39f849cf11678a23:0x3bcc33bf7d3485ab!8m2!3d23.2429582!4d87.8576489!16s%2Fg%2F11g07zqx02!19sChIJI4pnEc9J-DkRq4U0fb8zzDs?authuser=0&hl=en&rclk=1"
@@ -6303,11 +6251,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medi+Care+%28Urology%29/data=!4m7!3m6!1s0x39f849cf11678a23:0x3bcc33bf7d3485ab!8m2!3d23.2429582!4d87.8576489!16s%2Fg%2F11g07zqx02!19sChIJI4pnEc9J-DkRq4U0fb8zzDs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medidawn-life-science-pvt-ltd-bardhaman",
@@ -6357,7 +6304,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medidawn+Life+science+Pvt.+Ltd./data=!4m7!3m6!1s0x39f849f82ad4ea29:0x4e6c825ea80ef534!8m2!3d23.2424174!4d87.8576265!16s%2Fg%2F11qgqqjb7h!19sChIJKerUKvhJ-DkRNPUOqF6CbE4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medidawn+Life+science+Pvt.+Ltd./data=!4m7!3m6!1s0x39f849f82ad4ea29:0x4e6c825ea80ef534!8m2!3d23.2424174!4d87.8576265!16s%2Fg%2F11qgqqjb7h!19sChIJKerUKvhJ-DkRNPUOqF6CbE4?authuser=0&hl=en&rclk=1"
@@ -6423,11 +6370,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medidawn+Life+science+Pvt.+Ltd./data=!4m7!3m6!1s0x39f849f82ad4ea29:0x4e6c825ea80ef534!8m2!3d23.2424174!4d87.8576265!16s%2Fg%2F11qgqqjb7h!19sChIJKerUKvhJ-DkRNPUOqF6CbE4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meditech-hospital-bardhaman",
@@ -6475,7 +6421,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Meditech+Hospital/data=!4m7!3m6!1s0x39f8374778ea9d97:0xdd43abd34502a316!8m2!3d23.2667772!4d87.8324965!16s%2Fg%2F11mv09khgv!19sChIJl53qeEc3-DkRFqMCRdOrQ90?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meditech+Hospital/data=!4m7!3m6!1s0x39f8374778ea9d97:0xdd43abd34502a316!8m2!3d23.2667772!4d87.8324965!16s%2Fg%2F11mv09khgv!19sChIJl53qeEc3-DkRFqMCRdOrQ90?authuser=0&hl=en&rclk=1"
@@ -6544,8 +6490,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Meditech+Hospital/data=!4m7!3m6!1s0x39f8374778ea9d97:0xdd43abd34502a316!8m2!3d23.2667772!4d87.8324965!16s%2Fg%2F11mv09khgv!19sChIJl53qeEc3-DkRFqMCRdOrQ90?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medithics-clinic-and-diagnostic-kolkata",
@@ -6595,7 +6540,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medithics+Clinic+and+Diagnostic/data=!4m7!3m6!1s0x3a0273dfb98575c3:0x99d06e20546cac35!8m2!3d22.4909661!4d88.4032927!16s%2Fg%2F11f54mw02r!19sChIJw3WFud9zAjoRNaxsVCBu0Jk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medithics+Clinic+and+Diagnostic/data=!4m7!3m6!1s0x3a0273dfb98575c3:0x99d06e20546cac35!8m2!3d22.4909661!4d88.4032927!16s%2Fg%2F11f54mw02r!19sChIJw3WFud9zAjoRNaxsVCBu0Jk?authuser=0&hl=en&rclk=1"
@@ -6664,8 +6609,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medithics+Clinic+and+Diagnostic/data=!4m7!3m6!1s0x3a0273dfb98575c3:0x99d06e20546cac35!8m2!3d22.4909661!4d88.4032927!16s%2Fg%2F11f54mw02r!19sChIJw3WFud9zAjoRNaxsVCBu0Jk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mhelp24-bardhaman",
@@ -6714,7 +6658,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mhelp24/data=!4m7!3m6!1s0x39f849a89e4f1919:0xadd48f0a21d68015!8m2!3d23.2410913!4d87.8642979!16s%2Fg%2F11qn103qvj!19sChIJGRlPnqhJ-DkRFYDWIQqP1K0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mhelp24/data=!4m7!3m6!1s0x39f849a89e4f1919:0xadd48f0a21d68015!8m2!3d23.2410913!4d87.8642979!16s%2Fg%2F11qn103qvj!19sChIJGRlPnqhJ-DkRFYDWIQqP1K0?authuser=0&hl=en&rclk=1"
@@ -6780,11 +6724,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mhelp24/data=!4m7!3m6!1s0x39f849a89e4f1919:0xadd48f0a21d68015!8m2!3d23.2410913!4d87.8642979!16s%2Fg%2F11qn103qvj!19sChIJGRlPnqhJ-DkRFYDWIQqP1K0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-bardhaman",
@@ -6835,7 +6778,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/data=!4m7!3m6!1s0x39f837f1af027e27:0x9c5731c0ecf9f1be!8m2!3d23.2324858!4d87.861478!16s%2Fg%2F11skgcdl6w!19sChIJJ34Cr_E3-DkRvvH57MAxV5w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/data=!4m7!3m6!1s0x39f837f1af027e27:0x9c5731c0ecf9f1be!8m2!3d23.2324858!4d87.861478!16s%2Fg%2F11skgcdl6w!19sChIJJ34Cr_E3-DkRvvH57MAxV5w?authuser=0&hl=en&rclk=1"
@@ -6904,8 +6847,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/data=!4m7!3m6!1s0x39f837f1af027e27:0x9c5731c0ecf9f1be!8m2!3d23.2324858!4d87.861478!16s%2Fg%2F11skgcdl6w!19sChIJJ34Cr_E3-DkRvvH57MAxV5w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-life-hospital-bardhaman",
@@ -6953,7 +6895,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NEW+LIFE+HOSPITAL/data=!4m7!3m6!1s0x39f837f1dd5a60af:0xceea662f74b7c7b!8m2!3d23.2586438!4d87.847485!16s%2Fg%2F11trxc4myn!19sChIJr2Ba3fE3-DkRe3xL92Km7gw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEW+LIFE+HOSPITAL/data=!4m7!3m6!1s0x39f837f1dd5a60af:0xceea662f74b7c7b!8m2!3d23.2586438!4d87.847485!16s%2Fg%2F11trxc4myn!19sChIJr2Ba3fE3-DkRe3xL92Km7gw?authuser=0&hl=en&rclk=1"
@@ -7022,8 +6964,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NEW+LIFE+HOSPITAL/data=!4m7!3m6!1s0x39f837f1dd5a60af:0xceea662f74b7c7b!8m2!3d23.2586438!4d87.847485!16s%2Fg%2F11trxc4myn!19sChIJr2Ba3fE3-DkRe3xL92Km7gw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ortho-med-diagnostic-center-bardhaman",
@@ -7073,7 +7014,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ortho-Med+Diagnostic+Center/data=!4m7!3m6!1s0x39f84900349675a3:0x54368b21f5235072!8m2!3d23.2245119!4d87.8808902!16s%2Fg%2F11wq3qcgps!19sChIJo3WWNABJ-DkRclAj9SGLNlQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ortho-Med+Diagnostic+Center/data=!4m7!3m6!1s0x39f84900349675a3:0x54368b21f5235072!8m2!3d23.2245119!4d87.8808902!16s%2Fg%2F11wq3qcgps!19sChIJo3WWNABJ-DkRclAj9SGLNlQ?authuser=0&hl=en&rclk=1"
@@ -7142,8 +7083,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ortho-Med+Diagnostic+Center/data=!4m7!3m6!1s0x39f84900349675a3:0x54368b21f5235072!8m2!3d23.2245119!4d87.8808902!16s%2Fg%2F11wq3qcgps!19sChIJo3WWNABJ-DkRclAj9SGLNlQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ovale-health-clinic-near-bank-of-baroda-atm",
@@ -7192,7 +7132,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/OVALE+HEALTH+CLINIC/data=!4m7!3m6!1s0x39f836102223916f:0x139298d1f98bd460!8m2!3d23.2599327!4d87.8437726!16s%2Fg%2F11fylk7h8n!19sChIJb5EjIhA2-DkRYNSL-dGYkhM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OVALE+HEALTH+CLINIC/data=!4m7!3m6!1s0x39f836102223916f:0x139298d1f98bd460!8m2!3d23.2599327!4d87.8437726!16s%2Fg%2F11fylk7h8n!19sChIJb5EjIhA2-DkRYNSL-dGYkhM?authuser=0&hl=en&rclk=1"
@@ -7261,8 +7201,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/OVALE+HEALTH+CLINIC/data=!4m7!3m6!1s0x39f836102223916f:0x139298d1f98bd460!8m2!3d23.2599327!4d87.8437726!16s%2Fg%2F11fylk7h8n!19sChIJb5EjIhA2-DkRYNSL-dGYkhM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "park-nursing-home-bardhaman",
@@ -7311,7 +7250,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Park+Nursing+Home/data=!4m7!3m6!1s0x39f849de6e269c47:0xa98125f9232651db!8m2!3d23.2455792!4d87.8606201!16s%2Fg%2F11b66gtm7f!19sChIJR5wmbt5J-DkR21EmI_klgak?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Park+Nursing+Home/data=!4m7!3m6!1s0x39f849de6e269c47:0xa98125f9232651db!8m2!3d23.2455792!4d87.8606201!16s%2Fg%2F11b66gtm7f!19sChIJR5wmbt5J-DkR21EmI_klgak?authuser=0&hl=en&rclk=1"
@@ -7380,8 +7319,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Park+Nursing+Home/data=!4m7!3m6!1s0x39f849de6e269c47:0xa98125f9232651db!8m2!3d23.2455792!4d87.8606201!16s%2Fg%2F11b66gtm7f!19sChIJR5wmbt5J-DkR21EmI_klgak?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "physiotherapy-clinic-fit-with-physio-bardhaman",
@@ -7430,7 +7368,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Physiotherapy+Clinic+-+Fit+with+Physio/data=!4m7!3m6!1s0x39f849b0a23bdcc1:0x163b6feacb4669b4!8m2!3d23.224672!4d87.8798516!16s%2Fg%2F11xfkgk561!19sChIJwdw7orBJ-DkRtGlGy-pvOxY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Physiotherapy+Clinic+-+Fit+with+Physio/data=!4m7!3m6!1s0x39f849b0a23bdcc1:0x163b6feacb4669b4!8m2!3d23.224672!4d87.8798516!16s%2Fg%2F11xfkgk561!19sChIJwdw7orBJ-DkRtGlGy-pvOxY?authuser=0&hl=en&rclk=1"
@@ -7499,8 +7437,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Physiotherapy+Clinic+-+Fit+with+Physio/data=!4m7!3m6!1s0x39f849b0a23bdcc1:0x163b6feacb4669b4!8m2!3d23.224672!4d87.8798516!16s%2Fg%2F11xfkgk561!19sChIJwdw7orBJ-DkRtGlGy-pvOxY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "physiotherapy-clinic-fit-with-physio-goda-p",
@@ -7549,7 +7486,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Physiotherapy+Clinic+-+Fit+with+Physio/data=!4m7!3m6!1s0x39f8372ba697b0c1:0x82aab4dd25720332!8m2!3d23.2656422!4d87.8324376!16s%2Fg%2F11lnk45m5_!19sChIJwbCXpis3-DkRMgNyJd20qoI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Physiotherapy+Clinic+-+Fit+with+Physio/data=!4m7!3m6!1s0x39f8372ba697b0c1:0x82aab4dd25720332!8m2!3d23.2656422!4d87.8324376!16s%2Fg%2F11lnk45m5_!19sChIJwbCXpis3-DkRMgNyJd20qoI?authuser=0&hl=en&rclk=1"
@@ -7615,11 +7552,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Physiotherapy+Clinic+-+Fit+with+Physio/data=!4m7!3m6!1s0x39f8372ba697b0c1:0x82aab4dd25720332!8m2!3d23.2656422!4d87.8324376!16s%2Fg%2F11lnk45m5_!19sChIJwbCXpis3-DkRMgNyJd20qoI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pulse-care-hospital-goda-p",
@@ -7668,7 +7604,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PULSE+CARE+HOSPITAL/data=!4m7!3m6!1s0x39f837001f0408f5:0xc494f2c9c5ef3da4!8m2!3d23.266798!4d87.8256395!16s%2Fg%2F11yr_gpryk!19sChIJ9QgEHwA3-DkRpD3vxcnylMQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PULSE+CARE+HOSPITAL/data=!4m7!3m6!1s0x39f837001f0408f5:0xc494f2c9c5ef3da4!8m2!3d23.266798!4d87.8256395!16s%2Fg%2F11yr_gpryk!19sChIJ9QgEHwA3-DkRpD3vxcnylMQ?authuser=0&hl=en&rclk=1"
@@ -7737,8 +7673,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PULSE+CARE+HOSPITAL/data=!4m7!3m6!1s0x39f837001f0408f5:0xc494f2c9c5ef3da4!8m2!3d23.266798!4d87.8256395!16s%2Fg%2F11yr_gpryk!19sChIJ9QgEHwA3-DkRpD3vxcnylMQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raksha-kabach-diagnostics-pvt-ltd-bardhaman",
@@ -7787,7 +7722,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raksha+Kabach+Diagnostics+Pvt.+Ltd./data=!4m7!3m6!1s0x39f849deaa289f59:0xc6d596d3c62a738e!8m2!3d23.2429099!4d87.8592389!16s%2Fg%2F11cl_jwnqj!19sChIJWZ8oqt5J-DkRjnMqxtOW1cY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raksha+Kabach+Diagnostics+Pvt.+Ltd./data=!4m7!3m6!1s0x39f849deaa289f59:0xc6d596d3c62a738e!8m2!3d23.2429099!4d87.8592389!16s%2Fg%2F11cl_jwnqj!19sChIJWZ8oqt5J-DkRjnMqxtOW1cY?authuser=0&hl=en&rclk=1"
@@ -7856,8 +7791,7 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raksha+Kabach+Diagnostics+Pvt.+Ltd./data=!4m7!3m6!1s0x39f849deaa289f59:0xc6d596d3c62a738e!8m2!3d23.2429099!4d87.8592389!16s%2Fg%2F11cl_jwnqj!19sChIJWZ8oqt5J-DkRjnMqxtOW1cY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rb-dental-care-best-dental-clinic-in-burdwan-bardhaman",
@@ -7906,7 +7840,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RB+Dental+Care+-+Best+Dental+clinic+in+Burdwan/data=!4m7!3m6!1s0x39f837619757091f:0x6b649fd4d2ae7b46!8m2!3d23.2418465!4d87.8540659!16s%2Fg%2F11y1hb_11t!19sChIJHwlXl2E3-DkRRnuu0tSfZGs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RB+Dental+Care+-+Best+Dental+clinic+in+Burdwan/data=!4m7!3m6!1s0x39f837619757091f:0x6b649fd4d2ae7b46!8m2!3d23.2418465!4d87.8540659!16s%2Fg%2F11y1hb_11t!19sChIJHwlXl2E3-DkRRnuu0tSfZGs?authuser=0&hl=en&rclk=1"
@@ -7975,8 +7909,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RB+Dental+Care+-+Best+Dental+clinic+in+Burdwan/data=!4m7!3m6!1s0x39f837619757091f:0x6b649fd4d2ae7b46!8m2!3d23.2418465!4d87.8540659!16s%2Fg%2F11y1hb_11t!19sChIJHwlXl2E3-DkRRnuu0tSfZGs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "reborn-multitherapy-clinic-pain-relief-neurological-and-sports-physiotherapy-burdwan-bardhaman",
@@ -8028,7 +7961,7 @@
       "5+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Reborn+MultiTherapy+Clinic+%7C+Pain+Relief+%7C+Neurological+%26+Sports+Physiotherapy+%7C+Burdwan/data=!4m7!3m6!1s0x39f84956f5e68f87:0x8083f7822df879de!8m2!3d23.2466666!4d87.8634374!16s%2Fg%2F11p4_b8znm!19sChIJh4_m9VZJ-DkR3nn4LYL3g4A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Reborn+MultiTherapy+Clinic+%7C+Pain+Relief+%7C+Neurological+%26+Sports+Physiotherapy+%7C+Burdwan/data=!4m7!3m6!1s0x39f84956f5e68f87:0x8083f7822df879de!8m2!3d23.2466666!4d87.8634374!16s%2Fg%2F11p4_b8znm!19sChIJh4_m9VZJ-DkR3nn4LYL3g4A?authuser=0&hl=en&rclk=1"
@@ -8094,11 +8027,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 5,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Reborn+MultiTherapy+Clinic+%7C+Pain+Relief+%7C+Neurological+%26+Sports+Physiotherapy+%7C+Burdwan/data=!4m7!3m6!1s0x39f84956f5e68f87:0x8083f7822df879de!8m2!3d23.2466666!4d87.8634374!16s%2Fg%2F11p4_b8znm!19sChIJh4_m9VZJ-DkR3nn4LYL3g4A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rehab-clinic-bardhaman",
@@ -8146,7 +8078,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rehab+Clinic/data=!4m7!3m6!1s0x39f849c2b1496a49:0xbb1497e166ae18aa!8m2!3d23.2448216!4d87.8619323!16s%2Fg%2F11f9w2hzdm!19sChIJSWpJscJJ-DkRqhiuZuGXFLs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rehab+Clinic/data=!4m7!3m6!1s0x39f849c2b1496a49:0xbb1497e166ae18aa!8m2!3d23.2448216!4d87.8619323!16s%2Fg%2F11f9w2hzdm!19sChIJSWpJscJJ-DkRqhiuZuGXFLs?authuser=0&hl=en&rclk=1"
@@ -8215,8 +8147,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rehab+Clinic/data=!4m7!3m6!1s0x39f849c2b1496a49:0xbb1497e166ae18aa!8m2!3d23.2448216!4d87.8619323!16s%2Fg%2F11f9w2hzdm!19sChIJSWpJscJJ-DkRqhiuZuGXFLs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "revive-physiotherapy-clinic-by-atanu-roy-bardhaman",
@@ -8265,7 +8196,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/REVIVE+PHYSIOTHERAPY+CLINIC+by+ATANU+ROY/data=!4m7!3m6!1s0x39f849dcf4bace21:0x2a82c4d15edcad13!8m2!3d23.2286528!4d87.8733891!16s%2Fg%2F11gtf3p83q!19sChIJIc669NxJ-DkRE63cXtHEgio?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/REVIVE+PHYSIOTHERAPY+CLINIC+by+ATANU+ROY/data=!4m7!3m6!1s0x39f849dcf4bace21:0x2a82c4d15edcad13!8m2!3d23.2286528!4d87.8733891!16s%2Fg%2F11gtf3p83q!19sChIJIc669NxJ-DkRE63cXtHEgio?authuser=0&hl=en&rclk=1"
@@ -8331,11 +8262,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/REVIVE+PHYSIOTHERAPY+CLINIC+by+ATANU+ROY/data=!4m7!3m6!1s0x39f849dcf4bace21:0x2a82c4d15edcad13!8m2!3d23.2286528!4d87.8733891!16s%2Fg%2F11gtf3p83q!19sChIJIc669NxJ-DkRE63cXtHEgio?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rg-clinic-north-dumdum",
@@ -8383,7 +8313,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RG+CLINIC/data=!4m7!3m6!1s0x39f89fedc767307b:0x6d92f71be264a172!8m2!3d22.6634442!4d88.4299181!16s%2Fg%2F11sv3093vx!19sChIJezBnx-2f-DkRcqFk4hv3km0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RG+CLINIC/data=!4m7!3m6!1s0x39f89fedc767307b:0x6d92f71be264a172!8m2!3d22.6634442!4d88.4299181!16s%2Fg%2F11sv3093vx!19sChIJezBnx-2f-DkRcqFk4hv3km0?authuser=0&hl=en&rclk=1"
@@ -8449,11 +8379,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RG+CLINIC/data=!4m7!3m6!1s0x39f89fedc767307b:0x6d92f71be264a172!8m2!3d22.6634442!4d88.4299181!16s%2Fg%2F11sv3093vx!19sChIJezBnx-2f-DkRcqFk4hv3km0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "royd-nursing-home-kolkata",
@@ -8503,7 +8432,7 @@
       "5+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Royd+Nursing+Home/data=!4m7!3m6!1s0x3a02771160347adf:0xcb6b61d9c6710d38!8m2!3d22.5533219!4d88.3543536!16s%2Fg%2F1tjx_xqb!19sChIJ33o0YBF3AjoROA1xxtlha8s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royd+Nursing+Home/data=!4m7!3m6!1s0x3a02771160347adf:0xcb6b61d9c6710d38!8m2!3d22.5533219!4d88.3543536!16s%2Fg%2F1tjx_xqb!19sChIJ33o0YBF3AjoROA1xxtlha8s?authuser=0&hl=en&rclk=1"
@@ -8572,8 +8501,7 @@
     "rating": 3.8,
     "reviews": 5,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Royd+Nursing+Home/data=!4m7!3m6!1s0x3a02771160347adf:0xcb6b61d9c6710d38!8m2!3d22.5533219!4d88.3543536!16s%2Fg%2F1tjx_xqb!19sChIJ33o0YBF3AjoROA1xxtlha8s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ruby-nursing-home-and-pathology-bardhaman",
@@ -8621,7 +8549,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RUBY+NURSING+HOME+AND+PATHOLOGY/data=!4m7!3m6!1s0x39f837f3365f5c41:0xd38051fd14b0796f!8m2!3d23.2649839!4d87.8348109!16s%2Fg%2F11kr_8wht9!19sChIJQVxfNvM3-DkRb3mwFP1RgNM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RUBY+NURSING+HOME+AND+PATHOLOGY/data=!4m7!3m6!1s0x39f837f3365f5c41:0xd38051fd14b0796f!8m2!3d23.2649839!4d87.8348109!16s%2Fg%2F11kr_8wht9!19sChIJQVxfNvM3-DkRb3mwFP1RgNM?authuser=0&hl=en&rclk=1"
@@ -8690,8 +8618,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RUBY+NURSING+HOME+AND+PATHOLOGY/data=!4m7!3m6!1s0x39f837f3365f5c41:0xd38051fd14b0796f!8m2!3d23.2649839!4d87.8348109!16s%2Fg%2F11kr_8wht9!19sChIJQVxfNvM3-DkRb3mwFP1RgNM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saaol-heart-center-bardhaman-gopalnagar-p",
@@ -8741,7 +8668,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAAOL+Heart+Center+Bardhaman/data=!4m7!3m6!1s0x39f84944ec5c1c37:0xf5353345e3e2bca9!8m2!3d23.2224588!4d87.881217!16s%2Fg%2F11vrlnpq8p!19sChIJNxxc7ERJ-DkRqbzi40UzNfU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAAOL+Heart+Center+Bardhaman/data=!4m7!3m6!1s0x39f84944ec5c1c37:0xf5353345e3e2bca9!8m2!3d23.2224588!4d87.881217!16s%2Fg%2F11vrlnpq8p!19sChIJNxxc7ERJ-DkRqbzi40UzNfU?authuser=0&hl=en&rclk=1"
@@ -8810,8 +8737,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAAOL+Heart+Center+Bardhaman/data=!4m7!3m6!1s0x39f84944ec5c1c37:0xf5353345e3e2bca9!8m2!3d23.2224588!4d87.881217!16s%2Fg%2F11vrlnpq8p!19sChIJNxxc7ERJ-DkRqbzi40UzNfU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "seba-poly-clinic-and-p-n-h-a-bardhaman",
@@ -8859,7 +8785,7 @@
     "metrics": [
       "Google rating 2.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Seba+Poly+Clinic+%26+P+N+H+A/data=!4m7!3m6!1s0x39f849dc4f8c41cf:0xc6ac15126234543b!8m2!3d23.244936!4d87.861694!16s%2Fg%2F11cm0pn6hp!19sChIJz0GMT9xJ-DkRO1Q0YhIVrMY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seba+Poly+Clinic+%26+P+N+H+A/data=!4m7!3m6!1s0x39f849dc4f8c41cf:0xc6ac15126234543b!8m2!3d23.244936!4d87.861694!16s%2Fg%2F11cm0pn6hp!19sChIJz0GMT9xJ-DkRO1Q0YhIVrMY?authuser=0&hl=en&rclk=1"
@@ -8928,8 +8854,7 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Seba+Poly+Clinic+%26+P+N+H+A/data=!4m7!3m6!1s0x39f849dc4f8c41cf:0xc6ac15126234543b!8m2!3d23.244936!4d87.861694!16s%2Fg%2F11cm0pn6hp!19sChIJz0GMT9xJ-DkRO1Q0YhIVrMY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smartlife-clinic-bardhaman",
@@ -8980,7 +8905,7 @@
       "12+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smartlife+Clinic/data=!4m7!3m6!1s0x39f849dc9e8fc9bb:0xafe565e9cf8909e0!8m2!3d23.2430455!4d87.8627187!16s%2Fg%2F11dz_0qnsn!19sChIJu8mPntxJ-DkR4AmJz-ll5a8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smartlife+Clinic/data=!4m7!3m6!1s0x39f849dc9e8fc9bb:0xafe565e9cf8909e0!8m2!3d23.2430455!4d87.8627187!16s%2Fg%2F11dz_0qnsn!19sChIJu8mPntxJ-DkR4AmJz-ll5a8?authuser=0&hl=en&rclk=1"
@@ -9049,8 +8974,7 @@
     "rating": 2.3,
     "reviews": 12,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smartlife+Clinic/data=!4m7!3m6!1s0x39f849dc9e8fc9bb:0xafe565e9cf8909e0!8m2!3d23.2430455!4d87.8627187!16s%2Fg%2F11dz_0qnsn!19sChIJu8mPntxJ-DkR4AmJz-ll5a8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-centre-bardhaman",
@@ -9100,7 +9024,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Dental+Centre/data=!4m7!3m6!1s0xa8d1aaed9c485fc3:0xc382a117b695807d!8m2!3d23.2298006!4d87.8683595!16s%2Fg%2F11y768k1p8!19sChIJw19InO2q0agRfYCVthehgsM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental+Centre/data=!4m7!3m6!1s0xa8d1aaed9c485fc3:0xc382a117b695807d!8m2!3d23.2298006!4d87.8683595!16s%2Fg%2F11y768k1p8!19sChIJw19InO2q0agRfYCVthehgsM?authuser=0&hl=en&rclk=1"
@@ -9166,11 +9090,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Dental+Centre/data=!4m7!3m6!1s0xa8d1aaed9c485fc3:0xc382a117b695807d!8m2!3d23.2298006!4d87.8683595!16s%2Fg%2F11y768k1p8!19sChIJw19InO2q0agRfYCVthehgsM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-o-health-best-dentist-best-implant-and-maxillofacial-clinic-bardhaman-west-bengal-ent-medicine-bardhaman",
@@ -9220,7 +9143,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+O+Health+%7CBest+Dentist%7CBest+Implant%26Maxillofacial+Clinic%7CBardhaman%7CWest+Bengal%7CENT%7CMEDICINE/data=!4m7!3m6!1s0x39f8490484b165ff:0x297bde6a01610445!8m2!3d23.2353912!4d87.8676971!16s%2Fg%2F11wx6xtrcf!19sChIJ_2WxhARJ-DkRRQRhAWreeyk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+O+Health+%7CBest+Dentist%7CBest+Implant%26Maxillofacial+Clinic%7CBardhaman%7CWest+Bengal%7CENT%7CMEDICINE/data=!4m7!3m6!1s0x39f8490484b165ff:0x297bde6a01610445!8m2!3d23.2353912!4d87.8676971!16s%2Fg%2F11wx6xtrcf!19sChIJ_2WxhARJ-DkRRQRhAWreeyk?authuser=0&hl=en&rclk=1"
@@ -9286,11 +9209,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+O+Health+%7CBest+Dentist%7CBest+Implant%26Maxillofacial+Clinic%7CBardhaman%7CWest+Bengal%7CENT%7CMEDICINE/data=!4m7!3m6!1s0x39f8490484b165ff:0x297bde6a01610445!8m2!3d23.2353912!4d87.8676971!16s%2Fg%2F11wx6xtrcf!19sChIJ_2WxhARJ-DkRRQRhAWreeyk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sr-surgical-bardhaman",
@@ -9339,7 +9261,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SR+surgical/data=!4m7!3m6!1s0x39f84922758d9b7b:0xefb1a9c8ad100833!8m2!3d23.2521357!4d87.863842!16s%2Fg%2F11sch_3jqg!19sChIJe5uNdSJJ-DkRMwgQrcipse8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SR+surgical/data=!4m7!3m6!1s0x39f84922758d9b7b:0xefb1a9c8ad100833!8m2!3d23.2521357!4d87.863842!16s%2Fg%2F11sch_3jqg!19sChIJe5uNdSJJ-DkRMwgQrcipse8?authuser=0&hl=en&rclk=1"
@@ -9408,8 +9330,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SR+surgical/data=!4m7!3m6!1s0x39f84922758d9b7b:0xefb1a9c8ad100833!8m2!3d23.2521357!4d87.863842!16s%2Fg%2F11sch_3jqg!19sChIJe5uNdSJJ-DkRMwgQrcipse8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sulav-dental-clinic-bardhaman",
@@ -9457,7 +9378,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sulav+Dental+Clinic/data=!4m7!3m6!1s0x39f849e16f28d939:0x6c40c6a6e5c9959!8m2!3d23.2289524!4d87.8688302!16s%2Fg%2F11vf8th0b6!19sChIJOdkob-FJ-DkRWZlcbmoMxAY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sulav+Dental+Clinic/data=!4m7!3m6!1s0x39f849e16f28d939:0x6c40c6a6e5c9959!8m2!3d23.2289524!4d87.8688302!16s%2Fg%2F11vf8th0b6!19sChIJOdkob-FJ-DkRWZlcbmoMxAY?authuser=0&hl=en&rclk=1"
@@ -9526,8 +9447,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sulav+Dental+Clinic/data=!4m7!3m6!1s0x39f849e16f28d939:0x6c40c6a6e5c9959!8m2!3d23.2289524!4d87.8688302!16s%2Fg%2F11vf8th0b6!19sChIJOdkob-FJ-DkRWZlcbmoMxAY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surgical-center-bardhaman",
@@ -9573,7 +9493,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surgical+Center/data=!4m7!3m6!1s0x39f849dc13a1ba97:0xc34baf73460a3d1d!8m2!3d23.2439261!4d87.8609846!16s%2Fg%2F11tms0grhp!19sChIJl7qhE9xJ-DkRHT0KRnOvS8M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surgical+Center/data=!4m7!3m6!1s0x39f849dc13a1ba97:0xc34baf73460a3d1d!8m2!3d23.2439261!4d87.8609846!16s%2Fg%2F11tms0grhp!19sChIJl7qhE9xJ-DkRHT0KRnOvS8M?authuser=0&hl=en&rclk=1"
@@ -9639,11 +9559,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surgical+Center/data=!4m7!3m6!1s0x39f849dc13a1ba97:0xc34baf73460a3d1d!8m2!3d23.2439261!4d87.8609846!16s%2Fg%2F11tms0grhp!19sChIJl7qhE9xJ-DkRHT0KRnOvS8M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swasthya-niketan-hospital-goda-p",
@@ -9692,7 +9611,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swasthya+Niketan+hospital/data=!4m7!3m6!1s0x39f83739e706a037:0x4b5bdc5c8045dd3c!8m2!3d23.2615!4d87.8422968!16s%2Fg%2F11t5z5jz4s!19sChIJN6AG5zk3-DkRPN1FgFzcW0s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swasthya+Niketan+hospital/data=!4m7!3m6!1s0x39f83739e706a037:0x4b5bdc5c8045dd3c!8m2!3d23.2615!4d87.8422968!16s%2Fg%2F11t5z5jz4s!19sChIJN6AG5zk3-DkRPN1FgFzcW0s?authuser=0&hl=en&rclk=1"
@@ -9761,8 +9680,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swasthya+Niketan+hospital/data=!4m7!3m6!1s0x39f83739e706a037:0x4b5bdc5c8045dd3c!8m2!3d23.2615!4d87.8422968!16s%2Fg%2F11t5z5jz4s!19sChIJN6AG5zk3-DkRPN1FgFzcW0s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tertiary-cancer-care-centre-burdwan-bardhaman",
@@ -9810,7 +9728,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tertiary+Cancer+Care+Centre,+Burdwan/data=!4m7!3m6!1s0x39f849d0e4649e4d:0x8425d5e0e1aae99b!8m2!3d23.2493883!4d87.8552105!16s%2Fg%2F11gxxs4c9z!19sChIJTZ5k5NBJ-DkRm-mq4eDVJYQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tertiary+Cancer+Care+Centre,+Burdwan/data=!4m7!3m6!1s0x39f849d0e4649e4d:0x8425d5e0e1aae99b!8m2!3d23.2493883!4d87.8552105!16s%2Fg%2F11gxxs4c9z!19sChIJTZ5k5NBJ-DkRm-mq4eDVJYQ?authuser=0&hl=en&rclk=1"
@@ -9879,8 +9797,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tertiary+Cancer+Care+Centre,+Burdwan/data=!4m7!3m6!1s0x39f849d0e4649e4d:0x8425d5e0e1aae99b!8m2!3d23.2493883!4d87.8552105!16s%2Fg%2F11gxxs4c9z!19sChIJTZ5k5NBJ-DkRm-mq4eDVJYQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-arogya-polyclinic-and-diagnostics-center-opp-burdwan-nursing-home-bardhaman",
@@ -9930,7 +9847,7 @@
       "Google rating 2.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Arogya+Polyclinic+%26+Diagnostics+Center+Opp+Burdwan+Nursing+Home/data=!4m7!3m6!1s0x39f84921542083df:0xf43dba115607462c!8m2!3d23.2463971!4d87.8624081!16s%2Fg%2F11p61v0qwq!19sChIJ34MgVCFJ-DkRLEYHVhG6PfQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Arogya+Polyclinic+%26+Diagnostics+Center+Opp+Burdwan+Nursing+Home/data=!4m7!3m6!1s0x39f84921542083df:0xf43dba115607462c!8m2!3d23.2463971!4d87.8624081!16s%2Fg%2F11p61v0qwq!19sChIJ34MgVCFJ-DkRLEYHVhG6PfQ?authuser=0&hl=en&rclk=1"
@@ -9999,8 +9916,7 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Arogya+Polyclinic+%26+Diagnostics+Center+Opp+Burdwan+Nursing+Home/data=!4m7!3m6!1s0x39f84921542083df:0xf43dba115607462c!8m2!3d23.2463971!4d87.8624081!16s%2Fg%2F11p61v0qwq!19sChIJ34MgVCFJ-DkRLEYHVhG6PfQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -10050,7 +9966,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
@@ -10116,11 +10032,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-remedy-clinic-and-diagnostic-bardhaman",
@@ -10169,7 +10084,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Remedy+Clinic+%26+Diagnostic/data=!4m7!3m6!1s0x39f849dc134e2101:0xeba9b58a44ced68b!8m2!3d23.2591531!4d87.8481305!16s%2Fg%2F11bxb9ncqt!19sChIJASFOE9xJ-DkRi9bORIq1qes?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Remedy+Clinic+%26+Diagnostic/data=!4m7!3m6!1s0x39f849dc134e2101:0xeba9b58a44ced68b!8m2!3d23.2591531!4d87.8481305!16s%2Fg%2F11bxb9ncqt!19sChIJASFOE9xJ-DkRi9bORIq1qes?authuser=0&hl=en&rclk=1"
@@ -10238,8 +10153,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Remedy+Clinic+%26+Diagnostic/data=!4m7!3m6!1s0x39f849dc134e2101:0xeba9b58a44ced68b!8m2!3d23.2591531!4d87.8481305!16s%2Fg%2F11bxb9ncqt!19sChIJASFOE9xJ-DkRi9bORIq1qes?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-sun-hospital-kolkata",
@@ -10287,7 +10201,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Sun+Hospital/data=!4m7!3m6!1s0x39f849e1621c7357:0x917470d0d2203785!8m2!3d23.2546627!4d87.8583922!16s%2Fg%2F11b7c2sxgg!19sChIJV3McYuFJ-DkRhTcg0tBwdJE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Sun+Hospital/data=!4m7!3m6!1s0x39f849e1621c7357:0x917470d0d2203785!8m2!3d23.2546627!4d87.8583922!16s%2Fg%2F11b7c2sxgg!19sChIJV3McYuFJ-DkRhTcg0tBwdJE?authuser=0&hl=en&rclk=1"
@@ -10356,8 +10270,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Sun+Hospital/data=!4m7!3m6!1s0x39f849e1621c7357:0x917470d0d2203785!8m2!3d23.2546627!4d87.8583922!16s%2Fg%2F11b7c2sxgg!19sChIJV3McYuFJ-DkRhTcg0tBwdJE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vision-care-nursing-home-bardhaman",
@@ -10405,7 +10318,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VISION+CARE+NURSING+HOME/data=!4m7!3m6!1s0x39f849cf4d7f1a61:0x6e27d21ea6f468e9!8m2!3d23.2391447!4d87.8610678!16s%2Fg%2F11sb01dlvv!19sChIJYRp_Tc9J-DkR6Wj0ph7SJ24?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VISION+CARE+NURSING+HOME/data=!4m7!3m6!1s0x39f849cf4d7f1a61:0x6e27d21ea6f468e9!8m2!3d23.2391447!4d87.8610678!16s%2Fg%2F11sb01dlvv!19sChIJYRp_Tc9J-DkR6Wj0ph7SJ24?authuser=0&hl=en&rclk=1"
@@ -10471,11 +10384,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VISION+CARE+NURSING+HOME/data=!4m7!3m6!1s0x39f849cf4d7f1a61:0x6e27d21ea6f468e9!8m2!3d23.2391447!4d87.8610678!16s%2Fg%2F11sb01dlvv!19sChIJYRp_Tc9J-DkR6Wj0ph7SJ24?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "westview-dental-and-oral-care-clinic-bardhaman",
@@ -10523,7 +10435,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Westview+Dental+%26+Oral+care+clinic/data=!4m7!3m6!1s0x39f849d8bf87c8bd:0x181bc8c3e2ebb02!8m2!3d23.2413588!4d87.8562701!16s%2Fg%2F11fyln2dvt!19sChIJvciHv9hJ-DkRArsuPoy8gQE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Westview+Dental+%26+Oral+care+clinic/data=!4m7!3m6!1s0x39f849d8bf87c8bd:0x181bc8c3e2ebb02!8m2!3d23.2413588!4d87.8562701!16s%2Fg%2F11fyln2dvt!19sChIJvciHv9hJ-DkRArsuPoy8gQE?authuser=0&hl=en&rclk=1"
@@ -10589,11 +10501,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Westview+Dental+%26+Oral+care+clinic/data=!4m7!3m6!1s0x39f849d8bf87c8bd:0x181bc8c3e2ebb02!8m2!3d23.2413588!4d87.8562701!16s%2Fg%2F11fyln2dvt!19sChIJvciHv9hJ-DkRArsuPoy8gQE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bardhaman",
@@ -10640,7 +10551,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A6%9A%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B0%E0%A7%8B%E0%A6%97+%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97+-+%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%AE%E0%A6%BE%E0%A6%A8+%E0%A6%B9%E0%A6%B8%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B2/data=!4m7!3m6!1s0x39f8490016575f93:0x81c6bc194857a302!8m2!3d23.2437955!4d87.8560376!16s%2Fg%2F11mcdtwy2y!19sChIJk19XFgBJ-DkRAqNXSBm8xoE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A6%9A%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B0%E0%A7%8B%E0%A6%97+%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97+-+%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%AE%E0%A6%BE%E0%A6%A8+%E0%A6%B9%E0%A6%B8%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B2/data=!4m7!3m6!1s0x39f8490016575f93:0x81c6bc194857a302!8m2!3d23.2437955!4d87.8560376!16s%2Fg%2F11mcdtwy2y!19sChIJk19XFgBJ-DkRAqNXSBm8xoE?authuser=0&hl=en&rclk=1"
@@ -10706,11 +10617,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A6%9A%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B0%E0%A7%8B%E0%A6%97+%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97+-+%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%AE%E0%A6%BE%E0%A6%A8+%E0%A6%B9%E0%A6%B8%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B2/data=!4m7!3m6!1s0x39f8490016575f93:0x81c6bc194857a302!8m2!3d23.2437955!4d87.8560376!16s%2Fg%2F11mcdtwy2y!19sChIJk19XFgBJ-DkRAqNXSBm8xoE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bardhaman",
@@ -10759,7 +10669,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A6%AC%E0%A6%BF.%E0%A6%AA%E0%A6%BE%E0%A6%B2+-+%E0%A6%AB%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%93%E0%A6%A5%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F+%E0%A6%93+%E0%A6%86%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%82%E0%A6%9A%E0%A6%BE%E0%A6%B0+%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F/data=!4m7!3m6!1s0x39f8490010d86d93:0xf760daf0a920591d!8m2!3d23.2466821!4d87.8633728!16s%2Fg%2F11m5pm30h6!19sChIJk23YEABJ-DkRHVkgqfDaYPc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A6%AC%E0%A6%BF.%E0%A6%AA%E0%A6%BE%E0%A6%B2+-+%E0%A6%AB%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%93%E0%A6%A5%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F+%E0%A6%93+%E0%A6%86%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%82%E0%A6%9A%E0%A6%BE%E0%A6%B0+%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F/data=!4m7!3m6!1s0x39f8490010d86d93:0xf760daf0a920591d!8m2!3d23.2466821!4d87.8633728!16s%2Fg%2F11m5pm30h6!19sChIJk23YEABJ-DkRHVkgqfDaYPc?authuser=0&hl=en&rclk=1"
@@ -10825,10 +10735,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A6%AC%E0%A6%BF.%E0%A6%AA%E0%A6%BE%E0%A6%B2+-+%E0%A6%AB%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%93%E0%A6%A5%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F+%E0%A6%93+%E0%A6%86%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%82%E0%A6%9A%E0%A6%BE%E0%A6%B0+%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F/data=!4m7!3m6!1s0x39f8490010d86d93:0xf760daf0a920591d!8m2!3d23.2466821!4d87.8633728!16s%2Fg%2F11m5pm30h6!19sChIJk23YEABJ-DkRHVkgqfDaYPc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

@@ -47,7 +47,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A+%26+A+Medical+Mart/data=!4m7!3m6!1s0x39f71fec65cb29c7:0xfce331c5ea7eebe5!8m2!3d23.7053527!4d86.9555102!16s%2Fg%2F11y3ykv7fv!19sChIJxynLZewf9zkR5et-6sUx4_w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+%26+A+Medical+Mart/data=!4m7!3m6!1s0x39f71fec65cb29c7:0xfce331c5ea7eebe5!8m2!3d23.7053527!4d86.9555102!16s%2Fg%2F11y3ykv7fv!19sChIJxynLZewf9zkR5et-6sUx4_w?authuser=0&hl=en&rclk=1"
@@ -116,8 +116,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A+%26+A+Medical+Mart/data=!4m7!3m6!1s0x39f71fec65cb29c7:0xfce331c5ea7eebe5!8m2!3d23.7053527!4d86.9555102!16s%2Fg%2F11y3ykv7fv!19sChIJxynLZewf9zkR5et-6sUx4_w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "a-plus-polyclinic-asansol",
@@ -166,7 +165,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A+Plus+Polyclinic/data=!4m7!3m6!1s0x39f71fe31052054d:0xa984a9ff6d138d55!8m2!3d23.6894614!4d86.9585511!16s%2Fg%2F11x0zgtrbq!19sChIJTQVSEOMf9zkRVY0Tbf-phKk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+Plus+Polyclinic/data=!4m7!3m6!1s0x39f71fe31052054d:0xa984a9ff6d138d55!8m2!3d23.6894614!4d86.9585511!16s%2Fg%2F11x0zgtrbq!19sChIJTQVSEOMf9zkRVY0Tbf-phKk?authuser=0&hl=en&rclk=1"
@@ -232,11 +231,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A+Plus+Polyclinic/data=!4m7!3m6!1s0x39f71fe31052054d:0xa984a9ff6d138d55!8m2!3d23.6894614!4d86.9585511!16s%2Fg%2F11x0zgtrbq!19sChIJTQVSEOMf9zkRVY0Tbf-phKk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aaradhya-health-hub-unit-2-asansol",
@@ -285,7 +283,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aaradhya+Health+Hub+Unit-2/data=!4m7!3m6!1s0x39f71f87b3f77cdb:0x83fddd85dbef3e73!8m2!3d23.6821678!4d86.9576721!16s%2Fg%2F11y9qnvs20!19sChIJ23z3s4cf9zkRcz7v24Xd_YM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aaradhya+Health+Hub+Unit-2/data=!4m7!3m6!1s0x39f71f87b3f77cdb:0x83fddd85dbef3e73!8m2!3d23.6821678!4d86.9576721!16s%2Fg%2F11y9qnvs20!19sChIJ23z3s4cf9zkRcz7v24Xd_YM?authuser=0&hl=en&rclk=1"
@@ -354,8 +352,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aaradhya+Health+Hub+Unit-2/data=!4m7!3m6!1s0x39f71f87b3f77cdb:0x83fddd85dbef3e73!8m2!3d23.6821678!4d86.9576721!16s%2Fg%2F11y9qnvs20!19sChIJ23z3s4cf9zkRcz7v24Xd_YM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aastha-hospital-barakar-asansol-24-kulti",
@@ -403,7 +400,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aastha+Hospital,+Barakar,+Asansol-24/data=!4m7!3m6!1s0x39f6de006440c1bd:0xe5a02872c11035bd!8m2!3d23.7333458!4d86.8229911!16s%2Fg%2F11c2pk72m5!19sChIJvcFAZADe9jkRvTUQwXIooOU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+Hospital,+Barakar,+Asansol-24/data=!4m7!3m6!1s0x39f6de006440c1bd:0xe5a02872c11035bd!8m2!3d23.7333458!4d86.8229911!16s%2Fg%2F11c2pk72m5!19sChIJvcFAZADe9jkRvTUQwXIooOU?authuser=0&hl=en&rclk=1"
@@ -469,11 +466,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aastha+Hospital,+Barakar,+Asansol-24/data=!4m7!3m6!1s0x39f6de006440c1bd:0xe5a02872c11035bd!8m2!3d23.7333458!4d86.8229911!16s%2Fg%2F11c2pk72m5!19sChIJvcFAZADe9jkRvTUQwXIooOU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "acharjee-health-clinic-and-pharmacy-asansol",
@@ -522,7 +518,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Acharjee+Health+Clinic+and+Pharmacy/data=!4m7!3m6!1s0x39f71edb0c8dd45f:0xf2eb8221e5290fda!8m2!3d23.6767734!4d86.968827!16s%2Fg%2F11c2r14gfn!19sChIJX9SNDNse9zkR2g8p5SGC6_I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Acharjee+Health+Clinic+and+Pharmacy/data=!4m7!3m6!1s0x39f71edb0c8dd45f:0xf2eb8221e5290fda!8m2!3d23.6767734!4d86.968827!16s%2Fg%2F11c2r14gfn!19sChIJX9SNDNse9zkR2g8p5SGC6_I?authuser=0&hl=en&rclk=1"
@@ -591,8 +587,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Acharjee+Health+Clinic+and+Pharmacy/data=!4m7!3m6!1s0x39f71edb0c8dd45f:0xf2eb8221e5290fda!8m2!3d23.6767734!4d86.968827!16s%2Fg%2F11c2r14gfn!19sChIJX9SNDNse9zkR2g8p5SGC6_I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akruti-aesthetics-and-plastic-surgery-clinic-durgapur",
@@ -642,7 +637,7 @@
       "56+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akruti+Aesthetics+%26+Plastic+Surgery+Clinic/data=!4m7!3m6!1s0x39f77116f0d41349:0x8366b28f98d88376!8m2!3d23.5445891!4d87.3022692!16s%2Fg%2F11rvdn1fkl!19sChIJSRPU8BZx9zkRdoPYmI-yZoM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akruti+Aesthetics+%26+Plastic+Surgery+Clinic/data=!4m7!3m6!1s0x39f77116f0d41349:0x8366b28f98d88376!8m2!3d23.5445891!4d87.3022692!16s%2Fg%2F11rvdn1fkl!19sChIJSRPU8BZx9zkRdoPYmI-yZoM?authuser=0&hl=en&rclk=1"
@@ -708,11 +703,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 56,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akruti+Aesthetics+%26+Plastic+Surgery+Clinic/data=!4m7!3m6!1s0x39f77116f0d41349:0x8366b28f98d88376!8m2!3d23.5445891!4d87.3022692!16s%2Fg%2F11rvdn1fkl!19sChIJSRPU8BZx9zkRdoPYmI-yZoM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-hospitals-chennai-information-centre-asansol-asansol",
@@ -762,7 +756,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+Chennai+Information+Centre+Asansol/data=!4m7!3m6!1s0x39f71f017d6f59db:0x7514e7fd5081639e!8m2!3d23.6889369!4d86.9468774!16s%2Fg%2F11c2jsg7pc!19sChIJ21lvfQEf9zkRnmOBUP3nFHU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospitals+Chennai+Information+Centre+Asansol/data=!4m7!3m6!1s0x39f71f017d6f59db:0x7514e7fd5081639e!8m2!3d23.6889369!4d86.9468774!16s%2Fg%2F11c2jsg7pc!19sChIJ21lvfQEf9zkRnmOBUP3nFHU?authuser=0&hl=en&rclk=1"
@@ -831,8 +825,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Hospitals+Chennai+Information+Centre+Asansol/data=!4m7!3m6!1s0x39f71f017d6f59db:0x7514e7fd5081639e!8m2!3d23.6889369!4d86.9468774!16s%2Fg%2F11c2jsg7pc!19sChIJ21lvfQEf9zkRnmOBUP3nFHU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-proton-therapy-in-asansol-asansol",
@@ -881,7 +874,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Asansol/data=!4m7!3m6!1s0x39f71faed110bded:0xfe216fd4d4923c56!8m2!3d23.6844!4d86.9535!16s%2Fg%2F11xtw_s26n!19sChIJ7b0Q0a4f9zkRVjyS1NRvIf4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Asansol/data=!4m7!3m6!1s0x39f71faed110bded:0xfe216fd4d4923c56!8m2!3d23.6844!4d86.9535!16s%2Fg%2F11xtw_s26n!19sChIJ7b0Q0a4f9zkRVjyS1NRvIf4?authuser=0&hl=en&rclk=1"
@@ -947,11 +940,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Asansol/data=!4m7!3m6!1s0x39f71faed110bded:0xfe216fd4d4923c56!8m2!3d23.6844!4d86.9535!16s%2Fg%2F11xtw_s26n!19sChIJ7b0Q0a4f9zkRVjyS1NRvIf4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asansol-dental-and-maxillofacial-clinic-best-dental-clinic-asansol",
@@ -1001,7 +993,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asansol+Dental+%26+Maxillofacial+Clinic+-+Best+Dental+Clinic/data=!4m7!3m6!1s0x39f71f05213e1be1:0x49e6c2b59c9ce438!8m2!3d23.6945862!4d86.9514793!16s%2Fg%2F1q69y5fh2!19sChIJ4Rs-IQUf9zkROOScnLXC5kk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asansol+Dental+%26+Maxillofacial+Clinic+-+Best+Dental+Clinic/data=!4m7!3m6!1s0x39f71f05213e1be1:0x49e6c2b59c9ce438!8m2!3d23.6945862!4d86.9514793!16s%2Fg%2F1q69y5fh2!19sChIJ4Rs-IQUf9zkROOScnLXC5kk?authuser=0&hl=en&rclk=1"
@@ -1070,8 +1062,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asansol+Dental+%26+Maxillofacial+Clinic+-+Best+Dental+Clinic/data=!4m7!3m6!1s0x39f71f05213e1be1:0x49e6c2b59c9ce438!8m2!3d23.6945862!4d86.9514793!16s%2Fg%2F1q69y5fh2!19sChIJ4Rs-IQUf9zkROOScnLXC5kk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asansol-district-hospital-asansol",
@@ -1120,7 +1111,7 @@
       "Google rating 3.5",
       "13+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asansol+District+Hospital/data=!4m7!3m6!1s0x39f71f1d4fdbe3f7:0x42aba748c729a802!8m2!3d23.6762026!4d86.9737198!16s%2Fg%2F1wc46d9v!19sChIJ9-PbTx0f9zkRAqgpx0inq0I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asansol+District+Hospital/data=!4m7!3m6!1s0x39f71f1d4fdbe3f7:0x42aba748c729a802!8m2!3d23.6762026!4d86.9737198!16s%2Fg%2F1wc46d9v!19sChIJ9-PbTx0f9zkRAqgpx0inq0I?authuser=0&hl=en&rclk=1"
@@ -1189,8 +1180,7 @@
     "rating": 3.5,
     "reviews": 13,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asansol+District+Hospital/data=!4m7!3m6!1s0x39f71f1d4fdbe3f7:0x42aba748c729a802!8m2!3d23.6762026!4d86.9737198!16s%2Fg%2F1wc46d9v!19sChIJ9-PbTx0f9zkRAqgpx0inq0I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asansol-medical-centre-pvt-limited-asansol",
@@ -1238,7 +1228,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asansol+Medical+Centre+Pvt+limited/data=!4m7!3m6!1s0x39f71f1e948c47a9:0xc21356f8a08cb930!8m2!3d23.690118!4d86.9584207!16s%2Fg%2F1hjgw3wzx!19sChIJqUeMlB4f9zkRMLmMoPhWE8I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asansol+Medical+Centre+Pvt+limited/data=!4m7!3m6!1s0x39f71f1e948c47a9:0xc21356f8a08cb930!8m2!3d23.690118!4d86.9584207!16s%2Fg%2F1hjgw3wzx!19sChIJqUeMlB4f9zkRMLmMoPhWE8I?authuser=0&hl=en&rclk=1"
@@ -1307,8 +1297,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asansol+Medical+Centre+Pvt+limited/data=!4m7!3m6!1s0x39f71f1e948c47a9:0xc21356f8a08cb930!8m2!3d23.690118!4d86.9584207!16s%2Fg%2F1hjgw3wzx!19sChIJqUeMlB4f9zkRMLmMoPhWE8I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asansol-west-end-clinic-and-nursing-home-p-ltd-asansol",
@@ -1357,7 +1346,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asansol+West+End+Clinic+%26+Nursing+Home+%28P%29+Ltd/data=!4m7!3m6!1s0x39f71f28112dc85f:0xe16029be82b288e8!8m2!3d23.6943714!4d86.9436971!16s%2Fg%2F1tdhk7j1!19sChIJX8gtESgf9zkR6Iiygr4pYOE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asansol+West+End+Clinic+%26+Nursing+Home+%28P%29+Ltd/data=!4m7!3m6!1s0x39f71f28112dc85f:0xe16029be82b288e8!8m2!3d23.6943714!4d86.9436971!16s%2Fg%2F1tdhk7j1!19sChIJX8gtESgf9zkR6Iiygr4pYOE?authuser=0&hl=en&rclk=1"
@@ -1426,8 +1415,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asansol+West+End+Clinic+%26+Nursing+Home+%28P%29+Ltd/data=!4m7!3m6!1s0x39f71f28112dc85f:0xe16029be82b288e8!8m2!3d23.6943714!4d86.9436971!16s%2Fg%2F1tdhk7j1!19sChIJX8gtESgf9zkR6Iiygr4pYOE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "avishkar-women-and-children-hospital-asansol",
@@ -1477,7 +1465,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Avishkar+Women+%26+Children+Hospital/data=!4m7!3m6!1s0x39f71fc9f61024c5:0x142149e3af0dbf7c!8m2!3d23.6820603!4d86.9875795!16s%2Fg%2F11xdtjlky9!19sChIJxSQQ9skf9zkRfL8Nr-NJIRQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avishkar+Women+%26+Children+Hospital/data=!4m7!3m6!1s0x39f71fc9f61024c5:0x142149e3af0dbf7c!8m2!3d23.6820603!4d86.9875795!16s%2Fg%2F11xdtjlky9!19sChIJxSQQ9skf9zkRfL8Nr-NJIRQ?authuser=0&hl=en&rclk=1"
@@ -1546,8 +1534,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Avishkar+Women+%26+Children+Hospital/data=!4m7!3m6!1s0x39f71fc9f61024c5:0x142149e3af0dbf7c!8m2!3d23.6820603!4d86.9875795!16s%2Fg%2F11xdtjlky9!19sChIJxSQQ9skf9zkRfL8Nr-NJIRQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bless-hospital-asansol",
@@ -1597,7 +1584,7 @@
       "132+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BLESS+HOSPITAL/data=!4m7!3m6!1s0x39f71fa1f430976f:0xf4043fde6ed0cdba!8m2!3d23.7105061!4d86.9620429!16s%2Fg%2F11t7fbvqzk!19sChIJb5cw9KEf9zkRus3Qbt4_BPQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BLESS+HOSPITAL/data=!4m7!3m6!1s0x39f71fa1f430976f:0xf4043fde6ed0cdba!8m2!3d23.7105061!4d86.9620429!16s%2Fg%2F11t7fbvqzk!19sChIJb5cw9KEf9zkRus3Qbt4_BPQ?authuser=0&hl=en&rclk=1"
@@ -1666,8 +1653,7 @@
     "rating": 4.2,
     "reviews": 132,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BLESS+HOSPITAL/data=!4m7!3m6!1s0x39f71fa1f430976f:0xf4043fde6ed0cdba!8m2!3d23.7105061!4d86.9620429!16s%2Fg%2F11t7fbvqzk!19sChIJb5cw9KEf9zkRus3Qbt4_BPQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "central-hospital-asansol",
@@ -1715,7 +1701,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Central+Hospital/data=!4m7!3m6!1s0x39f71f28112dc85f:0x90e227a75ad11e6e!8m2!3d23.6831097!4d86.9649077!16s%2Fg%2F1vvdsmkf!19sChIJX8gtESgf9zkRbh7RWqcn4pA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Central+Hospital/data=!4m7!3m6!1s0x39f71f28112dc85f:0x90e227a75ad11e6e!8m2!3d23.6831097!4d86.9649077!16s%2Fg%2F1vvdsmkf!19sChIJX8gtESgf9zkRbh7RWqcn4pA?authuser=0&hl=en&rclk=1"
@@ -1784,8 +1770,7 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Central+Hospital/data=!4m7!3m6!1s0x39f71f28112dc85f:0x90e227a75ad11e6e!8m2!3d23.6831097!4d86.9649077!16s%2Fg%2F1vvdsmkf!19sChIJX8gtESgf9zkRbh7RWqcn4pA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "central-nursing-home-asansol",
@@ -1834,7 +1819,7 @@
       "Google rating 3.9",
       "37+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Central+Nursing+Home/data=!4m7!3m6!1s0x39f71f1b19ce2b5f:0x52a2f0461415c09b!8m2!3d23.6940466!4d86.9538018!16s%2Fg%2F11g6tsjf_0!19sChIJXyvOGRsf9zkRm8AVFEbwolI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Central+Nursing+Home/data=!4m7!3m6!1s0x39f71f1b19ce2b5f:0x52a2f0461415c09b!8m2!3d23.6940466!4d86.9538018!16s%2Fg%2F11g6tsjf_0!19sChIJXyvOGRsf9zkRm8AVFEbwolI?authuser=0&hl=en&rclk=1"
@@ -1903,8 +1888,7 @@
     "rating": 3.9,
     "reviews": 37,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Central+Nursing+Home/data=!4m7!3m6!1s0x39f71f1b19ce2b5f:0x52a2f0461415c09b!8m2!3d23.6940466!4d86.9538018!16s%2Fg%2F11g6tsjf_0!19sChIJXyvOGRsf9zkRm8AVFEbwolI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chinese-dental-hall-asansol",
@@ -1952,7 +1936,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chinese+Dental+Hall/@23.686881,86.9702213,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fead868da3f:0x294bf71bf5de45b8!8m2!3d23.686881!4d86.9702213!16s%2Fg%2F11fn031ln0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chinese+Dental+Hall/@23.686881,86.9702213,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fead868da3f:0x294bf71bf5de45b8!8m2!3d23.686881!4d86.9702213!16s%2Fg%2F11fn031ln0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -2021,8 +2005,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chinese+Dental+Hall/@23.686881,86.9702213,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fead868da3f:0x294bf71bf5de45b8!8m2!3d23.686881!4d86.9702213!16s%2Fg%2F11fn031ln0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmedix-aesthetic-clinic-asansol",
@@ -2071,7 +2054,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cosmedix+Aesthetic+clinic/data=!4m7!3m6!1s0x39f71f4cf92bf721:0x5a24ff7d0724d4ca!8m2!3d23.6821094!4d86.9875541!16s%2Fg%2F11tsgv_bp5!19sChIJIfcr-Uwf9zkRytQkB33_JFo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmedix+Aesthetic+clinic/data=!4m7!3m6!1s0x39f71f4cf92bf721:0x5a24ff7d0724d4ca!8m2!3d23.6821094!4d86.9875541!16s%2Fg%2F11tsgv_bp5!19sChIJIfcr-Uwf9zkRytQkB33_JFo?authuser=0&hl=en&rclk=1"
@@ -2140,8 +2123,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cosmedix+Aesthetic+clinic/data=!4m7!3m6!1s0x39f71f4cf92bf721:0x5a24ff7d0724d4ca!8m2!3d23.6821094!4d86.9875541!16s%2Fg%2F11tsgv_bp5!19sChIJIfcr-Uwf9zkRytQkB33_JFo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dantyam-arogya-caring-for-your-smile-asansol",
@@ -2189,7 +2171,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dantyam+Arogya+-+Caring+For+Your+Smile/data=!4m7!3m6!1s0x39f719adda31bf21:0x6313393d511095a1!8m2!3d23.6715039!4d86.9856788!16s%2Fg%2F11m76z1x4m!19sChIJIb8x2q0Z9zkRoZUQUT05E2M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dantyam+Arogya+-+Caring+For+Your+Smile/data=!4m7!3m6!1s0x39f719adda31bf21:0x6313393d511095a1!8m2!3d23.6715039!4d86.9856788!16s%2Fg%2F11m76z1x4m!19sChIJIb8x2q0Z9zkRoZUQUT05E2M?authuser=0&hl=en&rclk=1"
@@ -2258,8 +2240,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dantyam+Arogya+-+Caring+For+Your+Smile/data=!4m7!3m6!1s0x39f719adda31bf21:0x6313393d511095a1!8m2!3d23.6715039!4d86.9856788!16s%2Fg%2F11m76z1x4m!19sChIJIb8x2q0Z9zkRoZUQUT05E2M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "denta-care-dental-clinic-asansol",
@@ -2307,7 +2288,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Denta.Care+Dental+Clinic/data=!4m7!3m6!1s0x39f71fbbaaaaaaab:0x850d9200ef49de64!8m2!3d23.7011903!4d86.9303935!16s%2Fg%2F11bvv053rk!19sChIJq6qqqrsf9zkRZN5J7wCSDYU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Denta.Care+Dental+Clinic/data=!4m7!3m6!1s0x39f71fbbaaaaaaab:0x850d9200ef49de64!8m2!3d23.7011903!4d86.9303935!16s%2Fg%2F11bvv053rk!19sChIJq6qqqrsf9zkRZN5J7wCSDYU?authuser=0&hl=en&rclk=1"
@@ -2376,8 +2357,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Denta.Care+Dental+Clinic/data=!4m7!3m6!1s0x39f71fbbaaaaaaab:0x850d9200ef49de64!8m2!3d23.7011903!4d86.9303935!16s%2Fg%2F11bvv053rk!19sChIJq6qqqrsf9zkRZN5J7wCSDYU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-care-and-cure-asansol",
@@ -2425,7 +2405,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+care+and+cure/data=!4m7!3m6!1s0x39f71f92baed28ef:0x883cc43a39572b14!8m2!3d23.6860371!4d86.953677!16s%2Fg%2F11rcr9491w!19sChIJ7yjtupIf9zkRFCtXOTrEPIg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+care+and+cure/data=!4m7!3m6!1s0x39f71f92baed28ef:0x883cc43a39572b14!8m2!3d23.6860371!4d86.953677!16s%2Fg%2F11rcr9491w!19sChIJ7yjtupIf9zkRFCtXOTrEPIg?authuser=0&hl=en&rclk=1"
@@ -2494,8 +2474,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+care+and+cure/data=!4m7!3m6!1s0x39f71f92baed28ef:0x883cc43a39572b14!8m2!3d23.6860371!4d86.953677!16s%2Fg%2F11rcr9491w!19sChIJ7yjtupIf9zkRFCtXOTrEPIg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentspa-dental-clinic-asansol",
@@ -2545,7 +2524,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DENTSPA+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f71f1358c1553b:0x695bcc620547485e!8m2!3d23.6965224!4d86.9413142!16s%2Fg%2F11rdnyh4qb!19sChIJO1XBWBMf9zkRXkhHBWLMW2k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTSPA+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f71f1358c1553b:0x695bcc620547485e!8m2!3d23.6965224!4d86.9413142!16s%2Fg%2F11rdnyh4qb!19sChIJO1XBWBMf9zkRXkhHBWLMW2k?authuser=0&hl=en&rclk=1"
@@ -2614,8 +2593,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DENTSPA+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f71f1358c1553b:0x695bcc620547485e!8m2!3d23.6965224!4d86.9413142!16s%2Fg%2F11rdnyh4qb!19sChIJO1XBWBMf9zkRXkhHBWLMW2k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "desai-kidney-care-centre-asansol",
@@ -2664,7 +2642,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Desai+Kidney+Care+Centre/data=!4m7!3m6!1s0x39f71f28112dc85f:0xbb80146cfec0e2b!8m2!3d23.6872163!4d86.9733219!16s%2Fg%2F1tj29dz8!19sChIJX8gtESgf9zkRKw7sz0YBuAs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Desai+Kidney+Care+Centre/data=!4m7!3m6!1s0x39f71f28112dc85f:0xbb80146cfec0e2b!8m2!3d23.6872163!4d86.9733219!16s%2Fg%2F1tj29dz8!19sChIJX8gtESgf9zkRKw7sz0YBuAs?authuser=0&hl=en&rclk=1"
@@ -2733,8 +2711,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Desai+Kidney+Care+Centre/data=!4m7!3m6!1s0x39f71f28112dc85f:0xbb80146cfec0e2b!8m2!3d23.6872163!4d86.9733219!16s%2Fg%2F1tj29dz8!19sChIJX8gtESgf9zkRKw7sz0YBuAs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dr-ghazan-s-expert-dental-care-asansol",
@@ -2782,7 +2759,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/dr_ghazan%27s+EXPERT+DENTAL+CARE/data=!4m7!3m6!1s0x39f71f869d433061:0xd6b23a876da0a2c0!8m2!3d23.6963917!4d86.9715938!16s%2Fg%2F11v0121bj1!19sChIJYTBDnYYf9zkRwKKgbYc6stY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/dr_ghazan%27s+EXPERT+DENTAL+CARE/data=!4m7!3m6!1s0x39f71f869d433061:0xd6b23a876da0a2c0!8m2!3d23.6963917!4d86.9715938!16s%2Fg%2F11v0121bj1!19sChIJYTBDnYYf9zkRwKKgbYc6stY?authuser=0&hl=en&rclk=1"
@@ -2848,11 +2825,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/dr_ghazan%27s+EXPERT+DENTAL+CARE/data=!4m7!3m6!1s0x39f71f869d433061:0xd6b23a876da0a2c0!8m2!3d23.6963917!4d86.9715938!16s%2Fg%2F11v0121bj1!19sChIJYTBDnYYf9zkRwKKgbYc6stY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "eveland-nursing-home-asansol",
@@ -2901,7 +2877,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Eveland+Nursing+Home/data=!4m7!3m6!1s0x39f71f0534b67417:0xb858f00b663cd023!8m2!3d23.6961859!4d86.9526722!16s%2Fg%2F1hm36df6h!19sChIJF3S2NAUf9zkRI9A8ZgvwWLg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eveland+Nursing+Home/data=!4m7!3m6!1s0x39f71f0534b67417:0xb858f00b663cd023!8m2!3d23.6961859!4d86.9526722!16s%2Fg%2F1hm36df6h!19sChIJF3S2NAUf9zkRI9A8ZgvwWLg?authuser=0&hl=en&rclk=1"
@@ -2970,8 +2946,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Eveland+Nursing+Home/data=!4m7!3m6!1s0x39f71f0534b67417:0xb858f00b663cd023!8m2!3d23.6961859!4d86.9526722!16s%2Fg%2F1hm36df6h!19sChIJF3S2NAUf9zkRI9A8ZgvwWLg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "goodlife-medical-asansol",
@@ -3020,7 +2995,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Goodlife+Medical/data=!4m7!3m6!1s0x39f719b655e12847:0xf82596e5b0782b2c!8m2!3d23.6744916!4d86.9792597!16s%2Fg%2F11wy1r93tz!19sChIJRyjhVbYZ9zkRLCt4sOWWJfg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goodlife+Medical/data=!4m7!3m6!1s0x39f719b655e12847:0xf82596e5b0782b2c!8m2!3d23.6744916!4d86.9792597!16s%2Fg%2F11wy1r93tz!19sChIJRyjhVbYZ9zkRLCt4sOWWJfg?authuser=0&hl=en&rclk=1"
@@ -3086,11 +3061,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Goodlife+Medical/data=!4m7!3m6!1s0x39f719b655e12847:0xf82596e5b0782b2c!8m2!3d23.6744916!4d86.9792597!16s%2Fg%2F11wy1r93tz!19sChIJRyjhVbYZ9zkRLCt4sOWWJfg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "guru-gopiram-hospital-miliakhola",
@@ -3139,7 +3113,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Guru+Gopiram+Hospital/data=!4m7!3m6!1s0x39f6df4519b5ce31:0xcf8326539e9a1b5c!8m2!3d23.7343625!4d86.8974219!16s%2Fg%2F11js7cwh60!19sChIJMc61GUXf9jkRXBuanlMmg88?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Guru+Gopiram+Hospital/data=!4m7!3m6!1s0x39f6df4519b5ce31:0xcf8326539e9a1b5c!8m2!3d23.7343625!4d86.8974219!16s%2Fg%2F11js7cwh60!19sChIJMc61GUXf9jkRXBuanlMmg88?authuser=0&hl=en&rclk=1"
@@ -3208,8 +3182,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Guru+Gopiram+Hospital/data=!4m7!3m6!1s0x39f6df4519b5ce31:0xcf8326539e9a1b5c!8m2!3d23.7343625!4d86.8974219!16s%2Fg%2F11js7cwh60!19sChIJMc61GUXf9jkRXBuanlMmg88?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healthworld-clinic-asansol-asansol",
@@ -3258,7 +3231,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Healthworld+Clinic+Asansol/data=!4m7!3m6!1s0x39f71fe3f9c5fdfd:0x242d5a6c96c0d0bd!8m2!3d23.6925149!4d86.9488849!16s%2Fg%2F11f8_twq96!19sChIJ_f3F-eMf9zkRvdDAlmxaLSQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthworld+Clinic+Asansol/data=!4m7!3m6!1s0x39f71fe3f9c5fdfd:0x242d5a6c96c0d0bd!8m2!3d23.6925149!4d86.9488849!16s%2Fg%2F11f8_twq96!19sChIJ_f3F-eMf9zkRvdDAlmxaLSQ?authuser=0&hl=en&rclk=1"
@@ -3327,8 +3300,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Healthworld+Clinic+Asansol/data=!4m7!3m6!1s0x39f71fe3f9c5fdfd:0x242d5a6c96c0d0bd!8m2!3d23.6925149!4d86.9488849!16s%2Fg%2F11f8_twq96!19sChIJ_f3F-eMf9zkRvdDAlmxaLSQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healthworld-hospitals-asansol-asansol",
@@ -3377,7 +3349,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Healthworld+Hospitals,+Asansol/data=!4m7!3m6!1s0x39f71f004859b96d:0xa27f74873343a71e!8m2!3d23.7042344!4d86.9480834!16s%2Fg%2F11vwhnq2b9!19sChIJbblZSAAf9zkRHqdDM4d0f6I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthworld+Hospitals,+Asansol/data=!4m7!3m6!1s0x39f71f004859b96d:0xa27f74873343a71e!8m2!3d23.7042344!4d86.9480834!16s%2Fg%2F11vwhnq2b9!19sChIJbblZSAAf9zkRHqdDM4d0f6I?authuser=0&hl=en&rclk=1"
@@ -3443,11 +3415,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Healthworld+Hospitals,+Asansol/data=!4m7!3m6!1s0x39f71f004859b96d:0xa27f74873343a71e!8m2!3d23.7042344!4d86.9480834!16s%2Fg%2F11vwhnq2b9!19sChIJbblZSAAf9zkRHqdDM4d0f6I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hill-view-hospital-asansol",
@@ -3496,7 +3467,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hill+View+Hospital/data=!4m7!3m6!1s0x39f71ee25ce85a03:0xd17ac819caf8797!8m2!3d23.6847674!4d86.954586!16s%2Fg%2F1hm4cylq8!19sChIJA1roXOIe9zkRl4evnIGsFw0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hill+View+Hospital/data=!4m7!3m6!1s0x39f71ee25ce85a03:0xd17ac819caf8797!8m2!3d23.6847674!4d86.954586!16s%2Fg%2F1hm4cylq8!19sChIJA1roXOIe9zkRl4evnIGsFw0?authuser=0&hl=en&rclk=1"
@@ -3565,8 +3536,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hill+View+Hospital/data=!4m7!3m6!1s0x39f71ee25ce85a03:0xd17ac819caf8797!8m2!3d23.6847674!4d86.954586!16s%2Fg%2F1hm4cylq8!19sChIJA1roXOIe9zkRl4evnIGsFw0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hlg-memorial-hospital-asansol",
@@ -3615,7 +3585,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HLG+Memorial+Hospital/data=!4m7!3m6!1s0x39f71f120ff3549d:0xd6a4686d83b9782b!8m2!3d23.7046736!4d86.9534463!16s%2Fg%2F1hd_6dg4c!19sChIJnVTzDxIf9zkRK3i5g21opNY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HLG+Memorial+Hospital/data=!4m7!3m6!1s0x39f71f120ff3549d:0xd6a4686d83b9782b!8m2!3d23.7046736!4d86.9534463!16s%2Fg%2F1hd_6dg4c!19sChIJnVTzDxIf9zkRK3i5g21opNY?authuser=0&hl=en&rclk=1"
@@ -3684,8 +3654,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HLG+Memorial+Hospital/data=!4m7!3m6!1s0x39f71f120ff3549d:0xd6a4686d83b9782b!8m2!3d23.7046736!4d86.9534463!16s%2Fg%2F1hd_6dg4c!19sChIJnVTzDxIf9zkRK3i5g21opNY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ig-diagnostic-centre-asansol",
@@ -3735,7 +3704,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ig+diagnostic+centre/data=!4m7!3m6!1s0x39f71fc913fa6dcf:0x802ae8c66b669292!8m2!3d23.6951291!4d86.9476103!16s%2Fg%2F11lyg6k2y_!19sChIJz236E8kf9zkRkpJma8boKoA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ig+diagnostic+centre/data=!4m7!3m6!1s0x39f71fc913fa6dcf:0x802ae8c66b669292!8m2!3d23.6951291!4d86.9476103!16s%2Fg%2F11lyg6k2y_!19sChIJz236E8kf9zkRkpJma8boKoA?authuser=0&hl=en&rclk=1"
@@ -3801,11 +3770,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ig+diagnostic+centre/data=!4m7!3m6!1s0x39f71fc913fa6dcf:0x802ae8c66b669292!8m2!3d23.6951291!4d86.9476103!16s%2Fg%2F11lyg6k2y_!19sChIJz236E8kf9zkRkpJma8boKoA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "india-renal-care-asansol",
@@ -3857,7 +3825,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/India+Renal+Care/data=!4m7!3m6!1s0x39f71f69ba953977:0x43838a0f294ac9fd!8m2!3d23.6975402!4d86.9537121!16s%2Fg%2F11sqclh59w!19sChIJdzmVumkf9zkR_clKKQ-Kg0M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/India+Renal+Care/data=!4m7!3m6!1s0x39f71f69ba953977:0x43838a0f294ac9fd!8m2!3d23.6975402!4d86.9537121!16s%2Fg%2F11sqclh59w!19sChIJdzmVumkf9zkR_clKKQ-Kg0M?authuser=0&hl=en&rclk=1"
@@ -3923,11 +3891,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/India+Renal+Care/data=!4m7!3m6!1s0x39f71f69ba953977:0x43838a0f294ac9fd!8m2!3d23.6975402!4d86.9537121!16s%2Fg%2F11sqclh59w!19sChIJdzmVumkf9zkR_clKKQ-Kg0M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indian-institute-of-liver-and-digestive-sciences-kolkata",
@@ -3979,7 +3946,7 @@
       "29+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/data=!4m7!3m6!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r!19sChIJ77X66JByAjoRMD8iLlFtvNA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/data=!4m7!3m6!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r!19sChIJ77X66JByAjoRMD8iLlFtvNA?authuser=0&hl=en&rclk=1"
@@ -4048,8 +4015,7 @@
     "rating": 3.8,
     "reviews": 29,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/data=!4m7!3m6!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r!19sChIJ77X66JByAjoRMD8iLlFtvNA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-asansol-best-ivf-centre-asansol",
@@ -4099,7 +4065,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Asansol+-+Best+IVF+Centre/data=!4m7!3m6!1s0x39f71925efdbedc9:0x239797d3bc37a3bc!8m2!3d23.6798248!4d86.9931161!16s%2Fg%2F11f4ppq9r3!19sChIJye3b7yUZ9zkRvKM3vNOXlyM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Asansol+-+Best+IVF+Centre/data=!4m7!3m6!1s0x39f71925efdbedc9:0x239797d3bc37a3bc!8m2!3d23.6798248!4d86.9931161!16s%2Fg%2F11f4ppq9r3!19sChIJye3b7yUZ9zkRvKM3vNOXlyM?authuser=0&hl=en&rclk=1"
@@ -4168,8 +4134,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Asansol+-+Best+IVF+Centre/data=!4m7!3m6!1s0x39f71925efdbedc9:0x239797d3bc37a3bc!8m2!3d23.6798248!4d86.9931161!16s%2Fg%2F11f4ppq9r3!19sChIJye3b7yUZ9zkRvKM3vNOXlyM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ira-women-s-clinic-rabindra-nagar-asansol",
@@ -4219,7 +4184,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ira+women%27s+clinic,+Rabindra+nagar/data=!4m7!3m6!1s0x39f71fbec2ebc9f5:0x4c39329652317d50!8m2!3d23.6889566!4d86.9427577!16s%2Fg%2F11y__2wxqz!19sChIJ9cnrwr4f9zkRUH0xUpYyOUw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ira+women%27s+clinic,+Rabindra+nagar/data=!4m7!3m6!1s0x39f71fbec2ebc9f5:0x4c39329652317d50!8m2!3d23.6889566!4d86.9427577!16s%2Fg%2F11y__2wxqz!19sChIJ9cnrwr4f9zkRUH0xUpYyOUw?authuser=0&hl=en&rclk=1"
@@ -4285,11 +4250,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ira+women%27s+clinic,+Rabindra+nagar/data=!4m7!3m6!1s0x39f71fbec2ebc9f5:0x4c39329652317d50!8m2!3d23.6889566!4d86.9427577!16s%2Fg%2F11y__2wxqz!19sChIJ9cnrwr4f9zkRUH0xUpYyOUw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jiva-ayurveda-clinic-murgasol-bardhaman-asansol",
@@ -4338,7 +4302,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Murgasol,+Bardhaman/data=!4m7!3m6!1s0x39f71928cc10d50d:0x7fa4ecd9f9d7194a!8m2!3d23.6810027!4d86.9910002!16s%2Fg%2F11f5dfx3mw!19sChIJDdUQzCgZ9zkRShnX-dnspH8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Murgasol,+Bardhaman/data=!4m7!3m6!1s0x39f71928cc10d50d:0x7fa4ecd9f9d7194a!8m2!3d23.6810027!4d86.9910002!16s%2Fg%2F11f5dfx3mw!19sChIJDdUQzCgZ9zkRShnX-dnspH8?authuser=0&hl=en&rclk=1"
@@ -4407,8 +4371,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Murgasol,+Bardhaman/data=!4m7!3m6!1s0x39f71928cc10d50d:0x7fa4ecd9f9d7194a!8m2!3d23.6810027!4d86.9910002!16s%2Fg%2F11f5dfx3mw!19sChIJDdUQzCgZ9zkRShnX-dnspH8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kajal-medical-hall-asansol",
@@ -4457,7 +4420,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kajal+Medical+Hall/data=!4m7!3m6!1s0x39f71ed0fdc3a0dd:0x5639e6d9fe1dbda8!8m2!3d23.6777183!4d86.9748126!16s%2Fg%2F11c5hxvbfr!19sChIJ3aDD_dAe9zkRqL0d_tnmOVY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kajal+Medical+Hall/data=!4m7!3m6!1s0x39f71ed0fdc3a0dd:0x5639e6d9fe1dbda8!8m2!3d23.6777183!4d86.9748126!16s%2Fg%2F11c5hxvbfr!19sChIJ3aDD_dAe9zkRqL0d_tnmOVY?authuser=0&hl=en&rclk=1"
@@ -4526,8 +4489,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kajal+Medical+Hall/data=!4m7!3m6!1s0x39f71ed0fdc3a0dd:0x5639e6d9fe1dbda8!8m2!3d23.6777183!4d86.9748126!16s%2Fg%2F11c5hxvbfr!19sChIJ3aDD_dAe9zkRqL0d_tnmOVY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kamala-nursing-home-best-maternity-hospital-in-kulti-asansol-kulti",
@@ -4576,7 +4538,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kamala+Nursing+Home+-+Best+Maternity+Hospital+in+Kulti+Asansol/data=!4m7!3m6!1s0x39f6e08350e65181:0xc151b82ea15ed97d!8m2!3d23.7260226!4d86.8527299!16s%2Fg%2F11c2pnn71w!19sChIJgVHmUIPg9jkRfdleoS64UcE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamala+Nursing+Home+-+Best+Maternity+Hospital+in+Kulti+Asansol/data=!4m7!3m6!1s0x39f6e08350e65181:0xc151b82ea15ed97d!8m2!3d23.7260226!4d86.8527299!16s%2Fg%2F11c2pnn71w!19sChIJgVHmUIPg9jkRfdleoS64UcE?authuser=0&hl=en&rclk=1"
@@ -4645,8 +4607,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kamala+Nursing+Home+-+Best+Maternity+Hospital+in+Kulti+Asansol/data=!4m7!3m6!1s0x39f6e08350e65181:0xc151b82ea15ed97d!8m2!3d23.7260226!4d86.8527299!16s%2Fg%2F11c2pnn71w!19sChIJgVHmUIPg9jkRfdleoS64UcE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "l-m-hospital-asansol",
@@ -4696,7 +4657,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/L.M.+Hospital/data=!4m7!3m6!1s0x39f71ed476fbe82f:0xb307f22a6861f59d!8m2!3d23.6806236!4d86.9791205!16s%2Fg%2F11f540lmkt!19sChIJL-j7dtQe9zkRnfVhaCryB7M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/L.M.+Hospital/data=!4m7!3m6!1s0x39f71ed476fbe82f:0xb307f22a6861f59d!8m2!3d23.6806236!4d86.9791205!16s%2Fg%2F11f540lmkt!19sChIJL-j7dtQe9zkRnfVhaCryB7M?authuser=0&hl=en&rclk=1"
@@ -4762,11 +4723,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/L.M.+Hospital/data=!4m7!3m6!1s0x39f71ed476fbe82f:0xb307f22a6861f59d!8m2!3d23.6806236!4d86.9791205!16s%2Fg%2F11f540lmkt!19sChIJL-j7dtQe9zkRnfVhaCryB7M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-line-hospital-more-asansol",
@@ -4812,7 +4772,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+Line+hospital+more/data=!4m7!3m6!1s0x39f719003b8524d3:0xe05ebb78ac56737f!8m2!3d23.6729168!4d87.0173497!16s%2Fg%2F11wg7fgfck!19sChIJ0ySFOwAZ9zkRf3NWrHi7XuA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Line+hospital+more/data=!4m7!3m6!1s0x39f719003b8524d3:0xe05ebb78ac56737f!8m2!3d23.6729168!4d87.0173497!16s%2Fg%2F11wg7fgfck!19sChIJ0ySFOwAZ9zkRf3NWrHi7XuA?authuser=0&hl=en&rclk=1"
@@ -4878,11 +4838,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+Line+hospital+more/data=!4m7!3m6!1s0x39f719003b8524d3:0xe05ebb78ac56737f!8m2!3d23.6729168!4d87.0173497!16s%2Fg%2F11wg7fgfck!19sChIJ0ySFOwAZ9zkRf3NWrHi7XuA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medco-pharmacy-polyclinic-pathology-asansol",
@@ -4932,7 +4891,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MedCo+-+Pharmacy,+Polyclinic,+Pathology/data=!4m7!3m6!1s0x39f71fe7a08ec447:0x5f36a26065448758!8m2!3d23.668591!4d86.9503982!16s%2Fg%2F11syz1wk1w!19sChIJR8SOoOcf9zkRWIdEZWCiNl8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MedCo+-+Pharmacy,+Polyclinic,+Pathology/data=!4m7!3m6!1s0x39f71fe7a08ec447:0x5f36a26065448758!8m2!3d23.668591!4d86.9503982!16s%2Fg%2F11syz1wk1w!19sChIJR8SOoOcf9zkRWIdEZWCiNl8?authuser=0&hl=en&rclk=1"
@@ -4998,11 +4957,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MedCo+-+Pharmacy,+Polyclinic,+Pathology/data=!4m7!3m6!1s0x39f71fe7a08ec447:0x5f36a26065448758!8m2!3d23.668591!4d86.9503982!16s%2Fg%2F11syz1wk1w!19sChIJR8SOoOcf9zkRWIdEZWCiNl8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neuro-ortho-physiotherapy-clinic-asansol",
@@ -5053,7 +5011,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neuro+Ortho+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39f71f868820666b:0x47d5309c73ace13e!8m2!3d23.6891156!4d86.9520956!16s%2Fg%2F11nfbw070m!19sChIJa2YgiIYf9zkRPuGsc5ww1Uc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuro+Ortho+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39f71f868820666b:0x47d5309c73ace13e!8m2!3d23.6891156!4d86.9520956!16s%2Fg%2F11nfbw070m!19sChIJa2YgiIYf9zkRPuGsc5ww1Uc?authuser=0&hl=en&rclk=1"
@@ -5122,8 +5080,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neuro+Ortho+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39f71f868820666b:0x47d5309c73ace13e!8m2!3d23.6891156!4d86.9520956!16s%2Fg%2F11nfbw070m!19sChIJa2YgiIYf9zkRPuGsc5ww1Uc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oracare-dental-speciality-clinic-asansol",
@@ -5173,7 +5130,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ORACARE+DENTAL+SPECIALITY+CLINIC/data=!4m7!3m6!1s0x39f7193053af7019:0xf1f405c30058b7d9!8m2!3d23.6723608!4d86.989925!16s%2Fg%2F11c2j0x6d0!19sChIJGXCvUzAZ9zkR2bdYAMMF9PE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ORACARE+DENTAL+SPECIALITY+CLINIC/data=!4m7!3m6!1s0x39f7193053af7019:0xf1f405c30058b7d9!8m2!3d23.6723608!4d86.989925!16s%2Fg%2F11c2j0x6d0!19sChIJGXCvUzAZ9zkR2bdYAMMF9PE?authuser=0&hl=en&rclk=1"
@@ -5242,8 +5199,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ORACARE+DENTAL+SPECIALITY+CLINIC/data=!4m7!3m6!1s0x39f7193053af7019:0xf1f405c30058b7d9!8m2!3d23.6723608!4d86.989925!16s%2Fg%2F11c2j0x6d0!19sChIJGXCvUzAZ9zkR2bdYAMMF9PE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orodental-hospitals-pvt-ltd-asansol",
@@ -5292,7 +5248,7 @@
       "Google rating 3.6",
       "1+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Orodental+Hospitals+Pvt+Ltd/data=!4m7!3m6!1s0x39f71f01406a3def:0xc05889336e5112b1!8m2!3d23.6912542!4d86.9471028!16s%2Fg%2F1td1bv8g!19sChIJ7z1qQAEf9zkRsRJRbjOJWMA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orodental+Hospitals+Pvt+Ltd/data=!4m7!3m6!1s0x39f71f01406a3def:0xc05889336e5112b1!8m2!3d23.6912542!4d86.9471028!16s%2Fg%2F1td1bv8g!19sChIJ7z1qQAEf9zkRsRJRbjOJWMA?authuser=0&hl=en&rclk=1"
@@ -5361,8 +5317,7 @@
     "rating": 3.6,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Orodental+Hospitals+Pvt+Ltd/data=!4m7!3m6!1s0x39f71f01406a3def:0xc05889336e5112b1!8m2!3d23.6912542!4d86.9471028!16s%2Fg%2F1td1bv8g!19sChIJ7z1qQAEf9zkRsRJRbjOJWMA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "p-r-mukherjee-nursing-home-asansol",
@@ -5411,7 +5366,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/P+R+Mukherjee+nursing+home/data=!4m7!3m6!1s0x39f71f5d1497998f:0xa82e6567069f92a9!8m2!3d23.6902015!4d86.9584122!16s%2Fg%2F11stpbw09x!19sChIJj5mXFF0f9zkRqZKfBmdlLqg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/P+R+Mukherjee+nursing+home/data=!4m7!3m6!1s0x39f71f5d1497998f:0xa82e6567069f92a9!8m2!3d23.6902015!4d86.9584122!16s%2Fg%2F11stpbw09x!19sChIJj5mXFF0f9zkRqZKfBmdlLqg?authuser=0&hl=en&rclk=1"
@@ -5480,8 +5435,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/P+R+Mukherjee+nursing+home/data=!4m7!3m6!1s0x39f71f5d1497998f:0xa82e6567069f92a9!8m2!3d23.6902015!4d86.9584122!16s%2Fg%2F11stpbw09x!19sChIJj5mXFF0f9zkRqZKfBmdlLqg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "proudworld-dental-care-best-dental-clinic-in-burnpur-asansol-asansol",
@@ -5529,7 +5483,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PROUDWORLD+DENTAL+CARE+-BEST+DENTAL+CLINIC+IN+BURNPUR,ASANSOL/data=!4m7!3m6!1s0x39f71e55451e9967:0x619b488d357db55f!8m2!3d23.6846767!4d86.9417321!16s%2Fg%2F11fy1dn4tr!19sChIJZ5keRVUe9zkRX7V9NY1Im2E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PROUDWORLD+DENTAL+CARE+-BEST+DENTAL+CLINIC+IN+BURNPUR,ASANSOL/data=!4m7!3m6!1s0x39f71e55451e9967:0x619b488d357db55f!8m2!3d23.6846767!4d86.9417321!16s%2Fg%2F11fy1dn4tr!19sChIJZ5keRVUe9zkRX7V9NY1Im2E?authuser=0&hl=en&rclk=1"
@@ -5598,8 +5552,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PROUDWORLD+DENTAL+CARE+-BEST+DENTAL+CLINIC+IN+BURNPUR,ASANSOL/data=!4m7!3m6!1s0x39f71e55451e9967:0x619b488d357db55f!8m2!3d23.6846767!4d86.9417321!16s%2Fg%2F11fy1dn4tr!19sChIJZ5keRVUe9zkRX7V9NY1Im2E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "punardristee-eye-and-general-hospital-asansol",
@@ -5648,7 +5601,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Punardristee+Eye+and+General+hospital/data=!4m7!3m6!1s0x39f71f0df6b64581:0xf2044564ee698b16!8m2!3d23.7047668!4d86.9524755!16s%2Fg%2F1261n3784!19sChIJgUW29g0f9zkRFotp7mRFBPI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Punardristee+Eye+and+General+hospital/data=!4m7!3m6!1s0x39f71f0df6b64581:0xf2044564ee698b16!8m2!3d23.7047668!4d86.9524755!16s%2Fg%2F1261n3784!19sChIJgUW29g0f9zkRFotp7mRFBPI?authuser=0&hl=en&rclk=1"
@@ -5717,8 +5670,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Punardristee+Eye+and+General+hospital/data=!4m7!3m6!1s0x39f71f0df6b64581:0xf2044564ee698b16!8m2!3d23.7047668!4d86.9524755!16s%2Fg%2F1261n3784!19sChIJgUW29g0f9zkRFotp7mRFBPI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rudra-s-maxillofacial-and-dental-clinic-asansol",
@@ -5765,7 +5717,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rudra%E2%80%99s+Maxillofacial+%26+Dental+Clinic/data=!4m7!3m6!1s0x39f71f57e3410af5:0xf12e8baac9e9fbda!8m2!3d23.6823215!4d86.9796053!16s%2Fg%2F11nnmy5jdv!19sChIJ9QpB41cf9zkR2vvpyaqLLvE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rudra%E2%80%99s+Maxillofacial+%26+Dental+Clinic/data=!4m7!3m6!1s0x39f71f57e3410af5:0xf12e8baac9e9fbda!8m2!3d23.6823215!4d86.9796053!16s%2Fg%2F11nnmy5jdv!19sChIJ9QpB41cf9zkR2vvpyaqLLvE?authuser=0&hl=en&rclk=1"
@@ -5831,11 +5783,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rudra%E2%80%99s+Maxillofacial+%26+Dental+Clinic/data=!4m7!3m6!1s0x39f71f57e3410af5:0xf12e8baac9e9fbda!8m2!3d23.6823215!4d86.9796053!16s%2Fg%2F11nnmy5jdv!19sChIJ9QpB41cf9zkR2vvpyaqLLvE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-dental-clinic-asansol",
@@ -5884,7 +5835,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Dental+Clinic/data=!4m7!3m6!1s0x39f71ed4560de831:0x79549ed38744e894!8m2!3d23.6831529!4d86.9800346!16s%2Fg%2F11clhsm86g!19sChIJMegNVtQe9zkRlOhEh9OeVHk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Dental+Clinic/data=!4m7!3m6!1s0x39f71ed4560de831:0x79549ed38744e894!8m2!3d23.6831529!4d86.9800346!16s%2Fg%2F11clhsm86g!19sChIJMegNVtQe9zkRlOhEh9OeVHk?authuser=0&hl=en&rclk=1"
@@ -5953,8 +5904,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Dental+Clinic/data=!4m7!3m6!1s0x39f71ed4560de831:0x79549ed38744e894!8m2!3d23.6831529!4d86.9800346!16s%2Fg%2F11clhsm86g!19sChIJMegNVtQe9zkRlOhEh9OeVHk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sebayan-matri-sadan-asansol",
@@ -6002,7 +5952,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sebayan+Matri+Sadan/data=!4m7!3m6!1s0x39f71f070395cd31:0xf206a119675e870b!8m2!3d23.6941043!4d86.944636!16s%2Fg%2F11c74hx5fr!19sChIJMc2VAwcf9zkRC4deZxmhBvI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sebayan+Matri+Sadan/data=!4m7!3m6!1s0x39f71f070395cd31:0xf206a119675e870b!8m2!3d23.6941043!4d86.944636!16s%2Fg%2F11c74hx5fr!19sChIJMc2VAwcf9zkRC4deZxmhBvI?authuser=0&hl=en&rclk=1"
@@ -6071,8 +6021,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sebayan+Matri+Sadan/data=!4m7!3m6!1s0x39f71f070395cd31:0xf206a119675e870b!8m2!3d23.6941043!4d86.944636!16s%2Fg%2F11c74hx5fr!19sChIJMc2VAwcf9zkRC4deZxmhBvI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shine-n-smile-dental-asansol",
@@ -6120,7 +6069,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shine+N+Smile+Dental/data=!4m7!3m6!1s0x39f71f38c69a5d81:0x6d96b18ae4580765!8m2!3d23.6789647!4d86.9685411!16s%2Fg%2F11tjxs4f4t!19sChIJgV2axjgf9zkRZQdY5Iqxlm0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shine+N+Smile+Dental/data=!4m7!3m6!1s0x39f71f38c69a5d81:0x6d96b18ae4580765!8m2!3d23.6789647!4d86.9685411!16s%2Fg%2F11tjxs4f4t!19sChIJgV2axjgf9zkRZQdY5Iqxlm0?authuser=0&hl=en&rclk=1"
@@ -6186,11 +6135,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shine+N+Smile+Dental/data=!4m7!3m6!1s0x39f71f38c69a5d81:0x6d96b18ae4580765!8m2!3d23.6789647!4d86.9685411!16s%2Fg%2F11tjxs4f4t!19sChIJgV2axjgf9zkRZQdY5Iqxlm0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-hospital-kulti-asansol-kulti",
@@ -6239,7 +6187,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Hospital,+Kulti,+Asansol/data=!4m7!3m6!1s0x39f6e1c9511300f7:0x96a40013e1ecb1c5!8m2!3d23.7229976!4d86.8583152!16s%2Fg%2F11j4xq0_5q!19sChIJ9wATUcnh9jkRxbHs4RMApJY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Hospital,+Kulti,+Asansol/data=!4m7!3m6!1s0x39f6e1c9511300f7:0x96a40013e1ecb1c5!8m2!3d23.7229976!4d86.8583152!16s%2Fg%2F11j4xq0_5q!19sChIJ9wATUcnh9jkRxbHs4RMApJY?authuser=0&hl=en&rclk=1"
@@ -6308,8 +6256,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Hospital,+Kulti,+Asansol/data=!4m7!3m6!1s0x39f6e1c9511300f7:0x96a40013e1ecb1c5!8m2!3d23.7229976!4d86.8583152!16s%2Fg%2F11j4xq0_5q!19sChIJ9wATUcnh9jkRxbHs4RMApJY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-jagannath-healthcare-pharmacy-and-clinic-asansol",
@@ -6357,7 +6304,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Jagannath+Healthcare+%28Pharmacy+%26+Clinic%29/data=!4m7!3m6!1s0x39f71f10178b7d53:0x10c0ca17de982490!8m2!3d23.6927423!4d86.949244!16s%2Fg%2F11smgpsmd9!19sChIJU32LFxAf9zkRkCSY3hfKwBA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Jagannath+Healthcare+%28Pharmacy+%26+Clinic%29/data=!4m7!3m6!1s0x39f71f10178b7d53:0x10c0ca17de982490!8m2!3d23.6927423!4d86.949244!16s%2Fg%2F11smgpsmd9!19sChIJU32LFxAf9zkRkCSY3hfKwBA?authuser=0&hl=en&rclk=1"
@@ -6423,11 +6370,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Jagannath+Healthcare+%28Pharmacy+%26+Clinic%29/data=!4m7!3m6!1s0x39f71f10178b7d53:0x10c0ca17de982490!8m2!3d23.6927423!4d86.949244!16s%2Fg%2F11smgpsmd9!19sChIJU32LFxAf9zkRkCSY3hfKwBA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-concepts-dental-clinic-asansol",
@@ -6475,7 +6421,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Concepts+Dental+Clinic/data=!4m7!3m6!1s0x39f71f5b402a0f15:0x2d8a722cab4a9c42!8m2!3d23.6944329!4d86.9440532!16s%2Fg%2F11rpyrc_7_!19sChIJFQ8qQFsf9zkRQpxKqyxyii0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Concepts+Dental+Clinic/data=!4m7!3m6!1s0x39f71f5b402a0f15:0x2d8a722cab4a9c42!8m2!3d23.6944329!4d86.9440532!16s%2Fg%2F11rpyrc_7_!19sChIJFQ8qQFsf9zkRQpxKqyxyii0?authuser=0&hl=en&rclk=1"
@@ -6544,8 +6490,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Concepts+Dental+Clinic/data=!4m7!3m6!1s0x39f71f5b402a0f15:0x2d8a722cab4a9c42!8m2!3d23.6944329!4d86.9440532!16s%2Fg%2F11rpyrc_7_!19sChIJFQ8qQFsf9zkRQpxKqyxyii0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smilecraft-dental-clinic-asansol",
@@ -6593,7 +6538,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smilecraft+Dental+Clinic/data=!4m7!3m6!1s0x39f7194c1b6f15d1:0x222c29ffb737a505!8m2!3d23.6808028!4d86.9899545!16s%2Fg%2F11vqrt3sy5!19sChIJ0RVvG0wZ9zkRBaU3t_8pLCI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilecraft+Dental+Clinic/data=!4m7!3m6!1s0x39f7194c1b6f15d1:0x222c29ffb737a505!8m2!3d23.6808028!4d86.9899545!16s%2Fg%2F11vqrt3sy5!19sChIJ0RVvG0wZ9zkRBaU3t_8pLCI?authuser=0&hl=en&rclk=1"
@@ -6659,11 +6604,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smilecraft+Dental+Clinic/data=!4m7!3m6!1s0x39f7194c1b6f15d1:0x222c29ffb737a505!8m2!3d23.6808028!4d86.9899545!16s%2Fg%2F11vqrt3sy5!19sChIJ0RVvG0wZ9zkRBaU3t_8pLCI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sormistha-dental-clinic-asansol",
@@ -6712,7 +6656,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sormistha+Dental+Clinic/data=!4m7!3m6!1s0x39f71f07db82d953:0x6fc1d224d1730d08!8m2!3d23.6954384!4d86.9518011!16s%2Fg%2F11yq2xtgcx!19sChIJU9mC2wcf9zkRCA1z0STSwW8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sormistha+Dental+Clinic/data=!4m7!3m6!1s0x39f71f07db82d953:0x6fc1d224d1730d08!8m2!3d23.6954384!4d86.9518011!16s%2Fg%2F11yq2xtgcx!19sChIJU9mC2wcf9zkRCA1z0STSwW8?authuser=0&hl=en&rclk=1"
@@ -6781,8 +6725,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sormistha+Dental+Clinic/data=!4m7!3m6!1s0x39f71f07db82d953:0x6fc1d224d1730d08!8m2!3d23.6954384!4d86.9518011!16s%2Fg%2F11yq2xtgcx!19sChIJU9mC2wcf9zkRCA1z0STSwW8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sterling-hospital-asansol",
@@ -6831,7 +6774,7 @@
       "Google rating 2.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sterling+Hospital/data=!4m7!3m6!1s0x39f71f01069928f9:0x65195e442fc90004!8m2!3d23.6889183!4d86.9453533!16s%2Fg%2F11cn6gq9rc!19sChIJ-SiZBgEf9zkRBADJL0ReGWU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sterling+Hospital/data=!4m7!3m6!1s0x39f71f01069928f9:0x65195e442fc90004!8m2!3d23.6889183!4d86.9453533!16s%2Fg%2F11cn6gq9rc!19sChIJ-SiZBgEf9zkRBADJL0ReGWU?authuser=0&hl=en&rclk=1"
@@ -6900,8 +6843,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sterling+Hospital/data=!4m7!3m6!1s0x39f71f01069928f9:0x65195e442fc90004!8m2!3d23.6889183!4d86.9453533!16s%2Fg%2F11cn6gq9rc!19sChIJ-SiZBgEf9zkRBADJL0ReGWU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "strong-roots-dental-care-best-dental-clinic-in-asansol-asansol",
@@ -6949,7 +6891,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/STRONG+ROOTS+DENTAL+CARE+-+BEST+DENTAL+CLINIC+IN+ASANSOL/data=!4m7!3m6!1s0x39f71f00661885e7:0xa9dde3bf51b8609f!8m2!3d23.6927119!4d86.9490115!16s%2Fg%2F11gf96ggsm!19sChIJ54UYZgAf9zkRn2C4Ub_j3ak?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STRONG+ROOTS+DENTAL+CARE+-+BEST+DENTAL+CLINIC+IN+ASANSOL/data=!4m7!3m6!1s0x39f71f00661885e7:0xa9dde3bf51b8609f!8m2!3d23.6927119!4d86.9490115!16s%2Fg%2F11gf96ggsm!19sChIJ54UYZgAf9zkRn2C4Ub_j3ak?authuser=0&hl=en&rclk=1"
@@ -7018,8 +6960,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/STRONG+ROOTS+DENTAL+CARE+-+BEST+DENTAL+CLINIC+IN+ASANSOL/data=!4m7!3m6!1s0x39f71f00661885e7:0xa9dde3bf51b8609f!8m2!3d23.6927119!4d86.9490115!16s%2Fg%2F11gf96ggsm!19sChIJ54UYZgAf9zkRn2C4Ub_j3ak?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunny-smile-dental-clinic-asansol",
@@ -7067,7 +7008,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SUNNY+SMILE+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f719094834ad3d:0x8b57f42907d105d5!8m2!3d23.6919875!4d86.9828288!16s%2Fg%2F11h5lsffpb!19sChIJPa00SAkZ9zkR1QXRByn0V4s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUNNY+SMILE+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f719094834ad3d:0x8b57f42907d105d5!8m2!3d23.6919875!4d86.9828288!16s%2Fg%2F11h5lsffpb!19sChIJPa00SAkZ9zkR1QXRByn0V4s?authuser=0&hl=en&rclk=1"
@@ -7133,11 +7074,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SUNNY+SMILE+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f719094834ad3d:0x8b57f42907d105d5!8m2!3d23.6919875!4d86.9828288!16s%2Fg%2F11h5lsffpb!19sChIJPa00SAkZ9zkR1QXRByn0V4s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suraksha-diagnostics-asansol-asansol",
@@ -7187,7 +7127,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Suraksha+Diagnostics+-+Asansol/data=!4m7!3m6!1s0x39f71fec48a41141:0x826626422717a3ad!8m2!3d23.6949485!4d86.9491353!16s%2Fg%2F11q8s75wkx!19sChIJQRGkSOwf9zkRraMXJ0ImZoI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suraksha+Diagnostics+-+Asansol/data=!4m7!3m6!1s0x39f71fec48a41141:0x826626422717a3ad!8m2!3d23.6949485!4d86.9491353!16s%2Fg%2F11q8s75wkx!19sChIJQRGkSOwf9zkRraMXJ0ImZoI?authuser=0&hl=en&rclk=1"
@@ -7256,8 +7196,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Suraksha+Diagnostics+-+Asansol/data=!4m7!3m6!1s0x39f71fec48a41141:0x826626422717a3ad!8m2!3d23.6949485!4d86.9491353!16s%2Fg%2F11q8s75wkx!19sChIJQRGkSOwf9zkRraMXJ0ImZoI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-mission-hospital-asansol-clinic-asansol",
@@ -7306,7 +7245,7 @@
       "Google rating 2.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Mission+Hospital+Asansol+Clinic/data=!4m7!3m6!1s0x39f71f1b6ca08d45:0xfc14aa8b73f3805c!8m2!3d23.6940132!4d86.9503501!16s%2Fg%2F11dxb215c3!19sChIJRY2gbBsf9zkRXIDzc4uqFPw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Mission+Hospital+Asansol+Clinic/data=!4m7!3m6!1s0x39f71f1b6ca08d45:0xfc14aa8b73f3805c!8m2!3d23.6940132!4d86.9503501!16s%2Fg%2F11dxb215c3!19sChIJRY2gbBsf9zkRXIDzc4uqFPw?authuser=0&hl=en&rclk=1"
@@ -7375,8 +7314,7 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Mission+Hospital+Asansol+Clinic/data=!4m7!3m6!1s0x39f71f1b6ca08d45:0xfc14aa8b73f3805c!8m2!3d23.6940132!4d86.9503501!16s%2Fg%2F11dxb215c3!19sChIJRY2gbBsf9zkRXIDzc4uqFPw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tirupati-medical-centre-bottle-masjid-bari-lane-asansol",
@@ -7425,7 +7363,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tirupati+Medical+Centre%28%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A6%A4%E0%A6%BF+%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2+%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%29Bottle+Masjid+Bari+lane/data=!4m7!3m6!1s0x39f71f90a81d96f9:0xe770214b408ec24b!8m2!3d23.6818103!4d86.9786884!16s%2Fg%2F11jy223_y3!19sChIJ-ZYdqJAf9zkRS8KOQEshcOc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirupati+Medical+Centre%28%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A6%A4%E0%A6%BF+%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2+%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%29Bottle+Masjid+Bari+lane/data=!4m7!3m6!1s0x39f71f90a81d96f9:0xe770214b408ec24b!8m2!3d23.6818103!4d86.9786884!16s%2Fg%2F11jy223_y3!19sChIJ-ZYdqJAf9zkRS8KOQEshcOc?authuser=0&hl=en&rclk=1"
@@ -7491,11 +7429,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tirupati+Medical+Centre%28%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A6%A4%E0%A6%BF+%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2+%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%29Bottle+Masjid+Bari+lane/data=!4m7!3m6!1s0x39f71f90a81d96f9:0xe770214b408ec24b!8m2!3d23.6818103!4d86.9786884!16s%2Fg%2F11jy223_y3!19sChIJ-ZYdqJAf9zkRS8KOQEshcOc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vaishnavi-dental-clinc-asansol",
@@ -7543,7 +7480,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vaishnavi+dental+clinc/data=!4m7!3m6!1s0x39f71f4570219263:0xcf779c9dd4cf0b35!8m2!3d23.6858625!4d86.9625404!16s%2Fg%2F11pvbd1t03!19sChIJY5IhcEUf9zkRNQvP1J2cd88?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaishnavi+dental+clinc/data=!4m7!3m6!1s0x39f71f4570219263:0xcf779c9dd4cf0b35!8m2!3d23.6858625!4d86.9625404!16s%2Fg%2F11pvbd1t03!19sChIJY5IhcEUf9zkRNQvP1J2cd88?authuser=0&hl=en&rclk=1"
@@ -7612,8 +7549,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vaishnavi+dental+clinc/data=!4m7!3m6!1s0x39f71f4570219263:0xcf779c9dd4cf0b35!8m2!3d23.6858625!4d86.9625404!16s%2Fg%2F11pvbd1t03!19sChIJY5IhcEUf9zkRNQvP1J2cd88?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "x-asansol",
@@ -7662,7 +7598,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/X/data=!4m7!3m6!1s0x39f71f6a1c60980b:0xc2f242d7739ee3d3!8m2!3d23.6943002!4d86.9490795!16s%2Fg%2F11kk5fzcz4!19sChIJC5hgHGof9zkR0-Oec9dC8sI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/X/data=!4m7!3m6!1s0x39f71f6a1c60980b:0xc2f242d7739ee3d3!8m2!3d23.6943002!4d86.9490795!16s%2Fg%2F11kk5fzcz4!19sChIJC5hgHGof9zkR0-Oec9dC8sI?authuser=0&hl=en&rclk=1"
@@ -7728,10 +7664,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/X/data=!4m7!3m6!1s0x39f71f6a1c60980b:0xc2f242d7739ee3d3!8m2!3d23.6943002!4d86.9490795!16s%2Fg%2F11kk5fzcz4!19sChIJC5hgHGof9zkR0-Oec9dC8sI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

@@ -108,7 +108,9 @@
     const src = String(record.image || '').trim();
     const width = w || 800;
     const height = h || 520;
-    if (!src) return hospitalPlaceholderImageUrl(record.name, width, height);
+    if (!src || /staticmap|openstreetmap|tile|maps|google\.com\/maps/i.test(src)) {
+      return hospitalPlaceholderImageUrl(record.name, width, height);
+    }
     if (src.includes('images.unsplash.com')) {
       return cloudinaryFetchUrl(src, width, height) || src;
     }

@@ -47,7 +47,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Akola+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bd72faf112f0609:0xca336daaaa5b3b84!8m2!3d20.6989164!4d77.0152385!16s%2Fg%2F11j2x85nt7!19sChIJCQYvEa8v1zsRhDtbqqptM8o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Akola+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bd72faf112f0609:0xca336daaaa5b3b84!8m2!3d20.6989164!4d77.0152385!16s%2Fg%2F11j2x85nt7!19sChIJCQYvEa8v1zsRhDtbqqptM8o?authuser=0&hl=en&rclk=1"
@@ -113,11 +113,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Akola+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bd72faf112f0609:0xca336daaaa5b3b84!8m2!3d20.6989164!4d77.0152385!16s%2Fg%2F11j2x85nt7!19sChIJCQYvEa8v1zsRhDtbqqptM8o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navkiran-neuro-hospital-akola",
@@ -167,7 +166,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navkiran+Neuro+Hospital/data=!4m7!3m6!1s0x3bd72f5c824cb683:0x6e5a543daf431bed!8m2!3d20.7163774!4d77.0180846!16s%2Fg%2F11mx5rwbqw!19sChIJg7ZMglwv1zsR7RtDrz1UWm4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navkiran+Neuro+Hospital/data=!4m7!3m6!1s0x3bd72f5c824cb683:0x6e5a543daf431bed!8m2!3d20.7163774!4d77.0180846!16s%2Fg%2F11mx5rwbqw!19sChIJg7ZMglwv1zsR7RtDrz1UWm4?authuser=0&hl=en&rclk=1"
@@ -236,8 +235,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navkiran+Neuro+Hospital/data=!4m7!3m6!1s0x3bd72f5c824cb683:0x6e5a543daf431bed!8m2!3d20.7163774!4d77.0180846!16s%2Fg%2F11mx5rwbqw!19sChIJg7ZMglwv1zsR7RtDrz1UWm4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "noble-hospital-akola",
@@ -285,7 +283,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Noble+Hospital/data=!4m7!3m6!1s0x3bd731e367fbb275:0xe638f63342cb600!8m2!3d20.7062802!4d77.0053156!16s%2Fg%2F11bwkh4ygb!19sChIJdbL7Z-Mx1zsRALYsNGOPYw4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Noble+Hospital/data=!4m7!3m6!1s0x3bd731e367fbb275:0xe638f63342cb600!8m2!3d20.7062802!4d77.0053156!16s%2Fg%2F11bwkh4ygb!19sChIJdbL7Z-Mx1zsRALYsNGOPYw4?authuser=0&hl=en&rclk=1"
@@ -354,8 +352,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Noble+Hospital/data=!4m7!3m6!1s0x3bd731e367fbb275:0xe638f63342cb600!8m2!3d20.7062802!4d77.0053156!16s%2Fg%2F11bwkh4ygb!19sChIJdbL7Z-Mx1zsRALYsNGOPYw4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samarth-ivf-fertility-center-best-ivf-center-in-akola-akola",
@@ -404,7 +401,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Akola/data=!4m7!3m6!1s0x3bd731fe16678609:0x7d5ed4602fa05781!8m2!3d20.7033186!4d77.0003195!16s%2Fg%2F11vz2m3m3w!19sChIJCYZnFv4x1zsRgVegL2DUXn0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Akola/data=!4m7!3m6!1s0x3bd731fe16678609:0x7d5ed4602fa05781!8m2!3d20.7033186!4d77.0003195!16s%2Fg%2F11vz2m3m3w!19sChIJCYZnFv4x1zsRgVegL2DUXn0?authuser=0&hl=en&rclk=1"
@@ -470,11 +467,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Akola/data=!4m7!3m6!1s0x3bd731fe16678609:0x7d5ed4602fa05781!8m2!3d20.7033186!4d77.0003195!16s%2Fg%2F11vz2m3m3w!19sChIJCYZnFv4x1zsRgVegL2DUXn0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vatsal-hospital-akola",
@@ -523,7 +519,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vatsal+Hospital/data=!4m7!3m6!1s0x3bd72e01e09c931f:0x3cc55a355a72d063!8m2!3d20.6977928!4d77.0112467!16s%2Fg%2F11cn6n1dvt!19sChIJH5Oc4AEu1zsRY9ByWjVaxTw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vatsal+Hospital/data=!4m7!3m6!1s0x3bd72e01e09c931f:0x3cc55a355a72d063!8m2!3d20.6977928!4d77.0112467!16s%2Fg%2F11cn6n1dvt!19sChIJH5Oc4AEu1zsRY9ByWjVaxTw?authuser=0&hl=en&rclk=1"
@@ -592,7 +588,6 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vatsal+Hospital/data=!4m7!3m6!1s0x3bd72e01e09c931f:0x3cc55a355a72d063!8m2!3d20.6977928!4d77.0112467!16s%2Fg%2F11cn6n1dvt!19sChIJH5Oc4AEu1zsRY9ByWjVaxTw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

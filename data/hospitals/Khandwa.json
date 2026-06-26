@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A.D.+Hinduja+Heart+Care+Hospital/@21.8312817,76.3410708,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6aae19ff1b:0x9a0a72a838b8b34c!8m2!3d21.8312817!4d76.3410708!16s%2Fg%2F11g_wztqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.D.+Hinduja+Heart+Care+Hospital/@21.8312817,76.3410708,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6aae19ff1b:0x9a0a72a838b8b34c!8m2!3d21.8312817!4d76.3410708!16s%2Fg%2F11g_wztqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -115,8 +115,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A.D.+Hinduja+Heart+Care+Hospital/@21.8312817,76.3410708,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6aae19ff1b:0x9a0a72a838b8b34c!8m2!3d21.8312817!4d76.3410708!16s%2Fg%2F11g_wztqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aastha-dental-clinic-khandwa-khandwa",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aastha+Dental+Clinic+khandwa/@21.8392293,76.3520979,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4a84867313:0xfee627e89a614eb1!8m2!3d21.8392293!4d76.3520979!16s%2Fg%2F11xlbx55zz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+Dental+Clinic+khandwa/@21.8392293,76.3520979,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4a84867313:0xfee627e89a614eb1!8m2!3d21.8392293!4d76.3520979!16s%2Fg%2F11xlbx55zz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -230,11 +229,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aastha+Dental+Clinic+khandwa/@21.8392293,76.3520979,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4a84867313:0xfee627e89a614eb1!8m2!3d21.8392293!4d76.3520979!16s%2Fg%2F11xlbx55zz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "agrawal-dental-care-khandwa",
@@ -283,7 +281,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Agrawal+Dental+Care/@21.8231303,76.3450882,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b768b301e1b:0x4f9ac1c7c9f5c4cf!8m2!3d21.8231303!4d76.3450882!16s%2Fg%2F11v9fntd3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agrawal+Dental+Care/@21.8231303,76.3450882,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b768b301e1b:0x4f9ac1c7c9f5c4cf!8m2!3d21.8231303!4d76.3450882!16s%2Fg%2F11v9fntd3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -349,11 +347,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Agrawal+Dental+Care/@21.8231303,76.3450882,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b768b301e1b:0x4f9ac1c7c9f5c4cf!8m2!3d21.8231303!4d76.3450882!16s%2Fg%2F11v9fntd3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aishwarya-dental-and-implant-centre-khandwa",
@@ -402,7 +399,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aishwarya+dental+and+implant+centre/@21.8245723,76.3516814,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3c0b9316f3:0xc36e868696d56ff!8m2!3d21.8245723!4d76.3516814!16s%2Fg%2F11h9h9ry92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aishwarya+dental+and+implant+centre/@21.8245723,76.3516814,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3c0b9316f3:0xc36e868696d56ff!8m2!3d21.8245723!4d76.3516814!16s%2Fg%2F11h9h9ry92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -468,11 +465,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aishwarya+dental+and+implant+centre/@21.8245723,76.3516814,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3c0b9316f3:0xc36e868696d56ff!8m2!3d21.8245723!4d76.3516814!16s%2Fg%2F11h9h9ry92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "all-is-well-super-clinic-khandwa-khandwa",
@@ -521,7 +517,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/All+Is+Well+Super+Clinic,+Khandwa/data=!4m7!3m6!1s0x3bd81b25e61c2ed3:0xf49178fe13d6f875!8m2!3d21.8247803!4d76.3441956!16s%2Fg%2F11ksl5fdrh!19sChIJ0y4c5iUb2DsRdfjWE_54kfQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/All+Is+Well+Super+Clinic,+Khandwa/data=!4m7!3m6!1s0x3bd81b25e61c2ed3:0xf49178fe13d6f875!8m2!3d21.8247803!4d76.3441956!16s%2Fg%2F11ksl5fdrh!19sChIJ0y4c5iUb2DsRdfjWE_54kfQ?authuser=0&hl=en&rclk=1"
@@ -590,8 +586,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/All+Is+Well+Super+Clinic,+Khandwa/data=!4m7!3m6!1s0x3bd81b25e61c2ed3:0xf49178fe13d6f875!8m2!3d21.8247803!4d76.3441956!16s%2Fg%2F11ksl5fdrh!19sChIJ0y4c5iUb2DsRdfjWE_54kfQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anandam-netralaya-khandwa-khandwa",
@@ -640,7 +635,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anandam+Netralaya+Khandwa/@21.8318875,76.3427976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b0b455fc21f:0x34830797696502a6!8m2!3d21.8318875!4d76.3427976!16s%2Fg%2F11rq4hcjg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anandam+Netralaya+Khandwa/@21.8318875,76.3427976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b0b455fc21f:0x34830797696502a6!8m2!3d21.8318875!4d76.3427976!16s%2Fg%2F11rq4hcjg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -709,8 +704,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anandam+Netralaya+Khandwa/@21.8318875,76.3427976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b0b455fc21f:0x34830797696502a6!8m2!3d21.8318875!4d76.3427976!16s%2Fg%2F11rq4hcjg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apex-diabetic-care-and-wellness-center-khandwa",
@@ -758,7 +752,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apex+Diabetic+Care+and+Wellness+Center/@21.8332075,76.3508866,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b9399342c6d:0x974f4c98f791b8ef!8m2!3d21.8332075!4d76.3508866!16s%2Fg%2F11s6fy5cyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Diabetic+Care+and+Wellness+Center/@21.8332075,76.3508866,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b9399342c6d:0x974f4c98f791b8ef!8m2!3d21.8332075!4d76.3508866!16s%2Fg%2F11s6fy5cyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -824,11 +818,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apex+Diabetic+Care+and+Wellness+Center/@21.8332075,76.3508866,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b9399342c6d:0x974f4c98f791b8ef!8m2!3d21.8332075!4d76.3508866!16s%2Fg%2F11s6fy5cyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhanawat-dental-and-cosmetic-clinic-khandwa",
@@ -876,7 +869,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhanawat+Dental+and+Cosmetic+clinic/@21.824471,76.3399164,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b00257df34b:0xa10dc9e968bf8836!8m2!3d21.824471!4d76.3399164!16s%2Fg%2F11yb1zbrxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhanawat+Dental+and+Cosmetic+clinic/@21.824471,76.3399164,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b00257df34b:0xa10dc9e968bf8836!8m2!3d21.824471!4d76.3399164!16s%2Fg%2F11yb1zbrxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -942,11 +935,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhanawat+Dental+and+Cosmetic+clinic/@21.824471,76.3399164,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b00257df34b:0xa10dc9e968bf8836!8m2!3d21.824471!4d76.3399164!16s%2Fg%2F11yb1zbrxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhatia-dental-clinic-near-ganesh-temple",
@@ -994,7 +986,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhatia+Dental+Clinic/@21.8255135,76.3422093,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6c984e779b:0x22cf6dd5fb890a6c!8m2!3d21.8255135!4d76.3422093!16s%2Fg%2F11f4040491?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhatia+Dental+Clinic/@21.8255135,76.3422093,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6c984e779b:0x22cf6dd5fb890a6c!8m2!3d21.8255135!4d76.3422093!16s%2Fg%2F11f4040491?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1063,8 +1055,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhatia+Dental+Clinic/@21.8255135,76.3422093,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6c984e779b:0x22cf6dd5fb890a6c!8m2!3d21.8255135!4d76.3422093!16s%2Fg%2F11f4040491?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "binda-dental-and-maxillofacial-surgery-khandwa",
@@ -1114,7 +1105,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Binda+Dental+%26+Maxillofacial+Surgery/@21.8247653,76.3417262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6cbf5b57b7:0x1f6a40a2b23756!8m2!3d21.8247653!4d76.3417262!16s%2Fg%2F11vkz3cmns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Binda+Dental+%26+Maxillofacial+Surgery/@21.8247653,76.3417262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6cbf5b57b7:0x1f6a40a2b23756!8m2!3d21.8247653!4d76.3417262!16s%2Fg%2F11vkz3cmns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1180,11 +1171,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Binda+Dental+%26+Maxillofacial+Surgery/@21.8247653,76.3417262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6cbf5b57b7:0x1f6a40a2b23756!8m2!3d21.8247653!4d76.3417262!16s%2Fg%2F11vkz3cmns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "binwani-dental-clinic-khandwa",
@@ -1233,7 +1223,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Binwani+dental+clinic/@21.8238312,76.3449949,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b16fc66796d:0x82e0a763dc308411!8m2!3d21.8238312!4d76.3449949!16s%2Fg%2F11gzs6xrrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Binwani+dental+clinic/@21.8238312,76.3449949,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b16fc66796d:0x82e0a763dc308411!8m2!3d21.8238312!4d76.3449949!16s%2Fg%2F11gzs6xrrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1302,8 +1292,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Binwani+dental+clinic/@21.8238312,76.3449949,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b16fc66796d:0x82e0a763dc308411!8m2!3d21.8238312!4d76.3449949!16s%2Fg%2F11gzs6xrrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "borle-hospital-borle-clinic-khandwa-branch-khandwa",
@@ -1349,7 +1338,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Borle+Hospital,+Borle+clinic+khandwa+Branch/@21.8249233,76.3419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bbb7410cbd9:0x33ee08a1eb8a6b96!8m2!3d21.8249233!4d76.3419!16s%2Fg%2F11y2n08xy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Borle+Hospital,+Borle+clinic+khandwa+Branch/@21.8249233,76.3419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bbb7410cbd9:0x33ee08a1eb8a6b96!8m2!3d21.8249233!4d76.3419!16s%2Fg%2F11y2n08xy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1415,11 +1404,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Borle+Hospital,+Borle+clinic+khandwa+Branch/@21.8249233,76.3419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bbb7410cbd9:0x33ee08a1eb8a6b96!8m2!3d21.8249233!4d76.3419!16s%2Fg%2F11y2n08xy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "darbaar-dental-clinic-khandwa-best-dentist-teeth-whitening-root-canal-braces-clinic-orthodontist-khandwa",
@@ -1468,7 +1456,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Darbaar+Dental+Clinic+Khandwa+%7C+Best+Dentist+%7C+Teeth+Whitening+%7C+Root+Canal+%7C+Braces+clinic+%7C+orthodontist/@21.8249162,76.3420187,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bf7d670104b:0x231985d475b5292f!8m2!3d21.8249162!4d76.3420187!16s%2Fg%2F11k61bx4p8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Darbaar+Dental+Clinic+Khandwa+%7C+Best+Dentist+%7C+Teeth+Whitening+%7C+Root+Canal+%7C+Braces+clinic+%7C+orthodontist/@21.8249162,76.3420187,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bf7d670104b:0x231985d475b5292f!8m2!3d21.8249162!4d76.3420187!16s%2Fg%2F11k61bx4p8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1534,11 +1522,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Darbaar+Dental+Clinic+Khandwa+%7C+Best+Dentist+%7C+Teeth+Whitening+%7C+Root+Canal+%7C+Braces+clinic+%7C+orthodontist/@21.8249162,76.3420187,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bf7d670104b:0x231985d475b5292f!8m2!3d21.8249162!4d76.3420187!16s%2Fg%2F11k61bx4p8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "david-dental-clinic-khandwa",
@@ -1586,7 +1573,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/David+Dental+Clinic/@21.8288,76.3545027,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4e8b03cdc7:0x29535f6109c07dcb!8m2!3d21.8288!4d76.3545027!16s%2Fg%2F11ygz9sbg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/David+Dental+Clinic/@21.8288,76.3545027,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4e8b03cdc7:0x29535f6109c07dcb!8m2!3d21.8288!4d76.3545027!16s%2Fg%2F11ygz9sbg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1652,11 +1639,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/David+Dental+Clinic/@21.8288,76.3545027,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4e8b03cdc7:0x29535f6109c07dcb!8m2!3d21.8288!4d76.3545027!16s%2Fg%2F11ygz9sbg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-clinic-khandwa",
@@ -1703,7 +1689,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+clinic/@21.8226742,76.3484198,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81be1b613ed4b:0xf8d525b1f5b763bd!8m2!3d21.8226742!4d76.3484198!16s%2Fg%2F11qq5nxsjw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+clinic/@21.8226742,76.3484198,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81be1b613ed4b:0xf8d525b1f5b763bd!8m2!3d21.8226742!4d76.3484198!16s%2Fg%2F11qq5nxsjw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1769,11 +1755,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+clinic/@21.8226742,76.3484198,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81be1b613ed4b:0xf8d525b1f5b763bd!8m2!3d21.8226742!4d76.3484198!16s%2Fg%2F11qq5nxsjw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhanvantari-clinic-khandwa",
@@ -1821,7 +1806,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DHANVANTARI+CLINIC/@21.8242542,76.3418799,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b004f24151d:0xee4c6cd6ccb4e257!8m2!3d21.8242542!4d76.3418799!16s%2Fg%2F11y4gtz46d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DHANVANTARI+CLINIC/@21.8242542,76.3418799,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b004f24151d:0xee4c6cd6ccb4e257!8m2!3d21.8242542!4d76.3418799!16s%2Fg%2F11y4gtz46d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1887,11 +1872,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DHANVANTARI+CLINIC/@21.8242542,76.3418799,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b004f24151d:0xee4c6cd6ccb4e257!8m2!3d21.8242542!4d76.3418799!16s%2Fg%2F11y4gtz46d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "district-hospital-khandwa-khandwa",
@@ -1940,7 +1924,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/District+Hospital,+Khandwa/@21.8241369,76.3429152,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6c586efcb1:0x40492c74a4dce8f7!8m2!3d21.8241369!4d76.3429152!16s%2Fg%2F11cjk14y1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital,+Khandwa/@21.8241369,76.3429152,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6c586efcb1:0x40492c74a4dce8f7!8m2!3d21.8241369!4d76.3429152!16s%2Fg%2F11cjk14y1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2009,8 +1993,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/District+Hospital,+Khandwa/@21.8241369,76.3429152,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6c586efcb1:0x40492c74a4dce8f7!8m2!3d21.8241369!4d76.3429152!16s%2Fg%2F11cjk14y1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "divyajyoti-clinic-khandwa",
@@ -2056,7 +2039,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Divyajyoti+Clinic/@21.8218663,76.3388824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b04f101578f:0xefe5e3171e27ebe8!8m2!3d21.8218663!4d76.3388824!16s%2Fg%2F11t9h6wp4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divyajyoti+Clinic/@21.8218663,76.3388824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b04f101578f:0xefe5e3171e27ebe8!8m2!3d21.8218663!4d76.3388824!16s%2Fg%2F11t9h6wp4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2122,11 +2105,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Divyajyoti+Clinic/@21.8218663,76.3388824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b04f101578f:0xefe5e3171e27ebe8!8m2!3d21.8218663!4d76.3388824!16s%2Fg%2F11t9h6wp4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "drashti-ent-and-endoscopic-clinic-khandwa",
@@ -2174,7 +2156,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DRASHTI+ENT+%26+ENDOSCOPIC+CLINIC/@21.8247224,76.3417079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b005c34c747:0x8f8c19aaa820be5e!8m2!3d21.8247224!4d76.3417079!16s%2Fg%2F11vzglf5x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DRASHTI+ENT+%26+ENDOSCOPIC+CLINIC/@21.8247224,76.3417079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b005c34c747:0x8f8c19aaa820be5e!8m2!3d21.8247224!4d76.3417079!16s%2Fg%2F11vzglf5x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2240,11 +2222,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DRASHTI+ENT+%26+ENDOSCOPIC+CLINIC/@21.8247224,76.3417079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b005c34c747:0x8f8c19aaa820be5e!8m2!3d21.8247224!4d76.3417079!16s%2Fg%2F11vzglf5x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "drishyam-imaging-centre-khandwa-khandwa",
@@ -2293,7 +2274,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DRISHYAM+IMAGING+CENTRE+KHANDWA/@21.8249425,76.3421603,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b5335cc962d:0x7ad0bd996ebba2a9!8m2!3d21.8249425!4d76.3421603!16s%2Fg%2F11pz866wpg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DRISHYAM+IMAGING+CENTRE+KHANDWA/@21.8249425,76.3421603,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b5335cc962d:0x7ad0bd996ebba2a9!8m2!3d21.8249425!4d76.3421603!16s%2Fg%2F11pz866wpg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2362,8 +2343,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DRISHYAM+IMAGING+CENTRE+KHANDWA/@21.8249425,76.3421603,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b5335cc962d:0x7ad0bd996ebba2a9!8m2!3d21.8249425!4d76.3421603!16s%2Fg%2F11pz866wpg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "eureka-hospital-indore",
@@ -2412,7 +2392,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Eureka+Hospital/@22.722923,75.8962744,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd377801896d:0xed14096c6c9dc86a!8m2!3d22.722923!4d75.8962744!16s%2Fg%2F1hjgpsksc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eureka+Hospital/@22.722923,75.8962744,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd377801896d:0xed14096c6c9dc86a!8m2!3d22.722923!4d75.8962744!16s%2Fg%2F1hjgpsksc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2481,8 +2461,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Eureka+Hospital/@22.722923,75.8962744,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd377801896d:0xed14096c6c9dc86a!8m2!3d22.722923!4d75.8962744!16s%2Fg%2F1hjgpsksc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gurjar-hospital-khandwa",
@@ -2530,7 +2509,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gurjar+Hospital/data=!4m7!3m6!1s0x3bd81b4680b2227f:0xf774243d586f6f73!8m2!3d21.8410889!4d76.3460212!16s%2Fg%2F11c75xvz28!19sChIJfyKygEYb2DsRc29vWD0kdPc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurjar+Hospital/data=!4m7!3m6!1s0x3bd81b4680b2227f:0xf774243d586f6f73!8m2!3d21.8410889!4d76.3460212!16s%2Fg%2F11c75xvz28!19sChIJfyKygEYb2DsRc29vWD0kdPc?authuser=0&hl=en&rclk=1"
@@ -2599,8 +2578,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gurjar+Hospital/data=!4m7!3m6!1s0x3bd81b4680b2227f:0xf774243d586f6f73!8m2!3d21.8410889!4d76.3460212!16s%2Fg%2F11c75xvz28!19sChIJfyKygEYb2DsRc29vWD0kdPc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "j-j-hospital-khandwa",
@@ -2648,7 +2626,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/J.J+Hospital/@21.8211585,76.3576999,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b7caec2253f:0x8f792fc745e05595!8m2!3d21.8211585!4d76.3576999!16s%2Fg%2F1tgwqqnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J.J+Hospital/@21.8211585,76.3576999,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b7caec2253f:0x8f792fc745e05595!8m2!3d21.8211585!4d76.3576999!16s%2Fg%2F1tgwqqnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2717,8 +2695,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/J.J+Hospital/@21.8211585,76.3576999,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b7caec2253f:0x8f792fc745e05595!8m2!3d21.8211585!4d76.3576999!16s%2Fg%2F1tgwqqnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jain-clinic-khandwa",
@@ -2766,7 +2743,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jain+Clinic/data=!4m7!3m6!1s0x3bd81b428080a8b7:0xff4ac8d8713412c0!8m2!3d21.8328171!4d76.3493053!16s%2Fg%2F11d_8cwq2f!19sChIJt6iAgEIb2DsRwBI0cdjISv8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jain+Clinic/data=!4m7!3m6!1s0x3bd81b428080a8b7:0xff4ac8d8713412c0!8m2!3d21.8328171!4d76.3493053!16s%2Fg%2F11d_8cwq2f!19sChIJt6iAgEIb2DsRwBI0cdjISv8?authuser=0&hl=en&rclk=1"
@@ -2832,11 +2809,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jain+Clinic/data=!4m7!3m6!1s0x3bd81b428080a8b7:0xff4ac8d8713412c0!8m2!3d21.8328171!4d76.3493053!16s%2Fg%2F11d_8cwq2f!19sChIJt6iAgEIb2DsRwBI0cdjISv8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jain-nursing-home-khandwa",
@@ -2885,7 +2861,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jain+Nursing+Home/@21.8247722,76.3395985,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1340d395f5:0xde680d8251ebe7a8!8m2!3d21.8247722!4d76.3395985!16s%2Fg%2F1hm4hxkkv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jain+Nursing+Home/@21.8247722,76.3395985,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1340d395f5:0xde680d8251ebe7a8!8m2!3d21.8247722!4d76.3395985!16s%2Fg%2F1hm4hxkkv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2954,8 +2930,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jain+Nursing+Home/@21.8247722,76.3395985,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1340d395f5:0xde680d8251ebe7a8!8m2!3d21.8247722!4d76.3395985!16s%2Fg%2F1hm4hxkkv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kabra-dental-health-clinic-best-dentist-in-khandwa-khandwa",
@@ -3003,7 +2978,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/kABRA+DENTAL+HEALTH+CLINIC.+Best+dentist+in+khandwa/@21.8314037,76.3497612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bd734c49609:0x5df222adfcb383a1!8m2!3d21.8314037!4d76.3497612!16s%2Fg%2F11z367h_7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/kABRA+DENTAL+HEALTH+CLINIC.+Best+dentist+in+khandwa/@21.8314037,76.3497612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bd734c49609:0x5df222adfcb383a1!8m2!3d21.8314037!4d76.3497612!16s%2Fg%2F11z367h_7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3069,11 +3044,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/kABRA+DENTAL+HEALTH+CLINIC.+Best+dentist+in+khandwa/@21.8314037,76.3497612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bd734c49609:0x5df222adfcb383a1!8m2!3d21.8314037!4d76.3497612!16s%2Fg%2F11z367h_7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "khandwa-sonographics-khandwa",
@@ -3122,7 +3096,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Khandwa+Sonographics/@21.824058,76.341926,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6cea193425:0xc111eb5ebdebcead!8m2!3d21.824058!4d76.341926!16s%2Fg%2F1v3kfzb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khandwa+Sonographics/@21.824058,76.341926,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6cea193425:0xc111eb5ebdebcead!8m2!3d21.824058!4d76.341926!16s%2Fg%2F1v3kfzb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3191,8 +3165,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Khandwa+Sonographics/@21.824058,76.341926,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6cea193425:0xc111eb5ebdebcead!8m2!3d21.824058!4d76.341926!16s%2Fg%2F1v3kfzb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "laxmi-dodwe-hospital-khandwa-taraf-kumbhi",
@@ -3240,7 +3213,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Laxmi+Dodwe+Hospital/@21.8222361,76.3426885,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6d11fb1a23:0x2c19df53935f152a!8m2!3d21.8222361!4d76.3426885!16s%2Fg%2F11c6vcp6v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+Dodwe+Hospital/@21.8222361,76.3426885,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6d11fb1a23:0x2c19df53935f152a!8m2!3d21.8222361!4d76.3426885!16s%2Fg%2F11c6vcp6v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3309,8 +3282,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Laxmi+Dodwe+Hospital/@21.8222361,76.3426885,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6d11fb1a23:0x2c19df53935f152a!8m2!3d21.8222361!4d76.3426885!16s%2Fg%2F11c6vcp6v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-care-poly-clinic-khandwa",
@@ -3360,7 +3332,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LIFE+CARE+POLY+CLINIC/@21.8273619,76.3461454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b166696ad47:0x6894a80f3bae984f!8m2!3d21.8273619!4d76.3461454!16s%2Fg%2F11vry4jgrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LIFE+CARE+POLY+CLINIC/@21.8273619,76.3461454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b166696ad47:0x6894a80f3bae984f!8m2!3d21.8273619!4d76.3461454!16s%2Fg%2F11vry4jgrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3429,8 +3401,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LIFE+CARE+POLY+CLINIC/@21.8273619,76.3461454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b166696ad47:0x6894a80f3bae984f!8m2!3d21.8273619!4d76.3461454!16s%2Fg%2F11vry4jgrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-care-poly-clinic-and-skin-care-center-khandwa",
@@ -3479,7 +3450,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LIFE+CARE+POLY+CLINIC+AND+SKIN+CARE+CENTER/@21.8280091,76.3457788,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bc7298b1c31:0x3c6bf3ffc585822b!8m2!3d21.8280091!4d76.3457788!16s%2Fg%2F11vcr8vr3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LIFE+CARE+POLY+CLINIC+AND+SKIN+CARE+CENTER/@21.8280091,76.3457788,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bc7298b1c31:0x3c6bf3ffc585822b!8m2!3d21.8280091!4d76.3457788!16s%2Fg%2F11vcr8vr3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3545,11 +3516,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LIFE+CARE+POLY+CLINIC+AND+SKIN+CARE+CENTER/@21.8280091,76.3457788,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bc7298b1c31:0x3c6bf3ffc585822b!8m2!3d21.8280091!4d76.3457788!16s%2Fg%2F11vcr8vr3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lowenshi-clinic-khandwa",
@@ -3598,7 +3568,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LOWENSHI+CLINIC/@21.8305122,76.3493022,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4103679049:0xf2efc01a5a9a7127!8m2!3d21.8305122!4d76.3493022!16s%2Fg%2F11s5gvxg49?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LOWENSHI+CLINIC/@21.8305122,76.3493022,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4103679049:0xf2efc01a5a9a7127!8m2!3d21.8305122!4d76.3493022!16s%2Fg%2F11s5gvxg49?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3664,11 +3634,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LOWENSHI+CLINIC/@21.8305122,76.3493022,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4103679049:0xf2efc01a5a9a7127!8m2!3d21.8305122!4d76.3493022!16s%2Fg%2F11s5gvxg49?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manan-eye-care-center-khandwa-khandwa",
@@ -3718,7 +3687,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manan+Eye+Care+Center,+Khandwa/@21.8249472,76.3420329,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b19a6112c09:0x9709d8306f966880!8m2!3d21.8249472!4d76.3420329!16s%2Fg%2F11vzcvfpmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manan+Eye+Care+Center,+Khandwa/@21.8249472,76.3420329,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b19a6112c09:0x9709d8306f966880!8m2!3d21.8249472!4d76.3420329!16s%2Fg%2F11vzcvfpmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3784,11 +3753,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manan+Eye+Care+Center,+Khandwa/@21.8249472,76.3420329,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b19a6112c09:0x9709d8306f966880!8m2!3d21.8249472!4d76.3420329!16s%2Fg%2F11vzcvfpmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mishra-hospital-khandwa",
@@ -3836,7 +3804,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mishra+Hospital/@21.8260439,76.3512227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4b230266c9:0x152ae5bb821e2e2!8m2!3d21.8260439!4d76.3512227!16s%2Fg%2F11grbtn7t9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mishra+Hospital/@21.8260439,76.3512227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4b230266c9:0x152ae5bb821e2e2!8m2!3d21.8260439!4d76.3512227!16s%2Fg%2F11grbtn7t9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3905,8 +3873,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mishra+Hospital/@21.8260439,76.3512227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b4b230266c9:0x152ae5bb821e2e2!8m2!3d21.8260439!4d76.3512227!16s%2Fg%2F11grbtn7t9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mukhyamantri-sanjeevani-clinic-ganesh-talai-khandwa-khandwa",
@@ -3954,7 +3921,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mukhyamantri+sanjeevani+clinic+ganesh+talai+khandwa/@21.8306323,76.3587322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b0013be28bf:0xa7e008ee966aef00!8m2!3d21.8306323!4d76.3587322!16s%2Fg%2F11yz_bw_4b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mukhyamantri+sanjeevani+clinic+ganesh+talai+khandwa/@21.8306323,76.3587322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b0013be28bf:0xa7e008ee966aef00!8m2!3d21.8306323!4d76.3587322!16s%2Fg%2F11yz_bw_4b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4020,11 +3987,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mukhyamantri+sanjeevani+clinic+ganesh+talai+khandwa/@21.8306323,76.3587322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b0013be28bf:0xa7e008ee966aef00!8m2!3d21.8306323!4d76.3587322!16s%2Fg%2F11yz_bw_4b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "narmada-hospital-khandwa-taraf-kumbhi",
@@ -4073,7 +4039,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Narmada+Hospital/@21.8261576,76.3366487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b042fe344c5:0x8034669ca0e2f3f6!8m2!3d21.8261576!4d76.3366487!16s%2Fg%2F11qbs9xp0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narmada+Hospital/@21.8261576,76.3366487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b042fe344c5:0x8034669ca0e2f3f6!8m2!3d21.8261576!4d76.3366487!16s%2Fg%2F11qbs9xp0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4142,8 +4108,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Narmada+Hospital/@21.8261576,76.3366487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b042fe344c5:0x8034669ca0e2f3f6!8m2!3d21.8261576!4d76.3366487!16s%2Fg%2F11qbs9xp0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navodaya-hospital-khandwa",
@@ -4191,7 +4156,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navodaya+Hospital/@21.8249582,76.3417012,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b83f23dacc9:0x40965c9c8c0d491b!8m2!3d21.8249582!4d76.3417012!16s%2Fg%2F11kxrn7b15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navodaya+Hospital/@21.8249582,76.3417012,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b83f23dacc9:0x40965c9c8c0d491b!8m2!3d21.8249582!4d76.3417012!16s%2Fg%2F11kxrn7b15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4260,8 +4225,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navodaya+Hospital/@21.8249582,76.3417012,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b83f23dacc9:0x40965c9c8c0d491b!8m2!3d21.8249582!4d76.3417012!16s%2Fg%2F11kxrn7b15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-life-hospital-khandwa-khandwa",
@@ -4309,7 +4273,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Life+Hospital,+Khandwa/@21.821713,76.3635949,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bd76f9fe417:0x2c09342ca4838f8e!8m2!3d21.821713!4d76.3635949!16s%2Fg%2F11rb9p3pxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Life+Hospital,+Khandwa/@21.821713,76.3635949,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bd76f9fe417:0x2c09342ca4838f8e!8m2!3d21.821713!4d76.3635949!16s%2Fg%2F11rb9p3pxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4375,11 +4339,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Life+Hospital,+Khandwa/@21.821713,76.3635949,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bd76f9fe417:0x2c09342ca4838f8e!8m2!3d21.821713!4d76.3635949!16s%2Fg%2F11rb9p3pxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nimar-sonography-clinic-khandwa",
@@ -4428,7 +4391,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/nimar+sonography+clinic/@21.8249473,76.3417484,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bbf241e6385:0xadce3985d2467db9!8m2!3d21.8249473!4d76.3417484!16s%2Fg%2F11jv81jz29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/nimar+sonography+clinic/@21.8249473,76.3417484,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bbf241e6385:0xadce3985d2467db9!8m2!3d21.8249473!4d76.3417484!16s%2Fg%2F11jv81jz29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4497,8 +4460,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/nimar+sonography+clinic/@21.8249473,76.3417484,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bbf241e6385:0xadce3985d2467db9!8m2!3d21.8249473!4d76.3417484!16s%2Fg%2F11jv81jz29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parishram-health-clinic-khandwa",
@@ -4546,7 +4508,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Parishram+Health+Clinic/@21.8331653,76.3598006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b401b99829d:0xf02e09851d90f9d9!8m2!3d21.8331653!4d76.3598006!16s%2Fg%2F11tcw1dt1_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parishram+Health+Clinic/@21.8331653,76.3598006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b401b99829d:0xf02e09851d90f9d9!8m2!3d21.8331653!4d76.3598006!16s%2Fg%2F11tcw1dt1_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4612,11 +4574,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Parishram+Health+Clinic/@21.8331653,76.3598006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b401b99829d:0xf02e09851d90f9d9!8m2!3d21.8331653!4d76.3598006!16s%2Fg%2F11tcw1dt1_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patel-dental-clinic-khandwa",
@@ -4664,7 +4625,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patel+Dental+clinic/@21.8204432,76.3433521,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b12edd81b53:0xef6a41de656aea57!8m2!3d21.8204432!4d76.3433521!16s%2Fg%2F11tcqpdt2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patel+Dental+clinic/@21.8204432,76.3433521,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b12edd81b53:0xef6a41de656aea57!8m2!3d21.8204432!4d76.3433521!16s%2Fg%2F11tcqpdt2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4730,11 +4691,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patel+Dental+clinic/@21.8204432,76.3433521,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b12edd81b53:0xef6a41de656aea57!8m2!3d21.8204432!4d76.3433521!16s%2Fg%2F11tcqpdt2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patidar-clinic-khandwa",
@@ -4780,7 +4740,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patidar+Clinic/data=!4m7!3m6!1s0x3bd81b99e3a552a3:0xe6a9a4855c1e9805!8m2!3d21.8241473!4d76.3365078!16s%2Fg%2F11t71ckrzk!19sChIJo1Kl45kb2DsRBZgeXIWkqeY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patidar+Clinic/data=!4m7!3m6!1s0x3bd81b99e3a552a3:0xe6a9a4855c1e9805!8m2!3d21.8241473!4d76.3365078!16s%2Fg%2F11t71ckrzk!19sChIJo1Kl45kb2DsRBZgeXIWkqeY?authuser=0&hl=en&rclk=1"
@@ -4846,11 +4806,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patidar+Clinic/data=!4m7!3m6!1s0x3bd81b99e3a552a3:0xe6a9a4855c1e9805!8m2!3d21.8241473!4d76.3365078!16s%2Fg%2F11t71ckrzk!19sChIJo1Kl45kb2DsRBZgeXIWkqeY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prakash-hospital-khandwa",
@@ -4899,7 +4858,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prakash+Hospital/@21.8263336,76.336238,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1472c65a9f:0x5ec1706a6c8b1353!8m2!3d21.8263336!4d76.336238!16s%2Fg%2F1thxz7wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prakash+Hospital/@21.8263336,76.336238,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1472c65a9f:0x5ec1706a6c8b1353!8m2!3d21.8263336!4d76.336238!16s%2Fg%2F1thxz7wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4968,8 +4927,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prakash+Hospital/@21.8263336,76.336238,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1472c65a9f:0x5ec1706a6c8b1353!8m2!3d21.8263336!4d76.336238!16s%2Fg%2F1thxz7wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sahni-dent-o-care-khandwa",
@@ -5017,7 +4975,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAHNI+DENT+O+CARE/@21.8336215,76.3420113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b61f07baf1b:0x9d861ecaad60bcda!8m2!3d21.8336215!4d76.3420113!16s%2Fg%2F11nc1_b906?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAHNI+DENT+O+CARE/@21.8336215,76.3420113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b61f07baf1b:0x9d861ecaad60bcda!8m2!3d21.8336215!4d76.3420113!16s%2Fg%2F11nc1_b906?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5083,11 +5041,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAHNI+DENT+O+CARE/@21.8336215,76.3420113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b61f07baf1b:0x9d861ecaad60bcda!8m2!3d21.8336215!4d76.3420113!16s%2Fg%2F11nc1_b906?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sampurna-sodani-diagnostic-centre-khandwa-khandwa",
@@ -5137,7 +5094,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sampurna+Sodani+Diagnostic+Centre+Khandwa/@21.824944,76.3421007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6cbe1a7c3b:0x595caebbc4f2a974!8m2!3d21.824944!4d76.3421007!16s%2Fg%2F1th1b4z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sampurna+Sodani+Diagnostic+Centre+Khandwa/@21.824944,76.3421007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6cbe1a7c3b:0x595caebbc4f2a974!8m2!3d21.824944!4d76.3421007!16s%2Fg%2F1th1b4z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5206,8 +5163,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sampurna+Sodani+Diagnostic+Centre+Khandwa/@21.824944,76.3421007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6cbe1a7c3b:0x595caebbc4f2a974!8m2!3d21.824944!4d76.3421007!16s%2Fg%2F1th1b4z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-s-dental-clinic-khandwa",
@@ -5255,7 +5211,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHARMA'S+DENTAL+CLINIC/@21.8252515,76.3510527,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b005d292dd3:0xcdc14fd9c173b5cd!8m2!3d21.8252515!4d76.3510527!16s%2Fg%2F11xtdyh0m_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHARMA'S+DENTAL+CLINIC/@21.8252515,76.3510527,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b005d292dd3:0xcdc14fd9c173b5cd!8m2!3d21.8252515!4d76.3510527!16s%2Fg%2F11xtdyh0m_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5321,11 +5277,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHARMA'S+DENTAL+CLINIC/@21.8252515,76.3510527,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b005d292dd3:0xcdc14fd9c173b5cd!8m2!3d21.8252515!4d76.3510527!16s%2Fg%2F11xtdyh0m_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-vakratunda-ayurveda-beauty-hub-gapl-ayurveda-khandwa",
@@ -5373,7 +5328,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+vakratunda+Ayurveda+beauty+Hub+GAPL+Ayurveda/@21.8285836,76.3540508,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b44e6b1693f:0x41976e5979fdb1b9!8m2!3d21.8285836!4d76.3540508!16s%2Fg%2F11z24dxm_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+vakratunda+Ayurveda+beauty+Hub+GAPL+Ayurveda/@21.8285836,76.3540508,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b44e6b1693f:0x41976e5979fdb1b9!8m2!3d21.8285836!4d76.3540508!16s%2Fg%2F11z24dxm_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5439,11 +5394,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+vakratunda+Ayurveda+beauty+Hub+GAPL+Ayurveda/@21.8285836,76.3540508,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b44e6b1693f:0x41976e5979fdb1b9!8m2!3d21.8285836!4d76.3540508!16s%2Fg%2F11z24dxm_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreeji-dental-clinic-khandwa",
@@ -5493,7 +5447,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreeji+Dental+Clinic/@21.8226535,76.3484127,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b07c4572713:0x3a874876ef21457a!8m2!3d21.8226535!4d76.3484127!16s%2Fg%2F11g4h__8h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreeji+Dental+Clinic/@21.8226535,76.3484127,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b07c4572713:0x3a874876ef21457a!8m2!3d21.8226535!4d76.3484127!16s%2Fg%2F11g4h__8h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5562,8 +5516,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreeji+Dental+Clinic/@21.8226535,76.3484127,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b07c4572713:0x3a874876ef21457a!8m2!3d21.8226535!4d76.3484127!16s%2Fg%2F11g4h__8h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreenathji-hospital-khandwa",
@@ -5611,7 +5564,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreenathji+hospital/@21.8400799,76.3462492,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b002d5cc4a3:0x4070369e720dc5c7!8m2!3d21.8400799!4d76.3462492!16s%2Fg%2F11y6p6n0vc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreenathji+hospital/@21.8400799,76.3462492,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b002d5cc4a3:0x4070369e720dc5c7!8m2!3d21.8400799!4d76.3462492!16s%2Fg%2F11y6p6n0vc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5677,11 +5630,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreenathji+hospital/@21.8400799,76.3462492,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b002d5cc4a3:0x4070369e720dc5c7!8m2!3d21.8400799!4d76.3462492!16s%2Fg%2F11y6p6n0vc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-diagnostic-center-khandwa-jeevan-jyoti-complex-ke-piche-evam-lady-butler-hospital-gate-ke-pass",
@@ -5730,7 +5682,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHRI+DIAGNOSTIC+CENTER+KHANDWA/@21.8243731,76.3421853,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bc9e9a6ff27:0x43ce411e6e34cf79!8m2!3d21.8243731!4d76.3421853!16s%2Fg%2F11h193fyy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHRI+DIAGNOSTIC+CENTER+KHANDWA/@21.8243731,76.3421853,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bc9e9a6ff27:0x43ce411e6e34cf79!8m2!3d21.8243731!4d76.3421853!16s%2Fg%2F11h193fyy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5799,8 +5751,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHRI+DIAGNOSTIC+CENTER+KHANDWA/@21.8243731,76.3421853,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bc9e9a6ff27:0x43ce411e6e34cf79!8m2!3d21.8243731!4d76.3421853!16s%2Fg%2F11h193fyy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-harihar-ayurved-and-panchakarma-wellness-centre-khandwa-khandwa",
@@ -5848,7 +5799,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Harihar+Ayurved+And+Panchakarma+Wellness+Centre+Khandwa/@21.826021,76.3454837,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b00228e5ae7:0x1337bfb78af2b2bb!8m2!3d21.826021!4d76.3454837!16s%2Fg%2F11wth3wg4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Harihar+Ayurved+And+Panchakarma+Wellness+Centre+Khandwa/@21.826021,76.3454837,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b00228e5ae7:0x1337bfb78af2b2bb!8m2!3d21.826021!4d76.3454837!16s%2Fg%2F11wth3wg4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5914,11 +5865,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Harihar+Ayurved+And+Panchakarma+Wellness+Centre+Khandwa/@21.826021,76.3454837,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b00228e5ae7:0x1337bfb78af2b2bb!8m2!3d21.826021!4d76.3454837!16s%2Fg%2F11wth3wg4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-vishwakarma-clinic-khandwa",
@@ -5966,7 +5916,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Vishwakarma+Clinic/@21.830424,76.343389,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6af5e94ad5:0x45329a52b2c02b2c!8m2!3d21.830424!4d76.343389!16s%2Fg%2F11c70bx_lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Vishwakarma+Clinic/@21.830424,76.343389,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6af5e94ad5:0x45329a52b2c02b2c!8m2!3d21.830424!4d76.343389!16s%2Fg%2F11c70bx_lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6032,11 +5982,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Vishwakarma+Clinic/@21.830424,76.343389,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6af5e94ad5:0x45329a52b2c02b2c!8m2!3d21.830424!4d76.343389!16s%2Fg%2F11c70bx_lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shrimali-hospital-best-mother-and-child-hospital-hospital-for-newborns-nicu-khandwa",
@@ -6085,7 +6034,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shrimali+Hospital+%7C%7C+Best+Mother+And+Child+Hospital+%7C+Hospital+For+Newborns+(Nicu)/@21.8288699,76.3498467,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b68e44dc02d:0x12c40de0e1538340!8m2!3d21.8288699!4d76.3498467!16s%2Fg%2F1hhjt691h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shrimali+Hospital+%7C%7C+Best+Mother+And+Child+Hospital+%7C+Hospital+For+Newborns+(Nicu)/@21.8288699,76.3498467,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b68e44dc02d:0x12c40de0e1538340!8m2!3d21.8288699!4d76.3498467!16s%2Fg%2F1hhjt691h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6154,8 +6103,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shrimali+Hospital+%7C%7C+Best+Mother+And+Child+Hospital+%7C+Hospital+For+Newborns+(Nicu)/@21.8288699,76.3498467,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b68e44dc02d:0x12c40de0e1538340!8m2!3d21.8288699!4d76.3498467!16s%2Fg%2F1hhjt691h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shroff-clinic-dental-care-khandwa",
@@ -6205,7 +6153,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shroff+clinic-Dental+Care/@21.8339742,76.3511765,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bed1f9a59dd:0x91f9f2ca1e77bd52!8m2!3d21.8339742!4d76.3511765!16s%2Fg%2F11glws2kv1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shroff+clinic-Dental+Care/@21.8339742,76.3511765,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bed1f9a59dd:0x91f9f2ca1e77bd52!8m2!3d21.8339742!4d76.3511765!16s%2Fg%2F11glws2kv1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6271,11 +6219,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shroff+clinic-Dental+Care/@21.8339742,76.3511765,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bed1f9a59dd:0x91f9f2ca1e77bd52!8m2!3d21.8339742!4d76.3511765!16s%2Fg%2F11glws2kv1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "skinify-clinic-khandwa-taraf-kumbhi",
@@ -6323,7 +6270,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Skinify+clinic/@21.8246067,76.3419316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81be69b7b57f7:0x837cdd018a81e9d2!8m2!3d21.8246067!4d76.3419316!16s%2Fg%2F11n0dygddk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skinify+clinic/@21.8246067,76.3419316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81be69b7b57f7:0x837cdd018a81e9d2!8m2!3d21.8246067!4d76.3419316!16s%2Fg%2F11n0dygddk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6392,8 +6339,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Skinify+clinic/@21.8246067,76.3419316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81be69b7b57f7:0x837cdd018a81e9d2!8m2!3d21.8246067!4d76.3419316!16s%2Fg%2F11n0dygddk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-clinic-khandwa",
@@ -6442,7 +6388,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Dental+Clinic/@21.8222491,76.345205,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6dc220aa97:0x63147fa4128cd8db!8m2!3d21.8222491!4d76.345205!16s%2Fg%2F11f29xtmcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental+Clinic/@21.8222491,76.345205,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6dc220aa97:0x63147fa4128cd8db!8m2!3d21.8222491!4d76.345205!16s%2Fg%2F11f29xtmcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6508,11 +6454,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Dental+Clinic/@21.8222491,76.345205,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b6dc220aa97:0x63147fa4128cd8db!8m2!3d21.8222491!4d76.345205!16s%2Fg%2F11f29xtmcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sng-hospital-63-hanuman-nagar-lal-bahadur-shashtri-ward-no-42",
@@ -6560,7 +6505,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SNG+HOSPITAL/@21.8314037,76.3497612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b7a2c5fe2c9:0xc39f1b32885eda1d!8m2!3d21.8314037!4d76.3497612!16s%2Fg%2F11l820z4_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SNG+HOSPITAL/@21.8314037,76.3497612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b7a2c5fe2c9:0xc39f1b32885eda1d!8m2!3d21.8314037!4d76.3497612!16s%2Fg%2F11l820z4_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6626,11 +6571,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SNG+HOSPITAL/@21.8314037,76.3497612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b7a2c5fe2c9:0xc39f1b32885eda1d!8m2!3d21.8314037!4d76.3497612!16s%2Fg%2F11l820z4_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "snigdha-dental-and-cosmetic-clinic-khandwa",
@@ -6678,7 +6622,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SNIGDHA+Dental+And+Cosmetic+Clinic/@21.8250005,76.3428211,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b3421186223:0xc39da471caf0247b!8m2!3d21.8250005!4d76.3428211!16s%2Fg%2F11jdd38hd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SNIGDHA+Dental+And+Cosmetic+Clinic/@21.8250005,76.3428211,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b3421186223:0xc39da471caf0247b!8m2!3d21.8250005!4d76.3428211!16s%2Fg%2F11jdd38hd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6747,8 +6691,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SNIGDHA+Dental+And+Cosmetic+Clinic/@21.8250005,76.3428211,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b3421186223:0xc39da471caf0247b!8m2!3d21.8250005!4d76.3428211!16s%2Fg%2F11jdd38hd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "soni-hospital-khandwa",
@@ -6796,7 +6739,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Soni+Hospital/@21.8265539,76.3417432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b0079eb6915:0xa0a7e2d09737bbf8!8m2!3d21.8265539!4d76.3417432!16s%2Fg%2F11yb_0l3tv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soni+Hospital/@21.8265539,76.3417432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b0079eb6915:0xa0a7e2d09737bbf8!8m2!3d21.8265539!4d76.3417432!16s%2Fg%2F11yb_0l3tv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6862,11 +6805,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Soni+Hospital/@21.8265539,76.3417432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b0079eb6915:0xa0a7e2d09737bbf8!8m2!3d21.8265539!4d76.3417432!16s%2Fg%2F11yb_0l3tv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "speech-and-hearing-solutions-khandwa-khandwa",
@@ -6915,7 +6857,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Speech+And+Hearing+Solutions+Khandwa/@21.8242905,76.342063,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bef2da70d03:0x682ac3bc647a276d!8m2!3d21.8242905!4d76.342063!16s%2Fg%2F11s8y1lxjr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Speech+And+Hearing+Solutions+Khandwa/@21.8242905,76.342063,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bef2da70d03:0x682ac3bc647a276d!8m2!3d21.8242905!4d76.342063!16s%2Fg%2F11s8y1lxjr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6981,11 +6923,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Speech+And+Hearing+Solutions+Khandwa/@21.8242905,76.342063,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bef2da70d03:0x682ac3bc647a276d!8m2!3d21.8242905!4d76.342063!16s%2Fg%2F11s8y1lxjr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "st-pampuri-hospital-khandwa",
@@ -7033,7 +6974,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/st.pampuri+hospital/@21.8252505,76.3194794,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1f7ee257c7:0x535e54803fce7f8e!8m2!3d21.8252505!4d76.3194794!16s%2Fg%2F11ghpsk4lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/st.pampuri+hospital/@21.8252505,76.3194794,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1f7ee257c7:0x535e54803fce7f8e!8m2!3d21.8252505!4d76.3194794!16s%2Fg%2F11ghpsk4lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7102,8 +7043,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/st.pampuri+hospital/@21.8252505,76.3194794,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1f7ee257c7:0x535e54803fce7f8e!8m2!3d21.8252505!4d76.3194794!16s%2Fg%2F11ghpsk4lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suhani-harbal-clinic-khandwa",
@@ -7149,7 +7089,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Suhani+Harbal+Clinic/data=!4m7!3m6!1s0x3bd81ba3425206fb:0xf970f34def5fd5f6!8m2!3d21.8226476!4d76.3574652!16s%2Fg%2F11sv_mfqdh!19sChIJ-wZSQqMb2DsR9tVf703zcPk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suhani+Harbal+Clinic/data=!4m7!3m6!1s0x3bd81ba3425206fb:0xf970f34def5fd5f6!8m2!3d21.8226476!4d76.3574652!16s%2Fg%2F11sv_mfqdh!19sChIJ-wZSQqMb2DsR9tVf703zcPk?authuser=0&hl=en&rclk=1"
@@ -7215,11 +7155,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Suhani+Harbal+Clinic/data=!4m7!3m6!1s0x3bd81ba3425206fb:0xf970f34def5fd5f6!8m2!3d21.8226476!4d76.3574652!16s%2Fg%2F11sv_mfqdh!19sChIJ-wZSQqMb2DsR9tVf703zcPk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suresh-medical-stores-indore",
@@ -7268,7 +7207,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/suresh+medical+stores/@22.6740586,75.8800304,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcbe8bc929ed:0x9d0620e173df4f5e!8m2!3d22.6740586!4d75.8800304!16s%2Fg%2F11c59wndcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/suresh+medical+stores/@22.6740586,75.8800304,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcbe8bc929ed:0x9d0620e173df4f5e!8m2!3d22.6740586!4d75.8800304!16s%2Fg%2F11c59wndcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7334,11 +7273,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/suresh+medical+stores/@22.6740586,75.8800304,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcbe8bc929ed:0x9d0620e173df4f5e!8m2!3d22.6740586!4d75.8800304!16s%2Fg%2F11c59wndcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tirthani-dental-clinic-khandwa",
@@ -7386,7 +7324,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/TIRTHANI+DENTAL+CLINIC/@21.8246067,76.3419316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bd086225f3f:0x5ca05a8c0bcfd411!8m2!3d21.8246067!4d76.3419316!16s%2Fg%2F11p_16y7j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TIRTHANI+DENTAL+CLINIC/@21.8246067,76.3419316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bd086225f3f:0x5ca05a8c0bcfd411!8m2!3d21.8246067!4d76.3419316!16s%2Fg%2F11p_16y7j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7452,11 +7390,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/TIRTHANI+DENTAL+CLINIC/@21.8246067,76.3419316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81bd086225f3f:0x5ca05a8c0bcfd411!8m2!3d21.8246067!4d76.3419316!16s%2Fg%2F11p_16y7j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "venus-skin-and-plastic-surgery-centre-indore",
@@ -7502,7 +7439,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Venus+Skin+%26+Plastic+surgery+Centre/@22.2337974,76.0476573,17z/data=!3m1!4b1!4m6!3m5!1s0x39629705984f8471:0xb52b4acbe204dde9!8m2!3d22.2337974!4d76.0476573!16s%2Fg%2F11z357vf0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venus+Skin+%26+Plastic+surgery+Centre/@22.2337974,76.0476573,17z/data=!3m1!4b1!4m6!3m5!1s0x39629705984f8471:0xb52b4acbe204dde9!8m2!3d22.2337974!4d76.0476573!16s%2Fg%2F11z357vf0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7568,11 +7505,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Venus+Skin+%26+Plastic+surgery+Centre/@22.2337974,76.0476573,17z/data=!3m1!4b1!4m6!3m5!1s0x39629705984f8471:0xb52b4acbe204dde9!8m2!3d22.2337974!4d76.0476573!16s%2Fg%2F11z357vf0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vindhya-hospital-and-research-centre-rewa",
@@ -7621,7 +7557,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vindhya+Hospital+%26+Research+Centre/@24.5397225,81.2859173,17z/data=!3m1!4b1!4m6!3m5!1s0x39845bcf48c35057:0xd53574e215ee243e!8m2!3d24.5397225!4d81.2859173!16s%2Fg%2F11bwqbbv2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vindhya+Hospital+%26+Research+Centre/@24.5397225,81.2859173,17z/data=!3m1!4b1!4m6!3m5!1s0x39845bcf48c35057:0xd53574e215ee243e!8m2!3d24.5397225!4d81.2859173!16s%2Fg%2F11bwqbbv2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7690,8 +7626,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vindhya+Hospital+%26+Research+Centre/@24.5397225,81.2859173,17z/data=!3m1!4b1!4m6!3m5!1s0x39845bcf48c35057:0xd53574e215ee243e!8m2!3d24.5397225!4d81.2859173!16s%2Fg%2F11bwqbbv2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "xpert-oracare-dental-clinic-laser-teeth-whitening-in-rani-bagh-main-indore-best-dentist-in-rani-bagh-main-indore-indore",
@@ -7741,7 +7676,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Xpert+Oracare+Dental+Clinic+%7C+Laser+Teeth+Whitening+in+Rani+Bagh+Main+Indore+%7C+Best+dentist+in+Rani+Bagh+Main,+Indore/@22.6789864,75.8773735,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcc008074255:0xa7290eb3b6a917c0!8m2!3d22.6789864!4d75.8773735!16s%2Fg%2F11shnyp9_4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Xpert+Oracare+Dental+Clinic+%7C+Laser+Teeth+Whitening+in+Rani+Bagh+Main+Indore+%7C+Best+dentist+in+Rani+Bagh+Main,+Indore/@22.6789864,75.8773735,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcc008074255:0xa7290eb3b6a917c0!8m2!3d22.6789864!4d75.8773735!16s%2Fg%2F11shnyp9_4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7807,10 +7742,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Xpert+Oracare+Dental+Clinic+%7C+Laser+Teeth+Whitening+in+Rani+Bagh+Main+Indore+%7C+Best+dentist+in+Rani+Bagh+Main,+Indore/@22.6789864,75.8773735,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcc008074255:0xa7290eb3b6a917c0!8m2!3d22.6789864!4d75.8773735!16s%2Fg%2F11shnyp9_4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

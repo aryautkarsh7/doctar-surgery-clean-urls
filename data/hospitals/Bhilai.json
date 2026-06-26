@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A+M+HOSPITAL+%28AMIT+MEMORIAL%29/data=!4m7!3m6!1s0x3a2921a570fc53df:0x9e2474b01c77c620!8m2!3d21.2165835!4d81.447241!16s%2Fg%2F11pkdcx49g!19sChIJ31P8cKUhKToRIMZ3HLB0JJ4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+M+HOSPITAL+%28AMIT+MEMORIAL%29/data=!4m7!3m6!1s0x3a2921a570fc53df:0x9e2474b01c77c620!8m2!3d21.2165835!4d81.447241!16s%2Fg%2F11pkdcx49g!19sChIJ31P8cKUhKToRIMZ3HLB0JJ4?authuser=0&hl=en&rclk=1"
@@ -114,8 +114,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A+M+HOSPITAL+%28AMIT+MEMORIAL%29/data=!4m7!3m6!1s0x3a2921a570fc53df:0x9e2474b01c77c620!8m2!3d21.2165835!4d81.447241!16s%2Fg%2F11pkdcx49g!19sChIJ31P8cKUhKToRIMZ3HLB0JJ4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "a-p-surgical-centre-bhilai",
@@ -161,7 +160,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A.P.+SURGICAL+CENTRE/data=!4m7!3m6!1s0x3a2922e07bbe161b:0x48ce2332fd20a716!8m2!3d21.2087484!4d81.362386!16s%2Fg%2F11vm5b9jsz!19sChIJGxa-e-AiKToRFqcg_TIjzkg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.P.+SURGICAL+CENTRE/data=!4m7!3m6!1s0x3a2922e07bbe161b:0x48ce2332fd20a716!8m2!3d21.2087484!4d81.362386!16s%2Fg%2F11vm5b9jsz!19sChIJGxa-e-AiKToRFqcg_TIjzkg?authuser=0&hl=en&rclk=1"
@@ -227,11 +226,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A.P.+SURGICAL+CENTRE/data=!4m7!3m6!1s0x3a2922e07bbe161b:0x48ce2332fd20a716!8m2!3d21.2087484!4d81.362386!16s%2Fg%2F11vm5b9jsz!19sChIJGxa-e-AiKToRFqcg_TIjzkg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aarogya-physiotherapy-rehab-and-robotic-clinic-risali-and-nehru-nagar-bhilai-bhilai",
@@ -280,7 +278,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AAROGYA+PHYSIOTHERAPY,REHAB+%26+ROBOTIC+ClINIC+%28RISALI+%26+NEHRU+NAGAR+BHILAI+%29/data=!4m7!3m6!1s0x3a293dc3824b52eb:0xd07044000b57693a!8m2!3d21.1682833!4d81.3366078!16s%2Fg%2F11rsbf68h_!19sChIJ61JLgsM9KToROmlXCwBEcNA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AAROGYA+PHYSIOTHERAPY,REHAB+%26+ROBOTIC+ClINIC+%28RISALI+%26+NEHRU+NAGAR+BHILAI+%29/data=!4m7!3m6!1s0x3a293dc3824b52eb:0xd07044000b57693a!8m2!3d21.1682833!4d81.3366078!16s%2Fg%2F11rsbf68h_!19sChIJ61JLgsM9KToROmlXCwBEcNA?authuser=0&hl=en&rclk=1"
@@ -349,8 +347,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AAROGYA+PHYSIOTHERAPY,REHAB+%26+ROBOTIC+ClINIC+%28RISALI+%26+NEHRU+NAGAR+BHILAI+%29/data=!4m7!3m6!1s0x3a293dc3824b52eb:0xd07044000b57693a!8m2!3d21.1682833!4d81.3366078!16s%2Fg%2F11rsbf68h_!19sChIJ61JLgsM9KToROmlXCwBEcNA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "agrawal-dental-clinic-and-implant-centre-in-bhilai-dentist-cosmetic-dentist-bhilai",
@@ -398,7 +395,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Agrawal+Dental+Clinic+and+Implant+Centre+in+Bhilai+%7C+Dentist+%7C+cosmetic+Dentist/data=!4m7!3m6!1s0x3a293dfd5b074065:0x1fccda01a610fde9!8m2!3d21.2334374!4d81.3659751!16s%2Fg%2F11yx9x38v3!19sChIJZUAHW_09KToR6f0QpgHazB8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agrawal+Dental+Clinic+and+Implant+Centre+in+Bhilai+%7C+Dentist+%7C+cosmetic+Dentist/data=!4m7!3m6!1s0x3a293dfd5b074065:0x1fccda01a610fde9!8m2!3d21.2334374!4d81.3659751!16s%2Fg%2F11yx9x38v3!19sChIJZUAHW_09KToR6f0QpgHazB8?authuser=0&hl=en&rclk=1"
@@ -464,11 +461,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Agrawal+Dental+Clinic+and+Implant+Centre+in+Bhilai+%7C+Dentist+%7C+cosmetic+Dentist/data=!4m7!3m6!1s0x3a293dfd5b074065:0x1fccda01a610fde9!8m2!3d21.2334374!4d81.3659751!16s%2Fg%2F11yx9x38v3!19sChIJZUAHW_09KToR6f0QpgHazB8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ap-surgical-centre-bhilai",
@@ -516,7 +512,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ap+Surgical+Centre/data=!4m7!3m6!1s0x3a2922d7aaaadad5:0x1233ef8d0741673d!8m2!3d21.208478!4d81.348195!16s%2Fg%2F11r48khwtb!19sChIJ1dqqqtciKToRPWdBB43vMxI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ap+Surgical+Centre/data=!4m7!3m6!1s0x3a2922d7aaaadad5:0x1233ef8d0741673d!8m2!3d21.208478!4d81.348195!16s%2Fg%2F11r48khwtb!19sChIJ1dqqqtciKToRPWdBB43vMxI?authuser=0&hl=en&rclk=1"
@@ -582,11 +578,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ap+Surgical+Centre/data=!4m7!3m6!1s0x3a2922d7aaaadad5:0x1233ef8d0741673d!8m2!3d21.208478!4d81.348195!16s%2Fg%2F11r48khwtb!19sChIJ1dqqqtciKToRPWdBB43vMxI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apex-eye-hospital-and-retina-center-durg",
@@ -635,7 +630,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/APEX+EYE+HOSPITAL+AND+RETINA+CENTER/data=!4m7!3m6!1s0x3a293d2c10e4111f:0x9c1b664316058ed8!8m2!3d21.1977768!4d81.2881723!16s%2Fg%2F11lgl_bg1b!19sChIJHxHkECw9KToR2I4FFkNmG5w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/APEX+EYE+HOSPITAL+AND+RETINA+CENTER/data=!4m7!3m6!1s0x3a293d2c10e4111f:0x9c1b664316058ed8!8m2!3d21.1977768!4d81.2881723!16s%2Fg%2F11lgl_bg1b!19sChIJHxHkECw9KToR2I4FFkNmG5w?authuser=0&hl=en&rclk=1"
@@ -704,8 +699,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/APEX+EYE+HOSPITAL+AND+RETINA+CENTER/data=!4m7!3m6!1s0x3a293d2c10e4111f:0x9c1b664316058ed8!8m2!3d21.1977768!4d81.2881723!16s%2Fg%2F11lgl_bg1b!19sChIJHxHkECw9KToR2I4FFkNmG5w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-proton-therapy-in-bhilai-bhilai",
@@ -754,7 +748,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Bhilai/data=!4m7!3m6!1s0x3a293d1b398f43c5:0xc78d1bbaa0fc965b!8m2!3d21.182153!4d81.331206!16s%2Fg%2F11xs7v57yl!19sChIJxUOPORs9KToRW5b8oLobjcc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Bhilai/data=!4m7!3m6!1s0x3a293d1b398f43c5:0xc78d1bbaa0fc965b!8m2!3d21.182153!4d81.331206!16s%2Fg%2F11xs7v57yl!19sChIJxUOPORs9KToRW5b8oLobjcc?authuser=0&hl=en&rclk=1"
@@ -820,11 +814,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Bhilai/data=!4m7!3m6!1s0x3a293d1b398f43c5:0xc78d1bbaa0fc965b!8m2!3d21.182153!4d81.331206!16s%2Fg%2F11xs7v57yl!19sChIJxUOPORs9KToRW5b8oLobjcc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arihant-dental-care-durg",
@@ -873,7 +866,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arihant+Dental+Care/data=!4m7!3m6!1s0x3a293d6f68717c61:0x11d06d9b3107cf37!8m2!3d21.1853!4d81.2711!16s%2Fg%2F11rbdkwlz1!19sChIJYXxxaG89KToRN88HMZtt0BE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arihant+Dental+Care/data=!4m7!3m6!1s0x3a293d6f68717c61:0x11d06d9b3107cf37!8m2!3d21.1853!4d81.2711!16s%2Fg%2F11rbdkwlz1!19sChIJYXxxaG89KToRN88HMZtt0BE?authuser=0&hl=en&rclk=1"
@@ -939,11 +932,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arihant+Dental+Care/data=!4m7!3m6!1s0x3a293d6f68717c61:0x11d06d9b3107cf37!8m2!3d21.1853!4d81.2711!16s%2Fg%2F11rbdkwlz1!19sChIJYXxxaG89KToRN88HMZtt0BE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arihant-eye-care-bhilai",
@@ -992,7 +984,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arihant+Eye+Care/data=!4m7!3m6!1s0x3a293d254c491737:0xebf5e0181255e6e9!8m2!3d21.2062578!4d81.3288834!16s%2Fg%2F11jjl7lc29!19sChIJNxdJTCU9KToR6eZVEhjg9es?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arihant+Eye+Care/data=!4m7!3m6!1s0x3a293d254c491737:0xebf5e0181255e6e9!8m2!3d21.2062578!4d81.3288834!16s%2Fg%2F11jjl7lc29!19sChIJNxdJTCU9KToR6eZVEhjg9es?authuser=0&hl=en&rclk=1"
@@ -1058,11 +1050,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arihant+Eye+Care/data=!4m7!3m6!1s0x3a293d254c491737:0xebf5e0181255e6e9!8m2!3d21.2062578!4d81.3288834!16s%2Fg%2F11jjl7lc29!19sChIJNxdJTCU9KToR6eZVEhjg9es?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arora-dental-clinic-bhilai",
@@ -1111,7 +1102,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arora+Dental+Clinic/data=!4m7!3m6!1s0x3a293cac32d10c51:0x8055e6dc1def7f31!8m2!3d21.1664067!4d81.3353554!16s%2Fg%2F11bxc3zlht!19sChIJUQzRMqw8KToRMX_vHdzmVYA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arora+Dental+Clinic/data=!4m7!3m6!1s0x3a293cac32d10c51:0x8055e6dc1def7f31!8m2!3d21.1664067!4d81.3353554!16s%2Fg%2F11bxc3zlht!19sChIJUQzRMqw8KToRMX_vHdzmVYA?authuser=0&hl=en&rclk=1"
@@ -1180,8 +1171,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arora+Dental+Clinic/data=!4m7!3m6!1s0x3a293cac32d10c51:0x8055e6dc1def7f31!8m2!3d21.1664067!4d81.3353554!16s%2Fg%2F11bxc3zlht!19sChIJUQzRMqw8KToRMX_vHdzmVYA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashish-dental-care-best-dentist-in-bhilai-root-canal-treatment-bhilai",
@@ -1230,7 +1220,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ASHISH+DENTAL+CARE+%7C+Best+Dentist+in+Bhilai+%7CRoot+Canal+Treatment/data=!4m7!3m6!1s0x3a2922fc2a62023d:0xa081064e28b86d43!8m2!3d21.2102655!4d81.3783475!16s%2Fg%2F12mk_3jzk!19sChIJPQJiKvwiKToRQ224KE4GgaA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASHISH+DENTAL+CARE+%7C+Best+Dentist+in+Bhilai+%7CRoot+Canal+Treatment/data=!4m7!3m6!1s0x3a2922fc2a62023d:0xa081064e28b86d43!8m2!3d21.2102655!4d81.3783475!16s%2Fg%2F12mk_3jzk!19sChIJPQJiKvwiKToRQ224KE4GgaA?authuser=0&hl=en&rclk=1"
@@ -1299,8 +1289,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ASHISH+DENTAL+CARE+%7C+Best+Dentist+in+Bhilai+%7CRoot+Canal+Treatment/data=!4m7!3m6!1s0x3a2922fc2a62023d:0xa081064e28b86d43!8m2!3d21.2102655!4d81.3783475!16s%2Fg%2F12mk_3jzk!19sChIJPQJiKvwiKToRQ224KE4GgaA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "astvinayak-dental-care-durg",
@@ -1348,7 +1337,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Astvinayak+Dental+Care/data=!4m7!3m6!1s0x3a293c535383f61f:0xc0c6d4c2c3384350!8m2!3d21.2026309!4d81.2900752!16s%2Fg%2F11f15c31wj!19sChIJH_aDU1M8KToRUEM4w8LUxsA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Astvinayak+Dental+Care/data=!4m7!3m6!1s0x3a293c535383f61f:0xc0c6d4c2c3384350!8m2!3d21.2026309!4d81.2900752!16s%2Fg%2F11f15c31wj!19sChIJH_aDU1M8KToRUEM4w8LUxsA?authuser=0&hl=en&rclk=1"
@@ -1417,8 +1406,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Astvinayak+Dental+Care/data=!4m7!3m6!1s0x3a293c535383f61f:0xc0c6d4c2c3384350!8m2!3d21.2026309!4d81.2900752!16s%2Fg%2F11f15c31wj!19sChIJH_aDU1M8KToRUEM4w8LUxsA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "avni-nurshing-home-bhilai",
@@ -1466,7 +1454,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Avni+Nurshing+Home/data=!4m7!3m6!1s0x3a29233aaaaaaaab:0x7655623249e52fc8!8m2!3d21.1826355!4d81.3387904!16s%2Fg%2F11hbt2h30j!19sChIJq6qqqjojKToRyC_lSTJiVXY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avni+Nurshing+Home/data=!4m7!3m6!1s0x3a29233aaaaaaaab:0x7655623249e52fc8!8m2!3d21.1826355!4d81.3387904!16s%2Fg%2F11hbt2h30j!19sChIJq6qqqjojKToRyC_lSTJiVXY?authuser=0&hl=en&rclk=1"
@@ -1535,8 +1523,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Avni+Nurshing+Home/data=!4m7!3m6!1s0x3a29233aaaaaaaab:0x7655623249e52fc8!8m2!3d21.1826355!4d81.3387904!16s%2Fg%2F11hbt2h30j!19sChIJq6qqqjojKToRyC_lSTJiVXY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "b-m-shah-hospital-and-medical-research-center-bhilai",
@@ -1585,7 +1572,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/B.+M.+Shah+Hospital+%26+Medical+Research+Center/data=!4m7!3m6!1s0x3a2922de4f019ae1:0xaa2aa80f57e8cb52!8m2!3d21.2097521!4d81.360142!16s%2Fg%2F1q6kk97nl!19sChIJ4ZoBT94iKToRUsvoVw-oKqo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B.+M.+Shah+Hospital+%26+Medical+Research+Center/data=!4m7!3m6!1s0x3a2922de4f019ae1:0xaa2aa80f57e8cb52!8m2!3d21.2097521!4d81.360142!16s%2Fg%2F1q6kk97nl!19sChIJ4ZoBT94iKToRUsvoVw-oKqo?authuser=0&hl=en&rclk=1"
@@ -1654,8 +1641,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/B.+M.+Shah+Hospital+%26+Medical+Research+Center/data=!4m7!3m6!1s0x3a2922de4f019ae1:0xaa2aa80f57e8cb52!8m2!3d21.2097521!4d81.360142!16s%2Fg%2F1q6kk97nl!19sChIJ4ZoBT94iKToRUsvoVw-oKqo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bakhshi-heart-center-durg",
@@ -1704,7 +1690,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bakhshi+Heart+Center/data=!4m7!3m6!1s0x3a293d40b7675eb3:0x300a88e9bdbe5a2!8m2!3d21.1743965!4d81.2963295!16s%2Fg%2F11jnm0b3_w!19sChIJs15nt0A9KToRouXbm46oAAM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bakhshi+Heart+Center/data=!4m7!3m6!1s0x3a293d40b7675eb3:0x300a88e9bdbe5a2!8m2!3d21.1743965!4d81.2963295!16s%2Fg%2F11jnm0b3_w!19sChIJs15nt0A9KToRouXbm46oAAM?authuser=0&hl=en&rclk=1"
@@ -1773,8 +1759,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bakhshi+Heart+Center/data=!4m7!3m6!1s0x3a293d40b7675eb3:0x300a88e9bdbe5a2!8m2!3d21.1743965!4d81.2963295!16s%2Fg%2F11jnm0b3_w!19sChIJs15nt0A9KToRouXbm46oAAM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bakliwal-dental-care-vidyut-nagar",
@@ -1822,7 +1807,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bakliwal+Dental+Care/data=!4m7!3m6!1s0x3a293c897c61c18d:0xd45d18e16a04d487!8m2!3d21.1747986!4d81.2970856!16s%2Fg%2F11gg_vlnnf!19sChIJjcFhfIk8KToRh9QEauEYXdQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bakliwal+Dental+Care/data=!4m7!3m6!1s0x3a293c897c61c18d:0xd45d18e16a04d487!8m2!3d21.1747986!4d81.2970856!16s%2Fg%2F11gg_vlnnf!19sChIJjcFhfIk8KToRh9QEauEYXdQ?authuser=0&hl=en&rclk=1"
@@ -1891,8 +1876,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bakliwal+Dental+Care/data=!4m7!3m6!1s0x3a293c897c61c18d:0xd45d18e16a04d487!8m2!3d21.1747986!4d81.2970856!16s%2Fg%2F11gg_vlnnf!19sChIJjcFhfIk8KToRh9QEauEYXdQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bakliwal-dental-clinic-bhilai",
@@ -1940,7 +1924,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bakliwal+Dental+Clinic./data=!4m7!3m6!1s0x3a2923d515903725:0x38a3d58c4cf22325!8m2!3d21.208239!4d81.360287!16s%2Fg%2F11f5myqvx2!19sChIJJTeQFdUjKToRJSPyTIzVozg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bakliwal+Dental+Clinic./data=!4m7!3m6!1s0x3a2923d515903725:0x38a3d58c4cf22325!8m2!3d21.208239!4d81.360287!16s%2Fg%2F11f5myqvx2!19sChIJJTeQFdUjKToRJSPyTIzVozg?authuser=0&hl=en&rclk=1"
@@ -2009,8 +1993,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bakliwal+Dental+Clinic./data=!4m7!3m6!1s0x3a2923d515903725:0x38a3d58c4cf22325!8m2!3d21.208239!4d81.360287!16s%2Fg%2F11f5myqvx2!19sChIJJTeQFdUjKToRJSPyTIzVozg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "banchhor-dental-clinic-bhilai",
@@ -2058,7 +2041,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BANCHHOR+DENTAL+CLINIC/data=!4m7!3m6!1s0x3a293cad9a100bfb:0x105c45dbb16b274f!8m2!3d21.1683886!4d81.3365407!16s%2Fg%2F11c45vx_0p!19sChIJ-wsQmq08KToRTydrsdtFXBA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BANCHHOR+DENTAL+CLINIC/data=!4m7!3m6!1s0x3a293cad9a100bfb:0x105c45dbb16b274f!8m2!3d21.1683886!4d81.3365407!16s%2Fg%2F11c45vx_0p!19sChIJ-wsQmq08KToRTydrsdtFXBA?authuser=0&hl=en&rclk=1"
@@ -2127,8 +2110,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BANCHHOR+DENTAL+CLINIC/data=!4m7!3m6!1s0x3a293cad9a100bfb:0x105c45dbb16b274f!8m2!3d21.1683886!4d81.3365407!16s%2Fg%2F11c45vx_0p!19sChIJ-wsQmq08KToRTydrsdtFXBA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "beautification-skin-aesthetics-bhilai",
@@ -2177,7 +2159,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Beautification+skin+aesthetics/data=!4m7!3m6!1s0x3a293dd9cdc6e0c5:0xc64636c3ad3f626e!8m2!3d21.2056524!4d81.3227268!16s%2Fg%2F11t5xjw4kn!19sChIJxeDGzdk9KToRbmI_rcM2RsY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Beautification+skin+aesthetics/data=!4m7!3m6!1s0x3a293dd9cdc6e0c5:0xc64636c3ad3f626e!8m2!3d21.2056524!4d81.3227268!16s%2Fg%2F11t5xjw4kn!19sChIJxeDGzdk9KToRbmI_rcM2RsY?authuser=0&hl=en&rclk=1"
@@ -2246,8 +2228,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Beautification+skin+aesthetics/data=!4m7!3m6!1s0x3a293dd9cdc6e0c5:0xc64636c3ad3f626e!8m2!3d21.2056524!4d81.3227268!16s%2Fg%2F11t5xjw4kn!19sChIJxeDGzdk9KToRbmI_rcM2RsY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhartiyam-liver-pancreas-and-gastro-clinic-bhilai",
@@ -2295,7 +2276,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhartiyam+Liver+Pancreas+and+gastro+Clinic/data=!4m7!3m6!1s0x3a2922df4b7d5dbd:0xce7d836aed541ac2!8m2!3d21.207071!4d81.356575!16s%2Fg%2F11tms8x5kt!19sChIJvV19S98iKToRwhpU7WqDfc4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhartiyam+Liver+Pancreas+and+gastro+Clinic/data=!4m7!3m6!1s0x3a2922df4b7d5dbd:0xce7d836aed541ac2!8m2!3d21.207071!4d81.356575!16s%2Fg%2F11tms8x5kt!19sChIJvV19S98iKToRwhpU7WqDfc4?authuser=0&hl=en&rclk=1"
@@ -2361,11 +2342,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhartiyam+Liver+Pancreas+and+gastro+Clinic/data=!4m7!3m6!1s0x3a2922df4b7d5dbd:0xce7d836aed541ac2!8m2!3d21.207071!4d81.356575!16s%2Fg%2F11tms8x5kt!19sChIJvV19S98iKToRwhpU7WqDfc4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhatia-dental-hospital-durg",
@@ -2414,7 +2394,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhatia+Dental+Hospital/data=!4m7!3m6!1s0x3a293dd8c6eb4325:0x85baed1b33884c0d!8m2!3d21.190015!4d81.2868826!16s%2Fg%2F11sff15_46!19sChIJJUPrxtg9KToRDUyIMxvtuoU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhatia+Dental+Hospital/data=!4m7!3m6!1s0x3a293dd8c6eb4325:0x85baed1b33884c0d!8m2!3d21.190015!4d81.2868826!16s%2Fg%2F11sff15_46!19sChIJJUPrxtg9KToRDUyIMxvtuoU?authuser=0&hl=en&rclk=1"
@@ -2483,8 +2463,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhatia+Dental+Hospital/data=!4m7!3m6!1s0x3a293dd8c6eb4325:0x85baed1b33884c0d!8m2!3d21.190015!4d81.2868826!16s%2Fg%2F11sff15_46!19sChIJJUPrxtg9KToRDUyIMxvtuoU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhilai-dental-care-bhilai",
@@ -2533,7 +2512,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhilai+Dental+Care/data=!4m7!3m6!1s0x3a292322ac555555:0x39ded8619f80c65f!8m2!3d21.1941858!4d81.3618287!16s%2Fg%2F11cmm_jdx5!19sChIJVVVVrCIjKToRX8aAn2HY3jk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhilai+Dental+Care/data=!4m7!3m6!1s0x3a292322ac555555:0x39ded8619f80c65f!8m2!3d21.1941858!4d81.3618287!16s%2Fg%2F11cmm_jdx5!19sChIJVVVVrCIjKToRX8aAn2HY3jk?authuser=0&hl=en&rclk=1"
@@ -2602,8 +2581,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhilai+Dental+Care/data=!4m7!3m6!1s0x3a292322ac555555:0x39ded8619f80c65f!8m2!3d21.1941858!4d81.3618287!16s%2Fg%2F11cmm_jdx5!19sChIJVVVVrCIjKToRX8aAn2HY3jk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhilai-gayatri-hospital-bhilai",
@@ -2652,7 +2630,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhilai+Gayatri+Hospital/data=!4m7!3m6!1s0x3a29232a90adfc41:0xb6798aabc84675a6!8m2!3d21.2043996!4d81.3414213!16s%2Fg%2F11f1vchpqx!19sChIJQfytkCojKToRpnVGyKuKebY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhilai+Gayatri+Hospital/data=!4m7!3m6!1s0x3a29232a90adfc41:0xb6798aabc84675a6!8m2!3d21.2043996!4d81.3414213!16s%2Fg%2F11f1vchpqx!19sChIJQfytkCojKToRpnVGyKuKebY?authuser=0&hl=en&rclk=1"
@@ -2721,8 +2699,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhilai+Gayatri+Hospital/data=!4m7!3m6!1s0x3a29232a90adfc41:0xb6798aabc84675a6!8m2!3d21.2043996!4d81.3414213!16s%2Fg%2F11f1vchpqx!19sChIJQfytkCojKToRpnVGyKuKebY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhilai-chhattisgarh-madhavbaug-clinic-bhilai",
@@ -2771,7 +2748,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhilai,+Chhattisgarh+-+Madhavbaug+Clinic/data=!4m7!3m6!1s0x3a293d5d8c223f65:0xa4dc16f25ef22f23!8m2!3d21.2126626!4d81.3206!16s%2Fg%2F11yjtd4k63!19sChIJZT8ijF09KToRIy_yXvIW3KQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhilai,+Chhattisgarh+-+Madhavbaug+Clinic/data=!4m7!3m6!1s0x3a293d5d8c223f65:0xa4dc16f25ef22f23!8m2!3d21.2126626!4d81.3206!16s%2Fg%2F11yjtd4k63!19sChIJZT8ijF09KToRIy_yXvIW3KQ?authuser=0&hl=en&rclk=1"
@@ -2840,8 +2817,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhilai,+Chhattisgarh+-+Madhavbaug+Clinic/data=!4m7!3m6!1s0x3a293d5d8c223f65:0xa4dc16f25ef22f23!8m2!3d21.2126626!4d81.3206!16s%2Fg%2F11yjtd4k63!19sChIJZT8ijF09KToRIy_yXvIW3KQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chandulal-chandrakar-memorial-hospital-bhilai",
@@ -2890,7 +2866,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chandulal+Chandrakar+Memorial+Hospital/data=!4m7!3m6!1s0x3a293cdec5ee4d6b:0xd3e2f559e4c85f0f!8m2!3d21.2002468!4d81.3226646!16s%2Fg%2F1ty72pt3!19sChIJa03uxd48KToRD1_I5Fn14tM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandulal+Chandrakar+Memorial+Hospital/data=!4m7!3m6!1s0x3a293cdec5ee4d6b:0xd3e2f559e4c85f0f!8m2!3d21.2002468!4d81.3226646!16s%2Fg%2F1ty72pt3!19sChIJa03uxd48KToRD1_I5Fn14tM?authuser=0&hl=en&rclk=1"
@@ -2959,8 +2935,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chandulal+Chandrakar+Memorial+Hospital/data=!4m7!3m6!1s0x3a293cdec5ee4d6b:0xd3e2f559e4c85f0f!8m2!3d21.2002468!4d81.3226646!16s%2Fg%2F1ty72pt3!19sChIJa03uxd48KToRD1_I5Fn14tM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "d-r-vk-balbhadra-mbbs-clinic-borsi",
@@ -3006,7 +2981,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/D.R+vk+balbhadra+mbbs+clinic/data=!4m7!3m6!1s0x3a293d2ef3227719:0xc40281aa2d11762a!8m2!3d21.1620916!4d81.3036229!16s%2Fg%2F11gk7jrzxq!19sChIJGXci8y49KToRKnYRLaqBAsQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D.R+vk+balbhadra+mbbs+clinic/data=!4m7!3m6!1s0x3a293d2ef3227719:0xc40281aa2d11762a!8m2!3d21.1620916!4d81.3036229!16s%2Fg%2F11gk7jrzxq!19sChIJGXci8y49KToRKnYRLaqBAsQ?authuser=0&hl=en&rclk=1"
@@ -3072,11 +3047,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/D.R+vk+balbhadra+mbbs+clinic/data=!4m7!3m6!1s0x3a293d2ef3227719:0xc40281aa2d11762a!8m2!3d21.1620916!4d81.3036229!16s%2Fg%2F11gk7jrzxq!19sChIJGXci8y49KToRKnYRLaqBAsQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "daya-s-speciality-healthcare-station-road",
@@ -3125,7 +3099,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Daya%E2%80%99s+Speciality+Healthcare/data=!4m7!3m6!1s0x3a293d006949d537:0x91021c6843864ba9!8m2!3d21.1890719!4d81.2855804!16s%2Fg%2F11yplq_zrj!19sChIJN9VJaQA9KToRqUuGQ2gcApE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Daya%E2%80%99s+Speciality+Healthcare/data=!4m7!3m6!1s0x3a293d006949d537:0x91021c6843864ba9!8m2!3d21.1890719!4d81.2855804!16s%2Fg%2F11yplq_zrj!19sChIJN9VJaQA9KToRqUuGQ2gcApE?authuser=0&hl=en&rclk=1"
@@ -3191,11 +3165,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Daya%E2%80%99s+Speciality+Healthcare/data=!4m7!3m6!1s0x3a293d006949d537:0x91021c6843864ba9!8m2!3d21.1890719!4d81.2855804!16s%2Fg%2F11yplq_zrj!19sChIJN9VJaQA9KToRqUuGQ2gcApE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentist-vipin-arora-bhilai",
@@ -3245,7 +3218,7 @@
       "Google rating 3.9",
       "65+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dentist+VIPIN+ARORA/data=!4m7!3m6!1s0x3a293cac334db9fd:0xa0538f629e18b99a!8m2!3d21.1664319!4d81.3354212!16s%2Fg%2F11c482nffk!19sChIJ_blNM6w8KToRmrkYnmKPU6A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentist+VIPIN+ARORA/data=!4m7!3m6!1s0x3a293cac334db9fd:0xa0538f629e18b99a!8m2!3d21.1664319!4d81.3354212!16s%2Fg%2F11c482nffk!19sChIJ_blNM6w8KToRmrkYnmKPU6A?authuser=0&hl=en&rclk=1"
@@ -3314,8 +3287,7 @@
     "rating": 3.9,
     "reviews": 65,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dentist+VIPIN+ARORA/data=!4m7!3m6!1s0x3a293cac334db9fd:0xa0538f629e18b99a!8m2!3d21.1664319!4d81.3354212!16s%2Fg%2F11c482nffk!19sChIJ_blNM6w8KToRmrkYnmKPU6A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dewangan-dental-clinic-bhilai",
@@ -3363,7 +3335,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dewangan+dental+clinic/data=!4m7!3m6!1s0x3a292376b4865dd3:0x8a3b72be7ffe530e!8m2!3d21.2168243!4d81.372169!16s%2Fg%2F11h4zmxxxd!19sChIJ012GtHYjKToRDlP-f75yO4o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dewangan+dental+clinic/data=!4m7!3m6!1s0x3a292376b4865dd3:0x8a3b72be7ffe530e!8m2!3d21.2168243!4d81.372169!16s%2Fg%2F11h4zmxxxd!19sChIJ012GtHYjKToRDlP-f75yO4o?authuser=0&hl=en&rclk=1"
@@ -3432,8 +3404,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dewangan+dental+clinic/data=!4m7!3m6!1s0x3a292376b4865dd3:0x8a3b72be7ffe530e!8m2!3d21.2168243!4d81.372169!16s%2Fg%2F11h4zmxxxd!19sChIJ012GtHYjKToRDlP-f75yO4o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhanwantari-hospital-bhilai",
@@ -3481,7 +3452,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dhanwantari+Hospital/data=!4m7!3m6!1s0x3a293d2700000001:0x1a74b9b68c376e32!8m2!3d21.2047345!4d81.3241445!16s%2Fg%2F1tm282yv!19sChIJAQAAACc9KToRMm43jLa5dBo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhanwantari+Hospital/data=!4m7!3m6!1s0x3a293d2700000001:0x1a74b9b68c376e32!8m2!3d21.2047345!4d81.3241445!16s%2Fg%2F1tm282yv!19sChIJAQAAACc9KToRMm43jLa5dBo?authuser=0&hl=en&rclk=1"
@@ -3550,8 +3521,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dhanwantari+Hospital/data=!4m7!3m6!1s0x3a293d2700000001:0x1a74b9b68c376e32!8m2!3d21.2047345!4d81.3241445!16s%2Fg%2F1tm282yv!19sChIJAQAAACc9KToRMm43jLa5dBo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "diabetes-and-hypertension-reversal-clinic-bhilai",
@@ -3602,7 +3572,7 @@
       "Google rating 5.0",
       "1+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Diabetes+and+Hypertension+Reversal+Clinic/data=!4m7!3m6!1s0x3a2923f738ede153:0x79398bfd56732746!8m2!3d21.2226766!4d81.3495835!16s%2Fg%2F11q8rx8dqh!19sChIJU-HtOPcjKToRRidzVv2LOXk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diabetes+and+Hypertension+Reversal+Clinic/data=!4m7!3m6!1s0x3a2923f738ede153:0x79398bfd56732746!8m2!3d21.2226766!4d81.3495835!16s%2Fg%2F11q8rx8dqh!19sChIJU-HtOPcjKToRRidzVv2LOXk?authuser=0&hl=en&rclk=1"
@@ -3668,11 +3638,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Diabetes+and+Hypertension+Reversal+Clinic/data=!4m7!3m6!1s0x3a2923f738ede153:0x79398bfd56732746!8m2!3d21.2226766!4d81.3495835!16s%2Fg%2F11q8rx8dqh!19sChIJU-HtOPcjKToRRidzVv2LOXk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ekdant-dental-clinic-bhilai",
@@ -3720,7 +3689,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ekdant+Dental+Clinic/data=!4m7!3m6!1s0x3a293d3018b8cd93:0xd7d419ca8bf942d8!8m2!3d21.163148!4d81.3347553!16s%2Fg%2F11t9js454c!19sChIJk824GDA9KToR2EL5i8oZ1Nc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ekdant+Dental+Clinic/data=!4m7!3m6!1s0x3a293d3018b8cd93:0xd7d419ca8bf942d8!8m2!3d21.163148!4d81.3347553!16s%2Fg%2F11t9js454c!19sChIJk824GDA9KToR2EL5i8oZ1Nc?authuser=0&hl=en&rclk=1"
@@ -3789,8 +3758,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ekdant+Dental+Clinic/data=!4m7!3m6!1s0x3a293d3018b8cd93:0xd7d419ca8bf942d8!8m2!3d21.163148!4d81.3347553!16s%2Fg%2F11t9js454c!19sChIJk824GDA9KToR2EL5i8oZ1Nc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "elite-advance-dental-and-cosmetic-clinic-durg",
@@ -3838,7 +3806,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Elite+Advance+Dental+and+Cosmetic+Clinic/data=!4m7!3m6!1s0x3a293d1d8ed6c8b1:0xf74b634fb541c307!8m2!3d21.1934311!4d81.2871456!16s%2Fg%2F11wjq21g_q!19sChIJscjWjh09KToRB8NBtU9jS_c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elite+Advance+Dental+and+Cosmetic+Clinic/data=!4m7!3m6!1s0x3a293d1d8ed6c8b1:0xf74b634fb541c307!8m2!3d21.1934311!4d81.2871456!16s%2Fg%2F11wjq21g_q!19sChIJscjWjh09KToRB8NBtU9jS_c?authuser=0&hl=en&rclk=1"
@@ -3907,8 +3875,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Elite+Advance+Dental+and+Cosmetic+Clinic/data=!4m7!3m6!1s0x3a293d1d8ed6c8b1:0xf74b634fb541c307!8m2!3d21.1934311!4d81.2871456!16s%2Fg%2F11wjq21g_q!19sChIJscjWjh09KToRB8NBtU9jS_c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "elite-aesthetics-raipur",
@@ -3957,7 +3924,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Elite+Aesthetics/data=!4m7!3m6!1s0x3a28ddfa2e89995f:0x361e238c1afd3f05!8m2!3d21.2684509!4d81.6747912!16s%2Fg%2F11pdsgdx5n!19sChIJX5mJLvrdKDoRBT_9GowjHjY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elite+Aesthetics/data=!4m7!3m6!1s0x3a28ddfa2e89995f:0x361e238c1afd3f05!8m2!3d21.2684509!4d81.6747912!16s%2Fg%2F11pdsgdx5n!19sChIJX5mJLvrdKDoRBT_9GowjHjY?authuser=0&hl=en&rclk=1"
@@ -4026,8 +3993,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Elite+Aesthetics/data=!4m7!3m6!1s0x3a28ddfa2e89995f:0x361e238c1afd3f05!8m2!3d21.2684509!4d81.6747912!16s%2Fg%2F11pdsgdx5n!19sChIJX5mJLvrdKDoRBT_9GowjHjY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "emergency-and-trauma-care-24-7-ambulance-service-narayana-hospital-raipur-raipur",
@@ -4077,7 +4043,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Emergency+and+Trauma+Care+%7C+24%2F7+Ambulance+Service+%7C+Narayana+Hospital,+Raipur/data=!4m7!3m6!1s0x3a28dd85a6284d27:0xffcdee82f54d1e92!8m2!3d21.213165!4d81.657915!16s%2Fg%2F11vyybwf92!19sChIJJ00opoXdKDoRkh5N9YLuzf8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Emergency+and+Trauma+Care+%7C+24%2F7+Ambulance+Service+%7C+Narayana+Hospital,+Raipur/data=!4m7!3m6!1s0x3a28dd85a6284d27:0xffcdee82f54d1e92!8m2!3d21.213165!4d81.657915!16s%2Fg%2F11vyybwf92!19sChIJJ00opoXdKDoRkh5N9YLuzf8?authuser=0&hl=en&rclk=1"
@@ -4146,8 +4112,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Emergency+and+Trauma+Care+%7C+24%2F7+Ambulance+Service+%7C+Narayana+Hospital,+Raipur/data=!4m7!3m6!1s0x3a28dd85a6284d27:0xffcdee82f54d1e92!8m2!3d21.213165!4d81.657915!16s%2Fg%2F11vyybwf92!19sChIJJ00opoXdKDoRkh5N9YLuzf8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "firstcare-health-clinic-bhilai",
@@ -4195,7 +4160,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/FirstCare+Health+Clinic/data=!4m7!3m6!1s0x3a2923c22983aa77:0xa94612c83d8faa19!8m2!3d21.2124746!4d81.341694!16s%2Fg%2F11pd34j288!19sChIJd6qDKcIjKToRGaqPPcgSRqk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FirstCare+Health+Clinic/data=!4m7!3m6!1s0x3a2923c22983aa77:0xa94612c83d8faa19!8m2!3d21.2124746!4d81.341694!16s%2Fg%2F11pd34j288!19sChIJd6qDKcIjKToRGaqPPcgSRqk?authuser=0&hl=en&rclk=1"
@@ -4261,11 +4226,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/FirstCare+Health+Clinic/data=!4m7!3m6!1s0x3a2923c22983aa77:0xa94612c83d8faa19!8m2!3d21.2124746!4d81.341694!16s%2Fg%2F11pd34j288!19sChIJd6qDKcIjKToRGaqPPcgSRqk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gandhi-dental-and-physiotherapy-clinic-bhilai",
@@ -4314,7 +4278,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gandhi+Dental+and+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3a293dbf5a8b70ad:0x25dd428cb5427e91!8m2!3d21.2043333!4d81.3201104!16s%2Fg%2F11tjxm2jw3!19sChIJrXCLWr89KToRkX5CtYxC3SU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gandhi+Dental+and+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3a293dbf5a8b70ad:0x25dd428cb5427e91!8m2!3d21.2043333!4d81.3201104!16s%2Fg%2F11tjxm2jw3!19sChIJrXCLWr89KToRkX5CtYxC3SU?authuser=0&hl=en&rclk=1"
@@ -4383,8 +4347,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gandhi+Dental+and+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3a293dbf5a8b70ad:0x25dd428cb5427e91!8m2!3d21.2043333!4d81.3201104!16s%2Fg%2F11tjxm2jw3!19sChIJrXCLWr89KToRkX5CtYxC3SU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gangotri-hospital-durg",
@@ -4432,7 +4395,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gangotri+Hospital/data=!4m7!3m6!1s0x3a293d99a83ae9c9:0xc8e46b725398a717!8m2!3d21.1994576!4d81.285863!16s%2Fg%2F11rch0t5zc!19sChIJyek6qJk9KToRF6eYU3Jr5Mg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gangotri+Hospital/data=!4m7!3m6!1s0x3a293d99a83ae9c9:0xc8e46b725398a717!8m2!3d21.1994576!4d81.285863!16s%2Fg%2F11rch0t5zc!19sChIJyek6qJk9KToRF6eYU3Jr5Mg?authuser=0&hl=en&rclk=1"
@@ -4501,8 +4464,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gangotri+Hospital/data=!4m7!3m6!1s0x3a293d99a83ae9c9:0xc8e46b725398a717!8m2!3d21.1994576!4d81.285863!16s%2Fg%2F11rch0t5zc!19sChIJyek6qJk9KToRF6eYU3Jr5Mg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gayatri-dental-clinic-bhilai",
@@ -4550,7 +4512,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gayatri+Dental+clinic/data=!4m7!3m6!1s0x3a2923b063cc91d5:0x1680ab365fefa169!8m2!3d21.1997636!4d81.355356!16s%2Fg%2F11mv_w02r2!19sChIJ1ZHMY7AjKToRaaHvXzargBY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+Dental+clinic/data=!4m7!3m6!1s0x3a2923b063cc91d5:0x1680ab365fefa169!8m2!3d21.1997636!4d81.355356!16s%2Fg%2F11mv_w02r2!19sChIJ1ZHMY7AjKToRaaHvXzargBY?authuser=0&hl=en&rclk=1"
@@ -4619,8 +4581,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gayatri+Dental+clinic/data=!4m7!3m6!1s0x3a2923b063cc91d5:0x1680ab365fefa169!8m2!3d21.1997636!4d81.355356!16s%2Fg%2F11mv_w02r2!19sChIJ1ZHMY7AjKToRaaHvXzargBY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "govt-hospital-bhilai",
@@ -4668,7 +4629,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Govt+Hospital/data=!4m7!3m6!1s0x3a2922d8e835d9cd:0x857d545ae845e3c8!8m2!3d21.2080121!4d81.3551657!16s%2Fg%2F1hd_023sm!19sChIJzdk16NgiKToRyONF6FpUfYU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt+Hospital/data=!4m7!3m6!1s0x3a2922d8e835d9cd:0x857d545ae845e3c8!8m2!3d21.2080121!4d81.3551657!16s%2Fg%2F1hd_023sm!19sChIJzdk16NgiKToRyONF6FpUfYU?authuser=0&hl=en&rclk=1"
@@ -4734,11 +4695,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Govt+Hospital/data=!4m7!3m6!1s0x3a2922d8e835d9cd:0x857d545ae845e3c8!8m2!3d21.2080121!4d81.3551657!16s%2Fg%2F1hd_023sm!19sChIJzdk16NgiKToRyONF6FpUfYU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "home-dental-care-khursipar",
@@ -4786,7 +4746,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Home+Dental+Care/data=!4m7!3m6!1s0x3a2922526b5215f7:0xf79592fa6cecc30a!8m2!3d21.2117597!4d81.3855002!16s%2Fg%2F11f4qq5x77!19sChIJ9xVSa1IiKToRCsPsbPqSlfc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Home+Dental+Care/data=!4m7!3m6!1s0x3a2922526b5215f7:0xf79592fa6cecc30a!8m2!3d21.2117597!4d81.3855002!16s%2Fg%2F11f4qq5x77!19sChIJ9xVSa1IiKToRCsPsbPqSlfc?authuser=0&hl=en&rclk=1"
@@ -4852,11 +4812,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Home+Dental+Care/data=!4m7!3m6!1s0x3a2922526b5215f7:0xf79592fa6cecc30a!8m2!3d21.2117597!4d81.3855002!16s%2Fg%2F11f4qq5x77!19sChIJ9xVSa1IiKToRCsPsbPqSlfc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hospital-sector-bhilai",
@@ -4902,7 +4861,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hospital+Sector/data=!4m7!3m6!1s0x3a293ceb0d435817:0xee23cdf128283bef!8m2!3d21.1875059!4d81.3138097!16s%2Fg%2F1thl3vhg!19sChIJF1hDDes8KToR7zsoKPHNI-4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital+Sector/data=!4m7!3m6!1s0x3a293ceb0d435817:0xee23cdf128283bef!8m2!3d21.1875059!4d81.3138097!16s%2Fg%2F1thl3vhg!19sChIJF1hDDes8KToR7zsoKPHNI-4?authuser=0&hl=en&rclk=1"
@@ -4968,11 +4927,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hospital+Sector/data=!4m7!3m6!1s0x3a293ceb0d435817:0xee23cdf128283bef!8m2!3d21.1875059!4d81.3138097!16s%2Fg%2F1thl3vhg!19sChIJF1hDDes8KToR7zsoKPHNI-4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ils-hospitals-raipur-tikrapara",
@@ -5020,7 +4978,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ILS+Hospitals,+Raipur/data=!4m7!3m6!1s0x3a28dd29b15c9acb:0x1d64f067d142c646!8m2!3d21.217836!4d81.6547918!16s%2Fg%2F11wb_3td36!19sChIJy5pcsSndKDoRRsZC0WfwZB0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ILS+Hospitals,+Raipur/data=!4m7!3m6!1s0x3a28dd29b15c9acb:0x1d64f067d142c646!8m2!3d21.217836!4d81.6547918!16s%2Fg%2F11wb_3td36!19sChIJy5pcsSndKDoRRsZC0WfwZB0?authuser=0&hl=en&rclk=1"
@@ -5089,8 +5047,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ILS+Hospitals,+Raipur/data=!4m7!3m6!1s0x3a28dd29b15c9acb:0x1d64f067d142c646!8m2!3d21.217836!4d81.6547918!16s%2Fg%2F11wb_3td36!19sChIJy5pcsSndKDoRRsZC0WfwZB0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "imperial-dental-clinic-best-dentist-in-bhilai-root-canal-treatment-dental-implants-best-orthodontist-bhilai",
@@ -5140,7 +5097,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Imperial+Dental+Clinic+-+Best+Dentist+in+Bhilai+%7C+Root+canal+treatment+%7C+Dental+Implants+%7C+best+Orthodontist/data=!4m7!3m6!1s0x3a293d594f1693eb:0x94370bf46dde13b1!8m2!3d21.2183199!4d81.3389733!16s%2Fg%2F11gmck364j!19sChIJ65MWT1k9KToRsRPebfQLN5Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Imperial+Dental+Clinic+-+Best+Dentist+in+Bhilai+%7C+Root+canal+treatment+%7C+Dental+Implants+%7C+best+Orthodontist/data=!4m7!3m6!1s0x3a293d594f1693eb:0x94370bf46dde13b1!8m2!3d21.2183199!4d81.3389733!16s%2Fg%2F11gmck364j!19sChIJ65MWT1k9KToRsRPebfQLN5Q?authuser=0&hl=en&rclk=1"
@@ -5209,8 +5166,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Imperial+Dental+Clinic+-+Best+Dentist+in+Bhilai+%7C+Root+canal+treatment+%7C+Dental+Implants+%7C+best+Orthodontist/data=!4m7!3m6!1s0x3a293d594f1693eb:0x94370bf46dde13b1!8m2!3d21.2183199!4d81.3389733!16s%2Fg%2F11gmck364j!19sChIJ65MWT1k9KToRsRPebfQLN5Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "iyer-health-care-bhilai",
@@ -5258,7 +5214,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Iyer+Health+Care/data=!4m7!3m6!1s0x3a293d69e862c5b7:0x5757708b120c0420!8m2!3d21.2013295!4d81.3219717!16s%2Fg%2F11fq8r2xhb!19sChIJt8Vi6Gk9KToRIAQMEotwV1c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Iyer+Health+Care/data=!4m7!3m6!1s0x3a293d69e862c5b7:0x5757708b120c0420!8m2!3d21.2013295!4d81.3219717!16s%2Fg%2F11fq8r2xhb!19sChIJt8Vi6Gk9KToRIAQMEotwV1c?authuser=0&hl=en&rclk=1"
@@ -5327,8 +5283,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Iyer+Health+Care/data=!4m7!3m6!1s0x3a293d69e862c5b7:0x5757708b120c0420!8m2!3d21.2013295!4d81.3219717!16s%2Fg%2F11fq8r2xhb!19sChIJt8Vi6Gk9KToRIAQMEotwV1c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "j-l-n-hospital-and-research-centre-bhilai",
@@ -5376,7 +5331,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/J+L+N+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x3a293ce9ac3270fd:0x15bd6482387ebee6!8m2!3d21.1888148!4d81.3156905!16s%2Fg%2F11c7vvf7d6!19sChIJ_XAyrOk8KToR5r5-OIJkvRU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J+L+N+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x3a293ce9ac3270fd:0x15bd6482387ebee6!8m2!3d21.1888148!4d81.3156905!16s%2Fg%2F11c7vvf7d6!19sChIJ_XAyrOk8KToR5r5-OIJkvRU?authuser=0&hl=en&rclk=1"
@@ -5445,8 +5400,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/J+L+N+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x3a293ce9ac3270fd:0x15bd6482387ebee6!8m2!3d21.1888148!4d81.3156905!16s%2Fg%2F11c7vvf7d6!19sChIJ_XAyrOk8KToR5r5-OIJkvRU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jain-surgico-diagnostic-centre-padmanabhpur",
@@ -5494,7 +5448,7 @@
     "metrics": [
       "Google rating 2.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jain+Surgico+Diagnostic+Centre/data=!4m7!3m6!1s0x3a293c5f7a72d51b:0x23fb0a3f9d86d319!8m2!3d21.1880951!4d81.2821557!16s%2Fg%2F11b6p_31m1!19sChIJG9Vyel88KToRGdOGnT8K-yM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jain+Surgico+Diagnostic+Centre/data=!4m7!3m6!1s0x3a293c5f7a72d51b:0x23fb0a3f9d86d319!8m2!3d21.1880951!4d81.2821557!16s%2Fg%2F11b6p_31m1!19sChIJG9Vyel88KToRGdOGnT8K-yM?authuser=0&hl=en&rclk=1"
@@ -5560,11 +5514,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 2,
+    "rating": 2.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jain+Surgico+Diagnostic+Centre/data=!4m7!3m6!1s0x3a293c5f7a72d51b:0x23fb0a3f9d86d319!8m2!3d21.1880951!4d81.2821557!16s%2Fg%2F11b6p_31m1!19sChIJG9Vyel88KToRGdOGnT8K-yM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jayanti-hospital-durg",
@@ -5612,7 +5565,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jayanti+Hospital/data=!4m7!3m6!1s0x3a293c50cd1ca4bd:0x1ed197345615586!8m2!3d21.1927797!4d81.290296!16s%2Fg%2F11dxdk19c5!19sChIJvaQczVA8KToRhlVhRXMZ7QE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jayanti+Hospital/data=!4m7!3m6!1s0x3a293c50cd1ca4bd:0x1ed197345615586!8m2!3d21.1927797!4d81.290296!16s%2Fg%2F11dxdk19c5!19sChIJvaQczVA8KToRhlVhRXMZ7QE?authuser=0&hl=en&rclk=1"
@@ -5681,8 +5634,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jayanti+Hospital/data=!4m7!3m6!1s0x3a293c50cd1ca4bd:0x1ed197345615586!8m2!3d21.1927797!4d81.290296!16s%2Fg%2F11dxdk19c5!19sChIJvaQczVA8KToRhlVhRXMZ7QE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jln-bsp-main-hospital-bhilai",
@@ -5730,7 +5682,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JLN+BSP+MAIN+HOSPITAL/data=!4m7!3m6!1s0x3a293ce90086038d:0x18a8194e5acbbb25!8m2!3d21.1888465!4d81.3151435!16s%2Fg%2F11c2nwqjcr!19sChIJjQOGAOk8KToRJbvLWk4ZqBg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JLN+BSP+MAIN+HOSPITAL/data=!4m7!3m6!1s0x3a293ce90086038d:0x18a8194e5acbbb25!8m2!3d21.1888465!4d81.3151435!16s%2Fg%2F11c2nwqjcr!19sChIJjQOGAOk8KToRJbvLWk4ZqBg?authuser=0&hl=en&rclk=1"
@@ -5799,8 +5751,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JLN+BSP+MAIN+HOSPITAL/data=!4m7!3m6!1s0x3a293ce90086038d:0x18a8194e5acbbb25!8m2!3d21.1888465!4d81.3151435!16s%2Fg%2F11c2nwqjcr!19sChIJjQOGAOk8KToRJbvLWk4ZqBg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kalda-burn-and-plastic-surgery-centre-raipur",
@@ -5850,7 +5801,7 @@
       "8+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kalda+Burn+%26+Plastic+Surgery+Centre/data=!4m7!3m6!1s0x3a28dd00faaade65:0x81a180d8b3b55077!8m2!3d21.2433664!4d81.6151305!16s%2Fg%2F11tddxmm1l!19sChIJZd6q-gDdKDoRd1C1s9iAoYE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalda+Burn+%26+Plastic+Surgery+Centre/data=!4m7!3m6!1s0x3a28dd00faaade65:0x81a180d8b3b55077!8m2!3d21.2433664!4d81.6151305!16s%2Fg%2F11tddxmm1l!19sChIJZd6q-gDdKDoRd1C1s9iAoYE?authuser=0&hl=en&rclk=1"
@@ -5919,8 +5870,7 @@
     "rating": 4.5,
     "reviews": 8,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kalda+Burn+%26+Plastic+Surgery+Centre/data=!4m7!3m6!1s0x3a28dd00faaade65:0x81a180d8b3b55077!8m2!3d21.2433664!4d81.6151305!16s%2Fg%2F11tddxmm1l!19sChIJZd6q-gDdKDoRd1C1s9iAoYE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "keyur-dental-clinic-bhilai",
@@ -5969,7 +5919,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Keyur+Dental+Clinic/data=!4m7!3m6!1s0x3a291896a9ff4d89:0x8cfdcba9237a8350!8m2!3d21.2133307!4d81.3784927!16s%2Fg%2F11f0kwxl8m!19sChIJiU3_qZYYKToRUIN6I6nL_Yw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Keyur+Dental+Clinic/data=!4m7!3m6!1s0x3a291896a9ff4d89:0x8cfdcba9237a8350!8m2!3d21.2133307!4d81.3784927!16s%2Fg%2F11f0kwxl8m!19sChIJiU3_qZYYKToRUIN6I6nL_Yw?authuser=0&hl=en&rclk=1"
@@ -6038,8 +5988,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Keyur+Dental+Clinic/data=!4m7!3m6!1s0x3a291896a9ff4d89:0x8cfdcba9237a8350!8m2!3d21.2133307!4d81.3784927!16s%2Fg%2F11f0kwxl8m!19sChIJiU3_qZYYKToRUIN6I6nL_Yw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "klinik-asthetica-hair-skin-laser-and-slimming-bhilai",
@@ -6088,7 +6037,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KLINIK+ASTHETICA%28+HAIR,SKIN,LASER+%26+SLIMMING%29/data=!4m7!3m6!1s0x3a293ed4f7b89d9d:0xa8f4616557e3e44b!8m2!3d21.2038347!4d81.3233843!16s%2Fg%2F11f26x0ns6!19sChIJnZ2499Q-KToRS-TjV2Vh9Kg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KLINIK+ASTHETICA%28+HAIR,SKIN,LASER+%26+SLIMMING%29/data=!4m7!3m6!1s0x3a293ed4f7b89d9d:0xa8f4616557e3e44b!8m2!3d21.2038347!4d81.3233843!16s%2Fg%2F11f26x0ns6!19sChIJnZ2499Q-KToRS-TjV2Vh9Kg?authuser=0&hl=en&rclk=1"
@@ -6157,8 +6106,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KLINIK+ASTHETICA%28+HAIR,SKIN,LASER+%26+SLIMMING%29/data=!4m7!3m6!1s0x3a293ed4f7b89d9d:0xa8f4616557e3e44b!8m2!3d21.2038347!4d81.3233843!16s%2Fg%2F11f26x0ns6!19sChIJnZ2499Q-KToRS-TjV2Vh9Kg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kripa-dental-and-maxillofacial-clinic-adarsh-nagar",
@@ -6207,7 +6155,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kripa+Dental+and+Maxillofacial+Clinic/data=!4m7!3m6!1s0x3a293de6140d2daf:0x1031495b45c96cf2!8m2!3d21.1699841!4d81.2861806!16s%2Fg%2F11lflcps3r!19sChIJry0NFOY9KToR8mzJRVtJMRA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kripa+Dental+and+Maxillofacial+Clinic/data=!4m7!3m6!1s0x3a293de6140d2daf:0x1031495b45c96cf2!8m2!3d21.1699841!4d81.2861806!16s%2Fg%2F11lflcps3r!19sChIJry0NFOY9KToR8mzJRVtJMRA?authuser=0&hl=en&rclk=1"
@@ -6273,11 +6221,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kripa+Dental+and+Maxillofacial+Clinic/data=!4m7!3m6!1s0x3a293de6140d2daf:0x1031495b45c96cf2!8m2!3d21.1699841!4d81.2861806!16s%2Fg%2F11lflcps3r!19sChIJry0NFOY9KToR8mzJRVtJMRA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "m-r-dental-care-dental-implant-and-anaplstology-bhilai",
@@ -6327,7 +6274,7 @@
       "Google rating 5.0",
       "157+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/M+R+DENTAL+CARE+%28Dental,+Implant+%26+Anaplstology%29/data=!4m7!3m6!1s0x3a293d1b3470b4f3:0x362b1f4f25e982b3!8m2!3d21.2065461!4d81.3310558!16s%2Fg%2F11qbt09fjb!19sChIJ87RwNBs9KToRs4LpJU8fKzY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+R+DENTAL+CARE+%28Dental,+Implant+%26+Anaplstology%29/data=!4m7!3m6!1s0x3a293d1b3470b4f3:0x362b1f4f25e982b3!8m2!3d21.2065461!4d81.3310558!16s%2Fg%2F11qbt09fjb!19sChIJ87RwNBs9KToRs4LpJU8fKzY?authuser=0&hl=en&rclk=1"
@@ -6393,11 +6340,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 157,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/M+R+DENTAL+CARE+%28Dental,+Implant+%26+Anaplstology%29/data=!4m7!3m6!1s0x3a293d1b3470b4f3:0x362b1f4f25e982b3!8m2!3d21.2065461!4d81.3310558!16s%2Fg%2F11qbt09fjb!19sChIJ87RwNBs9KToRs4LpJU8fKzY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "m-r-dental-care-dental-implant-and-anplastology-durg",
@@ -6446,7 +6392,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/M+R+DENTAL+CARE+%28Dental,+Implant+%26+Anplastology%29/data=!4m7!3m6!1s0x3a293dfa03188dff:0xdd2aef81f62e8e2a!8m2!3d21.1988898!4d81.2889212!16s%2Fg%2F11g1mhp7r5!19sChIJ_40YA_o9KToRKo4u9oHvKt0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+R+DENTAL+CARE+%28Dental,+Implant+%26+Anplastology%29/data=!4m7!3m6!1s0x3a293dfa03188dff:0xdd2aef81f62e8e2a!8m2!3d21.1988898!4d81.2889212!16s%2Fg%2F11g1mhp7r5!19sChIJ_40YA_o9KToRKo4u9oHvKt0?authuser=0&hl=en&rclk=1"
@@ -6515,8 +6461,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/M+R+DENTAL+CARE+%28Dental,+Implant+%26+Anplastology%29/data=!4m7!3m6!1s0x3a293dfa03188dff:0xdd2aef81f62e8e2a!8m2!3d21.1988898!4d81.2889212!16s%2Fg%2F11g1mhp7r5!19sChIJ_40YA_o9KToRKo4u9oHvKt0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "matrichaya-hospital-bhilai",
@@ -6564,7 +6509,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MATRICHAYA+HOSPITAL/data=!4m7!3m6!1s0x3a293d2b72a0712f:0xc8de506ae41accef!8m2!3d21.159893!4d81.3343746!16s%2Fg%2F11n3phyrfj!19sChIJL3Ggcis9KToR78wa5GpQ3sg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MATRICHAYA+HOSPITAL/data=!4m7!3m6!1s0x3a293d2b72a0712f:0xc8de506ae41accef!8m2!3d21.159893!4d81.3343746!16s%2Fg%2F11n3phyrfj!19sChIJL3Ggcis9KToR78wa5GpQ3sg?authuser=0&hl=en&rclk=1"
@@ -6630,11 +6575,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MATRICHAYA+HOSPITAL/data=!4m7!3m6!1s0x3a293d2b72a0712f:0xc8de506ae41accef!8m2!3d21.159893!4d81.3343746!16s%2Fg%2F11n3phyrfj!19sChIJL3Ggcis9KToR78wa5GpQ3sg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meditooth-dental-home-durg",
@@ -6682,7 +6626,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Meditooth+Dental+Home/data=!4m7!3m6!1s0x3a293d004dee7cd9:0xbc35313462a66366!8m2!3d21.1919114!4d81.2856314!16s%2Fg%2F11ln_xdrw3!19sChIJ2XzuTQA9KToRZmOmYjQxNbw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meditooth+Dental+Home/data=!4m7!3m6!1s0x3a293d004dee7cd9:0xbc35313462a66366!8m2!3d21.1919114!4d81.2856314!16s%2Fg%2F11ln_xdrw3!19sChIJ2XzuTQA9KToRZmOmYjQxNbw?authuser=0&hl=en&rclk=1"
@@ -6748,11 +6692,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Meditooth+Dental+Home/data=!4m7!3m6!1s0x3a293d004dee7cd9:0xbc35313462a66366!8m2!3d21.1919114!4d81.2856314!16s%2Fg%2F11ln_xdrw3!19sChIJ2XzuTQA9KToRZmOmYjQxNbw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mittal-bhilai-hospital-bhilai",
@@ -6800,7 +6743,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MITTAL+BHILAI+HOSPITAL/@21.2165913,81.3225189,17z/data=!3m1!4b1!4m6!3m5!1s0x3a293de62a4d6335:0x41ca81364324b0f5!8m2!3d21.2165913!4d81.3225189!16s%2Fg%2F11w2gwnm7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MITTAL+BHILAI+HOSPITAL/@21.2165913,81.3225189,17z/data=!3m1!4b1!4m6!3m5!1s0x3a293de62a4d6335:0x41ca81364324b0f5!8m2!3d21.2165913!4d81.3225189!16s%2Fg%2F11w2gwnm7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6869,8 +6812,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MITTAL+BHILAI+HOSPITAL/@21.2165913,81.3225189,17z/data=!3m1!4b1!4m6!3m5!1s0x3a293de62a4d6335:0x41ca81364324b0f5!8m2!3d21.2165913!4d81.3225189!16s%2Fg%2F11w2gwnm7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "modern-dental-clinic-bhilai",
@@ -6916,7 +6858,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Modern+Dental+Clinic/data=!4m7!3m6!1s0x3a2922d648f59427:0xa17df97ed53318b1!8m2!3d21.207246!4d81.3475979!16s%2Fg%2F11jzqp_3x4!19sChIJJ5T1SNYiKToRsRgz1X75faE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modern+Dental+Clinic/data=!4m7!3m6!1s0x3a2922d648f59427:0xa17df97ed53318b1!8m2!3d21.207246!4d81.3475979!16s%2Fg%2F11jzqp_3x4!19sChIJJ5T1SNYiKToRsRgz1X75faE?authuser=0&hl=en&rclk=1"
@@ -6982,11 +6924,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Modern+Dental+Clinic/data=!4m7!3m6!1s0x3a2922d648f59427:0xa17df97ed53318b1!8m2!3d21.207246!4d81.3475979!16s%2Fg%2F11jzqp_3x4!19sChIJJ5T1SNYiKToRsRgz1X75faE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mukherjee-hospitals-bhilai",
@@ -7035,7 +6976,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mukherjee+Hospitals/data=!4m7!3m6!1s0x3a293d22ff3a3329:0xffba09b509e3794c!8m2!3d21.2070265!4d81.3260487!16s%2Fg%2F11qrct1zyp!19sChIJKTM6_yI9KToRTHnjCbUJuv8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mukherjee+Hospitals/data=!4m7!3m6!1s0x3a293d22ff3a3329:0xffba09b509e3794c!8m2!3d21.2070265!4d81.3260487!16s%2Fg%2F11qrct1zyp!19sChIJKTM6_yI9KToRTHnjCbUJuv8?authuser=0&hl=en&rclk=1"
@@ -7101,11 +7042,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mukherjee+Hospitals/data=!4m7!3m6!1s0x3a293d22ff3a3329:0xffba09b509e3794c!8m2!3d21.2070265!4d81.3260487!16s%2Fg%2F11qrct1zyp!19sChIJKTM6_yI9KToRTHnjCbUJuv8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nair-s-dental-clinic-bhilai",
@@ -7153,7 +7093,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nair%E2%80%99s+Dental+Clinic/data=!4m7!3m6!1s0x3a293d45e16b28a7:0xa27175e914df78f3!8m2!3d21.2135766!4d81.3178062!16s%2Fg%2F11mhfyt2lg!19sChIJpyhr4UU9KToR83jfFOl1caI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nair%E2%80%99s+Dental+Clinic/data=!4m7!3m6!1s0x3a293d45e16b28a7:0xa27175e914df78f3!8m2!3d21.2135766!4d81.3178062!16s%2Fg%2F11mhfyt2lg!19sChIJpyhr4UU9KToR83jfFOl1caI?authuser=0&hl=en&rclk=1"
@@ -7222,8 +7162,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nair%E2%80%99s+Dental+Clinic/data=!4m7!3m6!1s0x3a293d45e16b28a7:0xa27175e914df78f3!8m2!3d21.2135766!4d81.3178062!16s%2Fg%2F11mhfyt2lg!19sChIJpyhr4UU9KToR83jfFOl1caI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nand-gopal-child-and-maternity-care-hospital-bhilai",
@@ -7273,7 +7212,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nand+Gopal+Child+And+Maternity+Care+Hospital/data=!4m7!3m6!1s0x3a2923223e4a28a5:0x1f259bece48b63fd!8m2!3d21.2096624!4d81.340516!16s%2Fg%2F11vpzcqwnf!19sChIJpShKPiIjKToR_WOL5OybJR8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nand+Gopal+Child+And+Maternity+Care+Hospital/data=!4m7!3m6!1s0x3a2923223e4a28a5:0x1f259bece48b63fd!8m2!3d21.2096624!4d81.340516!16s%2Fg%2F11vpzcqwnf!19sChIJpShKPiIjKToR_WOL5OybJR8?authuser=0&hl=en&rclk=1"
@@ -7342,8 +7281,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nand+Gopal+Child+And+Maternity+Care+Hospital/data=!4m7!3m6!1s0x3a2923223e4a28a5:0x1f259bece48b63fd!8m2!3d21.2096624!4d81.340516!16s%2Fg%2F11vpzcqwnf!19sChIJpShKPiIjKToR_WOL5OybJR8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pahlajanis-ivf-bhilai",
@@ -7394,7 +7332,7 @@
       "187+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pahlajanis%27+IVF/data=!4m7!3m6!1s0x3a293d2fdb929123:0x72e374f0fed86b08!8m2!3d21.2229098!4d81.344389!16s%2Fg%2F11pbdxbg5q!19sChIJI5GS2y89KToRCGvY_vB043I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pahlajanis%27+IVF/data=!4m7!3m6!1s0x3a293d2fdb929123:0x72e374f0fed86b08!8m2!3d21.2229098!4d81.344389!16s%2Fg%2F11pbdxbg5q!19sChIJI5GS2y89KToRCGvY_vB043I?authuser=0&hl=en&rclk=1"
@@ -7463,8 +7401,7 @@
     "rating": 4.8,
     "reviews": 187,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pahlajanis%27+IVF/data=!4m7!3m6!1s0x3a293d2fdb929123:0x72e374f0fed86b08!8m2!3d21.2229098!4d81.344389!16s%2Fg%2F11pbdxbg5q!19sChIJI5GS2y89KToRCGvY_vB043I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pallavi-dental-clinic-and-implant-centre-bhilai",
@@ -7512,7 +7449,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pallavi+Dental+clinic+and+implant+centre/data=!4m7!3m6!1s0x3a2923ded2855725:0xfc300147a90c1f!8m2!3d21.2387956!4d81.3684286!16s%2Fg%2F11s75jzg50!19sChIJJVeF0t4jKToRHwypRwEw_AA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pallavi+Dental+clinic+and+implant+centre/data=!4m7!3m6!1s0x3a2923ded2855725:0xfc300147a90c1f!8m2!3d21.2387956!4d81.3684286!16s%2Fg%2F11s75jzg50!19sChIJJVeF0t4jKToRHwypRwEw_AA?authuser=0&hl=en&rclk=1"
@@ -7578,11 +7515,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pallavi+Dental+clinic+and+implant+centre/data=!4m7!3m6!1s0x3a2923ded2855725:0xfc300147a90c1f!8m2!3d21.2387956!4d81.3684286!16s%2Fg%2F11s75jzg50!19sChIJJVeF0t4jKToRHwypRwEw_AA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "physio-care-physiotherapy-clinic-dr-hemant-singh-bhilai",
@@ -7631,7 +7567,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PHYSIO+CARE+PHYSIOTHERAPY+CLINIC,DR+HEMANT+SINGH./data=!4m7!3m6!1s0x3a2923f82bf1b231:0xc5781de0a2ed98f!8m2!3d21.2100904!4d81.3785575!16s%2Fg%2F11fn2yfgfy!19sChIJMbLxK_gjKToRj9kuCt6BVww?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PHYSIO+CARE+PHYSIOTHERAPY+CLINIC,DR+HEMANT+SINGH./data=!4m7!3m6!1s0x3a2923f82bf1b231:0xc5781de0a2ed98f!8m2!3d21.2100904!4d81.3785575!16s%2Fg%2F11fn2yfgfy!19sChIJMbLxK_gjKToRj9kuCt6BVww?authuser=0&hl=en&rclk=1"
@@ -7697,11 +7633,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PHYSIO+CARE+PHYSIOTHERAPY+CLINIC,DR+HEMANT+SINGH./data=!4m7!3m6!1s0x3a2923f82bf1b231:0xc5781de0a2ed98f!8m2!3d21.2100904!4d81.3785575!16s%2Fg%2F11fn2yfgfy!19sChIJMbLxK_gjKToRj9kuCt6BVww?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pincha-ent-clinic-and-dental-implantcentre-durg",
@@ -7750,7 +7685,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pincha+ENT+Clinic+%26+Dental+ImplantCentre/data=!4m7!3m6!1s0x3a293d601474813f:0xeabcc30927f89299!8m2!3d21.1948704!4d81.2872339!16s%2Fg%2F11tfm3xwmm!19sChIJP4F0FGA9KToRmZL4JwnDvOo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pincha+ENT+Clinic+%26+Dental+ImplantCentre/data=!4m7!3m6!1s0x3a293d601474813f:0xeabcc30927f89299!8m2!3d21.1948704!4d81.2872339!16s%2Fg%2F11tfm3xwmm!19sChIJP4F0FGA9KToRmZL4JwnDvOo?authuser=0&hl=en&rclk=1"
@@ -7819,8 +7754,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pincha+ENT+Clinic+%26+Dental+ImplantCentre/data=!4m7!3m6!1s0x3a293d601474813f:0xeabcc30927f89299!8m2!3d21.1948704!4d81.2872339!16s%2Fg%2F11tfm3xwmm!19sChIJP4F0FGA9KToRmZL4JwnDvOo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pulse-hospital-bhilai",
@@ -7869,7 +7803,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pulse+Hospital/data=!4m7!3m6!1s0x3a293d48fe3254b5:0xf394e6a0f37f969!8m2!3d21.2073375!4d81.3190017!16s%2Fg%2F11h1m063gc!19sChIJtVQy_kg9KToRafk3D2pOOQ8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pulse+Hospital/data=!4m7!3m6!1s0x3a293d48fe3254b5:0xf394e6a0f37f969!8m2!3d21.2073375!4d81.3190017!16s%2Fg%2F11h1m063gc!19sChIJtVQy_kg9KToRafk3D2pOOQ8?authuser=0&hl=en&rclk=1"
@@ -7938,8 +7872,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pulse+Hospital/data=!4m7!3m6!1s0x3a293d48fe3254b5:0xf394e6a0f37f969!8m2!3d21.2073375!4d81.3190017!16s%2Fg%2F11h1m063gc!19sChIJtVQy_kg9KToRafk3D2pOOQ8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-r-hospital-adarsh-nagar",
@@ -7987,7 +7920,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R+R+Hospital/data=!4m7!3m6!1s0x3a293d5a919c8025:0x9ac202fa562ef3f7!8m2!3d21.1698301!4d81.2874334!16s%2Fg%2F11fjty4vy7!19sChIJJYCckVo9KToR9_MuVvoCwpo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+R+Hospital/data=!4m7!3m6!1s0x3a293d5a919c8025:0x9ac202fa562ef3f7!8m2!3d21.1698301!4d81.2874334!16s%2Fg%2F11fjty4vy7!19sChIJJYCckVo9KToR9_MuVvoCwpo?authuser=0&hl=en&rclk=1"
@@ -8056,8 +7989,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R+R+Hospital/data=!4m7!3m6!1s0x3a293d5a919c8025:0x9ac202fa562ef3f7!8m2!3d21.1698301!4d81.2874334!16s%2Fg%2F11fjty4vy7!19sChIJJYCckVo9KToR9_MuVvoCwpo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rajput-homoeopathic-clinic-durg",
@@ -8106,7 +8038,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rajput+homoeopathic+clinic/data=!4m7!3m6!1s0x3a293daaa57bf2bf:0x967f5a0edf7bb187!8m2!3d21.1697576!4d81.2928552!16s%2Fg%2F11lppq72nl!19sChIJv_J7pao9KToRh7F73w5af5Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajput+homoeopathic+clinic/data=!4m7!3m6!1s0x3a293daaa57bf2bf:0x967f5a0edf7bb187!8m2!3d21.1697576!4d81.2928552!16s%2Fg%2F11lppq72nl!19sChIJv_J7pao9KToRh7F73w5af5Y?authuser=0&hl=en&rclk=1"
@@ -8172,11 +8104,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rajput+homoeopathic+clinic/data=!4m7!3m6!1s0x3a293daaa57bf2bf:0x967f5a0edf7bb187!8m2!3d21.1697576!4d81.2928552!16s%2Fg%2F11lppq72nl!19sChIJv_J7pao9KToRh7F73w5af5Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ratan-tiwari-clinic-ent-specialist-rk-ent-hospital-bhilai",
@@ -8224,7 +8155,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ratan+Tiwari+Clinic+%28ENT+Specialist%29,+RK+%28ENT%29+Hospital/data=!4m7!3m6!1s0x3a2923a48d0b6699:0x90ee1174ca973ee4!8m2!3d21.2073393!4d81.3532247!16s%2Fg%2F11gmhy4syl!19sChIJmWYLjaQjKToR5D6XynQR7pA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ratan+Tiwari+Clinic+%28ENT+Specialist%29,+RK+%28ENT%29+Hospital/data=!4m7!3m6!1s0x3a2923a48d0b6699:0x90ee1174ca973ee4!8m2!3d21.2073393!4d81.3532247!16s%2Fg%2F11gmhy4syl!19sChIJmWYLjaQjKToR5D6XynQR7pA?authuser=0&hl=en&rclk=1"
@@ -8293,8 +8224,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ratan+Tiwari+Clinic+%28ENT+Specialist%29,+RK+%28ENT%29+Hospital/data=!4m7!3m6!1s0x3a2923a48d0b6699:0x90ee1174ca973ee4!8m2!3d21.2073393!4d81.3532247!16s%2Fg%2F11gmhy4syl!19sChIJmWYLjaQjKToR5D6XynQR7pA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rathod-dental-hospital-smriti-nagar",
@@ -8343,7 +8273,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rathod+Dental+Hospital/data=!4m7!3m6!1s0x3a293dc004cff209:0x1c3aaa955d067daa!8m2!3d21.2151081!4d81.3211863!16s%2Fg%2F11hzhtqp1w!19sChIJCfLPBMA9KToRqn0GXZWqOhw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rathod+Dental+Hospital/data=!4m7!3m6!1s0x3a293dc004cff209:0x1c3aaa955d067daa!8m2!3d21.2151081!4d81.3211863!16s%2Fg%2F11hzhtqp1w!19sChIJCfLPBMA9KToRqn0GXZWqOhw?authuser=0&hl=en&rclk=1"
@@ -8412,8 +8342,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rathod+Dental+Hospital/data=!4m7!3m6!1s0x3a293dc004cff209:0x1c3aaa955d067daa!8m2!3d21.2151081!4d81.3211863!16s%2Fg%2F11hzhtqp1w!19sChIJCfLPBMA9KToRqn0GXZWqOhw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ratna-dental-care-and-implant-center-durg",
@@ -8461,7 +8390,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ratna+Dental+Care+%26+Implant+Center/data=!4m7!3m6!1s0x3a293df31d2d1033:0xc9cd6dad3e2ace44!8m2!3d21.1711317!4d81.2882553!16s%2Fg%2F11p07zspfc!19sChIJMxAtHfM9KToRRM4qPq1tzck?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ratna+Dental+Care+%26+Implant+Center/data=!4m7!3m6!1s0x3a293df31d2d1033:0xc9cd6dad3e2ace44!8m2!3d21.1711317!4d81.2882553!16s%2Fg%2F11p07zspfc!19sChIJMxAtHfM9KToRRM4qPq1tzck?authuser=0&hl=en&rclk=1"
@@ -8530,8 +8459,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ratna+Dental+Care+%26+Implant+Center/data=!4m7!3m6!1s0x3a293df31d2d1033:0xc9cd6dad3e2ace44!8m2!3d21.1711317!4d81.2882553!16s%2Fg%2F11p07zspfc!19sChIJMxAtHfM9KToRRM4qPq1tzck?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rungta-college-of-dental-sciences-and-research-bhilai",
@@ -8581,7 +8509,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rungta+College+of+Dental+Sciences+%26+Research/data=!4m7!3m6!1s0x3a2922b3e4a5cbc3:0xa264b816b7ee5eb5!8m2!3d21.2358617!4d81.3451076!16s%2Fg%2F11fy56n2t_!19sChIJw8ul5LMiKToRtV7utxa4ZKI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rungta+College+of+Dental+Sciences+%26+Research/data=!4m7!3m6!1s0x3a2922b3e4a5cbc3:0xa264b816b7ee5eb5!8m2!3d21.2358617!4d81.3451076!16s%2Fg%2F11fy56n2t_!19sChIJw8ul5LMiKToRtV7utxa4ZKI?authuser=0&hl=en&rclk=1"
@@ -8650,8 +8578,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rungta+College+of+Dental+Sciences+%26+Research/data=!4m7!3m6!1s0x3a2922b3e4a5cbc3:0xa264b816b7ee5eb5!8m2!3d21.2358617!4d81.3451076!16s%2Fg%2F11fy56n2t_!19sChIJw8ul5LMiKToRtV7utxa4ZKI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saaol-heart-center-bhilai-heart-specialist-in-bhilai-bhilai",
@@ -8701,7 +8628,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saaol+Heart+Center+Bhilai+-+Heart+Specialist+In+Bhilai/data=!4m7!3m6!1s0x3a293d283c690251:0x3804d0fd5843234e!8m2!3d21.2055363!4d81.3306186!16s%2Fg%2F11b_3h1k98!19sChIJUQJpPCg9KToRTiNDWP3QBDg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+Heart+Center+Bhilai+-+Heart+Specialist+In+Bhilai/data=!4m7!3m6!1s0x3a293d283c690251:0x3804d0fd5843234e!8m2!3d21.2055363!4d81.3306186!16s%2Fg%2F11b_3h1k98!19sChIJUQJpPCg9KToRTiNDWP3QBDg?authuser=0&hl=en&rclk=1"
@@ -8770,8 +8697,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saaol+Heart+Center+Bhilai+-+Heart+Specialist+In+Bhilai/data=!4m7!3m6!1s0x3a293d283c690251:0x3804d0fd5843234e!8m2!3d21.2055363!4d81.3306186!16s%2Fg%2F11b_3h1k98!19sChIJUQJpPCg9KToRTiNDWP3QBDg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-kripa-dental-bhilai",
@@ -8819,7 +8745,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Kripa+Dental/data=!4m7!3m6!1s0x3a293d1808a6408b:0x1aa8f4b5fd9a2dee!8m2!3d21.2148663!4d81.3178813!16s%2Fg%2F11fxv3_65x!19sChIJi0CmCBg9KToR7i2a_bX0qBo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Kripa+Dental/data=!4m7!3m6!1s0x3a293d1808a6408b:0x1aa8f4b5fd9a2dee!8m2!3d21.2148663!4d81.3178813!16s%2Fg%2F11fxv3_65x!19sChIJi0CmCBg9KToR7i2a_bX0qBo?authuser=0&hl=en&rclk=1"
@@ -8888,8 +8814,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Kripa+Dental/data=!4m7!3m6!1s0x3a293d1808a6408b:0x1aa8f4b5fd9a2dee!8m2!3d21.2148663!4d81.3178813!16s%2Fg%2F11fxv3_65x!19sChIJi0CmCBg9KToR7i2a_bX0qBo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevani-clinic-durg",
@@ -8937,7 +8862,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevani+clinic/data=!4m7!3m6!1s0x3a293c5d0300e5f3:0x2f605cc5a351f6a6!8m2!3d21.1814586!4d81.2871234!16s%2Fg%2F11gbkgczdr!19sChIJ8-UAA108KToRpvZRo8VcYC8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+clinic/data=!4m7!3m6!1s0x3a293c5d0300e5f3:0x2f605cc5a351f6a6!8m2!3d21.1814586!4d81.2871234!16s%2Fg%2F11gbkgczdr!19sChIJ8-UAA108KToRpvZRo8VcYC8?authuser=0&hl=en&rclk=1"
@@ -9006,8 +8931,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevani+clinic/data=!4m7!3m6!1s0x3a293c5d0300e5f3:0x2f605cc5a351f6a6!8m2!3d21.1814586!4d81.2871234!16s%2Fg%2F11gbkgczdr!19sChIJ8-UAA108KToRpvZRo8VcYC8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevani-hospital-bhilai",
@@ -9055,7 +8979,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevani+Hospital/data=!4m7!3m6!1s0x3a2921840427ce23:0xecc77ff096ef1013!8m2!3d21.2161664!4d81.4338874!16s%2Fg%2F11cmy6y0gs!19sChIJI84nBIQhKToRExDvlvB_x-w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Hospital/data=!4m7!3m6!1s0x3a2921840427ce23:0xecc77ff096ef1013!8m2!3d21.2161664!4d81.4338874!16s%2Fg%2F11cmy6y0gs!19sChIJI84nBIQhKToRExDvlvB_x-w?authuser=0&hl=en&rclk=1"
@@ -9124,8 +9048,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevani+Hospital/data=!4m7!3m6!1s0x3a2921840427ce23:0xecc77ff096ef1013!8m2!3d21.2161664!4d81.4338874!16s%2Fg%2F11cmy6y0gs!19sChIJI84nBIQhKToRExDvlvB_x-w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sav-dental-care-and-diagnostic-centre-bhilai",
@@ -9173,7 +9096,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAV+DENTAL+CARE+%26+DIAGNOSTIC+CENTRE/data=!4m7!3m6!1s0x3a293d1695a4318d:0xb86b042e9870120a!8m2!3d21.2179134!4d81.3147839!16s%2Fg%2F11h_3p1j22!19sChIJjTGklRY9KToRChJwmC4Ea7g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAV+DENTAL+CARE+%26+DIAGNOSTIC+CENTRE/data=!4m7!3m6!1s0x3a293d1695a4318d:0xb86b042e9870120a!8m2!3d21.2179134!4d81.3147839!16s%2Fg%2F11h_3p1j22!19sChIJjTGklRY9KToRChJwmC4Ea7g?authuser=0&hl=en&rclk=1"
@@ -9242,8 +9165,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAV+DENTAL+CARE+%26+DIAGNOSTIC+CENTRE/data=!4m7!3m6!1s0x3a293d1695a4318d:0xb86b042e9870120a!8m2!3d21.2179134!4d81.3147839!16s%2Fg%2F11h_3p1j22!19sChIJjTGklRY9KToRChJwmC4Ea7g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "save-tooth-durg",
@@ -9292,7 +9214,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Save+Tooth/data=!4m7!3m6!1s0x3a293c5ebb504069:0x1ea09a8905e1ce22!8m2!3d21.1830335!4d81.2927888!16s%2Fg%2F11xlnp9tt!19sChIJaUBQu148KToRIs7hBYmaoB4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Save+Tooth/data=!4m7!3m6!1s0x3a293c5ebb504069:0x1ea09a8905e1ce22!8m2!3d21.1830335!4d81.2927888!16s%2Fg%2F11xlnp9tt!19sChIJaUBQu148KToRIs7hBYmaoB4?authuser=0&hl=en&rclk=1"
@@ -9361,8 +9283,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Save+Tooth/data=!4m7!3m6!1s0x3a293c5ebb504069:0x1ea09a8905e1ce22!8m2!3d21.1830335!4d81.2927888!16s%2Fg%2F11xlnp9tt!19sChIJaUBQu148KToRIs7hBYmaoB4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sbs-hospital-bhilai",
@@ -9411,7 +9332,7 @@
       "Google rating 4.9",
       "1+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SBS+HOSPITAL/data=!4m7!3m6!1s0x3a292383f4f47047:0x28bd0163a296c3d5!8m2!3d21.2092814!4d81.3720357!16s%2Fg%2F11rd86td1s!19sChIJR3D09IMjKToR1cOWomMBvSg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SBS+HOSPITAL/data=!4m7!3m6!1s0x3a292383f4f47047:0x28bd0163a296c3d5!8m2!3d21.2092814!4d81.3720357!16s%2Fg%2F11rd86td1s!19sChIJR3D09IMjKToR1cOWomMBvSg?authuser=0&hl=en&rclk=1"
@@ -9480,8 +9401,7 @@
     "rating": 4.9,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SBS+HOSPITAL/data=!4m7!3m6!1s0x3a292383f4f47047:0x28bd0163a296c3d5!8m2!3d21.2092814!4d81.3720357!16s%2Fg%2F11rd86td1s!19sChIJR3D09IMjKToR1cOWomMBvSg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sector-9-hospital-bhilai",
@@ -9530,7 +9450,7 @@
       "Google rating 3.5",
       "985+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sector+9+Hospital/data=!4m7!3m6!1s0x3a293ce90184a3af:0x2742bfef69835a1c!8m2!3d21.1888793!4d81.3148798!16s%2Fg%2F11dxpn4p2f!19sChIJr6OEAek8KToRHFqDae-_Qic?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sector+9+Hospital/data=!4m7!3m6!1s0x3a293ce90184a3af:0x2742bfef69835a1c!8m2!3d21.1888793!4d81.3148798!16s%2Fg%2F11dxpn4p2f!19sChIJr6OEAek8KToRHFqDae-_Qic?authuser=0&hl=en&rclk=1"
@@ -9599,8 +9519,7 @@
     "rating": 3.5,
     "reviews": 985,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sector+9+Hospital/data=!4m7!3m6!1s0x3a293ce90184a3af:0x2742bfef69835a1c!8m2!3d21.1888793!4d81.3148798!16s%2Fg%2F11dxpn4p2f!19sChIJr6OEAek8KToRHFqDae-_Qic?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shikhar-ayurvedic-hospital-bhilai",
@@ -9648,7 +9567,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ShikhaR+Ayurvedic+Hospital/data=!4m7!3m6!1s0x3a29236c4fa4a8f5:0x103ad071bf2a9759!8m2!3d21.2159346!4d81.3515713!16s%2Fg%2F11np2dw6cw!19sChIJ9aikT2wjKToRWZcqv3HQOhA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ShikhaR+Ayurvedic+Hospital/data=!4m7!3m6!1s0x3a29236c4fa4a8f5:0x103ad071bf2a9759!8m2!3d21.2159346!4d81.3515713!16s%2Fg%2F11np2dw6cw!19sChIJ9aikT2wjKToRWZcqv3HQOhA?authuser=0&hl=en&rclk=1"
@@ -9717,8 +9636,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ShikhaR+Ayurvedic+Hospital/data=!4m7!3m6!1s0x3a29236c4fa4a8f5:0x103ad071bf2a9759!8m2!3d21.2159346!4d81.3515713!16s%2Fg%2F11np2dw6cw!19sChIJ9aikT2wjKToRWZcqv3HQOhA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiush-clinics-bhilai",
@@ -9768,7 +9686,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHIUSH-CLINICS/data=!4m7!3m6!1s0x3a29237ab804a74b:0xd083748ca900f855!8m2!3d21.2103419!4d81.3732931!16s%2Fg%2F11xdrnqk9j!19sChIJS6cEuHojKToRVfgAqYx0g9A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHIUSH-CLINICS/data=!4m7!3m6!1s0x3a29237ab804a74b:0xd083748ca900f855!8m2!3d21.2103419!4d81.3732931!16s%2Fg%2F11xdrnqk9j!19sChIJS6cEuHojKToRVfgAqYx0g9A?authuser=0&hl=en&rclk=1"
@@ -9837,8 +9755,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHIUSH-CLINICS/data=!4m7!3m6!1s0x3a29237ab804a74b:0xd083748ca900f855!8m2!3d21.2103419!4d81.3732931!16s%2Fg%2F11xdrnqk9j!19sChIJS6cEuHojKToRVfgAqYx0g9A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-ambey-hospital-bhilai",
@@ -9886,7 +9803,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Ambey+hospital/data=!4m7!3m6!1s0x3a2922fd2c37cd83:0x3ee5dfc31b81b724!8m2!3d21.2092491!4d81.3731977!16s%2Fg%2F11cr_qkpr7!19sChIJg803LP0iKToRJLeBG8Pf5T4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Ambey+hospital/data=!4m7!3m6!1s0x3a2922fd2c37cd83:0x3ee5dfc31b81b724!8m2!3d21.2092491!4d81.3731977!16s%2Fg%2F11cr_qkpr7!19sChIJg803LP0iKToRJLeBG8Pf5T4?authuser=0&hl=en&rclk=1"
@@ -9955,8 +9872,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Ambey+hospital/data=!4m7!3m6!1s0x3a2922fd2c37cd83:0x3ee5dfc31b81b724!8m2!3d21.2092491!4d81.3731977!16s%2Fg%2F11cr_qkpr7!19sChIJg803LP0iKToRJLeBG8Pf5T4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-vinayak-dental-clinic-bhilai",
@@ -10004,7 +9920,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Vinayak+Dental+Clinic/data=!4m7!3m6!1s0x3a293d2a3175d451:0x2661fd877f42725e!8m2!3d21.2057715!4d81.327707!16s%2Fg%2F11fpksll3d!19sChIJUdR1MSo9KToRXnJCf4f9YSY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Vinayak+Dental+Clinic/data=!4m7!3m6!1s0x3a293d2a3175d451:0x2661fd877f42725e!8m2!3d21.2057715!4d81.327707!16s%2Fg%2F11fpksll3d!19sChIJUdR1MSo9KToRXnJCf4f9YSY?authuser=0&hl=en&rclk=1"
@@ -10070,11 +9986,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Vinayak+Dental+Clinic/data=!4m7!3m6!1s0x3a293d2a3175d451:0x2661fd877f42725e!8m2!3d21.2057715!4d81.327707!16s%2Fg%2F11fpksll3d!19sChIJUdR1MSo9KToRXnJCf4f9YSY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shresth-dental-and-maxillofacial-clinic-durg",
@@ -10124,7 +10039,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHRESTH+DENTAL+AND+MAXILLOFACIAL+CLINIC/data=!4m7!3m6!1s0x3a293dedf8066583:0x71bfa99ea2d5fc29!8m2!3d21.1874416!4d81.2730776!16s%2Fg%2F11pt_12n03!19sChIJg2UG-O09KToRKfzVop6pv3E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHRESTH+DENTAL+AND+MAXILLOFACIAL+CLINIC/data=!4m7!3m6!1s0x3a293dedf8066583:0x71bfa99ea2d5fc29!8m2!3d21.1874416!4d81.2730776!16s%2Fg%2F11pt_12n03!19sChIJg2UG-O09KToRKfzVop6pv3E?authuser=0&hl=en&rclk=1"
@@ -10190,11 +10105,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHRESTH+DENTAL+AND+MAXILLOFACIAL+CLINIC/data=!4m7!3m6!1s0x3a293dedf8066583:0x71bfa99ea2d5fc29!8m2!3d21.1874416!4d81.2730776!16s%2Fg%2F11pt_12n03!19sChIJg2UG-O09KToRKfzVop6pv3E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-dhanvantari-clinic-homeopathy-ayurved-and-panchkarma-durg",
@@ -10242,7 +10156,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Dhanvantari+Clinic+%28+Homeopathy+,+Ayurved+And+Panchkarma+%29/data=!4m7!3m6!1s0x13fe02884b1492c1:0xf2c7b06c9dd42b43!8m2!3d21.2005727!4d81.3000029!16s%2Fg%2F11b7hfp1vc!19sChIJwZIUS4gC_hMRQyvUnWywx_I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Dhanvantari+Clinic+%28+Homeopathy+,+Ayurved+And+Panchkarma+%29/data=!4m7!3m6!1s0x13fe02884b1492c1:0xf2c7b06c9dd42b43!8m2!3d21.2005727!4d81.3000029!16s%2Fg%2F11b7hfp1vc!19sChIJwZIUS4gC_hMRQyvUnWywx_I?authuser=0&hl=en&rclk=1"
@@ -10311,8 +10225,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Dhanvantari+Clinic+%28+Homeopathy+,+Ayurved+And+Panchkarma+%29/data=!4m7!3m6!1s0x13fe02884b1492c1:0xf2c7b06c9dd42b43!8m2!3d21.2005727!4d81.3000029!16s%2Fg%2F11b7hfp1vc!19sChIJwZIUS4gC_hMRQyvUnWywx_I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-harkrishan-dental-clinic-bhilai",
@@ -10361,7 +10274,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Harkrishan+Dental+Clinic/data=!4m7!3m6!1s0x3a293d31f12553b3:0x4f15c79739bd4131!8m2!3d21.2137707!4d81.3230878!16s%2Fg%2F11svj2s4xy!19sChIJs1Ml8TE9KToRMUG9OZfHFU8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Harkrishan+Dental+Clinic/data=!4m7!3m6!1s0x3a293d31f12553b3:0x4f15c79739bd4131!8m2!3d21.2137707!4d81.3230878!16s%2Fg%2F11svj2s4xy!19sChIJs1Ml8TE9KToRMUG9OZfHFU8?authuser=0&hl=en&rclk=1"
@@ -10427,11 +10340,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Harkrishan+Dental+Clinic/data=!4m7!3m6!1s0x3a293d31f12553b3:0x4f15c79739bd4131!8m2!3d21.2137707!4d81.3230878!16s%2Fg%2F11svj2s4xy!19sChIJs1Ml8TE9KToRMUG9OZfHFU8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-sai-hospital-bhilai-3-bhilai",
@@ -10480,7 +10392,7 @@
       "Google rating 4.9",
       "63+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Sai+Hospital+bhilai+3/data=!4m7!3m6!1s0x3a2921f662d84ea5:0xcd0fb297470bc408!8m2!3d21.208842!4d81.4354471!16s%2Fg%2F11qnlh3mr8!19sChIJpU7YYvYhKToRCMQLR5eyD80?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Sai+Hospital+bhilai+3/data=!4m7!3m6!1s0x3a2921f662d84ea5:0xcd0fb297470bc408!8m2!3d21.208842!4d81.4354471!16s%2Fg%2F11qnlh3mr8!19sChIJpU7YYvYhKToRCMQLR5eyD80?authuser=0&hl=en&rclk=1"
@@ -10549,8 +10461,7 @@
     "rating": 4.9,
     "reviews": 63,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Sai+Hospital+bhilai+3/data=!4m7!3m6!1s0x3a2921f662d84ea5:0xcd0fb297470bc408!8m2!3d21.208842!4d81.4354471!16s%2Fg%2F11qnlh3mr8!19sChIJpU7YYvYhKToRCMQLR5eyD80?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-siddhi-vinayak-neuro-and-women-s-clinic-bhilai",
@@ -10600,7 +10511,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHRI+SIDDHI+VINAYAK+NEURO+%26+WOMEN%27S+CLINIC/data=!4m7!3m6!1s0x3a2923a728118623:0xb20ceaf4f8b1fc8e!8m2!3d21.2067802!4d81.3590357!16s%2Fg%2F11q4d6jh29!19sChIJI4YRKKcjKToRjvyx-PTqDLI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHRI+SIDDHI+VINAYAK+NEURO+%26+WOMEN%27S+CLINIC/data=!4m7!3m6!1s0x3a2923a728118623:0xb20ceaf4f8b1fc8e!8m2!3d21.2067802!4d81.3590357!16s%2Fg%2F11q4d6jh29!19sChIJI4YRKKcjKToRjvyx-PTqDLI?authuser=0&hl=en&rclk=1"
@@ -10669,8 +10580,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHRI+SIDDHI+VINAYAK+NEURO+%26+WOMEN%27S+CLINIC/data=!4m7!3m6!1s0x3a2923a728118623:0xb20ceaf4f8b1fc8e!8m2!3d21.2067802!4d81.3590357!16s%2Fg%2F11q4d6jh29!19sChIJI4YRKKcjKToRjvyx-PTqDLI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-vishwa-ayushman-bhavah-ayurved-panchkarma-clinic-durg",
@@ -10718,7 +10628,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Vishwa+Ayushman+bhavah+Ayurved+Panchkarma+Clinic/data=!4m7!3m6!1s0x3a293c466c756baf:0xd5bed7ca77d8d30b!8m2!3d21.1824726!4d81.2956343!16s%2Fg%2F11hd79w4rr!19sChIJr2t1bEY8KToRC9PYd8rXvtU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Vishwa+Ayushman+bhavah+Ayurved+Panchkarma+Clinic/data=!4m7!3m6!1s0x3a293c466c756baf:0xd5bed7ca77d8d30b!8m2!3d21.1824726!4d81.2956343!16s%2Fg%2F11hd79w4rr!19sChIJr2t1bEY8KToRC9PYd8rXvtU?authuser=0&hl=en&rclk=1"
@@ -10787,8 +10697,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Vishwa+Ayushman+bhavah+Ayurved+Panchkarma+Clinic/data=!4m7!3m6!1s0x3a293c466c756baf:0xd5bed7ca77d8d30b!8m2!3d21.1824726!4d81.2956343!16s%2Fg%2F11hd79w4rr!19sChIJr2t1bEY8KToRC9PYd8rXvtU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shriman-diagnostics-bhilai",
@@ -10838,7 +10747,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shriman+Diagnostics/data=!4m7!3m6!1s0x3a29230231ed014b:0x30dddd5a07e0063b!8m2!3d21.2109929!4d81.3786657!16s%2Fg%2F11jny71bgg!19sChIJSwHtMQIjKToROwbgB1rd3TA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shriman+Diagnostics/data=!4m7!3m6!1s0x3a29230231ed014b:0x30dddd5a07e0063b!8m2!3d21.2109929!4d81.3786657!16s%2Fg%2F11jny71bgg!19sChIJSwHtMQIjKToROwbgB1rd3TA?authuser=0&hl=en&rclk=1"
@@ -10907,8 +10816,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shriman+Diagnostics/data=!4m7!3m6!1s0x3a29230231ed014b:0x30dddd5a07e0063b!8m2!3d21.2109929!4d81.3786657!16s%2Fg%2F11jny71bgg!19sChIJSwHtMQIjKToROwbgB1rd3TA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sjm-maternity-and-diagnostic-centre-bhilai",
@@ -10956,7 +10864,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SJM+Maternity+%26+Diagnostic+Centre/data=!4m7!3m6!1s0x3a293d1838ac8f0b:0x55ce9d23c833d2d2!8m2!3d21.214279!4d81.316206!16s%2Fg%2F11c1vdpmbm!19sChIJC4-sOBg9KToR0tIzyCOdzlU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SJM+Maternity+%26+Diagnostic+Centre/data=!4m7!3m6!1s0x3a293d1838ac8f0b:0x55ce9d23c833d2d2!8m2!3d21.214279!4d81.316206!16s%2Fg%2F11c1vdpmbm!19sChIJC4-sOBg9KToR0tIzyCOdzlU?authuser=0&hl=en&rclk=1"
@@ -11025,8 +10933,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SJM+Maternity+%26+Diagnostic+Centre/data=!4m7!3m6!1s0x3a293d1838ac8f0b:0x55ce9d23c833d2d2!8m2!3d21.214279!4d81.316206!16s%2Fg%2F11c1vdpmbm!19sChIJC4-sOBg9KToR0tIzyCOdzlU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "stop-dialysis-clinic-bhilai",
@@ -11073,7 +10980,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Stop+Dialysis+clinic/data=!4m7!3m6!1s0x3a293d244846030f:0x7c9857692d0f16c4!8m2!3d21.2118106!4d81.3257098!16s%2Fg%2F11p64j4yg5!19sChIJDwNGSCQ9KToRxBYPLWlXmHw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Stop+Dialysis+clinic/data=!4m7!3m6!1s0x3a293d244846030f:0x7c9857692d0f16c4!8m2!3d21.2118106!4d81.3257098!16s%2Fg%2F11p64j4yg5!19sChIJDwNGSCQ9KToRxBYPLWlXmHw?authuser=0&hl=en&rclk=1"
@@ -11139,11 +11046,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Stop+Dialysis+clinic/data=!4m7!3m6!1s0x3a293d244846030f:0x7c9857692d0f16c4!8m2!3d21.2118106!4d81.3257098!16s%2Fg%2F11p64j4yg5!19sChIJDwNGSCQ9KToRxBYPLWlXmHw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suraaj-hospital-bhilai",
@@ -11192,7 +11098,7 @@
       "Google rating 2.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Suraaj+Hospital+%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B6%E0%A5%87%E0%A4%96%E0%A4%B0/data=!4m7!3m6!1s0x3a293dc6827d690b:0x3f2934d212b612b7!8m2!3d21.2012599!4d81.3216677!16s%2Fg%2F11f8p41df4!19sChIJC2l9gsY9KToRtxK2EtI0KT8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suraaj+Hospital+%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B6%E0%A5%87%E0%A4%96%E0%A4%B0/data=!4m7!3m6!1s0x3a293dc6827d690b:0x3f2934d212b612b7!8m2!3d21.2012599!4d81.3216677!16s%2Fg%2F11f8p41df4!19sChIJC2l9gsY9KToRtxK2EtI0KT8?authuser=0&hl=en&rclk=1"
@@ -11261,8 +11167,7 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Suraaj+Hospital+%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B6%E0%A5%87%E0%A4%96%E0%A4%B0/data=!4m7!3m6!1s0x3a293dc6827d690b:0x3f2934d212b612b7!8m2!3d21.2012599!4d81.3216677!16s%2Fg%2F11f8p41df4!19sChIJC2l9gsY9KToRtxK2EtI0KT8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "svm-shailesh-verma-memorial-hospital-durg",
@@ -11311,7 +11216,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SVM,+Shailesh+Verma+Memorial+Hospital/data=!4m7!3m6!1s0x3a293c45a64b7c7d:0x7a1cef0a277b15c5!8m2!3d21.1883248!4d81.2818668!16s%2Fg%2F11dxkfrvvz!19sChIJfXxLpkU8KToRxRV7JwrvHHo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SVM,+Shailesh+Verma+Memorial+Hospital/data=!4m7!3m6!1s0x3a293c45a64b7c7d:0x7a1cef0a277b15c5!8m2!3d21.1883248!4d81.2818668!16s%2Fg%2F11dxkfrvvz!19sChIJfXxLpkU8KToRxRV7JwrvHHo?authuser=0&hl=en&rclk=1"
@@ -11380,8 +11285,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SVM,+Shailesh+Verma+Memorial+Hospital/data=!4m7!3m6!1s0x3a293c45a64b7c7d:0x7a1cef0a277b15c5!8m2!3d21.1883248!4d81.2818668!16s%2Fg%2F11dxkfrvvz!19sChIJfXxLpkU8KToRxRV7JwrvHHo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-dental-corner-vaishali-nagar",
@@ -11429,7 +11333,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Dental+Corner/data=!4m7!3m6!1s0x3a29232b29509c05:0xd87c9ac00dccf577!8m2!3d21.2183445!4d81.3550252!16s%2Fg%2F11mvmw17sz!19sChIJBZxQKSsjKToRd_XMDcCafNg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dental+Corner/data=!4m7!3m6!1s0x3a29232b29509c05:0xd87c9ac00dccf577!8m2!3d21.2183445!4d81.3550252!16s%2Fg%2F11mvmw17sz!19sChIJBZxQKSsjKToRd_XMDcCafNg?authuser=0&hl=en&rclk=1"
@@ -11498,8 +11402,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Dental+Corner/data=!4m7!3m6!1s0x3a29232b29509c05:0xd87c9ac00dccf577!8m2!3d21.2183445!4d81.3550252!16s%2Fg%2F11mvmw17sz!19sChIJBZxQKSsjKToRd_XMDcCafNg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-dentist-dental-clinic-and-implant-center-bhilai-bhilai",
@@ -11548,7 +11451,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Dentist+Dental+Clinic+%26+Implant+Center,+Bhilai/data=!4m7!3m6!1s0x3a292317492845b9:0xe89e2b4eaf11f38d!8m2!3d21.1944997!4d81.346039!16s%2Fg%2F11f61vw33h!19sChIJuUUoSRcjKToRjfMRr04rnug?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dentist+Dental+Clinic+%26+Implant+Center,+Bhilai/data=!4m7!3m6!1s0x3a292317492845b9:0xe89e2b4eaf11f38d!8m2!3d21.1944997!4d81.346039!16s%2Fg%2F11f61vw33h!19sChIJuUUoSRcjKToRjfMRr04rnug?authuser=0&hl=en&rclk=1"
@@ -11617,8 +11520,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Dentist+Dental+Clinic+%26+Implant+Center,+Bhilai/data=!4m7!3m6!1s0x3a292317492845b9:0xe89e2b4eaf11f38d!8m2!3d21.1944997!4d81.346039!16s%2Fg%2F11f61vw33h!19sChIJuUUoSRcjKToRjfMRr04rnug?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-heart-beat-health-care-durg",
@@ -11667,7 +11569,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Heart+Beat+Health+Care/data=!4m7!3m6!1s0x3a293dcac1c521c9:0x7e6e0f97de0fc6c9!8m2!3d21.1807451!4d81.2980843!16s%2Fg%2F11ryljt0m7!19sChIJySHFwco9KToRycYP3pcPbn4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Heart+Beat+Health+Care/data=!4m7!3m6!1s0x3a293dcac1c521c9:0x7e6e0f97de0fc6c9!8m2!3d21.1807451!4d81.2980843!16s%2Fg%2F11ryljt0m7!19sChIJySHFwco9KToRycYP3pcPbn4?authuser=0&hl=en&rclk=1"
@@ -11736,8 +11638,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Heart+Beat+Health+Care/data=!4m7!3m6!1s0x3a293dcac1c521c9:0x7e6e0f97de0fc6c9!8m2!3d21.1807451!4d81.2980843!16s%2Fg%2F11ryljt0m7!19sChIJySHFwco9KToRycYP3pcPbn4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-heartcare-clinic-durg-bhilai-bhilai",
@@ -11784,7 +11685,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+HeartCare+Clinic+Durg-Bhilai/data=!4m7!3m6!1s0x3a292357e3704cfb:0x7d77d62fc338be4b!8m2!3d21.1947549!4d81.3465405!16s%2Fg%2F11swlbftd9!19sChIJ-0xw41cjKToRS744wy_Wd30?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+HeartCare+Clinic+Durg-Bhilai/data=!4m7!3m6!1s0x3a292357e3704cfb:0x7d77d62fc338be4b!8m2!3d21.1947549!4d81.3465405!16s%2Fg%2F11swlbftd9!19sChIJ-0xw41cjKToRS744wy_Wd30?authuser=0&hl=en&rclk=1"
@@ -11850,11 +11751,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+HeartCare+Clinic+Durg-Bhilai/data=!4m7!3m6!1s0x3a292357e3704cfb:0x7d77d62fc338be4b!8m2!3d21.1947549!4d81.3465405!16s%2Fg%2F11swlbftd9!19sChIJ-0xw41cjKToRS744wy_Wd30?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-srijjan-bhilai-test-tube-baby-center-bhilai",
@@ -11905,7 +11805,7 @@
       "508+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Srijjan+Bhilai+Test+Tube+Baby+Center/data=!4m7!3m6!1s0x3a2922df6c679b85:0xaaa8f6344b7895b!8m2!3d21.213365!4d81.336611!16s%2Fg%2F11dxjj_z97!19sChIJhZtnbN8iKToRW4m3RGOPqgo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Srijjan+Bhilai+Test+Tube+Baby+Center/data=!4m7!3m6!1s0x3a2922df6c679b85:0xaaa8f6344b7895b!8m2!3d21.213365!4d81.336611!16s%2Fg%2F11dxjj_z97!19sChIJhZtnbN8iKToRW4m3RGOPqgo?authuser=0&hl=en&rclk=1"
@@ -11974,8 +11874,7 @@
     "rating": 4.8,
     "reviews": 508,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Srijjan+Bhilai+Test+Tube+Baby+Center/data=!4m7!3m6!1s0x3a2922df6c679b85:0xaaa8f6344b7895b!8m2!3d21.213365!4d81.336611!16s%2Fg%2F11dxjj_z97!19sChIJhZtnbN8iKToRW4m3RGOPqgo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ujjwal-dental-clinic-charoda",
@@ -12025,7 +11924,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ujjwal+Dental+Clinic/data=!4m7!3m6!1s0x3a29210be90352fd:0xa64c1f041e0767ae!8m2!3d21.2250185!4d81.4587725!16s%2Fg%2F11gyyx9y5f!19sChIJ_VID6QshKToRrmcHHgQfTKY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ujjwal+Dental+Clinic/data=!4m7!3m6!1s0x3a29210be90352fd:0xa64c1f041e0767ae!8m2!3d21.2250185!4d81.4587725!16s%2Fg%2F11gyyx9y5f!19sChIJ_VID6QshKToRrmcHHgQfTKY?authuser=0&hl=en&rclk=1"
@@ -12094,8 +11993,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ujjwal+Dental+Clinic/data=!4m7!3m6!1s0x3a29210be90352fd:0xa64c1f041e0767ae!8m2!3d21.2250185!4d81.4587725!16s%2Fg%2F11gyyx9y5f!19sChIJ_VID6QshKToRrmcHHgQfTKY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vaishali-surgical-center-and-hospital-bhilai-bhilai",
@@ -12143,7 +12041,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vaishali+Surgical+Center+and+hospital+bhilai/data=!4m7!3m6!1s0x3a293cd9031816d9:0x4a8207cf6e10223b!8m2!3d21.2010924!4d81.3255071!16s%2Fg%2F11cp5r_2ky!19sChIJ2RYYA9k8KToROyIQbs8Hgko?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaishali+Surgical+Center+and+hospital+bhilai/data=!4m7!3m6!1s0x3a293cd9031816d9:0x4a8207cf6e10223b!8m2!3d21.2010924!4d81.3255071!16s%2Fg%2F11cp5r_2ky!19sChIJ2RYYA9k8KToROyIQbs8Hgko?authuser=0&hl=en&rclk=1"
@@ -12212,8 +12110,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vaishali+Surgical+Center+and+hospital+bhilai/data=!4m7!3m6!1s0x3a293cd9031816d9:0x4a8207cf6e10223b!8m2!3d21.2010924!4d81.3255071!16s%2Fg%2F11cp5r_2ky!19sChIJ2RYYA9k8KToROyIQbs8Hgko?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vayam-health-care-bhilai",
@@ -12261,7 +12158,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vayam+health+care/data=!4m7!3m6!1s0x3a2923d4d437e39b:0xeb8d41a0a2a4dd6a!8m2!3d21.2043155!4d81.3591099!16s%2Fg%2F11fks6jksd!19sChIJm-M31NQjKToRat2koqBBjes?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vayam+health+care/data=!4m7!3m6!1s0x3a2923d4d437e39b:0xeb8d41a0a2a4dd6a!8m2!3d21.2043155!4d81.3591099!16s%2Fg%2F11fks6jksd!19sChIJm-M31NQjKToRat2koqBBjes?authuser=0&hl=en&rclk=1"
@@ -12330,8 +12227,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vayam+health+care/data=!4m7!3m6!1s0x3a2923d4d437e39b:0xeb8d41a0a2a4dd6a!8m2!3d21.2043155!4d81.3591099!16s%2Fg%2F11fks6jksd!19sChIJm-M31NQjKToRat2koqBBjes?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "verma-s-women-and-child-care-clinic-bhilai",
@@ -12380,7 +12276,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Verma%27s+Women+%26+Child+Care+Clinic/data=!4m7!3m6!1s0x3a2922fc1ca89279:0x54ebf59275a31ee3!8m2!3d21.2121949!4d81.3781049!16s%2Fg%2F11td94thfd!19sChIJeZKoHPwiKToR4x6jdZL161Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Verma%27s+Women+%26+Child+Care+Clinic/data=!4m7!3m6!1s0x3a2922fc1ca89279:0x54ebf59275a31ee3!8m2!3d21.2121949!4d81.3781049!16s%2Fg%2F11td94thfd!19sChIJeZKoHPwiKToR4x6jdZL161Q?authuser=0&hl=en&rclk=1"
@@ -12446,11 +12342,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Verma%27s+Women+%26+Child+Care+Clinic/data=!4m7!3m6!1s0x3a2922fc1ca89279:0x54ebf59275a31ee3!8m2!3d21.2121949!4d81.3781049!16s%2Fg%2F11td94thfd!19sChIJeZKoHPwiKToR4x6jdZL161Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vita-health-care-bhilai",
@@ -12499,7 +12394,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vita+Health+Care/data=!4m7!3m6!1s0x3a293cd8ac797501:0x7093b4e7f3401e0b!8m2!3d21.2061901!4d81.3279516!16s%2Fg%2F11g6bz_ghd!19sChIJAXV5rNg8KToRCx5A8-e0k3A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vita+Health+Care/data=!4m7!3m6!1s0x3a293cd8ac797501:0x7093b4e7f3401e0b!8m2!3d21.2061901!4d81.3279516!16s%2Fg%2F11g6bz_ghd!19sChIJAXV5rNg8KToRCx5A8-e0k3A?authuser=0&hl=en&rclk=1"
@@ -12568,8 +12463,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vita+Health+Care/data=!4m7!3m6!1s0x3a293cd8ac797501:0x7093b4e7f3401e0b!8m2!3d21.2061901!4d81.3279516!16s%2Fg%2F11g6bz_ghd!19sChIJAXV5rNg8KToRCx5A8-e0k3A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vy-bhilai-city-center-vy-hospital-raipur-bhilai",
@@ -12618,7 +12512,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VY+BHILAI+CITY+CENTER,+VY+HOSPITAL+RAIPUR/data=!4m7!3m6!1s0x3a293dd1332fb309:0x6d5ed9a74a7980d6!8m2!3d21.2036982!4d81.3246174!16s%2Fg%2F11h73q02sd!19sChIJCbMvM9E9KToR1oB5SqfZXm0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VY+BHILAI+CITY+CENTER,+VY+HOSPITAL+RAIPUR/data=!4m7!3m6!1s0x3a293dd1332fb309:0x6d5ed9a74a7980d6!8m2!3d21.2036982!4d81.3246174!16s%2Fg%2F11h73q02sd!19sChIJCbMvM9E9KToR1oB5SqfZXm0?authuser=0&hl=en&rclk=1"
@@ -12684,11 +12578,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VY+BHILAI+CITY+CENTER,+VY+HOSPITAL+RAIPUR/data=!4m7!3m6!1s0x3a293dd1332fb309:0x6d5ed9a74a7980d6!8m2!3d21.2036982!4d81.3246174!16s%2Fg%2F11h73q02sd!19sChIJCbMvM9E9KToR1oB5SqfZXm0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wakodkar-infertility-and-ivf-centre-bhilai",
@@ -12738,7 +12631,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/WAKODKAR+INFERTILITY+AND+IVF+CENTRE/data=!4m7!3m6!1s0x3a293d0198c86085:0x4622b8218d38963d!8m2!3d21.206121!4d81.3221595!16s%2Fg%2F11gvzbc8t7!19sChIJhWDImAE9KToRPZY4jSG4IkY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/WAKODKAR+INFERTILITY+AND+IVF+CENTRE/data=!4m7!3m6!1s0x3a293d0198c86085:0x4622b8218d38963d!8m2!3d21.206121!4d81.3221595!16s%2Fg%2F11gvzbc8t7!19sChIJhWDImAE9KToRPZY4jSG4IkY?authuser=0&hl=en&rclk=1"
@@ -12807,8 +12700,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/WAKODKAR+INFERTILITY+AND+IVF+CENTRE/data=!4m7!3m6!1s0x3a293d0198c86085:0x4622b8218d38963d!8m2!3d21.206121!4d81.3221595!16s%2Fg%2F11gvzbc8t7!19sChIJhWDImAE9KToRPZY4jSG4IkY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "durg",
@@ -12854,7 +12746,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BB%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E2%80%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF/data=!4m7!3m6!1s0x3a293d4bd43e5909:0xe28b84763b73155f!8m2!3d21.1751048!4d81.2989005!16s%2Fg%2F11j92n1pg0!19sChIJCVk-1Es9KToRXxVzO3aEi-I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BB%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E2%80%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF/data=!4m7!3m6!1s0x3a293d4bd43e5909:0xe28b84763b73155f!8m2!3d21.1751048!4d81.2989005!16s%2Fg%2F11j92n1pg0!19sChIJCVk-1Es9KToRXxVzO3aEi-I?authuser=0&hl=en&rclk=1"
@@ -12920,10 +12812,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BB%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E2%80%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF/data=!4m7!3m6!1s0x3a293d4bd43e5909:0xe28b84763b73155f!8m2!3d21.1751048!4d81.2989005!16s%2Fg%2F11j92n1pg0!19sChIJCVk-1Es9KToRXxVzO3aEi-I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

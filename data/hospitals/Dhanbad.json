@@ -46,7 +46,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+in+Dhanbad+-+Asian+Hospital/@23.8060602,86.431139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdc6661f3cc7:0xd4ab087b18ff8e99!8m2!3d23.8060602!4d86.431139!16s%2Fg%2F11mzcl3x7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+in+Dhanbad+-+Asian+Hospital/@23.8060602,86.431139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdc6661f3cc7:0xd4ab087b18ff8e99!8m2!3d23.8060602!4d86.431139!16s%2Fg%2F11mzcl3x7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -112,11 +112,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+in+Dhanbad+-+Asian+Hospital/@23.8060602,86.431139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdc6661f3cc7:0xd4ab087b18ff8e99!8m2!3d23.8060602!4d86.431139!16s%2Fg%2F11mzcl3x7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "alkari-devi-ivf-and-fertility-centre-dhanbad",
@@ -166,7 +165,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ALKARI+DEVI+IVF+%26+FERTILITY+CENTRE/@23.8169327,86.4081375,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5ed05c58ca3:0xca8f162775eae636!8m2!3d23.8169327!4d86.4081375!16s%2Fg%2F11vsnvg9vv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ALKARI+DEVI+IVF+%26+FERTILITY+CENTRE/@23.8169327,86.4081375,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5ed05c58ca3:0xca8f162775eae636!8m2!3d23.8169327!4d86.4081375!16s%2Fg%2F11vsnvg9vv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -235,8 +234,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ALKARI+DEVI+IVF+%26+FERTILITY+CENTRE/@23.8169327,86.4081375,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5ed05c58ca3:0xca8f162775eae636!8m2!3d23.8169327!4d86.4081375!16s%2Fg%2F11vsnvg9vv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amrapali-city-hospital-dhanbad",
@@ -284,7 +282,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AMRAPALI+CITY+HOSPITAL/@23.8419368,86.4238392,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbf29bbb379f:0x29bf903690aa722c!8m2!3d23.8419368!4d86.4238392!16s%2Fg%2F11kkpcgybk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMRAPALI+CITY+HOSPITAL/@23.8419368,86.4238392,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbf29bbb379f:0x29bf903690aa722c!8m2!3d23.8419368!4d86.4238392!16s%2Fg%2F11kkpcgybk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -353,8 +351,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AMRAPALI+CITY+HOSPITAL/@23.8419368,86.4238392,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbf29bbb379f:0x29bf903690aa722c!8m2!3d23.8419368!4d86.4238392!16s%2Fg%2F11kkpcgybk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anand-cure-and-care-dhanbad",
@@ -403,7 +400,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anand+Cure+%26+Care/@23.8130494,86.4600215,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc7e1104a32b:0xc7c464ada697814d!8m2!3d23.8130494!4d86.4600215!16s%2Fg%2F11c54_6sgw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Cure+%26+Care/@23.8130494,86.4600215,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc7e1104a32b:0xc7c464ada697814d!8m2!3d23.8130494!4d86.4600215!16s%2Fg%2F11c54_6sgw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -472,8 +469,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anand+Cure+%26+Care/@23.8130494,86.4600215,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc7e1104a32b:0xc7c464ada697814d!8m2!3d23.8130494!4d86.4600215!16s%2Fg%2F11c54_6sgw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ankuram-ivf-dhanbad-dhanbad",
@@ -523,7 +519,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ANKURAM+IVF+%7C+Dhanbad/@23.8222931,86.4757542,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdf78225a3c3:0x257e06deb130abd8!8m2!3d23.8222931!4d86.4757542!16s%2Fg%2F11ybkcgq0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANKURAM+IVF+%7C+Dhanbad/@23.8222931,86.4757542,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdf78225a3c3:0x257e06deb130abd8!8m2!3d23.8222931!4d86.4757542!16s%2Fg%2F11ybkcgq0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -592,8 +588,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ANKURAM+IVF+%7C+Dhanbad/@23.8222931,86.4757542,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdf78225a3c3:0x257e06deb130abd8!8m2!3d23.8222931!4d86.4757542!16s%2Fg%2F11ybkcgq0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-proton-therapy-in-dhanbad-dhanbad",
@@ -642,7 +637,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Dhanbad/@23.799159,86.440697,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd8fb26f018f:0xee1a4aec10b47613!8m2!3d23.799159!4d86.440697!16s%2Fg%2F11yhrj0yfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Dhanbad/@23.799159,86.440697,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd8fb26f018f:0xee1a4aec10b47613!8m2!3d23.799159!4d86.440697!16s%2Fg%2F11yhrj0yfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -708,11 +703,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Dhanbad/@23.799159,86.440697,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd8fb26f018f:0xee1a4aec10b47613!8m2!3d23.799159!4d86.440697!16s%2Fg%2F11yhrj0yfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arika-mediworld-hospital-dhanbad-dhanbad",
@@ -761,7 +755,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arika+Mediworld+Hospital+Dhanbad/@23.8240195,86.3214487,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a7902536ca01:0x8743fb9cd8804be4!8m2!3d23.8240195!4d86.3214487!16s%2Fg%2F11tnn5cz16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arika+Mediworld+Hospital+Dhanbad/@23.8240195,86.3214487,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a7902536ca01:0x8743fb9cd8804be4!8m2!3d23.8240195!4d86.3214487!16s%2Fg%2F11tnn5cz16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -827,11 +821,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arika+Mediworld+Hospital+Dhanbad/@23.8240195,86.3214487,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a7902536ca01:0x8743fb9cd8804be4!8m2!3d23.8240195!4d86.3214487!16s%2Fg%2F11tnn5cz16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asarfi-cancer-hospital-dhanbad",
@@ -881,7 +874,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asarfi+Cancer+Hospital/@23.8145469,86.378696,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a570243a3451:0xea882e3341ea86fc!8m2!3d23.8145469!4d86.378696!16s%2Fg%2F11j65pgcwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asarfi+Cancer+Hospital/@23.8145469,86.378696,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a570243a3451:0xea882e3341ea86fc!8m2!3d23.8145469!4d86.378696!16s%2Fg%2F11j65pgcwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -950,8 +943,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asarfi+Cancer+Hospital/@23.8145469,86.378696,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a570243a3451:0xea882e3341ea86fc!8m2!3d23.8145469!4d86.378696!16s%2Fg%2F11j65pgcwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asarfi-hospital-dhanbad",
@@ -1000,7 +992,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asarfi+Hospital/@23.8209815,86.4143962,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a4abdb5f3619:0x27872133f646384d!8m2!3d23.8209815!4d86.4143962!16s%2Fg%2F1hf0wm0bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asarfi+Hospital/@23.8209815,86.4143962,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a4abdb5f3619:0x27872133f646384d!8m2!3d23.8209815!4d86.4143962!16s%2Fg%2F1hf0wm0bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1069,8 +1061,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asarfi+Hospital/@23.8209815,86.4143962,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a4abdb5f3619:0x27872133f646384d!8m2!3d23.8209815!4d86.4143962!16s%2Fg%2F1hf0wm0bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asg-eye-hospital-dhanbad-dhanbad",
@@ -1119,7 +1110,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Dhanbad/@23.7827792,86.4146512,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a33215c4fc4b:0xde895aa14b9966f1!8m2!3d23.7827792!4d86.4146512!16s%2Fg%2F11btylp5zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Dhanbad/@23.7827792,86.4146512,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a33215c4fc4b:0xde895aa14b9966f1!8m2!3d23.7827792!4d86.4146512!16s%2Fg%2F11btylp5zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1188,8 +1179,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Dhanbad/@23.7827792,86.4146512,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a33215c4fc4b:0xde895aa14b9966f1!8m2!3d23.7827792!4d86.4146512!16s%2Fg%2F11btylp5zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asian-centre-for-advanced-imaging-top-radiology-and-diagnostic-imaging-centre-in-dhanbad-dhanbad",
@@ -1238,7 +1228,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asian+Centre+for+Advanced+Imaging+-+Top+Radiology+%26+Diagnostic+Imaging+Centre+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd6553bec8b9:0xfa7f29e5f43398cf!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11mzdz7_9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Centre+for+Advanced+Imaging+-+Top+Radiology+%26+Diagnostic+Imaging+Centre+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd6553bec8b9:0xfa7f29e5f43398cf!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11mzdz7_9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1304,11 +1294,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asian+Centre+for+Advanced+Imaging+-+Top+Radiology+%26+Diagnostic+Imaging+Centre+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd6553bec8b9:0xfa7f29e5f43398cf!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11mzdz7_9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asian-centre-for-kidney-disease-and-dialysis-top-dialysis-and-nephrology-care-in-dhanbad-dhanbad",
@@ -1357,7 +1346,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asian+Centre+for+Kidney+Disease+%26+Dialysis+-+Top+Dialysis+%26+Nephrology+Care+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd564661776d:0x5cc0f8b35e006eb6!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11mzd_9mbm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Centre+for+Kidney+Disease+%26+Dialysis+-+Top+Dialysis+%26+Nephrology+Care+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd564661776d:0x5cc0f8b35e006eb6!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11mzd_9mbm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1423,11 +1412,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asian+Centre+for+Kidney+Disease+%26+Dialysis+-+Top+Dialysis+%26+Nephrology+Care+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd564661776d:0x5cc0f8b35e006eb6!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11mzd_9mbm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asian-centre-for-urology-top-urology-and-minimally-invasive-surgery-centre-in-dhanbad-dhanbad",
@@ -1475,7 +1463,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asian+Centre+for+Urology+-+Top+Urology+%26+Minimally+Invasive+Surgery+Centre+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd2a2d59aa8d:0x1ecd55e50011136!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11yw2j4_07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Centre+for+Urology+-+Top+Urology+%26+Minimally+Invasive+Surgery+Centre+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd2a2d59aa8d:0x1ecd55e50011136!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11yw2j4_07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1541,11 +1529,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asian+Centre+for+Urology+-+Top+Urology+%26+Minimally+Invasive+Surgery+Centre+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd2a2d59aa8d:0x1ecd55e50011136!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11yw2j4_07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asian-hospital-best-hospital-in-dhanbad-dhanbad",
@@ -1594,7 +1581,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asian+Hospital+-+Best+Hospital+in+Dhanbad/@23.8058885,86.431139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca53901bea9:0x9bb042ee2602dd10!8m2!3d23.8058885!4d86.431139!16s%2Fg%2F1wrtb89r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Hospital+-+Best+Hospital+in+Dhanbad/@23.8058885,86.431139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca53901bea9:0x9bb042ee2602dd10!8m2!3d23.8058885!4d86.431139!16s%2Fg%2F1wrtb89r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1663,8 +1650,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asian+Hospital+-+Best+Hospital+in+Dhanbad/@23.8058885,86.431139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca53901bea9:0x9bb042ee2602dd10!8m2!3d23.8058885!4d86.431139!16s%2Fg%2F1wrtb89r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asian-jalan-blood-bank-dhanbad",
@@ -1712,7 +1698,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asian+Jalan+Blood+Bank/@23.8064976,86.4314235,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0f171b6cdd:0xace38ea79de5d106!8m2!3d23.8064976!4d86.4314235!16s%2Fg%2F11h_442396?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Jalan+Blood+Bank/@23.8064976,86.4314235,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0f171b6cdd:0xace38ea79de5d106!8m2!3d23.8064976!4d86.4314235!16s%2Fg%2F11h_442396?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1781,8 +1767,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asian+Jalan+Blood+Bank/@23.8064976,86.4314235,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0f171b6cdd:0xace38ea79de5d106!8m2!3d23.8064976!4d86.4314235!16s%2Fg%2F11h_442396?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "avinash-hospital-dhanbad",
@@ -1831,7 +1816,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Avinash+Hospital/@23.7814084,86.4196619,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd5dac8c225d:0x2627b080db963f99!8m2!3d23.7814084!4d86.4196619!16s%2Fg%2F11f6np5s3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avinash+Hospital/@23.7814084,86.4196619,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd5dac8c225d:0x2627b080db963f99!8m2!3d23.7814084!4d86.4196619!16s%2Fg%2F11f6np5s3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1900,8 +1885,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Avinash+Hospital/@23.7814084,86.4196619,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd5dac8c225d:0x2627b080db963f99!8m2!3d23.7814084!4d86.4196619!16s%2Fg%2F11f6np5s3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "benu-kidney-clinic-dhanbad",
@@ -1950,7 +1934,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Benu+kidney+clinic/@23.8167394,86.4509931,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb006adb5301:0x7dc4685f8aca4cfc!8m2!3d23.8167394!4d86.4509931!16s%2Fg%2F11xlxypzp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Benu+kidney+clinic/@23.8167394,86.4509931,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb006adb5301:0x7dc4685f8aca4cfc!8m2!3d23.8167394!4d86.4509931!16s%2Fg%2F11xlxypzp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2019,8 +2003,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Benu+kidney+clinic/@23.8167394,86.4509931,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb006adb5301:0x7dc4685f8aca4cfc!8m2!3d23.8167394!4d86.4509931!16s%2Fg%2F11xlxypzp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhadani-medical-dhanbad",
@@ -2070,7 +2053,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BHADANI+MEDICAL/@23.8218032,86.4791455,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbb62a93d809:0xc492c2a048c962c!8m2!3d23.8218032!4d86.4791455!16s%2Fg%2F11jt26njgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BHADANI+MEDICAL/@23.8218032,86.4791455,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbb62a93d809:0xc492c2a048c962c!8m2!3d23.8218032!4d86.4791455!16s%2Fg%2F11jt26njgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2139,8 +2122,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BHADANI+MEDICAL/@23.8218032,86.4791455,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbb62a93d809:0xc492c2a048c962c!8m2!3d23.8218032!4d86.4791455!16s%2Fg%2F11jt26njgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-and-cure-clinic-dhanbad",
@@ -2188,7 +2170,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CARE+%26+CURE+CLINIC/@23.8197776,86.4690499,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbf7ac604221:0x919bef8f4fa0b7c6!8m2!3d23.8197776!4d86.4690499!16s%2Fg%2F11hzw3fwz0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CARE+%26+CURE+CLINIC/@23.8197776,86.4690499,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbf7ac604221:0x919bef8f4fa0b7c6!8m2!3d23.8197776!4d86.4690499!16s%2Fg%2F11hzw3fwz0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2257,8 +2239,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CARE+%26+CURE+CLINIC/@23.8197776,86.4690499,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbf7ac604221:0x919bef8f4fa0b7c6!8m2!3d23.8197776!4d86.4690499!16s%2Fg%2F11hzw3fwz0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-and-cure-physiotherapy-center-dhanbad",
@@ -2308,7 +2289,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Care+and+cure+Physiotherapy+center/@23.7999096,86.4428942,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0a5e05913b:0xb7ec8879638080f0!8m2!3d23.7999096!4d86.4428942!16s%2Fg%2F11p3hrfhrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+and+cure+Physiotherapy+center/@23.7999096,86.4428942,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0a5e05913b:0xb7ec8879638080f0!8m2!3d23.7999096!4d86.4428942!16s%2Fg%2F11p3hrfhrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2377,8 +2358,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Care+and+cure+Physiotherapy+center/@23.7999096,86.4428942,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0a5e05913b:0xb7ec8879638080f0!8m2!3d23.7999096!4d86.4428942!16s%2Fg%2F11p3hrfhrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "central-hospital-dhanbad",
@@ -2426,7 +2406,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Central+hospital/@23.8057979,86.451028,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd52df2626c3:0xf1b78d3704c55a74!8m2!3d23.8057979!4d86.451028!16s%2Fg%2F11frsdj950?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Central+hospital/@23.8057979,86.451028,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd52df2626c3:0xf1b78d3704c55a74!8m2!3d23.8057979!4d86.451028!16s%2Fg%2F11frsdj950?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2495,8 +2475,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Central+hospital/@23.8057979,86.451028,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd52df2626c3:0xf1b78d3704c55a74!8m2!3d23.8057979!4d86.451028!16s%2Fg%2F11frsdj950?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chandra-dental-care-dhanbad",
@@ -2546,7 +2525,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chandra+Dental+Care/data=!4m7!3m6!1s0x39f6bca697169a13:0x13ac505e64d32b62!8m2!3d23.8125511!4d86.4324352!16s%2Fg%2F11b5yt_y52!19sChIJE5oWl6a89jkRYivTZF5QrBM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandra+Dental+Care/data=!4m7!3m6!1s0x39f6bca697169a13:0x13ac505e64d32b62!8m2!3d23.8125511!4d86.4324352!16s%2Fg%2F11b5yt_y52!19sChIJE5oWl6a89jkRYivTZF5QrBM?authuser=0&hl=en&rclk=1"
@@ -2615,8 +2594,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chandra+Dental+Care/data=!4m7!3m6!1s0x39f6bca697169a13:0x13ac505e64d32b62!8m2!3d23.8125511!4d86.4324352!16s%2Fg%2F11b5yt_y52!19sChIJE5oWl6a89jkRYivTZF5QrBM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cmc-dhanbad-citizens-medical-center-dhanbad",
@@ -2665,7 +2643,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CMC+Dhanbad+(Citizens+Medical+Center)/@23.8176991,86.4088852,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5fe2b7efb97:0x791f04bf2b0483f6!8m2!3d23.8176991!4d86.4088852!16s%2Fg%2F11vwl2b61t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CMC+Dhanbad+(Citizens+Medical+Center)/@23.8176991,86.4088852,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5fe2b7efb97:0x791f04bf2b0483f6!8m2!3d23.8176991!4d86.4088852!16s%2Fg%2F11vwl2b61t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2734,8 +2712,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CMC+Dhanbad+(Citizens+Medical+Center)/@23.8176991,86.4088852,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5fe2b7efb97:0x791f04bf2b0483f6!8m2!3d23.8176991!4d86.4088852!16s%2Fg%2F11vwl2b61t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmo-medica-dhanbad",
@@ -2784,7 +2761,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cosmo+Medica/@23.8199074,86.4694615,17z/data=!3m1!4b1!4m6!3m5!1s0xad7502dd37162b15:0x2fe503504c995d97!8m2!3d23.8199074!4d86.4694615!16s%2Fg%2F11vcvj932k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmo+Medica/@23.8199074,86.4694615,17z/data=!3m1!4b1!4m6!3m5!1s0xad7502dd37162b15:0x2fe503504c995d97!8m2!3d23.8199074!4d86.4694615!16s%2Fg%2F11vcvj932k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2853,8 +2830,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cosmo+Medica/@23.8199074,86.4694615,17z/data=!3m1!4b1!4m6!3m5!1s0xad7502dd37162b15:0x2fe503504c995d97!8m2!3d23.8199074!4d86.4694615!16s%2Fg%2F11vcvj932k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dermacure-clinic-skin-laser-plastic-surgery-dhanbad",
@@ -2903,7 +2879,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DERMACURE+Clinic+%E0%A4%A1%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95+Skin,+Laser,+Plastic+Surgery/@23.7830259,86.4161092,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a3d726ac0943:0x996b1d0ca39d0735!8m2!3d23.7830259!4d86.4161092!16s%2Fg%2F11mnrfzm1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DERMACURE+Clinic+%E0%A4%A1%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95+Skin,+Laser,+Plastic+Surgery/@23.7830259,86.4161092,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a3d726ac0943:0x996b1d0ca39d0735!8m2!3d23.7830259!4d86.4161092!16s%2Fg%2F11mnrfzm1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2972,8 +2948,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DERMACURE+Clinic+%E0%A4%A1%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95+Skin,+Laser,+Plastic+Surgery/@23.7830259,86.4161092,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a3d726ac0943:0x996b1d0ca39d0735!8m2!3d23.7830259!4d86.4161092!16s%2Fg%2F11mnrfzm1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhanbad-dhanbad",
@@ -3023,7 +2998,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dhanbad/@23.799711,86.44164,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc9429e697e1:0xef3e2afdb8bc6556!8m2!3d23.799711!4d86.44164!16s%2Fg%2F1hdz53d1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhanbad/@23.799711,86.44164,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc9429e697e1:0xef3e2afdb8bc6556!8m2!3d23.799711!4d86.44164!16s%2Fg%2F1hdz53d1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3092,8 +3067,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dhanbad/@23.799711,86.44164,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc9429e697e1:0xef3e2afdb8bc6556!8m2!3d23.799711!4d86.44164!16s%2Fg%2F1hdz53d1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhanbad-nursing-home-pvt-ltd-dhanbad",
@@ -3141,7 +3115,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dhanbad+Nursing+Home+Pvt.+Ltd./@23.7893255,86.4158965,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a334595b12a1:0x3e40debfb8c002c1!8m2!3d23.7893255!4d86.4158965!16s%2Fg%2F11cphq55l1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhanbad+Nursing+Home+Pvt.+Ltd./@23.7893255,86.4158965,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a334595b12a1:0x3e40debfb8c002c1!8m2!3d23.7893255!4d86.4158965!16s%2Fg%2F11cphq55l1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3210,8 +3184,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dhanbad+Nursing+Home+Pvt.+Ltd./@23.7893255,86.4158965,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a334595b12a1:0x3e40debfb8c002c1!8m2!3d23.7893255!4d86.4158965!16s%2Fg%2F11cphq55l1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "district-hospital-dhanbad-dhanbad",
@@ -3259,7 +3232,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/District+Hospital+Dhanbad/@23.7983937,86.4370595,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbe9504f293:0x81fea706ac0dedbd!8m2!3d23.7983937!4d86.4370595!16s%2Fg%2F1hm2c78nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital+Dhanbad/@23.7983937,86.4370595,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbe9504f293:0x81fea706ac0dedbd!8m2!3d23.7983937!4d86.4370595!16s%2Fg%2F1hm2c78nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3328,8 +3301,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/District+Hospital+Dhanbad/@23.7983937,86.4370595,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbe9504f293:0x81fea706ac0dedbd!8m2!3d23.7983937!4d86.4370595!16s%2Fg%2F1hm2c78nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "endo-surgical-first-floor",
@@ -3377,7 +3349,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ENDO+SURGICAL/@23.8117626,86.4570975,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbaf69f7a0bd:0x1ece189904caa31a!8m2!3d23.8117626!4d86.4570975!16s%2Fg%2F11fs5hh7xj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ENDO+SURGICAL/@23.8117626,86.4570975,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbaf69f7a0bd:0x1ece189904caa31a!8m2!3d23.8117626!4d86.4570975!16s%2Fg%2F11fs5hh7xj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3446,8 +3418,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ENDO+SURGICAL/@23.8117626,86.4570975,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbaf69f7a0bd:0x1ece189904caa31a!8m2!3d23.8117626!4d86.4570975!16s%2Fg%2F11fs5hh7xj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fatima-maternity-centre-and-hospital-dhanbad",
@@ -3495,7 +3466,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fatima+maternity+centre+and+hospital/@23.8083468,86.4097395,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a3002520eaa9:0xb20e67eeb014471f!8m2!3d23.8083468!4d86.4097395!16s%2Fg%2F11wqh90xhs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fatima+maternity+centre+and+hospital/@23.8083468,86.4097395,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a3002520eaa9:0xb20e67eeb014471f!8m2!3d23.8083468!4d86.4097395!16s%2Fg%2F11wqh90xhs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3564,8 +3535,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fatima+maternity+centre+and+hospital/@23.8083468,86.4097395,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a3002520eaa9:0xb20e67eeb014471f!8m2!3d23.8083468!4d86.4097395!16s%2Fg%2F11wqh90xhs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fmch-fatima-maternity-centre-and-hospital-dhanbad",
@@ -3613,7 +3583,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fmch+Fatima+maternity+centre+and+hospital/@23.808341,86.4094944,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a30025e20465:0x8dc24001a51c3193!8m2!3d23.808341!4d86.4094944!16s%2Fg%2F11wp_6m576?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fmch+Fatima+maternity+centre+and+hospital/@23.808341,86.4094944,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a30025e20465:0x8dc24001a51c3193!8m2!3d23.808341!4d86.4094944!16s%2Fg%2F11wp_6m576?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3682,8 +3652,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fmch+Fatima+maternity+centre+and+hospital/@23.808341,86.4094944,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a30025e20465:0x8dc24001a51c3193!8m2!3d23.808341!4d86.4094944!16s%2Fg%2F11wp_6m576?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gastroenterology-asarfi-hospital-dhanbad-baramuri-b-polytechnic",
@@ -3733,7 +3702,7 @@
       "Google rating 2.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gastroenterology+%7C+Asarfi+Hospital+%7C+Dhanbad/@23.8207,86.4141342,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5865d7291f3:0xeb12536eabbda3f!8m2!3d23.8207!4d86.4141342!16s%2Fg%2F11qq9sh773?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gastroenterology+%7C+Asarfi+Hospital+%7C+Dhanbad/@23.8207,86.4141342,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5865d7291f3:0xeb12536eabbda3f!8m2!3d23.8207!4d86.4141342!16s%2Fg%2F11qq9sh773?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3802,8 +3771,7 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gastroenterology+%7C+Asarfi+Hospital+%7C+Dhanbad/@23.8207,86.4141342,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5865d7291f3:0xeb12536eabbda3f!8m2!3d23.8207!4d86.4141342!16s%2Fg%2F11qq9sh773?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gita-clinic-dhanbad",
@@ -3851,7 +3819,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gita+Clinic/@23.825364,86.4843176,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb67a4da63f3:0x7d79f311d830c775!8m2!3d23.825364!4d86.4843176!16s%2Fg%2F11sbsnlj92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gita+Clinic/@23.825364,86.4843176,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb67a4da63f3:0x7d79f311d830c775!8m2!3d23.825364!4d86.4843176!16s%2Fg%2F11sbsnlj92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3917,11 +3885,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gita+Clinic/@23.825364,86.4843176,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb67a4da63f3:0x7d79f311d830c775!8m2!3d23.825364!4d86.4843176!16s%2Fg%2F11sbsnlj92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hair-n-makeup-buddy-hair-patch-i-extensions-i-wig-i-hair-replacement-service-dhanbad",
@@ -3970,7 +3937,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hair+N+Makeup+Buddy-+Hair+Patch+I+Extensions+I+Wig+I+Hair+Replacement+service/@23.8121631,86.4578463,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdb86be376b3:0xe684485645dfbc44!8m2!3d23.8121631!4d86.4578463!16s%2Fg%2F11sdm_kzl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hair+N+Makeup+Buddy-+Hair+Patch+I+Extensions+I+Wig+I+Hair+Replacement+service/@23.8121631,86.4578463,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdb86be376b3:0xe684485645dfbc44!8m2!3d23.8121631!4d86.4578463!16s%2Fg%2F11sdm_kzl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4039,8 +4006,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hair+N+Makeup+Buddy-+Hair+Patch+I+Extensions+I+Wig+I+Hair+Replacement+service/@23.8121631,86.4578463,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdb86be376b3:0xe684485645dfbc44!8m2!3d23.8121631!4d86.4578463!16s%2Fg%2F11sdm_kzl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healmax-hospital-gobindpur",
@@ -4088,7 +4054,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HEALMAX+HOSPITAL/@23.8319044,86.5234017,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6b939dc6692f7:0xa65571e4a7cf9927!8m2!3d23.8319044!4d86.5234017!16s%2Fg%2F11g817srbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HEALMAX+HOSPITAL/@23.8319044,86.5234017,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6b939dc6692f7:0xa65571e4a7cf9927!8m2!3d23.8319044!4d86.5234017!16s%2Fg%2F11g817srbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4157,8 +4123,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HEALMAX+HOSPITAL/@23.8319044,86.5234017,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6b939dc6692f7:0xa65571e4a7cf9927!8m2!3d23.8319044!4d86.5234017!16s%2Fg%2F11g817srbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healthworld-clinic-dhanbad-dhanbad",
@@ -4206,7 +4171,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Healthworld+Clinic+Dhanbad/@23.782274,86.4151451,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a33214f46643:0xa7f1578cd34ad837!8m2!3d23.782274!4d86.4151451!16s%2Fg%2F11f3wrjb4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthworld+Clinic+Dhanbad/@23.782274,86.4151451,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a33214f46643:0xa7f1578cd34ad837!8m2!3d23.782274!4d86.4151451!16s%2Fg%2F11f3wrjb4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4272,11 +4237,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Healthworld+Clinic+Dhanbad/@23.782274,86.4151451,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a33214f46643:0xa7f1578cd34ad837!8m2!3d23.782274!4d86.4151451!16s%2Fg%2F11f3wrjb4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hindustan-healthcare-dhanbad",
@@ -4324,7 +4288,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hindustan+Healthcare/@23.8134284,86.4603917,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bddc9e37c125:0x8a6cd82a800a7df0!8m2!3d23.8134284!4d86.4603917!16s%2Fg%2F11wx5q9ty6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hindustan+Healthcare/@23.8134284,86.4603917,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bddc9e37c125:0x8a6cd82a800a7df0!8m2!3d23.8134284!4d86.4603917!16s%2Fg%2F11wx5q9ty6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4390,11 +4354,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hindustan+Healthcare/@23.8134284,86.4603917,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bddc9e37c125:0x8a6cd82a800a7df0!8m2!3d23.8134284!4d86.4603917!16s%2Fg%2F11wx5q9ty6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-and-sangeeta-fertility-clinic-best-ivf-centre-in-dhanbad-dhanbad",
@@ -4444,7 +4407,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+and+Sangeeta+Fertility+Clinic-+Best+IVF+Centre+in+Dhanbad/@23.8001338,86.4433787,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bde92defb8a5:0x43317869506d89c2!8m2!3d23.8001338!4d86.4433787!16s%2Fg%2F11vwjc6vtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+and+Sangeeta+Fertility+Clinic-+Best+IVF+Centre+in+Dhanbad/@23.8001338,86.4433787,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bde92defb8a5:0x43317869506d89c2!8m2!3d23.8001338!4d86.4433787!16s%2Fg%2F11vwjc6vtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4513,8 +4476,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+and+Sangeeta+Fertility+Clinic-+Best+IVF+Centre+in+Dhanbad/@23.8001338,86.4433787,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bde92defb8a5:0x43317869506d89c2!8m2!3d23.8001338!4d86.4433787!16s%2Fg%2F11vwjc6vtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "j-p-hospital-dhanbad",
@@ -4562,7 +4524,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/J.P+hospital/@23.8044763,86.4834201,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd3c7b0be8d7:0x55bb81719c7f9813!8m2!3d23.8044763!4d86.4834201!16s%2Fg%2F11hztjhy54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J.P+hospital/@23.8044763,86.4834201,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd3c7b0be8d7:0x55bb81719c7f9813!8m2!3d23.8044763!4d86.4834201!16s%2Fg%2F11hztjhy54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4628,11 +4590,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/J.P+hospital/@23.8044763,86.4834201,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd3c7b0be8d7:0x55bb81719c7f9813!8m2!3d23.8044763!4d86.4834201!16s%2Fg%2F11hztjhy54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevandeep-gastro-and-thyroid-clinic-dhanbad",
@@ -4681,7 +4642,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevandeep+Gastro+%26+Thyroid+clinic/@23.807324,86.445485,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc9a41d103f1:0xa0669930cb3264e9!8m2!3d23.807324!4d86.445485!16s%2Fg%2F1pp2tkvg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevandeep+Gastro+%26+Thyroid+clinic/@23.807324,86.445485,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc9a41d103f1:0xa0669930cb3264e9!8m2!3d23.807324!4d86.445485!16s%2Fg%2F1pp2tkvg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4750,8 +4711,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevandeep+Gastro+%26+Thyroid+clinic/@23.807324,86.445485,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc9a41d103f1:0xa0669930cb3264e9!8m2!3d23.807324!4d86.445485!16s%2Fg%2F1pp2tkvg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jims-hospital-dhanbad",
@@ -4800,7 +4760,7 @@
       "Google rating 2.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JIMS+Hospital/@23.8128261,86.4499128,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc835ec0ee83:0x890a9269aa0c9c26!8m2!3d23.8128261!4d86.4499128!16s%2Fg%2F1thzm9cp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JIMS+Hospital/@23.8128261,86.4499128,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc835ec0ee83:0x890a9269aa0c9c26!8m2!3d23.8128261!4d86.4499128!16s%2Fg%2F1thzm9cp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4869,8 +4829,7 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JIMS+Hospital/@23.8128261,86.4499128,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc835ec0ee83:0x890a9269aa0c9c26!8m2!3d23.8128261!4d86.4499128!16s%2Fg%2F1thzm9cp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kailash-hospital-dhanbad",
@@ -4918,7 +4877,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KAILASH+HOSPITAL/@23.8064026,86.4331892,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca4bcf3e4b1:0x125ab78a4f1685a!8m2!3d23.8064026!4d86.4331892!16s%2Fg%2F11l6tmjcwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KAILASH+HOSPITAL/@23.8064026,86.4331892,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca4bcf3e4b1:0x125ab78a4f1685a!8m2!3d23.8064026!4d86.4331892!16s%2Fg%2F11l6tmjcwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4987,8 +4946,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KAILASH+HOSPITAL/@23.8064026,86.4331892,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca4bcf3e4b1:0x125ab78a4f1685a!8m2!3d23.8064026!4d86.4331892!16s%2Fg%2F11l6tmjcwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kanhaiya-hospital-dhanbad",
@@ -5036,7 +4994,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kanhaiya+Hospital/@23.804879,86.4577551,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc886ced5579:0xc45483ca4dec1136!8m2!3d23.804879!4d86.4577551!16s%2Fg%2F11cn5p0nfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kanhaiya+Hospital/@23.804879,86.4577551,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc886ced5579:0xc45483ca4dec1136!8m2!3d23.804879!4d86.4577551!16s%2Fg%2F11cn5p0nfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5102,11 +5060,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kanhaiya+Hospital/@23.804879,86.4577551,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc886ced5579:0xc45483ca4dec1136!8m2!3d23.804879!4d86.4577551!16s%2Fg%2F11cn5p0nfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kumar-s-clinic-dhanbad",
@@ -5155,7 +5112,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kumar's+Clinic/@23.812437,86.41806,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a3c09a918e5f:0xde422eacceb462aa!8m2!3d23.812437!4d86.41806!16s%2Fg%2F11pq_hrqnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kumar's+Clinic/@23.812437,86.41806,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a3c09a918e5f:0xde422eacceb462aa!8m2!3d23.812437!4d86.41806!16s%2Fg%2F11pq_hrqnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5221,11 +5178,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kumar's+Clinic/@23.812437,86.41806,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a3c09a918e5f:0xde422eacceb462aa!8m2!3d23.812437!4d86.41806!16s%2Fg%2F11pq_hrqnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-shyama-clinic-shanti-colony-shanti-colony-dhanbad",
@@ -5273,7 +5229,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maa+Shyama+Clinic/@23.818753,86.4676464,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb878e5f571d:0xd60626c33157e3e2!8m2!3d23.818753!4d86.4676464!16s%2Fg%2F11b77d3jdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Shyama+Clinic/@23.818753,86.4676464,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb878e5f571d:0xd60626c33157e3e2!8m2!3d23.818753!4d86.4676464!16s%2Fg%2F11b77d3jdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5342,8 +5298,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maa+Shyama+Clinic/@23.818753,86.4676464,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb878e5f571d:0xd60626c33157e3e2!8m2!3d23.818753!4d86.4676464!16s%2Fg%2F11b77d3jdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "matoshree-clinic-and-research-centre-sabalpur",
@@ -5392,7 +5347,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MATOSHREE+CLINIC+and+research+centre/@23.8253353,86.4661369,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb6b0c46785f:0xc0516c3eb0206b45!8m2!3d23.8253353!4d86.4661369!16s%2Fg%2F11h6slgr5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MATOSHREE+CLINIC+and+research+centre/@23.8253353,86.4661369,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb6b0c46785f:0xc0516c3eb0206b45!8m2!3d23.8253353!4d86.4661369!16s%2Fg%2F11h6slgr5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5461,8 +5416,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MATOSHREE+CLINIC+and+research+centre/@23.8253353,86.4661369,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb6b0c46785f:0xc0516c3eb0206b45!8m2!3d23.8253353!4d86.4661369!16s%2Fg%2F11h6slgr5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "matri-sadan-hospital-jharia",
@@ -5511,7 +5465,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Matri+Sadan+Hospital/@23.7386407,86.4170019,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a336ec6a6c4f:0x471f5fcee4420aa7!8m2!3d23.7386407!4d86.4170019!16s%2Fg%2F11srb58fkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matri+Sadan+Hospital/@23.7386407,86.4170019,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a336ec6a6c4f:0x471f5fcee4420aa7!8m2!3d23.7386407!4d86.4170019!16s%2Fg%2F11srb58fkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5580,8 +5534,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Matri+Sadan+Hospital/@23.7386407,86.4170019,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a336ec6a6c4f:0x471f5fcee4420aa7!8m2!3d23.7386407!4d86.4170019!16s%2Fg%2F11srb58fkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medica-heart-institute-dhanbad-dhanbad",
@@ -5630,7 +5583,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medica+Heart+Institute+Dhanbad/data=!4m7!3m6!1s0x39f6a4abc4ec906d:0x98d64be89c095afb!8m2!3d23.8211369!4d86.4141937!16s%2Fg%2F11f_fjm19z!19sChIJbZDsxKuk9jkR-1oJnOhL1pg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medica+Heart+Institute+Dhanbad/data=!4m7!3m6!1s0x39f6a4abc4ec906d:0x98d64be89c095afb!8m2!3d23.8211369!4d86.4141937!16s%2Fg%2F11f_fjm19z!19sChIJbZDsxKuk9jkR-1oJnOhL1pg?authuser=0&hl=en&rclk=1"
@@ -5699,8 +5652,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medica+Heart+Institute+Dhanbad/data=!4m7!3m6!1s0x39f6a4abc4ec906d:0x98d64be89c095afb!8m2!3d23.8211369!4d86.4141937!16s%2Fg%2F11f_fjm19z!19sChIJbZDsxKuk9jkR-1oJnOhL1pg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "namdhari-hospital-and-research-centre-dhanbad",
@@ -5748,7 +5700,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Namdhari+Hospital+and+Research+Centre/@23.7914281,86.4207711,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccaf19c1e09:0xc64b3025f0cc2944!8m2!3d23.7914281!4d86.4207711!16s%2Fg%2F11c1p4x0bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Namdhari+Hospital+and+Research+Centre/@23.7914281,86.4207711,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccaf19c1e09:0xc64b3025f0cc2944!8m2!3d23.7914281!4d86.4207711!16s%2Fg%2F11c1p4x0bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5817,8 +5769,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Namdhari+Hospital+and+Research+Centre/@23.7914281,86.4207711,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccaf19c1e09:0xc64b3025f0cc2944!8m2!3d23.7914281!4d86.4207711!16s%2Fg%2F11c1p4x0bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "narayana-hospital-and-research-centre-dhanbad",
@@ -5866,7 +5817,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Narayana+Hospital+%26+Research+Centre/@23.8317419,86.5224694,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6b939d342a023:0xf1ba51221d1f6d0d!8m2!3d23.8317419!4d86.5224694!16s%2Fg%2F11c1n83mzm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narayana+Hospital+%26+Research+Centre/@23.8317419,86.5224694,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6b939d342a023:0xf1ba51221d1f6d0d!8m2!3d23.8317419!4d86.5224694!16s%2Fg%2F11c1n83mzm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5935,8 +5886,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Narayana+Hospital+%26+Research+Centre/@23.8317419,86.5224694,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6b939d342a023:0xf1ba51221d1f6d0d!8m2!3d23.8317419!4d86.5224694!16s%2Fg%2F11c1n83mzm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nayanshree-netralaya-eye-hospital-dhanbad",
@@ -5986,7 +5936,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nayanshree+Netralaya+(+%E0%A4%A8%E0%A4%AF%E0%A4%A8%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A8%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B2%E0%A4%AF+)+%7C+Eye+Hospital/@23.8208298,86.4142185,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5edf3d40fd7:0xc87aab145f9a80ba!8m2!3d23.8208298!4d86.4142185!16s%2Fg%2F11tcg4wtlb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nayanshree+Netralaya+(+%E0%A4%A8%E0%A4%AF%E0%A4%A8%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A8%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B2%E0%A4%AF+)+%7C+Eye+Hospital/@23.8208298,86.4142185,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5edf3d40fd7:0xc87aab145f9a80ba!8m2!3d23.8208298!4d86.4142185!16s%2Fg%2F11tcg4wtlb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6055,8 +6005,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nayanshree+Netralaya+(+%E0%A4%A8%E0%A4%AF%E0%A4%A8%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A8%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B2%E0%A4%AF+)+%7C+Eye+Hospital/@23.8208298,86.4142185,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5edf3d40fd7:0xc87aab145f9a80ba!8m2!3d23.8208298!4d86.4142185!16s%2Fg%2F11tcg4wtlb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-dhanbad",
@@ -6106,7 +6055,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@23.7885812,86.4160839,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a31681c96c25:0x76612d679279453d!8m2!3d23.7885812!4d86.4160839!16s%2Fg%2F11pktvjbxt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@23.7885812,86.4160839,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a31681c96c25:0x76612d679279453d!8m2!3d23.7885812!4d86.4160839!16s%2Fg%2F11pktvjbxt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6175,8 +6124,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@23.7885812,86.4160839,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a31681c96c25:0x76612d679279453d!8m2!3d23.7885812!4d86.4160839!16s%2Fg%2F11pktvjbxt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-dhanbad",
@@ -6227,7 +6175,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@23.8210088,86.4143976,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a4abdcc8c603:0x1233b1c809226a55!8m2!3d23.8210088!4d86.4143976!16s%2Fg%2F11c5hwjj1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@23.8210088,86.4143976,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a4abdcc8c603:0x1233b1c809226a55!8m2!3d23.8210088!4d86.4143976!16s%2Fg%2F11c5hwjj1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6296,8 +6244,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@23.8210088,86.4143976,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a4abdcc8c603:0x1233b1c809226a55!8m2!3d23.8210088!4d86.4143976!16s%2Fg%2F11c5hwjj1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "netaji-subhash-chandra-bose-hospital-dhanbad",
@@ -6345,7 +6292,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NETAJI+SUBHASH+CHANDRA+BOSE+HOSPITAL/@23.8171448,86.3786884,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a50fee70e529:0xb0af629df3ba3cca!8m2!3d23.8171448!4d86.3786884!16s%2Fg%2F11s5760ksf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NETAJI+SUBHASH+CHANDRA+BOSE+HOSPITAL/@23.8171448,86.3786884,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a50fee70e529:0xb0af629df3ba3cca!8m2!3d23.8171448!4d86.3786884!16s%2Fg%2F11s5760ksf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6411,11 +6358,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NETAJI+SUBHASH+CHANDRA+BOSE+HOSPITAL/@23.8171448,86.3786884,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a50fee70e529:0xb0af629df3ba3cca!8m2!3d23.8171448!4d86.3786884!16s%2Fg%2F11s5760ksf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-shree-clinic-dhanbad",
@@ -6463,7 +6409,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Shree+Clinic/@23.8055253,86.4332376,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca4b2a7dce9:0x523782081d9f45b1!8m2!3d23.8055253!4d86.4332376!16s%2Fg%2F11c4p9q77l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Shree+Clinic/@23.8055253,86.4332376,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca4b2a7dce9:0x523782081d9f45b1!8m2!3d23.8055253!4d86.4332376!16s%2Fg%2F11c4p9q77l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6532,8 +6478,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Shree+Clinic/@23.8055253,86.4332376,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca4b2a7dce9:0x523782081d9f45b1!8m2!3d23.8055253!4d86.4332376!16s%2Fg%2F11c4p9q77l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "newlife-clinic-hospital-for-women-sector-3a-sahyoginagar-sabalpur-hirak-main-road",
@@ -6582,7 +6527,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Newlife+clinic+Hospital+for+women/@23.8243874,86.4723197,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdda765ed27d:0xf01a69600389be7!8m2!3d23.8243874!4d86.4723197!16s%2Fg%2F11nghd4d_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Newlife+clinic+Hospital+for+women/@23.8243874,86.4723197,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdda765ed27d:0xf01a69600389be7!8m2!3d23.8243874!4d86.4723197!16s%2Fg%2F11nghd4d_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6651,8 +6596,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Newlife+clinic+Hospital+for+women/@23.8243874,86.4723197,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdda765ed27d:0xf01a69600389be7!8m2!3d23.8243874!4d86.4723197!16s%2Fg%2F11nghd4d_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirmala-general-and-leprosy-hospital-dhanbad",
@@ -6700,7 +6644,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nirmala+General+and+Leprosy+Hospital/@23.842322,86.494496,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbe754eee959:0xac7d2abef1846b7b!8m2!3d23.842322!4d86.494496!16s%2Fg%2F11dxlbxlsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirmala+General+and+Leprosy+Hospital/@23.842322,86.494496,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbe754eee959:0xac7d2abef1846b7b!8m2!3d23.842322!4d86.494496!16s%2Fg%2F11dxlbxlsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6766,11 +6710,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nirmala+General+and+Leprosy+Hospital/@23.842322,86.494496,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbe754eee959:0xac7d2abef1846b7b!8m2!3d23.842322!4d86.494496!16s%2Fg%2F11dxlbxlsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ocm-hospital-dhanbad",
@@ -6819,7 +6762,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/OCM+HOSPITAL/@23.82055,86.3603683,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5001ead0bf9:0x7eaa3364750d431b!8m2!3d23.82055!4d86.3603683!16s%2Fg%2F11wtl9kdkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OCM+HOSPITAL/@23.82055,86.3603683,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5001ead0bf9:0x7eaa3364750d431b!8m2!3d23.82055!4d86.3603683!16s%2Fg%2F11wtl9kdkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6885,11 +6828,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/OCM+HOSPITAL/@23.82055,86.3603683,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a5001ead0bf9:0x7eaa3364750d431b!8m2!3d23.82055!4d86.3603683!16s%2Fg%2F11wtl9kdkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-healthcare-center-dhanbad",
@@ -6937,7 +6879,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Om+Healthcare+Center/@23.8235107,86.4792346,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb255b373a65:0x6dce76895d757905!8m2!3d23.8235107!4d86.4792346!16s%2Fg%2F11qg676ltp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Healthcare+Center/@23.8235107,86.4792346,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb255b373a65:0x6dce76895d757905!8m2!3d23.8235107!4d86.4792346!16s%2Fg%2F11qg676ltp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7006,8 +6948,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Om+Healthcare+Center/@23.8235107,86.4792346,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb255b373a65:0x6dce76895d757905!8m2!3d23.8235107!4d86.4792346!16s%2Fg%2F11qg676ltp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "onex-laser-derma-clinic-best-cosmetic-treatment-in-dhanbad-best-cosmetic-treatment-in-dhanbad-dhanbad",
@@ -7056,7 +6997,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Onex+Laser+Derma+Clinic+(best+cosmetic+treatment+in+dhanbad)+-+best+cosmetic+treatment+in+dhanbad/@23.8133218,86.4606277,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdcb605d3cb5:0x4cd30a16116b420e!8m2!3d23.8133218!4d86.4606277!16s%2Fg%2F11gtzb6w74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Onex+Laser+Derma+Clinic+(best+cosmetic+treatment+in+dhanbad)+-+best+cosmetic+treatment+in+dhanbad/@23.8133218,86.4606277,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdcb605d3cb5:0x4cd30a16116b420e!8m2!3d23.8133218!4d86.4606277!16s%2Fg%2F11gtzb6w74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7125,8 +7066,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Onex+Laser+Derma+Clinic+(best+cosmetic+treatment+in+dhanbad)+-+best+cosmetic+treatment+in+dhanbad/@23.8133218,86.4606277,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdcb605d3cb5:0x4cd30a16116b420e!8m2!3d23.8133218!4d86.4606277!16s%2Fg%2F11gtzb6w74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ortho-clinic-dhanbad",
@@ -7175,7 +7115,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ORTHO+CLINIC/@23.8152701,86.4622737,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd51637dab99:0x6f49112c788b8387!8m2!3d23.8152701!4d86.4622737!16s%2Fg%2F11fn64r8br?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ORTHO+CLINIC/@23.8152701,86.4622737,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd51637dab99:0x6f49112c788b8387!8m2!3d23.8152701!4d86.4622737!16s%2Fg%2F11fn64r8br?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7244,8 +7184,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ORTHO+CLINIC/@23.8152701,86.4622737,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd51637dab99:0x6f49112c788b8387!8m2!3d23.8152701!4d86.4622737!16s%2Fg%2F11fn64r8br?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patel-clinic-and-diagnostic-centre-dhanbad",
@@ -7293,7 +7232,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patel+Clinic+%26+Diagnostic+Centre/@23.8122606,86.4567225,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd21e6d0e085:0x383f3c295ff223b1!8m2!3d23.8122606!4d86.4567225!16s%2Fg%2F11mtszghjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patel+Clinic+%26+Diagnostic+Centre/@23.8122606,86.4567225,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd21e6d0e085:0x383f3c295ff223b1!8m2!3d23.8122606!4d86.4567225!16s%2Fg%2F11mtszghjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7359,11 +7298,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patel+Clinic+%26+Diagnostic+Centre/@23.8122606,86.4567225,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd21e6d0e085:0x383f3c295ff223b1!8m2!3d23.8122606!4d86.4567225!16s%2Fg%2F11mtszghjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patliputra-hospital-best-hospital-in-dhanbad-dhanbad",
@@ -7412,7 +7350,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patliputra+Hospital+%7C+Best+Hospital+in+Dhanbad/@23.7839712,86.4211554,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccda7e1a589:0x630f5a4e272d8203!8m2!3d23.7839712!4d86.4211554!16s%2Fg%2F1hdzknc_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patliputra+Hospital+%7C+Best+Hospital+in+Dhanbad/@23.7839712,86.4211554,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccda7e1a589:0x630f5a4e272d8203!8m2!3d23.7839712!4d86.4211554!16s%2Fg%2F1hdzknc_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7481,8 +7419,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patliputra+Hospital+%7C+Best+Hospital+in+Dhanbad/@23.7839712,86.4211554,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccda7e1a589:0x630f5a4e272d8203!8m2!3d23.7839712!4d86.4211554!16s%2Fg%2F1hdzknc_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "popular-nursing-home-dhanbad",
@@ -7530,7 +7467,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/POPULAR+NURSING+HOME/@23.781569,86.419503,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccd5eecd4a9:0xf1cf58ed2838c6cc!8m2!3d23.781569!4d86.419503!16s%2Fg%2F12hlc3cj6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/POPULAR+NURSING+HOME/@23.781569,86.419503,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccd5eecd4a9:0xf1cf58ed2838c6cc!8m2!3d23.781569!4d86.419503!16s%2Fg%2F12hlc3cj6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7599,8 +7536,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/POPULAR+NURSING+HOME/@23.781569,86.419503,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccd5eecd4a9:0xf1cf58ed2838c6cc!8m2!3d23.781569!4d86.419503!16s%2Fg%2F12hlc3cj6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pragati-hospital-dhanbad",
@@ -7648,7 +7584,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pragati+Hospital/@23.8121621,86.4577511,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc86d54e03ab:0x9089946c25d4216a!8m2!3d23.8121621!4d86.4577511!16s%2Fg%2F1tf00wzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pragati+Hospital/@23.8121621,86.4577511,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc86d54e03ab:0x9089946c25d4216a!8m2!3d23.8121621!4d86.4577511!16s%2Fg%2F1tf00wzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7717,8 +7653,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pragati+Hospital/@23.8121621,86.4577511,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc86d54e03ab:0x9089946c25d4216a!8m2!3d23.8121621!4d86.4577511!16s%2Fg%2F1tf00wzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prasad-clinic-and-healthcare-dhanbad",
@@ -7766,7 +7701,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prasad+Clinic+%26+Healthcare/@23.8142824,86.4560904,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc811a4d5653:0x7ed008cd9c9219c8!8m2!3d23.8142824!4d86.4560904!16s%2Fg%2F11bwml10bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prasad+Clinic+%26+Healthcare/@23.8142824,86.4560904,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc811a4d5653:0x7ed008cd9c9219c8!8m2!3d23.8142824!4d86.4560904!16s%2Fg%2F11bwml10bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7835,8 +7770,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prasad+Clinic+%26+Healthcare/@23.8142824,86.4560904,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc811a4d5653:0x7ed008cd9c9219c8!8m2!3d23.8142824!4d86.4560904!16s%2Fg%2F11bwml10bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pulse-child-and-maternity-clinic-dhanbad",
@@ -7885,7 +7819,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pulse+Child+%26+Maternity+Clinic/@23.7830432,86.4269463,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd8082a5f25b:0xfb74437cbf2aede8!8m2!3d23.7830432!4d86.4269463!16s%2Fg%2F11qnvld07b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pulse+Child+%26+Maternity+Clinic/@23.7830432,86.4269463,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd8082a5f25b:0xfb74437cbf2aede8!8m2!3d23.7830432!4d86.4269463!16s%2Fg%2F11qnvld07b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7954,8 +7888,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pulse+Child+%26+Maternity+Clinic/@23.7830432,86.4269463,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd8082a5f25b:0xfb74437cbf2aede8!8m2!3d23.7830432!4d86.4269463!16s%2Fg%2F11qnvld07b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raj-clinic-and-research-centre-dhanbad",
@@ -8004,7 +7937,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raj+Clinic+%26+Research+centre/@23.7836889,86.4213209,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdf09c5a149d:0x65a4438db7a36049!8m2!3d23.7836889!4d86.4213209!16s%2Fg%2F11fpd33b1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raj+Clinic+%26+Research+centre/@23.7836889,86.4213209,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdf09c5a149d:0x65a4438db7a36049!8m2!3d23.7836889!4d86.4213209!16s%2Fg%2F11fpd33b1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8073,8 +8006,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raj+Clinic+%26+Research+centre/@23.7836889,86.4213209,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdf09c5a149d:0x65a4438db7a36049!8m2!3d23.7836889!4d86.4213209!16s%2Fg%2F11fpd33b1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raj-clinic-nursing-home-dhanbad",
@@ -8122,7 +8054,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raj+Clinic+Nursing+Home/@23.7798653,86.4173338,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a32d484e94a7:0x4ef610d208eab06c!8m2!3d23.7798653!4d86.4173338!16s%2Fg%2F12hmtp7gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raj+Clinic+Nursing+Home/@23.7798653,86.4173338,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a32d484e94a7:0x4ef610d208eab06c!8m2!3d23.7798653!4d86.4173338!16s%2Fg%2F12hmtp7gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8191,8 +8123,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raj+Clinic+Nursing+Home/@23.7798653,86.4173338,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a32d484e94a7:0x4ef610d208eab06c!8m2!3d23.7798653!4d86.4173338!16s%2Fg%2F12hmtp7gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raj-hospital-dhanbad",
@@ -8241,7 +8172,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raj+Hospital/@23.8057299,86.4372786,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0077f646ff:0x8e730c8a7814f356!8m2!3d23.8057299!4d86.4372786!16s%2Fg%2F11ldswc6d2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raj+Hospital/@23.8057299,86.4372786,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0077f646ff:0x8e730c8a7814f356!8m2!3d23.8057299!4d86.4372786!16s%2Fg%2F11ldswc6d2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8310,8 +8241,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raj+Hospital/@23.8057299,86.4372786,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0077f646ff:0x8e730c8a7814f356!8m2!3d23.8057299!4d86.4372786!16s%2Fg%2F11ldswc6d2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raj-priya-clinic-dhanbad",
@@ -8360,7 +8290,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raj+Priya+Clinic/@23.8018973,86.4338808,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbb89255bc1:0xc0a9cd1a7bcedbed!8m2!3d23.8018973!4d86.4338808!16s%2Fg%2F11fy_d2zqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raj+Priya+Clinic/@23.8018973,86.4338808,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbb89255bc1:0xc0a9cd1a7bcedbed!8m2!3d23.8018973!4d86.4338808!16s%2Fg%2F11fy_d2zqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8429,8 +8359,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raj+Priya+Clinic/@23.8018973,86.4338808,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbb89255bc1:0xc0a9cd1a7bcedbed!8m2!3d23.8018973!4d86.4338808!16s%2Fg%2F11fy_d2zqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rao-piles-clinic-dhanbad",
@@ -8478,7 +8407,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rao+piles+clinic/@23.8125551,86.4583545,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0e3fac7313:0x890b435eadf9e955!8m2!3d23.8125551!4d86.4583545!16s%2Fg%2F11k3jf2jrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rao+piles+clinic/@23.8125551,86.4583545,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0e3fac7313:0x890b435eadf9e955!8m2!3d23.8125551!4d86.4583545!16s%2Fg%2F11k3jf2jrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8544,11 +8473,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rao+piles+clinic/@23.8125551,86.4583545,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd0e3fac7313:0x890b435eadf9e955!8m2!3d23.8125551!4d86.4583545!16s%2Fg%2F11k3jf2jrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "roopsri-clinic-dhanbad",
@@ -8596,7 +8524,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ROOPSRI+CLINIC/@23.8155378,86.4626459,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd7380902199:0xa7d4172b941d9b80!8m2!3d23.8155378!4d86.4626459!16s%2Fg%2F11h_bmyvtb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ROOPSRI+CLINIC/@23.8155378,86.4626459,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd7380902199:0xa7d4172b941d9b80!8m2!3d23.8155378!4d86.4626459!16s%2Fg%2F11h_bmyvtb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8662,11 +8590,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ROOPSRI+CLINIC/@23.8155378,86.4626459,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd7380902199:0xa7d4172b941d9b80!8m2!3d23.8155378!4d86.4626459!16s%2Fg%2F11h_bmyvtb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saaol-heart-center-dhanbad",
@@ -8715,7 +8642,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saaol+Heart+Center/data=!4m7!3m6!1s0x39f6bd91836ac0c9:0xf2f016467379fb2f!8m2!3d23.8056511!4d86.4704024!16s%2Fg%2F11v05pvqq0!19sChIJycBqg5G99jkRL_t5c0YW8PI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+Heart+Center/data=!4m7!3m6!1s0x39f6bd91836ac0c9:0xf2f016467379fb2f!8m2!3d23.8056511!4d86.4704024!16s%2Fg%2F11v05pvqq0!19sChIJycBqg5G99jkRL_t5c0YW8PI?authuser=0&hl=en&rclk=1"
@@ -8781,11 +8708,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saaol+Heart+Center/data=!4m7!3m6!1s0x39f6bd91836ac0c9:0xf2f016467379fb2f!8m2!3d23.8056511!4d86.4704024!16s%2Fg%2F11v05pvqq0!19sChIJycBqg5G99jkRL_t5c0YW8PI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sadhna-hospital-dhanbad",
@@ -8834,7 +8760,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sadhna+Hospital/@23.823957,86.4714812,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb88d5933721:0x9d14c61d74ded416!8m2!3d23.823957!4d86.4714812!16s%2Fg%2F11hcjz2qfr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadhna+Hospital/@23.823957,86.4714812,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb88d5933721:0x9d14c61d74ded416!8m2!3d23.823957!4d86.4714812!16s%2Fg%2F11hcjz2qfr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8903,8 +8829,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sadhna+Hospital/@23.823957,86.4714812,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb88d5933721:0x9d14c61d74ded416!8m2!3d23.823957!4d86.4714812!16s%2Fg%2F11hcjz2qfr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjay-chaudhry-dhanbad",
@@ -8952,7 +8877,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjay+Chaudhry/@23.8054901,86.4298004,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca54ca8067d:0x652caa746e92700b!8m2!3d23.8054901!4d86.4298004!16s%2Fg%2F11crzwjz9j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjay+Chaudhry/@23.8054901,86.4298004,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca54ca8067d:0x652caa746e92700b!8m2!3d23.8054901!4d86.4298004!16s%2Fg%2F11crzwjz9j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9021,8 +8946,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjay+Chaudhry/@23.8054901,86.4298004,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca54ca8067d:0x652caa746e92700b!8m2!3d23.8054901!4d86.4298004!16s%2Fg%2F11crzwjz9j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarah-poly-clinic-dhanbad",
@@ -9070,7 +8994,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarah+Poly+Clinic/@23.7954616,86.4148871,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a34a391ac12f:0x322128754448b737!8m2!3d23.7954616!4d86.4148871!16s%2Fg%2F1hcb5hw5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarah+Poly+Clinic/@23.7954616,86.4148871,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a34a391ac12f:0x322128754448b737!8m2!3d23.7954616!4d86.4148871!16s%2Fg%2F1hcb5hw5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9139,8 +9063,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarah+Poly+Clinic/@23.7954616,86.4148871,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a34a391ac12f:0x322128754448b737!8m2!3d23.7954616!4d86.4148871!16s%2Fg%2F1hcb5hw5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satvik-ivf-ivf-centre-in-dhanbad-dhanbad",
@@ -9190,7 +9113,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SATVIK+IVF+-+IVF+CENTRE+IN+DHANBAD/@23.80548,86.430892,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbad2e0722b:0xa02d3da4db558cb2!8m2!3d23.80548!4d86.430892!16s%2Fg%2F11bw4lp_ps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SATVIK+IVF+-+IVF+CENTRE+IN+DHANBAD/@23.80548,86.430892,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbad2e0722b:0xa02d3da4db558cb2!8m2!3d23.80548!4d86.430892!16s%2Fg%2F11bw4lp_ps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9259,8 +9182,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SATVIK+IVF+-+IVF+CENTRE+IN+DHANBAD/@23.80548,86.430892,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbad2e0722b:0xa02d3da4db558cb2!8m2!3d23.80548!4d86.430892!16s%2Fg%2F11bw4lp_ps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satvik-ortho-centre-dhanbad",
@@ -9309,7 +9231,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Satvik+Ortho+Centre/@23.8053262,86.4307259,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd2c97247aab:0x9c33014c8fcb9b6a!8m2!3d23.8053262!4d86.4307259!16s%2Fg%2F11g0j0hvy4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satvik+Ortho+Centre/@23.8053262,86.4307259,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd2c97247aab:0x9c33014c8fcb9b6a!8m2!3d23.8053262!4d86.4307259!16s%2Fg%2F11g0j0hvy4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9375,11 +9297,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Satvik+Ortho+Centre/@23.8053262,86.4307259,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd2c97247aab:0x9c33014c8fcb9b6a!8m2!3d23.8053262!4d86.4307259!16s%2Fg%2F11g0j0hvy4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "savitri-surgicare-and-maternity-centre-best-maternity-hospital-in-dhanbad-ultrasound-centre-in-dhanbad-dhanbad",
@@ -9427,7 +9348,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Savitri+Surgicare+%26+Maternity+Centre+-+Best+Maternity+Hospital+in+Dhanbad%2FUltrasound+Centre+in+Dhanbad/@23.8220773,86.4697223,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb885e18a26f:0x67cb48a47ac3017b!8m2!3d23.8220773!4d86.4697223!16s%2Fg%2F11c1qcczck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Savitri+Surgicare+%26+Maternity+Centre+-+Best+Maternity+Hospital+in+Dhanbad%2FUltrasound+Centre+in+Dhanbad/@23.8220773,86.4697223,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb885e18a26f:0x67cb48a47ac3017b!8m2!3d23.8220773!4d86.4697223!16s%2Fg%2F11c1qcczck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9496,8 +9417,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Savitri+Surgicare+%26+Maternity+Centre+-+Best+Maternity+Hospital+in+Dhanbad%2FUltrasound+Centre+in+Dhanbad/@23.8220773,86.4697223,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb885e18a26f:0x67cb48a47ac3017b!8m2!3d23.8220773!4d86.4697223!16s%2Fg%2F11c1qcczck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "seeds-of-innocens-ivf-centre-dhanbad-jharkhand-dhanbad",
@@ -9547,7 +9467,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+Dhanbad,+Jharkhand/@23.834223,86.43085,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb9e194eff2b:0xf7a575ed4a5ceb65!8m2!3d23.834223!4d86.43085!16s%2Fg%2F11vynrcq_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+Dhanbad,+Jharkhand/@23.834223,86.43085,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb9e194eff2b:0xf7a575ed4a5ceb65!8m2!3d23.834223!4d86.43085!16s%2Fg%2F11vynrcq_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9613,11 +9533,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+Dhanbad,+Jharkhand/@23.834223,86.43085,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb9e194eff2b:0xf7a575ed4a5ceb65!8m2!3d23.834223!4d86.43085!16s%2Fg%2F11vynrcq_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sengar-hospital-dhanbad-jharkhand-dhanbad",
@@ -9665,7 +9584,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SENGAR+HOSPITAL+DHANBAD+JHARKHAND/@23.8069487,86.4329182,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdefe8729d9d:0x2cb139ab8709b437!8m2!3d23.8069487!4d86.4329182!16s%2Fg%2F11gm7tpl0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SENGAR+HOSPITAL+DHANBAD+JHARKHAND/@23.8069487,86.4329182,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdefe8729d9d:0x2cb139ab8709b437!8m2!3d23.8069487!4d86.4329182!16s%2Fg%2F11gm7tpl0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9734,8 +9653,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SENGAR+HOSPITAL+DHANBAD+JHARKHAND/@23.8069487,86.4329182,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bdefe8729d9d:0x2cb139ab8709b437!8m2!3d23.8069487!4d86.4329182!16s%2Fg%2F11gm7tpl0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shakti-nursing-home-top-hospitals-in-dhanbad-dhanbad",
@@ -9785,7 +9703,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shakti+Nursing+Home+-+Top+Hospitals+in+Dhanbad/@23.7838543,86.4219881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccdb0f511a1:0x9f4aa47cb7ca0b05!8m2!3d23.7838543!4d86.4219881!16s%2Fg%2F1hhx2znj6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shakti+Nursing+Home+-+Top+Hospitals+in+Dhanbad/@23.7838543,86.4219881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccdb0f511a1:0x9f4aa47cb7ca0b05!8m2!3d23.7838543!4d86.4219881!16s%2Fg%2F1hhx2znj6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9854,8 +9772,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shakti+Nursing+Home+-+Top+Hospitals+in+Dhanbad/@23.7838543,86.4219881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bccdb0f511a1:0x9f4aa47cb7ca0b05!8m2!3d23.7838543!4d86.4219881!16s%2Fg%2F1hhx2znj6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivam-hospital-dhanbad",
@@ -9903,7 +9820,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivam+Hospital/@23.8308991,86.4425781,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbbe907fc8ff:0xf46234bbfb669c47!8m2!3d23.8308991!4d86.4425781!16s%2Fg%2F11ghjjbbyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam+Hospital/@23.8308991,86.4425781,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbbe907fc8ff:0xf46234bbfb669c47!8m2!3d23.8308991!4d86.4425781!16s%2Fg%2F11ghjjbbyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9972,8 +9889,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivam+Hospital/@23.8308991,86.4425781,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bbbe907fc8ff:0xf46234bbfb669c47!8m2!3d23.8308991!4d86.4425781!16s%2Fg%2F11ghjjbbyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivam-medicals-dhanbad",
@@ -10022,7 +9938,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivam+Medicals/@23.8092818,86.4330342,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca46f5d2727:0xb96a024510712e9c!8m2!3d23.8092818!4d86.4330342!16s%2Fg%2F11c4bn1wc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam+Medicals/@23.8092818,86.4330342,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca46f5d2727:0xb96a024510712e9c!8m2!3d23.8092818!4d86.4330342!16s%2Fg%2F11c4bn1wc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10091,8 +10007,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivam+Medicals/@23.8092818,86.4330342,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bca46f5d2727:0xb96a024510712e9c!8m2!3d23.8092818!4d86.4330342!16s%2Fg%2F11c4bn1wc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-durga-clinic-and-fertility-centre-dhanbad",
@@ -10141,7 +10056,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Durga+Clinic+And+Fertility+Centre/@23.8064834,86.3796046,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a37842ce0223:0x69195b9ff6217025!8m2!3d23.8064834!4d86.3796046!16s%2Fg%2F11f4l97vsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Durga+Clinic+And+Fertility+Centre/@23.8064834,86.3796046,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a37842ce0223:0x69195b9ff6217025!8m2!3d23.8064834!4d86.3796046!16s%2Fg%2F11f4l97vsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10210,8 +10125,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Durga+Clinic+And+Fertility+Centre/@23.8064834,86.3796046,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a37842ce0223:0x69195b9ff6217025!8m2!3d23.8064834!4d86.3796046!16s%2Fg%2F11f4l97vsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreshtha-netra-chikitsalaya-snc-eye-hospital-dhanbad",
@@ -10261,7 +10175,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreshtha+Netra+Chikitsalaya+(SNC+EYE+HOSPITAL)./@23.811811,86.4545519,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc86b2648ded:0x773206612994eef9!8m2!3d23.811811!4d86.4545519!16s%2Fg%2F11dzt61j55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreshtha+Netra+Chikitsalaya+(SNC+EYE+HOSPITAL)./@23.811811,86.4545519,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc86b2648ded:0x773206612994eef9!8m2!3d23.811811!4d86.4545519!16s%2Fg%2F11dzt61j55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10330,8 +10244,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreshtha+Netra+Chikitsalaya+(SNC+EYE+HOSPITAL)./@23.811811,86.4545519,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc86b2648ded:0x773206612994eef9!8m2!3d23.811811!4d86.4545519!16s%2Fg%2F11dzt61j55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shwet-shree-clinic-dhanbad",
@@ -10379,7 +10292,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shwet+Shree+Clinic/@23.8162608,86.4503283,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc9d267f99d5:0x74825fd2d9e463c!8m2!3d23.8162608!4d86.4503283!16s%2Fg%2F11f_ltfmg4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shwet+Shree+Clinic/@23.8162608,86.4503283,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc9d267f99d5:0x74825fd2d9e463c!8m2!3d23.8162608!4d86.4503283!16s%2Fg%2F11f_ltfmg4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10448,8 +10361,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shwet+Shree+Clinic/@23.8162608,86.4503283,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bc9d267f99d5:0x74825fd2d9e463c!8m2!3d23.8162608!4d86.4503283!16s%2Fg%2F11f_ltfmg4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-krishna-matri-sadan-dhanbad",
@@ -10497,7 +10409,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Krishna+Matri+Sadan/@23.7990818,86.2990422,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a12708b8bbfd:0xb3b8faf49d925493!8m2!3d23.7990818!4d86.2990422!16s%2Fg%2F1tp2yt60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Krishna+Matri+Sadan/@23.7990818,86.2990422,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a12708b8bbfd:0xb3b8faf49d925493!8m2!3d23.7990818!4d86.2990422!16s%2Fg%2F1tp2yt60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10566,8 +10478,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Krishna+Matri+Sadan/@23.7990818,86.2990422,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a12708b8bbfd:0xb3b8faf49d925493!8m2!3d23.7990818!4d86.2990422!16s%2Fg%2F1tp2yt60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tata-main-hospital-jamadoba-dhanbad-jamadoba",
@@ -10615,7 +10526,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tata+Main+Hospital,+Jamadoba,+Dhanbad/@23.7172213,86.401698,17z/data=!3m1!4b1!4m6!3m5!1s0x39f699c1b62dead5:0xf2b1ecfed22d5466!8m2!3d23.7172213!4d86.401698!16s%2Fg%2F11gx_7m4fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tata+Main+Hospital,+Jamadoba,+Dhanbad/@23.7172213,86.401698,17z/data=!3m1!4b1!4m6!3m5!1s0x39f699c1b62dead5:0xf2b1ecfed22d5466!8m2!3d23.7172213!4d86.401698!16s%2Fg%2F11gx_7m4fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10684,8 +10595,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tata+Main+Hospital,+Jamadoba,+Dhanbad/@23.7172213,86.401698,17z/data=!3m1!4b1!4m6!3m5!1s0x39f699c1b62dead5:0xf2b1ecfed22d5466!8m2!3d23.7172213!4d86.401698!16s%2Fg%2F11gx_7m4fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -10735,7 +10645,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10801,11 +10711,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "treatment-of-piles-haemorrhoids-bhuda",
@@ -10854,7 +10763,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Treatment(+%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%9C+)+of+Piles%2FHaemorrhoids%2F%E0%A4%AC%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%80%E0%A4%B0/@23.7877437,86.4524448,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd130efdc057:0x97be1372f57c486a!8m2!3d23.7877437!4d86.4524448!16s%2Fg%2F11h7b4_bcc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Treatment(+%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%9C+)+of+Piles%2FHaemorrhoids%2F%E0%A4%AC%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%80%E0%A4%B0/@23.7877437,86.4524448,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd130efdc057:0x97be1372f57c486a!8m2!3d23.7877437!4d86.4524448!16s%2Fg%2F11h7b4_bcc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10920,11 +10829,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Treatment(+%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%9C+)+of+Piles%2FHaemorrhoids%2F%E0%A4%AC%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%80%E0%A4%B0/@23.7877437,86.4524448,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd130efdc057:0x97be1372f57c486a!8m2!3d23.7877437!4d86.4524448!16s%2Fg%2F11h7b4_bcc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "uphar-clinic-dhanbad",
@@ -10972,7 +10880,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Uphar+Clinic/@23.8008786,86.4347913,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbc13984891:0x92287673e7566c82!8m2!3d23.8008786!4d86.4347913!16s%2Fg%2F11g69zzgc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uphar+Clinic/@23.8008786,86.4347913,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbc13984891:0x92287673e7566c82!8m2!3d23.8008786!4d86.4347913!16s%2Fg%2F11g69zzgc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11038,11 +10946,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Uphar+Clinic/@23.8008786,86.4347913,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bcbc13984891:0x92287673e7566c82!8m2!3d23.8008786!4d86.4347913!16s%2Fg%2F11g69zzgc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "urologia-dhanbad",
@@ -11090,7 +10997,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Urologia/@23.8377542,86.4300237,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb0005680079:0xbbd1b68775766ce!8m2!3d23.8377542!4d86.4300237!16s%2Fg%2F11x0jfyskr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Urologia/@23.8377542,86.4300237,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb0005680079:0xbbd1b68775766ce!8m2!3d23.8377542!4d86.4300237!16s%2Fg%2F11x0jfyskr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11159,8 +11066,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Urologia/@23.8377542,86.4300237,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bb0005680079:0xbbd1b68775766ce!8m2!3d23.8377542!4d86.4300237!16s%2Fg%2F11x0jfyskr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yashlok-24x7-hospital-kurchi",
@@ -11209,7 +11115,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yashlok+24x7+Hospital/@23.8141786,86.5254236,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bf42ee084dfb:0xb2afa734a351638c!8m2!3d23.8141786!4d86.5254236!16s%2Fg%2F11fk8fl2f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashlok+24x7+Hospital/@23.8141786,86.5254236,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bf42ee084dfb:0xb2afa734a351638c!8m2!3d23.8141786!4d86.5254236!16s%2Fg%2F11fk8fl2f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11278,8 +11184,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yashlok+24x7+Hospital/@23.8141786,86.5254236,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bf42ee084dfb:0xb2afa734a351638c!8m2!3d23.8141786!4d86.5254236!16s%2Fg%2F11fk8fl2f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhanbad",
@@ -11325,7 +11230,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%8F.+%E0%A4%95%E0%A5%87.+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9/@23.7773763,86.4117166,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a32ee5820119:0x3168789a1935648a!8m2!3d23.7773763!4d86.4117166!16s%2Fg%2F11vq06_97c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%8F.+%E0%A4%95%E0%A5%87.+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9/@23.7773763,86.4117166,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a32ee5820119:0x3168789a1935648a!8m2!3d23.7773763!4d86.4117166!16s%2Fg%2F11vq06_97c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11391,10 +11296,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%8F.+%E0%A4%95%E0%A5%87.+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9/@23.7773763,86.4117166,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6a32ee5820119:0x3168789a1935648a!8m2!3d23.7773763!4d86.4117166!16s%2Fg%2F11vq06_97c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

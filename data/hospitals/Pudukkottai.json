@@ -46,7 +46,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Adhira+Aravind+Hospital/@10.3876875,78.8248686,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00799699c78137:0x8d29b86cc68e0f3a!8m2!3d10.3876875!4d78.8248686!16s%2Fg%2F11tc_f5x1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adhira+Aravind+Hospital/@10.3876875,78.8248686,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00799699c78137:0x8d29b86cc68e0f3a!8m2!3d10.3876875!4d78.8248686!16s%2Fg%2F11tc_f5x1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -112,11 +112,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Adhira+Aravind+Hospital/@10.3876875,78.8248686,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00799699c78137:0x8d29b86cc68e0f3a!8m2!3d10.3876875!4d78.8248686!16s%2Fg%2F11tc_f5x1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amrita-ortho-and-trauma-care-amrita-fertility-care-senthil-nursing-home-pudukkottai",
@@ -166,7 +165,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AMRITA+ORTHO%26TRAUMA+CARE,+AMRITA+FERTILITY+CARE,+SENTHIL+NURSING+HOME/@10.376143,78.819831,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079cb0d2a771b:0x3f7edd9b2cde3b79!8m2!3d10.376143!4d78.819831!16s%2Fg%2F11xjhx2bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMRITA+ORTHO%26TRAUMA+CARE,+AMRITA+FERTILITY+CARE,+SENTHIL+NURSING+HOME/@10.376143,78.819831,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079cb0d2a771b:0x3f7edd9b2cde3b79!8m2!3d10.376143!4d78.819831!16s%2Fg%2F11xjhx2bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -232,11 +231,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AMRITA+ORTHO%26TRAUMA+CARE,+AMRITA+FERTILITY+CARE,+SENTHIL+NURSING+HOME/@10.376143,78.819831,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079cb0d2a771b:0x3f7edd9b2cde3b79!8m2!3d10.376143!4d78.819831!16s%2Fg%2F11xjhx2bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-reach-clinic-karaikudi",
@@ -284,7 +282,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Reach+Clinic+%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%8B+%E0%AE%B0%E0%AF%80%E0%AE%9A%E0%AF%8D+%E0%AE%95%E0%AE%BF%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AE%BF%E0%AE%95%E0%AF%8D/@10.0770527,78.7719515,17z/data=!3m1!4b1!4m6!3m5!1s0x3b006767be3132dd:0x7f39ef65ea3e72ce!8m2!3d10.0770527!4d78.7719515!16s%2Fg%2F11f3zhqpcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Reach+Clinic+%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%8B+%E0%AE%B0%E0%AF%80%E0%AE%9A%E0%AF%8D+%E0%AE%95%E0%AE%BF%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AE%BF%E0%AE%95%E0%AF%8D/@10.0770527,78.7719515,17z/data=!3m1!4b1!4m6!3m5!1s0x3b006767be3132dd:0x7f39ef65ea3e72ce!8m2!3d10.0770527!4d78.7719515!16s%2Fg%2F11f3zhqpcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -353,8 +351,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Reach+Clinic+%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%8B+%E0%AE%B0%E0%AF%80%E0%AE%9A%E0%AF%8D+%E0%AE%95%E0%AE%BF%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AE%BF%E0%AE%95%E0%AF%8D/@10.0770527,78.7719515,17z/data=!3m1!4b1!4m6!3m5!1s0x3b006767be3132dd:0x7f39ef65ea3e72ce!8m2!3d10.0770527!4d78.7719515!16s%2Fg%2F11f3zhqpcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "be-well-dialysis-centre-pudukkottai",
@@ -403,7 +400,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BE+WELL+DIALYSIS+CENTRE/@10.3773229,78.820925,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079f75ebdd42b:0x3e2c426b41da22f1!8m2!3d10.3773229!4d78.820925!16s%2Fg%2F11qbt_759b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BE+WELL+DIALYSIS+CENTRE/@10.3773229,78.820925,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079f75ebdd42b:0x3e2c426b41da22f1!8m2!3d10.3773229!4d78.820925!16s%2Fg%2F11qbt_759b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -469,11 +466,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BE+WELL+DIALYSIS+CENTRE/@10.3773229,78.820925,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079f75ebdd42b:0x3e2c426b41da22f1!8m2!3d10.3773229!4d78.820925!16s%2Fg%2F11qbt_759b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "be-well-hospitals-pudukkottai-pudukkottai",
@@ -522,7 +518,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Be+Well+Hospitals+Pudukkottai/@10.3764495,78.8248305,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079cb5e501559:0x73ec36da1435499f!8m2!3d10.3764495!4d78.8248305!16s%2Fg%2F11bvt4pg_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Be+Well+Hospitals+Pudukkottai/@10.3764495,78.8248305,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079cb5e501559:0x73ec36da1435499f!8m2!3d10.3764495!4d78.8248305!16s%2Fg%2F11bvt4pg_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -591,8 +587,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Be+Well+Hospitals+Pudukkottai/@10.3764495,78.8248305,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079cb5e501559:0x73ec36da1435499f!8m2!3d10.3764495!4d78.8248305!16s%2Fg%2F11bvt4pg_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cethar-hospitals-tiruchirappalli",
@@ -641,7 +636,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CETHAR+HOSPITALS/@10.8240013,78.6843618,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a396694093:0x3b05fbdb469bf1de!8m2!3d10.8240013!4d78.6843618!16s%2Fg%2F1th7wsvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CETHAR+HOSPITALS/@10.8240013,78.6843618,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a396694093:0x3b05fbdb469bf1de!8m2!3d10.8240013!4d78.6843618!16s%2Fg%2F1th7wsvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -710,8 +705,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CETHAR+HOSPITALS/@10.8240013,78.6843618,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a396694093:0x3b05fbdb469bf1de!8m2!3d10.8240013!4d78.6843618!16s%2Fg%2F1th7wsvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "frontline-hospital-tiruchirappalli",
@@ -760,7 +754,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Frontline+Hospital/@10.8338698,78.6946446,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5b6cea6067f:0xae99de5ac3fa1901!8m2!3d10.8338698!4d78.6946446!16s%2Fg%2F124ynv0gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Frontline+Hospital/@10.8338698,78.6946446,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5b6cea6067f:0xae99de5ac3fa1901!8m2!3d10.8338698!4d78.6946446!16s%2Fg%2F124ynv0gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -829,8 +823,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Frontline+Hospital/@10.8338698,78.6946446,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5b6cea6067f:0xae99de5ac3fa1901!8m2!3d10.8338698!4d78.6946446!16s%2Fg%2F124ynv0gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "galaxy-healthcare-tourism-tiruchirappalli",
@@ -879,7 +872,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Galaxy+Healthcare+Tourism/@10.8333298,78.6952701,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5b149bf7cff:0xc39635c630e1e9d0!8m2!3d10.8333298!4d78.6952701!16s%2Fg%2F11hf8lr_zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Galaxy+Healthcare+Tourism/@10.8333298,78.6952701,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5b149bf7cff:0xc39635c630e1e9d0!8m2!3d10.8333298!4d78.6952701!16s%2Fg%2F11hf8lr_zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -945,11 +938,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Galaxy+Healthcare+Tourism/@10.8333298,78.6952701,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5b149bf7cff:0xc39635c630e1e9d0!8m2!3d10.8333298!4d78.6952701!16s%2Fg%2F11hf8lr_zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "get-well-clinic-pudukkottai",
@@ -998,7 +990,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Get+Well+Clinic/@10.3786504,78.8221564,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079273201859d:0xf830b204222c50e6!8m2!3d10.3786504!4d78.8221564!16s%2Fg%2F11stgsm4fb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Get+Well+Clinic/@10.3786504,78.8221564,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079273201859d:0xf830b204222c50e6!8m2!3d10.3786504!4d78.8221564!16s%2Fg%2F11stgsm4fb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1064,11 +1056,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Get+Well+Clinic/@10.3786504,78.8221564,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079273201859d:0xf830b204222c50e6!8m2!3d10.3786504!4d78.8221564!16s%2Fg%2F11stgsm4fb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hrudhaya-cardiac-centre-pudukkottai",
@@ -1117,7 +1108,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HRUDHAYA+CARDIAC+CENTRE/@10.3871795,78.8147404,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079537e37e923:0x891b63b2c5b34721!8m2!3d10.3871795!4d78.8147404!16s%2Fg%2F11wx131qjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HRUDHAYA+CARDIAC+CENTRE/@10.3871795,78.8147404,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079537e37e923:0x891b63b2c5b34721!8m2!3d10.3871795!4d78.8147404!16s%2Fg%2F11wx131qjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1186,8 +1177,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HRUDHAYA+CARDIAC+CENTRE/@10.3871795,78.8147404,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079537e37e923:0x891b63b2c5b34721!8m2!3d10.3871795!4d78.8147404!16s%2Fg%2F11wx131qjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indian-ivf-fertility-center-pudukkottai",
@@ -1237,7 +1227,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indian+IVF+Fertility+Center/@10.3800751,78.8192637,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00790073a69ff7:0xa4339be8b8c2bfed!8m2!3d10.3800751!4d78.8192637!16s%2Fg%2F11wx8lx0vb?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indian+IVF+Fertility+Center/@10.3800751,78.8192637,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00790073a69ff7:0xa4339be8b8c2bfed!8m2!3d10.3800751!4d78.8192637!16s%2Fg%2F11wx8lx0vb?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1303,11 +1293,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indian+IVF+Fertility+Center/@10.3800751,78.8192637,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00790073a69ff7:0xa4339be8b8c2bfed!8m2!3d10.3800751!4d78.8192637!16s%2Fg%2F11wx8lx0vb?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indian-surgical-clinic-devakottai",
@@ -1355,7 +1344,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indian+Surgical+clinic/@9.9492904,78.8198441,17z/data=!3m1!4b1!4m6!3m5!1s0x3b005b3cc0a8e5cd:0xb429610028375a3e!8m2!3d9.9492904!4d78.8198441!16s%2Fg%2F11dxsn0dp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indian+Surgical+clinic/@9.9492904,78.8198441,17z/data=!3m1!4b1!4m6!3m5!1s0x3b005b3cc0a8e5cd:0xb429610028375a3e!8m2!3d9.9492904!4d78.8198441!16s%2Fg%2F11dxsn0dp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1421,11 +1410,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indian+Surgical+clinic/@9.9492904,78.8198441,17z/data=!3m1!4b1!4m6!3m5!1s0x3b005b3cc0a8e5cd:0xb429610028375a3e!8m2!3d9.9492904!4d78.8198441!16s%2Fg%2F11dxsn0dp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jaundice-clinic-jaundice-rd",
@@ -1473,7 +1461,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JAUNDICE+CLINIC/@10.2275883,78.7902629,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0064df28666213:0x4c361907b6fa9892!8m2!3d10.2275883!4d78.7902629!16s%2Fg%2F11b6d1qq2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JAUNDICE+CLINIC/@10.2275883,78.7902629,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0064df28666213:0x4c361907b6fa9892!8m2!3d10.2275883!4d78.7902629!16s%2Fg%2F11b6d1qq2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1542,8 +1530,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JAUNDICE+CLINIC/@10.2275883,78.7902629,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0064df28666213:0x4c361907b6fa9892!8m2!3d10.2275883!4d78.7902629!16s%2Fg%2F11b6d1qq2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-hospital-pattukkottai",
@@ -1589,7 +1576,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Hospital/@10.4252511,79.3141116,17z/data=!3m1!4b1!4m6!3m5!1s0x3b000096362ef7cb:0xc92f99abe59ceddc!8m2!3d10.4252511!4d79.3141116!16s%2Fg%2F11gcd_1jnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Hospital/@10.4252511,79.3141116,17z/data=!3m1!4b1!4m6!3m5!1s0x3b000096362ef7cb:0xc92f99abe59ceddc!8m2!3d10.4252511!4d79.3141116!16s%2Fg%2F11gcd_1jnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1655,11 +1642,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Hospital/@10.4252511,79.3141116,17z/data=!3m1!4b1!4m6!3m5!1s0x3b000096362ef7cb:0xc92f99abe59ceddc!8m2!3d10.4252511!4d79.3141116!16s%2Fg%2F11gcd_1jnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kannan-hospital-pudukkottai",
@@ -1707,7 +1693,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kannan+Hospital/data=!4m7!3m6!1s0x3b0078355b69da37:0x487621c598eb9bc1!8m2!3d10.3793182!4d78.8162529!16s%2Fg%2F11r8dr3pl!19sChIJN9ppWzV4ADsRwZvrmMUhdkg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kannan+Hospital/data=!4m7!3m6!1s0x3b0078355b69da37:0x487621c598eb9bc1!8m2!3d10.3793182!4d78.8162529!16s%2Fg%2F11r8dr3pl!19sChIJN9ppWzV4ADsRwZvrmMUhdkg?authuser=0&hl=en&rclk=1"
@@ -1776,8 +1762,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kannan+Hospital/data=!4m7!3m6!1s0x3b0078355b69da37:0x487621c598eb9bc1!8m2!3d10.3793182!4d78.8162529!16s%2Fg%2F11r8dr3pl!19sChIJN9ppWzV4ADsRwZvrmMUhdkg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "karaikudi-kidney-and-speciality-hospital-t-soorakudi",
@@ -1828,7 +1813,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Karaikudi+Kidney+%26+Speciality+Hospital/@10.1197098,78.7611892,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00670016e08d8f:0x2e22383667b159a9!8m2!3d10.1197098!4d78.7611892!16s%2Fg%2F11w3p8zjbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karaikudi+Kidney+%26+Speciality+Hospital/@10.1197098,78.7611892,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00670016e08d8f:0x2e22383667b159a9!8m2!3d10.1197098!4d78.7611892!16s%2Fg%2F11w3p8zjbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1897,8 +1882,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Karaikudi+Kidney+%26+Speciality+Hospital/@10.1197098,78.7611892,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00670016e08d8f:0x2e22383667b159a9!8m2!3d10.1197098!4d78.7611892!16s%2Fg%2F11w3p8zjbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kathavarayan-clinic-pudukkottai",
@@ -1944,7 +1928,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kathavarayan+Clinic/@10.3361267,79.0947003,17z/data=!3m1!4b1!4m6!3m5!1s0x3b000c0eeef9008b:0x86fb91dd4de62511!8m2!3d10.3361267!4d79.0947003!16s%2Fg%2F11cn94s_gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kathavarayan+Clinic/@10.3361267,79.0947003,17z/data=!3m1!4b1!4m6!3m5!1s0x3b000c0eeef9008b:0x86fb91dd4de62511!8m2!3d10.3361267!4d79.0947003!16s%2Fg%2F11cn94s_gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2010,11 +1994,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kathavarayan+Clinic/@10.3361267,79.0947003,17z/data=!3m1!4b1!4m6!3m5!1s0x3b000c0eeef9008b:0x86fb91dd4de62511!8m2!3d10.3361267!4d79.0947003!16s%2Fg%2F11cn94s_gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kauvery-hospital-tiruchirappalli",
@@ -2063,7 +2046,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kauvery+Hospital/@10.816792,78.6811299,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a074f160d5:0x66325f8422f65d25!8m2!3d10.816792!4d78.6811299!16s%2Fg%2F1tdd88hp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kauvery+Hospital/@10.816792,78.6811299,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a074f160d5:0x66325f8422f65d25!8m2!3d10.816792!4d78.6811299!16s%2Fg%2F1tdd88hp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2132,8 +2115,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kauvery+Hospital/@10.816792,78.6811299,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a074f160d5:0x66325f8422f65d25!8m2!3d10.816792!4d78.6811299!16s%2Fg%2F1tdd88hp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kottai-surgicals-pattukkottai",
@@ -2179,7 +2161,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kottai+Surgicals/@10.4231707,79.3199884,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00011d1b4927fd:0xecdf1623235f175e!8m2!3d10.4231707!4d79.3199884!16s%2Fg%2F11hm51mcgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kottai+Surgicals/@10.4231707,79.3199884,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00011d1b4927fd:0xecdf1623235f175e!8m2!3d10.4231707!4d79.3199884!16s%2Fg%2F11hm51mcgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2245,11 +2227,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kottai+Surgicals/@10.4231707,79.3199884,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00011d1b4927fd:0xecdf1623235f175e!8m2!3d10.4231707!4d79.3199884!16s%2Fg%2F11hm51mcgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maaha-dental-clinic-and-implant-center-pudukkottai",
@@ -2298,7 +2279,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MAAHA+DENTAL+CLINIC+AND+IMPLANT+CENTER/@10.3697579,78.8142711,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079e35bbfe073:0xe6c54a06d839635e!8m2!3d10.3697579!4d78.8142711!16s%2Fg%2F11py1crs4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAAHA+DENTAL+CLINIC+AND+IMPLANT+CENTER/@10.3697579,78.8142711,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079e35bbfe073:0xe6c54a06d839635e!8m2!3d10.3697579!4d78.8142711!16s%2Fg%2F11py1crs4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2364,11 +2345,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MAAHA+DENTAL+CLINIC+AND+IMPLANT+CENTER/@10.3697579,78.8142711,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079e35bbfe073:0xe6c54a06d839635e!8m2!3d10.3697579!4d78.8142711!16s%2Fg%2F11py1crs4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "malar-dental-clinic-pudukkottai",
@@ -2416,7 +2396,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MALAR+DENTAL+CLINIC/@10.3798589,78.8211386,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078336486a623:0x69d1701b7f8bb1b7!8m2!3d10.3798589!4d78.8211386!16s%2Fg%2F11dxl9v767?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MALAR+DENTAL+CLINIC/@10.3798589,78.8211386,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078336486a623:0x69d1701b7f8bb1b7!8m2!3d10.3798589!4d78.8211386!16s%2Fg%2F11dxl9v767?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2485,8 +2465,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MALAR+DENTAL+CLINIC/@10.3798589,78.8211386,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078336486a623:0x69d1701b7f8bb1b7!8m2!3d10.3798589!4d78.8211386!16s%2Fg%2F11dxl9v767?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manian-medical-centre-m",
@@ -2535,7 +2514,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MANIAN+MEDICAL+CENTRE/@11.3370035,77.7188598,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba96f101c4946e7:0xf0c7b5efc9d85538!8m2!3d11.3370035!4d77.7188598!16s%2Fg%2F11grc14z_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MANIAN+MEDICAL+CENTRE/@11.3370035,77.7188598,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba96f101c4946e7:0xf0c7b5efc9d85538!8m2!3d11.3370035!4d77.7188598!16s%2Fg%2F11grc14z_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2604,8 +2583,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MANIAN+MEDICAL+CENTRE/@11.3370035,77.7188598,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba96f101c4946e7:0xf0c7b5efc9d85538!8m2!3d11.3370035!4d77.7188598!16s%2Fg%2F11grc14z_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meenakshi-mission-hospital-and-research-centre-madurai",
@@ -2654,7 +2632,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Meenakshi+Mission+Hospital+%26+Research+Centre/@9.9479215,78.1625445,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00c42e06b12177:0xa2fa266ff55371c4!8m2!3d9.9479215!4d78.1625445!16s%2Fg%2F1q6j2xzjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meenakshi+Mission+Hospital+%26+Research+Centre/@9.9479215,78.1625445,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00c42e06b12177:0xa2fa266ff55371c4!8m2!3d9.9479215!4d78.1625445!16s%2Fg%2F1q6j2xzjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2723,8 +2701,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Meenakshi+Mission+Hospital+%26+Research+Centre/@9.9479215,78.1625445,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00c42e06b12177:0xa2fa266ff55371c4!8m2!3d9.9479215!4d78.1625445!16s%2Fg%2F1q6j2xzjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mohammed-ismail-clinic-pudukkottai",
@@ -2770,7 +2747,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mohammed+Ismail+Clinic/@10.383643,78.822887,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007833de8177eb:0x16835a87c136dbe7!8m2!3d10.383643!4d78.822887!16s%2Fg%2F11dxlg8mlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mohammed+Ismail+Clinic/@10.383643,78.822887,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007833de8177eb:0x16835a87c136dbe7!8m2!3d10.383643!4d78.822887!16s%2Fg%2F11dxlg8mlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2836,11 +2813,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mohammed+Ismail+Clinic/@10.383643,78.822887,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007833de8177eb:0x16835a87c136dbe7!8m2!3d10.383643!4d78.822887!16s%2Fg%2F11dxlg8mlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mr-diabetic-centre-pudukkottai",
@@ -2886,7 +2862,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MR+Diabetic+Centre/@10.166877,78.993334,17z/data=!3m1!4b1!4m6!3m5!1s0x3b006c9ee4d5fa59:0x10098b46d59b94a0!8m2!3d10.166877!4d78.993334!16s%2Fg%2F11c70d7673?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MR+Diabetic+Centre/@10.166877,78.993334,17z/data=!3m1!4b1!4m6!3m5!1s0x3b006c9ee4d5fa59:0x10098b46d59b94a0!8m2!3d10.166877!4d78.993334!16s%2Fg%2F11c70d7673?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2952,11 +2928,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MR+Diabetic+Centre/@10.166877,78.993334,17z/data=!3m1!4b1!4m6!3m5!1s0x3b006c9ee4d5fa59:0x10098b46d59b94a0!8m2!3d10.166877!4d78.993334!16s%2Fg%2F11c70d7673?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "msk-diabetic-clinic-pudukkottai",
@@ -3004,7 +2979,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Msk+Diabetic+clinic/@10.364952,78.834752,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007900736e2741:0x37af76d6eae50051!8m2!3d10.364952!4d78.834752!16s%2Fg%2F11lttdr990?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Msk+Diabetic+clinic/@10.364952,78.834752,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007900736e2741:0x37af76d6eae50051!8m2!3d10.364952!4d78.834752!16s%2Fg%2F11lttdr990?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3070,11 +3045,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Msk+Diabetic+clinic/@10.364952,78.834752,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007900736e2741:0x37af76d6eae50051!8m2!3d10.364952!4d78.834752!16s%2Fg%2F11lttdr990?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "muthumeenakshi-hospitals-pvt-ltd-pudukkottai",
@@ -3123,7 +3097,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MuthuMeenakshi+Hospitals+Pvt+Ltd/@10.3794013,78.82189,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078335ad9c90f:0x98b91842ebc2ea37!8m2!3d10.3794013!4d78.82189!16s%2Fg%2F11bbx03_g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MuthuMeenakshi+Hospitals+Pvt+Ltd/@10.3794013,78.82189,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078335ad9c90f:0x98b91842ebc2ea37!8m2!3d10.3794013!4d78.82189!16s%2Fg%2F11bbx03_g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3192,8 +3166,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MuthuMeenakshi+Hospitals+Pvt+Ltd/@10.3794013,78.82189,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078335ad9c90f:0x98b91842ebc2ea37!8m2!3d10.3794013!4d78.82189!16s%2Fg%2F11bbx03_g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-life-hospital-pudukkottai",
@@ -3241,7 +3214,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NEW+LIFE+HOSPITAL/@10.3864368,78.8163612,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079e44fa9a175:0xd76167d0040d1088!8m2!3d10.3864368!4d78.8163612!16s%2Fg%2F11vlqdg0ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEW+LIFE+HOSPITAL/@10.3864368,78.8163612,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079e44fa9a175:0xd76167d0040d1088!8m2!3d10.3864368!4d78.8163612!16s%2Fg%2F11vlqdg0ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3310,8 +3283,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NEW+LIFE+HOSPITAL/@10.3864368,78.8163612,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079e44fa9a175:0xd76167d0040d1088!8m2!3d10.3864368!4d78.8163612!16s%2Fg%2F11vlqdg0ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "newgen-clinic-pudukkottai",
@@ -3359,7 +3331,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Newgen+Clinic/@10.3959174,78.8284896,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007944268f119b:0x50dbc846ea050cf3!8m2!3d10.3959174!4d78.8284896!16s%2Fg%2F11h0ml7zb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Newgen+Clinic/@10.3959174,78.8284896,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007944268f119b:0x50dbc846ea050cf3!8m2!3d10.3959174!4d78.8284896!16s%2Fg%2F11h0ml7zb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3425,11 +3397,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Newgen+Clinic/@10.3959174,78.8284896,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007944268f119b:0x50dbc846ea050cf3!8m2!3d10.3959174!4d78.8284896!16s%2Fg%2F11h0ml7zb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "newlife-ent-hospital-pudukkottai",
@@ -3477,7 +3448,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NEWLIFE+ENT+HOSPITAL/@10.3864017,78.8163436,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079007ecd66eb:0x72777a5ed1723869!8m2!3d10.3864017!4d78.8163436!16s%2Fg%2F11wp_7h7m2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEWLIFE+ENT+HOSPITAL/@10.3864017,78.8163436,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079007ecd66eb:0x72777a5ed1723869!8m2!3d10.3864017!4d78.8163436!16s%2Fg%2F11wp_7h7m2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3543,11 +3514,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NEWLIFE+ENT+HOSPITAL/@10.3864017,78.8163436,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079007ecd66eb:0x72777a5ed1723869!8m2!3d10.3864017!4d78.8163436!16s%2Fg%2F11wp_7h7m2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nila-speciality-clinic-ortho-and-ent-pudukkottai",
@@ -3598,7 +3568,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NILA+SPECIALITY+CLINIC+(ORTHO+and+ENT)/@10.3760869,78.826017,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079d9940575e5:0xe81ad306772dff0f!8m2!3d10.3760869!4d78.826017!16s%2Fg%2F11xrkzyzkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NILA+SPECIALITY+CLINIC+(ORTHO+and+ENT)/@10.3760869,78.826017,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079d9940575e5:0xe81ad306772dff0f!8m2!3d10.3760869!4d78.826017!16s%2Fg%2F11xrkzyzkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3667,8 +3637,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NILA+SPECIALITY+CLINIC+(ORTHO+and+ENT)/@10.3760869,78.826017,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079d9940575e5:0xe81ad306772dff0f!8m2!3d10.3760869!4d78.826017!16s%2Fg%2F11xrkzyzkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "p-s-k-diabetic-and-medical-center-pudukkottai",
@@ -3716,7 +3685,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/P.S.K+Diabetic+and+Medical+center/@10.3861083,78.8225642,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079953735d571:0x6885974b09803f4e!8m2!3d10.3861083!4d78.8225642!16s%2Fg%2F11jyj9p3h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/P.S.K+Diabetic+and+Medical+center/@10.3861083,78.8225642,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079953735d571:0x6885974b09803f4e!8m2!3d10.3861083!4d78.8225642!16s%2Fg%2F11jyj9p3h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3782,11 +3751,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/P.S.K+Diabetic+and+Medical+center/@10.3861083,78.8225642,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079953735d571:0x6885974b09803f4e!8m2!3d10.3861083!4d78.8225642!16s%2Fg%2F11jyj9p3h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pills-hospital-mahalingapuram",
@@ -3835,7 +3803,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pills+Hospital/@10.6641203,77.0104091,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8378077dbfb9b:0x31ab95b7db51ab56!8m2!3d10.6641203!4d77.0104091!16s%2Fg%2F11bwmvgx00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pills+Hospital/@10.6641203,77.0104091,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8378077dbfb9b:0x31ab95b7db51ab56!8m2!3d10.6641203!4d77.0104091!16s%2Fg%2F11bwmvgx00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3904,8 +3872,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pills+Hospital/@10.6641203,77.0104091,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8378077dbfb9b:0x31ab95b7db51ab56!8m2!3d10.6641203!4d77.0104091!16s%2Fg%2F11bwmvgx00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prabha-skin-clinic-pudukkottai",
@@ -3953,7 +3920,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prabha+skin+clinic/@10.3794805,78.8161281,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079a624898423:0xe60d9036c3603f34!8m2!3d10.3794805!4d78.8161281!16s%2Fg%2F11t77l3z5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prabha+skin+clinic/@10.3794805,78.8161281,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079a624898423:0xe60d9036c3603f34!8m2!3d10.3794805!4d78.8161281!16s%2Fg%2F11t77l3z5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4019,11 +3986,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prabha+skin+clinic/@10.3794805,78.8161281,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079a624898423:0xe60d9036c3603f34!8m2!3d10.3794805!4d78.8161281!16s%2Fg%2F11t77l3z5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pudugai-diabetes-and-vascular-center-pudukkottai",
@@ -4072,7 +4038,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pudugai+Diabetes+%26+Vascular+Center/@10.3810271,78.81485,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00784a62a1123d:0x9c7b04ff7a1f54b5!8m2!3d10.3810271!4d78.81485!16s%2Fg%2F11g6xwdwmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pudugai+Diabetes+%26+Vascular+Center/@10.3810271,78.81485,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00784a62a1123d:0x9c7b04ff7a1f54b5!8m2!3d10.3810271!4d78.81485!16s%2Fg%2F11g6xwdwmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4141,8 +4107,7 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pudugai+Diabetes+%26+Vascular+Center/@10.3810271,78.81485,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00784a62a1123d:0x9c7b04ff7a1f54b5!8m2!3d10.3810271!4d78.81485!16s%2Fg%2F11g6xwdwmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pudugai-star-hospital-private-limited-pudukkottai",
@@ -4191,7 +4156,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pudugai+Star+Hospital+private+limited/@10.3722393,78.831922,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079d14f509503:0x1d0e14673957b2b4!8m2!3d10.3722393!4d78.831922!16s%2Fg%2F11cjk85zvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pudugai+Star+Hospital+private+limited/@10.3722393,78.831922,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079d14f509503:0x1d0e14673957b2b4!8m2!3d10.3722393!4d78.831922!16s%2Fg%2F11cjk85zvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4260,8 +4225,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pudugai+Star+Hospital+private+limited/@10.3722393,78.831922,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079d14f509503:0x1d0e14673957b2b4!8m2!3d10.3722393!4d78.831922!16s%2Fg%2F11cjk85zvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rr-hospital-pudukottai-pudukkottai",
@@ -4310,7 +4274,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RR+Hospital+Pudukottai/@10.3786057,78.8216522,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078335516a299:0xfe00b9635cf3d6cc!8m2!3d10.3786057!4d78.8216522!16s%2Fg%2F11hbqddpl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RR+Hospital+Pudukottai/@10.3786057,78.8216522,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078335516a299:0xfe00b9635cf3d6cc!8m2!3d10.3786057!4d78.8216522!16s%2Fg%2F11hbqddpl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4376,11 +4340,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RR+Hospital+Pudukottai/@10.3786057,78.8216522,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078335516a299:0xfe00b9635cf3d6cc!8m2!3d10.3786057!4d78.8216522!16s%2Fg%2F11hbqddpl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-b-hospital-thanjavur",
@@ -4429,7 +4392,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S+B+Hospital/@10.7755558,79.1253808,17z/data=!3m1!4b1!4m6!3m5!1s0x3baab8bb6af705a9:0x79ccd73ca7b0d130!8m2!3d10.7755558!4d79.1253808!16s%2Fg%2F11rrjrdqcf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+B+Hospital/@10.7755558,79.1253808,17z/data=!3m1!4b1!4m6!3m5!1s0x3baab8bb6af705a9:0x79ccd73ca7b0d130!8m2!3d10.7755558!4d79.1253808!16s%2Fg%2F11rrjrdqcf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4498,8 +4461,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S+B+Hospital/@10.7755558,79.1253808,17z/data=!3m1!4b1!4m6!3m5!1s0x3baab8bb6af705a9:0x79ccd73ca7b0d130!8m2!3d10.7755558!4d79.1253808!16s%2Fg%2F11rrjrdqcf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevani-hospital-pudukkottai",
@@ -4548,7 +4510,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevani+Hospital/@10.3801861,78.8185323,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007834e2f2c753:0xf210d662aae95425!8m2!3d10.3801861!4d78.8185323!16s%2Fg%2F11cn5rq9z6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Hospital/@10.3801861,78.8185323,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007834e2f2c753:0xf210d662aae95425!8m2!3d10.3801861!4d78.8185323!16s%2Fg%2F11cn5rq9z6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4617,8 +4579,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevani+Hospital/@10.3801861,78.8185323,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007834e2f2c753:0xf210d662aae95425!8m2!3d10.3801861!4d78.8185323!16s%2Fg%2F11cn5rq9z6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sathya-skin-and-dental-care-pudukkottai",
@@ -4667,7 +4628,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sathya+Skin+%26Dental+Care/@10.3867415,78.8226289,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783651e01d3f:0xb22af0a93496c9a3!8m2!3d10.3867415!4d78.8226289!16s%2Fg%2F11gfctnjgb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sathya+Skin+%26Dental+Care/@10.3867415,78.8226289,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783651e01d3f:0xb22af0a93496c9a3!8m2!3d10.3867415!4d78.8226289!16s%2Fg%2F11gfctnjgb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4736,8 +4697,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sathya+Skin+%26Dental+Care/@10.3867415,78.8226289,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783651e01d3f:0xb22af0a93496c9a3!8m2!3d10.3867415!4d78.8226289!16s%2Fg%2F11gfctnjgb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shanmuga-hospital-limited-salem",
@@ -4786,7 +4746,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shanmuga+Hospital+Limited/@11.676736,78.1529594,17z/data=!3m1!4b1!4m6!3m5!1s0x3babf04dfdd95555:0xcf541ea00b53a672!8m2!3d11.676736!4d78.1529594!16s%2Fg%2F11tg802577?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanmuga+Hospital+Limited/@11.676736,78.1529594,17z/data=!3m1!4b1!4m6!3m5!1s0x3babf04dfdd95555:0xcf541ea00b53a672!8m2!3d11.676736!4d78.1529594!16s%2Fg%2F11tg802577?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4855,8 +4815,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shanmuga+Hospital+Limited/@11.676736,78.1529594,17z/data=!3m1!4b1!4m6!3m5!1s0x3babf04dfdd95555:0xcf541ea00b53a672!8m2!3d11.676736!4d78.1529594!16s%2Fg%2F11tg802577?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-visalam-clinic-pudukkottai",
@@ -4904,7 +4863,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Visalam+Clinic/@10.3803588,78.8161295,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079007b1d34ab:0x40262abb812562f!8m2!3d10.3803588!4d78.8161295!16s%2Fg%2F11yb8htd_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Visalam+Clinic/@10.3803588,78.8161295,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079007b1d34ab:0x40262abb812562f!8m2!3d10.3803588!4d78.8161295!16s%2Fg%2F11yb8htd_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4970,11 +4929,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Visalam+Clinic/@10.3803588,78.8161295,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079007b1d34ab:0x40262abb812562f!8m2!3d10.3803588!4d78.8161295!16s%2Fg%2F11yb8htd_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sk-hospital-pudukkottai",
@@ -5023,7 +4981,7 @@
       "Google rating 2.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SK+Hospital/@10.393118,78.8260025,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783adcdfe1ed:0x8f85a790a8ad82b7!8m2!3d10.393118!4d78.8260025!16s%2Fg%2F11c70cfb0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SK+Hospital/@10.393118,78.8260025,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783adcdfe1ed:0x8f85a790a8ad82b7!8m2!3d10.393118!4d78.8260025!16s%2Fg%2F11c70cfb0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5092,8 +5050,7 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SK+Hospital/@10.393118,78.8260025,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783adcdfe1ed:0x8f85a790a8ad82b7!8m2!3d10.393118!4d78.8260025!16s%2Fg%2F11c70cfb0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "skin-specialist-pudukkottai-pudukkottai",
@@ -5141,7 +5098,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Skin+Specialist,+Pudukkottai/@10.3786303,78.8134022,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007994df4d5e75:0x6947db0badea1205!8m2!3d10.3786303!4d78.8134022!16s%2Fg%2F11lylc6fj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+Specialist,+Pudukkottai/@10.3786303,78.8134022,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007994df4d5e75:0x6947db0badea1205!8m2!3d10.3786303!4d78.8134022!16s%2Fg%2F11lylc6fj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5207,11 +5164,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Skin+Specialist,+Pudukkottai/@10.3786303,78.8134022,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007994df4d5e75:0x6947db0badea1205!8m2!3d10.3786303!4d78.8134022!16s%2Fg%2F11lylc6fj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sreevi-lung-hospital-dr-mathiyalgan-m-pudukkottai",
@@ -5259,7 +5215,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sreevi+lung+hospital+(Dr+Mathiyalgan+M)/@10.3735272,78.8122028,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00794d180256db:0x9b984fbe125aed57!8m2!3d10.3735272!4d78.8122028!16s%2Fg%2F11y24m2rfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sreevi+lung+hospital+(Dr+Mathiyalgan+M)/@10.3735272,78.8122028,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00794d180256db:0x9b984fbe125aed57!8m2!3d10.3735272!4d78.8122028!16s%2Fg%2F11y24m2rfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5325,11 +5281,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sreevi+lung+hospital+(Dr+Mathiyalgan+M)/@10.3735272,78.8122028,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00794d180256db:0x9b984fbe125aed57!8m2!3d10.3735272!4d78.8122028!16s%2Fg%2F11y24m2rfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-durga-surg-clinic-pudukottai-tn-varpattu",
@@ -5377,7 +5332,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Durga+Surg+Clinic,Pudukottai+Tn./@10.2674889,78.5393735,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0085b9bedf76c3:0x5ec28daefd23e213!8m2!3d10.2674889!4d78.5393735!16s%2Fg%2F11pbrjfkyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Durga+Surg+Clinic,Pudukottai+Tn./@10.2674889,78.5393735,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0085b9bedf76c3:0x5ec28daefd23e213!8m2!3d10.2674889!4d78.5393735!16s%2Fg%2F11pbrjfkyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5443,11 +5398,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Durga+Surg+Clinic,Pudukottai+Tn./@10.2674889,78.5393735,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0085b9bedf76c3:0x5ec28daefd23e213!8m2!3d10.2674889!4d78.5393735!16s%2Fg%2F11pbrjfkyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-durga-surgical-clinic-and-research-center-varpattu",
@@ -5497,7 +5451,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Durga+Surgical+Clinic+and+Research+Center/@10.267247,78.5387663,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0085b996abfe15:0x2e400379636d5f1a!8m2!3d10.267247!4d78.5387663!16s%2Fg%2F11hczkvt2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Durga+Surgical+Clinic+and+Research+Center/@10.267247,78.5387663,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0085b996abfe15:0x2e400379636d5f1a!8m2!3d10.267247!4d78.5387663!16s%2Fg%2F11hczkvt2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5566,8 +5520,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Durga+Surgical+Clinic+and+Research+Center/@10.267247,78.5387663,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0085b996abfe15:0x2e400379636d5f1a!8m2!3d10.267247!4d78.5387663!16s%2Fg%2F11hczkvt2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-ramakrishna-specialty-hospitals-pvt-ltd-tiruchirappalli",
@@ -5617,7 +5570,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Ramakrishna+Specialty+Hospitals+Pvt.Ltd./@10.8259422,78.6827907,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a313ccc2b5:0x2418ec7b330ed9b5!8m2!3d10.8259422!4d78.6827907!16s%2Fg%2F11c2np7d89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Ramakrishna+Specialty+Hospitals+Pvt.Ltd./@10.8259422,78.6827907,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a313ccc2b5:0x2418ec7b330ed9b5!8m2!3d10.8259422!4d78.6827907!16s%2Fg%2F11c2np7d89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5686,8 +5639,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Ramakrishna+Specialty+Hospitals+Pvt.Ltd./@10.8259422,78.6827907,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a313ccc2b5:0x2418ec7b330ed9b5!8m2!3d10.8259422!4d78.6827907!16s%2Fg%2F11c2np7d89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-skin-clinic-pudukkottai",
@@ -5735,7 +5687,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+SKIN+CLINIC/@10.3752556,78.8199921,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079de181fc31b:0x94cf47387028336f!8m2!3d10.3752556!4d78.8199921!16s%2Fg%2F11txcg8kn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SKIN+CLINIC/@10.3752556,78.8199921,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079de181fc31b:0x94cf47387028336f!8m2!3d10.3752556!4d78.8199921!16s%2Fg%2F11txcg8kn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5804,8 +5756,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+SKIN+CLINIC/@10.3752556,78.8199921,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079de181fc31b:0x94cf47387028336f!8m2!3d10.3752556!4d78.8199921!16s%2Fg%2F11txcg8kn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ss-hospital-pudukkottai",
@@ -5854,7 +5805,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SS+Hospital/@10.3786736,78.8157179,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783544d62fdf:0x72f5b80b21df4e98!8m2!3d10.3786736!4d78.8157179!16s%2Fg%2F11cn6gn78b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SS+Hospital/@10.3786736,78.8157179,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783544d62fdf:0x72f5b80b21df4e98!8m2!3d10.3786736!4d78.8157179!16s%2Fg%2F11cn6gn78b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5923,8 +5874,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SS+Hospital/@10.3786736,78.8157179,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783544d62fdf:0x72f5b80b21df4e98!8m2!3d10.3786736!4d78.8157179!16s%2Fg%2F11cn6gn78b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "star-kims-hospital-tiruchirappalli",
@@ -5973,7 +5923,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Star+Kims+Hospital/@10.8233429,78.6819864,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a235dfae13:0xce4f8643177d8306!8m2!3d10.8233429!4d78.6819864!16s%2Fg%2F11g8p8j5hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+Kims+Hospital/@10.8233429,78.6819864,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a235dfae13:0xce4f8643177d8306!8m2!3d10.8233429!4d78.6819864!16s%2Fg%2F11g8p8j5hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6042,8 +5992,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Star+Kims+Hospital/@10.8233429,78.6819864,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a235dfae13:0xce4f8643177d8306!8m2!3d10.8233429!4d78.6819864!16s%2Fg%2F11g8p8j5hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sundaram-hospital-tiruchirappalli",
@@ -6092,7 +6041,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sundaram+Hospital/@10.8144086,78.6778527,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5623319f1ab:0x96216d6caf8900a5!8m2!3d10.8144086!4d78.6778527!16s%2Fg%2F11bvtcd15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sundaram+Hospital/@10.8144086,78.6778527,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5623319f1ab:0x96216d6caf8900a5!8m2!3d10.8144086!4d78.6778527!16s%2Fg%2F11bvtcd15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6161,8 +6110,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sundaram+Hospital/@10.8144086,78.6778527,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5623319f1ab:0x96216d6caf8900a5!8m2!3d10.8144086!4d78.6778527!16s%2Fg%2F11bvtcd15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "team-speciality-hospital-pudukkottai",
@@ -6212,7 +6160,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Team+Speciality+Hospital/@10.3786238,78.8133979,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00784ad1b5fb7f:0x69e82dc823946f13!8m2!3d10.3786238!4d78.8133979!16s%2Fg%2F1261ldm7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Team+Speciality+Hospital/@10.3786238,78.8133979,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00784ad1b5fb7f:0x69e82dc823946f13!8m2!3d10.3786238!4d78.8133979!16s%2Fg%2F1261ldm7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6281,8 +6229,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Team+Speciality+Hospital/@10.3786238,78.8133979,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00784ad1b5fb7f:0x69e82dc823946f13!8m2!3d10.3786238!4d78.8133979!16s%2Fg%2F1261ldm7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thamil-dialysis-centre-kadukkakadu",
@@ -6331,7 +6278,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Thamil+dialysis+centre/@10.380035,78.8190274,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079424854f1e5:0x1c9e79bcf45b5936!8m2!3d10.380035!4d78.8190274!16s%2Fg%2F11l1q79690?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thamil+dialysis+centre/@10.380035,78.8190274,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079424854f1e5:0x1c9e79bcf45b5936!8m2!3d10.380035!4d78.8190274!16s%2Fg%2F11l1q79690?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6400,8 +6347,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Thamil+dialysis+centre/@10.380035,78.8190274,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079424854f1e5:0x1c9e79bcf45b5936!8m2!3d10.380035!4d78.8190274!16s%2Fg%2F11l1q79690?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thangam-advanced-dental-clinic-bose-nagar",
@@ -6450,7 +6396,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/THANGAM+ADVANCED+DENTAL+CLINIC/@10.3843175,78.8326089,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007965139eba4f:0xf6e44e1c8ceb35ea!8m2!3d10.3843175!4d78.8326089!16s%2Fg%2F11gx_wycys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THANGAM+ADVANCED+DENTAL+CLINIC/@10.3843175,78.8326089,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007965139eba4f:0xf6e44e1c8ceb35ea!8m2!3d10.3843175!4d78.8326089!16s%2Fg%2F11gx_wycys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6519,8 +6465,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/THANGAM+ADVANCED+DENTAL+CLINIC/@10.3843175,78.8326089,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007965139eba4f:0xf6e44e1c8ceb35ea!8m2!3d10.3843175!4d78.8326089!16s%2Fg%2F11gx_wycys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thangam-dental-pudukkottai",
@@ -6568,7 +6513,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/THANGAM+DENTAL/@10.3790951,78.8134658,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079501964975d:0x6767e7be4d80f4e9!8m2!3d10.3790951!4d78.8134658!16s%2Fg%2F11mvnf4f_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THANGAM+DENTAL/@10.3790951,78.8134658,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079501964975d:0x6767e7be4d80f4e9!8m2!3d10.3790951!4d78.8134658!16s%2Fg%2F11mvnf4f_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6637,8 +6582,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/THANGAM+DENTAL/@10.3790951,78.8134658,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079501964975d:0x6767e7be4d80f4e9!8m2!3d10.3790951!4d78.8134658!16s%2Fg%2F11mvnf4f_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -6688,7 +6632,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6754,11 +6698,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thiagu-dental-clinic-pudukkottai",
@@ -6806,7 +6749,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Thiagu+dental+clinic/@10.3682794,78.8038588,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079766b68103f:0x3cff40536f5dcd70!8m2!3d10.3682794!4d78.8038588!16s%2Fg%2F11ngd7dlhh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thiagu+dental+clinic/@10.3682794,78.8038588,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079766b68103f:0x3cff40536f5dcd70!8m2!3d10.3682794!4d78.8038588!16s%2Fg%2F11ngd7dlhh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6875,8 +6818,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Thiagu+dental+clinic/@10.3682794,78.8038588,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079766b68103f:0x3cff40536f5dcd70!8m2!3d10.3682794!4d78.8038588!16s%2Fg%2F11ngd7dlhh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "usha-dharshan-dental-care-pudukkottai",
@@ -6924,7 +6866,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/USHA+DHARSHAN+DENTAL+CARE/@10.3743114,78.807595,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079c22b728a05:0xf7f02e0c587569c0!8m2!3d10.3743114!4d78.807595!16s%2Fg%2F11j9722zsg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/USHA+DHARSHAN+DENTAL+CARE/@10.3743114,78.807595,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079c22b728a05:0xf7f02e0c587569c0!8m2!3d10.3743114!4d78.807595!16s%2Fg%2F11j9722zsg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6993,8 +6935,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/USHA+DHARSHAN+DENTAL+CARE/@10.3743114,78.807595,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079c22b728a05:0xf7f02e0c587569c0!8m2!3d10.3743114!4d78.807595!16s%2Fg%2F11j9722zsg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vadamalayan-hospitals-pvt-ltd-dindigul",
@@ -7043,7 +6984,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vadamalayan+Hospitals+Pvt+Ltd/@10.380779,77.9689421,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00ab74c53d4f9f:0xbf2b8b4efb85fc59!8m2!3d10.380779!4d77.9689421!16s%2Fg%2F11fmsg72gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vadamalayan+Hospitals+Pvt+Ltd/@10.380779,77.9689421,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00ab74c53d4f9f:0xbf2b8b4efb85fc59!8m2!3d10.380779!4d77.9689421!16s%2Fg%2F11fmsg72gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7112,7 +7053,6 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vadamalayan+Hospitals+Pvt+Ltd/@10.380779,77.9689421,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00ab74c53d4f9f:0xbf2b8b4efb85fc59!8m2!3d10.380779!4d77.9689421!16s%2Fg%2F11fmsg72gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

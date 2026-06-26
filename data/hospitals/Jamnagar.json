@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aastha+Hospital+%26+Maternity+Home/@22.4224588,70.0682612,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b74a575c0e9:0x9444895ff9604f7!8m2!3d22.4224588!4d70.0682612!16s%2Fg%2F11xdvhrfvm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+Hospital+%26+Maternity+Home/@22.4224588,70.0682612,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b74a575c0e9:0x9444895ff9604f7!8m2!3d22.4224588!4d70.0682612!16s%2Fg%2F11xdvhrfvm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -111,11 +111,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aastha+Hospital+%26+Maternity+Home/@22.4224588,70.0682612,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b74a575c0e9:0x9444895ff9604f7!8m2!3d22.4224588!4d70.0682612!16s%2Fg%2F11xdvhrfvm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aayush-cancer-hospital-jamnagar",
@@ -164,7 +163,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aayush+Cancer+Hospital/@22.4587502,70.0348984,17z/data=!3m1!4b1!4m6!3m5!1s0x395715a36702eb4b:0x4752c2f67f458de1!8m2!3d22.4587502!4d70.0348984!16s%2Fg%2F11x8dv_qnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aayush+Cancer+Hospital/@22.4587502,70.0348984,17z/data=!3m1!4b1!4m6!3m5!1s0x395715a36702eb4b:0x4752c2f67f458de1!8m2!3d22.4587502!4d70.0348984!16s%2Fg%2F11x8dv_qnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -233,8 +232,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aayush+Cancer+Hospital/@22.4587502,70.0348984,17z/data=!3m1!4b1!4m6!3m5!1s0x395715a36702eb4b:0x4752c2f67f458de1!8m2!3d22.4587502!4d70.0348984!16s%2Fg%2F11x8dv_qnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aayush-hospital-sadhana-colony-jamnagar",
@@ -282,7 +280,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aayush+Hospital+Sadhana+Colony/@22.4615043,70.065433,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac779c5a1c9:0x55e952e8d3877029!8m2!3d22.4615043!4d70.065433!16s%2Fg%2F1hdzl_p_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aayush+Hospital+Sadhana+Colony/@22.4615043,70.065433,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac779c5a1c9:0x55e952e8d3877029!8m2!3d22.4615043!4d70.065433!16s%2Fg%2F1hdzl_p_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -351,8 +349,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aayush+Hospital+Sadhana+Colony/@22.4615043,70.065433,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac779c5a1c9:0x55e952e8d3877029!8m2!3d22.4615043!4d70.065433!16s%2Fg%2F1hdzl_p_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "adcic-advance-dental-care-and-implant-clinic-jamnagar",
@@ -401,7 +398,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ADCIC+(Advance+Dental+Care+%26+Implant+Clinic)/@22.4766593,70.0646568,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bca7b464241:0xd4cbd1fe8804e488!8m2!3d22.4766593!4d70.0646568!16s%2Fg%2F11nlf6pzvn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADCIC+(Advance+Dental+Care+%26+Implant+Clinic)/@22.4766593,70.0646568,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bca7b464241:0xd4cbd1fe8804e488!8m2!3d22.4766593!4d70.0646568!16s%2Fg%2F11nlf6pzvn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -467,11 +464,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ADCIC+(Advance+Dental+Care+%26+Implant+Clinic)/@22.4766593,70.0646568,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bca7b464241:0xd4cbd1fe8804e488!8m2!3d22.4766593!4d70.0646568!16s%2Fg%2F11nlf6pzvn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akshar-dental-clinic-jamnagar",
@@ -519,7 +515,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akshar+Dental+Clinic/@22.471276,70.065805,17z/data=!3m1!4b1!4m6!3m5!1s0x39576abb05ae6cbb:0xf8da427cf047ff3b!8m2!3d22.471276!4d70.065805!16s%2Fg%2F1q66xl50c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akshar+Dental+Clinic/@22.471276,70.065805,17z/data=!3m1!4b1!4m6!3m5!1s0x39576abb05ae6cbb:0xf8da427cf047ff3b!8m2!3d22.471276!4d70.065805!16s%2Fg%2F1q66xl50c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -585,11 +581,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akshar+Dental+Clinic/@22.471276,70.065805,17z/data=!3m1!4b1!4m6!3m5!1s0x39576abb05ae6cbb:0xf8da427cf047ff3b!8m2!3d22.471276!4d70.065805!16s%2Fg%2F1q66xl50c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-proton-therapy-in-jamnagar-jamnagar",
@@ -638,7 +633,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Jamnagar/@22.466455,70.059922,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bac2fea665b:0x48a6cbc7bde51326!8m2!3d22.466455!4d70.059922!16s%2Fg%2F11xs7lnr84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Jamnagar/@22.466455,70.059922,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bac2fea665b:0x48a6cbc7bde51326!8m2!3d22.466455!4d70.059922!16s%2Fg%2F11xs7lnr84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -704,11 +699,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Jamnagar/@22.466455,70.059922,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bac2fea665b:0x48a6cbc7bde51326!8m2!3d22.466455!4d70.059922!16s%2Fg%2F11xs7lnr84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ayurved-infertility-clinic-jamnagar",
@@ -757,7 +751,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ayurved+Infertility+Clinic/@22.464168,70.061349,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0x2f619e91f9553653!8m2!3d22.464168!4d70.061349!16s%2Fg%2F1tmqdm2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayurved+Infertility+Clinic/@22.464168,70.061349,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0x2f619e91f9553653!8m2!3d22.464168!4d70.061349!16s%2Fg%2F1tmqdm2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -826,8 +820,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ayurved+Infertility+Clinic/@22.464168,70.061349,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0x2f619e91f9553653!8m2!3d22.464168!4d70.061349!16s%2Fg%2F1tmqdm2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhagde-maternity-and-nursing-home-jamnagar",
@@ -875,7 +868,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhagde+Maternity+and+Nursing+Home/@22.4612661,70.0724022,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac041418599:0xf3b826c2384dedef!8m2!3d22.4612661!4d70.0724022!16s%2Fg%2F12620m057?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagde+Maternity+and+Nursing+Home/@22.4612661,70.0724022,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac041418599:0xf3b826c2384dedef!8m2!3d22.4612661!4d70.0724022!16s%2Fg%2F12620m057?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -944,8 +937,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhagde+Maternity+and+Nursing+Home/@22.4612661,70.0724022,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac041418599:0xf3b826c2384dedef!8m2!3d22.4612661!4d70.0724022!16s%2Fg%2F12620m057?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhagde-maxillofacial-and-implant-center-jamnagar",
@@ -994,7 +986,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhagde+Maxillofacial+and+Implant+Center/@22.4612577,70.07232,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b44b3bc4743:0xa6adc29bc81ddf24!8m2!3d22.4612577!4d70.07232!16s%2Fg%2F11j4ql4_dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagde+Maxillofacial+and+Implant+Center/@22.4612577,70.07232,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b44b3bc4743:0xa6adc29bc81ddf24!8m2!3d22.4612577!4d70.07232!16s%2Fg%2F11j4ql4_dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1063,8 +1055,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhagde+Maxillofacial+and+Implant+Center/@22.4612577,70.07232,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b44b3bc4743:0xa6adc29bc81ddf24!8m2!3d22.4612577!4d70.07232!16s%2Fg%2F11j4ql4_dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhagde-orthodontic-braces-aligners-and-pediatric-kids-dental-care-jamnagar",
@@ -1113,7 +1104,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhagde+Orthodontic+(Braces%2FAligners)+And+Pediatric+(Kids)+Dental+Care/@22.4758453,70.0658457,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b34b5a814ef:0xda281c4f06affa7b!8m2!3d22.4758453!4d70.0658457!16s%2Fg%2F11wj75pm71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagde+Orthodontic+(Braces%2FAligners)+And+Pediatric+(Kids)+Dental+Care/@22.4758453,70.0658457,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b34b5a814ef:0xda281c4f06affa7b!8m2!3d22.4758453!4d70.0658457!16s%2Fg%2F11wj75pm71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1179,11 +1170,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhagde+Orthodontic+(Braces%2FAligners)+And+Pediatric+(Kids)+Dental+Care/@22.4758453,70.0658457,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b34b5a814ef:0xda281c4f06affa7b!8m2!3d22.4758453!4d70.0658457!16s%2Fg%2F11wj75pm71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhagwati-dental-diet-and-homoeopathy-center-jamnagar",
@@ -1232,7 +1222,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhagwati+Dental,+Diet+%26+Homoeopathy+Center/@22.4635644,70.0612119,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab7911b6545:0xfe47e7f7189ec7aa!8m2!3d22.4635644!4d70.0612119!16s%2Fg%2F11b66g7f4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagwati+Dental,+Diet+%26+Homoeopathy+Center/@22.4635644,70.0612119,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab7911b6545:0xfe47e7f7189ec7aa!8m2!3d22.4635644!4d70.0612119!16s%2Fg%2F11b66g7f4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1301,8 +1291,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhagwati+Dental,+Diet+%26+Homoeopathy+Center/@22.4635644,70.0612119,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab7911b6545:0xfe47e7f7189ec7aa!8m2!3d22.4635644!4d70.0612119!16s%2Fg%2F11b66g7f4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhagwati-hospital-jamnagar",
@@ -1351,7 +1340,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BHAGWATI+HOSPITAL/@22.4635262,70.0611493,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b7fc42a7037:0xe685b0d1082b1cef!8m2!3d22.4635262!4d70.0611493!16s%2Fg%2F11gjrvm8dh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BHAGWATI+HOSPITAL/@22.4635262,70.0611493,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b7fc42a7037:0xe685b0d1082b1cef!8m2!3d22.4635262!4d70.0611493!16s%2Fg%2F11gjrvm8dh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1420,8 +1409,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BHAGWATI+HOSPITAL/@22.4635262,70.0611493,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b7fc42a7037:0xe685b0d1082b1cef!8m2!3d22.4635262!4d70.0611493!16s%2Fg%2F11gjrvm8dh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bliss-ivf-hospital-jamnagar",
@@ -1471,7 +1459,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BLISS+IVF+HOSPITAL/@22.4653256,70.0606575,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b00175777b7:0xc690ab4f5e4e864a!8m2!3d22.4653256!4d70.0606575!16s%2Fg%2F11x76mkfg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BLISS+IVF+HOSPITAL/@22.4653256,70.0606575,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b00175777b7:0xc690ab4f5e4e864a!8m2!3d22.4653256!4d70.0606575!16s%2Fg%2F11x76mkfg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1537,11 +1525,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BLISS+IVF+HOSPITAL/@22.4653256,70.0606575,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b00175777b7:0xc690ab4f5e4e864a!8m2!3d22.4653256!4d70.0606575!16s%2Fg%2F11x76mkfg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "candor-ivf-center-jamnagar-jamnagar",
@@ -1591,7 +1578,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Candor+IVF+Center+Jamnagar/@22.4659946,70.0607632,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0018a8f8e7:0x7c27ce346801662d!8m2!3d22.4659946!4d70.0607632!16s%2Fg%2F11lct47s4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Candor+IVF+Center+Jamnagar/@22.4659946,70.0607632,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0018a8f8e7:0x7c27ce346801662d!8m2!3d22.4659946!4d70.0607632!16s%2Fg%2F11lct47s4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1657,11 +1644,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Candor+IVF+Center+Jamnagar/@22.4659946,70.0607632,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0018a8f8e7:0x7c27ce346801662d!8m2!3d22.4659946!4d70.0607632!16s%2Fg%2F11lct47s4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "citysmile-dental-and-aesthetics-jamnagar",
@@ -1710,7 +1696,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CitySmile+Dental+%26+Aesthetics/@22.4872404,70.0531496,17z/data=!3m1!4b1!4m6!3m5!1s0x395741f6b6420db3:0x370d0296dee709c9!8m2!3d22.4872404!4d70.0531496!16s%2Fg%2F11vzfzyn9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CitySmile+Dental+%26+Aesthetics/@22.4872404,70.0531496,17z/data=!3m1!4b1!4m6!3m5!1s0x395741f6b6420db3:0x370d0296dee709c9!8m2!3d22.4872404!4d70.0531496!16s%2Fg%2F11vzfzyn9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1776,11 +1762,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CitySmile+Dental+%26+Aesthetics/@22.4872404,70.0531496,17z/data=!3m1!4b1!4m6!3m5!1s0x395741f6b6420db3:0x370d0296dee709c9!8m2!3d22.4872404!4d70.0531496!16s%2Fg%2F11vzfzyn9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "criti-surg-hospital-and-icu-jamnagar",
@@ -1829,7 +1814,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Criti+Surg+Hospital+%26+ICU/@22.4639336,70.0612647,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd62d2fab29:0xfe24d27ce5f7a7a9!8m2!3d22.4639336!4d70.0612647!16s%2Fg%2F11j8ggqq_w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Criti+Surg+Hospital+%26+ICU/@22.4639336,70.0612647,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd62d2fab29:0xfe24d27ce5f7a7a9!8m2!3d22.4639336!4d70.0612647!16s%2Fg%2F11j8ggqq_w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1898,8 +1883,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Criti+Surg+Hospital+%26+ICU/@22.4639336,70.0612647,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd62d2fab29:0xfe24d27ce5f7a7a9!8m2!3d22.4639336!4d70.0612647!16s%2Fg%2F11j8ggqq_w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "divine-hospital-jamnagar",
@@ -1947,7 +1931,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Divine+Hospital/@22.4748045,70.0916322,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0055ece18f:0xc7ef5e4a868a9729!8m2!3d22.4748045!4d70.0916322!16s%2Fg%2F11vs3g2t6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divine+Hospital/@22.4748045,70.0916322,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0055ece18f:0xc7ef5e4a868a9729!8m2!3d22.4748045!4d70.0916322!16s%2Fg%2F11vs3g2t6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2016,8 +2000,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Divine+Hospital/@22.4748045,70.0916322,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0055ece18f:0xc7ef5e4a868a9729!8m2!3d22.4748045!4d70.0916322!16s%2Fg%2F11vs3g2t6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "do-rupa-liya-hospital-jamnagar",
@@ -2065,7 +2048,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Do.+RUPA+LIYA+HOSPITAL/@22.4730788,70.0650941,17z/data=!3m1!4b1!4m6!3m5!1s0x39576abad6687c17:0x31d55fce41fecb50!8m2!3d22.4730788!4d70.0650941!16s%2Fg%2F11hc_zl2j5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Do.+RUPA+LIYA+HOSPITAL/@22.4730788,70.0650941,17z/data=!3m1!4b1!4m6!3m5!1s0x39576abad6687c17:0x31d55fce41fecb50!8m2!3d22.4730788!4d70.0650941!16s%2Fg%2F11hc_zl2j5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2134,8 +2117,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Do.+RUPA+LIYA+HOSPITAL/@22.4730788,70.0650941,17z/data=!3m1!4b1!4m6!3m5!1s0x39576abad6687c17:0x31d55fce41fecb50!8m2!3d22.4730788!4d70.0650941!16s%2Fg%2F11hc_zl2j5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dodia-hospital-jamnagar",
@@ -2183,7 +2165,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dodia+Hospital/@22.4629909,70.0619958,17z/data=!3m1!4b1!4m6!3m5!1s0x39576adbc84c1639:0xf412881208a41656!8m2!3d22.4629909!4d70.0619958!16s%2Fg%2F1v4prczm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dodia+Hospital/@22.4629909,70.0619958,17z/data=!3m1!4b1!4m6!3m5!1s0x39576adbc84c1639:0xf412881208a41656!8m2!3d22.4629909!4d70.0619958!16s%2Fg%2F1v4prczm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2252,8 +2234,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dodia+Hospital/@22.4629909,70.0619958,17z/data=!3m1!4b1!4m6!3m5!1s0x39576adbc84c1639:0xf412881208a41656!8m2!3d22.4629909!4d70.0619958!16s%2Fg%2F1v4prczm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dwarkesh-icu-and-trauma-cetner-jamnagar",
@@ -2301,7 +2282,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dwarkesh+ICU+and+Trauma+Cetner/@22.4619057,70.0651902,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b7d34dd7fc9:0x3b57075a36c66e66!8m2!3d22.4619057!4d70.0651902!16s%2Fg%2F11tj38qbmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dwarkesh+ICU+and+Trauma+Cetner/@22.4619057,70.0651902,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b7d34dd7fc9:0x3b57075a36c66e66!8m2!3d22.4619057!4d70.0651902!16s%2Fg%2F11tj38qbmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2370,8 +2351,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dwarkesh+ICU+and+Trauma+Cetner/@22.4619057,70.0651902,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b7d34dd7fc9:0x3b57075a36c66e66!8m2!3d22.4619057!4d70.0651902!16s%2Fg%2F11tj38qbmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "glow-asthetic-cosmetics-and-dental-clinic-jamnagar",
@@ -2419,7 +2399,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/glow+Asthetic,+cosmetics+and+dental+clinic/@22.4610102,70.0450049,17z/data=!3m1!4b1!4m6!3m5!1s0x39571527dee8699d:0xccc5395acea97a6!8m2!3d22.4610102!4d70.0450049!16s%2Fg%2F11nxpx_4g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/glow+Asthetic,+cosmetics+and+dental+clinic/@22.4610102,70.0450049,17z/data=!3m1!4b1!4m6!3m5!1s0x39571527dee8699d:0xccc5395acea97a6!8m2!3d22.4610102!4d70.0450049!16s%2Fg%2F11nxpx_4g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2488,8 +2468,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/glow+Asthetic,+cosmetics+and+dental+clinic/@22.4610102,70.0450049,17z/data=!3m1!4b1!4m6!3m5!1s0x39571527dee8699d:0xccc5395acea97a6!8m2!3d22.4610102!4d70.0450049!16s%2Fg%2F11nxpx_4g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "happy-dental-clinic-jamnagar",
@@ -2537,7 +2516,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Happy+Dental+Clinic/@22.4664367,70.0599162,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab730226bd1:0x5a075af8a5afc404!8m2!3d22.4664367!4d70.0599162!16s%2Fg%2F11hbl38_2b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Happy+Dental+Clinic/@22.4664367,70.0599162,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab730226bd1:0x5a075af8a5afc404!8m2!3d22.4664367!4d70.0599162!16s%2Fg%2F11hbl38_2b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2603,11 +2582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Happy+Dental+Clinic/@22.4664367,70.0599162,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab730226bd1:0x5a075af8a5afc404!8m2!3d22.4664367!4d70.0599162!16s%2Fg%2F11hbl38_2b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jagruti-maternity-hospital-jamnagar",
@@ -2656,7 +2634,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jagruti+Maternity+Hospital/@22.473188,70.061458,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac77b06aaab:0x6871785e3cf3412b!8m2!3d22.473188!4d70.061458!16s%2Fg%2F1vrq80t2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jagruti+Maternity+Hospital/@22.473188,70.061458,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac77b06aaab:0x6871785e3cf3412b!8m2!3d22.473188!4d70.061458!16s%2Fg%2F1vrq80t2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2725,8 +2703,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jagruti+Maternity+Hospital/@22.473188,70.061458,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac77b06aaab:0x6871785e3cf3412b!8m2!3d22.473188!4d70.061458!16s%2Fg%2F1vrq80t2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jamnagar-critical-care-hospital-jamnagar",
@@ -2775,7 +2752,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jamnagar+Critical+Care+Hospital/@22.4631018,70.0621419,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab7f48966dd:0x7032341c7e770fc7!8m2!3d22.4631018!4d70.0621419!16s%2Fg%2F11byyrp6yj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jamnagar+Critical+Care+Hospital/@22.4631018,70.0621419,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab7f48966dd:0x7032341c7e770fc7!8m2!3d22.4631018!4d70.0621419!16s%2Fg%2F11byyrp6yj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2844,8 +2821,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jamnagar+Critical+Care+Hospital/@22.4631018,70.0621419,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab7f48966dd:0x7032341c7e770fc7!8m2!3d22.4631018!4d70.0621419!16s%2Fg%2F11byyrp6yj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jamnagar-dental-care-centre-jamnagar",
@@ -2894,7 +2870,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jamnagar+Dental+Care+Centre/@22.4634927,70.0617031,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b42d7d73a05:0x7ce8faee0f07d036!8m2!3d22.4634927!4d70.0617031!16s%2Fg%2F11f789ps_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jamnagar+Dental+Care+Centre/@22.4634927,70.0617031,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b42d7d73a05:0x7ce8faee0f07d036!8m2!3d22.4634927!4d70.0617031!16s%2Fg%2F11f789ps_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2963,8 +2939,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jamnagar+Dental+Care+Centre/@22.4634927,70.0617031,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b42d7d73a05:0x7ce8faee0f07d036!8m2!3d22.4634927!4d70.0617031!16s%2Fg%2F11f789ps_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "janki-maternity-and-children-hospital-s-t-road",
@@ -3013,7 +2988,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Janki+Maternity+%26+Children+Hospital/@22.4654231,70.0607552,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bee37245dd1:0x61459a36313626ed!8m2!3d22.4654231!4d70.0607552!16s%2Fg%2F11f76zhxxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janki+Maternity+%26+Children+Hospital/@22.4654231,70.0607552,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bee37245dd1:0x61459a36313626ed!8m2!3d22.4654231!4d70.0607552!16s%2Fg%2F11f76zhxxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3082,8 +3057,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Janki+Maternity+%26+Children+Hospital/@22.4654231,70.0607552,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bee37245dd1:0x61459a36313626ed!8m2!3d22.4654231!4d70.0607552!16s%2Fg%2F11f76zhxxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jayu-hospital-jamnagar",
@@ -3131,7 +3105,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jayu+Hospital/@22.4730497,70.0639568,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aafc5555555:0x66da7890be6055d1!8m2!3d22.4730497!4d70.0639568!16s%2Fg%2F1v44cc3k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jayu+Hospital/@22.4730497,70.0639568,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aafc5555555:0x66da7890be6055d1!8m2!3d22.4730497!4d70.0639568!16s%2Fg%2F1v44cc3k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3200,8 +3174,7 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jayu+Hospital/@22.4730497,70.0639568,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aafc5555555:0x66da7890be6055d1!8m2!3d22.4730497!4d70.0639568!16s%2Fg%2F1v44cc3k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jcc-heart-institute-jamnagar",
@@ -3250,7 +3223,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JCC+Heart+Institute/@22.4625725,70.0618626,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bf459ab6ced:0x3a730fc34c6064ab!8m2!3d22.4625725!4d70.0618626!16s%2Fg%2F11vylzsjcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JCC+Heart+Institute/@22.4625725,70.0618626,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bf459ab6ced:0x3a730fc34c6064ab!8m2!3d22.4625725!4d70.0618626!16s%2Fg%2F11vylzsjcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3319,8 +3292,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JCC+Heart+Institute/@22.4625725,70.0618626,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bf459ab6ced:0x3a730fc34c6064ab!8m2!3d22.4625725!4d70.0618626!16s%2Fg%2F11vylzsjcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jigs-neu-grow-hospital-jamnagar",
@@ -3368,7 +3340,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jigs%E2%80%99+Neu-Grow+Hospital/@22.4731462,70.0652679,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0x16127e4138abfc56!8m2!3d22.4731462!4d70.0652679!16s%2Fg%2F1tdpq17n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jigs%E2%80%99+Neu-Grow+Hospital/@22.4731462,70.0652679,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0x16127e4138abfc56!8m2!3d22.4731462!4d70.0652679!16s%2Fg%2F1tdpq17n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3437,8 +3409,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jigs%E2%80%99+Neu-Grow+Hospital/@22.4731462,70.0652679,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0x16127e4138abfc56!8m2!3d22.4731462!4d70.0652679!16s%2Fg%2F1tdpq17n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jivandeep-hospital-and-polyclinic-jamnagar",
@@ -3487,7 +3458,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jivandeep+Hospital+And+Polyclinic/@22.4732213,70.0666647,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0x29366f969d8f60af!8m2!3d22.4732213!4d70.0666647!16s%2Fg%2F1tdnjj0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jivandeep+Hospital+And+Polyclinic/@22.4732213,70.0666647,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0x29366f969d8f60af!8m2!3d22.4732213!4d70.0666647!16s%2Fg%2F1tdnjj0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3556,8 +3527,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jivandeep+Hospital+And+Polyclinic/@22.4732213,70.0666647,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0x29366f969d8f60af!8m2!3d22.4732213!4d70.0666647!16s%2Fg%2F1tdnjj0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jiya-skin-care-clinic-jamnagar",
@@ -3606,7 +3576,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jiya+Skin+Care+Clinic/@22.4632217,70.0619794,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bbe9a1d592b:0x9f64c2b6ca215557!8m2!3d22.4632217!4d70.0619794!16s%2Fg%2F11w373smph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jiya+Skin+Care+Clinic/@22.4632217,70.0619794,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bbe9a1d592b:0x9f64c2b6ca215557!8m2!3d22.4632217!4d70.0619794!16s%2Fg%2F11w373smph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3675,8 +3645,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jiya+Skin+Care+Clinic/@22.4632217,70.0619794,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bbe9a1d592b:0x9f64c2b6ca215557!8m2!3d22.4632217!4d70.0619794!16s%2Fg%2F11w373smph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kavya-dental-clinic-jamnagar",
@@ -3724,7 +3693,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kavya+Dental+Clinic/@22.4356608,70.0655133,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b610e55e79f:0x13dfa34cce0e5fb8!8m2!3d22.4356608!4d70.0655133!16s%2Fg%2F11h0jcnkld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kavya+Dental+Clinic/@22.4356608,70.0655133,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b610e55e79f:0x13dfa34cce0e5fb8!8m2!3d22.4356608!4d70.0655133!16s%2Fg%2F11h0jcnkld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3790,11 +3759,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kavya+Dental+Clinic/@22.4356608,70.0655133,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b610e55e79f:0x13dfa34cce0e5fb8!8m2!3d22.4356608!4d70.0655133!16s%2Fg%2F11h0jcnkld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kk-women-s-and-children-s-hospital-infertility-and-ivf-center-jamnagar",
@@ -3844,7 +3812,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kk+women's+and+children's+hospital+-+Infertility+%26+IVF+center/@22.4331793,70.0658176,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b2710f9a105:0x230ca7cf76021357!8m2!3d22.4331793!4d70.0658176!16s%2Fg%2F11t5jc01hw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kk+women's+and+children's+hospital+-+Infertility+%26+IVF+center/@22.4331793,70.0658176,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b2710f9a105:0x230ca7cf76021357!8m2!3d22.4331793!4d70.0658176!16s%2Fg%2F11t5jc01hw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3913,8 +3881,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kk+women's+and+children's+hospital+-+Infertility+%26+IVF+center/@22.4331793,70.0658176,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b2710f9a105:0x230ca7cf76021357!8m2!3d22.4331793!4d70.0658176!16s%2Fg%2F11t5jc01hw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-dental-clinic-jamnagar",
@@ -3962,7 +3929,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Dental+Clinic/@22.470376,70.0480342,17z/data=!3m1!4b1!4m6!3m5!1s0x39571552c5555521:0x7d53e2d282ac6fc0!8m2!3d22.470376!4d70.0480342!16s%2Fg%2F11b66j1r9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Dental+Clinic/@22.470376,70.0480342,17z/data=!3m1!4b1!4m6!3m5!1s0x39571552c5555521:0x7d53e2d282ac6fc0!8m2!3d22.470376!4d70.0480342!16s%2Fg%2F11b66j1r9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4031,8 +3998,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Dental+Clinic/@22.470376,70.0480342,17z/data=!3m1!4b1!4m6!3m5!1s0x39571552c5555521:0x7d53e2d282ac6fc0!8m2!3d22.470376!4d70.0480342!16s%2Fg%2F11b66j1r9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-hospital-jamnagar",
@@ -4080,7 +4046,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Hospital/@22.4481461,70.0434925,17z/data=!3m1!4b1!4m6!3m5!1s0x39571531e321d033:0xf7fa33a11ee0f981!8m2!3d22.4481461!4d70.0434925!16s%2Fg%2F11f4_6g8w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital/@22.4481461,70.0434925,17z/data=!3m1!4b1!4m6!3m5!1s0x39571531e321d033:0xf7fa33a11ee0f981!8m2!3d22.4481461!4d70.0434925!16s%2Fg%2F11f4_6g8w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4149,8 +4115,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Hospital/@22.4481461,70.0434925,17z/data=!3m1!4b1!4m6!3m5!1s0x39571531e321d033:0xf7fa33a11ee0f981!8m2!3d22.4481461!4d70.0434925!16s%2Fg%2F11f4_6g8w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kuber-dental-clinic-jamnagar",
@@ -4198,7 +4163,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kuber+Dental+Clinic/@22.4754573,70.0660348,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aa4eee32a67:0xdbafeb0a1520d6fa!8m2!3d22.4754573!4d70.0660348!16s%2Fg%2F11ggfmrt8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kuber+Dental+Clinic/@22.4754573,70.0660348,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aa4eee32a67:0xdbafeb0a1520d6fa!8m2!3d22.4754573!4d70.0660348!16s%2Fg%2F11ggfmrt8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4264,11 +4229,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kuber+Dental+Clinic/@22.4754573,70.0660348,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aa4eee32a67:0xdbafeb0a1520d6fa!8m2!3d22.4754573!4d70.0660348!16s%2Fg%2F11ggfmrt8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhav-dental-jamnagar",
@@ -4318,7 +4282,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Madhav+Dental/@22.4711347,70.0657427,17z/data=!3m1!4b1!4m6!3m5!1s0x3959ca1278f4820b:0x6fc10721d83cdd49!8m2!3d22.4711347!4d70.0657427!16s%2Fg%2F1tcv98m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhav+Dental/@22.4711347,70.0657427,17z/data=!3m1!4b1!4m6!3m5!1s0x3959ca1278f4820b:0x6fc10721d83cdd49!8m2!3d22.4711347!4d70.0657427!16s%2Fg%2F1tcv98m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4384,11 +4348,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Madhav+Dental/@22.4711347,70.0657427,17z/data=!3m1!4b1!4m6!3m5!1s0x3959ca1278f4820b:0x6fc10721d83cdd49!8m2!3d22.4711347!4d70.0657427!16s%2Fg%2F1tcv98m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhav-hospital-jamnagar",
@@ -4436,7 +4399,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Madhav+Hospital/@22.4665179,70.0771092,12z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xbb62d31c405a0d71!8m2!3d22.4665179!4d70.0771092!16s%2Fg%2F1tdjpjzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhav+Hospital/@22.4665179,70.0771092,12z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xbb62d31c405a0d71!8m2!3d22.4665179!4d70.0771092!16s%2Fg%2F1tdjpjzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4505,8 +4468,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Madhav+Hospital/@22.4665179,70.0771092,12z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xbb62d31c405a0d71!8m2!3d22.4665179!4d70.0771092!16s%2Fg%2F1tdjpjzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "makwana-dental-clinic-besides-dr-suresh-thaker-hospital-amber-cinema-road",
@@ -4554,7 +4516,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Makwana+Dental+Clinic/@22.4747391,70.0664921,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aa4c6ce4083:0x28e3b70c56e7c687!8m2!3d22.4747391!4d70.0664921!16s%2Fg%2F11hcnlb72x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Makwana+Dental+Clinic/@22.4747391,70.0664921,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aa4c6ce4083:0x28e3b70c56e7c687!8m2!3d22.4747391!4d70.0664921!16s%2Fg%2F11hcnlb72x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4623,8 +4585,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Makwana+Dental+Clinic/@22.4747391,70.0664921,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aa4c6ce4083:0x28e3b70c56e7c687!8m2!3d22.4747391!4d70.0664921!16s%2Fg%2F11hcnlb72x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meghdhara-ayurved-hospital-jamnagar",
@@ -4673,7 +4634,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Meghdhara+Ayurved+Hospital/@22.4692633,70.0419922,17z/data=!3m1!4b1!4m6!3m5!1s0x3957154e37e72ed5:0xe0c1d7c1b3d3384!8m2!3d22.4692633!4d70.0419922!16s%2Fg%2F11cs6kg12g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meghdhara+Ayurved+Hospital/@22.4692633,70.0419922,17z/data=!3m1!4b1!4m6!3m5!1s0x3957154e37e72ed5:0xe0c1d7c1b3d3384!8m2!3d22.4692633!4d70.0419922!16s%2Fg%2F11cs6kg12g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4742,8 +4703,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Meghdhara+Ayurved+Hospital/@22.4692633,70.0419922,17z/data=!3m1!4b1!4m6!3m5!1s0x3957154e37e72ed5:0xe0c1d7c1b3d3384!8m2!3d22.4692633!4d70.0419922!16s%2Fg%2F11cs6kg12g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mehta-dental-xperts-best-dental-clinic-in-jamnagar-jamnagar",
@@ -4792,7 +4752,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MEHTA+DENTAL+XPERTS+-+BEST+DENTAL+CLINIC+IN+JAMNAGAR/@22.4742343,70.0678157,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bf2902606ad:0xe2dbd7bdeeb42fb3!8m2!3d22.4742343!4d70.0678157!16s%2Fg%2F11krfx3hlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEHTA+DENTAL+XPERTS+-+BEST+DENTAL+CLINIC+IN+JAMNAGAR/@22.4742343,70.0678157,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bf2902606ad:0xe2dbd7bdeeb42fb3!8m2!3d22.4742343!4d70.0678157!16s%2Fg%2F11krfx3hlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4861,8 +4821,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MEHTA+DENTAL+XPERTS+-+BEST+DENTAL+CLINIC+IN+JAMNAGAR/@22.4742343,70.0678157,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bf2902606ad:0xe2dbd7bdeeb42fb3!8m2!3d22.4742343!4d70.0678157!16s%2Fg%2F11krfx3hlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "murlidhar-dental-clinic-and-endodontic-center-dr-ankur-mds-root-canal-treatment-rct-specialist-jamnagar",
@@ -4910,7 +4869,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Murlidhar+Dental+Clinic+And+Endodontic+Center(Dr+Ankur+MDS+root+canal+treatment+(RCT)+specialist)/@22.4733949,70.0648911,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bb1f70da3fd:0xa4f72bb2350e0129!8m2!3d22.4733949!4d70.0648911!16s%2Fg%2F11p0f9y86n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Murlidhar+Dental+Clinic+And+Endodontic+Center(Dr+Ankur+MDS+root+canal+treatment+(RCT)+specialist)/@22.4733949,70.0648911,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bb1f70da3fd:0xa4f72bb2350e0129!8m2!3d22.4733949!4d70.0648911!16s%2Fg%2F11p0f9y86n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4976,11 +4935,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Murlidhar+Dental+Clinic+And+Endodontic+Center(Dr+Ankur+MDS+root+canal+treatment+(RCT)+specialist)/@22.4733949,70.0648911,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bb1f70da3fd:0xa4f72bb2350e0129!8m2!3d22.4733949!4d70.0648911!16s%2Fg%2F11p0f9y86n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirmal-clinic-best-ayurvedic-panchakarma-clinic-jamnagar",
@@ -5028,7 +4986,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NIRMAL+CLINIC+-+BEST+AYURVEDIC+PANCHAKARMA+CLINIC/@22.4848709,70.0592376,17z/data=!3m1!4b1!4m6!3m5!1s0x3957400287ff0837:0xe8e4aef915b84240!8m2!3d22.4848709!4d70.0592376!16s%2Fg%2F11c5sg8h48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIRMAL+CLINIC+-+BEST+AYURVEDIC+PANCHAKARMA+CLINIC/@22.4848709,70.0592376,17z/data=!3m1!4b1!4m6!3m5!1s0x3957400287ff0837:0xe8e4aef915b84240!8m2!3d22.4848709!4d70.0592376!16s%2Fg%2F11c5sg8h48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5097,8 +5055,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NIRMAL+CLINIC+-+BEST+AYURVEDIC+PANCHAKARMA+CLINIC/@22.4848709,70.0592376,17z/data=!3m1!4b1!4m6!3m5!1s0x3957400287ff0837:0xe8e4aef915b84240!8m2!3d22.4848709!4d70.0592376!16s%2Fg%2F11c5sg8h48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nova-ivf-fertility-clinic-best-ivf-centre-and-fertility-clinic-in-jamnagar-jamnagar",
@@ -5147,7 +5104,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Clinic+-+Best+IVF+Centre+%26+Fertility+Clinic+in+Jamnagar/@22.4745838,70.0676204,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd486b72ed9:0x49ba471f873a03dd!8m2!3d22.4745838!4d70.0676204!16s%2Fg%2F11z2lkq4f_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Clinic+-+Best+IVF+Centre+%26+Fertility+Clinic+in+Jamnagar/@22.4745838,70.0676204,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd486b72ed9:0x49ba471f873a03dd!8m2!3d22.4745838!4d70.0676204!16s%2Fg%2F11z2lkq4f_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5213,11 +5170,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Clinic+-+Best+IVF+Centre+%26+Fertility+Clinic+in+Jamnagar/@22.4745838,70.0676204,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd486b72ed9:0x49ba471f873a03dd!8m2!3d22.4745838!4d70.0676204!16s%2Fg%2F11z2lkq4f_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nuface-dental-and-maxillofacial-centre-jamnagar",
@@ -5267,7 +5223,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NuFace+Dental+and+Maxillofacial+Centre/@22.465371,70.0602694,17z/data=!3m1!4b1!4m6!3m5!1s0x2d822e9de262d89b:0xe9cfa0b6164d84b5!8m2!3d22.465371!4d70.0602694!16s%2Fg%2F11y9b7cfxb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NuFace+Dental+and+Maxillofacial+Centre/@22.465371,70.0602694,17z/data=!3m1!4b1!4m6!3m5!1s0x2d822e9de262d89b:0xe9cfa0b6164d84b5!8m2!3d22.465371!4d70.0602694!16s%2Fg%2F11y9b7cfxb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5333,11 +5289,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NuFace+Dental+and+Maxillofacial+Centre/@22.465371,70.0602694,17z/data=!3m1!4b1!4m6!3m5!1s0x2d822e9de262d89b:0xe9cfa0b6164d84b5!8m2!3d22.465371!4d70.0602694!16s%2Fg%2F11y9b7cfxb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nuface-dental-and-maxillofacial-centre-jamnagar",
@@ -5387,7 +5342,7 @@
       "Google rating 1.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NuFace+Dental+and+Maxillofacial+Centre/@22.4653992,70.0607176,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0038d3583d:0xff56b1324e37ccdc!8m2!3d22.4653992!4d70.0607176!16s%2Fg%2F11wnmqwq2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NuFace+Dental+and+Maxillofacial+Centre/@22.4653992,70.0607176,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0038d3583d:0xff56b1324e37ccdc!8m2!3d22.4653992!4d70.0607176!16s%2Fg%2F11wnmqwq2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5453,11 +5408,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NuFace+Dental+and+Maxillofacial+Centre/@22.4653992,70.0607176,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0038d3583d:0xff56b1324e37ccdc!8m2!3d22.4653992!4d70.0607176!16s%2Fg%2F11wnmqwq2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-clinic-jamnagar",
@@ -5506,7 +5460,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Om+Clinic/data=!4m7!3m6!1s0x39576aafe41b1729:0x6097203c4a12ba08!8m2!3d22.473754!4d70.0619469!16s%2Fg%2F11g8szwtg5!19sChIJKRcb5K9qVzkRCLoSSjwgl2A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Clinic/data=!4m7!3m6!1s0x39576aafe41b1729:0x6097203c4a12ba08!8m2!3d22.473754!4d70.0619469!16s%2Fg%2F11g8szwtg5!19sChIJKRcb5K9qVzkRCLoSSjwgl2A?authuser=0&hl=en&rclk=1"
@@ -5575,8 +5529,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Om+Clinic/data=!4m7!3m6!1s0x39576aafe41b1729:0x6097203c4a12ba08!8m2!3d22.473754!4d70.0619469!16s%2Fg%2F11g8szwtg5!19sChIJKRcb5K9qVzkRCLoSSjwgl2A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-dental-clinic-jamnagar",
@@ -5624,7 +5577,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Om+dental+clinic/@22.4803867,70.0305479,17z/data=!3m1!4b1!4m6!3m5!1s0x3957150db3c78623:0x376afbb53a107b37!8m2!3d22.4803867!4d70.0305479!16s%2Fg%2F11sv1w0k5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+dental+clinic/@22.4803867,70.0305479,17z/data=!3m1!4b1!4m6!3m5!1s0x3957150db3c78623:0x376afbb53a107b37!8m2!3d22.4803867!4d70.0305479!16s%2Fg%2F11sv1w0k5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5690,11 +5643,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Om+dental+clinic/@22.4803867,70.0305479,17z/data=!3m1!4b1!4m6!3m5!1s0x3957150db3c78623:0x376afbb53a107b37!8m2!3d22.4803867!4d70.0305479!16s%2Fg%2F11sv1w0k5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oswal-aayush-hospital-jamnagar",
@@ -5743,7 +5695,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oswal+Aayush+Hospital/@22.4614918,70.0654425,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd3a88cce57:0xb85fd4303573ddc7!8m2!3d22.4614918!4d70.0654425!16s%2Fg%2F11md54n65v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oswal+Aayush+Hospital/@22.4614918,70.0654425,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd3a88cce57:0xb85fd4303573ddc7!8m2!3d22.4614918!4d70.0654425!16s%2Fg%2F11md54n65v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5812,8 +5764,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oswal+Aayush+Hospital/@22.4614918,70.0654425,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd3a88cce57:0xb85fd4303573ddc7!8m2!3d22.4614918!4d70.0654425!16s%2Fg%2F11md54n65v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pabari-neuro-psychiatry-hospital-and-de-addiction-centre-jamnagar",
@@ -5862,7 +5813,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pabari+Neuro-Psychiatry+Hospital+and+De-Addiction+Centre/@22.4623969,70.0655646,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b352c7a8f47:0x7773707f75ed0c94!8m2!3d22.4623969!4d70.0655646!16s%2Fg%2F11v0p76hj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pabari+Neuro-Psychiatry+Hospital+and+De-Addiction+Centre/@22.4623969,70.0655646,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b352c7a8f47:0x7773707f75ed0c94!8m2!3d22.4623969!4d70.0655646!16s%2Fg%2F11v0p76hj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5931,8 +5882,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pabari+Neuro-Psychiatry+Hospital+and+De-Addiction+Centre/@22.4623969,70.0655646,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b352c7a8f47:0x7773707f75ed0c94!8m2!3d22.4623969!4d70.0655646!16s%2Fg%2F11v0p76hj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parishram-oral-maxillofacial-and-dental-hospital-jamnagar",
@@ -5982,7 +5932,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Parishram+oral+maxillofacial+%26+Dental+Hospital/@22.4641687,70.0614682,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b9cd9d36c1b:0xecb8fcfea9c59cf5!8m2!3d22.4641687!4d70.0614682!16s%2Fg%2F11rdnyp_51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parishram+oral+maxillofacial+%26+Dental+Hospital/@22.4641687,70.0614682,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b9cd9d36c1b:0xecb8fcfea9c59cf5!8m2!3d22.4641687!4d70.0614682!16s%2Fg%2F11rdnyp_51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6051,8 +6001,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Parishram+oral+maxillofacial+%26+Dental+Hospital/@22.4641687,70.0614682,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b9cd9d36c1b:0xecb8fcfea9c59cf5!8m2!3d22.4641687!4d70.0614682!16s%2Fg%2F11rdnyp_51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "perfect-dental-jamnagar",
@@ -6102,7 +6051,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Perfect+Dental/@22.4660082,70.0599466,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0dd6dca759:0xea5a09db0f8e23bb!8m2!3d22.4660082!4d70.0599466!16s%2Fg%2F11h7kw8ygh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Perfect+Dental/@22.4660082,70.0599466,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0dd6dca759:0xea5a09db0f8e23bb!8m2!3d22.4660082!4d70.0599466!16s%2Fg%2F11h7kw8ygh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6171,8 +6120,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Perfect+Dental/@22.4660082,70.0599466,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0dd6dca759:0xea5a09db0f8e23bb!8m2!3d22.4660082!4d70.0599466!16s%2Fg%2F11h7kw8ygh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prarthana-hospital-jamnagar",
@@ -6221,7 +6169,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prarthana+Hospital/@22.4610671,70.0696916,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b395b57e8c3:0x91ec2fa905e43d91!8m2!3d22.4610671!4d70.0696916!16s%2Fg%2F11sd0dbyhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prarthana+Hospital/@22.4610671,70.0696916,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b395b57e8c3:0x91ec2fa905e43d91!8m2!3d22.4610671!4d70.0696916!16s%2Fg%2F11sd0dbyhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6290,8 +6238,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prarthana+Hospital/@22.4610671,70.0696916,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b395b57e8c3:0x91ec2fa905e43d91!8m2!3d22.4610671!4d70.0696916!16s%2Fg%2F11sd0dbyhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rathi-hospital-jamnagar",
@@ -6339,7 +6286,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rathi+HOSPITAL/@22.4643085,70.0613947,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b7807d6233d:0x626dea8e960318a9!8m2!3d22.4643085!4d70.0613947!16s%2Fg%2F11wmjc9yxt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rathi+HOSPITAL/@22.4643085,70.0613947,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b7807d6233d:0x626dea8e960318a9!8m2!3d22.4643085!4d70.0613947!16s%2Fg%2F11wmjc9yxt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6405,11 +6352,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rathi+HOSPITAL/@22.4643085,70.0613947,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b7807d6233d:0x626dea8e960318a9!8m2!3d22.4643085!4d70.0613947!16s%2Fg%2F11wmjc9yxt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ravi-dental-clinic-jamnagar",
@@ -6457,7 +6403,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RAVI+DENTAL+CLINIC/@22.4710336,70.0480511,17z/data=!3m1!4b1!4m6!3m5!1s0x6738fa38b5c852a3:0x1a0ebfc54a2a5706!8m2!3d22.4710336!4d70.0480511!16s%2Fg%2F11lf8xm7my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAVI+DENTAL+CLINIC/@22.4710336,70.0480511,17z/data=!3m1!4b1!4m6!3m5!1s0x6738fa38b5c852a3:0x1a0ebfc54a2a5706!8m2!3d22.4710336!4d70.0480511!16s%2Fg%2F11lf8xm7my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6526,8 +6472,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RAVI+DENTAL+CLINIC/@22.4710336,70.0480511,17z/data=!3m1!4b1!4m6!3m5!1s0x6738fa38b5c852a3:0x1a0ebfc54a2a5706!8m2!3d22.4710336!4d70.0480511!16s%2Fg%2F11lf8xm7my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "reform-maxillofacial-center-and-dental-clinic-shop-no-3-ground-floor-falia-surgical-hospital",
@@ -6576,7 +6521,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/REFORM+Maxillofacial+center+and+dental+clinic/@22.4673168,70.0777133,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab87e573adb:0xe66dbd0d4133fa2b!8m2!3d22.4673168!4d70.0777133!16s%2Fg%2F11gfh_r587?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/REFORM+Maxillofacial+center+and+dental+clinic/@22.4673168,70.0777133,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab87e573adb:0xe66dbd0d4133fa2b!8m2!3d22.4673168!4d70.0777133!16s%2Fg%2F11gfh_r587?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6642,11 +6587,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/REFORM+Maxillofacial+center+and+dental+clinic/@22.4673168,70.0777133,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab87e573adb:0xe66dbd0d4133fa2b!8m2!3d22.4673168!4d70.0777133!16s%2Fg%2F11gfh_r587?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rudram-dental-clinic-and-implant-center-jamnagar",
@@ -6695,7 +6639,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rudram+Dental+Clinic+and+Implant+Center/@22.473964,70.0675345,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b44b38b1b5d:0x9a749ba3abe7313e!8m2!3d22.473964!4d70.0675345!16s%2Fg%2F11mxd1r4mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rudram+Dental+Clinic+and+Implant+Center/@22.473964,70.0675345,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b44b38b1b5d:0x9a749ba3abe7313e!8m2!3d22.473964!4d70.0675345!16s%2Fg%2F11mxd1r4mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6761,11 +6705,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rudram+Dental+Clinic+and+Implant+Center/@22.473964,70.0675345,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b44b38b1b5d:0x9a749ba3abe7313e!8m2!3d22.473964!4d70.0675345!16s%2Fg%2F11mxd1r4mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ruparelia-dental-clinic-and-implant-centre-dentist-in-jamnagar-jamnagar",
@@ -6815,7 +6758,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ruparelia+Dental+Clinic+%26+Implant+Centre+%7C+Dentist+in+Jamnagar/@22.4813602,70.0602326,17z/data=!3m1!4b1!4m6!3m5!1s0x3957405aaaaaaaab:0xb6857863b833d275!8m2!3d22.4813602!4d70.0602326!16s%2Fg%2F11kh_243_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ruparelia+Dental+Clinic+%26+Implant+Centre+%7C+Dentist+in+Jamnagar/@22.4813602,70.0602326,17z/data=!3m1!4b1!4m6!3m5!1s0x3957405aaaaaaaab:0xb6857863b833d275!8m2!3d22.4813602!4d70.0602326!16s%2Fg%2F11kh_243_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6884,8 +6827,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ruparelia+Dental+Clinic+%26+Implant+Centre+%7C+Dentist+in+Jamnagar/@22.4813602,70.0602326,17z/data=!3m1!4b1!4m6!3m5!1s0x3957405aaaaaaaab:0xb6857863b833d275!8m2!3d22.4813602!4d70.0602326!16s%2Fg%2F11kh_243_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sadbhavna-hospital-jamnagar",
@@ -6933,7 +6875,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sadbhavna+Hospital/@22.4047992,70.0554994,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b47116074c3:0x7396034d8613ed15!8m2!3d22.4047992!4d70.0554994!16s%2Fg%2F11sx35xsz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadbhavna+Hospital/@22.4047992,70.0554994,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b47116074c3:0x7396034d8613ed15!8m2!3d22.4047992!4d70.0554994!16s%2Fg%2F11sx35xsz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6999,11 +6941,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sadbhavna+Hospital/@22.4047992,70.0554994,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b47116074c3:0x7396034d8613ed15!8m2!3d22.4047992!4d70.0554994!16s%2Fg%2F11sx35xsz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sahayog-speciality-hospital-and-neuro-rehab-center-jamnagar",
@@ -7053,7 +6994,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sahayog+Speciality+Hospital+and+Neuro-+Rehab+center/@22.4709904,70.0656231,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xed5ce43832bc5ae!8m2!3d22.4709904!4d70.0656231!16s%2Fg%2F1thq87s2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahayog+Speciality+Hospital+and+Neuro-+Rehab+center/@22.4709904,70.0656231,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xed5ce43832bc5ae!8m2!3d22.4709904!4d70.0656231!16s%2Fg%2F1thq87s2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7122,8 +7063,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sahayog+Speciality+Hospital+and+Neuro-+Rehab+center/@22.4709904,70.0656231,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xed5ce43832bc5ae!8m2!3d22.4709904!4d70.0656231!16s%2Fg%2F1thq87s2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sahkar-children-hospital-jamnagar",
@@ -7172,7 +7112,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sahkar+Children+Hospital/@22.4657331,70.0601966,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab6bfffffff:0x1216d3a408385442!8m2!3d22.4657331!4d70.0601966!16s%2Fg%2F1thcl4w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahkar+Children+Hospital/@22.4657331,70.0601966,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab6bfffffff:0x1216d3a408385442!8m2!3d22.4657331!4d70.0601966!16s%2Fg%2F1thcl4w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7241,8 +7181,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sahkar+Children+Hospital/@22.4657331,70.0601966,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab6bfffffff:0x1216d3a408385442!8m2!3d22.4657331!4d70.0601966!16s%2Fg%2F1thcl4w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sama-hospital-jamnagar-jamnagar",
@@ -7290,7 +7229,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sama+Hospital+jamnagar/@22.4582131,70.0665937,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac695b6aa13:0xcbaba7a798df7fb5!8m2!3d22.4582131!4d70.0665937!16s%2Fg%2F11c3vfpwhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sama+Hospital+jamnagar/@22.4582131,70.0665937,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac695b6aa13:0xcbaba7a798df7fb5!8m2!3d22.4582131!4d70.0665937!16s%2Fg%2F11c3vfpwhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7359,8 +7298,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sama+Hospital+jamnagar/@22.4582131,70.0665937,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac695b6aa13:0xcbaba7a798df7fb5!8m2!3d22.4582131!4d70.0665937!16s%2Fg%2F11c3vfpwhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samarpan-general-hospital-jamnagar",
@@ -7408,7 +7346,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samarpan+General+Hospital/@22.4587532,70.0349018,17z/data=!3m1!4b1!4m6!3m5!1s0x39571547735fea39:0x9bd5c10d15f54841!8m2!3d22.4587532!4d70.0349018!16s%2Fg%2F11c0r59hxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarpan+General+Hospital/@22.4587532,70.0349018,17z/data=!3m1!4b1!4m6!3m5!1s0x39571547735fea39:0x9bd5c10d15f54841!8m2!3d22.4587532!4d70.0349018!16s%2Fg%2F11c0r59hxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7477,8 +7415,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samarpan+General+Hospital/@22.4587532,70.0349018,17z/data=!3m1!4b1!4m6!3m5!1s0x39571547735fea39:0x9bd5c10d15f54841!8m2!3d22.4587532!4d70.0349018!16s%2Fg%2F11c0r59hxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samarth-children-and-dental-hospital-jamnagar",
@@ -7528,7 +7465,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samarth+Children+%26+Dental+Hospital/@22.4658524,70.06082,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b2b15094779:0x852a56448d3d568b!8m2!3d22.4658524!4d70.06082!16s%2Fg%2F11h4dlb4fp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarth+Children+%26+Dental+Hospital/@22.4658524,70.06082,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b2b15094779:0x852a56448d3d568b!8m2!3d22.4658524!4d70.06082!16s%2Fg%2F11h4dlb4fp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7597,8 +7534,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samarth+Children+%26+Dental+Hospital/@22.4658524,70.06082,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b2b15094779:0x852a56448d3d568b!8m2!3d22.4658524!4d70.06082!16s%2Fg%2F11h4dlb4fp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samarth-ivf-jamnagar-ivf-iui-lah-test-tube-baby-centre-jamnagar",
@@ -7648,7 +7584,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samarth+IVF+Jamnagar+%7C+IVF,+IUI,+LAH,+Test+Tube+Baby+Centre/@22.4754875,70.0662238,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b8ab59f7ca3:0x61b75d6eb2b10678!8m2!3d22.4754875!4d70.0662238!16s%2Fg%2F11wqbpcvgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarth+IVF+Jamnagar+%7C+IVF,+IUI,+LAH,+Test+Tube+Baby+Centre/@22.4754875,70.0662238,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b8ab59f7ca3:0x61b75d6eb2b10678!8m2!3d22.4754875!4d70.0662238!16s%2Fg%2F11wqbpcvgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7717,8 +7653,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samarth+IVF+Jamnagar+%7C+IVF,+IUI,+LAH,+Test+Tube+Baby+Centre/@22.4754875,70.0662238,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b8ab59f7ca3:0x61b75d6eb2b10678!8m2!3d22.4754875!4d70.0662238!16s%2Fg%2F11wqbpcvgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sankalp-hospital-jamnagar",
@@ -7766,7 +7701,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sankalp+Hospital/@22.4696493,70.0698226,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xfc0711ee5a14ed8c!8m2!3d22.4696493!4d70.0698226!16s%2Fg%2F1tj94ts7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sankalp+Hospital/@22.4696493,70.0698226,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xfc0711ee5a14ed8c!8m2!3d22.4696493!4d70.0698226!16s%2Fg%2F1tj94ts7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7835,8 +7770,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sankalp+Hospital/@22.4696493,70.0698226,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xfc0711ee5a14ed8c!8m2!3d22.4696493!4d70.0698226!16s%2Fg%2F1tj94ts7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satyam-hospital-jamnagar",
@@ -7884,7 +7818,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Satyam+Hospital/@22.4625725,70.0618626,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab81ebe5f3b:0x8eb7ad496de1ecf1!8m2!3d22.4625725!4d70.0618626!16s%2Fg%2F11gfdffkmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyam+Hospital/@22.4625725,70.0618626,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab81ebe5f3b:0x8eb7ad496de1ecf1!8m2!3d22.4625725!4d70.0618626!16s%2Fg%2F11gfdffkmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7953,8 +7887,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Satyam+Hospital/@22.4625725,70.0618626,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab81ebe5f3b:0x8eb7ad496de1ecf1!8m2!3d22.4625725!4d70.0618626!16s%2Fg%2F11gfdffkmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shah-clinic-jamnagar",
@@ -8002,7 +7935,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shah+Clinic/@22.4611151,70.0630023,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac7e5555555:0xee6e8a2e648886fd!8m2!3d22.4611151!4d70.0630023!16s%2Fg%2F1th0l8q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shah+Clinic/@22.4611151,70.0630023,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac7e5555555:0xee6e8a2e648886fd!8m2!3d22.4611151!4d70.0630023!16s%2Fg%2F1th0l8q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8068,11 +8001,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shah+Clinic/@22.4611151,70.0630023,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac7e5555555:0xee6e8a2e648886fd!8m2!3d22.4611151!4d70.0630023!16s%2Fg%2F1th0l8q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharda-dental-clinic-jamnagar",
@@ -8120,7 +8052,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharda+Dental+Clinic/@22.4458002,70.0437911,17z/data=!3m1!4b1!4m6!3m5!1s0x395715619feb064b:0x1ccb1fb6252bb304!8m2!3d22.4458002!4d70.0437911!16s%2Fg%2F11q8vfn0_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharda+Dental+Clinic/@22.4458002,70.0437911,17z/data=!3m1!4b1!4m6!3m5!1s0x395715619feb064b:0x1ccb1fb6252bb304!8m2!3d22.4458002!4d70.0437911!16s%2Fg%2F11q8vfn0_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8189,8 +8121,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharda+Dental+Clinic/@22.4458002,70.0437911,17z/data=!3m1!4b1!4m6!3m5!1s0x395715619feb064b:0x1ccb1fb6252bb304!8m2!3d22.4458002!4d70.0437911!16s%2Fg%2F11q8vfn0_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shashwat-dental-care-jamnagar",
@@ -8238,7 +8169,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shashwat+Dental+care/@22.4642634,70.0519334,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bddef02f1bd:0x36204e78a49ded13!8m2!3d22.4642634!4d70.0519334!16s%2Fg%2F11ts48z3xv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shashwat+Dental+care/@22.4642634,70.0519334,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bddef02f1bd:0x36204e78a49ded13!8m2!3d22.4642634!4d70.0519334!16s%2Fg%2F11ts48z3xv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8304,11 +8235,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shashwat+Dental+care/@22.4642634,70.0519334,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bddef02f1bd:0x36204e78a49ded13!8m2!3d22.4642634!4d70.0519334!16s%2Fg%2F11ts48z3xv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shashwat-hospitals-jamnagar-jamnagar",
@@ -8357,7 +8287,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shashwat+Hospitals+Jamnagar/@22.4454891,70.0659373,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd6d9662527:0x70e87b2f6f8cee26!8m2!3d22.4454891!4d70.0659373!16s%2Fg%2F11x_pffv37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shashwat+Hospitals+Jamnagar/@22.4454891,70.0659373,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd6d9662527:0x70e87b2f6f8cee26!8m2!3d22.4454891!4d70.0659373!16s%2Fg%2F11x_pffv37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8426,8 +8356,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shashwat+Hospitals+Jamnagar/@22.4454891,70.0659373,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bd6d9662527:0x70e87b2f6f8cee26!8m2!3d22.4454891!4d70.0659373!16s%2Fg%2F11x_pffv37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiv-hospital-eye-and-skin-care-eye-hospital-skin-hospital-eye-specialist-best-skin-specialist-in-jamnagar-jamnagar",
@@ -8476,7 +8405,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiv+Hospital+Eye+%26+Skin+Care+-+Eye+Hospital%2FSkin+Hospital%2FEye+Specialist%2FBest+Skin+Specialist+in+Jamnagar/@22.4661517,70.0598845,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0b1e91c409:0xd9feccee26353420!8m2!3d22.4661517!4d70.0598845!16s%2Fg%2F11k9st_2s2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Hospital+Eye+%26+Skin+Care+-+Eye+Hospital%2FSkin+Hospital%2FEye+Specialist%2FBest+Skin+Specialist+in+Jamnagar/@22.4661517,70.0598845,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0b1e91c409:0xd9feccee26353420!8m2!3d22.4661517!4d70.0598845!16s%2Fg%2F11k9st_2s2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8545,8 +8474,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiv+Hospital+Eye+%26+Skin+Care+-+Eye+Hospital%2FSkin+Hospital%2FEye+Specialist%2FBest+Skin+Specialist+in+Jamnagar/@22.4661517,70.0598845,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b0b1e91c409:0xd9feccee26353420!8m2!3d22.4661517!4d70.0598845!16s%2Fg%2F11k9st_2s2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivam-maternity-hospital-gynec-women-jamnagar",
@@ -8596,7 +8524,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivam+Maternity+Hospital+Gynec+women/@22.4774252,70.0986115,17z/data=!3m1!4b1!4m6!3m5!1s0x39576a6255555555:0xafb25b1c7b52d8ef!8m2!3d22.4774252!4d70.0986115!16s%2Fg%2F11gfdxj3qj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam+Maternity+Hospital+Gynec+women/@22.4774252,70.0986115,17z/data=!3m1!4b1!4m6!3m5!1s0x39576a6255555555:0xafb25b1c7b52d8ef!8m2!3d22.4774252!4d70.0986115!16s%2Fg%2F11gfdxj3qj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8665,8 +8593,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivam+Maternity+Hospital+Gynec+women/@22.4774252,70.0986115,17z/data=!3m1!4b1!4m6!3m5!1s0x39576a6255555555:0xafb25b1c7b52d8ef!8m2!3d22.4774252!4d70.0986115!16s%2Fg%2F11gfdxj3qj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shraddha-dental-clinic-and-implant-centre-jamnagar",
@@ -8714,7 +8641,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHRADDHA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@22.4690796,70.0924161,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bb6c919a9af:0x9e6e3c722282d562!8m2!3d22.4690796!4d70.0924161!16s%2Fg%2F11tf5816_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHRADDHA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@22.4690796,70.0924161,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bb6c919a9af:0x9e6e3c722282d562!8m2!3d22.4690796!4d70.0924161!16s%2Fg%2F11tf5816_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8780,11 +8707,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHRADDHA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@22.4690796,70.0924161,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bb6c919a9af:0x9e6e3c722282d562!8m2!3d22.4690796!4d70.0924161!16s%2Fg%2F11tf5816_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shradhey-chest-clinic-jamnagar",
@@ -8832,7 +8758,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shradhey+Chest+Clinic/@22.4736204,70.0617892,17z/data=!3m1!4b1!4m6!3m5!1s0x39576be794934193:0x4a7618186c151785!8m2!3d22.4736204!4d70.0617892!16s%2Fg%2F11sc96n82n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shradhey+Chest+Clinic/@22.4736204,70.0617892,17z/data=!3m1!4b1!4m6!3m5!1s0x39576be794934193:0x4a7618186c151785!8m2!3d22.4736204!4d70.0617892!16s%2Fg%2F11sc96n82n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8901,8 +8827,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shradhey+Chest+Clinic/@22.4736204,70.0617892,17z/data=!3m1!4b1!4m6!3m5!1s0x39576be794934193:0x4a7618186c151785!8m2!3d22.4736204!4d70.0617892!16s%2Fg%2F11sc96n82n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-dwarkadhish-hospital-jamnagar",
@@ -8950,7 +8875,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Dwarkadhish+Hospital/@22.4822321,70.0609127,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aa8662f10d9:0xdca550a43015e1c5!8m2!3d22.4822321!4d70.0609127!16s%2Fg%2F11b8_slq6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Dwarkadhish+Hospital/@22.4822321,70.0609127,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aa8662f10d9:0xdca550a43015e1c5!8m2!3d22.4822321!4d70.0609127!16s%2Fg%2F11b8_slq6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9019,8 +8944,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Dwarkadhish+Hospital/@22.4822321,70.0609127,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aa8662f10d9:0xdca550a43015e1c5!8m2!3d22.4822321!4d70.0609127!16s%2Fg%2F11b8_slq6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreeji-women-s-hospital-jamnagar",
@@ -9069,7 +8993,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreeji+women's+hospital/@22.4604648,70.0383634,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab72710881b:0xdfb8290653a1ceef!8m2!3d22.4604648!4d70.0383634!16s%2Fg%2F11c2nhx3gg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreeji+women's+hospital/@22.4604648,70.0383634,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab72710881b:0xdfb8290653a1ceef!8m2!3d22.4604648!4d70.0383634!16s%2Fg%2F11c2nhx3gg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9138,8 +9062,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreeji+women's+hospital/@22.4604648,70.0383634,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab72710881b:0xdfb8290653a1ceef!8m2!3d22.4604648!4d70.0383634!16s%2Fg%2F11c2nhx3gg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreemukh-dental-hospital-and-implant-center-jamnagar",
@@ -9187,7 +9110,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreemukh+Dental+Hospital+%26+Implant+Center/@22.4332441,70.0657941,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b4b41563fd9:0x806ca8a34e8b5f26!8m2!3d22.4332441!4d70.0657941!16s%2Fg%2F11t_cr8qwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreemukh+Dental+Hospital+%26+Implant+Center/@22.4332441,70.0657941,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b4b41563fd9:0x806ca8a34e8b5f26!8m2!3d22.4332441!4d70.0657941!16s%2Fg%2F11t_cr8qwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9253,11 +9176,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreemukh+Dental+Hospital+%26+Implant+Center/@22.4332441,70.0657941,17z/data=!3m1!4b1!4m6!3m5!1s0x39576b4b41563fd9:0x806ca8a34e8b5f26!8m2!3d22.4332441!4d70.0657941!16s%2Fg%2F11t_cr8qwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shubham-dental-clinic-and-implant-center-jamnagar",
@@ -9305,7 +9227,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shubham+Dental+Clinic+and+Implant+center/@22.473573,70.0617596,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aaffbb7f587:0x96fc0ffcf98c2c19!8m2!3d22.473573!4d70.0617596!16s%2Fg%2F11bttpxzc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubham+Dental+Clinic+and+Implant+center/@22.473573,70.0617596,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aaffbb7f587:0x96fc0ffcf98c2c19!8m2!3d22.473573!4d70.0617596!16s%2Fg%2F11bttpxzc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9374,8 +9296,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shubham+Dental+Clinic+and+Implant+center/@22.473573,70.0617596,17z/data=!3m1!4b1!4m6!3m5!1s0x39576aaffbb7f587:0x96fc0ffcf98c2c19!8m2!3d22.473573!4d70.0617596!16s%2Fg%2F11bttpxzc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "skin-clinic-jamnagar",
@@ -9423,7 +9344,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Skin+Clinic/@22.4633311,70.0617835,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab78c6407a3:0x3801f42b3dde2ab7!8m2!3d22.4633311!4d70.0617835!16s%2Fg%2F11csbr12m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+Clinic/@22.4633311,70.0617835,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab78c6407a3:0x3801f42b3dde2ab7!8m2!3d22.4633311!4d70.0617835!16s%2Fg%2F11csbr12m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9492,8 +9413,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Skin+Clinic/@22.4633311,70.0617835,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab78c6407a3:0x3801f42b3dde2ab7!8m2!3d22.4633311!4d70.0617835!16s%2Fg%2F11csbr12m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-center-dental-clinic-jamnagar",
@@ -9541,7 +9461,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Center+Dental+Clinic/@22.4854266,70.0553533,17z/data=!3m1!4b1!4m6!3m5!1s0x395740019243800b:0xa5ba45130e834ba5!8m2!3d22.4854266!4d70.0553533!16s%2Fg%2F11c5sx09_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Center+Dental+Clinic/@22.4854266,70.0553533,17z/data=!3m1!4b1!4m6!3m5!1s0x395740019243800b:0xa5ba45130e834ba5!8m2!3d22.4854266!4d70.0553533!16s%2Fg%2F11c5sx09_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9607,11 +9527,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Center+Dental+Clinic/@22.4854266,70.0553533,17z/data=!3m1!4b1!4m6!3m5!1s0x395740019243800b:0xa5ba45130e834ba5!8m2!3d22.4854266!4d70.0553533!16s%2Fg%2F11c5sx09_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "spandan-hospital-and-critical-care-center-jamnagar",
@@ -9660,7 +9579,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SPANDAN+Hospital+%26+Critical+Care+Center/@22.4662497,70.0593634,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab7222acddd:0xae9025a12bdb2e0b!8m2!3d22.4662497!4d70.0593634!16s%2Fg%2F11bw5m77_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SPANDAN+Hospital+%26+Critical+Care+Center/@22.4662497,70.0593634,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab7222acddd:0xae9025a12bdb2e0b!8m2!3d22.4662497!4d70.0593634!16s%2Fg%2F11bw5m77_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9729,8 +9648,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SPANDAN+Hospital+%26+Critical+Care+Center/@22.4662497,70.0593634,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab7222acddd:0xae9025a12bdb2e0b!8m2!3d22.4662497!4d70.0593634!16s%2Fg%2F11bw5m77_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "takvani-dental-jamnagar",
@@ -9778,7 +9696,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Takvani+Dental/@22.4849231,70.0558712,17z/data=!3m1!4b1!4m6!3m5!1s0x395741b5d3f612fd:0xec778c4159bb16e8!8m2!3d22.4849231!4d70.0558712!16s%2Fg%2F11h1kpddt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Takvani+Dental/@22.4849231,70.0558712,17z/data=!3m1!4b1!4m6!3m5!1s0x395741b5d3f612fd:0xec778c4159bb16e8!8m2!3d22.4849231!4d70.0558712!16s%2Fg%2F11h1kpddt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9847,8 +9765,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Takvani+Dental/@22.4849231,70.0558712,17z/data=!3m1!4b1!4m6!3m5!1s0x395741b5d3f612fd:0xec778c4159bb16e8!8m2!3d22.4849231!4d70.0558712!16s%2Fg%2F11h1kpddt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "takvani-dental-and-children-hospital-jamnagar",
@@ -9899,7 +9816,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Takvani+Dental+%26+Children+Hospital/@22.473384,70.061687,17z/data=!3m1!4b1!4m6!3m5!1s0x39576abab4c0f0e5:0x703db601f37add0e!8m2!3d22.473384!4d70.061687!16s%2Fg%2F12hrbcss4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Takvani+Dental+%26+Children+Hospital/@22.473384,70.061687,17z/data=!3m1!4b1!4m6!3m5!1s0x39576abab4c0f0e5:0x703db601f37add0e!8m2!3d22.473384!4d70.061687!16s%2Fg%2F12hrbcss4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9968,8 +9885,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Takvani+Dental+%26+Children+Hospital/@22.473384,70.061687,17z/data=!3m1!4b1!4m6!3m5!1s0x39576abab4c0f0e5:0x703db601f37add0e!8m2!3d22.473384!4d70.061687!16s%2Fg%2F12hrbcss4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "trimurthy-piles-and-fistula-clinic-jamnagar",
@@ -10017,7 +9933,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Trimurthy+Piles+%26+Fistula+Clinic/@22.4677911,70.0604025,17z/data=!3m1!4b1!4m6!3m5!1s0x39576adbfedf29f9:0x7e3eb158bc13a472!8m2!3d22.4677911!4d70.0604025!16s%2Fg%2F11f2ckt6qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trimurthy+Piles+%26+Fistula+Clinic/@22.4677911,70.0604025,17z/data=!3m1!4b1!4m6!3m5!1s0x39576adbfedf29f9:0x7e3eb158bc13a472!8m2!3d22.4677911!4d70.0604025!16s%2Fg%2F11f2ckt6qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10086,8 +10002,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Trimurthy+Piles+%26+Fistula+Clinic/@22.4677911,70.0604025,17z/data=!3m1!4b1!4m6!3m5!1s0x39576adbfedf29f9:0x7e3eb158bc13a472!8m2!3d22.4677911!4d70.0604025!16s%2Fg%2F11f2ckt6qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "udani-hospital-jamnagar",
@@ -10135,7 +10050,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Udani+Hospital/@22.4620474,70.0651417,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bda9e54842b:0x1446b29f91343bf3!8m2!3d22.4620474!4d70.0651417!16s%2Fg%2F11q8vh7txx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Udani+Hospital/@22.4620474,70.0651417,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bda9e54842b:0x1446b29f91343bf3!8m2!3d22.4620474!4d70.0651417!16s%2Fg%2F11q8vh7txx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10204,8 +10119,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Udani+Hospital/@22.4620474,70.0651417,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bda9e54842b:0x1446b29f91343bf3!8m2!3d22.4620474!4d70.0651417!16s%2Fg%2F11q8vh7txx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vedant-dental-care-jamnagar",
@@ -10253,7 +10167,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VEDANT+DENTAL+CARE/@22.465688,70.0603013,17z/data=!3m1!4b1!4m6!3m5!1s0x395715dca44edf57:0xe1d1726c7b60a343!8m2!3d22.465688!4d70.0603013!16s%2Fg%2F11tk6mc34q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VEDANT+DENTAL+CARE/@22.465688,70.0603013,17z/data=!3m1!4b1!4m6!3m5!1s0x395715dca44edf57:0xe1d1726c7b60a343!8m2!3d22.465688!4d70.0603013!16s%2Fg%2F11tk6mc34q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10322,8 +10236,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VEDANT+DENTAL+CARE/@22.465688,70.0603013,17z/data=!3m1!4b1!4m6!3m5!1s0x395715dca44edf57:0xe1d1726c7b60a343!8m2!3d22.465688!4d70.0603013!16s%2Fg%2F11tk6mc34q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vikalp-ivf-center-jamnagar",
@@ -10374,7 +10287,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vikalp+IVF+Center/@22.4667288,70.0596228,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xf33ce28d9c2cc1f4!8m2!3d22.4667288!4d70.0596228!16s%2Fg%2F1tlbgz7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vikalp+IVF+Center/@22.4667288,70.0596228,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xf33ce28d9c2cc1f4!8m2!3d22.4667288!4d70.0596228!16s%2Fg%2F1tlbgz7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10443,8 +10356,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vikalp+IVF+Center/@22.4667288,70.0596228,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab96aa69ee3:0xf33ce28d9c2cc1f4!8m2!3d22.4667288!4d70.0596228!16s%2Fg%2F1tlbgz7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "virani-dental-hospital-jamnagar",
@@ -10492,7 +10404,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Virani+Dental+Hospital/@22.4674192,70.0594356,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab12965cb75:0xeb0c36d0671237e3!8m2!3d22.4674192!4d70.0594356!16s%2Fg%2F11ggfsr4wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Virani+Dental+Hospital/@22.4674192,70.0594356,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab12965cb75:0xeb0c36d0671237e3!8m2!3d22.4674192!4d70.0594356!16s%2Fg%2F11ggfsr4wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10561,8 +10473,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Virani+Dental+Hospital/@22.4674192,70.0594356,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ab12965cb75:0xeb0c36d0671237e3!8m2!3d22.4674192!4d70.0594356!16s%2Fg%2F11ggfsr4wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "virani-hospital-jamnagar",
@@ -10610,7 +10521,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Virani+Hospital/@22.4666155,70.059916,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac7e5555555:0x47bdb630a2ae6e0c!8m2!3d22.4666155!4d70.059916!16s%2Fg%2F1tfrf4pm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Virani+Hospital/@22.4666155,70.059916,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac7e5555555:0x47bdb630a2ae6e0c!8m2!3d22.4666155!4d70.059916!16s%2Fg%2F1tfrf4pm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10679,8 +10590,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Virani+Hospital/@22.4666155,70.059916,17z/data=!3m1!4b1!4m6!3m5!1s0x39576ac7e5555555:0x47bdb630a2ae6e0c!8m2!3d22.4666155!4d70.059916!16s%2Fg%2F1tfrf4pm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yadav-dental-clinic-and-implant-centre-jamnagar",
@@ -10728,7 +10638,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/YADAV+DENTAL+CLINIC+%26+IMPLANT+CENTRE./@22.4852073,70.0555674,17z/data=!3m1!4b1!4m6!3m5!1s0x395740018d490503:0x3ea209e900c2b22e!8m2!3d22.4852073!4d70.0555674!16s%2Fg%2F11c605gmsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/YADAV+DENTAL+CLINIC+%26+IMPLANT+CENTRE./@22.4852073,70.0555674,17z/data=!3m1!4b1!4m6!3m5!1s0x395740018d490503:0x3ea209e900c2b22e!8m2!3d22.4852073!4d70.0555674!16s%2Fg%2F11c605gmsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10794,11 +10704,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/YADAV+DENTAL+CLINIC+%26+IMPLANT+CENTRE./@22.4852073,70.0555674,17z/data=!3m1!4b1!4m6!3m5!1s0x395740018d490503:0x3ea209e900c2b22e!8m2!3d22.4852073!4d70.0555674!16s%2Fg%2F11c605gmsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cochlear-implant-surgery-hospital-in-jamnagar-jamnagar",
@@ -10846,7 +10755,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BF'%F0%9D%98%80+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Cochlear+Implant+Surgery+Hospital+in+Jamnagar/@22.4661001,70.0597822,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bcb5ce1373f:0x6cdf24fd1dc55f6b!8m2!3d22.4661001!4d70.0597822!16s%2Fg%2F11qq2t_wnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BF'%F0%9D%98%80+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Cochlear+Implant+Surgery+Hospital+in+Jamnagar/@22.4661001,70.0597822,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bcb5ce1373f:0x6cdf24fd1dc55f6b!8m2!3d22.4661001!4d70.0597822!16s%2Fg%2F11qq2t_wnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10915,7 +10824,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BF'%F0%9D%98%80+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Cochlear+Implant+Surgery+Hospital+in+Jamnagar/@22.4661001,70.0597822,17z/data=!3m1!4b1!4m6!3m5!1s0x39576bcb5ce1373f:0x6cdf24fd1dc55f6b!8m2!3d22.4661001!4d70.0597822!16s%2Fg%2F11qq2t_wnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

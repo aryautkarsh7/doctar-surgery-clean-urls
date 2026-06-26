@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A.B.A+Star+Women's+Hospital/@17.3477832,76.8602837,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c715f91f6947:0x6b28b601422ea85d!8m2!3d17.3477832!4d76.8602837!16s%2Fg%2F11f3j8r0gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.B.A+Star+Women's+Hospital/@17.3477832,76.8602837,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c715f91f6947:0x6b28b601422ea85d!8m2!3d17.3477832!4d76.8602837!16s%2Fg%2F11f3j8r0gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -115,8 +115,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A.B.A+Star+Women's+Hospital/@17.3477832,76.8602837,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c715f91f6947:0x6b28b601422ea85d!8m2!3d17.3477832!4d76.8602837!16s%2Fg%2F11f3j8r0gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "adarsh-hospital-kalaburagi",
@@ -165,7 +164,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Adarsh+Hospital/@17.3396055,76.8375204,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7422ee6374d:0x876ced73003a44c!8m2!3d17.3396055!4d76.8375204!16s%2Fg%2F11h81k08zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adarsh+Hospital/@17.3396055,76.8375204,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7422ee6374d:0x876ced73003a44c!8m2!3d17.3396055!4d76.8375204!16s%2Fg%2F11h81k08zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -234,8 +233,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Adarsh+Hospital/@17.3396055,76.8375204,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7422ee6374d:0x876ced73003a44c!8m2!3d17.3396055!4d76.8375204!16s%2Fg%2F11h81k08zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aditi-hospital-kalaburagi",
@@ -284,7 +282,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aditi+Hospital/@17.3286609,76.8175479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8ae25c37871:0x6b78646a4b17dc42!8m2!3d17.3286609!4d76.8175479!16s%2Fg%2F11bw4sfw2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditi+Hospital/@17.3286609,76.8175479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8ae25c37871:0x6b78646a4b17dc42!8m2!3d17.3286609!4d76.8175479!16s%2Fg%2F11bw4sfw2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -350,11 +348,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aditi+Hospital/@17.3286609,76.8175479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8ae25c37871:0x6b78646a4b17dc42!8m2!3d17.3286609!4d76.8175479!16s%2Fg%2F11bw4sfw2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "al-ameen-clinic-kalaburagi",
@@ -402,7 +399,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AL+AMEEN+CLINIC/@17.3349489,76.8510056,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c70076ee8803:0xbc445d2d171bffa1!8m2!3d17.3349489!4d76.8510056!16s%2Fg%2F11yrl8mm2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AL+AMEEN+CLINIC/@17.3349489,76.8510056,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c70076ee8803:0xbc445d2d171bffa1!8m2!3d17.3349489!4d76.8510056!16s%2Fg%2F11yrl8mm2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -468,11 +465,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AL+AMEEN+CLINIC/@17.3349489,76.8510056,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c70076ee8803:0xbc445d2d171bffa1!8m2!3d17.3349489!4d76.8510056!16s%2Fg%2F11yrl8mm2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "al-shifa-clinic-dr-md-shoeb-aslam-kalaburagi",
@@ -520,7 +516,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Al+shifa+clinic+(Dr+Md+shoeb+aslam+)/@17.3557742,76.8514345,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7e82a8e149d:0xa3177e85deaefc44!8m2!3d17.3557742!4d76.8514345!16s%2Fg%2F11vwglrst3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Al+shifa+clinic+(Dr+Md+shoeb+aslam+)/@17.3557742,76.8514345,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7e82a8e149d:0xa3177e85deaefc44!8m2!3d17.3557742!4d76.8514345!16s%2Fg%2F11vwglrst3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -589,8 +585,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Al+shifa+clinic+(Dr+Md+shoeb+aslam+)/@17.3557742,76.8514345,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7e82a8e149d:0xa3177e85deaefc44!8m2!3d17.3557742!4d76.8514345!16s%2Fg%2F11vwglrst3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "al-nisa-maternity-and-general-hospital-kalaburagi",
@@ -639,7 +634,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/al-nisa+maternity+%26+general+hospital/@17.3454763,76.847381,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c740f264389f:0x653e722e5593abd5!8m2!3d17.3454763!4d76.847381!16s%2Fg%2F11gdzj0rmy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/al-nisa+maternity+%26+general+hospital/@17.3454763,76.847381,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c740f264389f:0x653e722e5593abd5!8m2!3d17.3454763!4d76.847381!16s%2Fg%2F11gdzj0rmy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -708,8 +703,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/al-nisa+maternity+%26+general+hospital/@17.3454763,76.847381,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c740f264389f:0x653e722e5593abd5!8m2!3d17.3454763!4d76.847381!16s%2Fg%2F11gdzj0rmy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amarkhed-s-heart-and-child-clinic-kalaburagi",
@@ -759,7 +753,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Amarkhed's+Heart+%26+Child+Clinic/@17.3302045,76.8280788,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c755d85fd2c3:0x318137de880cec7d!8m2!3d17.3302045!4d76.8280788!16s%2Fg%2F11hbhl2tgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amarkhed's+Heart+%26+Child+Clinic/@17.3302045,76.8280788,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c755d85fd2c3:0x318137de880cec7d!8m2!3d17.3302045!4d76.8280788!16s%2Fg%2F11hbhl2tgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -825,11 +819,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Amarkhed's+Heart+%26+Child+Clinic/@17.3302045,76.8280788,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c755d85fd2c3:0x318137de880cec7d!8m2!3d17.3302045!4d76.8280788!16s%2Fg%2F11hbhl2tgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amruta-sparsh-hospital-kalaburagi",
@@ -877,7 +870,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Amruta+Sparsh+Hospital/@17.3215315,76.8030865,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfb258feb439:0xf0edc0af0dc15098!8m2!3d17.3215315!4d76.8030865!16s%2Fg%2F11sdz3vpjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amruta+Sparsh+Hospital/@17.3215315,76.8030865,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfb258feb439:0xf0edc0af0dc15098!8m2!3d17.3215315!4d76.8030865!16s%2Fg%2F11sdz3vpjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -946,8 +939,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Amruta+Sparsh+Hospital/@17.3215315,76.8030865,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfb258feb439:0xf0edc0af0dc15098!8m2!3d17.3215315!4d76.8030865!16s%2Fg%2F11sdz3vpjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "angel-children-clinic-kalaburagi",
@@ -996,7 +988,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Angel+Children+Clinic/@17.3093239,76.8187726,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf868343c10b:0x532e4a3dbd16eefe!8m2!3d17.3093239!4d76.8187726!16s%2Fg%2F11fm_48l95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Angel+Children+Clinic/@17.3093239,76.8187726,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf868343c10b:0x532e4a3dbd16eefe!8m2!3d17.3093239!4d76.8187726!16s%2Fg%2F11fm_48l95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1065,8 +1057,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Angel+Children+Clinic/@17.3093239,76.8187726,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf868343c10b:0x532e4a3dbd16eefe!8m2!3d17.3093239!4d76.8187726!16s%2Fg%2F11fm_48l95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apex-dental-hospital-gulbarga-kalaburagi",
@@ -1115,7 +1106,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apex+Dental+Hospital+GULBARGA/@17.333534,76.8384129,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7335245a65b:0x418c0070260efbbf!8m2!3d17.333534!4d76.8384129!16s%2Fg%2F11clyskzgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Dental+Hospital+GULBARGA/@17.333534,76.8384129,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7335245a65b:0x418c0070260efbbf!8m2!3d17.333534!4d76.8384129!16s%2Fg%2F11clyskzgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1184,8 +1175,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apex+Dental+Hospital+GULBARGA/@17.333534,76.8384129,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7335245a65b:0x418c0070260efbbf!8m2!3d17.333534!4d76.8384129!16s%2Fg%2F11clyskzgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-24-7-lab-tests-near-me-sangameshwar-colony-home-collection-gulbarga-kalaburagi",
@@ -1235,7 +1225,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Tests+Near+Me+%7C+Sangameshwar+Colony+%7C+Home+Collection+%7C+Gulbarga/@17.3303099,76.8278432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7284036170f:0x2551069648c174b7!8m2!3d17.3303099!4d76.8278432!16s%2Fg%2F11w1h1rst1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Tests+Near+Me+%7C+Sangameshwar+Colony+%7C+Home+Collection+%7C+Gulbarga/@17.3303099,76.8278432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7284036170f:0x2551069648c174b7!8m2!3d17.3303099!4d76.8278432!16s%2Fg%2F11w1h1rst1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1301,11 +1291,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Tests+Near+Me+%7C+Sangameshwar+Colony+%7C+Home+Collection+%7C+Gulbarga/@17.3303099,76.8278432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7284036170f:0x2551069648c174b7!8m2!3d17.3303099!4d76.8278432!16s%2Fg%2F11w1h1rst1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-proton-therapy-in-gulbarga-kalaburagi",
@@ -1354,7 +1343,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Gulbarga/@17.328384,76.8082,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b94b417be5eb:0x9ef0083a065ecb95!8m2!3d17.328384!4d76.8082!16s%2Fg%2F11yhrhxb9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Gulbarga/@17.328384,76.8082,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b94b417be5eb:0x9ef0083a065ecb95!8m2!3d17.328384!4d76.8082!16s%2Fg%2F11yhrhxb9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1420,11 +1409,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Gulbarga/@17.328384,76.8082,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b94b417be5eb:0x9ef0083a065ecb95!8m2!3d17.328384!4d76.8082!16s%2Fg%2F11yhrhxb9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "atharva-chest-hospital-dr-giriraj-bamma-kalaburagi",
@@ -1473,7 +1461,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Atharva+chest+Hospital+(Dr+Giriraj+Bamma)/@17.3290476,76.8283178,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74e3164b19b:0x88d16357ea3f8d2b!8m2!3d17.3290476!4d76.8283178!16s%2Fg%2F11c70fr_k_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Atharva+chest+Hospital+(Dr+Giriraj+Bamma)/@17.3290476,76.8283178,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74e3164b19b:0x88d16357ea3f8d2b!8m2!3d17.3290476!4d76.8283178!16s%2Fg%2F11c70fr_k_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1542,8 +1530,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Atharva+chest+Hospital+(Dr+Giriraj+Bamma)/@17.3290476,76.8283178,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74e3164b19b:0x88d16357ea3f8d2b!8m2!3d17.3290476!4d76.8283178!16s%2Fg%2F11c70fr_k_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "axon-hospital-kalaburagi",
@@ -1592,7 +1579,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AXON+HOSPITAL/@17.3246294,76.8667852,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1005c656f99:0x6ce6e10377e251a9!8m2!3d17.3246294!4d76.8667852!16s%2Fg%2F11wwgj0nn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AXON+HOSPITAL/@17.3246294,76.8667852,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1005c656f99:0x6ce6e10377e251a9!8m2!3d17.3246294!4d76.8667852!16s%2Fg%2F11wwgj0nn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1661,8 +1648,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AXON+HOSPITAL/@17.3246294,76.8667852,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1005c656f99:0x6ce6e10377e251a9!8m2!3d17.3246294!4d76.8667852!16s%2Fg%2F11wwgj0nn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ayesha-maternity-and-general-hospital-kalaburagi",
@@ -1710,7 +1696,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ayesha+Maternity+and+General+Hospital/@17.3366245,76.8159161,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8a56aa2d501:0x91094343997f8f!8m2!3d17.3366245!4d76.8159161!16s%2Fg%2F11fxz9r86y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayesha+Maternity+and+General+Hospital/@17.3366245,76.8159161,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8a56aa2d501:0x91094343997f8f!8m2!3d17.3366245!4d76.8159161!16s%2Fg%2F11fxz9r86y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1779,8 +1765,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ayesha+Maternity+and+General+Hospital/@17.3366245,76.8159161,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8a56aa2d501:0x91094343997f8f!8m2!3d17.3366245!4d76.8159161!16s%2Fg%2F11fxz9r86y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "banale-hospital-kalaburagi",
@@ -1828,7 +1813,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Banale+Hospital/@17.3284918,76.8276324,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c755bdd5d30d:0xa60dad5a4e2cd37f!8m2!3d17.3284918!4d76.8276324!16s%2Fg%2F1tddqn3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Banale+Hospital/@17.3284918,76.8276324,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c755bdd5d30d:0xa60dad5a4e2cd37f!8m2!3d17.3284918!4d76.8276324!16s%2Fg%2F1tddqn3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1897,8 +1882,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Banale+Hospital/@17.3284918,76.8276324,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c755bdd5d30d:0xa60dad5a4e2cd37f!8m2!3d17.3284918!4d76.8276324!16s%2Fg%2F1tddqn3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "banashankari-hospital-kalaburagi",
@@ -1946,7 +1930,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Banashankari+Hospital/@17.2985778,76.8253648,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf602dbbdaf9:0x2adc2ab6200c4283!8m2!3d17.2985778!4d76.8253648!16s%2Fg%2F11bbx0l0kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Banashankari+Hospital/@17.2985778,76.8253648,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf602dbbdaf9:0x2adc2ab6200c4283!8m2!3d17.2985778!4d76.8253648!16s%2Fg%2F11bbx0l0kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2015,8 +1999,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Banashankari+Hospital/@17.2985778,76.8253648,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf602dbbdaf9:0x2adc2ab6200c4283!8m2!3d17.2985778!4d76.8253648!16s%2Fg%2F11bbx0l0kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "basaweshwar-teaching-and-general-hospital-btgh-kalaburagi",
@@ -2064,7 +2047,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Basaweshwar+Teaching+and+General+Hospital+-+BTGH/@17.3257865,76.8536728,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0cb48dad3d5:0xf1f775186724de1c!8m2!3d17.3257865!4d76.8536728!16s%2Fg%2F11c73dhl7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Basaweshwar+Teaching+and+General+Hospital+-+BTGH/@17.3257865,76.8536728,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0cb48dad3d5:0xf1f775186724de1c!8m2!3d17.3257865!4d76.8536728!16s%2Fg%2F11c73dhl7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2133,8 +2116,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Basaweshwar+Teaching+and+General+Hospital+-+BTGH/@17.3257865,76.8536728,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0cb48dad3d5:0xf1f775186724de1c!8m2!3d17.3257865!4d76.8536728!16s%2Fg%2F11c73dhl7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "battisi-dental-and-orthodontic-care-kalaburagi",
@@ -2183,7 +2165,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Battisi+dental+and+orthodontic+care/@17.3339529,76.8572822,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c77e0571021b:0xb772cac3458089be!8m2!3d17.3339529!4d76.8572822!16s%2Fg%2F11rwry8yxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Battisi+dental+and+orthodontic+care/@17.3339529,76.8572822,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c77e0571021b:0xb772cac3458089be!8m2!3d17.3339529!4d76.8572822!16s%2Fg%2F11rwry8yxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2252,8 +2234,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Battisi+dental+and+orthodontic+care/@17.3339529,76.8572822,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c77e0571021b:0xb772cac3458089be!8m2!3d17.3339529!4d76.8572822!16s%2Fg%2F11rwry8yxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bilva-hospital-kalaburagi",
@@ -2302,7 +2283,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bilva+Hospital/@17.3114787,76.8149544,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfe7d96da743:0xea2c1856bd431e14!8m2!3d17.3114787!4d76.8149544!16s%2Fg%2F11shft0crd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bilva+Hospital/@17.3114787,76.8149544,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfe7d96da743:0xea2c1856bd431e14!8m2!3d17.3114787!4d76.8149544!16s%2Fg%2F11shft0crd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2371,8 +2352,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bilva+Hospital/@17.3114787,76.8149544,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfe7d96da743:0xea2c1856bd431e14!8m2!3d17.3114787!4d76.8149544!16s%2Fg%2F11shft0crd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "br-neuro-psychiatry-hospital-kalaburagi",
@@ -2421,7 +2401,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BR+neuro+psychiatry+hospital/@17.3161434,76.832148,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1c1ed542503:0x4fc4c136b7bc68b2!8m2!3d17.3161434!4d76.832148!16s%2Fg%2F11g4hq885c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BR+neuro+psychiatry+hospital/@17.3161434,76.832148,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1c1ed542503:0x4fc4c136b7bc68b2!8m2!3d17.3161434!4d76.832148!16s%2Fg%2F11g4hq885c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2490,8 +2470,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BR+neuro+psychiatry+hospital/@17.3161434,76.832148,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1c1ed542503:0x4fc4c136b7bc68b2!8m2!3d17.3161434!4d76.832148!16s%2Fg%2F11g4hq885c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "brite-dental-clinic-kalaburagi",
@@ -2539,7 +2518,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Brite+Dental+Clinic/@17.3488816,76.8626982,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7a02e715c0d:0xdd06ab71bcd7830b!8m2!3d17.3488816!4d76.8626982!16s%2Fg%2F11w3mg8scg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brite+Dental+Clinic/@17.3488816,76.8626982,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7a02e715c0d:0xdd06ab71bcd7830b!8m2!3d17.3488816!4d76.8626982!16s%2Fg%2F11w3mg8scg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2608,8 +2587,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Brite+Dental+Clinic/@17.3488816,76.8626982,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7a02e715c0d:0xdd06ab71bcd7830b!8m2!3d17.3488816!4d76.8626982!16s%2Fg%2F11w3mg8scg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bushra-maternity-and-general-hospital-kalaburagi",
@@ -2658,7 +2636,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bushra+Maternity+%26+General+Hospital/@17.3379557,76.8500259,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7381cf3a919:0x2f8b90541406e8e2!8m2!3d17.3379557!4d76.8500259!16s%2Fg%2F11fn0hwh5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bushra+Maternity+%26+General+Hospital/@17.3379557,76.8500259,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7381cf3a919:0x2f8b90541406e8e2!8m2!3d17.3379557!4d76.8500259!16s%2Fg%2F11fn0hwh5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2724,11 +2702,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bushra+Maternity+%26+General+Hospital/@17.3379557,76.8500259,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7381cf3a919:0x2f8b90541406e8e2!8m2!3d17.3379557!4d76.8500259!16s%2Fg%2F11fn0hwh5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chirayu-hospital-gulbarga-kalaburagi",
@@ -2776,7 +2753,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chirayu+Hospital+Gulbarga/@17.3233902,76.8296211,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0ab48558f31:0x4df59d498a6f0652!8m2!3d17.3233902!4d76.8296211!16s%2Fg%2F11cn0z59n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chirayu+Hospital+Gulbarga/@17.3233902,76.8296211,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0ab48558f31:0x4df59d498a6f0652!8m2!3d17.3233902!4d76.8296211!16s%2Fg%2F11cn0z59n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2845,8 +2822,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chirayu+Hospital+Gulbarga/@17.3233902,76.8296211,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0ab48558f31:0x4df59d498a6f0652!8m2!3d17.3233902!4d76.8296211!16s%2Fg%2F11cn0z59n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chiron-kalaburagi-cancer-center-msk-mill-rd",
@@ -2894,7 +2870,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chiron+Kalaburagi+Cancer+center/@17.328252,76.816402,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b9f39ebfc2e7:0x40c1606cc456a432!8m2!3d17.328252!4d76.816402!16s%2Fg%2F11wfk79bfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chiron+Kalaburagi+Cancer+center/@17.328252,76.816402,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b9f39ebfc2e7:0x40c1606cc456a432!8m2!3d17.328252!4d76.816402!16s%2Fg%2F11wfk79bfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2960,11 +2936,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chiron+Kalaburagi+Cancer+center/@17.328252,76.816402,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b9f39ebfc2e7:0x40c1606cc456a432!8m2!3d17.328252!4d76.816402!16s%2Fg%2F11wfk79bfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-physiotherapy-clinic-and-pain-relief-centre-kalaburagi",
@@ -3013,7 +2988,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Physiotherapy+Clinic+%26+Pain+Relief+Centre/@17.3292454,76.8344787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c753ca4faabb:0x41fe39df85186d12!8m2!3d17.3292454!4d76.8344787!16s%2Fg%2F11hbk5xpqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Physiotherapy+Clinic+%26+Pain+Relief+Centre/@17.3292454,76.8344787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c753ca4faabb:0x41fe39df85186d12!8m2!3d17.3292454!4d76.8344787!16s%2Fg%2F11hbk5xpqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3082,8 +3057,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Physiotherapy+Clinic+%26+Pain+Relief+Centre/@17.3292454,76.8344787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c753ca4faabb:0x41fe39df85186d12!8m2!3d17.3292454!4d76.8344787!16s%2Fg%2F11hbk5xpqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cradle-maternity-and-children-hospital-gulbarga-kalaburagi",
@@ -3132,7 +3106,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cradle+Maternity+and+Children+Hospital+Gulbarga/@17.3040017,76.8184763,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf37f3c44861:0xdf5681c100992f19!8m2!3d17.3040017!4d76.8184763!16s%2Fg%2F11x2spc7pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cradle+Maternity+and+Children+Hospital+Gulbarga/@17.3040017,76.8184763,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf37f3c44861:0xdf5681c100992f19!8m2!3d17.3040017!4d76.8184763!16s%2Fg%2F11x2spc7pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3198,11 +3172,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cradle+Maternity+and+Children+Hospital+Gulbarga/@17.3040017,76.8184763,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf37f3c44861:0xdf5681c100992f19!8m2!3d17.3040017!4d76.8184763!16s%2Fg%2F11x2spc7pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "crown-dentistry-kalaburagi",
@@ -3250,7 +3223,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CROWN+DENTISTRY/@17.3200301,76.8260762,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c17755dc2591:0x1782716b613ca1e4!8m2!3d17.3200301!4d76.8260762!16s%2Fg%2F11px9x_l72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CROWN+DENTISTRY/@17.3200301,76.8260762,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c17755dc2591:0x1782716b613ca1e4!8m2!3d17.3200301!4d76.8260762!16s%2Fg%2F11px9x_l72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3316,11 +3289,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CROWN+DENTISTRY/@17.3200301,76.8260762,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c17755dc2591:0x1782716b613ca1e4!8m2!3d17.3200301!4d76.8260762!16s%2Fg%2F11px9x_l72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cure-dental-clinic-kalaburagi",
@@ -3368,7 +3340,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CURE+DENTAL+CLINIC/@17.3451734,76.8592737,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7b8e8f10e8b:0x61229dada7b908!8m2!3d17.3451734!4d76.8592737!16s%2Fg%2F11xvszbwr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CURE+DENTAL+CLINIC/@17.3451734,76.8592737,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7b8e8f10e8b:0x61229dada7b908!8m2!3d17.3451734!4d76.8592737!16s%2Fg%2F11xvszbwr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3437,8 +3409,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CURE+DENTAL+CLINIC/@17.3451734,76.8592737,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7b8e8f10e8b:0x61229dada7b908!8m2!3d17.3451734!4d76.8592737!16s%2Fg%2F11xvszbwr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dantah-dental-kalaburagi",
@@ -3486,7 +3457,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DantaH+DentaL/@17.2997731,76.8170855,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf417e539ef5:0xfcac82055926b7e8!8m2!3d17.2997731!4d76.8170855!16s%2Fg%2F11fqplbg6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DantaH+DentaL/@17.2997731,76.8170855,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf417e539ef5:0xfcac82055926b7e8!8m2!3d17.2997731!4d76.8170855!16s%2Fg%2F11fqplbg6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3555,8 +3526,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DantaH+DentaL/@17.2997731,76.8170855,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf417e539ef5:0xfcac82055926b7e8!8m2!3d17.2997731!4d76.8170855!16s%2Fg%2F11fqplbg6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "darga-cross-kalaburagi",
@@ -3602,7 +3572,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Darga+cross/@17.3248971,76.8645451,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1006f21769b:0xb2cfbd23d17e868c!8m2!3d17.3248971!4d76.8645451!16s%2Fg%2F11wmxj5xpr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Darga+cross/@17.3248971,76.8645451,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1006f21769b:0xb2cfbd23d17e868c!8m2!3d17.3248971!4d76.8645451!16s%2Fg%2F11wmxj5xpr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3668,11 +3638,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Darga+cross/@17.3248971,76.8645451,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1006f21769b:0xb2cfbd23d17e868c!8m2!3d17.3248971!4d76.8645451!16s%2Fg%2F11wmxj5xpr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "darsh-neuro-clinic-kalaburagi",
@@ -3721,7 +3690,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Darsh+Neuro+Clinic/@17.3343717,76.8354839,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7504fa45f23:0x5350fdc587b13981!8m2!3d17.3343717!4d76.8354839!16s%2Fg%2F11gf8fvvnc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Darsh+Neuro+Clinic/@17.3343717,76.8354839,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7504fa45f23:0x5350fdc587b13981!8m2!3d17.3343717!4d76.8354839!16s%2Fg%2F11gf8fvvnc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3787,11 +3756,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Darsh+Neuro+Clinic/@17.3343717,76.8354839,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7504fa45f23:0x5350fdc587b13981!8m2!3d17.3343717!4d76.8354839!16s%2Fg%2F11gf8fvvnc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "darusshifa-surgical-hospital-kalaburagi",
@@ -3839,7 +3807,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Darusshifa+Surgical+Hospital/@17.3437681,76.8607133,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7559b2f56e7:0xc7ce12e09e998974!8m2!3d17.3437681!4d76.8607133!16s%2Fg%2F11fks90ds6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Darusshifa+Surgical+Hospital/@17.3437681,76.8607133,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7559b2f56e7:0xc7ce12e09e998974!8m2!3d17.3437681!4d76.8607133!16s%2Fg%2F11fks90ds6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3908,8 +3876,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Darusshifa+Surgical+Hospital/@17.3437681,76.8607133,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7559b2f56e7:0xc7ce12e09e998974!8m2!3d17.3437681!4d76.8607133!16s%2Fg%2F11fks90ds6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "deccan-care-hospital-kalaburagi",
@@ -3957,7 +3924,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Deccan+Care+Hospital/@17.3494304,76.8221469,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b89f11dea019:0xfe2ee80aea03461c!8m2!3d17.3494304!4d76.8221469!16s%2Fg%2F11c6_vyptb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deccan+Care+Hospital/@17.3494304,76.8221469,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b89f11dea019:0xfe2ee80aea03461c!8m2!3d17.3494304!4d76.8221469!16s%2Fg%2F11c6_vyptb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4023,11 +3990,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Deccan+Care+Hospital/@17.3494304,76.8221469,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b89f11dea019:0xfe2ee80aea03461c!8m2!3d17.3494304!4d76.8221469!16s%2Fg%2F11c6_vyptb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dermashine-kalaburagi",
@@ -4077,7 +4043,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dermashine/@17.3333948,76.8396878,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c700794ad4c7:0x207af144f57c62b6!8m2!3d17.3333948!4d76.8396878!16s%2Fg%2F11vxclj9kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dermashine/@17.3333948,76.8396878,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c700794ad4c7:0x207af144f57c62b6!8m2!3d17.3333948!4d76.8396878!16s%2Fg%2F11vxclj9kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4146,8 +4112,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dermashine/@17.3333948,76.8396878,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c700794ad4c7:0x207af144f57c62b6!8m2!3d17.3333948!4d76.8396878!16s%2Fg%2F11vxclj9kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "devata-hospital-kalaburagi",
@@ -4195,7 +4160,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Devata+Hospital/@17.3255354,76.828679,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c754c0000001:0x590da31e8895655d!8m2!3d17.3255354!4d76.828679!16s%2Fg%2F11bcf23s2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devata+Hospital/@17.3255354,76.828679,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c754c0000001:0x590da31e8895655d!8m2!3d17.3255354!4d76.828679!16s%2Fg%2F11bcf23s2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4264,8 +4229,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Devata+Hospital/@17.3255354,76.828679,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c754c0000001:0x590da31e8895655d!8m2!3d17.3255354!4d76.828679!16s%2Fg%2F11bcf23s2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "devika-maternity-home-and-ivf-hospital-kalaburagi",
@@ -4315,7 +4279,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Devika+Maternity+Home+%26+IVF+Hospital/@17.3283447,76.8578454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c732e4076639:0x201450d7ca054f7b!8m2!3d17.3283447!4d76.8578454!16s%2Fg%2F124yfv9sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devika+Maternity+Home+%26+IVF+Hospital/@17.3283447,76.8578454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c732e4076639:0x201450d7ca054f7b!8m2!3d17.3283447!4d76.8578454!16s%2Fg%2F124yfv9sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4384,8 +4348,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Devika+Maternity+Home+%26+IVF+Hospital/@17.3283447,76.8578454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c732e4076639:0x201450d7ca054f7b!8m2!3d17.3283447!4d76.8578454!16s%2Fg%2F124yfv9sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhrivya-dentistry-kalaburagi",
@@ -4433,7 +4396,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dhrivya+Dentistry/@17.3338916,76.8370856,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c77a7b89f6b5:0x904e0841119ea04!8m2!3d17.3338916!4d76.8370856!16s%2Fg%2F11vqmm6s_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhrivya+Dentistry/@17.3338916,76.8370856,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c77a7b89f6b5:0x904e0841119ea04!8m2!3d17.3338916!4d76.8370856!16s%2Fg%2F11vqmm6s_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4499,11 +4462,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dhrivya+Dentistry/@17.3338916,76.8370856,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c77a7b89f6b5:0x904e0841119ea04!8m2!3d17.3338916!4d76.8370856!16s%2Fg%2F11vqmm6s_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "district-government-hospital-gulbarga-kalaburagi",
@@ -4551,7 +4513,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/District+Government+Hospital+Gulbarga/@17.3286848,76.8407434,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74c50ec81d1:0xe3e008561bd627b!8m2!3d17.3286848!4d76.8407434!16s%2Fg%2F1tvq2kx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Government+Hospital+Gulbarga/@17.3286848,76.8407434,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74c50ec81d1:0xe3e008561bd627b!8m2!3d17.3286848!4d76.8407434!16s%2Fg%2F1tvq2kx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4620,8 +4582,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/District+Government+Hospital+Gulbarga/@17.3286848,76.8407434,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74c50ec81d1:0xe3e008561bd627b!8m2!3d17.3286848!4d76.8407434!16s%2Fg%2F1tvq2kx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "drishti-eye-hospital-kalaburagi-kalaburagi",
@@ -4670,7 +4631,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Drishti+Eye+Hospital+Kalaburagi/@17.3334478,76.8398457,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7f3d18a6ed7:0x4def6cb128e8e030!8m2!3d17.3334478!4d76.8398457!16s%2Fg%2F11g251ym5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Drishti+Eye+Hospital+Kalaburagi/@17.3334478,76.8398457,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7f3d18a6ed7:0x4def6cb128e8e030!8m2!3d17.3334478!4d76.8398457!16s%2Fg%2F11g251ym5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4739,8 +4700,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Drishti+Eye+Hospital+Kalaburagi/@17.3334478,76.8398457,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7f3d18a6ed7:0x4def6cb128e8e030!8m2!3d17.3334478!4d76.8398457!16s%2Fg%2F11g251ym5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "drkarbhari-s-sri-sai-dental-clinic-besides-bandhu-printers-mahalaxmi-layout-road-turning-cross",
@@ -4788,7 +4748,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DrKarbhari's+Sri+Sai+dental+clinic/@17.3396178,76.8275174,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c79a73ac8041:0x18785a320c17fe12!8m2!3d17.3396178!4d76.8275174!16s%2Fg%2F11f61spr4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DrKarbhari's+Sri+Sai+dental+clinic/@17.3396178,76.8275174,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c79a73ac8041:0x18785a320c17fe12!8m2!3d17.3396178!4d76.8275174!16s%2Fg%2F11f61spr4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4857,8 +4817,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DrKarbhari's+Sri+Sai+dental+clinic/@17.3396178,76.8275174,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c79a73ac8041:0x18785a320c17fe12!8m2!3d17.3396178!4d76.8275174!16s%2Fg%2F11f61spr4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "drushti-orthodontics-and-family-dentistry-kalaburagi",
@@ -4908,7 +4867,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DRUSHTI+ORTHODONTICS+AND+FAMILY+DENTISTRY/@17.3480072,76.8228734,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c748efd95e8d:0x68a912f5d7a51d90!8m2!3d17.3480072!4d76.8228734!16s%2Fg%2F11fn9j20sz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DRUSHTI+ORTHODONTICS+AND+FAMILY+DENTISTRY/@17.3480072,76.8228734,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c748efd95e8d:0x68a912f5d7a51d90!8m2!3d17.3480072!4d76.8228734!16s%2Fg%2F11fn9j20sz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4977,8 +4936,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DRUSHTI+ORTHODONTICS+AND+FAMILY+DENTISTRY/@17.3480072,76.8228734,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c748efd95e8d:0x68a912f5d7a51d90!8m2!3d17.3480072!4d76.8228734!16s%2Fg%2F11fn9j20sz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "esic-medical-college-and-hospital-gulbarga-kusnur",
@@ -5027,7 +4985,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ESIC+Medical+College+%26+Hospital,+Gulbarga/@17.3216051,76.8717372,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0d605f837d3:0xd42ec68af32ed800!8m2!3d17.3216051!4d76.8717372!16s%2Fg%2F1tnk_v_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ESIC+Medical+College+%26+Hospital,+Gulbarga/@17.3216051,76.8717372,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0d605f837d3:0xd42ec68af32ed800!8m2!3d17.3216051!4d76.8717372!16s%2Fg%2F1tnk_v_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5096,8 +5054,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ESIC+Medical+College+%26+Hospital,+Gulbarga/@17.3216051,76.8717372,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0d605f837d3:0xd42ec68af32ed800!8m2!3d17.3216051!4d76.8717372!16s%2Fg%2F1tnk_v_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ghanti-rheumatology-and-immunology-centre-kalaburagi",
@@ -5146,7 +5103,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ghanti+Rheumatology+and+Immunology+Centre./@17.3340811,76.8535709,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c794b4740a81:0x4e58371917d11a3e!8m2!3d17.3340811!4d76.8535709!16s%2Fg%2F11hjybk6sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ghanti+Rheumatology+and+Immunology+Centre./@17.3340811,76.8535709,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c794b4740a81:0x4e58371917d11a3e!8m2!3d17.3340811!4d76.8535709!16s%2Fg%2F11hjybk6sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5215,8 +5172,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ghanti+Rheumatology+and+Immunology+Centre./@17.3340811,76.8535709,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c794b4740a81:0x4e58371917d11a3e!8m2!3d17.3340811!4d76.8535709!16s%2Fg%2F11hjybk6sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "girish-kidney-care-centre-navindgi",
@@ -5265,7 +5221,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Girish+Kidney+Care+Centre/@17.3873785,76.1311686,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c753146d8ea9:0x88d89b0b2f6f606!8m2!3d17.3873785!4d76.1311686!16s%2Fg%2F11hbk5dj1_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Girish+Kidney+Care+Centre/@17.3873785,76.1311686,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c753146d8ea9:0x88d89b0b2f6f606!8m2!3d17.3873785!4d76.1311686!16s%2Fg%2F11hbk5dj1_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5334,8 +5290,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Girish+Kidney+Care+Centre/@17.3873785,76.1311686,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c753146d8ea9:0x88d89b0b2f6f606!8m2!3d17.3873785!4d76.1311686!16s%2Fg%2F11hbk5dj1_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-gastro-and-liver-clinic-advanced-endoscopy-center-kalaburagi",
@@ -5385,7 +5340,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Global+Gastro+%26+Liver+Clinic+(Advanced+Endoscopy+Center)/@17.3354994,76.843033,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c763af76b9df:0x2d4ca14e4ddaa1b8!8m2!3d17.3354994!4d76.843033!16s%2Fg%2F11ff2pjxk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Gastro+%26+Liver+Clinic+(Advanced+Endoscopy+Center)/@17.3354994,76.843033,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c763af76b9df:0x2d4ca14e4ddaa1b8!8m2!3d17.3354994!4d76.843033!16s%2Fg%2F11ff2pjxk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5454,8 +5409,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Global+Gastro+%26+Liver+Clinic+(Advanced+Endoscopy+Center)/@17.3354994,76.843033,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c763af76b9df:0x2d4ca14e4ddaa1b8!8m2!3d17.3354994!4d76.843033!16s%2Fg%2F11ff2pjxk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-laboratory-global-gatsro-liver-hospital-kalaburagi",
@@ -5505,7 +5459,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Global+Laboratory+(Global+gatsro+liver+hospital)/@17.3353693,76.8429776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73e170c6307:0x70be0220151ebdeb!8m2!3d17.3353693!4d76.8429776!16s%2Fg%2F11qqchpdpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Laboratory+(Global+gatsro+liver+hospital)/@17.3353693,76.8429776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73e170c6307:0x70be0220151ebdeb!8m2!3d17.3353693!4d76.8429776!16s%2Fg%2F11qqchpdpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5574,8 +5528,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Global+Laboratory+(Global+gatsro+liver+hospital)/@17.3353693,76.8429776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73e170c6307:0x70be0220151ebdeb!8m2!3d17.3353693!4d76.8429776!16s%2Fg%2F11qqchpdpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "glow-and-grow-skin-and-hair-clinic-best-skin-specialist-prp-treatment-in-gulbarga-kalaburagi",
@@ -5624,7 +5577,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Glow+%26+Grow+Skin+and+Hair+Clinic+%E2%80%93+Best+Skin+Specialist,+PRP+Treatment+in+Gulbarga/@17.3243197,76.8280388,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c110d93ed127:0xa403ebb84a9086fd!8m2!3d17.3243197!4d76.8280388!16s%2Fg%2F11mvvjgxhc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Glow+%26+Grow+Skin+and+Hair+Clinic+%E2%80%93+Best+Skin+Specialist,+PRP+Treatment+in+Gulbarga/@17.3243197,76.8280388,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c110d93ed127:0xa403ebb84a9086fd!8m2!3d17.3243197!4d76.8280388!16s%2Fg%2F11mvvjgxhc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5693,8 +5646,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Glow+%26+Grow+Skin+and+Hair+Clinic+%E2%80%93+Best+Skin+Specialist,+PRP+Treatment+in+Gulbarga/@17.3243197,76.8280388,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c110d93ed127:0xa403ebb84a9086fd!8m2!3d17.3243197!4d76.8280388!16s%2Fg%2F11mvvjgxhc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gubbi-diagnostics-kalaburagi",
@@ -5743,7 +5695,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gubbi+Diagnostics/@17.3227362,76.8227668,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf54e6619535:0x7895f4905986c10d!8m2!3d17.3227362!4d76.8227668!16s%2Fg%2F11g6nzlp43?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gubbi+Diagnostics/@17.3227362,76.8227668,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf54e6619535:0x7895f4905986c10d!8m2!3d17.3227362!4d76.8227668!16s%2Fg%2F11g6nzlp43?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5812,8 +5764,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gubbi+Diagnostics/@17.3227362,76.8227668,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf54e6619535:0x7895f4905986c10d!8m2!3d17.3227362!4d76.8227668!16s%2Fg%2F11g6nzlp43?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gulbarga-dental-clinic-kalaburagi",
@@ -5861,7 +5812,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gulbarga+Dental+Clinic/@17.3364677,76.8370664,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c75efd4f1703:0x3bf07008fc5cec35!8m2!3d17.3364677!4d76.8370664!16s%2Fg%2F12hlx68c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gulbarga+Dental+Clinic/@17.3364677,76.8370664,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c75efd4f1703:0x3bf07008fc5cec35!8m2!3d17.3364677!4d76.8370664!16s%2Fg%2F12hlx68c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5930,8 +5881,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gulbarga+Dental+Clinic/@17.3364677,76.8370664,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c75efd4f1703:0x3bf07008fc5cec35!8m2!3d17.3364677!4d76.8370664!16s%2Fg%2F12hlx68c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gulbarga-institute-of-medical-sciences-hospital-kalaburagi",
@@ -5980,7 +5930,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gulbarga+Institute+of+Medical+Sciences+Hospital/@17.3296026,76.8399294,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74da9db9bd1:0xcfd78c639e51f3b3!8m2!3d17.3296026!4d76.8399294!16s%2Fg%2F11f15dn_8s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gulbarga+Institute+of+Medical+Sciences+Hospital/@17.3296026,76.8399294,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74da9db9bd1:0xcfd78c639e51f3b3!8m2!3d17.3296026!4d76.8399294!16s%2Fg%2F11f15dn_8s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6049,8 +5999,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gulbarga+Institute+of+Medical+Sciences+Hospital/@17.3296026,76.8399294,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74da9db9bd1:0xcfd78c639e51f3b3!8m2!3d17.3296026!4d76.8399294!16s%2Fg%2F11f15dn_8s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "guttedar-s-dental-and-maxillofacial-centre-kalaburagi",
@@ -6099,7 +6048,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Guttedar's+Dental+%26+Maxillofacial+Centre/@17.3257675,76.8320594,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7fc60da0987:0x49a05207d66bc487!8m2!3d17.3257675!4d76.8320594!16s%2Fg%2F11q8gyz0g1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Guttedar's+Dental+%26+Maxillofacial+Centre/@17.3257675,76.8320594,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7fc60da0987:0x49a05207d66bc487!8m2!3d17.3257675!4d76.8320594!16s%2Fg%2F11q8gyz0g1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6168,8 +6117,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Guttedar's+Dental+%26+Maxillofacial+Centre/@17.3257675,76.8320594,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7fc60da0987:0x49a05207d66bc487!8m2!3d17.3257675!4d76.8320594!16s%2Fg%2F11q8gyz0g1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hammad-medical-center-kalaburagi",
@@ -6217,7 +6165,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hammad+Medical+Center/@17.3357897,76.8461643,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7485f8627ab:0x2fb935b0d53c4224!8m2!3d17.3357897!4d76.8461643!16s%2Fg%2F11gfk3vpn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hammad+Medical+Center/@17.3357897,76.8461643,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7485f8627ab:0x2fb935b0d53c4224!8m2!3d17.3357897!4d76.8461643!16s%2Fg%2F11gfk3vpn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6286,8 +6234,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hammad+Medical+Center/@17.3357897,76.8461643,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7485f8627ab:0x2fb935b0d53c4224!8m2!3d17.3357897!4d76.8461643!16s%2Fg%2F11gfk3vpn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "harwal-hospital-kalaburagi",
@@ -6335,7 +6282,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Harwal+Hospital/@17.3381035,76.8290584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c759b478a049:0xc4533a6944511ea5!8m2!3d17.3381035!4d76.8290584!16s%2Fg%2F11c4bdq4lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Harwal+Hospital/@17.3381035,76.8290584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c759b478a049:0xc4533a6944511ea5!8m2!3d17.3381035!4d76.8290584!16s%2Fg%2F11c4bdq4lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6404,8 +6351,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Harwal+Hospital/@17.3381035,76.8290584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c759b478a049:0xc4533a6944511ea5!8m2!3d17.3381035!4d76.8290584!16s%2Fg%2F11c4bdq4lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hcg-cancer-hospital-brhampur-kalaburagi-kalaburagi",
@@ -6455,7 +6401,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Brhampur,+Kalaburagi)/@17.3256879,76.8316589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c754a774658f:0x750982d8c3b1d364!8m2!3d17.3256879!4d76.8316589!16s%2Fg%2F11c5trfx6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Brhampur,+Kalaburagi)/@17.3256879,76.8316589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c754a774658f:0x750982d8c3b1d364!8m2!3d17.3256879!4d76.8316589!16s%2Fg%2F11c5trfx6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6524,8 +6470,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Brhampur,+Kalaburagi)/@17.3256879,76.8316589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c754a774658f:0x750982d8c3b1d364!8m2!3d17.3256879!4d76.8316589!16s%2Fg%2F11c5trfx6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hebbal-heart-centre-kalaburagi",
@@ -6574,7 +6519,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hebbal+Heart+centre/@17.3335071,76.838586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c78e1cb91719:0xa66fa1cfe1e694f4!8m2!3d17.3335071!4d76.838586!16s%2Fg%2F11h8x7qk1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hebbal+Heart+centre/@17.3335071,76.838586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c78e1cb91719:0xa66fa1cfe1e694f4!8m2!3d17.3335071!4d76.838586!16s%2Fg%2F11h8x7qk1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6643,8 +6588,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hebbal+Heart+centre/@17.3335071,76.838586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c78e1cb91719:0xa66fa1cfe1e694f4!8m2!3d17.3335071!4d76.838586!16s%2Fg%2F11h8x7qk1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "high-born-center-for-hair-transplant-cosmetic-surgery-and-laser-kalaburagi",
@@ -6693,7 +6637,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/High+Born+Center+for+Hair+Transplant,+Cosmetic+Surgery+%26+Laser/@17.3298263,76.8387527,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74debaaed7b:0xb512d16163fbaadb!8m2!3d17.3298263!4d76.8387527!16s%2Fg%2F11f3qx4tcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/High+Born+Center+for+Hair+Transplant,+Cosmetic+Surgery+%26+Laser/@17.3298263,76.8387527,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74debaaed7b:0xb512d16163fbaadb!8m2!3d17.3298263!4d76.8387527!16s%2Fg%2F11f3qx4tcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6762,8 +6706,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/High+Born+Center+for+Hair+Transplant,+Cosmetic+Surgery+%26+Laser/@17.3298263,76.8387527,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74debaaed7b:0xb512d16163fbaadb!8m2!3d17.3298263!4d76.8387527!16s%2Fg%2F11f3qx4tcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hijamah-therapy-for-ladies-kalaburagi",
@@ -6811,7 +6754,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hijamah+Therapy+for+Ladies/@17.339844,76.8588515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73aeb83e373:0x60230567faedf3bf!8m2!3d17.339844!4d76.8588515!16s%2Fg%2F11fy4fm16c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hijamah+Therapy+for+Ladies/@17.339844,76.8588515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73aeb83e373:0x60230567faedf3bf!8m2!3d17.339844!4d76.8588515!16s%2Fg%2F11fy4fm16c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6880,8 +6823,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hijamah+Therapy+for+Ladies/@17.339844,76.8588515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73aeb83e373:0x60230567faedf3bf!8m2!3d17.339844!4d76.8588515!16s%2Fg%2F11fy4fm16c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ident-dental-and-implant-care-kalaburagi",
@@ -6929,7 +6871,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/IDent+Dental+%26+Implant+Care/@17.3341957,76.8414925,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c766869bca4d:0xbeaf58167544b431!8m2!3d17.3341957!4d76.8414925!16s%2Fg%2F11h233x_4b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IDent+Dental+%26+Implant+Care/@17.3341957,76.8414925,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c766869bca4d:0xbeaf58167544b431!8m2!3d17.3341957!4d76.8414925!16s%2Fg%2F11h233x_4b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6995,11 +6937,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/IDent+Dental+%26+Implant+Care/@17.3341957,76.8414925,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c766869bca4d:0xbeaf58167544b431!8m2!3d17.3341957!4d76.8414925!16s%2Fg%2F11h233x_4b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-gulbarga-best-ivf-centre-kalaburagi",
@@ -7049,7 +6990,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Gulbarga+-+Best+IVF+Centre/@17.3375013,76.8442771,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7b798e4e437:0x1d08bb5f669067be!8m2!3d17.3375013!4d76.8442771!16s%2Fg%2F11hf1phhqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Gulbarga+-+Best+IVF+Centre/@17.3375013,76.8442771,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7b798e4e437:0x1d08bb5f669067be!8m2!3d17.3375013!4d76.8442771!16s%2Fg%2F11hf1phhqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7118,8 +7059,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Gulbarga+-+Best+IVF+Centre/@17.3375013,76.8442771,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7b798e4e437:0x1d08bb5f669067be!8m2!3d17.3375013!4d76.8442771!16s%2Fg%2F11hf1phhqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jayadeva-hospital-gulbarga-karnataka-kalaburagi",
@@ -7169,7 +7109,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jayadeva+Hospital,+Gulbarga+Karnataka/@17.3297527,76.8353349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74d09cef6e5:0x9a7da44e5254ca75!8m2!3d17.3297527!4d76.8353349!16s%2Fg%2F124sv88nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jayadeva+Hospital,+Gulbarga+Karnataka/@17.3297527,76.8353349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74d09cef6e5:0x9a7da44e5254ca75!8m2!3d17.3297527!4d76.8353349!16s%2Fg%2F124sv88nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7238,8 +7178,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jayadeva+Hospital,+Gulbarga+Karnataka/@17.3297527,76.8353349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74d09cef6e5:0x9a7da44e5254ca75!8m2!3d17.3297527!4d76.8353349!16s%2Fg%2F124sv88nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-jyoti-hospital-kalaburagi",
@@ -7288,7 +7227,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/@17.3288044,76.8176419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8ac31894599:0x5be569f16144067!8m2!3d17.3288044!4d76.8176419!16s%2Fg%2F1hc8421bk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/@17.3288044,76.8176419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8ac31894599:0x5be569f16144067!8m2!3d17.3288044!4d76.8176419!16s%2Fg%2F1hc8421bk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7357,8 +7296,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/@17.3288044,76.8176419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8ac31894599:0x5be569f16144067!8m2!3d17.3288044!4d76.8176419!16s%2Fg%2F1hc8421bk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kadwade-s-orthoderma-clinic-kalaburagi",
@@ -7407,7 +7345,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kadwade%E2%80%99s+Orthoderma+clinic/@17.3179589,76.8606703,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c10a23f41d5d:0xf845f4931a33b71a!8m2!3d17.3179589!4d76.8606703!16s%2Fg%2F11xp2szf6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kadwade%E2%80%99s+Orthoderma+clinic/@17.3179589,76.8606703,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c10a23f41d5d:0xf845f4931a33b71a!8m2!3d17.3179589!4d76.8606703!16s%2Fg%2F11xp2szf6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7476,8 +7414,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kadwade%E2%80%99s+Orthoderma+clinic/@17.3179589,76.8606703,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c10a23f41d5d:0xf845f4931a33b71a!8m2!3d17.3179589!4d76.8606703!16s%2Fg%2F11xp2szf6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kalaskar-hospital-kalaburagi",
@@ -7526,7 +7463,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kalaskar+Hospital/@17.3104763,76.8151701,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bff7831f06b3:0xe0b142cf27f38f5c!8m2!3d17.3104763!4d76.8151701!16s%2Fg%2F11qnd11zz5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalaskar+Hospital/@17.3104763,76.8151701,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bff7831f06b3:0xe0b142cf27f38f5c!8m2!3d17.3104763!4d76.8151701!16s%2Fg%2F11qnd11zz5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7595,8 +7532,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kalaskar+Hospital/@17.3104763,76.8151701,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bff7831f06b3:0xe0b142cf27f38f5c!8m2!3d17.3104763!4d76.8151701!16s%2Fg%2F11qnd11zz5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kalpataru-surgical-speciality-clinic-kalaburagi",
@@ -7645,7 +7581,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kalpataru+surgical+speciality+clinic/@17.3093246,76.818776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfd462b9a843:0xfaa3623c7b4d27d1!8m2!3d17.3093246!4d76.818776!16s%2Fg%2F11jyk9_wx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalpataru+surgical+speciality+clinic/@17.3093246,76.818776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfd462b9a843:0xfaa3623c7b4d27d1!8m2!3d17.3093246!4d76.818776!16s%2Fg%2F11jyk9_wx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7711,11 +7647,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kalpataru+surgical+speciality+clinic/@17.3093246,76.818776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfd462b9a843:0xfaa3623c7b4d27d1!8m2!3d17.3093246!4d76.818776!16s%2Fg%2F11jyk9_wx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kamareddy-hospital-kalaburagi",
@@ -7763,7 +7698,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kamareddy+Hospital/@17.3223947,76.8231916,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf54e1dd5fff:0xa907e3c578a2f6b3!8m2!3d17.3223947!4d76.8231916!16s%2Fg%2F1263l5b1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamareddy+Hospital/@17.3223947,76.8231916,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf54e1dd5fff:0xa907e3c578a2f6b3!8m2!3d17.3223947!4d76.8231916!16s%2Fg%2F1263l5b1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7829,11 +7764,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kamareddy+Hospital/@17.3223947,76.8231916,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf54e1dd5fff:0xa907e3c578a2f6b3!8m2!3d17.3223947!4d76.8231916!16s%2Fg%2F1263l5b1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kamthan-diabetic-centre-gulbarga-kalaburagi",
@@ -7879,7 +7813,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kamthan+Diabetic+Centre+Gulbarga/@17.345465,76.8519362,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c741be5285f5:0xbf190f2d74aaa298!8m2!3d17.345465!4d76.8519362!16s%2Fg%2F11f3m8r73v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamthan+Diabetic+Centre+Gulbarga/@17.345465,76.8519362,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c741be5285f5:0xbf190f2d74aaa298!8m2!3d17.345465!4d76.8519362!16s%2Fg%2F11f3m8r73v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7945,11 +7879,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kamthan+Diabetic+Centre+Gulbarga/@17.345465,76.8519362,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c741be5285f5:0xbf190f2d74aaa298!8m2!3d17.345465!4d76.8519362!16s%2Fg%2F11f3m8r73v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kidwai-cancer-institute-kalaburagi-kalaburagi",
@@ -7997,7 +7930,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kidwai+cancer+Institute+Kalaburagi/@17.3277042,76.8407555,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7543b44d2eb:0x92a2d3407f72f5fb!8m2!3d17.3277042!4d76.8407555!16s%2Fg%2F11gy3htybb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kidwai+cancer+Institute+Kalaburagi/@17.3277042,76.8407555,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7543b44d2eb:0x92a2d3407f72f5fb!8m2!3d17.3277042!4d76.8407555!16s%2Fg%2F11gy3htybb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8066,8 +7999,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kidwai+cancer+Institute+Kalaburagi/@17.3277042,76.8407555,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7543b44d2eb:0x92a2d3407f72f5fb!8m2!3d17.3277042!4d76.8407555!16s%2Fg%2F11gy3htybb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kinagi-hospital-kalaburagi",
@@ -8116,7 +8048,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kinagi+Hospital/@17.3193643,76.8251955,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf55ef8afeaf:0xe43343410e188096!8m2!3d17.3193643!4d76.8251955!16s%2Fg%2F11g9r36ktn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kinagi+Hospital/@17.3193643,76.8251955,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf55ef8afeaf:0xe43343410e188096!8m2!3d17.3193643!4d76.8251955!16s%2Fg%2F11g9r36ktn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8185,8 +8117,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kinagi+Hospital/@17.3193643,76.8251955,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf55ef8afeaf:0xe43343410e188096!8m2!3d17.3193643!4d76.8251955!16s%2Fg%2F11g9r36ktn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "konin-heart-clinic-kalaburagi",
@@ -8235,7 +8166,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KONIN+HEART+CLINIC/@17.3236637,76.8187193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bff5ab886995:0x12ab584ffda773b7!8m2!3d17.3236637!4d76.8187193!16s%2Fg%2F11l8fztxr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KONIN+HEART+CLINIC/@17.3236637,76.8187193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bff5ab886995:0x12ab584ffda773b7!8m2!3d17.3236637!4d76.8187193!16s%2Fg%2F11l8fztxr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8304,8 +8235,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KONIN+HEART+CLINIC/@17.3236637,76.8187193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bff5ab886995:0x12ab584ffda773b7!8m2!3d17.3236637!4d76.8187193!16s%2Fg%2F11l8fztxr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kural-hospital-kalaburagi",
@@ -8353,7 +8283,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kural+hospital/@17.328733,76.8166567,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc703f358d1:0x88efcc79dcfd18d2!8m2!3d17.328733!4d76.8166567!16s%2Fg%2F11hdwgps1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kural+hospital/@17.328733,76.8166567,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc703f358d1:0x88efcc79dcfd18d2!8m2!3d17.328733!4d76.8166567!16s%2Fg%2F11hdwgps1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8422,8 +8352,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kural+hospital/@17.328733,76.8166567,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc703f358d1:0x88efcc79dcfd18d2!8m2!3d17.328733!4d76.8166567!16s%2Fg%2F11hdwgps1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mantri-hospital-kalaburagi",
@@ -8471,7 +8400,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mantri+hospital/@17.3413924,76.8407806,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74467430c15:0xfb9e2b9660a3dfcf!8m2!3d17.3413924!4d76.8407806!16s%2Fg%2F11c57l4mrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mantri+hospital/@17.3413924,76.8407806,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74467430c15:0xfb9e2b9660a3dfcf!8m2!3d17.3413924!4d76.8407806!16s%2Fg%2F11c57l4mrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8540,8 +8469,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mantri+hospital/@17.3413924,76.8407806,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74467430c15:0xfb9e2b9660a3dfcf!8m2!3d17.3413924!4d76.8407806!16s%2Fg%2F11c57l4mrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maxillofacial-and-dental-implant-center-kalaburagi",
@@ -8590,7 +8518,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maxillofacial+and+dental+implant+center/@17.3240399,76.8333656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0acc0b5d40b:0xbb9022d5cbf0d5d!8m2!3d17.3240399!4d76.8333656!16s%2Fg%2F11hbhkhbff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxillofacial+and+dental+implant+center/@17.3240399,76.8333656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0acc0b5d40b:0xbb9022d5cbf0d5d!8m2!3d17.3240399!4d76.8333656!16s%2Fg%2F11hbhkhbff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8656,11 +8584,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maxillofacial+and+dental+implant+center/@17.3240399,76.8333656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0acc0b5d40b:0xbb9022d5cbf0d5d!8m2!3d17.3240399!4d76.8333656!16s%2Fg%2F11hbhkhbff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mediscan-diagnostic-and-healthcare-pvt-ltd-best-diagnostics-center-in-kalaburagi-mb-nagar-kalaburagi",
@@ -8710,7 +8637,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mediscan+Diagnostic+And+Healthcare+Pvt.+Ltd.+-+Best+Diagnostics+Center+in+Kalaburagi+%7C+MB+Nagar/@17.3204364,76.8262921,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0aa76802279:0xf255e0cb1adf38a3!8m2!3d17.3204364!4d76.8262921!16s%2Fg%2F11x9bnkw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mediscan+Diagnostic+And+Healthcare+Pvt.+Ltd.+-+Best+Diagnostics+Center+in+Kalaburagi+%7C+MB+Nagar/@17.3204364,76.8262921,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0aa76802279:0xf255e0cb1adf38a3!8m2!3d17.3204364!4d76.8262921!16s%2Fg%2F11x9bnkw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8779,8 +8706,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mediscan+Diagnostic+And+Healthcare+Pvt.+Ltd.+-+Best+Diagnostics+Center+in+Kalaburagi+%7C+MB+Nagar/@17.3204364,76.8262921,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0aa76802279:0xf255e0cb1adf38a3!8m2!3d17.3204364!4d76.8262921!16s%2Fg%2F11x9bnkw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meridian-genesis-ivf-centre-kalaburagi",
@@ -8830,7 +8756,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Meridian+Genesis+IVF+centre/@17.3251581,76.8281449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7552fd6be1f:0x79519f40bfefc5ea!8m2!3d17.3251581!4d76.8281449!16s%2Fg%2F11gfcg7ff6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meridian+Genesis+IVF+centre/@17.3251581,76.8281449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7552fd6be1f:0x79519f40bfefc5ea!8m2!3d17.3251581!4d76.8281449!16s%2Fg%2F11gfcg7ff6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8899,8 +8825,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Meridian+Genesis+IVF+centre/@17.3251581,76.8281449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7552fd6be1f:0x79519f40bfefc5ea!8m2!3d17.3251581!4d76.8281449!16s%2Fg%2F11gfcg7ff6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "metro-plus-hospital-kalaburagi",
@@ -8948,7 +8873,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Metro+Plus+Hospital/@17.3282679,76.8163574,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b93d51171da7:0xd25693986c7abc64!8m2!3d17.3282679!4d76.8163574!16s%2Fg%2F11rqwz97nd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metro+Plus+Hospital/@17.3282679,76.8163574,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b93d51171da7:0xd25693986c7abc64!8m2!3d17.3282679!4d76.8163574!16s%2Fg%2F11rqwz97nd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9017,8 +8942,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Metro+Plus+Hospital/@17.3282679,76.8163574,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b93d51171da7:0xd25693986c7abc64!8m2!3d17.3282679!4d76.8163574!16s%2Fg%2F11rqwz97nd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "motherhood-hospital-kalaburagi",
@@ -9066,7 +8990,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MOTHERHOOD+HOSPITAL/@17.3381865,76.859491,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7ac1e52882f:0x3f93c8f564c7535e!8m2!3d17.3381865!4d76.859491!16s%2Fg%2F11fl370vtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MOTHERHOOD+HOSPITAL/@17.3381865,76.859491,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7ac1e52882f:0x3f93c8f564c7535e!8m2!3d17.3381865!4d76.859491!16s%2Fg%2F11fl370vtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9135,8 +9059,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MOTHERHOOD+HOSPITAL/@17.3381865,76.859491,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7ac1e52882f:0x3f93c8f564c7535e!8m2!3d17.3381865!4d76.859491!16s%2Fg%2F11fl370vtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nagathan-hospital-kalaburagi",
@@ -9184,7 +9107,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nagathan+Hospital/@17.3257244,76.8308522,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c754bb50fdf5:0x9c75d65fd90bc539!8m2!3d17.3257244!4d76.8308522!16s%2Fg%2F11f3qjf8pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nagathan+Hospital/@17.3257244,76.8308522,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c754bb50fdf5:0x9c75d65fd90bc539!8m2!3d17.3257244!4d76.8308522!16s%2Fg%2F11f3qjf8pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9250,11 +9173,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nagathan+Hospital/@17.3257244,76.8308522,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c754bb50fdf5:0x9c75d65fd90bc539!8m2!3d17.3257244!4d76.8308522!16s%2Fg%2F11f3qjf8pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "newlife-maternity-and-children-hospital-kalaburagi",
@@ -9303,7 +9225,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NEWLIFE+Maternity+and+children+hospital/@17.3306136,76.8150687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8ae173640ff:0xf167a47dff5f2ef1!8m2!3d17.3306136!4d76.8150687!16s%2Fg%2F11b_2w7vvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEWLIFE+Maternity+and+children+hospital/@17.3306136,76.8150687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8ae173640ff:0xf167a47dff5f2ef1!8m2!3d17.3306136!4d76.8150687!16s%2Fg%2F11b_2w7vvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9372,8 +9294,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NEWLIFE+Maternity+and+children+hospital/@17.3306136,76.8150687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8ae173640ff:0xf167a47dff5f2ef1!8m2!3d17.3306136!4d76.8150687!16s%2Fg%2F11b_2w7vvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirmala-cancer-clinic-kalaburagi",
@@ -9422,7 +9343,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nirmala+Cancer+Clinic/@17.3240516,76.8304181,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1b79c290771:0xb74011b88b05df9!8m2!3d17.3240516!4d76.8304181!16s%2Fg%2F11pv44_h06?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirmala+Cancer+Clinic/@17.3240516,76.8304181,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1b79c290771:0xb74011b88b05df9!8m2!3d17.3240516!4d76.8304181!16s%2Fg%2F11pv44_h06?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9488,11 +9409,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nirmala+Cancer+Clinic/@17.3240516,76.8304181,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1b79c290771:0xb74011b88b05df9!8m2!3d17.3240516!4d76.8304181!16s%2Fg%2F11pv44_h06?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nisty-heart-centre-kalaburagi",
@@ -9541,7 +9461,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nisty+Heart+Centre/@17.3239019,76.8329769,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0acb91f3d75:0x45e045d936a199b2!8m2!3d17.3239019!4d76.8329769!16s%2Fg%2F1hhj7cy3s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nisty+Heart+Centre/@17.3239019,76.8329769,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0acb91f3d75:0x45e045d936a199b2!8m2!3d17.3239019!4d76.8329769!16s%2Fg%2F1hhj7cy3s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9610,8 +9530,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nisty+Heart+Centre/@17.3239019,76.8329769,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0acb91f3d75:0x45e045d936a199b2!8m2!3d17.3239019!4d76.8329769!16s%2Fg%2F1hhj7cy3s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nisty-surgical-and-maternity-nursing-home-opp-sbi-bank-sangameshwar-colony",
@@ -9659,7 +9578,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nisty+Surgical+and+Maternity+Nursing+Home/@17.3302254,76.8278489,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73a572b0ce7:0xda56035d3cabd519!8m2!3d17.3302254!4d76.8278489!16s%2Fg%2F11h6gww0sj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nisty+Surgical+and+Maternity+Nursing+Home/@17.3302254,76.8278489,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73a572b0ce7:0xda56035d3cabd519!8m2!3d17.3302254!4d76.8278489!16s%2Fg%2F11h6gww0sj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9728,8 +9647,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nisty+Surgical+and+Maternity+Nursing+Home/@17.3302254,76.8278489,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73a572b0ce7:0xda56035d3cabd519!8m2!3d17.3302254!4d76.8278489!16s%2Fg%2F11h6gww0sj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "noora-maternity-and-general-hospital-gulbarga-kalaburagi",
@@ -9778,7 +9696,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Noora+Maternity+and+General+Hospital,+Gulbarga/@17.3434585,76.8571854,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7e965cacced:0xfcbb00097870f9e0!8m2!3d17.3434585!4d76.8571854!16s%2Fg%2F11syf3j3hm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Noora+Maternity+and+General+Hospital,+Gulbarga/@17.3434585,76.8571854,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7e965cacced:0xfcbb00097870f9e0!8m2!3d17.3434585!4d76.8571854!16s%2Fg%2F11syf3j3hm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9847,8 +9765,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Noora+Maternity+and+General+Hospital,+Gulbarga/@17.3434585,76.8571854,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7e965cacced:0xfcbb00097870f9e0!8m2!3d17.3434585!4d76.8571854!16s%2Fg%2F11syf3j3hm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oxylife-hospitals-kalaburagi",
@@ -9897,7 +9814,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oxylife+Hospitals/@17.3266608,76.8193834,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b900615ed999:0xb07a7d029f66a121!8m2!3d17.3266608!4d76.8193834!16s%2Fg%2F11z4n029l2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oxylife+Hospitals/@17.3266608,76.8193834,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b900615ed999:0xb07a7d029f66a121!8m2!3d17.3266608!4d76.8193834!16s%2Fg%2F11z4n029l2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9966,8 +9883,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oxylife+Hospitals/@17.3266608,76.8193834,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b900615ed999:0xb07a7d029f66a121!8m2!3d17.3266608!4d76.8193834!16s%2Fg%2F11z4n029l2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pastapur-hi-tech-ent-hospital-kalaburagi",
@@ -10016,7 +9932,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pastapur+Hi-Tech+ENT+Hospital/@17.3196504,76.8253587,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf55f1102423:0x77438a310dad1740!8m2!3d17.3196504!4d76.8253587!16s%2Fg%2F11fy233_tr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pastapur+Hi-Tech+ENT+Hospital/@17.3196504,76.8253587,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf55f1102423:0x77438a310dad1740!8m2!3d17.3196504!4d76.8253587!16s%2Fg%2F11fy233_tr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10085,8 +10001,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pastapur+Hi-Tech+ENT+Hospital/@17.3196504,76.8253587,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf55f1102423:0x77438a310dad1740!8m2!3d17.3196504!4d76.8253587!16s%2Fg%2F11fy233_tr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pastapur-hospital-kalaburagi",
@@ -10134,7 +10049,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pastapur+Hospital/@17.3247072,76.8196081,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8acaf8f9a71:0xe78cae64648198b!8m2!3d17.3247072!4d76.8196081!16s%2Fg%2F11gfk4hjnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pastapur+Hospital/@17.3247072,76.8196081,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8acaf8f9a71:0xe78cae64648198b!8m2!3d17.3247072!4d76.8196081!16s%2Fg%2F11gfk4hjnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10203,8 +10118,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pastapur+Hospital/@17.3247072,76.8196081,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8acaf8f9a71:0xe78cae64648198b!8m2!3d17.3247072!4d76.8196081!16s%2Fg%2F11gfk4hjnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "plaza-general-store-opp-pg-shah-hospital-aiwen-shahi-gulbarga-kalaburagi",
@@ -10253,7 +10167,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Plaza+General+Store+opp+pg+shah+hospital+Aiwen+Shahi+Gulbarga/@17.3169131,76.8299455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1990fb30f5f:0x382c88f2c6b6b22f!8m2!3d17.3169131!4d76.8299455!16s%2Fg%2F11gznczc1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Plaza+General+Store+opp+pg+shah+hospital+Aiwen+Shahi+Gulbarga/@17.3169131,76.8299455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1990fb30f5f:0x382c88f2c6b6b22f!8m2!3d17.3169131!4d76.8299455!16s%2Fg%2F11gznczc1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10322,8 +10236,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Plaza+General+Store+opp+pg+shah+hospital+Aiwen+Shahi+Gulbarga/@17.3169131,76.8299455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1990fb30f5f:0x382c88f2c6b6b22f!8m2!3d17.3169131!4d76.8299455!16s%2Fg%2F11gznczc1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rathi-e-n-t-maternity-and-dental-hospital-kalaburagi",
@@ -10374,7 +10287,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rathi+E.N.T,+Maternity+%26+Dental+Hospital/@17.3177008,76.8234822,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf5664a6b3e5:0xdfa5b681aedf71fe!8m2!3d17.3177008!4d76.8234822!16s%2Fg%2F124sv0x6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rathi+E.N.T,+Maternity+%26+Dental+Hospital/@17.3177008,76.8234822,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf5664a6b3e5:0xdfa5b681aedf71fe!8m2!3d17.3177008!4d76.8234822!16s%2Fg%2F124sv0x6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10443,8 +10356,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rathi+E.N.T,+Maternity+%26+Dental+Hospital/@17.3177008,76.8234822,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf5664a6b3e5:0xdfa5b681aedf71fe!8m2!3d17.3177008!4d76.8234822!16s%2Fg%2F124sv0x6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rejoice-dental-and-implant-clinic-kalaburagi",
@@ -10492,7 +10404,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rejoice+Dental+%26+Implant+Clinic/@17.3210552,76.8242482,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c734b88f6441:0x9663609d8f21da5a!8m2!3d17.3210552!4d76.8242482!16s%2Fg%2F11f_1vvp8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rejoice+Dental+%26+Implant+Clinic/@17.3210552,76.8242482,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c734b88f6441:0x9663609d8f21da5a!8m2!3d17.3210552!4d76.8242482!16s%2Fg%2F11f_1vvp8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10558,11 +10470,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rejoice+Dental+%26+Implant+Clinic/@17.3210552,76.8242482,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c734b88f6441:0x9663609d8f21da5a!8m2!3d17.3210552!4d76.8242482!16s%2Fg%2F11f_1vvp8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ruvan-skin-hair-and-aesthetic-clinic-kalaburagi",
@@ -10611,7 +10522,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RuVan+Skin+Hair+%26+Aesthetic+Clinic/@17.3271405,76.8327743,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7d79b0b872d:0x8cbb76e8bb566b3e!8m2!3d17.3271405!4d76.8327743!16s%2Fg%2F11ylp1c55z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RuVan+Skin+Hair+%26+Aesthetic+Clinic/@17.3271405,76.8327743,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7d79b0b872d:0x8cbb76e8bb566b3e!8m2!3d17.3271405!4d76.8327743!16s%2Fg%2F11ylp1c55z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10680,8 +10591,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RuVan+Skin+Hair+%26+Aesthetic+Clinic/@17.3271405,76.8327743,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7d79b0b872d:0x8cbb76e8bb566b3e!8m2!3d17.3271405!4d76.8327743!16s%2Fg%2F11ylp1c55z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-b-medical-centre-kalaburagi",
@@ -10731,7 +10641,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S+B+Medical+Centre/@17.3258474,76.8254395,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8aaa27f1a43:0x7560c8f7e45a515c!8m2!3d17.3258474!4d76.8254395!16s%2Fg%2F11hb8m2n_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+B+Medical+Centre/@17.3258474,76.8254395,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8aaa27f1a43:0x7560c8f7e45a515c!8m2!3d17.3258474!4d76.8254395!16s%2Fg%2F11hb8m2n_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10800,8 +10710,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S+B+Medical+Centre/@17.3258474,76.8254395,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b8aaa27f1a43:0x7560c8f7e45a515c!8m2!3d17.3258474!4d76.8254395!16s%2Fg%2F11hb8m2n_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saaol-heart-centre-kalaburagi",
@@ -10850,7 +10759,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saaol+Heart+Centre/@17.3186173,76.8178897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfe479f25c11:0x18eb4c75a1716781!8m2!3d17.3186173!4d76.8178897!16s%2Fg%2F11v3nmyzgd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+Heart+Centre/@17.3186173,76.8178897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfe479f25c11:0x18eb4c75a1716781!8m2!3d17.3186173!4d76.8178897!16s%2Fg%2F11v3nmyzgd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10916,11 +10825,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saaol+Heart+Centre/@17.3186173,76.8178897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfe479f25c11:0x18eb4c75a1716781!8m2!3d17.3186173!4d76.8178897!16s%2Fg%2F11v3nmyzgd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sadbhava-hospital-gulbarga-kalaburagi",
@@ -10969,7 +10877,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sadbhava+Hospital+Gulbarga/@17.3163191,76.8200935,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf55e42d4715:0xb40cdf08840efd97!8m2!3d17.3163191!4d76.8200935!16s%2Fg%2F11csrcxk84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadbhava+Hospital+Gulbarga/@17.3163191,76.8200935,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf55e42d4715:0xb40cdf08840efd97!8m2!3d17.3163191!4d76.8200935!16s%2Fg%2F11csrcxk84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11038,8 +10946,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sadbhava+Hospital+Gulbarga/@17.3163191,76.8200935,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf55e42d4715:0xb40cdf08840efd97!8m2!3d17.3163191!4d76.8200935!16s%2Fg%2F11csrcxk84?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sagar-orthocare-kalaburagi",
@@ -11086,7 +10993,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAGAR+ORTHOCARE/@17.3334126,76.8397867,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74e5043df1b:0xe2b97cf6be0a5496!8m2!3d17.3334126!4d76.8397867!16s%2Fg%2F11xw76knh_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAGAR+ORTHOCARE/@17.3334126,76.8397867,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74e5043df1b:0xe2b97cf6be0a5496!8m2!3d17.3334126!4d76.8397867!16s%2Fg%2F11xw76knh_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11152,11 +11059,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAGAR+ORTHOCARE/@17.3334126,76.8397867,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74e5043df1b:0xe2b97cf6be0a5496!8m2!3d17.3334126!4d76.8397867!16s%2Fg%2F11xw76knh_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-krupa-hospital-kalaburagi",
@@ -11204,7 +11110,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Krupa+Hospital/data=!4m7!3m6!1s0x3bc8c7536fd5e6f9:0x59fad567a530d03e!8m2!3d17.327053!4d76.8326132!16s%2Fg%2F11gy39k0dt!19sChIJ-ebVb1PHyDsRPtAwpWfV-lk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Krupa+Hospital/data=!4m7!3m6!1s0x3bc8c7536fd5e6f9:0x59fad567a530d03e!8m2!3d17.327053!4d76.8326132!16s%2Fg%2F11gy39k0dt!19sChIJ-ebVb1PHyDsRPtAwpWfV-lk?authuser=0&hl=en&rclk=1"
@@ -11273,8 +11179,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Krupa+Hospital/data=!4m7!3m6!1s0x3bc8c7536fd5e6f9:0x59fad567a530d03e!8m2!3d17.327053!4d76.8326132!16s%2Fg%2F11gy39k0dt!19sChIJ-ebVb1PHyDsRPtAwpWfV-lk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-sankalp-plastic-surgery-centre-kalaburagi",
@@ -11323,7 +11228,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAI+SANKALP+PLASTIC+SURGERY+CENTRE/@17.3297101,76.8680367,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf52c857ee17:0x8ab1abeb9abef8d6!8m2!3d17.3297101!4d76.8680367!16s%2Fg%2F11f3n0yrnw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAI+SANKALP+PLASTIC+SURGERY+CENTRE/@17.3297101,76.8680367,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf52c857ee17:0x8ab1abeb9abef8d6!8m2!3d17.3297101!4d76.8680367!16s%2Fg%2F11f3n0yrnw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11389,11 +11294,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAI+SANKALP+PLASTIC+SURGERY+CENTRE/@17.3297101,76.8680367,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf52c857ee17:0x8ab1abeb9abef8d6!8m2!3d17.3297101!4d76.8680367!16s%2Fg%2F11f3n0yrnw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sajjalasri-orthodontic-and-dental-clinic-kalaburagi",
@@ -11442,7 +11346,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sajjalasri+Orthodontic+%26+Dental+Clinic/@17.3266945,76.8555338,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0cd2935d46f:0x952cd5c1edaaa9b2!8m2!3d17.3266945!4d76.8555338!16s%2Fg%2F11cn3r_525?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sajjalasri+Orthodontic+%26+Dental+Clinic/@17.3266945,76.8555338,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0cd2935d46f:0x952cd5c1edaaa9b2!8m2!3d17.3266945!4d76.8555338!16s%2Fg%2F11cn3r_525?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11511,8 +11415,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sajjalasri+Orthodontic+%26+Dental+Clinic/@17.3266945,76.8555338,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0cd2935d46f:0x952cd5c1edaaa9b2!8m2!3d17.3266945!4d76.8555338!16s%2Fg%2F11cn3r_525?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sajjanshetty-heart-and-diabetes-centre-kalaburagi",
@@ -11563,7 +11466,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sajjanshetty+Heart+%26+Diabetes+centre/@17.2997559,76.8163188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf679007864b:0x835e680d248c5898!8m2!3d17.2997559!4d76.8163188!16s%2Fg%2F11gdkptc_s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sajjanshetty+Heart+%26+Diabetes+centre/@17.2997559,76.8163188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf679007864b:0x835e680d248c5898!8m2!3d17.2997559!4d76.8163188!16s%2Fg%2F11gdkptc_s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11632,8 +11535,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sajjanshetty+Heart+%26+Diabetes+centre/@17.2997559,76.8163188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf679007864b:0x835e680d248c5898!8m2!3d17.2997559!4d76.8163188!16s%2Fg%2F11gdkptc_s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "salgar-hospital-kalaburagi",
@@ -11681,7 +11583,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Salgar+Hospital/@17.3182334,76.8517302,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0c9a7d23669:0x4aa5f85bb19c069e!8m2!3d17.3182334!4d76.8517302!16s%2Fg%2F11g6p3sssk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Salgar+Hospital/@17.3182334,76.8517302,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0c9a7d23669:0x4aa5f85bb19c069e!8m2!3d17.3182334!4d76.8517302!16s%2Fg%2F11g6p3sssk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11750,8 +11652,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Salgar+Hospital/@17.3182334,76.8517302,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0c9a7d23669:0x4aa5f85bb19c069e!8m2!3d17.3182334!4d76.8517302!16s%2Fg%2F11g6p3sssk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samarth-ivf-fertility-center-best-ivf-center-in-gulbarga-kalaburagi",
@@ -11801,7 +11702,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Gulbarga/@17.3223695,76.8229991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc620498e6f:0xf702508c35962606!8m2!3d17.3223695!4d76.8229991!16s%2Fg%2F11y9xhq4h8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Gulbarga/@17.3223695,76.8229991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc620498e6f:0xf702508c35962606!8m2!3d17.3223695!4d76.8229991!16s%2Fg%2F11y9xhq4h8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11867,11 +11768,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Gulbarga/@17.3223695,76.8229991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc620498e6f:0xf702508c35962606!8m2!3d17.3223695!4d76.8229991!16s%2Fg%2F11y9xhq4h8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samarth-j-j-hospital-kalaburagi",
@@ -11919,7 +11819,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samarth+J+J+Hospital/@17.3496134,76.8419339,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c76652866f55:0xc2e81fd93abe1452!8m2!3d17.3496134!4d76.8419339!16s%2Fg%2F11hbbl3sth?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarth+J+J+Hospital/@17.3496134,76.8419339,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c76652866f55:0xc2e81fd93abe1452!8m2!3d17.3496134!4d76.8419339!16s%2Fg%2F11hbbl3sth?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11988,8 +11888,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samarth+J+J+Hospital/@17.3496134,76.8419339,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c76652866f55:0xc2e81fd93abe1452!8m2!3d17.3496134!4d76.8419339!16s%2Fg%2F11hbbl3sth?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjana-surgical-hospital-kalaburagi",
@@ -12037,7 +11936,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjana+Surgical+Hospital/@17.3038137,76.8154649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf5cd956e537:0x463efc838606399e!8m2!3d17.3038137!4d76.8154649!16s%2Fg%2F11b7ycgjc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjana+Surgical+Hospital/@17.3038137,76.8154649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf5cd956e537:0x463efc838606399e!8m2!3d17.3038137!4d76.8154649!16s%2Fg%2F11b7ycgjc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12106,8 +12005,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjana+Surgical+Hospital/@17.3038137,76.8154649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf5cd956e537:0x463efc838606399e!8m2!3d17.3038137!4d76.8154649!16s%2Fg%2F11b7ycgjc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sapna-fracture-clinic-kalaburagi",
@@ -12155,7 +12053,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAPNA+FRACTURE+CLINIC/@17.3260623,76.8579938,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7b8e9ce155d:0x91bb121e6425276!8m2!3d17.3260623!4d76.8579938!16s%2Fg%2F11rww8jcft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAPNA+FRACTURE+CLINIC/@17.3260623,76.8579938,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7b8e9ce155d:0x91bb121e6425276!8m2!3d17.3260623!4d76.8579938!16s%2Fg%2F11rww8jcft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12224,8 +12122,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAPNA+FRACTURE+CLINIC/@17.3260623,76.8579938,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7b8e9ce155d:0x91bb121e6425276!8m2!3d17.3260623!4d76.8579938!16s%2Fg%2F11rww8jcft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarojani-kidney-care-kalaburagi",
@@ -12274,7 +12171,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAROJANI+KIDNEY+CARE/@17.3043985,76.8182731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc3a7a3c859:0x728928f28bd47b1e!8m2!3d17.3043985!4d76.8182731!16s%2Fg%2F11vz943jj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAROJANI+KIDNEY+CARE/@17.3043985,76.8182731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc3a7a3c859:0x728928f28bd47b1e!8m2!3d17.3043985!4d76.8182731!16s%2Fg%2F11vz943jj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12340,11 +12237,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAROJANI+KIDNEY+CARE/@17.3043985,76.8182731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc3a7a3c859:0x728928f28bd47b1e!8m2!3d17.3043985!4d76.8182731!16s%2Fg%2F11vz943jj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shah-dental-clinic-the-implant-and-orthodontic-centre-kalaburagi",
@@ -12393,7 +12289,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shah+Dental+Clinic+The+Implant+%26+Orthodontic+Centre/@17.3094983,76.8187956,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf4569d81349:0x3d04da43023614d2!8m2!3d17.3094983!4d76.8187956!16s%2Fg%2F11hbc4fptv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shah+Dental+Clinic+The+Implant+%26+Orthodontic+Centre/@17.3094983,76.8187956,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf4569d81349:0x3d04da43023614d2!8m2!3d17.3094983!4d76.8187956!16s%2Fg%2F11hbc4fptv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12462,8 +12358,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shah+Dental+Clinic+The+Implant+%26+Orthodontic+Centre/@17.3094983,76.8187956,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf4569d81349:0x3d04da43023614d2!8m2!3d17.3094983!4d76.8187956!16s%2Fg%2F11hbc4fptv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shanti-clinic-kalaburagi",
@@ -12511,7 +12406,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shanti+Clinic/@17.3463856,76.8292276,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c75e3601e207:0xca133774cc6e8678!8m2!3d17.3463856!4d76.8292276!16s%2Fg%2F11hbn_sp_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Clinic/@17.3463856,76.8292276,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c75e3601e207:0xca133774cc6e8678!8m2!3d17.3463856!4d76.8292276!16s%2Fg%2F11hbn_sp_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12577,11 +12472,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shanti+Clinic/@17.3463856,76.8292276,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c75e3601e207:0xca133774cc6e8678!8m2!3d17.3463856!4d76.8292276!16s%2Fg%2F11hbn_sp_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivaay-piles-injection-hospital-kalaburagi",
@@ -12629,7 +12523,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivaay+Piles+Injection+Hospital/@17.3511198,76.8116569,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b92b560dbe0b:0xb46bea74991f3f44!8m2!3d17.3511198!4d76.8116569!16s%2Fg%2F11q9j7z2v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivaay+Piles+Injection+Hospital/@17.3511198,76.8116569,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b92b560dbe0b:0xb46bea74991f3f44!8m2!3d17.3511198!4d76.8116569!16s%2Fg%2F11q9j7z2v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12698,8 +12592,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivaay+Piles+Injection+Hospital/@17.3511198,76.8116569,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b92b560dbe0b:0xb46bea74991f3f44!8m2!3d17.3511198!4d76.8116569!16s%2Fg%2F11q9j7z2v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivani-piles-clinic-kalaburagi",
@@ -12747,7 +12640,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivani+Piles+Clinic/@17.32375,76.8207299,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf010708697b:0x5b7c7bc224533b73!8m2!3d17.32375!4d76.8207299!16s%2Fg%2F11f5tbmvh0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivani+Piles+Clinic/@17.32375,76.8207299,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf010708697b:0x5b7c7bc224533b73!8m2!3d17.32375!4d76.8207299!16s%2Fg%2F11f5tbmvh0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12816,8 +12709,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivani+Piles+Clinic/@17.32375,76.8207299,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf010708697b:0x5b7c7bc224533b73!8m2!3d17.32375!4d76.8207299!16s%2Fg%2F11f5tbmvh0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-dental-clinic-and-implant-centre-kalaburagi",
@@ -12865,7 +12757,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Dental+Clinic+And+Implant+Centre%2F/@17.3335082,76.8385613,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c71ea0c22b59:0xfc6d8f2ed8d3e950!8m2!3d17.3335082!4d76.8385613!16s%2Fg%2F11b7yc8t0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Dental+Clinic+And+Implant+Centre%2F/@17.3335082,76.8385613,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c71ea0c22b59:0xfc6d8f2ed8d3e950!8m2!3d17.3335082!4d76.8385613!16s%2Fg%2F11b7yc8t0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12934,8 +12826,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Dental+Clinic+And+Implant+Centre%2F/@17.3335082,76.8385613,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c71ea0c22b59:0xfc6d8f2ed8d3e950!8m2!3d17.3335082!4d76.8385613!16s%2Fg%2F11b7yc8t0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-dental-clinic-gulbarga-kalaburagi",
@@ -12983,7 +12874,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC+GULBARGA/@17.3222702,76.8231527,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74e39be3857:0x8fe9ad4da760383c!8m2!3d17.3222702!4d76.8231527!16s%2Fg%2F11fx9zwqbm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC+GULBARGA/@17.3222702,76.8231527,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74e39be3857:0x8fe9ad4da760383c!8m2!3d17.3222702!4d76.8231527!16s%2Fg%2F11fx9zwqbm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13052,8 +12943,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC+GULBARGA/@17.3222702,76.8231527,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c74e39be3857:0x8fe9ad4da760383c!8m2!3d17.3222702!4d76.8231527!16s%2Fg%2F11fx9zwqbm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-hospital-kalaburagi",
@@ -13102,7 +12992,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHREE+HOSPITAL/@17.3059197,76.8191002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf005857cfd9:0xeb9ebd9ba8c84912!8m2!3d17.3059197!4d76.8191002!16s%2Fg%2F11wwj0fwfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+HOSPITAL/@17.3059197,76.8191002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf005857cfd9:0xeb9ebd9ba8c84912!8m2!3d17.3059197!4d76.8191002!16s%2Fg%2F11wwj0fwfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13171,8 +13061,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHREE+HOSPITAL/@17.3059197,76.8191002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf005857cfd9:0xeb9ebd9ba8c84912!8m2!3d17.3059197!4d76.8191002!16s%2Fg%2F11wwj0fwfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-om-hospital-plastic-surgery-and-maternity-kalaburagi",
@@ -13220,7 +13109,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHREE+OM+Hospital+Plastic+surgery+and+Maternity/@17.3247578,76.8668066,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1004a15c7c3:0x7da971a3dbe4e648!8m2!3d17.3247578!4d76.8668066!16s%2Fg%2F11wb_597gj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+OM+Hospital+Plastic+surgery+and+Maternity/@17.3247578,76.8668066,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1004a15c7c3:0x7da971a3dbe4e648!8m2!3d17.3247578!4d76.8668066!16s%2Fg%2F11wb_597gj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13286,11 +13175,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHREE+OM+Hospital+Plastic+surgery+and+Maternity/@17.3247578,76.8668066,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c1004a15c7c3:0x7da971a3dbe4e648!8m2!3d17.3247578!4d76.8668066!16s%2Fg%2F11wb_597gj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shubham-aesthetic-clinic-kalaburagi",
@@ -13339,7 +13227,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shubham+Aesthetic+clinic/@17.3337722,76.828529,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7dd95ba2447:0x20ade72e1e2353cc!8m2!3d17.3337722!4d76.828529!16s%2Fg%2F11v9hflwz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubham+Aesthetic+clinic/@17.3337722,76.828529,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7dd95ba2447:0x20ade72e1e2353cc!8m2!3d17.3337722!4d76.828529!16s%2Fg%2F11v9hflwz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13408,8 +13296,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shubham+Aesthetic+clinic/@17.3337722,76.828529,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7dd95ba2447:0x20ade72e1e2353cc!8m2!3d17.3337722!4d76.828529!16s%2Fg%2F11v9hflwz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shwetha-dentistry-kalaburagi",
@@ -13458,7 +13345,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shwetha+Dentistry/@17.3263844,76.8327325,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7536983e5ad:0x434a4df4e294aa38!8m2!3d17.3263844!4d76.8327325!16s%2Fg%2F1hm2ps630?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shwetha+Dentistry/@17.3263844,76.8327325,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7536983e5ad:0x434a4df4e294aa38!8m2!3d17.3263844!4d76.8327325!16s%2Fg%2F1hm2ps630?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13527,8 +13414,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shwetha+Dentistry/@17.3263844,76.8327325,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7536983e5ad:0x434a4df4e294aa38!8m2!3d17.3263844!4d76.8327325!16s%2Fg%2F1hm2ps630?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shwetha-dentistry-kalaburagi",
@@ -13577,7 +13463,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shwetha+Dentistry/@17.3095703,76.8153158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf3e9d2714fd:0x8fd68c93e8e6b2de!8m2!3d17.3095703!4d76.8153158!16s%2Fg%2F11m_zjq549?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shwetha+Dentistry/@17.3095703,76.8153158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf3e9d2714fd:0x8fd68c93e8e6b2de!8m2!3d17.3095703!4d76.8153158!16s%2Fg%2F11m_zjq549?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13646,8 +13532,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shwetha+Dentistry/@17.3095703,76.8153158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf3e9d2714fd:0x8fd68c93e8e6b2de!8m2!3d17.3095703!4d76.8153158!16s%2Fg%2F11m_zjq549?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "siddaganga-dental-pedodontic-and-orthodontic-speciality-clinic-kalaburagi",
@@ -13698,7 +13583,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Siddaganga+Dental+Pedodontic+%26+Orthodontic+Speciality+Clinic/@17.3204785,76.8291624,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0abb5c6c55f:0x86f6756104273d21!8m2!3d17.3204785!4d76.8291624!16s%2Fg%2F11hbjl05mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddaganga+Dental+Pedodontic+%26+Orthodontic+Speciality+Clinic/@17.3204785,76.8291624,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0abb5c6c55f:0x86f6756104273d21!8m2!3d17.3204785!4d76.8291624!16s%2Fg%2F11hbjl05mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13767,8 +13652,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Siddaganga+Dental+Pedodontic+%26+Orthodontic+Speciality+Clinic/@17.3204785,76.8291624,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0abb5c6c55f:0x86f6756104273d21!8m2!3d17.3204785!4d76.8291624!16s%2Fg%2F11hbjl05mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "siddhii-dental-clinic-kalaburagi",
@@ -13816,7 +13700,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SIDDHII+Dental+Clinic/@17.327194,76.8533664,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7bf1bed823b:0x886ba49d256ce7be!8m2!3d17.327194!4d76.8533664!16s%2Fg%2F11xs89bjfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SIDDHII+Dental+Clinic/@17.327194,76.8533664,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7bf1bed823b:0x886ba49d256ce7be!8m2!3d17.327194!4d76.8533664!16s%2Fg%2F11xs89bjfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13882,11 +13766,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SIDDHII+Dental+Clinic/@17.327194,76.8533664,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7bf1bed823b:0x886ba49d256ce7be!8m2!3d17.327194!4d76.8533664!16s%2Fg%2F11xs89bjfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-ganesh-nursing-home-aayushman-cancer-center-kalaburagi",
@@ -13934,7 +13817,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Ganesh+Nursing+Home+(Aayushman+Cancer+Center)/@17.3070267,76.8183954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7bc475e19d3:0x3a9749f601df509a!8m2!3d17.3070267!4d76.8183954!16s%2Fg%2F11h75jjv45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Ganesh+Nursing+Home+(Aayushman+Cancer+Center)/@17.3070267,76.8183954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7bc475e19d3:0x3a9749f601df509a!8m2!3d17.3070267!4d76.8183954!16s%2Fg%2F11h75jjv45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14003,8 +13886,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Ganesh+Nursing+Home+(Aayushman+Cancer+Center)/@17.3070267,76.8183954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7bc475e19d3:0x3a9749f601df509a!8m2!3d17.3070267!4d76.8183954!16s%2Fg%2F11h75jjv45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-jayadeva-institute-of-cardiovascular-sciences-and-research-gulbarga-kalaburagi",
@@ -14052,7 +13934,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Jayadeva+Institute+of+Cardiovascular+Sciences+and+Research,+Gulbarga/@17.3301444,76.8349504,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7001a115d5d:0xfa31e4cae0c9cce3!8m2!3d17.3301444!4d76.8349504!16s%2Fg%2F11wx9v86fj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Jayadeva+Institute+of+Cardiovascular+Sciences+and+Research,+Gulbarga/@17.3301444,76.8349504,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7001a115d5d:0xfa31e4cae0c9cce3!8m2!3d17.3301444!4d76.8349504!16s%2Fg%2F11wx9v86fj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14121,8 +14003,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Jayadeva+Institute+of+Cardiovascular+Sciences+and+Research,+Gulbarga/@17.3301444,76.8349504,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c7001a115d5d:0xfa31e4cae0c9cce3!8m2!3d17.3301444!4d76.8349504!16s%2Fg%2F11wx9v86fj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-ortho-care-centre-kalaburagi",
@@ -14171,7 +14052,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRI+ORTHO+CARE+CENTRE/@17.3237013,76.8207736,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf002a2b9da1:0x12cdbd37f6374b24!8m2!3d17.3237013!4d76.8207736!16s%2Fg%2F11wqqqz2fh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+ORTHO+CARE+CENTRE/@17.3237013,76.8207736,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf002a2b9da1:0x12cdbd37f6374b24!8m2!3d17.3237013!4d76.8207736!16s%2Fg%2F11wqqqz2fh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14237,11 +14118,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRI+ORTHO+CARE+CENTRE/@17.3237013,76.8207736,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf002a2b9da1:0x12cdbd37f6374b24!8m2!3d17.3237013!4d76.8207736!16s%2Fg%2F11wqqqz2fh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sun-dental-kalaburagi",
@@ -14290,7 +14170,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sun+Dental/@17.3258575,76.8562061,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c135ac117b45:0x2a86c05843f50895!8m2!3d17.3258575!4d76.8562061!16s%2Fg%2F11v1b4896d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sun+Dental/@17.3258575,76.8562061,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c135ac117b45:0x2a86c05843f50895!8m2!3d17.3258575!4d76.8562061!16s%2Fg%2F11v1b4896d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14356,11 +14236,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sun+Dental/@17.3258575,76.8562061,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c135ac117b45:0x2a86c05843f50895!8m2!3d17.3258575!4d76.8562061!16s%2Fg%2F11v1b4896d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swasti-hospital-kalaburagi",
@@ -14408,7 +14287,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swasti+Hospital/@17.3485216,76.8170173,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b9fac24cdc15:0x4c5bfe565d2695e6!8m2!3d17.3485216!4d76.8170173!16s%2Fg%2F11spfmxjjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swasti+Hospital/@17.3485216,76.8170173,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b9fac24cdc15:0x4c5bfe565d2695e6!8m2!3d17.3485216!4d76.8170173!16s%2Fg%2F11spfmxjjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14477,8 +14356,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swasti+Hospital/@17.3485216,76.8170173,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b9fac24cdc15:0x4c5bfe565d2695e6!8m2!3d17.3485216!4d76.8170173!16s%2Fg%2F11spfmxjjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tahera-kidney-center-kalaburagi",
@@ -14525,7 +14403,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/TAHERA+KIDNEY+CENTER/@17.3418217,76.808194,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b901ed1cf683:0xefd38b188e4a2aa4!8m2!3d17.3418217!4d76.808194!16s%2Fg%2F11srv5f_vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TAHERA+KIDNEY+CENTER/@17.3418217,76.808194,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b901ed1cf683:0xefd38b188e4a2aa4!8m2!3d17.3418217!4d76.808194!16s%2Fg%2F11srv5f_vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14591,11 +14469,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/TAHERA+KIDNEY+CENTER/@17.3418217,76.808194,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8b901ed1cf683:0xefd38b188e4a2aa4!8m2!3d17.3418217!4d76.808194!16s%2Fg%2F11srv5f_vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-white-arch-dental-kalaburagi-kalaburagi",
@@ -14643,7 +14520,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+White+Arch+Dental+Kalaburagi/@17.3360019,76.8464693,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c723e48ff825:0x3b113d56f82249e0!8m2!3d17.3360019!4d76.8464693!16s%2Fg%2F11kn6fgq82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+White+Arch+Dental+Kalaburagi/@17.3360019,76.8464693,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c723e48ff825:0x3b113d56f82249e0!8m2!3d17.3360019!4d76.8464693!16s%2Fg%2F11kn6fgq82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14709,11 +14586,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+White+Arch+Dental+Kalaburagi/@17.3360019,76.8464693,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c723e48ff825:0x3b113d56f82249e0!8m2!3d17.3360019!4d76.8464693!16s%2Fg%2F11kn6fgq82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tippanna-hakeem-ayurvedic-bones-clinic-kalaburagi",
@@ -14762,7 +14638,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tippanna+Hakeem+Ayurvedic+Bones+Clinic/@17.3476436,76.8504552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73f9581fa91:0xa6878ace3fded661!8m2!3d17.3476436!4d76.8504552!16s%2Fg%2F1pzqmggwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tippanna+Hakeem+Ayurvedic+Bones+Clinic/@17.3476436,76.8504552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73f9581fa91:0xa6878ace3fded661!8m2!3d17.3476436!4d76.8504552!16s%2Fg%2F1pzqmggwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14831,8 +14707,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tippanna+Hakeem+Ayurvedic+Bones+Clinic/@17.3476436,76.8504552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c73f9581fa91:0xa6878ace3fded661!8m2!3d17.3476436!4d76.8504552!16s%2Fg%2F1pzqmggwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tooth-zone-dental-clinic-kalaburagi",
@@ -14880,7 +14755,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tooth+Zone+Dental+Clinic/@17.3261333,76.8575579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c18e0cfc030b:0xe8fd62d7db22b52e!8m2!3d17.3261333!4d76.8575579!16s%2Fg%2F11t9mm0wnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tooth+Zone+Dental+Clinic/@17.3261333,76.8575579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c18e0cfc030b:0xe8fd62d7db22b52e!8m2!3d17.3261333!4d76.8575579!16s%2Fg%2F11t9mm0wnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14949,8 +14824,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tooth+Zone+Dental+Clinic/@17.3261333,76.8575579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c18e0cfc030b:0xe8fd62d7db22b52e!8m2!3d17.3261333!4d76.8575579!16s%2Fg%2F11t9mm0wnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "unicorn-hospital-kalaburagi",
@@ -14999,7 +14873,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Unicorn+hospital/@17.348656,76.8620113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c72db2e42a27:0xaad0f9aba18e7bd3!8m2!3d17.348656!4d76.8620113!16s%2Fg%2F11krglhdlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unicorn+hospital/@17.348656,76.8620113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c72db2e42a27:0xaad0f9aba18e7bd3!8m2!3d17.348656!4d76.8620113!16s%2Fg%2F11krglhdlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15068,8 +14942,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Unicorn+hospital/@17.348656,76.8620113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c72db2e42a27:0xaad0f9aba18e7bd3!8m2!3d17.348656!4d76.8620113!16s%2Fg%2F11krglhdlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "united-hospital-gulbarga-kalaburagi",
@@ -15117,7 +14990,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/United+Hospital+Gulbarga/@17.3207259,76.8270576,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0aa6c8ea84d:0xf196ca8ebe1e421d!8m2!3d17.3207259!4d76.8270576!16s%2Fg%2F1jkvl1pjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/United+Hospital+Gulbarga/@17.3207259,76.8270576,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0aa6c8ea84d:0xf196ca8ebe1e421d!8m2!3d17.3207259!4d76.8270576!16s%2Fg%2F1jkvl1pjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15186,8 +15059,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/United+Hospital+Gulbarga/@17.3207259,76.8270576,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c0aa6c8ea84d:0xf196ca8ebe1e421d!8m2!3d17.3207259!4d76.8270576!16s%2Fg%2F1jkvl1pjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vaatsalya-hospital-kalaburagi",
@@ -15235,7 +15107,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vaatsalya+Hospital/@17.3257139,76.8313939,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c78ffc71c7f7:0xd78eb1d398c3491d!8m2!3d17.3257139!4d76.8313939!16s%2Fg%2F11m_g6bsf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaatsalya+Hospital/@17.3257139,76.8313939,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c78ffc71c7f7:0xd78eb1d398c3491d!8m2!3d17.3257139!4d76.8313939!16s%2Fg%2F11m_g6bsf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15304,8 +15176,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vaatsalya+Hospital/@17.3257139,76.8313939,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c78ffc71c7f7:0xd78eb1d398c3491d!8m2!3d17.3257139!4d76.8313939!16s%2Fg%2F11m_g6bsf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vansh-test-tube-baby-and-laparoscopy-centre-kalaburagi",
@@ -15354,7 +15225,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VANSH+TEST+TUBE+BABY+AND+LAPAROSCOPY+CENTRE/@17.3278635,76.8274293,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c71c0611ed19:0x2fbdb455ac3e4063!8m2!3d17.3278635!4d76.8274293!16s%2Fg%2F11l9rxh7vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VANSH+TEST+TUBE+BABY+AND+LAPAROSCOPY+CENTRE/@17.3278635,76.8274293,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c71c0611ed19:0x2fbdb455ac3e4063!8m2!3d17.3278635!4d76.8274293!16s%2Fg%2F11l9rxh7vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15423,8 +15294,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VANSH+TEST+TUBE+BABY+AND+LAPAROSCOPY+CENTRE/@17.3278635,76.8274293,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c71c0611ed19:0x2fbdb455ac3e4063!8m2!3d17.3278635!4d76.8274293!16s%2Fg%2F11l9rxh7vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ved-dental-clinic-kalaburagi",
@@ -15474,7 +15344,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VED+DENTAL+CLINIC/@17.2998188,76.8167567,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf0c8612e007:0x425e8eff077214c4!8m2!3d17.2998188!4d76.8167567!16s%2Fg%2F11j2p1x4vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VED+DENTAL+CLINIC/@17.2998188,76.8167567,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf0c8612e007:0x425e8eff077214c4!8m2!3d17.2998188!4d76.8167567!16s%2Fg%2F11j2p1x4vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15543,8 +15413,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VED+DENTAL+CLINIC/@17.2998188,76.8167567,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bf0c8612e007:0x425e8eff077214c4!8m2!3d17.2998188!4d76.8167567!16s%2Fg%2F11j2p1x4vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijayasu-gastro-liver-care-and-endoscopy-center-gulbarga-karnataka-kalaburagi",
@@ -15595,7 +15464,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vijayasu+Gastro+Liver+Care+%26+Endoscopy+Center+%7C+Gulbarga,+Karnataka/@17.3218674,76.8177998,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc0f818cd3d:0x10ea4ee243d87c02!8m2!3d17.3218674!4d76.8177998!16s%2Fg%2F11w81pqlp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijayasu+Gastro+Liver+Care+%26+Endoscopy+Center+%7C+Gulbarga,+Karnataka/@17.3218674,76.8177998,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc0f818cd3d:0x10ea4ee243d87c02!8m2!3d17.3218674!4d76.8177998!16s%2Fg%2F11w81pqlp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15664,8 +15533,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vijayasu+Gastro+Liver+Care+%26+Endoscopy+Center+%7C+Gulbarga,+Karnataka/@17.3218674,76.8177998,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8bfc0f818cd3d:0x10ea4ee243d87c02!8m2!3d17.3218674!4d76.8177998!16s%2Fg%2F11w81pqlp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yashoda-hospitals-medical-information-centre-gulbarga-kalaburagi",
@@ -15715,7 +15583,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+%7C+Gulbarga/@17.325138,76.8278748,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c785b17222b3:0x8d4a022758578506!8m2!3d17.325138!4d76.8278748!16s%2Fg%2F11x7mbm8ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+%7C+Gulbarga/@17.325138,76.8278748,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c785b17222b3:0x8d4a022758578506!8m2!3d17.325138!4d76.8278748!16s%2Fg%2F11x7mbm8ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15784,8 +15652,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+%7C+Gulbarga/@17.325138,76.8278748,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c785b17222b3:0x8d4a022758578506!8m2!3d17.325138!4d76.8278748!16s%2Fg%2F11x7mbm8ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yelsangikar-heart-clinic-kalaburagi",
@@ -15832,7 +15699,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yelsangikar+Heart+Clinic/@17.3295891,76.8280299,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c70077f6bbd5:0x2191889b485040e4!8m2!3d17.3295891!4d76.8280299!16s%2Fg%2F11w8kpt3dj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yelsangikar+Heart+Clinic/@17.3295891,76.8280299,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c70077f6bbd5:0x2191889b485040e4!8m2!3d17.3295891!4d76.8280299!16s%2Fg%2F11w8kpt3dj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15898,10 +15765,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yelsangikar+Heart+Clinic/@17.3295891,76.8280299,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8c70077f6bbd5:0x2191889b485040e4!8m2!3d17.3295891!4d76.8280299!16s%2Fg%2F11w8kpt3dj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

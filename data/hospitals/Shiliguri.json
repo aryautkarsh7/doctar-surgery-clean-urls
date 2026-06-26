@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/32+pearls+dental+clinic/data=!4m7!3m6!1s0x39e44116f05e2f97:0x4c8d636fb8d8cbdb!8m2!3d26.7559203!4d88.4174861!16s%2Fg%2F11hdy6zny_!19sChIJly9e8BZB5DkR28vYuG9jjUw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+pearls+dental+clinic/data=!4m7!3m6!1s0x39e44116f05e2f97:0x4c8d636fb8d8cbdb!8m2!3d26.7559203!4d88.4174861!16s%2Fg%2F11hdy6zny_!19sChIJly9e8BZB5DkR28vYuG9jjUw?authuser=0&hl=en&rclk=1"
@@ -114,8 +114,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/32+pearls+dental+clinic/data=!4m7!3m6!1s0x39e44116f05e2f97:0x4c8d636fb8d8cbdb!8m2!3d26.7559203!4d88.4174861!16s%2Fg%2F11hdy6zny_!19sChIJly9e8BZB5DkR28vYuG9jjUw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ainu-hospitals-kidney-dialysis-center-siliguri-bairatisal",
@@ -166,7 +165,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AINU+Hospitals+Kidney+Dialysis+Center+-+Siliguri/data=!4m7!3m6!1s0x39e447b7252db94d:0xfe1dc2430ae31023!8m2!3d26.7076764!4d88.360283!16s%2Fg%2F11tc1_n93t!19sChIJTbktJbdH5DkRIxDjCkPCHf4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AINU+Hospitals+Kidney+Dialysis+Center+-+Siliguri/data=!4m7!3m6!1s0x39e447b7252db94d:0xfe1dc2430ae31023!8m2!3d26.7076764!4d88.360283!16s%2Fg%2F11tc1_n93t!19sChIJTbktJbdH5DkRIxDjCkPCHf4?authuser=0&hl=en&rclk=1"
@@ -235,8 +234,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AINU+Hospitals+Kidney+Dialysis+Center+-+Siliguri/data=!4m7!3m6!1s0x39e447b7252db94d:0xfe1dc2430ae31023!8m2!3d26.7076764!4d88.360283!16s%2Fg%2F11tc1_n93t!19sChIJTbktJbdH5DkRIxDjCkPCHf4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anandaloke-hospital-siliguri",
@@ -285,7 +283,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anandaloke+Hospital/data=!4m7!3m6!1s0x39e441051ececb93:0xfa2ddb95e7c2dd9c!8m2!3d26.7299148!4d88.4308091!16s%2Fg%2F11g7_d4yz0!19sChIJk8vOHgVB5DkRnN3C55XbLfo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anandaloke+Hospital/data=!4m7!3m6!1s0x39e441051ececb93:0xfa2ddb95e7c2dd9c!8m2!3d26.7299148!4d88.4308091!16s%2Fg%2F11g7_d4yz0!19sChIJk8vOHgVB5DkRnN3C55XbLfo?authuser=0&hl=en&rclk=1"
@@ -351,11 +349,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anandaloke+Hospital/data=!4m7!3m6!1s0x39e441051ececb93:0xfa2ddb95e7c2dd9c!8m2!3d26.7299148!4d88.4308091!16s%2Fg%2F11g7_d4yz0!19sChIJk8vOHgVB5DkRnN3C55XbLfo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asian-institute-of-nephrology-and-urology-siliguri-ainu-hospital-siliguri",
@@ -404,7 +401,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asian+Institute+of+Nephrology+and+Urology,+Siliguri+%7C+AINU+Hospital/data=!4m7!3m6!1s0x39e449a05652627b:0x79a3305eabb327b6!8m2!3d26.707678!4d88.3602832!16s%2Fg%2F11qbb900rl!19sChIJe2JSVqBJ5DkRtiezq14wo3k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Institute+of+Nephrology+and+Urology,+Siliguri+%7C+AINU+Hospital/data=!4m7!3m6!1s0x39e449a05652627b:0x79a3305eabb327b6!8m2!3d26.707678!4d88.3602832!16s%2Fg%2F11qbb900rl!19sChIJe2JSVqBJ5DkRtiezq14wo3k?authuser=0&hl=en&rclk=1"
@@ -473,8 +470,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asian+Institute+of+Nephrology+and+Urology,+Siliguri+%7C+AINU+Hospital/data=!4m7!3m6!1s0x39e449a05652627b:0x79a3305eabb327b6!8m2!3d26.707678!4d88.3602832!16s%2Fg%2F11qbb900rl!19sChIJe2JSVqBJ5DkRtiezq14wo3k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aysel-cosmetology-best-skin-care-cosmetic-dermatology-clinic-in-siliguri-best-cosmetic-gynecology-clinic-in-siliguri-siliguri",
@@ -522,7 +518,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aysel+Cosmetology+%7C+Best+Skin+Care+Cosmetic+Dermatology+Clinic+in+Siliguri+%7C+Best+Cosmetic+Gynecology+Clinic+In+Siliguri./data=!4m7!3m6!1s0x39e447883c5d7557:0xe3852ddcfb8f01d6!8m2!3d26.7239402!4d88.3942888!16s%2Fg%2F11tggkt1sm!19sChIJV3VdPIhH5DkR1gGP-9wtheM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aysel+Cosmetology+%7C+Best+Skin+Care+Cosmetic+Dermatology+Clinic+in+Siliguri+%7C+Best+Cosmetic+Gynecology+Clinic+In+Siliguri./data=!4m7!3m6!1s0x39e447883c5d7557:0xe3852ddcfb8f01d6!8m2!3d26.7239402!4d88.3942888!16s%2Fg%2F11tggkt1sm!19sChIJV3VdPIhH5DkR1gGP-9wtheM?authuser=0&hl=en&rclk=1"
@@ -588,11 +584,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aysel+Cosmetology+%7C+Best+Skin+Care+Cosmetic+Dermatology+Clinic+in+Siliguri+%7C+Best+Cosmetic+Gynecology+Clinic+In+Siliguri./data=!4m7!3m6!1s0x39e447883c5d7557:0xe3852ddcfb8f01d6!8m2!3d26.7239402!4d88.3942888!16s%2Fg%2F11tggkt1sm!19sChIJV3VdPIhH5DkR1gGP-9wtheM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bioinus-healthcare-advanced-hair-and-skin-solutions-siliguri-siliguri",
@@ -641,7 +636,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bioinus+Healthcare+Advanced+Hair+%26+Skin+Solutions,+Siliguri/data=!4m7!3m6!1s0x39e441623a8fc177:0x8d5e766338dba80f!8m2!3d26.743146!4d88.4365678!16s%2Fg%2F11qbqml5mj!19sChIJd8GPOmJB5DkRD6jbOGN2Xo0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bioinus+Healthcare+Advanced+Hair+%26+Skin+Solutions,+Siliguri/data=!4m7!3m6!1s0x39e441623a8fc177:0x8d5e766338dba80f!8m2!3d26.743146!4d88.4365678!16s%2Fg%2F11qbqml5mj!19sChIJd8GPOmJB5DkRD6jbOGN2Xo0?authuser=0&hl=en&rclk=1"
@@ -710,8 +705,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bioinus+Healthcare+Advanced+Hair+%26+Skin+Solutions,+Siliguri/data=!4m7!3m6!1s0x39e441623a8fc177:0x8d5e766338dba80f!8m2!3d26.743146!4d88.4365678!16s%2Fg%2F11qbqml5mj!19sChIJd8GPOmJB5DkRD6jbOGN2Xo0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "birla-fertility-and-ivf-center-best-ivf-centre-in-siliguri-siliguri",
@@ -761,7 +755,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Siliguri/data=!4m7!3m6!1s0x39e441797aa57203:0x51d876effd8f4e92!8m2!3d26.7524548!4d88.4398909!16s%2Fg%2F11lng5_xpk!19sChIJA3KlenlB5DkRkk6P_e922FE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Siliguri/data=!4m7!3m6!1s0x39e441797aa57203:0x51d876effd8f4e92!8m2!3d26.7524548!4d88.4398909!16s%2Fg%2F11lng5_xpk!19sChIJA3KlenlB5DkRkk6P_e922FE?authuser=0&hl=en&rclk=1"
@@ -827,11 +821,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Siliguri/data=!4m7!3m6!1s0x39e441797aa57203:0x51d876effd8f4e92!8m2!3d26.7524548!4d88.4398909!16s%2Fg%2F11lng5_xpk!19sChIJA3KlenlB5DkRkk6P_e922FE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "brain-spine-and-ent-clinic-siliguri",
@@ -882,7 +875,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Brain+Spine+%26+ENT+Clinic/data=!4m7!3m6!1s0x39e441036895f0b9:0xb7a7ddba7c5a2c64!8m2!3d26.6927248!4d88.3744476!16s%2Fg%2F11cnbx419_!19sChIJufCVaANB5DkRZCxafLrdp7c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brain+Spine+%26+ENT+Clinic/data=!4m7!3m6!1s0x39e441036895f0b9:0xb7a7ddba7c5a2c64!8m2!3d26.6927248!4d88.3744476!16s%2Fg%2F11cnbx419_!19sChIJufCVaANB5DkRZCxafLrdp7c?authuser=0&hl=en&rclk=1"
@@ -951,8 +944,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Brain+Spine+%26+ENT+Clinic/data=!4m7!3m6!1s0x39e441036895f0b9:0xb7a7ddba7c5a2c64!8m2!3d26.6927248!4d88.3744476!16s%2Fg%2F11cnbx419_!19sChIJufCVaANB5DkRZCxafLrdp7c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "comfort-dental-clinic-best-dental-clinic-top-10-dentist-braces-and-rct-treatment-painless-tooth-extraction-in-siliguri-siliguri",
@@ -1002,7 +994,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Comfort+Dental+Clinic+-+Best+Dental+Clinic+%7C+Top+10+Dentist+%7C+Braces+%26+RCT+Treatment+%7C+Painless+Tooth+Extraction+in+Siliguri/data=!4m7!3m6!1s0x39e4412bfbf74a11:0xd9a647ee9fc231ea!8m2!3d26.7138746!4d88.4290657!16s%2Fg%2F11rhqzbqy9!19sChIJEUr3-ytB5DkR6jHCn-5Hptk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Comfort+Dental+Clinic+-+Best+Dental+Clinic+%7C+Top+10+Dentist+%7C+Braces+%26+RCT+Treatment+%7C+Painless+Tooth+Extraction+in+Siliguri/data=!4m7!3m6!1s0x39e4412bfbf74a11:0xd9a647ee9fc231ea!8m2!3d26.7138746!4d88.4290657!16s%2Fg%2F11rhqzbqy9!19sChIJEUr3-ytB5DkR6jHCn-5Hptk?authuser=0&hl=en&rclk=1"
@@ -1068,11 +1060,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Comfort+Dental+Clinic+-+Best+Dental+Clinic+%7C+Top+10+Dentist+%7C+Braces+%26+RCT+Treatment+%7C+Painless+Tooth+Extraction+in+Siliguri/data=!4m7!3m6!1s0x39e4412bfbf74a11:0xd9a647ee9fc231ea!8m2!3d26.7138746!4d88.4290657!16s%2Fg%2F11rhqzbqy9!19sChIJEUr3-ytB5DkR6jHCn-5Hptk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmetica-india-laser-treatment-in-siliguri-l-hair-transplant-in-siliguri-hair-reduction-in-siliguri-siliguri",
@@ -1121,7 +1112,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cosmetica+India+-+Laser+treatment+in+Siliguri+l+Hair+transplant+in+Siliguri+%7C+Hair+reduction+in+siliguri/data=!4m7!3m6!1s0x39e441312636aa75:0xb827b907dd62b39a!8m2!3d26.7454725!4d88.4365496!16s%2Fg%2F11v_85rx1f!19sChIJdao2JjFB5DkRmrNi3Qe5J7g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmetica+India+-+Laser+treatment+in+Siliguri+l+Hair+transplant+in+Siliguri+%7C+Hair+reduction+in+siliguri/data=!4m7!3m6!1s0x39e441312636aa75:0xb827b907dd62b39a!8m2!3d26.7454725!4d88.4365496!16s%2Fg%2F11v_85rx1f!19sChIJdao2JjFB5DkRmrNi3Qe5J7g?authuser=0&hl=en&rclk=1"
@@ -1187,11 +1178,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cosmetica+India+-+Laser+treatment+in+Siliguri+l+Hair+transplant+in+Siliguri+%7C+Hair+reduction+in+siliguri/data=!4m7!3m6!1s0x39e441312636aa75:0xb827b907dd62b39a!8m2!3d26.7454725!4d88.4365496!16s%2Fg%2F11v_85rx1f!19sChIJdao2JjFB5DkRmrNi3Qe5J7g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmosurge-clinic-plastic-surgery-breast-surgery-cosmetic-surgery-liposuction-eyelid-surgery-in-siliguri-siliguri",
@@ -1239,7 +1229,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CosmoSurge+Clinic+%7C+plastic+surgery+,+Breast+surgery,+Cosmetic+Surgery,+Liposuction,+Eyelid+Surgery+in+Siliguri/data=!4m7!3m6!1s0x39e446e3fffffff5:0xe8c7005968b87576!8m2!3d26.721899!4d88.42704!16s%2Fg%2F11dfttpvt0!19sChIJ9f___-NG5DkRdnW4aFkAx-g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CosmoSurge+Clinic+%7C+plastic+surgery+,+Breast+surgery,+Cosmetic+Surgery,+Liposuction,+Eyelid+Surgery+in+Siliguri/data=!4m7!3m6!1s0x39e446e3fffffff5:0xe8c7005968b87576!8m2!3d26.721899!4d88.42704!16s%2Fg%2F11dfttpvt0!19sChIJ9f___-NG5DkRdnW4aFkAx-g?authuser=0&hl=en&rclk=1"
@@ -1308,8 +1298,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CosmoSurge+Clinic+%7C+plastic+surgery+,+Breast+surgery,+Cosmetic+Surgery,+Liposuction,+Eyelid+Surgery+in+Siliguri/data=!4m7!3m6!1s0x39e446e3fffffff5:0xe8c7005968b87576!8m2!3d26.721899!4d88.42704!16s%2Fg%2F11dfttpvt0!19sChIJ9f___-NG5DkRdnW4aFkAx-g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cradle-fertility-center-siliguri-siliguri",
@@ -1359,7 +1348,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cradle+Fertility+Center+Siliguri/data=!4m7!3m6!1s0x39e4418df52322a7:0x52ed737e4944c177!8m2!3d26.7649181!4d88.4453853!16s%2Fg%2F11y2m_tsn8!19sChIJpyIj9Y1B5DkRd8FESX5z7VI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cradle+Fertility+Center+Siliguri/data=!4m7!3m6!1s0x39e4418df52322a7:0x52ed737e4944c177!8m2!3d26.7649181!4d88.4453853!16s%2Fg%2F11y2m_tsn8!19sChIJpyIj9Y1B5DkRd8FESX5z7VI?authuser=0&hl=en&rclk=1"
@@ -1428,8 +1417,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cradle+Fertility+Center+Siliguri/data=!4m7!3m6!1s0x39e4418df52322a7:0x52ed737e4944c177!8m2!3d26.7649181!4d88.4453853!16s%2Fg%2F11y2m_tsn8!19sChIJpyIj9Y1B5DkRd8FESX5z7VI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "creation-the-fertility-centre-siliguri",
@@ -1478,7 +1466,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Creation+-+The+Fertility+Centre/data=!4m7!3m6!1s0x39e4416cd8c1601f:0xd3b71fe6dff75404!8m2!3d26.7038963!4d88.4148834!16s%2Fg%2F11bxc6007j!19sChIJH2DB2GxB5DkRBFT33-Yft9M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Creation+-+The+Fertility+Centre/data=!4m7!3m6!1s0x39e4416cd8c1601f:0xd3b71fe6dff75404!8m2!3d26.7038963!4d88.4148834!16s%2Fg%2F11bxc6007j!19sChIJH2DB2GxB5DkRBFT33-Yft9M?authuser=0&hl=en&rclk=1"
@@ -1547,8 +1535,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Creation+-+The+Fertility+Centre/data=!4m7!3m6!1s0x39e4416cd8c1601f:0xd3b71fe6dff75404!8m2!3d26.7038963!4d88.4148834!16s%2Fg%2F11bxc6007j!19sChIJH2DB2GxB5DkRBFT33-Yft9M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cult-aesthetics-by-enhance-clinics-siliguri-and-advance-hair-transplant-center-siliguri",
@@ -1597,7 +1584,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cult+Aesthetics+By+Enhance+Clinics,+Siliguri+%26+Advance+Hair+Transplant+center/data=!4m7!3m6!1s0x39e4419ecf5fcf27:0x9d58caa1e1db4e00!8m2!3d26.7166286!4d88.4302979!16s%2Fg%2F11s3bzm_lh!19sChIJJ89fz55B5DkRAE7b4aHKWJ0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cult+Aesthetics+By+Enhance+Clinics,+Siliguri+%26+Advance+Hair+Transplant+center/data=!4m7!3m6!1s0x39e4419ecf5fcf27:0x9d58caa1e1db4e00!8m2!3d26.7166286!4d88.4302979!16s%2Fg%2F11s3bzm_lh!19sChIJJ89fz55B5DkRAE7b4aHKWJ0?authuser=0&hl=en&rclk=1"
@@ -1666,8 +1653,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cult+Aesthetics+By+Enhance+Clinics,+Siliguri+%26+Advance+Hair+Transplant+center/data=!4m7!3m6!1s0x39e4419ecf5fcf27:0x9d58caa1e1db4e00!8m2!3d26.7166286!4d88.4302979!16s%2Fg%2F11s3bzm_lh!19sChIJJ89fz55B5DkRAE7b4aHKWJ0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "desun-hospital-siliguri-kwakhali",
@@ -1716,7 +1702,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Desun+Hospital+Siliguri/data=!4m7!3m6!1s0x39e444208f285215:0x1febe8cb91069099!8m2!3d26.6858206!4d88.3959532!16s%2Fg%2F11ddxnkfwt!19sChIJFVIojyBE5DkRmZAGkcvo6x8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Desun+Hospital+Siliguri/data=!4m7!3m6!1s0x39e444208f285215:0x1febe8cb91069099!8m2!3d26.6858206!4d88.3959532!16s%2Fg%2F11ddxnkfwt!19sChIJFVIojyBE5DkRmZAGkcvo6x8?authuser=0&hl=en&rclk=1"
@@ -1785,8 +1771,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Desun+Hospital+Siliguri/data=!4m7!3m6!1s0x39e444208f285215:0x1febe8cb91069099!8m2!3d26.6858206!4d88.3959532!16s%2Fg%2F11ddxnkfwt!19sChIJFVIojyBE5DkRmZAGkcvo6x8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fetus-ivf-centre-siliguri-siliguri",
@@ -1836,7 +1821,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fetus+IVF+Centre+Siliguri/data=!4m7!3m6!1s0x39e4412ba6dd3059:0xcd278d5e8fb5af6d!8m2!3d26.7507201!4d88.4397861!16s%2Fg%2F11mcwbhg6n!19sChIJWTDdpitB5DkRba-1j16NJ80?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fetus+IVF+Centre+Siliguri/data=!4m7!3m6!1s0x39e4412ba6dd3059:0xcd278d5e8fb5af6d!8m2!3d26.7507201!4d88.4397861!16s%2Fg%2F11mcwbhg6n!19sChIJWTDdpitB5DkRba-1j16NJ80?authuser=0&hl=en&rclk=1"
@@ -1905,8 +1890,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fetus+IVF+Centre+Siliguri/data=!4m7!3m6!1s0x39e4412ba6dd3059:0xcd278d5e8fb5af6d!8m2!3d26.7507201!4d88.4397861!16s%2Fg%2F11mcwbhg6n!19sChIJWTDdpitB5DkRba-1j16NJ80?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fue-india-best-hair-transplant-clinic-siliguri-siliguri",
@@ -1955,7 +1939,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/FUE+India+%E2%80%93+Best+Hair+Transplant+Clinic+Siliguri/data=!4m7!3m6!1s0x39e443e5e8bd5d1d:0xc79f2643744322f2!8m2!3d26.7281506!4d88.4294459!16s%2Fg%2F11nrvw_4c7!19sChIJHV296OVD5DkR8iJDdEMmn8c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FUE+India+%E2%80%93+Best+Hair+Transplant+Clinic+Siliguri/data=!4m7!3m6!1s0x39e443e5e8bd5d1d:0xc79f2643744322f2!8m2!3d26.7281506!4d88.4294459!16s%2Fg%2F11nrvw_4c7!19sChIJHV296OVD5DkR8iJDdEMmn8c?authuser=0&hl=en&rclk=1"
@@ -2024,8 +2008,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/FUE+India+%E2%80%93+Best+Hair+Transplant+Clinic+Siliguri/data=!4m7!3m6!1s0x39e443e5e8bd5d1d:0xc79f2643744322f2!8m2!3d26.7281506!4d88.4294459!16s%2Fg%2F11nrvw_4c7!19sChIJHV296OVD5DkR8iJDdEMmn8c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hair-destination-siliguri",
@@ -2074,7 +2057,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hair+Destination/data=!4m7!3m6!1s0x39e441d9a0fe342d:0xe3f423b7ea646253!8m2!3d26.6980454!4d88.4253752!16s%2Fg%2F11plsbd31n!19sChIJLTT-oNlB5DkRU2Jk6rcj9OM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hair+Destination/data=!4m7!3m6!1s0x39e441d9a0fe342d:0xe3f423b7ea646253!8m2!3d26.6980454!4d88.4253752!16s%2Fg%2F11plsbd31n!19sChIJLTT-oNlB5DkRU2Jk6rcj9OM?authuser=0&hl=en&rclk=1"
@@ -2143,8 +2126,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hair+Destination/data=!4m7!3m6!1s0x39e441d9a0fe342d:0xe3f423b7ea646253!8m2!3d26.6980454!4d88.4253752!16s%2Fg%2F11plsbd31n!19sChIJLTT-oNlB5DkRU2Jk6rcj9OM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hope-and-heal-cancer-hospital-binnaguri",
@@ -2194,7 +2176,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hope+%26+Heal+Cancer+Hospital/data=!4m7!3m6!1s0x39e44381aa59683f:0xb42f5e547d9877e4!8m2!3d26.6289862!4d88.4410887!16s%2Fg%2F11s5p22q6_!19sChIJP2hZqoFD5DkR5HeYfVReL7Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+%26+Heal+Cancer+Hospital/data=!4m7!3m6!1s0x39e44381aa59683f:0xb42f5e547d9877e4!8m2!3d26.6289862!4d88.4410887!16s%2Fg%2F11s5p22q6_!19sChIJP2hZqoFD5DkR5HeYfVReL7Q?authuser=0&hl=en&rclk=1"
@@ -2263,8 +2245,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hope+%26+Heal+Cancer+Hospital/data=!4m7!3m6!1s0x39e44381aa59683f:0xb42f5e547d9877e4!8m2!3d26.6289862!4d88.4410887!16s%2Fg%2F11s5p22q6_!19sChIJP2hZqoFD5DkR5HeYfVReL7Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-and-ivf-center-in-siliguri-best-iui-icsi-and-ivf-treatment-siliguri",
@@ -2314,7 +2295,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Siliguri+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/data=!4m7!3m6!1s0x39e441005d27610d:0x5cb1a0c5df2c42d9!8m2!3d26.7373686!4d88.434587!16s%2Fg%2F11xdn_n4px!19sChIJDWEnXQBB5DkR2UIs38WgsVw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Siliguri+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/data=!4m7!3m6!1s0x39e441005d27610d:0x5cb1a0c5df2c42d9!8m2!3d26.7373686!4d88.434587!16s%2Fg%2F11xdn_n4px!19sChIJDWEnXQBB5DkR2UIs38WgsVw?authuser=0&hl=en&rclk=1"
@@ -2380,11 +2361,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Siliguri+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/data=!4m7!3m6!1s0x39e441005d27610d:0x5cb1a0c5df2c42d9!8m2!3d26.7373686!4d88.434587!16s%2Fg%2F11xdn_n4px!19sChIJDWEnXQBB5DkR2UIs38WgsVw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-siliguri-best-ivf-centre-siliguri",
@@ -2434,7 +2414,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Siliguri+-+Best+IVF+Centre/data=!4m7!3m6!1s0x39e4417eb3494a7b:0x4e06df389258e765!8m2!3d26.7375399!4d88.4344646!16s%2Fg%2F11hyr7sq5r!19sChIJe0pJs35B5DkRZedYkjjfBk4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Siliguri+-+Best+IVF+Centre/data=!4m7!3m6!1s0x39e4417eb3494a7b:0x4e06df389258e765!8m2!3d26.7375399!4d88.4344646!16s%2Fg%2F11hyr7sq5r!19sChIJe0pJs35B5DkRZedYkjjfBk4?authuser=0&hl=en&rclk=1"
@@ -2503,8 +2483,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Siliguri+-+Best+IVF+Centre/data=!4m7!3m6!1s0x39e4417eb3494a7b:0x4e06df389258e765!8m2!3d26.7375399!4d88.4344646!16s%2Fg%2F11hyr7sq5r!19sChIJe0pJs35B5DkRZedYkjjfBk4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kejriwal-nursing-home-kejriwal-stone-clinic-and-kidney-care-centre-siliguri",
@@ -2554,7 +2533,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kejriwal+Nursing+Home+%7C+Kejriwal+Stone+Clinic+%26+Kidney+Care+Centre/data=!4m7!3m6!1s0x39e4410fd20faa31:0xfe6a1a58a6ad2d!8m2!3d26.7264419!4d88.4326084!16s%2Fg%2F1tk89jsb!19sChIJMaoP0g9B5DkRLa2mWBpq_gA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kejriwal+Nursing+Home+%7C+Kejriwal+Stone+Clinic+%26+Kidney+Care+Centre/data=!4m7!3m6!1s0x39e4410fd20faa31:0xfe6a1a58a6ad2d!8m2!3d26.7264419!4d88.4326084!16s%2Fg%2F1tk89jsb!19sChIJMaoP0g9B5DkRLa2mWBpq_gA?authuser=0&hl=en&rclk=1"
@@ -2623,8 +2602,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kejriwal+Nursing+Home+%7C+Kejriwal+Stone+Clinic+%26+Kidney+Care+Centre/data=!4m7!3m6!1s0x39e4410fd20faa31:0xfe6a1a58a6ad2d!8m2!3d26.7264419!4d88.4326084!16s%2Fg%2F1tk89jsb!19sChIJMaoP0g9B5DkRLa2mWBpq_gA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kins-clinic-siliguri",
@@ -2673,7 +2651,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kins+Clinic/data=!4m7!3m6!1s0x39e4418fa0c57a81:0x930ece358f0038e!8m2!3d26.7120326!4d88.4183987!16s%2Fg%2F11jsnbg7cq!19sChIJgXrFoI9B5DkRjgPwWOPsMAk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kins+Clinic/data=!4m7!3m6!1s0x39e4418fa0c57a81:0x930ece358f0038e!8m2!3d26.7120326!4d88.4183987!16s%2Fg%2F11jsnbg7cq!19sChIJgXrFoI9B5DkRjgPwWOPsMAk?authuser=0&hl=en&rclk=1"
@@ -2742,8 +2720,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kins+Clinic/data=!4m7!3m6!1s0x39e4418fa0c57a81:0x930ece358f0038e!8m2!3d26.7120326!4d88.4183987!16s%2Fg%2F11jsnbg7cq!19sChIJgXrFoI9B5DkRjgPwWOPsMAk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-line-medical-research-and-cancer-institute-siliguri",
@@ -2791,7 +2768,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+Line+Medical+Research+%26+Cancer+Institute/data=!4m7!3m6!1s0x39e44104e02cd4cd:0x132472c42bbc48cd!8m2!3d26.7464987!4d88.4354791!16s%2Fg%2F11cjk838d2!19sChIJzdQs4ARB5DkRzUi8K8RyJBM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Line+Medical+Research+%26+Cancer+Institute/data=!4m7!3m6!1s0x39e44104e02cd4cd:0x132472c42bbc48cd!8m2!3d26.7464987!4d88.4354791!16s%2Fg%2F11cjk838d2!19sChIJzdQs4ARB5DkRzUi8K8RyJBM?authuser=0&hl=en&rclk=1"
@@ -2857,11 +2834,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+Line+Medical+Research+%26+Cancer+Institute/data=!4m7!3m6!1s0x39e44104e02cd4cd:0x132472c42bbc48cd!8m2!3d26.7464987!4d88.4354791!16s%2Fg%2F11cjk838d2!19sChIJzdQs4ARB5DkRzUi8K8RyJBM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manipal-hospital-rangapani-siliguri",
@@ -2911,7 +2887,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manipal+Hospital+,Rangapani/data=!4m7!3m6!1s0x39e4444c0b7ec8db:0x68dc5b01dfa87d31!8m2!3d26.6639354!4d88.3666851!16s%2Fg%2F11bwkf6x7t!19sChIJ28h-C0xE5DkRMX2o3wFb3Gg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospital+,Rangapani/data=!4m7!3m6!1s0x39e4444c0b7ec8db:0x68dc5b01dfa87d31!8m2!3d26.6639354!4d88.3666851!16s%2Fg%2F11bwkf6x7t!19sChIJ28h-C0xE5DkRMX2o3wFb3Gg?authuser=0&hl=en&rclk=1"
@@ -2980,8 +2956,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manipal+Hospital+,Rangapani/data=!4m7!3m6!1s0x39e4444c0b7ec8db:0x68dc5b01dfa87d31!8m2!3d26.6639354!4d88.3666851!16s%2Fg%2F11bwkf6x7t!19sChIJ28h-C0xE5DkRMX2o3wFb3Gg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manokamna-hospital-siliguri",
@@ -3030,7 +3005,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manokamna+Hospital/data=!4m7!3m6!1s0x39e44108823bc203:0x1e17368abe721858!8m2!3d26.7287655!4d88.4376816!16s%2Fg%2F11f0_b_bq_!19sChIJA8I7gghB5DkRWBhyvoo2Fx4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manokamna+Hospital/data=!4m7!3m6!1s0x39e44108823bc203:0x1e17368abe721858!8m2!3d26.7287655!4d88.4376816!16s%2Fg%2F11f0_b_bq_!19sChIJA8I7gghB5DkRWBhyvoo2Fx4?authuser=0&hl=en&rclk=1"
@@ -3099,8 +3074,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manokamna+Hospital/data=!4m7!3m6!1s0x39e44108823bc203:0x1e17368abe721858!8m2!3d26.7287655!4d88.4376816!16s%2Fg%2F11f0_b_bq_!19sChIJA8I7gghB5DkRWBhyvoo2Fx4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mayur-dental-clinic-best-dental-clinic-best-braces-treatment-best-dental-implant-best-orthodontist-in-siliguri-siliguri",
@@ -3150,7 +3124,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mayur+Dental+Clinic+-+Best+Dental+Clinic+%7C+Best+Braces+Treatment+%7C+Best+Dental+Implant+%7C+Best+Orthodontist+in+Siliguri/data=!4m7!3m6!1s0x39e44124ba56a523:0x28c7b0f63493d179!8m2!3d26.7309855!4d88.4153805!16s%2Fg%2F11c1pg31hl!19sChIJI6VWuiRB5DkRedGTNPawxyg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mayur+Dental+Clinic+-+Best+Dental+Clinic+%7C+Best+Braces+Treatment+%7C+Best+Dental+Implant+%7C+Best+Orthodontist+in+Siliguri/data=!4m7!3m6!1s0x39e44124ba56a523:0x28c7b0f63493d179!8m2!3d26.7309855!4d88.4153805!16s%2Fg%2F11c1pg31hl!19sChIJI6VWuiRB5DkRedGTNPawxyg?authuser=0&hl=en&rclk=1"
@@ -3219,8 +3193,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mayur+Dental+Clinic+-+Best+Dental+Clinic+%7C+Best+Braces+Treatment+%7C+Best+Dental+Implant+%7C+Best+Orthodontist+in+Siliguri/data=!4m7!3m6!1s0x39e44124ba56a523:0x28c7b0f63493d179!8m2!3d26.7309855!4d88.4153805!16s%2Fg%2F11c1pg31hl!19sChIJI6VWuiRB5DkRedGTNPawxyg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medica-cancer-hospital-thiknikata",
@@ -3269,7 +3242,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medica+cancer+hospital/data=!4m7!3m6!1s0x39e4441c06ec979b:0x6c14be32edf1c05d!8m2!3d26.6877634!4d88.3874344!16s%2Fg%2F11cjp6wfq2!19sChIJm5fsBhxE5DkRXcDx7TK-FGw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medica+cancer+hospital/data=!4m7!3m6!1s0x39e4441c06ec979b:0x6c14be32edf1c05d!8m2!3d26.6877634!4d88.3874344!16s%2Fg%2F11cjp6wfq2!19sChIJm5fsBhxE5DkRXcDx7TK-FGw?authuser=0&hl=en&rclk=1"
@@ -3335,11 +3308,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medica+cancer+hospital/data=!4m7!3m6!1s0x39e4441c06ec979b:0x6c14be32edf1c05d!8m2!3d26.6877634!4d88.3874344!16s%2Fg%2F11cjp6wfq2!19sChIJm5fsBhxE5DkRXcDx7TK-FGw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mother-ivf-and-fertility-centre-siliguri",
@@ -3389,7 +3361,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mother+IVF+%26+Fertility+Centre/data=!4m7!3m6!1s0x39e4419a16681233:0x75ba2fbf2dfc4705!8m2!3d26.7037624!4d88.4147602!16s%2Fg%2F11sdn0xln2!19sChIJMxJoFppB5DkRBUf8Lb8vunU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mother+IVF+%26+Fertility+Centre/data=!4m7!3m6!1s0x39e4419a16681233:0x75ba2fbf2dfc4705!8m2!3d26.7037624!4d88.4147602!16s%2Fg%2F11sdn0xln2!19sChIJMxJoFppB5DkRBUf8Lb8vunU?authuser=0&hl=en&rclk=1"
@@ -3458,8 +3430,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mother+IVF+%26+Fertility+Centre/data=!4m7!3m6!1s0x39e4419a16681233:0x75ba2fbf2dfc4705!8m2!3d26.7037624!4d88.4147602!16s%2Fg%2F11sdn0xln2!19sChIJMxJoFppB5DkRBUf8Lb8vunU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "my-kidney-health-kidney-specialist-in-siliguri-siliguri",
@@ -3508,7 +3479,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/My+Kidney+Health+-+Kidney+Specialist+in+Siliguri/data=!4m7!3m6!1s0x39e441f9b4cafe93:0x48bebf58bfdd4c31!8m2!3d26.7304324!4d88.4153618!16s%2Fg%2F11xt8xhk_y!19sChIJk_7KtPlB5DkRMUzdv1i_vkg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+Kidney+Health+-+Kidney+Specialist+in+Siliguri/data=!4m7!3m6!1s0x39e441f9b4cafe93:0x48bebf58bfdd4c31!8m2!3d26.7304324!4d88.4153618!16s%2Fg%2F11xt8xhk_y!19sChIJk_7KtPlB5DkRMUzdv1i_vkg?authuser=0&hl=en&rclk=1"
@@ -3574,11 +3545,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/My+Kidney+Health+-+Kidney+Specialist+in+Siliguri/data=!4m7!3m6!1s0x39e441f9b4cafe93:0x48bebf58bfdd4c31!8m2!3d26.7304324!4d88.4153618!16s%2Fg%2F11xt8xhk_y!19sChIJk_7KtPlB5DkRMUzdv1i_vkg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neo-skin-medical-cosmetic-dermatology-clinic-siliguri",
@@ -3627,7 +3597,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neo+skin+medical+cosmetic+dermatology+clinic/data=!4m7!3m6!1s0x39e447f0c9478fdd:0x8756c6d0426ff0af!8m2!3d26.7447974!4d88.4158369!16s%2Fg%2F11qpz3tsbl!19sChIJ3Y9HyfBH5DkRr_BvQtDGVoc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neo+skin+medical+cosmetic+dermatology+clinic/data=!4m7!3m6!1s0x39e447f0c9478fdd:0x8756c6d0426ff0af!8m2!3d26.7447974!4d88.4158369!16s%2Fg%2F11qpz3tsbl!19sChIJ3Y9HyfBH5DkRr_BvQtDGVoc?authuser=0&hl=en&rclk=1"
@@ -3696,8 +3666,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neo+skin+medical+cosmetic+dermatology+clinic/data=!4m7!3m6!1s0x39e447f0c9478fdd:0x8756c6d0426ff0af!8m2!3d26.7447974!4d88.4158369!16s%2Fg%2F11qpz3tsbl!19sChIJ3Y9HyfBH5DkRr_BvQtDGVoc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-roots-skin-laser-and-hair-transplant-clinic-siliguri",
@@ -3746,7 +3715,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Roots:+Skin,+Laser+%26+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x39e44149272a98b1:0x9511a1c8b4dd43ef!8m2!3d26.7176379!4d88.4215531!16s%2Fg%2F11spfkbrgm!19sChIJsZgqJ0lB5DkR70PdtMihEZU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Roots:+Skin,+Laser+%26+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x39e44149272a98b1:0x9511a1c8b4dd43ef!8m2!3d26.7176379!4d88.4215531!16s%2Fg%2F11spfkbrgm!19sChIJsZgqJ0lB5DkR70PdtMihEZU?authuser=0&hl=en&rclk=1"
@@ -3815,8 +3784,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Roots:+Skin,+Laser+%26+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x39e44149272a98b1:0x9511a1c8b4dd43ef!8m2!3d26.7176379!4d88.4215531!16s%2Fg%2F11spfkbrgm!19sChIJsZgqJ0lB5DkR70PdtMihEZU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "newlife-fertility-centre-siliguri",
@@ -3866,7 +3834,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Newlife+Fertility+Centre/data=!4m7!3m6!1s0x39e440580923dc33:0xe1491a2ad0700eed!8m2!3d26.7536102!4d88.4404993!16s%2Fg%2F11ggr4x2nw!19sChIJM9wjCVhA5DkR7Q5w0CoaSeE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Newlife+Fertility+Centre/data=!4m7!3m6!1s0x39e440580923dc33:0xe1491a2ad0700eed!8m2!3d26.7536102!4d88.4404993!16s%2Fg%2F11ggr4x2nw!19sChIJM9wjCVhA5DkR7Q5w0CoaSeE?authuser=0&hl=en&rclk=1"
@@ -3935,8 +3903,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Newlife+Fertility+Centre/data=!4m7!3m6!1s0x39e440580923dc33:0xe1491a2ad0700eed!8m2!3d26.7536102!4d88.4404993!16s%2Fg%2F11ggr4x2nw!19sChIJM9wjCVhA5DkR7Q5w0CoaSeE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "north-bengal-neuro-centre-private-limited-siliguri",
@@ -3986,7 +3953,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/North+Bengal+Neuro+Centre+Private+Limited/data=!4m7!3m6!1s0x39e441249502f2c9:0x431691568d4ae360!8m2!3d26.7307244!4d88.415132!16s%2Fg%2F11b706wnr8!19sChIJyfIClSRB5DkRYONKjVaRFkM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/North+Bengal+Neuro+Centre+Private+Limited/data=!4m7!3m6!1s0x39e441249502f2c9:0x431691568d4ae360!8m2!3d26.7307244!4d88.415132!16s%2Fg%2F11b706wnr8!19sChIJyfIClSRB5DkRYONKjVaRFkM?authuser=0&hl=en&rclk=1"
@@ -4055,8 +4022,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/North+Bengal+Neuro+Centre+Private+Limited/data=!4m7!3m6!1s0x39e441249502f2c9:0x431691568d4ae360!8m2!3d26.7307244!4d88.415132!16s%2Fg%2F11b706wnr8!19sChIJyfIClSRB5DkRYONKjVaRFkM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nova-ivf-fertility-center-best-ivf-center-in-siliguri-siliguri",
@@ -4106,7 +4072,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Center+in+Siliguri/data=!4m7!3m6!1s0x39e441b67a4c3071:0x5139407c00d82c6c!8m2!3d26.7246739!4d88.3937819!16s%2Fg%2F11fsrgq7xl!19sChIJcTBMerZB5DkRbCzYAHxAOVE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Center+in+Siliguri/data=!4m7!3m6!1s0x39e441b67a4c3071:0x5139407c00d82c6c!8m2!3d26.7246739!4d88.3937819!16s%2Fg%2F11fsrgq7xl!19sChIJcTBMerZB5DkRbCzYAHxAOVE?authuser=0&hl=en&rclk=1"
@@ -4175,8 +4141,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Center+in+Siliguri/data=!4m7!3m6!1s0x39e441b67a4c3071:0x5139407c00d82c6c!8m2!3d26.7246739!4d88.3937819!16s%2Fg%2F11fsrgq7xl!19sChIJcTBMerZB5DkRbCzYAHxAOVE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "novelty-siliguri",
@@ -4226,7 +4191,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Novelty/data=!4m7!3m6!1s0x39e447c08b2bbb59:0xa7d452b6e3878019!8m2!3d26.7237443!4d88.3839174!16s%2Fg%2F11y1ymjy8h!19sChIJWbsri8BH5DkRGYCH47ZS1Kc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Novelty/data=!4m7!3m6!1s0x39e447c08b2bbb59:0xa7d452b6e3878019!8m2!3d26.7237443!4d88.3839174!16s%2Fg%2F11y1ymjy8h!19sChIJWbsri8BH5DkRGYCH47ZS1Kc?authuser=0&hl=en&rclk=1"
@@ -4295,8 +4260,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Novelty/data=!4m7!3m6!1s0x39e447c08b2bbb59:0xa7d452b6e3878019!8m2!3d26.7237443!4d88.3839174!16s%2Fg%2F11y1ymjy8h!19sChIJWbsri8BH5DkRGYCH47ZS1Kc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oromax-dental-and-maxillofacial-centre-siliguri",
@@ -4346,7 +4310,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oromax+Dental+%26+Maxillofacial+Centre/data=!4m7!3m6!1s0x39e441feabfee29d:0x12c5c1f11b418a1!8m2!3d26.7201119!4d88.4370493!16s%2Fg%2F11h_bthp24!19sChIJneL-q_5B5DkRoRi0ER9cLAE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oromax+Dental+%26+Maxillofacial+Centre/data=!4m7!3m6!1s0x39e441feabfee29d:0x12c5c1f11b418a1!8m2!3d26.7201119!4d88.4370493!16s%2Fg%2F11h_bthp24!19sChIJneL-q_5B5DkRoRi0ER9cLAE?authuser=0&hl=en&rclk=1"
@@ -4415,8 +4379,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oromax+Dental+%26+Maxillofacial+Centre/data=!4m7!3m6!1s0x39e441feabfee29d:0x12c5c1f11b418a1!8m2!3d26.7201119!4d88.4370493!16s%2Fg%2F11h_bthp24!19sChIJneL-q_5B5DkRoRi0ER9cLAE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "paramount-hospital-pvt-ltd-siliguri",
@@ -4465,7 +4428,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Paramount+Hospital+Pvt.+Ltd/data=!4m7!3m6!1s0x39e4415cd093d287:0x6659634ec5b8b83c!8m2!3d26.7047554!4d88.418247!16s%2Fg%2F1hdz5lbp4!19sChIJh9KT0FxB5DkRPLi4xU5jWWY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paramount+Hospital+Pvt.+Ltd/data=!4m7!3m6!1s0x39e4415cd093d287:0x6659634ec5b8b83c!8m2!3d26.7047554!4d88.418247!16s%2Fg%2F1hdz5lbp4!19sChIJh9KT0FxB5DkRPLi4xU5jWWY?authuser=0&hl=en&rclk=1"
@@ -4534,8 +4497,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Paramount+Hospital+Pvt.+Ltd/data=!4m7!3m6!1s0x39e4415cd093d287:0x6659634ec5b8b83c!8m2!3d26.7047554!4d88.418247!16s%2Fg%2F1hdz5lbp4!19sChIJh9KT0FxB5DkRPLi4xU5jWWY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "plastic-surgery-plus-siliguri",
@@ -4581,7 +4543,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Plastic+Surgery+Plus/data=!4m7!3m6!1s0x39e446e400000001:0xedb4d497dbcb0639!8m2!3d26.7345179!4d88.3773462!16s%2Fg%2F11s_znvc0x!19sChIJAQAAAORG5DkROQbL25fUtO0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Plastic+Surgery+Plus/data=!4m7!3m6!1s0x39e446e400000001:0xedb4d497dbcb0639!8m2!3d26.7345179!4d88.3773462!16s%2Fg%2F11s_znvc0x!19sChIJAQAAAORG5DkROQbL25fUtO0?authuser=0&hl=en&rclk=1"
@@ -4647,11 +4609,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Plastic+Surgery+Plus/data=!4m7!3m6!1s0x39e446e400000001:0xedb4d497dbcb0639!8m2!3d26.7345179!4d88.3773462!16s%2Fg%2F11s_znvc0x!19sChIJAQAAAORG5DkROQbL25fUtO0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-s-dental-and-neuro-care-best-dental-clinic-in-siliguri-siliguri",
@@ -4701,7 +4662,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R.S+Dental+%26+Neuro+Care+-+Best+Dental+Clinic+in+Siliguri/data=!4m7!3m6!1s0x39e447600cf2b70b:0x8cf692b7102a3e3a!8m2!3d26.7091127!4d88.3656104!16s%2Fg%2F11qbcy_1p4!19sChIJC7fyDGBH5DkROj4qELeS9ow?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.S+Dental+%26+Neuro+Care+-+Best+Dental+Clinic+in+Siliguri/data=!4m7!3m6!1s0x39e447600cf2b70b:0x8cf692b7102a3e3a!8m2!3d26.7091127!4d88.3656104!16s%2Fg%2F11qbcy_1p4!19sChIJC7fyDGBH5DkROj4qELeS9ow?authuser=0&hl=en&rclk=1"
@@ -4770,8 +4731,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R.S+Dental+%26+Neuro+Care+-+Best+Dental+Clinic+in+Siliguri/data=!4m7!3m6!1s0x39e447600cf2b70b:0x8cf692b7102a3e3a!8m2!3d26.7091127!4d88.3656104!16s%2Fg%2F11qbcy_1p4!19sChIJC7fyDGBH5DkROj4qELeS9ow?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ramkrishna-ivf-centre-siliguri-siliguri",
@@ -4821,7 +4781,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ramkrishna+IVF+Centre+Siliguri/data=!4m7!3m6!1s0x39e44112b84ab1f3:0x52567b222b495762!8m2!3d26.7183654!4d88.4295688!16s%2Fg%2F11dywsl5wn!19sChIJ87FKuBJB5DkRYldJKyJ7VlI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ramkrishna+IVF+Centre+Siliguri/data=!4m7!3m6!1s0x39e44112b84ab1f3:0x52567b222b495762!8m2!3d26.7183654!4d88.4295688!16s%2Fg%2F11dywsl5wn!19sChIJ87FKuBJB5DkRYldJKyJ7VlI?authuser=0&hl=en&rclk=1"
@@ -4887,11 +4847,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ramkrishna+IVF+Centre+Siliguri/data=!4m7!3m6!1s0x39e44112b84ab1f3:0x52567b222b495762!8m2!3d26.7183654!4d88.4295688!16s%2Fg%2F11dywsl5wn!19sChIJ87FKuBJB5DkRYldJKyJ7VlI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saaol-heart-center-siliguri-siliguri",
@@ -4940,7 +4899,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saaol+heart+center+siliguri/data=!4m7!3m6!1s0x39e44171e6e1277f:0xef044a6ae0067584!8m2!3d26.7105334!4d88.4302553!16s%2Fg%2F11f3jn0vfx!19sChIJfyfh5nFB5DkRhHUG4GpKBO8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+heart+center+siliguri/data=!4m7!3m6!1s0x39e44171e6e1277f:0xef044a6ae0067584!8m2!3d26.7105334!4d88.4302553!16s%2Fg%2F11f3jn0vfx!19sChIJfyfh5nFB5DkRhHUG4GpKBO8?authuser=0&hl=en&rclk=1"
@@ -5009,8 +4968,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saaol+heart+center+siliguri/data=!4m7!3m6!1s0x39e44171e6e1277f:0xef044a6ae0067584!8m2!3d26.7105334!4d88.4302553!16s%2Fg%2F11f3jn0vfx!19sChIJfyfh5nFB5DkRhHUG4GpKBO8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sai-hospital-and-gastro-liver-clinic-siliguri",
@@ -5061,7 +5019,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sai+Hospital+%26+Gastro+Liver+Clinic/data=!4m7!3m6!1s0x39e4411b646a87dd:0x319072609bbaf04a!8m2!3d26.7345204!4d88.4289702!16s%2Fg%2F124ydpkll!19sChIJ3YdqZBtB5DkRSvC6m2BykDE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Hospital+%26+Gastro+Liver+Clinic/data=!4m7!3m6!1s0x39e4411b646a87dd:0x319072609bbaf04a!8m2!3d26.7345204!4d88.4289702!16s%2Fg%2F124ydpkll!19sChIJ3YdqZBtB5DkRSvC6m2BykDE?authuser=0&hl=en&rclk=1"
@@ -5127,11 +5085,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sai+Hospital+%26+Gastro+Liver+Clinic/data=!4m7!3m6!1s0x39e4411b646a87dd:0x319072609bbaf04a!8m2!3d26.7345204!4d88.4289702!16s%2Fg%2F124ydpkll!19sChIJ3YdqZBtB5DkRSvC6m2BykDE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sevoke-dental-clinic-best-dental-clinic-in-siliguri-siliguri",
@@ -5180,7 +5137,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sevoke+Dental+Clinic+-+Best+Dental+Clinic+in+Siliguri/data=!4m7!3m6!1s0x39e4413d8dd6052d:0x939ca23fb427abc9!8m2!3d26.7359212!4d88.4334521!16s%2Fg%2F11c1vkct5h!19sChIJLQXWjT1B5DkRyasntD-inJM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sevoke+Dental+Clinic+-+Best+Dental+Clinic+in+Siliguri/data=!4m7!3m6!1s0x39e4413d8dd6052d:0x939ca23fb427abc9!8m2!3d26.7359212!4d88.4334521!16s%2Fg%2F11c1vkct5h!19sChIJLQXWjT1B5DkRyasntD-inJM?authuser=0&hl=en&rclk=1"
@@ -5249,8 +5206,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sevoke+Dental+Clinic+-+Best+Dental+Clinic+in+Siliguri/data=!4m7!3m6!1s0x39e4413d8dd6052d:0x939ca23fb427abc9!8m2!3d26.7359212!4d88.4334521!16s%2Fg%2F11c1vkct5h!19sChIJLQXWjT1B5DkRyasntD-inJM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shristi-cosmetic-and-general-surgery-clinic-in-siliguri-siliguri",
@@ -5299,7 +5255,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shristi+Cosmetic+%26+General+Surgery+Clinic+in+Siliguri/data=!4m7!3m6!1s0x39e44179a056a51b:0x45a1b342c84fbd90!8m2!3d26.7282925!4d88.4352474!16s%2Fg%2F11rzc1vxgs!19sChIJG6VWoHlB5DkRkL1PyEKzoUU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shristi+Cosmetic+%26+General+Surgery+Clinic+in+Siliguri/data=!4m7!3m6!1s0x39e44179a056a51b:0x45a1b342c84fbd90!8m2!3d26.7282925!4d88.4352474!16s%2Fg%2F11rzc1vxgs!19sChIJG6VWoHlB5DkRkL1PyEKzoUU?authuser=0&hl=en&rclk=1"
@@ -5365,11 +5321,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shristi+Cosmetic+%26+General+Surgery+Clinic+in+Siliguri/data=!4m7!3m6!1s0x39e44179a056a51b:0x45a1b342c84fbd90!8m2!3d26.7282925!4d88.4352474!16s%2Fg%2F11rzc1vxgs!19sChIJG6VWoHlB5DkRkL1PyEKzoUU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smilessence-dental-and-cosmetic-skin-clinic-siliguri",
@@ -5417,7 +5372,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smilessence+Dental+and+Cosmetic+Skin+Clinic/data=!4m7!3m6!1s0x39e4410f027a126d:0x2d6816a73a05b6d1!8m2!3d26.7263174!4d88.4333978!16s%2Fg%2F11dxdh9q40!19sChIJbRJ6Ag9B5DkR0bYFOqcWaC0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilessence+Dental+and+Cosmetic+Skin+Clinic/data=!4m7!3m6!1s0x39e4410f027a126d:0x2d6816a73a05b6d1!8m2!3d26.7263174!4d88.4333978!16s%2Fg%2F11dxdh9q40!19sChIJbRJ6Ag9B5DkR0bYFOqcWaC0?authuser=0&hl=en&rclk=1"
@@ -5486,8 +5441,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smilessence+Dental+and+Cosmetic+Skin+Clinic/data=!4m7!3m6!1s0x39e4410f027a126d:0x2d6816a73a05b6d1!8m2!3d26.7263174!4d88.4333978!16s%2Fg%2F11dxdh9q40!19sChIJbRJ6Ag9B5DkR0bYFOqcWaC0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "star-hospital-siliguri",
@@ -5536,7 +5490,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Star+Hospital/data=!4m7!3m6!1s0x39e4431299b67341:0xfb7bb1ca984f0787!8m2!3d26.6862272!4d88.4169193!16s%2Fg%2F11l2zb11b2!19sChIJQXO2mRJD5DkRhwdPmMqxe_s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+Hospital/data=!4m7!3m6!1s0x39e4431299b67341:0xfb7bb1ca984f0787!8m2!3d26.6862272!4d88.4169193!16s%2Fg%2F11l2zb11b2!19sChIJQXO2mRJD5DkRhwdPmMqxe_s?authuser=0&hl=en&rclk=1"
@@ -5605,8 +5559,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Star+Hospital/data=!4m7!3m6!1s0x39e4431299b67341:0xfb7bb1ca984f0787!8m2!3d26.6862272!4d88.4169193!16s%2Fg%2F11l2zb11b2!19sChIJQXO2mRJD5DkRhwdPmMqxe_s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thea-aesthetic-clinic-siliguri",
@@ -5654,7 +5607,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Thea+Aesthetic+Clinic/data=!4m7!3m6!1s0x39e4410f44486d13:0xf640c2fc1a586e0c!8m2!3d26.7319615!4d88.43182!16s%2Fg%2F11hbnf2_n_!19sChIJE21IRA9B5DkRDG5YGvzCQPY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thea+Aesthetic+Clinic/data=!4m7!3m6!1s0x39e4410f44486d13:0xf640c2fc1a586e0c!8m2!3d26.7319615!4d88.43182!16s%2Fg%2F11hbnf2_n_!19sChIJE21IRA9B5DkRDG5YGvzCQPY?authuser=0&hl=en&rclk=1"
@@ -5723,8 +5676,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Thea+Aesthetic+Clinic/data=!4m7!3m6!1s0x39e4410f44486d13:0xf640c2fc1a586e0c!8m2!3d26.7319615!4d88.43182!16s%2Fg%2F11hbnf2_n_!19sChIJE21IRA9B5DkRDG5YGvzCQPY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "zivah-fertility-and-women-s-wellness-centre-siliguri",
@@ -5774,7 +5726,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Zivah+Fertility+%26+Women%27s+Wellness+Centre/data=!4m7!3m6!1s0x39e44161b4fac8ab:0x1718f6aa710cd6aa!8m2!3d26.7305308!4d88.414227!16s%2Fg%2F11xryz62l6!19sChIJq8j6tGFB5DkRqtYMcar2GBc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zivah+Fertility+%26+Women%27s+Wellness+Centre/data=!4m7!3m6!1s0x39e44161b4fac8ab:0x1718f6aa710cd6aa!8m2!3d26.7305308!4d88.414227!16s%2Fg%2F11xryz62l6!19sChIJq8j6tGFB5DkRqtYMcar2GBc?authuser=0&hl=en&rclk=1"
@@ -5843,7 +5795,6 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Zivah+Fertility+%26+Women%27s+Wellness+Centre/data=!4m7!3m6!1s0x39e44161b4fac8ab:0x1718f6aa710cd6aa!8m2!3d26.7305308!4d88.414227!16s%2Fg%2F11xryz62l6!19sChIJq8j6tGFB5DkRqtYMcar2GBc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

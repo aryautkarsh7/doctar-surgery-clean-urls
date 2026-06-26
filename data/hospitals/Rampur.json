@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A.K+DENTAL+CLINIC/@22.5235726,88.2743495,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0279001f6e4dc3:0x478a133a785ae834!8m2!3d22.5235726!4d88.2743495!16s%2Fg%2F11ldsm_cwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.K+DENTAL+CLINIC/@22.5235726,88.2743495,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0279001f6e4dc3:0x478a133a785ae834!8m2!3d22.5235726!4d88.2743495!16s%2Fg%2F11ldsm_cwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -111,11 +111,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A.K+DENTAL+CLINIC/@22.5235726,88.2743495,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0279001f6e4dc3:0x478a133a785ae834!8m2!3d22.5235726!4d88.2743495!16s%2Fg%2F11ldsm_cwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "alfa-max-hospital-rampur-rampur",
@@ -163,7 +162,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ALFA+MAX+HOSPITAL+Rampur/@28.7958068,79.0223901,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d29d9cd81e7:0x8fd8c25386d9c501!8m2!3d28.7958068!4d79.0223901!16s%2Fg%2F11vhh8k_6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ALFA+MAX+HOSPITAL+Rampur/@28.7958068,79.0223901,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d29d9cd81e7:0x8fd8c25386d9c501!8m2!3d28.7958068!4d79.0223901!16s%2Fg%2F11vhh8k_6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -232,8 +231,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ALFA+MAX+HOSPITAL+Rampur/@28.7958068,79.0223901,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d29d9cd81e7:0x8fd8c25386d9c501!8m2!3d28.7958068!4d79.0223901!16s%2Fg%2F11vhh8k_6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "alfa-max-nursing-and-maternity-center-rampur",
@@ -281,7 +279,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Alfa+Max+Nursing+And+Maternity+Center/@28.7937816,79.0223436,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d85b3fb3223:0x963c936b46e7fbde!8m2!3d28.7937816!4d79.0223436!16s%2Fg%2F11h04nn4sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alfa+Max+Nursing+And+Maternity+Center/@28.7937816,79.0223436,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d85b3fb3223:0x963c936b46e7fbde!8m2!3d28.7937816!4d79.0223436!16s%2Fg%2F11h04nn4sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -350,8 +348,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Alfa+Max+Nursing+And+Maternity+Center/@28.7937816,79.0223436,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d85b3fb3223:0x963c936b46e7fbde!8m2!3d28.7937816!4d79.0223436!16s%2Fg%2F11h04nn4sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aman-dental-clinic-suar",
@@ -397,7 +394,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aman+Dental+Clinic/@29.0342777,79.0604155,17z/data=!3m1!4b1!4m6!3m5!1s0x390a6147848cdda7:0x2898937752beaf74!8m2!3d29.0342777!4d79.0604155!16s%2Fg%2F11l5p2b3vy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aman+Dental+Clinic/@29.0342777,79.0604155,17z/data=!3m1!4b1!4m6!3m5!1s0x390a6147848cdda7:0x2898937752beaf74!8m2!3d29.0342777!4d79.0604155!16s%2Fg%2F11l5p2b3vy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -463,11 +460,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aman+Dental+Clinic/@29.0342777,79.0604155,17z/data=!3m1!4b1!4m6!3m5!1s0x390a6147848cdda7:0x2898937752beaf74!8m2!3d29.0342777!4d79.0604155!16s%2Fg%2F11l5p2b3vy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ansar-oral-and-dental-clinic-bilaspur",
@@ -515,7 +511,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ansar+Oral+%26+Dental+Clinic/@29.0304496,79.0593014,17z/data=!3m1!4b1!4m6!3m5!1s0x390a60e37bd45dcb:0x57435a5d9bca4022!8m2!3d29.0304496!4d79.0593014!16s%2Fg%2F11hbc093xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ansar+Oral+%26+Dental+Clinic/@29.0304496,79.0593014,17z/data=!3m1!4b1!4m6!3m5!1s0x390a60e37bd45dcb:0x57435a5d9bca4022!8m2!3d29.0304496!4d79.0593014!16s%2Fg%2F11hbc093xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -581,11 +577,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ansar+Oral+%26+Dental+Clinic/@29.0304496,79.0593014,17z/data=!3m1!4b1!4m6!3m5!1s0x390a60e37bd45dcb:0x57435a5d9bca4022!8m2!3d29.0304496!4d79.0593014!16s%2Fg%2F11hbc093xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-dental-clinic-rampur",
@@ -633,7 +628,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+dental+clinic/@28.8117724,79.0385975,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d50e4af01af:0xfaa459050c2176f3!8m2!3d28.8117724!4d79.0385975!16s%2Fg%2F11t1g3h2h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+dental+clinic/@28.8117724,79.0385975,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d50e4af01af:0xfaa459050c2176f3!8m2!3d28.8117724!4d79.0385975!16s%2Fg%2F11t1g3h2h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -699,11 +694,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+dental+clinic/@28.8117724,79.0385975,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d50e4af01af:0xfaa459050c2176f3!8m2!3d28.8117724!4d79.0385975!16s%2Fg%2F11t1g3h2h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-diagnostics-blood-tests-home-collection-and-full-body-checkups-rampur-rampur",
@@ -753,7 +747,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Diagnostics+-+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups+Rampur/@28.7973416,79.0201897,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d0a04042293:0x8e42b8b2dd18bf82!8m2!3d28.7973416!4d79.0201897!16s%2Fg%2F11wth0xbz8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Diagnostics+-+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups+Rampur/@28.7973416,79.0201897,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d0a04042293:0x8e42b8b2dd18bf82!8m2!3d28.7973416!4d79.0201897!16s%2Fg%2F11wth0xbz8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -819,11 +813,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Diagnostics+-+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups+Rampur/@28.7973416,79.0201897,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d0a04042293:0x8e42b8b2dd18bf82!8m2!3d28.7973416!4d79.0201897!16s%2Fg%2F11wth0xbz8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arora-dental-care-clinic-bareilly",
@@ -872,7 +865,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arora+dental+care+clinic/@28.3509316,79.4224538,17z/data=!3m1!4b1!4m6!3m5!1s0x39a001535c184a01:0x81cd0b34b61ca600!8m2!3d28.3509316!4d79.4224538!16s%2Fg%2F11j48dr9hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arora+dental+care+clinic/@28.3509316,79.4224538,17z/data=!3m1!4b1!4m6!3m5!1s0x39a001535c184a01:0x81cd0b34b61ca600!8m2!3d28.3509316!4d79.4224538!16s%2Fg%2F11j48dr9hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -938,11 +931,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arora+dental+care+clinic/@28.3509316,79.4224538,17z/data=!3m1!4b1!4m6!3m5!1s0x39a001535c184a01:0x81cd0b34b61ca600!8m2!3d28.3509316!4d79.4224538!16s%2Fg%2F11j48dr9hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arsh-skin-care-clinic-rampur",
@@ -990,7 +982,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ARSH+SKIN+CARE+CLINIC/@28.7992265,79.0221736,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d588165f5af:0xdebfaab156d9211c!8m2!3d28.7992265!4d79.0221736!16s%2Fg%2F11rm4q9s44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ARSH+SKIN+CARE+CLINIC/@28.7992265,79.0221736,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d588165f5af:0xdebfaab156d9211c!8m2!3d28.7992265!4d79.0221736!16s%2Fg%2F11rm4q9s44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1059,8 +1051,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ARSH+SKIN+CARE+CLINIC/@28.7992265,79.0221736,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d588165f5af:0xdebfaab156d9211c!8m2!3d28.7992265!4d79.0221736!16s%2Fg%2F11rm4q9s44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arti-hospital-kolkata",
@@ -1109,7 +1100,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arti+Hospital/@22.4874426,88.1868995,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027d4e25c2ec25:0xe2f024bf4884cdcc!8m2!3d22.4874426!4d88.1868995!16s%2Fg%2F11m9qrcsls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arti+Hospital/@22.4874426,88.1868995,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027d4e25c2ec25:0xe2f024bf4884cdcc!8m2!3d22.4874426!4d88.1868995!16s%2Fg%2F11m9qrcsls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1178,8 +1169,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arti+Hospital/@22.4874426,88.1868995,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027d4e25c2ec25:0xe2f024bf4884cdcc!8m2!3d22.4874426!4d88.1868995!16s%2Fg%2F11m9qrcsls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "baba-herbal-dawakhana-rampur-rampur",
@@ -1228,7 +1218,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BABA+HERBAL+DAWAKHANA+RAMPUR/@28.8030492,79.0216174,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dbb57f35edf:0x61b5822ff9da1c67!8m2!3d28.8030492!4d79.0216174!16s%2Fg%2F11g2m6_k6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BABA+HERBAL+DAWAKHANA+RAMPUR/@28.8030492,79.0216174,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dbb57f35edf:0x61b5822ff9da1c67!8m2!3d28.8030492!4d79.0216174!16s%2Fg%2F11g2m6_k6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1297,8 +1287,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BABA+HERBAL+DAWAKHANA+RAMPUR/@28.8030492,79.0216174,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dbb57f35edf:0x61b5822ff9da1c67!8m2!3d28.8030492!4d79.0216174!16s%2Fg%2F11g2m6_k6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "best-heart-eecp-centre-in-rampur-rampur",
@@ -1345,7 +1334,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BEST+HEART+EECP+CENTRE+IN+RAMPUR/@28.7871691,79.0332441,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d007bf50561:0x6b1b927e112c458c!8m2!3d28.7871691!4d79.0332441!16s%2Fg%2F11y9fyy8c7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BEST+HEART+EECP+CENTRE+IN+RAMPUR/@28.7871691,79.0332441,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d007bf50561:0x6b1b927e112c458c!8m2!3d28.7871691!4d79.0332441!16s%2Fg%2F11y9fyy8c7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1411,11 +1400,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BEST+HEART+EECP+CENTRE+IN+RAMPUR/@28.7871691,79.0332441,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d007bf50561:0x6b1b927e112c458c!8m2!3d28.7871691!4d79.0332441!16s%2Fg%2F11y9fyy8c7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bharat-hospital-hazratpur",
@@ -1463,7 +1451,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bharat+Hospital/@28.8167764,79.0148367,17z/data=!3m1!4b1!4m6!3m5!1s0x390af33b4946d8e7:0xd8b4d5676963b587!8m2!3d28.8167764!4d79.0148367!16s%2Fg%2F11fs0bnd74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharat+Hospital/@28.8167764,79.0148367,17z/data=!3m1!4b1!4m6!3m5!1s0x390af33b4946d8e7:0xd8b4d5676963b587!8m2!3d28.8167764!4d79.0148367!16s%2Fg%2F11fs0bnd74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1532,8 +1520,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bharat+Hospital/@28.8167764,79.0148367,17z/data=!3m1!4b1!4m6!3m5!1s0x390af33b4946d8e7:0xd8b4d5676963b587!8m2!3d28.8167764!4d79.0148367!16s%2Fg%2F11fs0bnd74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "blossoms-dental-care-and-implant-centre-rampur",
@@ -1581,7 +1568,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Blossoms+dental+care+and+implant+centre/@28.7924668,79.0156671,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3def614058d:0xb06079d440c61956!8m2!3d28.7924668!4d79.0156671!16s%2Fg%2F11t1w6s5bw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Blossoms+dental+care+and+implant+centre/@28.7924668,79.0156671,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3def614058d:0xb06079d440c61956!8m2!3d28.7924668!4d79.0156671!16s%2Fg%2F11t1w6s5bw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1647,11 +1634,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Blossoms+dental+care+and+implant+centre/@28.7924668,79.0156671,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3def614058d:0xb06079d440c61956!8m2!3d28.7924668!4d79.0156671!16s%2Fg%2F11t1w6s5bw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "braj-kishore-dental-clinic-and-implant-centre-rampur",
@@ -1699,7 +1685,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Braj+Kishore+Dental+Clinic+%26+implant+centre/@28.7848121,79.0194195,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5534931bef:0xd0fba20dcb653f86!8m2!3d28.7848121!4d79.0194195!16s%2Fg%2F11c3_4rd_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Braj+Kishore+Dental+Clinic+%26+implant+centre/@28.7848121,79.0194195,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5534931bef:0xd0fba20dcb653f86!8m2!3d28.7848121!4d79.0194195!16s%2Fg%2F11c3_4rd_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1765,11 +1751,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Braj+Kishore+Dental+Clinic+%26+implant+centre/@28.7848121,79.0194195,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5534931bef:0xd0fba20dcb653f86!8m2!3d28.7848121!4d79.0194195!16s%2Fg%2F11c3_4rd_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "caps-and-crown-dental-care-rampur",
@@ -1817,7 +1802,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Caps+and+Crown+Dental+Care/@28.8054111,79.0300056,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d1ed857a92b:0xdacd305adf7bf266!8m2!3d28.8054111!4d79.0300056!16s%2Fg%2F11v03zjhj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Caps+and+Crown+Dental+Care/@28.8054111,79.0300056,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d1ed857a92b:0xdacd305adf7bf266!8m2!3d28.8054111!4d79.0300056!16s%2Fg%2F11v03zjhj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1883,11 +1868,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Caps+and+Crown+Dental+Care/@28.8054111,79.0300056,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d1ed857a92b:0xdacd305adf7bf266!8m2!3d28.8054111!4d79.0300056!16s%2Fg%2F11v03zjhj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-centre-rampur",
@@ -1936,7 +1920,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Care+Centre/@28.7965387,79.023035,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4dbc436867:0x83a09f67ffbf36e4!8m2!3d28.7965387!4d79.023035!16s%2Fg%2F1w2ys7k8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+Centre/@28.7965387,79.023035,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4dbc436867:0x83a09f67ffbf36e4!8m2!3d28.7965387!4d79.023035!16s%2Fg%2F1w2ys7k8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2005,8 +1989,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Care+Centre/@28.7965387,79.023035,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4dbc436867:0x83a09f67ffbf36e4!8m2!3d28.7965387!4d79.023035!16s%2Fg%2F1w2ys7k8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-hospital-rampur",
@@ -2054,7 +2037,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Care+Hospital/@28.7861279,79.0128632,17z/data=!3m1!4b1!4m6!3m5!1s0x390a939332dd7421:0x22da2f17a8077f1a!8m2!3d28.7861279!4d79.0128632!16s%2Fg%2F11llz_nw1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+Hospital/@28.7861279,79.0128632,17z/data=!3m1!4b1!4m6!3m5!1s0x390a939332dd7421:0x22da2f17a8077f1a!8m2!3d28.7861279!4d79.0128632!16s%2Fg%2F11llz_nw1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2123,8 +2106,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Care+Hospital/@28.7861279,79.0128632,17z/data=!3m1!4b1!4m6!3m5!1s0x390a939332dd7421:0x22da2f17a8077f1a!8m2!3d28.7861279!4d79.0128632!16s%2Fg%2F11llz_nw1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "central-hospital-ser-kolkata",
@@ -2173,7 +2155,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Central+Hospital,+SER/@22.5459344,88.3101228,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0279c40eb9375b:0x7953dc95c98a7950!8m2!3d22.5459344!4d88.3101228!16s%2Fg%2F1tdsh5tw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Central+Hospital,+SER/@22.5459344,88.3101228,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0279c40eb9375b:0x7953dc95c98a7950!8m2!3d22.5459344!4d88.3101228!16s%2Fg%2F1tdsh5tw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2242,8 +2224,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Central+Hospital,+SER/@22.5459344,88.3101228,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0279c40eb9375b:0x7953dc95c98a7950!8m2!3d22.5459344!4d88.3101228!16s%2Fg%2F1tdsh5tw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "citizens-hospital-rampur",
@@ -2291,7 +2272,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Citizens+Hospital/@28.8120714,79.0230764,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d775f2169b9:0x16a965df9e1993f5!8m2!3d28.8120714!4d79.0230764!16s%2Fg%2F11td986r6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Citizens+Hospital/@28.8120714,79.0230764,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d775f2169b9:0x16a965df9e1993f5!8m2!3d28.8120714!4d79.0230764!16s%2Fg%2F11td986r6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2357,11 +2338,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Citizens+Hospital/@28.8120714,79.0230764,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d775f2169b9:0x16a965df9e1993f5!8m2!3d28.8120714!4d79.0230764!16s%2Fg%2F11td986r6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-dental-care-rampur",
@@ -2409,7 +2389,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Dental+Care/@28.8141142,79.0183106,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d7d8e4af353:0x3663cd65bdd6625c!8m2!3d28.8141142!4d79.0183106!16s%2Fg%2F11ghr_cb69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Dental+Care/@28.8141142,79.0183106,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d7d8e4af353:0x3663cd65bdd6625c!8m2!3d28.8141142!4d79.0183106!16s%2Fg%2F11ghr_cb69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2475,11 +2455,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Dental+Care/@28.8141142,79.0183106,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d7d8e4af353:0x3663cd65bdd6625c!8m2!3d28.8141142!4d79.0183106!16s%2Fg%2F11ghr_cb69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "clinic-rampur",
@@ -2527,7 +2506,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Clinic/@28.9773125,79.0561875,17z/data=!3m1!4b1!4m6!3m5!1s0x390a61fd4668dd6f:0xb4b64a1e4a2c7ae3!8m2!3d28.9773125!4d79.0561875!16s%2Fg%2F11trk006n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic/@28.9773125,79.0561875,17z/data=!3m1!4b1!4m6!3m5!1s0x390a61fd4668dd6f:0xb4b64a1e4a2c7ae3!8m2!3d28.9773125!4d79.0561875!16s%2Fg%2F11trk006n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2593,11 +2572,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Clinic/@28.9773125,79.0561875,17z/data=!3m1!4b1!4m6!3m5!1s0x390a61fd4668dd6f:0xb4b64a1e4a2c7ae3!8m2!3d28.9773125!4d79.0561875!16s%2Fg%2F11trk006n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "clinihope-cancer-day-care-centre-kolkata",
@@ -2647,7 +2625,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Clinihope+Cancer+Day+Care+Centre/@22.5140273,88.4029041,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273605ca9a0cf:0x6174c398cad8fa73!8m2!3d22.5140273!4d88.4029041!16s%2Fg%2F11y4b8mkvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinihope+Cancer+Day+Care+Centre/@22.5140273,88.4029041,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273605ca9a0cf:0x6174c398cad8fa73!8m2!3d22.5140273!4d88.4029041!16s%2Fg%2F11y4b8mkvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2716,8 +2694,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Clinihope+Cancer+Day+Care+Centre/@22.5140273,88.4029041,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273605ca9a0cf:0x6174c398cad8fa73!8m2!3d22.5140273!4d88.4029041!16s%2Fg%2F11y4b8mkvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmo-arts-clinic-best-plastic-surgery-clinic-in-kolkata-kolkata",
@@ -2766,7 +2743,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cosmo+Arts+Clinic+%7C+Best+plastic+surgery+clinic+in+Kolkata/@22.503232,88.358157,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02718c2276d0cd:0x80c7345ab425c2cc!8m2!3d22.503232!4d88.358157!16s%2Fg%2F11g4grrwr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmo+Arts+Clinic+%7C+Best+plastic+surgery+clinic+in+Kolkata/@22.503232,88.358157,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02718c2276d0cd:0x80c7345ab425c2cc!8m2!3d22.503232!4d88.358157!16s%2Fg%2F11g4grrwr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2835,8 +2812,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cosmo+Arts+Clinic+%7C+Best+plastic+surgery+clinic+in+Kolkata/@22.503232,88.358157,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02718c2276d0cd:0x80c7345ab425c2cc!8m2!3d22.503232!4d88.358157!16s%2Fg%2F11g4grrwr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "deep-s-dental-and-cosmetic-care-rampur",
@@ -2884,7 +2860,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Deep's+Dental+and+Cosmetic+Care/@28.7873953,79.0214744,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d54f2625fff:0x2ea38f13a1428c60!8m2!3d28.7873953!4d79.0214744!16s%2Fg%2F11d_w85m7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deep's+Dental+and+Cosmetic+Care/@28.7873953,79.0214744,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d54f2625fff:0x2ea38f13a1428c60!8m2!3d28.7873953!4d79.0214744!16s%2Fg%2F11d_w85m7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2953,8 +2929,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Deep's+Dental+and+Cosmetic+Care/@28.7873953,79.0214744,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d54f2625fff:0x2ea38f13a1428c60!8m2!3d28.7873953!4d79.0214744!16s%2Fg%2F11d_w85m7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-and-oral-maxillofacial-clinic-kolkata",
@@ -3003,7 +2978,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3069,11 +3044,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-care-center-rampur",
@@ -3119,7 +3093,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Care+Center/@28.7939893,79.0221697,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dde5699f4b9:0x43726fad33fe7028!8m2!3d28.7939893!4d79.0221697!16s%2Fg%2F11j83t3qv4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Care+Center/@28.7939893,79.0221697,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dde5699f4b9:0x43726fad33fe7028!8m2!3d28.7939893!4d79.0221697!16s%2Fg%2F11j83t3qv4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3185,11 +3159,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Care+Center/@28.7939893,79.0221697,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dde5699f4b9:0x43726fad33fe7028!8m2!3d28.7939893!4d79.0221697!16s%2Fg%2F11j83t3qv4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-care-centre-rampur",
@@ -3238,7 +3211,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+Care+Centre/@28.79417,79.0220379,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d049e7eb807:0x897bd8c12f7f4659!8m2!3d28.79417!4d79.0220379!16s%2Fg%2F11hzn3w2lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Care+Centre/@28.79417,79.0220379,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d049e7eb807:0x897bd8c12f7f4659!8m2!3d28.79417!4d79.0220379!16s%2Fg%2F11hzn3w2lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3304,11 +3277,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+Care+Centre/@28.79417,79.0220379,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d049e7eb807:0x897bd8c12f7f4659!8m2!3d28.79417!4d79.0220379!16s%2Fg%2F11hzn3w2lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-expert-rampur",
@@ -3356,7 +3328,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DENTAL+EXPERT/@28.7994754,79.0193118,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4cb2f99b57:0x9358f26c5d934c59!8m2!3d28.7994754!4d79.0193118!16s%2Fg%2F11l6tmn0t2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTAL+EXPERT/@28.7994754,79.0193118,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4cb2f99b57:0x9358f26c5d934c59!8m2!3d28.7994754!4d79.0193118!16s%2Fg%2F11l6tmn0t2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3422,11 +3394,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DENTAL+EXPERT/@28.7994754,79.0193118,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4cb2f99b57:0x9358f26c5d934c59!8m2!3d28.7994754!4d79.0193118!16s%2Fg%2F11l6tmn0t2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dg-clinic-rampur",
@@ -3474,7 +3445,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DG+CLINIC/@28.7936281,79.0223886,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d1a7be94711:0x11fed42a59b7e350!8m2!3d28.7936281!4d79.0223886!16s%2Fg%2F11why96cr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DG+CLINIC/@28.7936281,79.0223886,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d1a7be94711:0x11fed42a59b7e350!8m2!3d28.7936281!4d79.0223886!16s%2Fg%2F11why96cr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3540,11 +3511,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DG+CLINIC/@28.7936281,79.0223886,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d1a7be94711:0x11fed42a59b7e350!8m2!3d28.7936281!4d79.0223886!16s%2Fg%2F11why96cr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "drgola-vadic-natural-healthcare-rampur-rampur",
@@ -3593,7 +3563,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DrGola+Vadic+Natural+Healthcare+Rampur/@28.7748893,79.0129157,17z/data=!3m1!4b1!4m6!3m5!1s0x390aedede570e9dd:0xb91cd795a2a4e7b4!8m2!3d28.7748893!4d79.0129157!16s%2Fg%2F11vbgsmh8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DrGola+Vadic+Natural+Healthcare+Rampur/@28.7748893,79.0129157,17z/data=!3m1!4b1!4m6!3m5!1s0x390aedede570e9dd:0xb91cd795a2a4e7b4!8m2!3d28.7748893!4d79.0129157!16s%2Fg%2F11vbgsmh8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3659,11 +3629,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DrGola+Vadic+Natural+Healthcare+Rampur/@28.7748893,79.0129157,17z/data=!3m1!4b1!4m6!3m5!1s0x390aedede570e9dd:0xb91cd795a2a4e7b4!8m2!3d28.7748893!4d79.0129157!16s%2Fg%2F11vbgsmh8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "eshan-hospital-bareilly",
@@ -3712,7 +3681,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Eshan+Hospital/@28.3513857,79.4275708,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0012af98926b5:0x5abe9334ec58e08f!8m2!3d28.3513857!4d79.4275708!16s%2Fg%2F124ym8973?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eshan+Hospital/@28.3513857,79.4275708,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0012af98926b5:0x5abe9334ec58e08f!8m2!3d28.3513857!4d79.4275708!16s%2Fg%2F124ym8973?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3781,8 +3750,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Eshan+Hospital/@28.3513857,79.4275708,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0012af98926b5:0x5abe9334ec58e08f!8m2!3d28.3513857!4d79.4275708!16s%2Fg%2F124ym8973?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "eskag-sanjeevani-dialysis-center-balrampur-balrampur",
@@ -3832,7 +3800,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Balrampur/@27.4208218,82.1690753,17z/data=!3m1!4b1!4m6!3m5!1s0x3999df1a91ec90c7:0xc3215894fac927f3!8m2!3d27.4208218!4d82.1690753!16s%2Fg%2F11rgx1p0my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Balrampur/@27.4208218,82.1690753,17z/data=!3m1!4b1!4m6!3m5!1s0x3999df1a91ec90c7:0xc3215894fac927f3!8m2!3d27.4208218!4d82.1690753!16s%2Fg%2F11rgx1p0my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3901,8 +3869,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Balrampur/@27.4208218,82.1690753,17z/data=!3m1!4b1!4m6!3m5!1s0x3999df1a91ec90c7:0xc3215894fac927f3!8m2!3d27.4208218!4d82.1690753!16s%2Fg%2F11rgx1p0my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "face-mouth-dental-clinic-and-maxillofacial-centre-rajpur-sonarpur",
@@ -3951,7 +3918,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Face+Mouth+Dental+Clinic+%26+Maxillofacial+Centre/@22.4401271,88.4396288,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e31ebf9335:0x6ea6f3948e19573a!8m2!3d22.4401271!4d88.4396288!16s%2Fg%2F11fhv9s7lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Face+Mouth+Dental+Clinic+%26+Maxillofacial+Centre/@22.4401271,88.4396288,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e31ebf9335:0x6ea6f3948e19573a!8m2!3d22.4401271!4d88.4396288!16s%2Fg%2F11fhv9s7lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4020,8 +3987,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Face+Mouth+Dental+Clinic+%26+Maxillofacial+Centre/@22.4401271,88.4396288,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e31ebf9335:0x6ea6f3948e19573a!8m2!3d22.4401271!4d88.4396288!16s%2Fg%2F11fhv9s7lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "falak-hospital-rampur",
@@ -4069,7 +4035,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/FALAK+HOSPITAL/@28.8209329,79.0092681,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3e520ea5e2b:0xcbe48f636c2165!8m2!3d28.8209329!4d79.0092681!16s%2Fg%2F11sqyvfz36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FALAK+HOSPITAL/@28.8209329,79.0092681,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3e520ea5e2b:0xcbe48f636c2165!8m2!3d28.8209329!4d79.0092681!16s%2Fg%2F11sqyvfz36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4138,8 +4104,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/FALAK+HOSPITAL/@28.8209329,79.0092681,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3e520ea5e2b:0xcbe48f636c2165!8m2!3d28.8209329!4d79.0092681!16s%2Fg%2F11sqyvfz36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "family-dental-clinic-rampur",
@@ -4188,7 +4153,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Family+Dental+Clinic/@28.7786598,79.0157783,17z/data=!3m1!4b1!4m6!3m5!1s0x390aedd8a61ec551:0x8a5dd7eee7384e15!8m2!3d28.7786598!4d79.0157783!16s%2Fg%2F11sh734ptk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Family+Dental+Clinic/@28.7786598,79.0157783,17z/data=!3m1!4b1!4m6!3m5!1s0x390aedd8a61ec551:0x8a5dd7eee7384e15!8m2!3d28.7786598!4d79.0157783!16s%2Fg%2F11sh734ptk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4254,11 +4219,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Family+Dental+Clinic/@28.7786598,79.0157783,17z/data=!3m1!4b1!4m6!3m5!1s0x390aedd8a61ec551:0x8a5dd7eee7384e15!8m2!3d28.7786598!4d79.0157783!16s%2Fg%2F11sh734ptk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "forever-dental-care-rampur",
@@ -4306,7 +4270,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Forever+dental+care/@28.7985468,79.0229887,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d290c4da093:0x51b72ad3fce06941!8m2!3d28.7985468!4d79.0229887!16s%2Fg%2F11rxvm3sw8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Forever+dental+care/@28.7985468,79.0229887,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d290c4da093:0x51b72ad3fce06941!8m2!3d28.7985468!4d79.0229887!16s%2Fg%2F11rxvm3sw8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4372,11 +4336,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Forever+dental+care/@28.7985468,79.0229887,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d290c4da093:0x51b72ad3fce06941!8m2!3d28.7985468!4d79.0229887!16s%2Fg%2F11rxvm3sw8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ganga-hospital-rampur",
@@ -4424,7 +4387,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ganga+hospital/@28.7883946,79.0270299,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d8fef64019b:0x657e8f78633d1385!8m2!3d28.7883946!4d79.0270299!16s%2Fg%2F11qpt7mmk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganga+hospital/@28.7883946,79.0270299,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d8fef64019b:0x657e8f78633d1385!8m2!3d28.7883946!4d79.0270299!16s%2Fg%2F11qpt7mmk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4493,8 +4456,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ganga+hospital/@28.7883946,79.0270299,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d8fef64019b:0x657e8f78633d1385!8m2!3d28.7883946!4d79.0270299!16s%2Fg%2F11qpt7mmk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gangasheel-advanced-medical-research-institute-best-hospital-in-bareilly-bareilly",
@@ -4543,7 +4505,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gangasheel+Advanced+Medical+Research+Institute+-+Best+Hospital+in+Bareilly/@28.3811933,79.4310174,17z/data=!3m1!4b1!4m6!3m5!1s0x39a00721b8465449:0x39bec9bf9038a4cb!8m2!3d28.3811933!4d79.4310174!16s%2Fg%2F11hyn8mm4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gangasheel+Advanced+Medical+Research+Institute+-+Best+Hospital+in+Bareilly/@28.3811933,79.4310174,17z/data=!3m1!4b1!4m6!3m5!1s0x39a00721b8465449:0x39bec9bf9038a4cb!8m2!3d28.3811933!4d79.4310174!16s%2Fg%2F11hyn8mm4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4612,8 +4574,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gangasheel+Advanced+Medical+Research+Institute+-+Best+Hospital+in+Bareilly/@28.3811933,79.4310174,17z/data=!3m1!4b1!4m6!3m5!1s0x39a00721b8465449:0x39bec9bf9038a4cb!8m2!3d28.3811933!4d79.4310174!16s%2Fg%2F11hyn8mm4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gastro-liver-clinic-rampur",
@@ -4663,7 +4624,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gastro+Liver+Clinic/@28.7923088,79.0224225,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d52540abd4f:0x28c6275897bf8314!8m2!3d28.7923088!4d79.0224225!16s%2Fg%2F11sbr02d_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gastro+Liver+Clinic/@28.7923088,79.0224225,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d52540abd4f:0x28c6275897bf8314!8m2!3d28.7923088!4d79.0224225!16s%2Fg%2F11sbr02d_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4729,11 +4690,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gastro+Liver+Clinic/@28.7923088,79.0224225,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d52540abd4f:0x28c6275897bf8314!8m2!3d28.7923088!4d79.0224225!16s%2Fg%2F11sbr02d_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gd-hospital-and-diabetes-institute-kolkata",
@@ -4783,7 +4743,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GD+Hospital+%26+Diabetes+Institute/@22.5620956,88.3621637,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276ffb07df0e5:0xa2740fd468bea2bf!8m2!3d22.5620956!4d88.3621637!16s%2Fg%2F11c52bdzqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GD+Hospital+%26+Diabetes+Institute/@22.5620956,88.3621637,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276ffb07df0e5:0xa2740fd468bea2bf!8m2!3d22.5620956!4d88.3621637!16s%2Fg%2F11c52bdzqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4849,11 +4809,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GD+Hospital+%26+Diabetes+Institute/@22.5620956,88.3621637,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276ffb07df0e5:0xa2740fd468bea2bf!8m2!3d22.5620956!4d88.3621637!16s%2Fg%2F11c52bdzqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-hospital-rampur",
@@ -4899,7 +4858,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Global+Hospital/@28.7880185,79.0275145,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d12f5203355:0xee33234688930648!8m2!3d28.7880185!4d79.0275145!16s%2Fg%2F11fvwg99x9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Hospital/@28.7880185,79.0275145,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d12f5203355:0xee33234688930648!8m2!3d28.7880185!4d79.0275145!16s%2Fg%2F11fvwg99x9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4965,11 +4924,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Global+Hospital/@28.7880185,79.0275145,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d12f5203355:0xee33234688930648!8m2!3d28.7880185!4d79.0275145!16s%2Fg%2F11fvwg99x9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "goodwill-hospital-rampur",
@@ -5017,7 +4975,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Goodwill+hospital/@28.7980115,79.0140504,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3003d41e269:0x54cf05c3822af994!8m2!3d28.7980115!4d79.0140504!16s%2Fg%2F11lmlmsgls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goodwill+hospital/@28.7980115,79.0140504,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3003d41e269:0x54cf05c3822af994!8m2!3d28.7980115!4d79.0140504!16s%2Fg%2F11lmlmsgls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5083,11 +5041,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Goodwill+hospital/@28.7980115,79.0140504,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3003d41e269:0x54cf05c3822af994!8m2!3d28.7980115!4d79.0140504!16s%2Fg%2F11lmlmsgls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gupta-clinic-rampur",
@@ -5135,7 +5092,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gupta+Clinic/@28.8076434,79.0401933,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4075c46d4f:0x5b141eebf614c64d!8m2!3d28.8076434!4d79.0401933!16s%2Fg%2F11cnbm0dcx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Clinic/@28.8076434,79.0401933,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4075c46d4f:0x5b141eebf614c64d!8m2!3d28.8076434!4d79.0401933!16s%2Fg%2F11cnbm0dcx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5201,11 +5158,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gupta+Clinic/@28.8076434,79.0401933,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4075c46d4f:0x5b141eebf614c64d!8m2!3d28.8076434!4d79.0401933!16s%2Fg%2F11cnbm0dcx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gupta-maternity-and-nursing-home-rampur",
@@ -5253,7 +5209,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gupta+Maternity+%26+Nursing+Home/@28.8098493,79.0316259,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4b3534e94d:0x502a43df1ebfbbf0!8m2!3d28.8098493!4d79.0316259!16s%2Fg%2F11gxn9gmpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Maternity+%26+Nursing+Home/@28.8098493,79.0316259,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4b3534e94d:0x502a43df1ebfbbf0!8m2!3d28.8098493!4d79.0316259!16s%2Fg%2F11gxn9gmpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5322,8 +5278,7 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gupta+Maternity+%26+Nursing+Home/@28.8098493,79.0316259,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4b3534e94d:0x502a43df1ebfbbf0!8m2!3d28.8098493!4d79.0316259!16s%2Fg%2F11gxn9gmpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "guru-maa-advanced-dental-care-dental-implant-specialist-in-rudrapur-invisalign-clear-aligner-kids-dental-painless-rct-jagatpura",
@@ -5372,7 +5327,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Guru+Maa+Advanced+Dental+Care+-+Dental+Implant+Specialist+in+Rudrapur+%7C+Invisalign+Clear+Aligner+Kids+Dental+%7C+Painless+RCT/@28.9808614,79.3984891,17z/data=!3m1!4b1!4m6!3m5!1s0x39a07fcb71f86fe1:0x4f4b99c63737e1c3!8m2!3d28.9808614!4d79.3984891!16s%2Fg%2F11ns7yhgn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Guru+Maa+Advanced+Dental+Care+-+Dental+Implant+Specialist+in+Rudrapur+%7C+Invisalign+Clear+Aligner+Kids+Dental+%7C+Painless+RCT/@28.9808614,79.3984891,17z/data=!3m1!4b1!4m6!3m5!1s0x39a07fcb71f86fe1:0x4f4b99c63737e1c3!8m2!3d28.9808614!4d79.3984891!16s%2Fg%2F11ns7yhgn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5441,8 +5396,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Guru+Maa+Advanced+Dental+Care+-+Dental+Implant+Specialist+in+Rudrapur+%7C+Invisalign+Clear+Aligner+Kids+Dental+%7C+Painless+RCT/@28.9808614,79.3984891,17z/data=!3m1!4b1!4m6!3m5!1s0x39a07fcb71f86fe1:0x4f4b99c63737e1c3!8m2!3d28.9808614!4d79.3984891!16s%2Fg%2F11ns7yhgn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "h-c-r-s-hospital-rampur",
@@ -5491,7 +5445,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/H.c.r.s.+Hospital/@28.7829003,79.0203553,17z/data=!3m1!4b1!4m6!3m5!1s0x390a92aaa6887f7d:0xabeead3b74d194e6!8m2!3d28.7829003!4d79.0203553!16s%2Fg%2F11sbq_dv1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/H.c.r.s.+Hospital/@28.7829003,79.0203553,17z/data=!3m1!4b1!4m6!3m5!1s0x390a92aaa6887f7d:0xabeead3b74d194e6!8m2!3d28.7829003!4d79.0203553!16s%2Fg%2F11sbq_dv1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5557,11 +5511,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/H.c.r.s.+Hospital/@28.7829003,79.0203553,17z/data=!3m1!4b1!4m6!3m5!1s0x390a92aaa6887f7d:0xabeead3b74d194e6!8m2!3d28.7829003!4d79.0203553!16s%2Fg%2F11sbq_dv1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hansa-skin-care-and-nak-kan-gala-center-rampur",
@@ -5607,7 +5560,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hansa+Skin+Care+And+Nak+Kan+Gala+center/@28.798299,79.0220287,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d0034a34a25:0xf5387c88411d9183!8m2!3d28.798299!4d79.0220287!16s%2Fg%2F11lp7jvsgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hansa+Skin+Care+And+Nak+Kan+Gala+center/@28.798299,79.0220287,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d0034a34a25:0xf5387c88411d9183!8m2!3d28.798299!4d79.0220287!16s%2Fg%2F11lp7jvsgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5673,11 +5626,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hansa+Skin+Care+And+Nak+Kan+Gala+center/@28.798299,79.0220287,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d0034a34a25:0xf5387c88411d9183!8m2!3d28.798299!4d79.0220287!16s%2Fg%2F11lp7jvsgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hayaat-hospital-rampur",
@@ -5725,7 +5677,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hayaat+Hospital/@28.7935057,79.0247701,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5221aeb42b:0x505f8cfd4b12f227!8m2!3d28.7935057!4d79.0247701!16s%2Fg%2F11g9f18vnz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hayaat+Hospital/@28.7935057,79.0247701,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5221aeb42b:0x505f8cfd4b12f227!8m2!3d28.7935057!4d79.0247701!16s%2Fg%2F11g9f18vnz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5794,8 +5746,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hayaat+Hospital/@28.7935057,79.0247701,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5221aeb42b:0x505f8cfd4b12f227!8m2!3d28.7935057!4d79.0247701!16s%2Fg%2F11g9f18vnz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "heartbeat-hospital-rampur",
@@ -5844,7 +5795,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Heartbeat+Hospital/@28.7983972,79.0237826,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4d9f4fe6ad:0x11b8f6114f92aad7!8m2!3d28.7983972!4d79.0237826!16s%2Fg%2F11cs9l__xb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heartbeat+Hospital/@28.7983972,79.0237826,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4d9f4fe6ad:0x11b8f6114f92aad7!8m2!3d28.7983972!4d79.0237826!16s%2Fg%2F11cs9l__xb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5913,8 +5864,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Heartbeat+Hospital/@28.7983972,79.0237826,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4d9f4fe6ad:0x11b8f6114f92aad7!8m2!3d28.7983972!4d79.0237826!16s%2Fg%2F11cs9l__xb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ismaile-dentel-clinik-rampur",
@@ -5960,7 +5910,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ismaile+Dentel+Clinik/@28.7983595,79.0219177,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d9719bd8239:0xb6122bd7c1ef998c!8m2!3d28.7983595!4d79.0219177!16s%2Fg%2F11tf2s2qjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ismaile+Dentel+Clinik/@28.7983595,79.0219177,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d9719bd8239:0xb6122bd7c1ef998c!8m2!3d28.7983595!4d79.0219177!16s%2Fg%2F11tf2s2qjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6026,11 +5976,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ismaile+Dentel+Clinik/@28.7983595,79.0219177,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d9719bd8239:0xb6122bd7c1ef998c!8m2!3d28.7983595!4d79.0219177!16s%2Fg%2F11tf2s2qjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-deep-hospital-rampur",
@@ -6078,7 +6027,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Deep+Hospital/@28.802564,79.0147407,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3001313aef7:0x6d8b9a7cda7f0b2e!8m2!3d28.802564!4d79.0147407!16s%2Fg%2F11ycdfb_gc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Deep+Hospital/@28.802564,79.0147407,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3001313aef7:0x6d8b9a7cda7f0b2e!8m2!3d28.802564!4d79.0147407!16s%2Fg%2F11ycdfb_gc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6144,11 +6093,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Deep+Hospital/@28.802564,79.0147407,17z/data=!3m1!4b1!4m6!3m5!1s0x390af3001313aef7:0x6d8b9a7cda7f0b2e!8m2!3d28.802564!4d79.0147407!16s%2Fg%2F11ycdfb_gc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-hospital-rampur",
@@ -6196,7 +6144,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+hospital/@28.7907641,79.0126872,17z/data=!3m1!4b1!4m6!3m5!1s0x390af30030ba0651:0x61d86eda7b3dac83!8m2!3d28.7907641!4d79.0126872!16s%2Fg%2F11vptwk9ny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+hospital/@28.7907641,79.0126872,17z/data=!3m1!4b1!4m6!3m5!1s0x390af30030ba0651:0x61d86eda7b3dac83!8m2!3d28.7907641!4d79.0126872!16s%2Fg%2F11vptwk9ny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6262,11 +6210,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+hospital/@28.7907641,79.0126872,17z/data=!3m1!4b1!4m6!3m5!1s0x390af30030ba0651:0x61d86eda7b3dac83!8m2!3d28.7907641!4d79.0126872!16s%2Fg%2F11vptwk9ny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-jyoti-hospital-bareilly",
@@ -6315,7 +6262,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/@28.350906,79.4250605,17z/data=!3m1!4b1!4m6!3m5!1s0x39a000d540000001:0xa69c2110db2319d3!8m2!3d28.350906!4d79.4250605!16s%2Fg%2F11c2pb8px6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/@28.350906,79.4250605,17z/data=!3m1!4b1!4m6!3m5!1s0x39a000d540000001:0xa69c2110db2319d3!8m2!3d28.350906!4d79.4250605!16s%2Fg%2F11c2pb8px6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6384,8 +6331,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/@28.350906,79.4250605,17z/data=!3m1!4b1!4m6!3m5!1s0x39a000d540000001:0xa69c2110db2319d3!8m2!3d28.350906!4d79.4250605!16s%2Fg%2F11c2pb8px6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-rekha-hospital-rampur",
@@ -6433,7 +6379,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Rekha+Hospital/@28.7976284,79.022949,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dbe7fdc2b8f:0x3320b012ded28fd7!8m2!3d28.7976284!4d79.022949!16s%2Fg%2F11j03zrhlw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Rekha+Hospital/@28.7976284,79.022949,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dbe7fdc2b8f:0x3320b012ded28fd7!8m2!3d28.7976284!4d79.022949!16s%2Fg%2F11j03zrhlw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6502,8 +6448,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Rekha+Hospital/@28.7976284,79.022949,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dbe7fdc2b8f:0x3320b012ded28fd7!8m2!3d28.7976284!4d79.022949!16s%2Fg%2F11j03zrhlw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jk-dental-implant-and-esthetic-centre-bareilly",
@@ -6553,7 +6498,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/JK+Dental+Implant+and+Esthetic+Centre/@28.3501914,79.4206015,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0017ddb39241f:0x7e1b78c8dc2c3418!8m2!3d28.3501914!4d79.4206015!16s%2Fg%2F11frrjykzh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JK+Dental+Implant+and+Esthetic+Centre/@28.3501914,79.4206015,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0017ddb39241f:0x7e1b78c8dc2c3418!8m2!3d28.3501914!4d79.4206015!16s%2Fg%2F11frrjykzh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6622,8 +6567,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/JK+Dental+Implant+and+Esthetic+Centre/@28.3501914,79.4206015,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0017ddb39241f:0x7e1b78c8dc2c3418!8m2!3d28.3501914!4d79.4206015!16s%2Fg%2F11frrjykzh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "joy-s-oral-and-maxillofacial-care-dental-clinic-kolkata",
@@ -6672,7 +6616,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Joy's+Oral+and+Maxillofacial+Care+Dental+Clinic/@22.6137302,88.4389016,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89f4733ecfdad:0x7823fc5c67676de9!8m2!3d22.6137302!4d88.4389016!16s%2Fg%2F11v1519sr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Joy's+Oral+and+Maxillofacial+Care+Dental+Clinic/@22.6137302,88.4389016,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89f4733ecfdad:0x7823fc5c67676de9!8m2!3d22.6137302!4d88.4389016!16s%2Fg%2F11v1519sr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6738,11 +6682,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Joy's+Oral+and+Maxillofacial+Care+Dental+Clinic/@22.6137302,88.4389016,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89f4733ecfdad:0x7823fc5c67676de9!8m2!3d22.6137302!4d88.4389016!16s%2Fg%2F11v1519sr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kasturi-medical-centre-pvt-ltd-purba-barisha",
@@ -6791,7 +6734,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kasturi+Medical+Centre+Pvt+Ltd/@22.4556722,88.3046309,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a8f155555f3:0x15e28b8a125c9f50!8m2!3d22.4556722!4d88.3046309!16s%2Fg%2F1tks4rdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kasturi+Medical+Centre+Pvt+Ltd/@22.4556722,88.3046309,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a8f155555f3:0x15e28b8a125c9f50!8m2!3d22.4556722!4d88.3046309!16s%2Fg%2F1tks4rdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6860,8 +6803,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kasturi+Medical+Centre+Pvt+Ltd/@22.4556722,88.3046309,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a8f155555f3:0x15e28b8a125c9f50!8m2!3d22.4556722!4d88.3046309!16s%2Fg%2F1tks4rdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kavish-health-wellness-nutrition-club-rampur",
@@ -6910,7 +6852,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kavish+Health+wellness+nutrition+club/@28.798299,79.0220287,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d2728bcd389:0xb6a0e58cfc3d8b70!8m2!3d28.798299!4d79.0220287!16s%2Fg%2F11ypcq6ptl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kavish+Health+wellness+nutrition+club/@28.798299,79.0220287,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d2728bcd389:0xb6a0e58cfc3d8b70!8m2!3d28.798299!4d79.0220287!16s%2Fg%2F11ypcq6ptl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6976,11 +6918,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kavish+Health+wellness+nutrition+club/@28.798299,79.0220287,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d2728bcd389:0xb6a0e58cfc3d8b70!8m2!3d28.798299!4d79.0220287!16s%2Fg%2F11ypcq6ptl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "khushlok-hospital-bareilly",
@@ -7029,7 +6970,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Khushlok+Hospital/@28.3697327,79.4314509,17z/data=!3m1!4b1!4m6!3m5!1s0x39a006dbcdd26af1:0x844ad63a2929cab8!8m2!3d28.3697327!4d79.4314509!16s%2Fg%2F1ptvv613n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khushlok+Hospital/@28.3697327,79.4314509,17z/data=!3m1!4b1!4m6!3m5!1s0x39a006dbcdd26af1:0x844ad63a2929cab8!8m2!3d28.3697327!4d79.4314509!16s%2Fg%2F1ptvv613n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7098,8 +7039,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Khushlok+Hospital/@28.3697327,79.4314509,17z/data=!3m1!4b1!4m6!3m5!1s0x39a006dbcdd26af1:0x844ad63a2929cab8!8m2!3d28.3697327!4d79.4314509!16s%2Fg%2F1ptvv613n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "know-your-kidney-kolkata",
@@ -7150,7 +7090,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/@22.5215923,88.3962895,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/@22.5215923,88.3962895,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7216,11 +7156,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/@22.5215923,88.3962895,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lavi-maternity-hospital-and-child-care-rampur-rampur",
@@ -7270,7 +7209,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lavi+Maternity+Hospital+and+Child+Care,+Rampur/@28.7912733,79.0162284,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2ac55a9e533:0x212ca6a44b7b0cdf!8m2!3d28.7912733!4d79.0162284!16s%2Fg%2F1q5bl8zg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lavi+Maternity+Hospital+and+Child+Care,+Rampur/@28.7912733,79.0162284,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2ac55a9e533:0x212ca6a44b7b0cdf!8m2!3d28.7912733!4d79.0162284!16s%2Fg%2F1q5bl8zg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7339,8 +7278,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lavi+Maternity+Hospital+and+Child+Care,+Rampur/@28.7912733,79.0162284,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2ac55a9e533:0x212ca6a44b7b0cdf!8m2!3d28.7912733!4d79.0162284!16s%2Fg%2F1q5bl8zg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-care-health-centre-mohallah-chak-swar-po-swar",
@@ -7389,7 +7327,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LIFE+CARE+HEALTH+CENTRE/@29.0269898,79.0546587,17z/data=!3m1!4b1!4m6!3m5!1s0x390a60fab6da278f:0x9999e2c63a0aedd6!8m2!3d29.0269898!4d79.0546587!16s%2Fg%2F11d_7s6lsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LIFE+CARE+HEALTH+CENTRE/@29.0269898,79.0546587,17z/data=!3m1!4b1!4m6!3m5!1s0x390a60fab6da278f:0x9999e2c63a0aedd6!8m2!3d29.0269898!4d79.0546587!16s%2Fg%2F11d_7s6lsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7458,8 +7396,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LIFE+CARE+HEALTH+CENTRE/@29.0269898,79.0546587,17z/data=!3m1!4b1!4m6!3m5!1s0x390a60fab6da278f:0x9999e2c63a0aedd6!8m2!3d29.0269898!4d79.0546587!16s%2Fg%2F11d_7s6lsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mahira-dental-clinic-rampur",
@@ -7506,7 +7443,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MAHIRA+DENTAL+CLINIC/data=!4m7!3m6!1s0x390a8d3ca6e71c01:0x749acd6fde123453!8m2!3d28.8179915!4d79.0364438!16s%2Fg%2F11vl9g6mkb!19sChIJARznpjyNCjkRUzQS3m_NmnQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAHIRA+DENTAL+CLINIC/data=!4m7!3m6!1s0x390a8d3ca6e71c01:0x749acd6fde123453!8m2!3d28.8179915!4d79.0364438!16s%2Fg%2F11vl9g6mkb!19sChIJARznpjyNCjkRUzQS3m_NmnQ?authuser=0&hl=en&rclk=1"
@@ -7572,11 +7509,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MAHIRA+DENTAL+CLINIC/data=!4m7!3m6!1s0x390a8d3ca6e71c01:0x749acd6fde123453!8m2!3d28.8179915!4d79.0364438!16s%2Fg%2F11vl9g6mkb!19sChIJARznpjyNCjkRUzQS3m_NmnQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "make-my-smile-dental-care-rampur",
@@ -7624,7 +7560,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Make+My+Smile+Dental+Care/@28.782162,79.02144,17z/data=!3m1!4b1!4m6!3m5!1s0x390a9379cc2c2e31:0xef2a3117374c50b6!8m2!3d28.782162!4d79.02144!16s%2Fg%2F11fwgz5nrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Make+My+Smile+Dental+Care/@28.782162,79.02144,17z/data=!3m1!4b1!4m6!3m5!1s0x390a9379cc2c2e31:0xef2a3117374c50b6!8m2!3d28.782162!4d79.02144!16s%2Fg%2F11fwgz5nrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7690,11 +7626,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Make+My+Smile+Dental+Care/@28.782162,79.02144,17z/data=!3m1!4b1!4m6!3m5!1s0x390a9379cc2c2e31:0xef2a3117374c50b6!8m2!3d28.782162!4d79.02144!16s%2Fg%2F11fwgz5nrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "matri-sadan-medical-hall-maheshtala",
@@ -7744,7 +7679,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Matri+Sadan+Medical+Hall/@22.5360886,88.2551206,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02794868bd0d5f:0xda86ce1fa0746436!8m2!3d22.5360886!4d88.2551206!16s%2Fg%2F1v3_12ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matri+Sadan+Medical+Hall/@22.5360886,88.2551206,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02794868bd0d5f:0xda86ce1fa0746436!8m2!3d22.5360886!4d88.2551206!16s%2Fg%2F1v3_12ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7810,11 +7745,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Matri+Sadan+Medical+Hall/@22.5360886,88.2551206,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02794868bd0d5f:0xda86ce1fa0746436!8m2!3d22.5360886!4d88.2551206!16s%2Fg%2F1v3_12ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maxcare-hospital-bareilly",
@@ -7862,7 +7796,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maxcare+Hospital/@28.3511031,79.427473,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0014c0821b7c1:0xccfb633a7b79c1d3!8m2!3d28.3511031!4d79.427473!16s%2Fg%2F11f66r578h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxcare+Hospital/@28.3511031,79.427473,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0014c0821b7c1:0xccfb633a7b79c1d3!8m2!3d28.3511031!4d79.427473!16s%2Fg%2F11f66r578h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7931,8 +7865,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maxcare+Hospital/@28.3511031,79.427473,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0014c0821b7c1:0xccfb633a7b79c1d3!8m2!3d28.3511031!4d79.427473!16s%2Fg%2F11f66r578h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maxillofacial-and-dental-clinic-kolkata",
@@ -7981,7 +7914,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maxillofacial+and+Dental+Clinic/data=!4m7!3m6!1s0x39f89dcf58c75153:0x3444f9349a2340f3!8m2!3d22.6150907!4d88.3788789!16s%2Fg%2F11nsvkx0_1!19sChIJU1HHWM-d-DkR80AjmjT5RDQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxillofacial+and+Dental+Clinic/data=!4m7!3m6!1s0x39f89dcf58c75153:0x3444f9349a2340f3!8m2!3d22.6150907!4d88.3788789!16s%2Fg%2F11nsvkx0_1!19sChIJU1HHWM-d-DkR80AjmjT5RDQ?authuser=0&hl=en&rclk=1"
@@ -8047,11 +7980,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maxillofacial+and+Dental+Clinic/data=!4m7!3m6!1s0x39f89dcf58c75153:0x3444f9349a2340f3!8m2!3d22.6150907!4d88.3788789!16s%2Fg%2F11nsvkx0_1!19sChIJU1HHWM-d-DkR80AjmjT5RDQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mediroz-oral-and-dental-health-bareilly",
@@ -8100,7 +8032,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mediroz+oral+and+Dental+Health/@28.3847427,79.3849366,17z/data=!3m1!4b1!4m6!3m5!1s0x39a007ca4e657545:0x6a5ff6361d47db29!8m2!3d28.3847427!4d79.3849366!16s%2Fg%2F11h4gqh_6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mediroz+oral+and+Dental+Health/@28.3847427,79.3849366,17z/data=!3m1!4b1!4m6!3m5!1s0x39a007ca4e657545:0x6a5ff6361d47db29!8m2!3d28.3847427!4d79.3849366!16s%2Fg%2F11h4gqh_6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8166,11 +8098,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mediroz+oral+and+Dental+Health/@28.3847427,79.3849366,17z/data=!3m1!4b1!4m6!3m5!1s0x39a007ca4e657545:0x6a5ff6361d47db29!8m2!3d28.3847427!4d79.3849366!16s%2Fg%2F11h4gqh_6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "meerut-kidney-hospital-meerut",
@@ -8219,7 +8150,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Meerut+Kidney+Hospital/@28.9830592,77.7309026,17z/data=!3m1!4b1!4m6!3m5!1s0x390c64db1d6fabed:0x56cb33ad6bc4ccda!8m2!3d28.9830592!4d77.7309026!16s%2Fg%2F124yg15p9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meerut+Kidney+Hospital/@28.9830592,77.7309026,17z/data=!3m1!4b1!4m6!3m5!1s0x390c64db1d6fabed:0x56cb33ad6bc4ccda!8m2!3d28.9830592!4d77.7309026!16s%2Fg%2F124yg15p9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8285,11 +8216,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Meerut+Kidney+Hospital/@28.9830592,77.7309026,17z/data=!3m1!4b1!4m6!3m5!1s0x390c64db1d6fabed:0x56cb33ad6bc4ccda!8m2!3d28.9830592!4d77.7309026!16s%2Fg%2F124yg15p9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mercy-medical-centre-high-tech-ent-hospital-rampur",
@@ -8337,7 +8267,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mercy+Medical+Centre+High+Tech+ENT+Hospital/@28.7966476,79.0234739,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4dbf5d4b5d:0x96ab32f85452b47b!8m2!3d28.7966476!4d79.0234739!16s%2Fg%2F11bz0mscgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mercy+Medical+Centre+High+Tech+ENT+Hospital/@28.7966476,79.0234739,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4dbf5d4b5d:0x96ab32f85452b47b!8m2!3d28.7966476!4d79.0234739!16s%2Fg%2F11bz0mscgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8403,11 +8333,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mercy+Medical+Centre+High+Tech+ENT+Hospital/@28.7966476,79.0234739,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4dbf5d4b5d:0x96ab32f85452b47b!8m2!3d28.7966476!4d79.0234739!16s%2Fg%2F11bz0mscgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mollargate-hospital-rampur",
@@ -8455,7 +8384,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mollargate+hospital/@22.51545,88.2701552,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027961fe7e352d:0x9f2a66ea224063fb!8m2!3d22.51545!4d88.2701552!16s%2Fg%2F11f4vt8yvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mollargate+hospital/@22.51545,88.2701552,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027961fe7e352d:0x9f2a66ea224063fb!8m2!3d22.51545!4d88.2701552!16s%2Fg%2F11f4vt8yvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8524,8 +8453,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mollargate+hospital/@22.51545,88.2701552,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027961fe7e352d:0x9f2a66ea224063fb!8m2!3d22.51545!4d88.2701552!16s%2Fg%2F11f4vt8yvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "naturoveda-health-world-park-circus-best-ayurvedic-and-unani-clinic-ayurvedic-clinic-kolkata-kolkata",
@@ -8574,7 +8502,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Naturoveda+Health+World+%7C+Park+Circus+%7C+Best+Ayurvedic+%26+Unani+Clinic+%7C+Ayurvedic+Clinic+Kolkata/@22.5437387,88.3664692,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276de75590169:0x8805b25a2bf2af35!8m2!3d22.5437387!4d88.3664692!16s%2Fg%2F11b78q3x1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naturoveda+Health+World+%7C+Park+Circus+%7C+Best+Ayurvedic+%26+Unani+Clinic+%7C+Ayurvedic+Clinic+Kolkata/@22.5437387,88.3664692,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276de75590169:0x8805b25a2bf2af35!8m2!3d22.5437387!4d88.3664692!16s%2Fg%2F11b78q3x1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8643,8 +8571,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Naturoveda+Health+World+%7C+Park+Circus+%7C+Best+Ayurvedic+%26+Unani+Clinic+%7C+Ayurvedic+Clinic+Kolkata/@22.5437387,88.3664692,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276de75590169:0x8805b25a2bf2af35!8m2!3d22.5437387!4d88.3664692!16s%2Fg%2F11b78q3x1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neeraj-lifecare-and-stone-centre-bareilly",
@@ -8693,7 +8620,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neeraj+Lifecare+%26+Stone+Centre/@28.3813183,79.4339522,17z/data=!3m1!4b1!4m6!3m5!1s0x39a006e655e184f5:0x1f211f24eace3151!8m2!3d28.3813183!4d79.4339522!16s%2Fg%2F1tf2qn12?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neeraj+Lifecare+%26+Stone+Centre/@28.3813183,79.4339522,17z/data=!3m1!4b1!4m6!3m5!1s0x39a006e655e184f5:0x1f211f24eace3151!8m2!3d28.3813183!4d79.4339522!16s%2Fg%2F1tf2qn12?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8762,8 +8689,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neeraj+Lifecare+%26+Stone+Centre/@28.3813183,79.4339522,17z/data=!3m1!4b1!4m6!3m5!1s0x39a006e655e184f5:0x1f211f24eace3151!8m2!3d28.3813183!4d79.4339522!16s%2Fg%2F1tf2qn12?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nephro-care-india-limited-kolkata",
@@ -8812,7 +8738,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nephro+Care+India+Limited/@22.5132717,88.3919399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02714d80982aeb:0xac8d847382823d90!8m2!3d22.5132717!4d88.3919399!16s%2Fg%2F11wbz89kp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephro+Care+India+Limited/@22.5132717,88.3919399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02714d80982aeb:0xac8d847382823d90!8m2!3d22.5132717!4d88.3919399!16s%2Fg%2F11wbz89kp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8878,11 +8804,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nephro+Care+India+Limited/@22.5132717,88.3919399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02714d80982aeb:0xac8d847382823d90!8m2!3d22.5132717!4d88.3919399!16s%2Fg%2F11wbz89kp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-life-hospital-and-maternity-centre-rampur",
@@ -8930,7 +8855,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Life+Hospital+%26+Maternity+Centre/@28.7994088,79.0197705,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4cb159609f:0xe831f951454baaf9!8m2!3d28.7994088!4d79.0197705!16s%2Fg%2F11jzqr47kv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Life+Hospital+%26+Maternity+Centre/@28.7994088,79.0197705,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4cb159609f:0xe831f951454baaf9!8m2!3d28.7994088!4d79.0197705!16s%2Fg%2F11jzqr47kv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8999,8 +8924,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Life+Hospital+%26+Maternity+Centre/@28.7994088,79.0197705,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4cb159609f:0xe831f951454baaf9!8m2!3d28.7994088!4d79.0197705!16s%2Fg%2F11jzqr47kv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nkpc-kidney-clinic-kolkata",
@@ -9050,7 +8974,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9119,8 +9043,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "noor-hospital-rampur",
@@ -9168,7 +9091,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Noor+Hospital/@28.935118,79.056625,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8bf0c4256005:0x46ce771b32acaaf9!8m2!3d28.935118!4d79.056625!16s%2Fg%2F11kbj1xrcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Noor+Hospital/@28.935118,79.056625,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8bf0c4256005:0x46ce771b32acaaf9!8m2!3d28.935118!4d79.056625!16s%2Fg%2F11kbj1xrcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9237,8 +9160,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Noor+Hospital/@28.935118,79.056625,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8bf0c4256005:0x46ce771b32acaaf9!8m2!3d28.935118!4d79.056625!16s%2Fg%2F11kbj1xrcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nova-hospital-rampur",
@@ -9286,7 +9208,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nova+Hospital/@28.7969026,79.0232239,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4db982e9f9:0x92689e86bc99a14c!8m2!3d28.7969026!4d79.0232239!16s%2Fg%2F11bxf4_nq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+Hospital/@28.7969026,79.0232239,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4db982e9f9:0x92689e86bc99a14c!8m2!3d28.7969026!4d79.0232239!16s%2Fg%2F11bxf4_nq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9355,8 +9277,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nova+Hospital/@28.7969026,79.0232239,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d4db982e9f9:0x92689e86bc99a14c!8m2!3d28.7969026!4d79.0232239!16s%2Fg%2F11bxf4_nq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-shaanti-hospital-bareilly",
@@ -9405,7 +9326,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Om+Shaanti+Hospital/@28.3566447,79.4223587,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0072b01875877:0x8ccc4ede0281a568!8m2!3d28.3566447!4d79.4223587!16s%2Fg%2F1hc1zy4hd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Shaanti+Hospital/@28.3566447,79.4223587,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0072b01875877:0x8ccc4ede0281a568!8m2!3d28.3566447!4d79.4223587!16s%2Fg%2F1hc1zy4hd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9474,8 +9395,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Om+Shaanti+Hospital/@28.3566447,79.4223587,17z/data=!3m1!4b1!4m6!3m5!1s0x39a0072b01875877:0x8ccc4ede0281a568!8m2!3d28.3566447!4d79.4223587!16s%2Fg%2F1hc1zy4hd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oplus-eecp-heart-centre-rampur-rampur",
@@ -9525,7 +9445,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oplus+EECP+Heart+Centre+Rampur/@28.7874721,79.0331497,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dfb1a298543:0x11cb30db5b81d48b!8m2!3d28.7874721!4d79.0331497!16s%2Fg%2F11ltq5dfz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oplus+EECP+Heart+Centre+Rampur/@28.7874721,79.0331497,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dfb1a298543:0x11cb30db5b81d48b!8m2!3d28.7874721!4d79.0331497!16s%2Fg%2F11ltq5dfz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9591,11 +9511,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oplus+EECP+Heart+Centre+Rampur/@28.7874721,79.0331497,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dfb1a298543:0x11cb30db5b81d48b!8m2!3d28.7874721!4d79.0331497!16s%2Fg%2F11ltq5dfz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prakash-dental-hospital-dental-clinic-in-haldwani-dewarchaur-kham",
@@ -9643,7 +9562,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prakash+Dental+Hospital-+Dental+Clinic+In+Haldwani/@29.195852,79.5110493,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2c78ba3fb7:0x75d4fcbe199bca6e!8m2!3d29.195852!4d79.5110493!16s%2Fg%2F11c46hf4t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prakash+Dental+Hospital-+Dental+Clinic+In+Haldwani/@29.195852,79.5110493,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2c78ba3fb7:0x75d4fcbe199bca6e!8m2!3d29.195852!4d79.5110493!16s%2Fg%2F11c46hf4t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9712,8 +9631,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prakash+Dental+Hospital-+Dental+Clinic+In+Haldwani/@29.195852,79.5110493,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2c78ba3fb7:0x75d4fcbe199bca6e!8m2!3d29.195852!4d79.5110493!16s%2Fg%2F11c46hf4t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "preeti-nursing-home-rampur",
@@ -9762,7 +9680,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Preeti+Nursing+Home/@28.7919723,79.0222556,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5255327d47:0x795e2df1fda398f4!8m2!3d28.7919723!4d79.0222556!16s%2Fg%2F11cn92c6r9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Preeti+Nursing+Home/@28.7919723,79.0222556,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5255327d47:0x795e2df1fda398f4!8m2!3d28.7919723!4d79.0222556!16s%2Fg%2F11cn92c6r9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9828,11 +9746,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Preeti+Nursing+Home/@28.7919723,79.0222556,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5255327d47:0x795e2df1fda398f4!8m2!3d28.7919723!4d79.0222556!16s%2Fg%2F11cn92c6r9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prime-mind-care-clinic-rampur-rampur",
@@ -9881,7 +9798,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prime+mind+care+clinic+Rampur/@28.7946777,79.0226669,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8de899cf8ae3:0x23d0230742bdc0df!8m2!3d28.7946777!4d79.0226669!16s%2Fg%2F11sl38chy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prime+mind+care+clinic+Rampur/@28.7946777,79.0226669,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8de899cf8ae3:0x23d0230742bdc0df!8m2!3d28.7946777!4d79.0226669!16s%2Fg%2F11sl38chy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9947,11 +9864,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prime+mind+care+clinic+Rampur/@28.7946777,79.0226669,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8de899cf8ae3:0x23d0230742bdc0df!8m2!3d28.7946777!4d79.0226669!16s%2Fg%2F11sl38chy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prithviraj-clinic-rampur",
@@ -9999,7 +9915,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prithviraj+Clinic/@28.8094856,79.0207009,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d34e755f56b:0x1ae73df83c0c1a38!8m2!3d28.8094856!4d79.0207009!16s%2Fg%2F11g9jgp2zz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prithviraj+Clinic/@28.8094856,79.0207009,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d34e755f56b:0x1ae73df83c0c1a38!8m2!3d28.8094856!4d79.0207009!16s%2Fg%2F11g9jgp2zz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10068,8 +9984,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prithviraj+Clinic/@28.8094856,79.0207009,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d34e755f56b:0x1ae73df83c0c1a38!8m2!3d28.8094856!4d79.0207009!16s%2Fg%2F11g9jgp2zz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "protein-hub-rampur",
@@ -10117,7 +10032,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Protein+Hub/@28.7983411,79.0215177,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dff3fd440ab:0x9f259285474bb3df!8m2!3d28.7983411!4d79.0215177!16s%2Fg%2F11t164n1yz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Protein+Hub/@28.7983411,79.0215177,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dff3fd440ab:0x9f259285474bb3df!8m2!3d28.7983411!4d79.0215177!16s%2Fg%2F11t164n1yz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10183,11 +10098,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Protein+Hub/@28.7983411,79.0215177,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dff3fd440ab:0x9f259285474bb3df!8m2!3d28.7983411!4d79.0215177!16s%2Fg%2F11t164n1yz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rahat-hospital-rampur",
@@ -10235,7 +10149,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rahat+Hospital/@28.789932,79.0116626,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2aeef338573:0x2e064789a183ea07!8m2!3d28.789932!4d79.0116626!16s%2Fg%2F11g6x9jsr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rahat+Hospital/@28.789932,79.0116626,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2aeef338573:0x2e064789a183ea07!8m2!3d28.789932!4d79.0116626!16s%2Fg%2F11g6x9jsr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10304,8 +10218,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rahat+Hospital/@28.789932,79.0116626,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2aeef338573:0x2e064789a183ea07!8m2!3d28.789932!4d79.0116626!16s%2Fg%2F11g6x9jsr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rama-singhal-maternity-hospital-and-ivf-centre-rampur",
@@ -10354,7 +10267,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rama+Singhal+Maternity+Hospital+And+IVF+Centre/@28.7861062,79.0205568,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d54df36f235:0x16aa48d99590e2db!8m2!3d28.7861062!4d79.0205568!16s%2Fg%2F1hd_70k3s?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rama+Singhal+Maternity+Hospital+And+IVF+Centre/@28.7861062,79.0205568,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d54df36f235:0x16aa48d99590e2db!8m2!3d28.7861062!4d79.0205568!16s%2Fg%2F1hd_70k3s?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10420,11 +10333,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rama+Singhal+Maternity+Hospital+And+IVF+Centre/@28.7861062,79.0205568,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d54df36f235:0x16aa48d99590e2db!8m2!3d28.7861062!4d79.0205568!16s%2Fg%2F1hd_70k3s?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ramphool-singh-health-care-center-rampur",
@@ -10470,7 +10382,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ramphool+singh+health+care+center/@28.7758183,79.0324717,17z/data=!3m1!4b1!4m6!3m5!1s0x390a935177a1b251:0x81f4bac863948faa!8m2!3d28.7758183!4d79.0324717!16s%2Fg%2F11h_bx87hb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ramphool+singh+health+care+center/@28.7758183,79.0324717,17z/data=!3m1!4b1!4m6!3m5!1s0x390a935177a1b251:0x81f4bac863948faa!8m2!3d28.7758183!4d79.0324717!16s%2Fg%2F11h_bx87hb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10536,11 +10448,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ramphool+singh+health+care+center/@28.7758183,79.0324717,17z/data=!3m1!4b1!4m6!3m5!1s0x390a935177a1b251:0x81f4bac863948faa!8m2!3d28.7758183!4d79.0324717!16s%2Fg%2F11h_bx87hb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rampur-hospital-rampur",
@@ -10588,7 +10499,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rampur+Hospital/@28.7913772,79.0318053,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5a6b2483f5:0x4b9eeadede936d!8m2!3d28.7913772!4d79.0318053!16s%2Fg%2F11c5g81p95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rampur+Hospital/@28.7913772,79.0318053,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5a6b2483f5:0x4b9eeadede936d!8m2!3d28.7913772!4d79.0318053!16s%2Fg%2F11c5g81p95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10657,8 +10568,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rampur+Hospital/@28.7913772,79.0318053,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5a6b2483f5:0x4b9eeadede936d!8m2!3d28.7913772!4d79.0318053!16s%2Fg%2F11c5g81p95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "redcliffe-labs-collection-center-rampur",
@@ -10708,7 +10618,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Center/@28.8131736,79.0214776,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8de2b1086851:0x511ba1e2f5e052a1!8m2!3d28.8131736!4d79.0214776!16s%2Fg%2F11vrr318c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Center/@28.8131736,79.0214776,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8de2b1086851:0x511ba1e2f5e052a1!8m2!3d28.8131736!4d79.0214776!16s%2Fg%2F11vrr318c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10777,8 +10687,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Center/@28.8131736,79.0214776,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8de2b1086851:0x511ba1e2f5e052a1!8m2!3d28.8131736!4d79.0214776!16s%2Fg%2F11vrr318c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rhinoplasty-gynaecomastia-hair-transplant-liposuction-botox-fillers-breast-and-other-cosmetic-surgery-south-dumdum",
@@ -10824,7 +10733,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/rhinoplasty,+gynaecomastia,hair+transplant,liposuction,+Botox,+fillers,+breast+and+other+cosmetic+surgery/@22.6012635,88.4075136,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02751a8ee66ab1:0xcb28067c8be1327c!8m2!3d22.6012635!4d88.4075136!16s%2Fg%2F11sfg9yqbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/rhinoplasty,+gynaecomastia,hair+transplant,liposuction,+Botox,+fillers,+breast+and+other+cosmetic+surgery/@22.6012635,88.4075136,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02751a8ee66ab1:0xcb28067c8be1327c!8m2!3d22.6012635!4d88.4075136!16s%2Fg%2F11sfg9yqbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10890,11 +10799,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/rhinoplasty,+gynaecomastia,hair+transplant,liposuction,+Botox,+fillers,+breast+and+other+cosmetic+surgery/@22.6012635,88.4075136,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02751a8ee66ab1:0xcb28067c8be1327c!8m2!3d22.6012635!4d88.4075136!16s%2Fg%2F11sfg9yqbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rk-clinic-and-hospital-rampur",
@@ -10940,7 +10848,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RK+Clinic+%26+Hospital/@28.7721221,79.0121077,17z/data=!3m1!4b1!4m6!3m5!1s0x390aed006d23657b:0xc6bc8e115aa7b055!8m2!3d28.7721221!4d79.0121077!16s%2Fg%2F11y3sgw0jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RK+Clinic+%26+Hospital/@28.7721221,79.0121077,17z/data=!3m1!4b1!4m6!3m5!1s0x390aed006d23657b:0xc6bc8e115aa7b055!8m2!3d28.7721221!4d79.0121077!16s%2Fg%2F11y3sgw0jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11006,11 +10914,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RK+Clinic+%26+Hospital/@28.7721221,79.0121077,17z/data=!3m1!4b1!4m6!3m5!1s0x390aed006d23657b:0xc6bc8e115aa7b055!8m2!3d28.7721221!4d79.0121077!16s%2Fg%2F11y3sgw0jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "roshan-dental-clinic-and-implant-center-suar",
@@ -11058,7 +10965,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ROSHAN+DENTAL+CLINIC+%26+IMPLANT+CENTER/@29.0226855,79.0556721,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2b4313d7ef5:0x9659adb93bb09bb7!8m2!3d29.0226855!4d79.0556721!16s%2Fg%2F11h9rpn05d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ROSHAN+DENTAL+CLINIC+%26+IMPLANT+CENTER/@29.0226855,79.0556721,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2b4313d7ef5:0x9659adb93bb09bb7!8m2!3d29.0226855!4d79.0556721!16s%2Fg%2F11h9rpn05d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11124,11 +11031,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ROSHAN+DENTAL+CLINIC+%26+IMPLANT+CENTER/@29.0226855,79.0556721,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2b4313d7ef5:0x9659adb93bb09bb7!8m2!3d29.0226855!4d79.0556721!16s%2Fg%2F11h9rpn05d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-k-hospital-rampur",
@@ -11176,7 +11082,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S+K+HOSPITAL/@28.766739,79.0397243,17z/data=!3m1!4b1!4m6!3m5!1s0x390a93ae69e3cca3:0xd538ab394f55bb0c!8m2!3d28.766739!4d79.0397243!16s%2Fg%2F11fm9sss8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+K+HOSPITAL/@28.766739,79.0397243,17z/data=!3m1!4b1!4m6!3m5!1s0x390a93ae69e3cca3:0xd538ab394f55bb0c!8m2!3d28.766739!4d79.0397243!16s%2Fg%2F11fm9sss8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11242,11 +11148,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S+K+HOSPITAL/@28.766739,79.0397243,17z/data=!3m1!4b1!4m6!3m5!1s0x390a93ae69e3cca3:0xd538ab394f55bb0c!8m2!3d28.766739!4d79.0397243!16s%2Fg%2F11fm9sss8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saaol-heart-centre-eecp-centre-rampur",
@@ -11295,7 +11200,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saaol+heart+centre+eecp+centre/@28.7870442,79.032784,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d00004321a9:0xa101e231e984a168!8m2!3d28.7870442!4d79.032784!16s%2Fg%2F11y9dpqd_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+heart+centre+eecp+centre/@28.7870442,79.032784,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d00004321a9:0xa101e231e984a168!8m2!3d28.7870442!4d79.032784!16s%2Fg%2F11y9dpqd_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11361,11 +11266,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saaol+heart+centre+eecp+centre/@28.7870442,79.032784,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d00004321a9:0xa101e231e984a168!8m2!3d28.7870442!4d79.032784!16s%2Fg%2F11y9dpqd_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sahara-hospital-rampur",
@@ -11413,7 +11317,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sahara+Hospital/@28.8142566,79.0191337,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2ccd30b0d55:0xaf8d449a4953cd20!8m2!3d28.8142566!4d79.0191337!16s%2Fg%2F11cn8zp5_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahara+Hospital/@28.8142566,79.0191337,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2ccd30b0d55:0xaf8d449a4953cd20!8m2!3d28.8142566!4d79.0191337!16s%2Fg%2F11cn8zp5_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11482,8 +11386,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sahara+Hospital/@28.8142566,79.0191337,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2ccd30b0d55:0xaf8d449a4953cd20!8m2!3d28.8142566!4d79.0191337!16s%2Fg%2F11cn8zp5_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saifee-healthcare-and-physiotherapy-center-shahabad-road-ajitpur",
@@ -11532,7 +11435,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saifee+healthcare+%26+Physiotherapy+center/@28.7706768,79.0191479,17z/data=!3m1!4b1!4m6!3m5!1s0x390aed4d4ce282dd:0x887acdb8b149d2a5!8m2!3d28.7706768!4d79.0191479!16s%2Fg%2F11c1nystf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saifee+healthcare+%26+Physiotherapy+center/@28.7706768,79.0191479,17z/data=!3m1!4b1!4m6!3m5!1s0x390aed4d4ce282dd:0x887acdb8b149d2a5!8m2!3d28.7706768!4d79.0191479!16s%2Fg%2F11c1nystf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11601,8 +11504,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saifee+healthcare+%26+Physiotherapy+center/@28.7706768,79.0191479,17z/data=!3m1!4b1!4m6!3m5!1s0x390aed4d4ce282dd:0x887acdb8b149d2a5!8m2!3d28.7706768!4d79.0191479!16s%2Fg%2F11c1nystf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saleem-dental-hospital-shahabad",
@@ -11650,7 +11552,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saleem+Dental+Hospital/@28.5664688,79.007843,17z/data=!3m1!4b1!4m6!3m5!1s0x390ac1b44dd513c1:0x4cb207510f7a6d01!8m2!3d28.5664688!4d79.007843!16s%2Fg%2F11jgd6136h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saleem+Dental+Hospital/@28.5664688,79.007843,17z/data=!3m1!4b1!4m6!3m5!1s0x390ac1b44dd513c1:0x4cb207510f7a6d01!8m2!3d28.5664688!4d79.007843!16s%2Fg%2F11jgd6136h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11716,11 +11618,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saleem+Dental+Hospital/@28.5664688,79.007843,17z/data=!3m1!4b1!4m6!3m5!1s0x390ac1b44dd513c1:0x4cb207510f7a6d01!8m2!3d28.5664688!4d79.007843!16s%2Fg%2F11jgd6136h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "santoshpur-nursing-home-kolkata",
@@ -11768,7 +11669,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Santoshpur+Nursing+Home/@22.492758,88.3795777,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02713e2a40006b:0x2642ac62d8840e36!8m2!3d22.492758!4d88.3795777!16s%2Fg%2F11dflwq955?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Santoshpur+Nursing+Home/@22.492758,88.3795777,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02713e2a40006b:0x2642ac62d8840e36!8m2!3d22.492758!4d88.3795777!16s%2Fg%2F11dflwq955?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11837,8 +11738,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Santoshpur+Nursing+Home/@22.492758,88.3795777,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02713e2a40006b:0x2642ac62d8840e36!8m2!3d22.492758!4d88.3795777!16s%2Fg%2F11dflwq955?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sbr-skin-clinics-rampur-rampur",
@@ -11886,7 +11786,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SBR+SKIN+CLINICS+RAMPUR/@28.7917046,79.0256416,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8de19531d90b:0x1cbc0fe2ee8893a5!8m2!3d28.7917046!4d79.0256416!16s%2Fg%2F11kk7md8jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SBR+SKIN+CLINICS+RAMPUR/@28.7917046,79.0256416,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8de19531d90b:0x1cbc0fe2ee8893a5!8m2!3d28.7917046!4d79.0256416!16s%2Fg%2F11kk7md8jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11955,8 +11855,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SBR+SKIN+CLINICS+RAMPUR/@28.7917046,79.0256416,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8de19531d90b:0x1cbc0fe2ee8893a5!8m2!3d28.7917046!4d79.0256416!16s%2Fg%2F11kk7md8jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sewa-hospital-rampur",
@@ -12004,7 +11903,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sewa+Hospital/@28.8139004,79.0198632,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d3339851013:0x9b5a110156cec80a!8m2!3d28.8139004!4d79.0198632!16s%2Fg%2F1hm43q6qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sewa+Hospital/@28.8139004,79.0198632,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d3339851013:0x9b5a110156cec80a!8m2!3d28.8139004!4d79.0198632!16s%2Fg%2F1hm43q6qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12073,8 +11972,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sewa+Hospital/@28.8139004,79.0198632,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d3339851013:0x9b5a110156cec80a!8m2!3d28.8139004!4d79.0198632!16s%2Fg%2F1hm43q6qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shahab-clinic-and-nursing-home-rampur",
@@ -12123,7 +12021,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shahab+Clinic+%26+Nursing+Home/@28.8033197,79.0218222,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d87b115c271:0x30d9d5ed913b607f!8m2!3d28.8033197!4d79.0218222!16s%2Fg%2F11yg3ggj_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shahab+Clinic+%26+Nursing+Home/@28.8033197,79.0218222,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d87b115c271:0x30d9d5ed913b607f!8m2!3d28.8033197!4d79.0218222!16s%2Fg%2F11yg3ggj_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12189,11 +12087,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shahab+Clinic+%26+Nursing+Home/@28.8033197,79.0218222,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d87b115c271:0x30d9d5ed913b607f!8m2!3d28.8033197!4d79.0218222!16s%2Fg%2F11yg3ggj_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shahbad-gate-chauraha-opp-eid-gaha-rampur-uttar-pradesh-pin-244901-rampur",
@@ -12241,7 +12138,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHAHBAD+GATE+CHAURAHA+OPP.+EID+GAHA+RAMPUR+UTTAR+PRADESH+PIN+244901/@28.7992138,79.0221952,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5fc8e9e19d:0xc1e6ed12e6a15d75!8m2!3d28.7992138!4d79.0221952!16s%2Fg%2F11kj09bnkj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHAHBAD+GATE+CHAURAHA+OPP.+EID+GAHA+RAMPUR+UTTAR+PRADESH+PIN+244901/@28.7992138,79.0221952,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5fc8e9e19d:0xc1e6ed12e6a15d75!8m2!3d28.7992138!4d79.0221952!16s%2Fg%2F11kj09bnkj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12310,8 +12207,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHAHBAD+GATE+CHAURAHA+OPP.+EID+GAHA+RAMPUR+UTTAR+PRADESH+PIN+244901/@28.7992138,79.0221952,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5fc8e9e19d:0xc1e6ed12e6a15d75!8m2!3d28.7992138!4d79.0221952!16s%2Fg%2F11kj09bnkj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shobha-hospital-rampur",
@@ -12359,7 +12255,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shobha+Hospital/@28.789626,79.021278,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5365829227:0xa2a3a44830722d0b!8m2!3d28.789626!4d79.021278!16s%2Fg%2F1vzv21jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shobha+Hospital/@28.789626,79.021278,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5365829227:0xa2a3a44830722d0b!8m2!3d28.789626!4d79.021278!16s%2Fg%2F1vzv21jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12428,8 +12324,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shobha+Hospital/@28.789626,79.021278,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d5365829227:0xa2a3a44830722d0b!8m2!3d28.789626!4d79.021278!16s%2Fg%2F1vzv21jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-ram-hospital-rampur",
@@ -12478,7 +12373,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Ram+Hospital/@28.793592,79.0155304,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dfb1dc5addf:0xeb35d75743cd89b8!8m2!3d28.793592!4d79.0155304!16s%2Fg%2F11vx0drg4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Ram+Hospital/@28.793592,79.0155304,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dfb1dc5addf:0xeb35d75743cd89b8!8m2!3d28.793592!4d79.0155304!16s%2Fg%2F11vx0drg4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12547,8 +12442,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Ram+Hospital/@28.793592,79.0155304,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dfb1dc5addf:0xeb35d75743cd89b8!8m2!3d28.793592!4d79.0155304!16s%2Fg%2F11vx0drg4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-ganga-charan-aryawardhan-hospital-bareilly",
@@ -12597,7 +12491,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Ganga+Charan+Aryawardhan+Hospital/@28.3479085,79.4268285,17z/data=!3m1!4b1!4m6!3m5!1s0x39a001298d559f1d:0xe09fd5b02a43710f!8m2!3d28.3479085!4d79.4268285!16s%2Fg%2F1hdzlvv5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Ganga+Charan+Aryawardhan+Hospital/@28.3479085,79.4268285,17z/data=!3m1!4b1!4m6!3m5!1s0x39a001298d559f1d:0xe09fd5b02a43710f!8m2!3d28.3479085!4d79.4268285!16s%2Fg%2F1hdzlvv5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12666,8 +12560,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Ganga+Charan+Aryawardhan+Hospital/@28.3479085,79.4268285,17z/data=!3m1!4b1!4m6!3m5!1s0x39a001298d559f1d:0xe09fd5b02a43710f!8m2!3d28.3479085!4d79.4268285!16s%2Fg%2F1hdzlvv5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shyam-dental-clinic-and-implant-center-milak",
@@ -12716,7 +12609,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shyam+dental+clinic+and+implant+center/@28.6118209,79.1694791,17z/data=!3m1!4b1!4m6!3m5!1s0x390a97943fcc914f:0xfb2296b6417ad7f7!8m2!3d28.6118209!4d79.1694791!16s%2Fg%2F11kb8c5j44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shyam+dental+clinic+and+implant+center/@28.6118209,79.1694791,17z/data=!3m1!4b1!4m6!3m5!1s0x390a97943fcc914f:0xfb2296b6417ad7f7!8m2!3d28.6118209!4d79.1694791!16s%2Fg%2F11kb8c5j44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12782,11 +12675,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shyam+dental+clinic+and+implant+center/@28.6118209,79.1694791,17z/data=!3m1!4b1!4m6!3m5!1s0x390a97943fcc914f:0xfb2296b6417ad7f7!8m2!3d28.6118209!4d79.1694791!16s%2Fg%2F11kb8c5j44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-o-clock-rampur",
@@ -12834,7 +12726,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+O'Clock/@28.7963945,79.0241124,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d95db5ce8ff:0xee1498b5e0db4f4c!8m2!3d28.7963945!4d79.0241124!16s%2Fg%2F11w7_n5744?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+O'Clock/@28.7963945,79.0241124,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d95db5ce8ff:0xee1498b5e0db4f4c!8m2!3d28.7963945!4d79.0241124!16s%2Fg%2F11w7_n5744?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12900,11 +12792,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+O'Clock/@28.7963945,79.0241124,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d95db5ce8ff:0xee1498b5e0db4f4c!8m2!3d28.7963945!4d79.0241124!16s%2Fg%2F11w7_n5744?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sonu-kidney-clinic-rampur",
@@ -12953,7 +12844,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sonu+Kidney+Clinic/@28.77254,79.0104451,17z/data=!3m1!4b1!4m6!3m5!1s0x390aed504bd48edb:0xa82c2736cefc74ae!8m2!3d28.77254!4d79.0104451!16s%2Fg%2F11gdtzl432?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sonu+Kidney+Clinic/@28.77254,79.0104451,17z/data=!3m1!4b1!4m6!3m5!1s0x390aed504bd48edb:0xa82c2736cefc74ae!8m2!3d28.77254!4d79.0104451!16s%2Fg%2F11gdtzl432?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13019,11 +12910,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sonu+Kidney+Clinic/@28.77254,79.0104451,17z/data=!3m1!4b1!4m6!3m5!1s0x390aed504bd48edb:0xa82c2736cefc74ae!8m2!3d28.77254!4d79.0104451!16s%2Fg%2F11gdtzl432?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "srms-goodlife-bareilly",
@@ -13072,7 +12962,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SRMS+Goodlife/@28.3799882,79.4346704,17z/data=!3m1!4b1!4m6!3m5!1s0x39a006e7bb899b11:0x85e6f793a97aa66d!8m2!3d28.3799882!4d79.4346704!16s%2Fg%2F11c75xkx6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRMS+Goodlife/@28.3799882,79.4346704,17z/data=!3m1!4b1!4m6!3m5!1s0x39a006e7bb899b11:0x85e6f793a97aa66d!8m2!3d28.3799882!4d79.4346704!16s%2Fg%2F11c75xkx6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13141,8 +13031,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SRMS+Goodlife/@28.3799882,79.4346704,17z/data=!3m1!4b1!4m6!3m5!1s0x39a006e7bb899b11:0x85e6f793a97aa66d!8m2!3d28.3799882!4d79.4346704!16s%2Fg%2F11c75xkx6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "star-cosmetic-clinic-rampur",
@@ -13190,7 +13079,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/STAR+COSMETIC+CLINIC/@28.8099447,79.0295182,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dbbc90c88e3:0xab5cb7c539553a4b!8m2!3d28.8099447!4d79.0295182!16s%2Fg%2F11y_xvxhvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STAR+COSMETIC+CLINIC/@28.8099447,79.0295182,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dbbc90c88e3:0xab5cb7c539553a4b!8m2!3d28.8099447!4d79.0295182!16s%2Fg%2F11y_xvxhvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13256,11 +13145,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/STAR+COSMETIC+CLINIC/@28.8099447,79.0295182,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dbbc90c88e3:0xab5cb7c539553a4b!8m2!3d28.8099447!4d79.0295182!16s%2Fg%2F11y_xvxhvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "star-medicity-hospital-rampur",
@@ -13308,7 +13196,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Star+Medicity+Hospital/@28.7919385,79.0226435,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d53acd9adb5:0xebd5dfffb415c1a!8m2!3d28.7919385!4d79.0226435!16s%2Fg%2F11hd7dpvlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+Medicity+Hospital/@28.7919385,79.0226435,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d53acd9adb5:0xebd5dfffb415c1a!8m2!3d28.7919385!4d79.0226435!16s%2Fg%2F11hd7dpvlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13377,8 +13265,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Star+Medicity+Hospital/@28.7919385,79.0226435,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d53acd9adb5:0xebd5dfffb415c1a!8m2!3d28.7919385!4d79.0226435!16s%2Fg%2F11hd7dpvlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surgident-oral-and-maxillofacial-dental-clinic-and-implant-centre-kolkata",
@@ -13428,7 +13315,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13497,8 +13384,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "taj-dental-clinic-rampur",
@@ -13547,7 +13433,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Taj+dental+clinic/@28.7900917,79.0214066,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d536de28757:0xd9cf77c0ca3afb87!8m2!3d28.7900917!4d79.0214066!16s%2Fg%2F11tms8p4t8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Taj+dental+clinic/@28.7900917,79.0214066,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d536de28757:0xd9cf77c0ca3afb87!8m2!3d28.7900917!4d79.0214066!16s%2Fg%2F11tms8p4t8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13613,11 +13499,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Taj+dental+clinic/@28.7900917,79.0214066,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d536de28757:0xd9cf77c0ca3afb87!8m2!3d28.7900917!4d79.0214066!16s%2Fg%2F11tms8p4t8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-gastro-and-liver-clinic-rampur",
@@ -13667,7 +13552,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/THE+GASTRO+%26+LIVER+CLINIC/@28.8130288,79.0160015,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2cc5df54827:0x1fb9150417bceb42!8m2!3d28.8130288!4d79.0160015!16s%2Fg%2F11yk2blh7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THE+GASTRO+%26+LIVER+CLINIC/@28.8130288,79.0160015,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2cc5df54827:0x1fb9150417bceb42!8m2!3d28.8130288!4d79.0160015!16s%2Fg%2F11yk2blh7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13733,11 +13618,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/THE+GASTRO+%26+LIVER+CLINIC/@28.8130288,79.0160015,17z/data=!3m1!4b1!4m6!3m5!1s0x390af2cc5df54827:0x1fb9150417bceb42!8m2!3d28.8130288!4d79.0160015!16s%2Fg%2F11yk2blh7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -13787,7 +13671,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13853,11 +13737,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-maxillofacial-and-dental-clinic-amc-arambag",
@@ -13907,7 +13790,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Maxillofacial+%26.+Dental+Clinic+AMC/@22.8866632,87.7850394,17z/data=!3m1!4b1!4m6!3m5!1s0x39f813283b8bd4af:0x6cd6c27b56a16025!8m2!3d22.8866632!4d87.7850394!16s%2Fg%2F11hdw8r08c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Maxillofacial+%26.+Dental+Clinic+AMC/@22.8866632,87.7850394,17z/data=!3m1!4b1!4m6!3m5!1s0x39f813283b8bd4af:0x6cd6c27b56a16025!8m2!3d22.8866632!4d87.7850394!16s%2Fg%2F11hdw8r08c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13973,11 +13856,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Maxillofacial+%26.+Dental+Clinic+AMC/@22.8866632,87.7850394,17z/data=!3m1!4b1!4m6!3m5!1s0x39f813283b8bd4af:0x6cd6c27b56a16025!8m2!3d22.8866632!4d87.7850394!16s%2Fg%2F11hdw8r08c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "top-10-chirag-dental-care-center-rampur",
@@ -14025,7 +13907,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Top+10+Chirag+Dental+Care+Center/@28.815711,79.0342495,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d495c569151:0x4b4582e4846efbd!8m2!3d28.815711!4d79.0342495!16s%2Fg%2F11tjztmy53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Top+10+Chirag+Dental+Care+Center/@28.815711,79.0342495,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d495c569151:0x4b4582e4846efbd!8m2!3d28.815711!4d79.0342495!16s%2Fg%2F11tjztmy53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14091,11 +13973,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Top+10+Chirag+Dental+Care+Center/@28.815711,79.0342495,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8d495c569151:0x4b4582e4846efbd!8m2!3d28.815711!4d79.0342495!16s%2Fg%2F11tjztmy53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "uday-clinic-rampur",
@@ -14144,7 +14025,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Uday+Clinic/@28.9091767,79.2919755,17z/data=!3m1!4b1!4m6!3m5!1s0x390a814d64316527:0x1c8e24625f5b8cfa!8m2!3d28.9091767!4d79.2919755!16s%2Fg%2F11g6htttwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uday+Clinic/@28.9091767,79.2919755,17z/data=!3m1!4b1!4m6!3m5!1s0x390a814d64316527:0x1c8e24625f5b8cfa!8m2!3d28.9091767!4d79.2919755!16s%2Fg%2F11g6htttwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14213,8 +14094,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Uday+Clinic/@28.9091767,79.2919755,17z/data=!3m1!4b1!4m6!3m5!1s0x390a814d64316527:0x1c8e24625f5b8cfa!8m2!3d28.9091767!4d79.2919755!16s%2Fg%2F11g6htttwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "unipon-hospital-and-medical-sciences-pvt-ltd-maheshtala",
@@ -14263,7 +14143,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Unipon+Hospital+%26+Medical+Sciences+Pvt+Ltd/@22.5385293,88.28893,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277584c822c2f:0x35f45b74bce24173!8m2!3d22.5385293!4d88.28893!16s%2Fg%2F11cs19q8s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unipon+Hospital+%26+Medical+Sciences+Pvt+Ltd/@22.5385293,88.28893,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277584c822c2f:0x35f45b74bce24173!8m2!3d22.5385293!4d88.28893!16s%2Fg%2F11cs19q8s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14329,11 +14209,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Unipon+Hospital+%26+Medical+Sciences+Pvt+Ltd/@22.5385293,88.28893,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277584c822c2f:0x35f45b74bce24173!8m2!3d22.5385293!4d88.28893!16s%2Fg%2F11cs19q8s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "v-p-health-care-centre-rampur",
@@ -14381,7 +14260,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/V+P+Health+Care+Centre/@28.7924524,79.015871,17z/data=!3m1!4b1!4m6!3m5!1s0x390af39915cae52b:0xfaedcb4c0029f985!8m2!3d28.7924524!4d79.015871!16s%2Fg%2F11j4wjw4nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V+P+Health+Care+Centre/@28.7924524,79.015871,17z/data=!3m1!4b1!4m6!3m5!1s0x390af39915cae52b:0xfaedcb4c0029f985!8m2!3d28.7924524!4d79.015871!16s%2Fg%2F11j4wjw4nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14450,8 +14329,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/V+P+Health+Care+Centre/@28.7924524,79.015871,17z/data=!3m1!4b1!4m6!3m5!1s0x390af39915cae52b:0xfaedcb4c0029f985!8m2!3d28.7924524!4d79.015871!16s%2Fg%2F11j4wjw4nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "viduraj-hospital-bareilly",
@@ -14500,7 +14378,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VIDURAJ+HOSPITAL/@28.3480654,79.4245109,17z/data=!3m1!4b1!4m6!3m5!1s0x39a000d60ec7e5db:0x93cb60312f13284b!8m2!3d28.3480654!4d79.4245109!16s%2Fg%2F11b6j4n6q5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIDURAJ+HOSPITAL/@28.3480654,79.4245109,17z/data=!3m1!4b1!4m6!3m5!1s0x39a000d60ec7e5db:0x93cb60312f13284b!8m2!3d28.3480654!4d79.4245109!16s%2Fg%2F11b6j4n6q5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14569,8 +14447,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VIDURAJ+HOSPITAL/@28.3480654,79.4245109,17z/data=!3m1!4b1!4m6!3m5!1s0x39a000d60ec7e5db:0x93cb60312f13284b!8m2!3d28.3480654!4d79.4245109!16s%2Fg%2F11b6j4n6q5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vivekananda-mission-asram-netra-niramay-niketan-rampur",
@@ -14620,7 +14497,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vivekananda+Mission+Asram+Netra+Niramay+Niketan/@22.1423667,88.090357,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02f4078d2b1781:0xa5d248d7356446fb!8m2!3d22.1423667!4d88.090357!16s%2Fg%2F124ssp5zf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vivekananda+Mission+Asram+Netra+Niramay+Niketan/@22.1423667,88.090357,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02f4078d2b1781:0xa5d248d7356446fb!8m2!3d22.1423667!4d88.090357!16s%2Fg%2F124ssp5zf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14689,8 +14566,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vivekananda+Mission+Asram+Netra+Niramay+Niketan/@22.1423667,88.090357,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02f4078d2b1781:0xa5d248d7356446fb!8m2!3d22.1423667!4d88.090357!16s%2Fg%2F124ssp5zf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wave-hospital-rampur-rampur",
@@ -14738,7 +14614,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Wave+Hospital+Rampur/@28.7933848,79.0251395,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dded22e97f5:0xa572573a0457e9ed!8m2!3d28.7933848!4d79.0251395!16s%2Fg%2F11w9p5l309?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wave+Hospital+Rampur/@28.7933848,79.0251395,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dded22e97f5:0xa572573a0457e9ed!8m2!3d28.7933848!4d79.0251395!16s%2Fg%2F11w9p5l309?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14804,11 +14680,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Wave+Hospital+Rampur/@28.7933848,79.0251395,17z/data=!3m1!4b1!4m6!3m5!1s0x390a8dded22e97f5:0xa572573a0457e9ed!8m2!3d28.7933848!4d79.0251395!16s%2Fg%2F11w9p5l309?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rampur",
@@ -14856,7 +14731,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%97%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@26.5280645,83.1448777,17z/data=!3m1!4b1!4m6!3m5!1s0x399111c5f1bace01:0xc17eb21255f04e49!8m2!3d26.5280645!4d83.1448777!16s%2Fg%2F11mnc56j36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%97%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@26.5280645,83.1448777,17z/data=!3m1!4b1!4m6!3m5!1s0x399111c5f1bace01:0xc17eb21255f04e49!8m2!3d26.5280645!4d83.1448777!16s%2Fg%2F11mnc56j36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14922,11 +14797,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%97%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@26.5280645,83.1448777,17z/data=!3m1!4b1!4m6!3m5!1s0x399111c5f1bace01:0xc17eb21255f04e49!8m2!3d26.5280645!4d83.1448777!16s%2Fg%2F11mnc56j36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentist-dental-clinic-in-bareilly-bareilly",
@@ -14975,7 +14849,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0-+%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%A8%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%86+%F0%9D%97%A5%F0%9D%97%AE%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%B6+%F0%9D%97%A0%F0%9D%97%97%F0%9D%97%A6+(%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%81+%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1+%F0%9D%97%B3%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%A7%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF)+-+Dentist%2FDental+Clinic+in+Bareilly/@28.3548976,79.4281905,17z/data=!3m1!4b1!4m6!3m5!1s0x39a00703261e5713:0xcb6189dba0a0815!8m2!3d28.3548976!4d79.4281905!16s%2Fg%2F11y3qt12wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0-+%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%A8%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%86+%F0%9D%97%A5%F0%9D%97%AE%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%B6+%F0%9D%97%A0%F0%9D%97%97%F0%9D%97%A6+(%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%81+%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1+%F0%9D%97%B3%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%A7%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF)+-+Dentist%2FDental+Clinic+in+Bareilly/@28.3548976,79.4281905,17z/data=!3m1!4b1!4m6!3m5!1s0x39a00703261e5713:0xcb6189dba0a0815!8m2!3d28.3548976!4d79.4281905!16s%2Fg%2F11y3qt12wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15044,7 +14918,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0-+%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%A8%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%86+%F0%9D%97%A5%F0%9D%97%AE%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%B6+%F0%9D%97%A0%F0%9D%97%97%F0%9D%97%A6+(%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%81+%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1+%F0%9D%97%B3%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%A7%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF)+-+Dentist%2FDental+Clinic+in+Bareilly/@28.3548976,79.4281905,17z/data=!3m1!4b1!4m6!3m5!1s0x39a00703261e5713:0xcb6189dba0a0815!8m2!3d28.3548976!4d79.4281905!16s%2Fg%2F11y3qt12wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

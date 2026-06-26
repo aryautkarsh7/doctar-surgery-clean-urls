@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aatman+Children+Hospital+Dental+Clinic/data=!4m7!3m6!1s0x3be023fedeacec3f:0x887dd1b23453a085!8m2!3d21.6279277!4d72.9965882!16s%2Fg%2F1q5h1cq1q!19sChIJP-ys3v4j4DsRhaBTNLLRfYg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aatman+Children+Hospital+Dental+Clinic/data=!4m7!3m6!1s0x3be023fedeacec3f:0x887dd1b23453a085!8m2!3d21.6279277!4d72.9965882!16s%2Fg%2F1q5h1cq1q!19sChIJP-ys3v4j4DsRhaBTNLLRfYg?authuser=0&hl=en&rclk=1"
@@ -115,8 +115,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aatman+Children+Hospital+Dental+Clinic/data=!4m7!3m6!1s0x3be023fedeacec3f:0x887dd1b23453a085!8m2!3d21.6279277!4d72.9965882!16s%2Fg%2F1q5h1cq1q!19sChIJP-ys3v4j4DsRhaBTNLLRfYg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "adarsh-dental-ankleshwar-ankleshwar",
@@ -165,7 +164,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Adarsh+dental+Ankleshwar/data=!4m7!3m6!1s0x3be02324d9c6421b:0x81534800bc91baf7!8m2!3d21.629243!4d72.9960991!16s%2Fg%2F11f66qggyw!19sChIJG0LG2SQj4DsR97qRvABIU4E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adarsh+dental+Ankleshwar/data=!4m7!3m6!1s0x3be02324d9c6421b:0x81534800bc91baf7!8m2!3d21.629243!4d72.9960991!16s%2Fg%2F11f66qggyw!19sChIJG0LG2SQj4DsR97qRvABIU4E?authuser=0&hl=en&rclk=1"
@@ -231,11 +230,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Adarsh+dental+Ankleshwar/data=!4m7!3m6!1s0x3be02324d9c6421b:0x81534800bc91baf7!8m2!3d21.629243!4d72.9960991!16s%2Fg%2F11f66qggyw!19sChIJG0LG2SQj4DsR97qRvABIU4E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "adarsh-hospital-bharuch",
@@ -283,7 +281,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Adarsh+Hospital/data=!4m7!3m6!1s0x3be02748bca9cc3b:0x649ea9e3ff076f2e!8m2!3d21.7002261!4d72.9854558!16s%2Fg%2F11n7q130r0!19sChIJO8ypvEgn4DsRLm8H_-OpnmQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adarsh+Hospital/data=!4m7!3m6!1s0x3be02748bca9cc3b:0x649ea9e3ff076f2e!8m2!3d21.7002261!4d72.9854558!16s%2Fg%2F11n7q130r0!19sChIJO8ypvEgn4DsRLm8H_-OpnmQ?authuser=0&hl=en&rclk=1"
@@ -352,8 +350,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Adarsh+Hospital/data=!4m7!3m6!1s0x3be02748bca9cc3b:0x649ea9e3ff076f2e!8m2!3d21.7002261!4d72.9854558!16s%2Fg%2F11n7q130r0!19sChIJO8ypvEgn4DsRLm8H_-OpnmQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "adarsh-skin-clinic-ankleshwar",
@@ -401,7 +398,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Adarsh+Skin+Clinic/data=!4m7!3m6!1s0x3be023fec298f1f7:0xf56ae54faef0c6ae!8m2!3d21.628302!4d72.997087!16s%2Fg%2F1q5ggyx0q!19sChIJ9_GYwv4j4DsRrsbwrk_lavU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adarsh+Skin+Clinic/data=!4m7!3m6!1s0x3be023fec298f1f7:0xf56ae54faef0c6ae!8m2!3d21.628302!4d72.997087!16s%2Fg%2F1q5ggyx0q!19sChIJ9_GYwv4j4DsRrsbwrk_lavU?authuser=0&hl=en&rclk=1"
@@ -470,8 +467,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Adarsh+Skin+Clinic/data=!4m7!3m6!1s0x3be023fec298f1f7:0xf56ae54faef0c6ae!8m2!3d21.628302!4d72.997087!16s%2Fg%2F1q5ggyx0q!19sChIJ9_GYwv4j4DsRrsbwrk_lavU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aesthetic-dental-clinic-ankleshwar-ankleshwar",
@@ -520,7 +516,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aesthetic+Dental+Clinic,+Ankleshwar/data=!4m7!3m6!1s0x3be023b11a256a1b:0xbf281205b7b5ac1f!8m2!3d21.605615!4d73.0322958!16s%2Fg%2F11s8wqkpfn!19sChIJG2olGrEj4DsRH6y1twUSKL8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aesthetic+Dental+Clinic,+Ankleshwar/data=!4m7!3m6!1s0x3be023b11a256a1b:0xbf281205b7b5ac1f!8m2!3d21.605615!4d73.0322958!16s%2Fg%2F11s8wqkpfn!19sChIJG2olGrEj4DsRH6y1twUSKL8?authuser=0&hl=en&rclk=1"
@@ -586,11 +582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aesthetic+Dental+Clinic,+Ankleshwar/data=!4m7!3m6!1s0x3be023b11a256a1b:0xbf281205b7b5ac1f!8m2!3d21.605615!4d73.0322958!16s%2Fg%2F11s8wqkpfn!19sChIJG2olGrEj4DsRH6y1twUSKL8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akshar-physiotherapy-the-spine-neuro-clinic-chiropractor-and-osteopath-ankleshwar",
@@ -641,7 +636,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akshar+Physiotherapy+The+Spine+Neuro+clinic+Chiropractor+%26+Osteopath/data=!4m7!3m6!1s0x3be02118c978c5c5:0x46bd0fc5c7a97c2b!8m2!3d21.6535138!4d73.0213543!16s%2Fg%2F11jdv3fm2m!19sChIJxcV4yRgh4DsRK3ypx8UPvUY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akshar+Physiotherapy+The+Spine+Neuro+clinic+Chiropractor+%26+Osteopath/data=!4m7!3m6!1s0x3be02118c978c5c5:0x46bd0fc5c7a97c2b!8m2!3d21.6535138!4d73.0213543!16s%2Fg%2F11jdv3fm2m!19sChIJxcV4yRgh4DsRK3ypx8UPvUY?authuser=0&hl=en&rclk=1"
@@ -707,11 +702,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akshar+Physiotherapy+The+Spine+Neuro+clinic+Chiropractor+%26+Osteopath/data=!4m7!3m6!1s0x3be02118c978c5c5:0x46bd0fc5c7a97c2b!8m2!3d21.6535138!4d73.0213543!16s%2Fg%2F11jdv3fm2m!19sChIJxcV4yRgh4DsRK3ypx8UPvUY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "all-types-of-patient-care-ankleshwar",
@@ -760,7 +754,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/All+types+of+patient+care/data=!4m7!3m6!1s0x3be0235f8285ebc5:0xa5ab9083512df4a1!8m2!3d21.5984313!4d73.0156797!16s%2Fg%2F11vhffsgjm!19sChIJxeuFgl8j4DsRofQtUYOQq6U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/All+types+of+patient+care/data=!4m7!3m6!1s0x3be0235f8285ebc5:0xa5ab9083512df4a1!8m2!3d21.5984313!4d73.0156797!16s%2Fg%2F11vhffsgjm!19sChIJxeuFgl8j4DsRofQtUYOQq6U?authuser=0&hl=en&rclk=1"
@@ -826,11 +820,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/All+types+of+patient+care/data=!4m7!3m6!1s0x3be0235f8285ebc5:0xa5ab9083512df4a1!8m2!3d21.5984313!4d73.0156797!16s%2Fg%2F11vhffsgjm!19sChIJxeuFgl8j4DsRofQtUYOQq6U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ami-maternity-hospital-ankleshwar",
@@ -880,7 +873,7 @@
       "Google rating 3.0",
       "51+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ami+Maternity+Hospital/data=!4m7!3m6!1s0x3be023ff90d1fa1b:0x75029b77a962018f!8m2!3d21.6303494!4d72.9943566!16s%2Fg%2F1s04bm2rl!19sChIJG_rRkP8j4DsRjwFiqXebAnU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ami+Maternity+Hospital/data=!4m7!3m6!1s0x3be023ff90d1fa1b:0x75029b77a962018f!8m2!3d21.6303494!4d72.9943566!16s%2Fg%2F1s04bm2rl!19sChIJG_rRkP8j4DsRjwFiqXebAnU?authuser=0&hl=en&rclk=1"
@@ -946,11 +939,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 51,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ami+Maternity+Hospital/data=!4m7!3m6!1s0x3be023ff90d1fa1b:0x75029b77a962018f!8m2!3d21.6303494!4d72.9943566!16s%2Fg%2F1s04bm2rl!19sChIJG_rRkP8j4DsRjwFiqXebAnU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ankleshwar-hospital-and-icu-center-ankleshwar",
@@ -999,7 +991,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ankleshwar+Hospital+%26+ICU+Center/data=!4m7!3m6!1s0x3be02331680d6475:0x972fb21b583a2a84!8m2!3d21.6290763!4d72.9951535!16s%2Fg%2F11llfp2n06!19sChIJdWQNaDEj4DsRhCo6WBuyL5c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ankleshwar+Hospital+%26+ICU+Center/data=!4m7!3m6!1s0x3be02331680d6475:0x972fb21b583a2a84!8m2!3d21.6290763!4d72.9951535!16s%2Fg%2F11llfp2n06!19sChIJdWQNaDEj4DsRhCo6WBuyL5c?authuser=0&hl=en&rclk=1"
@@ -1068,8 +1060,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ankleshwar+Hospital+%26+ICU+Center/data=!4m7!3m6!1s0x3be02331680d6475:0x972fb21b583a2a84!8m2!3d21.6290763!4d72.9951535!16s%2Fg%2F11llfp2n06!19sChIJdWQNaDEj4DsRhCo6WBuyL5c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ankleshwer-sarvajanik-hospital-ankleshwar",
@@ -1118,7 +1109,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ankleshwer+Sarvajanik+Hospital/data=!4m7!3m6!1s0x3be023fdfcdbe44f:0x8c32433c9171d03a!8m2!3d21.6322018!4d72.999442!16s%2Fg%2F124s_qx21!19sChIJT-Tb_P0j4DsROtBxkTxDMow?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ankleshwer+Sarvajanik+Hospital/data=!4m7!3m6!1s0x3be023fdfcdbe44f:0x8c32433c9171d03a!8m2!3d21.6322018!4d72.999442!16s%2Fg%2F124s_qx21!19sChIJT-Tb_P0j4DsROtBxkTxDMow?authuser=0&hl=en&rclk=1"
@@ -1187,8 +1178,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ankleshwer+Sarvajanik+Hospital/data=!4m7!3m6!1s0x3be023fdfcdbe44f:0x8c32433c9171d03a!8m2!3d21.6322018!4d72.999442!16s%2Fg%2F124s_qx21!19sChIJT-Tb_P0j4DsROtBxkTxDMow?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ansh-surgical-hospital-ankleshwar",
@@ -1236,7 +1226,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ansh+Surgical+Hospital/data=!4m7!3m6!1s0x3be023a4565d7421:0xeba83c6ec09db5cf!8m2!3d21.6325229!4d73.0054669!16s%2Fg%2F11kj43gp85!19sChIJIXRdVqQj4DsRz7WdwG48qOs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ansh+Surgical+Hospital/data=!4m7!3m6!1s0x3be023a4565d7421:0xeba83c6ec09db5cf!8m2!3d21.6325229!4d73.0054669!16s%2Fg%2F11kj43gp85!19sChIJIXRdVqQj4DsRz7WdwG48qOs?authuser=0&hl=en&rclk=1"
@@ -1302,11 +1292,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ansh+Surgical+Hospital/data=!4m7!3m6!1s0x3be023a4565d7421:0xeba83c6ec09db5cf!8m2!3d21.6325229!4d73.0054669!16s%2Fg%2F11kj43gp85!19sChIJIXRdVqQj4DsRz7WdwG48qOs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashish-clinic-ankleshwar",
@@ -1354,7 +1343,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashish+Clinic/data=!4m7!3m6!1s0x3be021cc6204533f:0x9cf0cf3b2a5e17c1!8m2!3d21.6388997!4d73.0004942!16s%2Fg%2F11gr0lxs0g!19sChIJP1MEYswh4DsRwRdeKjvP8Jw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashish+Clinic/data=!4m7!3m6!1s0x3be021cc6204533f:0x9cf0cf3b2a5e17c1!8m2!3d21.6388997!4d73.0004942!16s%2Fg%2F11gr0lxs0g!19sChIJP1MEYswh4DsRwRdeKjvP8Jw?authuser=0&hl=en&rclk=1"
@@ -1420,11 +1409,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashish+Clinic/data=!4m7!3m6!1s0x3be021cc6204533f:0x9cf0cf3b2a5e17c1!8m2!3d21.6388997!4d73.0004942!16s%2Fg%2F11gr0lxs0g!19sChIJP1MEYswh4DsRwRdeKjvP8Jw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "astha-hospital-and-icu-ankleshwar",
@@ -1472,7 +1460,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Astha+Hospital+%26+ICU/data=!4m7!3m6!1s0x3be023e70c4dc605:0xba94e30bbd143583!8m2!3d21.6233532!4d73.0044607!16s%2Fg%2F11cst1c0y4!19sChIJBcZNDOcj4DsRgzUUvQvjlLo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Astha+Hospital+%26+ICU/data=!4m7!3m6!1s0x3be023e70c4dc605:0xba94e30bbd143583!8m2!3d21.6233532!4d73.0044607!16s%2Fg%2F11cst1c0y4!19sChIJBcZNDOcj4DsRgzUUvQvjlLo?authuser=0&hl=en&rclk=1"
@@ -1541,8 +1529,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Astha+Hospital+%26+ICU/data=!4m7!3m6!1s0x3be023e70c4dc605:0xba94e30bbd143583!8m2!3d21.6233532!4d73.0044607!16s%2Fg%2F11cst1c0y4!19sChIJBcZNDOcj4DsRgzUUvQvjlLo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhuva-clinic-ankleshwar",
@@ -1590,7 +1577,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhuva+Clinic/data=!4m7!3m6!1s0x3be023a88090dd3f:0x693a1028e91bd08f!8m2!3d21.5985517!4d73.0156451!16s%2Fg%2F11bbrl2xwv!19sChIJP92QgKgj4DsRj9Ab6SgQOmk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhuva+Clinic/data=!4m7!3m6!1s0x3be023a88090dd3f:0x693a1028e91bd08f!8m2!3d21.5985517!4d73.0156451!16s%2Fg%2F11bbrl2xwv!19sChIJP92QgKgj4DsRj9Ab6SgQOmk?authuser=0&hl=en&rclk=1"
@@ -1659,8 +1646,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhuva+Clinic/data=!4m7!3m6!1s0x3be023a88090dd3f:0x693a1028e91bd08f!8m2!3d21.5985517!4d73.0156451!16s%2Fg%2F11bbrl2xwv!19sChIJP92QgKgj4DsRj9Ab6SgQOmk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-and-cure-hospital-ankleshwar",
@@ -1709,7 +1695,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Care+and+cure+hospital/data=!4m7!3m6!1s0x3be02343826ed247:0x9993afdbb07220ad!8m2!3d21.6091315!4d73.0128724!16s%2Fg%2F11h71g5_41!19sChIJR9JugkMj4DsRrSBysNuvk5k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+and+cure+hospital/data=!4m7!3m6!1s0x3be02343826ed247:0x9993afdbb07220ad!8m2!3d21.6091315!4d73.0128724!16s%2Fg%2F11h71g5_41!19sChIJR9JugkMj4DsRrSBysNuvk5k?authuser=0&hl=en&rclk=1"
@@ -1778,8 +1764,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Care+and+cure+hospital/data=!4m7!3m6!1s0x3be02343826ed247:0x9993afdbb07220ad!8m2!3d21.6091315!4d73.0128724!16s%2Fg%2F11h71g5_41!19sChIJR9JugkMj4DsRrSBysNuvk5k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "care-and-cure-hospital-bharuch",
@@ -1828,7 +1813,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CARE+AND+CURE+HOSPITAL/@21.7284035,73.0467154,17z/data=!3m1!4b1!4m6!3m5!1s0x3be02100542abcb9:0x7c8ec52140c603bf!8m2!3d21.7284035!4d73.0467154!16s%2Fg%2F11vpj9cc4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CARE+AND+CURE+HOSPITAL/@21.7284035,73.0467154,17z/data=!3m1!4b1!4m6!3m5!1s0x3be02100542abcb9:0x7c8ec52140c603bf!8m2!3d21.7284035!4d73.0467154!16s%2Fg%2F11vpj9cc4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -1897,8 +1882,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CARE+AND+CURE+HOSPITAL/@21.7284035,73.0467154,17z/data=!3m1!4b1!4m6!3m5!1s0x3be02100542abcb9:0x7c8ec52140c603bf!8m2!3d21.7284035!4d73.0467154!16s%2Fg%2F11vpj9cc4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "choksi-dental-clinic-ankleshwar",
@@ -1946,7 +1930,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Choksi+Dental+Clinic/data=!4m7!3m6!1s0x3be023fef6141ad1:0xa7509b6855f6c62e!8m2!3d21.629284!4d72.997126!16s%2Fg%2F11bbwq9jxg!19sChIJ0RoU9v4j4DsRLsb2VWibUKc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Choksi+Dental+Clinic/data=!4m7!3m6!1s0x3be023fef6141ad1:0xa7509b6855f6c62e!8m2!3d21.629284!4d72.997126!16s%2Fg%2F11bbwq9jxg!19sChIJ0RoU9v4j4DsRLsb2VWibUKc?authuser=0&hl=en&rclk=1"
@@ -2015,8 +1999,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Choksi+Dental+Clinic/data=!4m7!3m6!1s0x3be023fef6141ad1:0xa7509b6855f6c62e!8m2!3d21.629284!4d72.997126!16s%2Fg%2F11bbwq9jxg!19sChIJ0RoU9v4j4DsRLsb2VWibUKc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dayanidhi-clinic-gadkhol",
@@ -2064,7 +2047,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dayanidhi+Clinic/data=!4m7!3m6!1s0x3be0215649f2a21b:0x9f36d5dc5bb951c1!8m2!3d21.6506901!4d73.0125145!16s%2Fg%2F11g0gmvl_7!19sChIJG6LySVYh4DsRwVG5W9zVNp8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dayanidhi+Clinic/data=!4m7!3m6!1s0x3be0215649f2a21b:0x9f36d5dc5bb951c1!8m2!3d21.6506901!4d73.0125145!16s%2Fg%2F11g0gmvl_7!19sChIJG6LySVYh4DsRwVG5W9zVNp8?authuser=0&hl=en&rclk=1"
@@ -2130,11 +2113,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dayanidhi+Clinic/data=!4m7!3m6!1s0x3be0215649f2a21b:0x9f36d5dc5bb951c1!8m2!3d21.6506901!4d73.0125145!16s%2Fg%2F11g0gmvl_7!19sChIJG6LySVYh4DsRwVG5W9zVNp8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "divine-dental-care-ankleshwar",
@@ -2182,7 +2164,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Divine+Dental+Care/data=!4m7!3m6!1s0x3be0235eb8f5d59d:0xa67c74d2a5429e67!8m2!3d21.6067727!4d73.0257408!16s%2Fg%2F11qnlv491h!19sChIJndX1uF4j4DsRZ55CpdJ0fKY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divine+Dental+Care/data=!4m7!3m6!1s0x3be0235eb8f5d59d:0xa67c74d2a5429e67!8m2!3d21.6067727!4d73.0257408!16s%2Fg%2F11qnlv491h!19sChIJndX1uF4j4DsRZ55CpdJ0fKY?authuser=0&hl=en&rclk=1"
@@ -2251,8 +2233,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Divine+Dental+Care/data=!4m7!3m6!1s0x3be0235eb8f5d59d:0xa67c74d2a5429e67!8m2!3d21.6067727!4d73.0257408!16s%2Fg%2F11qnlv491h!19sChIJndX1uF4j4DsRZ55CpdJ0fKY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "drashti-eye-hospital-ankleshwar",
@@ -2301,7 +2282,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Drashti+Eye+Hospital/data=!4m7!3m6!1s0x3be023fedebbcef7:0x678b6bbda4cce23e!8m2!3d21.6278766!4d72.9967679!16s%2Fg%2F1q5hrhv52!19sChIJ98673v4j4DsRPuLMpL1ri2c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Drashti+Eye+Hospital/data=!4m7!3m6!1s0x3be023fedebbcef7:0x678b6bbda4cce23e!8m2!3d21.6278766!4d72.9967679!16s%2Fg%2F1q5hrhv52!19sChIJ98673v4j4DsRPuLMpL1ri2c?authuser=0&hl=en&rclk=1"
@@ -2370,8 +2351,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Drashti+Eye+Hospital/data=!4m7!3m6!1s0x3be023fedebbcef7:0x678b6bbda4cce23e!8m2!3d21.6278766!4d72.9967679!16s%2Fg%2F1q5hrhv52!19sChIJ98673v4j4DsRPuLMpL1ri2c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ekdant-dental-clinic-ankleshwar",
@@ -2420,7 +2400,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ekdant+dental+clinic/data=!4m7!3m6!1s0x3be02322d28507ef:0x6dca99152c1678f6!8m2!3d21.5896812!4d73.0316243!16s%2Fg%2F11llv94r6_!19sChIJ7weF0iIj4DsR9ngWLBWZym0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ekdant+dental+clinic/data=!4m7!3m6!1s0x3be02322d28507ef:0x6dca99152c1678f6!8m2!3d21.5896812!4d73.0316243!16s%2Fg%2F11llv94r6_!19sChIJ7weF0iIj4DsR9ngWLBWZym0?authuser=0&hl=en&rclk=1"
@@ -2486,11 +2466,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ekdant+dental+clinic/data=!4m7!3m6!1s0x3be02322d28507ef:0x6dca99152c1678f6!8m2!3d21.5896812!4d73.0316243!16s%2Fg%2F11llv94r6_!19sChIJ7weF0iIj4DsR9ngWLBWZym0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "esic-hospital-ankleshwar",
@@ -2540,7 +2519,7 @@
       "2+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ESIC+Hospital/data=!4m7!3m6!1s0x3be023b3adc3d439:0x1d3784150e08af1!8m2!3d21.6057914!4d73.0368554!16s%2Fg%2F12hn0chtr!19sChIJOdTDrbMj4DsR8YrgUEF40wE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ESIC+Hospital/data=!4m7!3m6!1s0x3be023b3adc3d439:0x1d3784150e08af1!8m2!3d21.6057914!4d73.0368554!16s%2Fg%2F12hn0chtr!19sChIJOdTDrbMj4DsR8YrgUEF40wE?authuser=0&hl=en&rclk=1"
@@ -2606,11 +2585,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 2,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ESIC+Hospital/data=!4m7!3m6!1s0x3be023b3adc3d439:0x1d3784150e08af1!8m2!3d21.6057914!4d73.0368554!16s%2Fg%2F12hn0chtr!19sChIJOdTDrbMj4DsR8YrgUEF40wE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "fiza-dental-clinic-ankleshwar",
@@ -2658,7 +2636,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Fiza+Dental+Clinic/data=!4m7!3m6!1s0x3be023ff0d2a9f9b:0x9d3e13d2c0c33157!8m2!3d21.6289927!4d72.994779!16s%2Fg%2F1s04f44d5!19sChIJm58qDf8j4DsRVzHDwNITPp0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fiza+Dental+Clinic/data=!4m7!3m6!1s0x3be023ff0d2a9f9b:0x9d3e13d2c0c33157!8m2!3d21.6289927!4d72.994779!16s%2Fg%2F1s04f44d5!19sChIJm58qDf8j4DsRVzHDwNITPp0?authuser=0&hl=en&rclk=1"
@@ -2727,8 +2705,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Fiza+Dental+Clinic/data=!4m7!3m6!1s0x3be023ff0d2a9f9b:0x9d3e13d2c0c33157!8m2!3d21.6289927!4d72.994779!16s%2Fg%2F1s04f44d5!19sChIJm58qDf8j4DsRVzHDwNITPp0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "harikrushna-dental-clinic-ankleshwar",
@@ -2776,7 +2753,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Harikrushna+Dental+Clinic/data=!4m7!3m6!1s0x3be023028b6b046f:0xa7a39887e4df30c3!8m2!3d21.6008949!4d73.0210951!16s%2Fg%2F11s42pqkhc!19sChIJbwRriwIj4DsRwzDf5IeYo6c?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Harikrushna+Dental+Clinic/data=!4m7!3m6!1s0x3be023028b6b046f:0xa7a39887e4df30c3!8m2!3d21.6008949!4d73.0210951!16s%2Fg%2F11s42pqkhc!19sChIJbwRriwIj4DsRwzDf5IeYo6c?authuser=0&hl=en&rclk=1"
@@ -2845,8 +2822,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Harikrushna+Dental+Clinic/data=!4m7!3m6!1s0x3be023028b6b046f:0xa7a39887e4df30c3!8m2!3d21.6008949!4d73.0210951!16s%2Fg%2F11s42pqkhc!19sChIJbwRriwIj4DsRwzDf5IeYo6c?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ivory-dental-care-ankleshwar",
@@ -2895,7 +2871,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ivory+dental+care/data=!4m7!3m6!1s0x2f2c493599cab9ed:0xb397cd50eaa4ba3d!8m2!3d21.6005154!4d73.0182711!16s%2Fg%2F11x218g1s_!19sChIJ7bnKmTVJLC8RPbqk6lDNl7M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ivory+dental+care/data=!4m7!3m6!1s0x2f2c493599cab9ed:0xb397cd50eaa4ba3d!8m2!3d21.6005154!4d73.0182711!16s%2Fg%2F11x218g1s_!19sChIJ7bnKmTVJLC8RPbqk6lDNl7M?authuser=0&hl=en&rclk=1"
@@ -2961,11 +2937,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ivory+dental+care/data=!4m7!3m6!1s0x2f2c493599cab9ed:0xb397cd50eaa4ba3d!8m2!3d21.6005154!4d73.0182711!16s%2Fg%2F11x218g1s_!19sChIJ7bnKmTVJLC8RPbqk6lDNl7M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "j-b-mody-cancer-centre-ankleshwar",
@@ -3016,7 +2991,7 @@
       "1+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/J.B.+MODY+CANCER+CENTRE/data=!4m7!3m6!1s0x3be023271f9b5091:0xd0ded1069021fcb9!8m2!3d21.615337!4d73.007897!16s%2Fg%2F11rznmj6n0!19sChIJkVCbHycj4DsRufwhkAbR3tA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J.B.+MODY+CANCER+CENTRE/data=!4m7!3m6!1s0x3be023271f9b5091:0xd0ded1069021fcb9!8m2!3d21.615337!4d73.007897!16s%2Fg%2F11rznmj6n0!19sChIJkVCbHycj4DsRufwhkAbR3tA?authuser=0&hl=en&rclk=1"
@@ -3085,8 +3060,7 @@
     "rating": 4.6,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/J.B.+MODY+CANCER+CENTRE/data=!4m7!3m6!1s0x3be023271f9b5091:0xd0ded1069021fcb9!8m2!3d21.615337!4d73.007897!16s%2Fg%2F11rznmj6n0!19sChIJkVCbHycj4DsRufwhkAbR3tA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kharodia-maxface-care-ankleshwar",
@@ -3134,7 +3108,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kharodia+Maxface+Care/data=!4m7!3m6!1s0x3be023426dee3caf:0x825dae7258543f77!8m2!3d21.5930282!4d73.0285596!16s%2Fg%2F11p07p0rz7!19sChIJrzzubUIj4DsRdz9UWHKuXYI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kharodia+Maxface+Care/data=!4m7!3m6!1s0x3be023426dee3caf:0x825dae7258543f77!8m2!3d21.5930282!4d73.0285596!16s%2Fg%2F11p07p0rz7!19sChIJrzzubUIj4DsRdz9UWHKuXYI?authuser=0&hl=en&rclk=1"
@@ -3200,11 +3174,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kharodia+Maxface+Care/data=!4m7!3m6!1s0x3be023426dee3caf:0x825dae7258543f77!8m2!3d21.5930282!4d73.0285596!16s%2Fg%2F11p07p0rz7!19sChIJrzzubUIj4DsRdz9UWHKuXYI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-baa-maternity-care-ankleshwar-gidc",
@@ -3252,7 +3225,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Baa+Maternity+Care/data=!4m7!3m6!1s0x3be023b39b00076d:0xf8462f7b9e66a2e3!8m2!3d21.5976469!4d73.0233463!16s%2Fg%2F11r_tqz_nj!19sChIJbQcAm7Mj4DsR46JmnnsvRvg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Baa+Maternity+Care/data=!4m7!3m6!1s0x3be023b39b00076d:0xf8462f7b9e66a2e3!8m2!3d21.5976469!4d73.0233463!16s%2Fg%2F11r_tqz_nj!19sChIJbQcAm7Mj4DsR46JmnnsvRvg?authuser=0&hl=en&rclk=1"
@@ -3318,11 +3291,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Baa+Maternity+Care/data=!4m7!3m6!1s0x3be023b39b00076d:0xf8462f7b9e66a2e3!8m2!3d21.5976469!4d73.0233463!16s%2Fg%2F11r_tqz_nj!19sChIJbQcAm7Mj4DsR46JmnnsvRvg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-dental-clinic-and-implant-center-ankleshwar",
@@ -3371,7 +3343,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KRISHNA+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3be026aa5280c9c7:0xfc844eb8e0f00e9!8m2!3d21.6349882!4d72.9896626!16s%2Fg%2F11gcz3388v!19sChIJx8mAUqom4DsR6QAPjutEyA8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KRISHNA+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3be026aa5280c9c7:0xfc844eb8e0f00e9!8m2!3d21.6349882!4d72.9896626!16s%2Fg%2F11gcz3388v!19sChIJx8mAUqom4DsR6QAPjutEyA8?authuser=0&hl=en&rclk=1"
@@ -3437,11 +3409,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KRISHNA+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3be026aa5280c9c7:0xfc844eb8e0f00e9!8m2!3d21.6349882!4d72.9896626!16s%2Fg%2F11gcz3388v!19sChIJx8mAUqom4DsR6QAPjutEyA8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kusum-dental-care-ankleshwar",
@@ -3491,7 +3462,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kusum+Dental+Care/data=!4m7!3m6!1s0x3be023c6b5f639e3:0x79e6274b16703470!8m2!3d21.6070083!4d73.0235391!16s%2Fg%2F11s2q1z2sw!19sChIJ4zn2tcYj4DsRcDRwFksn5nk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kusum+Dental+Care/data=!4m7!3m6!1s0x3be023c6b5f639e3:0x79e6274b16703470!8m2!3d21.6070083!4d73.0235391!16s%2Fg%2F11s2q1z2sw!19sChIJ4zn2tcYj4DsRcDRwFksn5nk?authuser=0&hl=en&rclk=1"
@@ -3557,11 +3528,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kusum+Dental+Care/data=!4m7!3m6!1s0x3be023c6b5f639e3:0x79e6274b16703470!8m2!3d21.6070083!4d73.0235391!16s%2Fg%2F11s2q1z2sw!19sChIJ4zn2tcYj4DsRcDRwFksn5nk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-care-hospital-ankleshwar",
@@ -3609,7 +3579,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+Care+Hospital/data=!4m7!3m6!1s0x3be0215874f33d21:0xcb6fecae7bf6eb0c!8m2!3d21.6339385!4d73.0067347!16s%2Fg%2F11c7_vybg_!19sChIJIT3zdFgh4DsRDOv2e67sb8s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Care+Hospital/data=!4m7!3m6!1s0x3be0215874f33d21:0xcb6fecae7bf6eb0c!8m2!3d21.6339385!4d73.0067347!16s%2Fg%2F11c7_vybg_!19sChIJIT3zdFgh4DsRDOv2e67sb8s?authuser=0&hl=en&rclk=1"
@@ -3675,11 +3645,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+Care+Hospital/data=!4m7!3m6!1s0x3be0215874f33d21:0xcb6fecae7bf6eb0c!8m2!3d21.6339385!4d73.0067347!16s%2Fg%2F11c7_vybg_!19sChIJIT3zdFgh4DsRDOv2e67sb8s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lily-esthederm-hair-skin-laser-ankleshwar",
@@ -3728,7 +3697,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lily+Esthederm+Hair+Skin+Laser/data=!4m7!3m6!1s0x3be023b89c048415:0x2777364767f0d744!8m2!3d21.6010986!4d73.0175751!16s%2Fg%2F11yc7fzyg6!19sChIJFYQEnLgj4DsRRNfwZ0c2dyc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lily+Esthederm+Hair+Skin+Laser/data=!4m7!3m6!1s0x3be023b89c048415:0x2777364767f0d744!8m2!3d21.6010986!4d73.0175751!16s%2Fg%2F11yc7fzyg6!19sChIJFYQEnLgj4DsRRNfwZ0c2dyc?authuser=0&hl=en&rclk=1"
@@ -3797,8 +3766,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lily+Esthederm+Hair+Skin+Laser/data=!4m7!3m6!1s0x3be023b89c048415:0x2777364767f0d744!8m2!3d21.6010986!4d73.0175751!16s%2Fg%2F11yc7fzyg6!19sChIJFYQEnLgj4DsRRNfwZ0c2dyc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-dental-clinic-and-implant-center-ankleshwar",
@@ -3846,7 +3814,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MAA+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3be021b7451915a9:0xccdf86bd2adc1bf0!8m2!3d21.6312302!4d72.9979337!16s%2Fg%2F11rdbxrmj4!19sChIJqRUZRbch4DsR8BvcKr2G38w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAA+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3be021b7451915a9:0xccdf86bd2adc1bf0!8m2!3d21.6312302!4d72.9979337!16s%2Fg%2F11rdbxrmj4!19sChIJqRUZRbch4DsR8BvcKr2G38w?authuser=0&hl=en&rclk=1"
@@ -3915,8 +3883,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MAA+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3be021b7451915a9:0xccdf86bd2adc1bf0!8m2!3d21.6312302!4d72.9979337!16s%2Fg%2F11rdbxrmj4!19sChIJqRUZRbch4DsR8BvcKr2G38w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mann-dental-care-ankleshwar",
@@ -3964,7 +3931,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mann+Dental+Care/data=!4m7!3m6!1s0x3be021a0b3e66a65:0x6591a9b95a485d16!8m2!3d21.6349397!4d72.975331!16s%2Fg%2F11lrdsh442!19sChIJZWrms6Ah4DsRFl1IWrmpkWU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mann+Dental+Care/data=!4m7!3m6!1s0x3be021a0b3e66a65:0x6591a9b95a485d16!8m2!3d21.6349397!4d72.975331!16s%2Fg%2F11lrdsh442!19sChIJZWrms6Ah4DsRFl1IWrmpkWU?authuser=0&hl=en&rclk=1"
@@ -4033,8 +4000,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mann+Dental+Care/data=!4m7!3m6!1s0x3be021a0b3e66a65:0x6591a9b95a485d16!8m2!3d21.6349397!4d72.975331!16s%2Fg%2F11lrdsh442!19sChIJZWrms6Ah4DsRFl1IWrmpkWU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maple-hospital-bharuch",
@@ -4083,7 +4049,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maple+Hospital/data=!4m7!3m6!1s0x3be020b4fbdfe0f1:0x80c0c50fb0e53bc1!8m2!3d21.7044809!4d72.993206!16s%2Fg%2F11w2zld0gf!19sChIJ8eDf-7Qg4DsRwTvlsA_FwIA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maple+Hospital/data=!4m7!3m6!1s0x3be020b4fbdfe0f1:0x80c0c50fb0e53bc1!8m2!3d21.7044809!4d72.993206!16s%2Fg%2F11w2zld0gf!19sChIJ8eDf-7Qg4DsRwTvlsA_FwIA?authuser=0&hl=en&rclk=1"
@@ -4152,8 +4118,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maple+Hospital/data=!4m7!3m6!1s0x3be020b4fbdfe0f1:0x80c0c50fb0e53bc1!8m2!3d21.7044809!4d72.993206!16s%2Fg%2F11w2zld0gf!19sChIJ8eDf-7Qg4DsRwTvlsA_FwIA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "monica-skin-clinic-ankleshwar",
@@ -4201,7 +4166,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Monica+Skin+Clinic/data=!4m7!3m6!1s0x3be023fbeaac7851:0x41135ffa34e5efd9!8m2!3d21.6278698!4d72.9975269!16s%2Fg%2F1tqycz67!19sChIJUXis6vsj4DsR2e_lNPpfE0E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Monica+Skin+Clinic/data=!4m7!3m6!1s0x3be023fbeaac7851:0x41135ffa34e5efd9!8m2!3d21.6278698!4d72.9975269!16s%2Fg%2F1tqycz67!19sChIJUXis6vsj4DsR2e_lNPpfE0E?authuser=0&hl=en&rclk=1"
@@ -4270,8 +4235,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Monica+Skin+Clinic/data=!4m7!3m6!1s0x3be023fbeaac7851:0x41135ffa34e5efd9!8m2!3d21.6278698!4d72.9975269!16s%2Fg%2F1tqycz67!19sChIJUXis6vsj4DsR2e_lNPpfE0E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navjeevan-heart-and-women-s-hospital-gidc-ankleshwar",
@@ -4321,7 +4285,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navjeevan+Heart+and+Women%27s+Hospital%28GIDC%29/data=!4m7!3m6!1s0x3be02340c1cb21c5:0xe595f75abe057d77!8m2!3d21.6232298!4d73.004255!16s%2Fg%2F11qr9lkrcx!19sChIJxSHLwUAj4DsRd30Fvlr3leU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navjeevan+Heart+and+Women%27s+Hospital%28GIDC%29/data=!4m7!3m6!1s0x3be02340c1cb21c5:0xe595f75abe057d77!8m2!3d21.6232298!4d73.004255!16s%2Fg%2F11qr9lkrcx!19sChIJxSHLwUAj4DsRd30Fvlr3leU?authuser=0&hl=en&rclk=1"
@@ -4390,8 +4354,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navjeevan+Heart+and+Women%27s+Hospital%28GIDC%29/data=!4m7!3m6!1s0x3be02340c1cb21c5:0xe595f75abe057d77!8m2!3d21.6232298!4d73.004255!16s%2Fg%2F11qr9lkrcx!19sChIJxSHLwUAj4DsRd30Fvlr3leU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navjeevan-hospital-ankleshwar",
@@ -4439,7 +4402,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navjeevan+Hospital/data=!4m7!3m6!1s0x3be023fbeaac7851:0x8aafe2de24099f7c!8m2!3d21.6303271!4d72.9940883!16s%2Fg%2F1tgxgjfc!19sChIJUXis6vsj4DsRfJ8JJN7ir4o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navjeevan+Hospital/data=!4m7!3m6!1s0x3be023fbeaac7851:0x8aafe2de24099f7c!8m2!3d21.6303271!4d72.9940883!16s%2Fg%2F1tgxgjfc!19sChIJUXis6vsj4DsRfJ8JJN7ir4o?authuser=0&hl=en&rclk=1"
@@ -4508,8 +4471,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navjeevan+Hospital/data=!4m7!3m6!1s0x3be023fbeaac7851:0x8aafe2de24099f7c!8m2!3d21.6303271!4d72.9940883!16s%2Fg%2F1tgxgjfc!19sChIJUXis6vsj4DsRfJ8JJN7ir4o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-life-hospital-ankleshwar",
@@ -4557,7 +4519,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Life+Hospital/data=!4m7!3m6!1s0x3be023feae82d3c5:0x5ec8f5eef1f075a1!8m2!3d21.6274637!4d72.9986311!16s%2Fg%2F1s047m184!19sChIJxdOCrv4j4DsRoXXw8e71yF4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Life+Hospital/data=!4m7!3m6!1s0x3be023feae82d3c5:0x5ec8f5eef1f075a1!8m2!3d21.6274637!4d72.9986311!16s%2Fg%2F1s047m184!19sChIJxdOCrv4j4DsRoXXw8e71yF4?authuser=0&hl=en&rclk=1"
@@ -4626,8 +4588,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Life+Hospital/data=!4m7!3m6!1s0x3be023feae82d3c5:0x5ec8f5eef1f075a1!8m2!3d21.6274637!4d72.9986311!16s%2Fg%2F1s047m184!19sChIJxdOCrv4j4DsRoXXw8e71yF4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirvana-dental-care-ankleshwar",
@@ -4675,7 +4636,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nirvana+Dental+Care/data=!4m7!3m6!1s0x3be023d80a6de5b3:0x299e1a125868f23!8m2!3d21.6020554!4d73.0216569!16s%2Fg%2F11sgy6_ppd!19sChIJs-VtCtgj4DsRI4-GJaHhmQI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirvana+Dental+Care/data=!4m7!3m6!1s0x3be023d80a6de5b3:0x299e1a125868f23!8m2!3d21.6020554!4d73.0216569!16s%2Fg%2F11sgy6_ppd!19sChIJs-VtCtgj4DsRI4-GJaHhmQI?authuser=0&hl=en&rclk=1"
@@ -4741,11 +4702,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nirvana+Dental+Care/data=!4m7!3m6!1s0x3be023d80a6de5b3:0x299e1a125868f23!8m2!3d21.6020554!4d73.0216569!16s%2Fg%2F11sgy6_ppd!19sChIJs-VtCtgj4DsRI4-GJaHhmQI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nishtha-eye-hospital-and-dental-clinic-ankleshwar",
@@ -4794,7 +4754,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nishtha+Eye+Hospital+%26+Dental+Clinic/data=!4m7!3m6!1s0x3be023f0816846fd:0xfcbdc099bb043023!8m2!3d21.6219089!4d73.00317!16s%2Fg%2F1s04w8rfb!19sChIJ_UZogfAj4DsRIzAEu5nAvfw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nishtha+Eye+Hospital+%26+Dental+Clinic/data=!4m7!3m6!1s0x3be023f0816846fd:0xfcbdc099bb043023!8m2!3d21.6219089!4d73.00317!16s%2Fg%2F1s04w8rfb!19sChIJ_UZogfAj4DsRIzAEu5nAvfw?authuser=0&hl=en&rclk=1"
@@ -4863,8 +4823,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nishtha+Eye+Hospital+%26+Dental+Clinic/data=!4m7!3m6!1s0x3be023f0816846fd:0xfcbdc099bb043023!8m2!3d21.6219089!4d73.00317!16s%2Fg%2F1s04w8rfb!19sChIJ_UZogfAj4DsRIzAEu5nAvfw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nityanand-hospital-ankleshwar",
@@ -4913,7 +4872,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nityanand+Hospital/data=!4m7!3m6!1s0x3be023fe7ac7f099:0xa078efe4219a3956!8m2!3d21.6308419!4d72.9986313!16s%2Fg%2F124sx8mh9!19sChIJmfDHev4j4DsRVjmaIeTveKA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nityanand+Hospital/data=!4m7!3m6!1s0x3be023fe7ac7f099:0xa078efe4219a3956!8m2!3d21.6308419!4d72.9986313!16s%2Fg%2F124sx8mh9!19sChIJmfDHev4j4DsRVjmaIeTveKA?authuser=0&hl=en&rclk=1"
@@ -4982,8 +4941,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nityanand+Hospital/data=!4m7!3m6!1s0x3be023fe7ac7f099:0xa078efe4219a3956!8m2!3d21.6308419!4d72.9986313!16s%2Fg%2F124sx8mh9!19sChIJmfDHev4j4DsRVjmaIeTveKA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "omkar-dental-care-kosamdi",
@@ -5031,7 +4989,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Omkar+Dental+Care/data=!4m7!3m6!1s0x3be023a2147298fb:0x46e8eb8f4d83cc4c!8m2!3d21.5942848!4d73.0263148!16s%2Fg%2F11g0hyf4kh!19sChIJ-5hyFKIj4DsRTMyDTY_r6EY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Omkar+Dental+Care/data=!4m7!3m6!1s0x3be023a2147298fb:0x46e8eb8f4d83cc4c!8m2!3d21.5942848!4d73.0263148!16s%2Fg%2F11g0hyf4kh!19sChIJ-5hyFKIj4DsRTMyDTY_r6EY?authuser=0&hl=en&rclk=1"
@@ -5097,11 +5055,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Omkar+Dental+Care/data=!4m7!3m6!1s0x3be023a2147298fb:0x46e8eb8f4d83cc4c!8m2!3d21.5942848!4d73.0263148!16s%2Fg%2F11g0hyf4kh!19sChIJ-5hyFKIj4DsRTMyDTY_r6EY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oroscan-ankleshwar-ankleshwar",
@@ -5148,7 +5105,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/oroscan+ankleshwar/data=!4m7!3m6!1s0x3be025750865fdef:0xccedce94a0803f7b!8m2!3d21.6224086!4d73.0034597!16s%2Fg%2F11stqk0w_x!19sChIJ7_1lCHUl4DsRez-AoJTO7cw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/oroscan+ankleshwar/data=!4m7!3m6!1s0x3be025750865fdef:0xccedce94a0803f7b!8m2!3d21.6224086!4d73.0034597!16s%2Fg%2F11stqk0w_x!19sChIJ7_1lCHUl4DsRez-AoJTO7cw?authuser=0&hl=en&rclk=1"
@@ -5214,11 +5171,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/oroscan+ankleshwar/data=!4m7!3m6!1s0x3be025750865fdef:0xccedce94a0803f7b!8m2!3d21.6224086!4d73.0034597!16s%2Fg%2F11stqk0w_x!19sChIJ7_1lCHUl4DsRez-AoJTO7cw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "padmasiddha-hospital-ankleshwar",
@@ -5267,7 +5223,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Padmasiddha+Hospital/data=!4m7!3m6!1s0x3be023a36eb9949f:0xc3312a9b13dc23d2!8m2!3d21.598807!4d73.0218435!16s%2Fg%2F11g0srm1w5!19sChIJn5S5bqMj4DsR0iPcE5sqMcM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Padmasiddha+Hospital/data=!4m7!3m6!1s0x3be023a36eb9949f:0xc3312a9b13dc23d2!8m2!3d21.598807!4d73.0218435!16s%2Fg%2F11g0srm1w5!19sChIJn5S5bqMj4DsR0iPcE5sqMcM?authuser=0&hl=en&rclk=1"
@@ -5333,11 +5289,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Padmasiddha+Hospital/data=!4m7!3m6!1s0x3be023a36eb9949f:0xc3312a9b13dc23d2!8m2!3d21.598807!4d73.0218435!16s%2Fg%2F11g0srm1w5!19sChIJn5S5bqMj4DsR0iPcE5sqMcM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "paradise-the-unisex-salon-ankleshwar",
@@ -5386,7 +5341,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Paradise+The+Unisex+Salon/data=!4m7!3m6!1s0x3be023edb1f897ed:0x590575f68a42c6f6!8m2!3d21.6142312!4d73.0076891!16s%2Fg%2F124sr1xz9!19sChIJ7Zf4se0j4DsR9sZCivZ1BVk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paradise+The+Unisex+Salon/data=!4m7!3m6!1s0x3be023edb1f897ed:0x590575f68a42c6f6!8m2!3d21.6142312!4d73.0076891!16s%2Fg%2F124sr1xz9!19sChIJ7Zf4se0j4DsR9sZCivZ1BVk?authuser=0&hl=en&rclk=1"
@@ -5455,8 +5410,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Paradise+The+Unisex+Salon/data=!4m7!3m6!1s0x3be023edb1f897ed:0x590575f68a42c6f6!8m2!3d21.6142312!4d73.0076891!16s%2Fg%2F124sr1xz9!19sChIJ7Zf4se0j4DsR9sZCivZ1BVk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "physio2fit-best-physiotherapist-physio-clinic-fitness-center-ankleshwar",
@@ -5505,7 +5459,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PHYSIO2FIT+-+Best+Physiotherapist,+Physio+Clinic,+Fitness+Center/data=!4m7!3m6!1s0x3be023b451868139:0x6bb3f3416691aaf1!8m2!3d21.6072774!4d73.0146851!16s%2Fg%2F11pkx0660x!19sChIJOYGGUbQj4DsR8aqRZkHzs2s?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PHYSIO2FIT+-+Best+Physiotherapist,+Physio+Clinic,+Fitness+Center/data=!4m7!3m6!1s0x3be023b451868139:0x6bb3f3416691aaf1!8m2!3d21.6072774!4d73.0146851!16s%2Fg%2F11pkx0660x!19sChIJOYGGUbQj4DsR8aqRZkHzs2s?authuser=0&hl=en&rclk=1"
@@ -5571,11 +5525,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PHYSIO2FIT+-+Best+Physiotherapist,+Physio+Clinic,+Fitness+Center/data=!4m7!3m6!1s0x3be023b451868139:0x6bb3f3416691aaf1!8m2!3d21.6072774!4d73.0146851!16s%2Fg%2F11pkx0660x!19sChIJOYGGUbQj4DsR8aqRZkHzs2s?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pro-dent-family-dental-care-and-implant-centre-ankleshwar",
@@ -5623,7 +5576,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PRO-+DENT+family+dental+care+%26+implant+centre/data=!4m7!3m6!1s0x3be023658364673f:0x53f7b21e65f89f50!8m2!3d21.6289691!4d72.9956358!16s%2Fg%2F11xl06jjvq!19sChIJP2dkg2Uj4DsRUJ_4ZR6y91M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRO-+DENT+family+dental+care+%26+implant+centre/data=!4m7!3m6!1s0x3be023658364673f:0x53f7b21e65f89f50!8m2!3d21.6289691!4d72.9956358!16s%2Fg%2F11xl06jjvq!19sChIJP2dkg2Uj4DsRUJ_4ZR6y91M?authuser=0&hl=en&rclk=1"
@@ -5689,11 +5642,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PRO-+DENT+family+dental+care+%26+implant+centre/data=!4m7!3m6!1s0x3be023658364673f:0x53f7b21e65f89f50!8m2!3d21.6289691!4d72.9956358!16s%2Fg%2F11xl06jjvq!19sChIJP2dkg2Uj4DsRUJ_4ZR6y91M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-b-general-hospital-dr-ajeet-singh-ankleshwar",
@@ -5742,7 +5694,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R+B+General+Hospital+%28Dr+Ajeet+Singh%29/data=!4m7!3m6!1s0x3be023e01214f707:0x7b1addea8049db9c!8m2!3d21.6351961!4d73.0298976!16s%2Fg%2F11j2zdcjgx!19sChIJB_cUEuAj4DsRnNtJgOrdGns?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+B+General+Hospital+%28Dr+Ajeet+Singh%29/data=!4m7!3m6!1s0x3be023e01214f707:0x7b1addea8049db9c!8m2!3d21.6351961!4d73.0298976!16s%2Fg%2F11j2zdcjgx!19sChIJB_cUEuAj4DsRnNtJgOrdGns?authuser=0&hl=en&rclk=1"
@@ -5811,8 +5763,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R+B+General+Hospital+%28Dr+Ajeet+Singh%29/data=!4m7!3m6!1s0x3be023e01214f707:0x7b1addea8049db9c!8m2!3d21.6351961!4d73.0298976!16s%2Fg%2F11j2zdcjgx!19sChIJB_cUEuAj4DsRnNtJgOrdGns?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raj-clinic-piles-fistula-fissar-hydrocyle-sexual-skin-ankleshwar",
@@ -5860,7 +5811,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raj+clinic+.piles,+Fistula,fissar,hydrocyle,+sexual,skin/data=!4m7!3m6!1s0x3be02388127b894f:0x962a2c459d9546ff!8m2!3d21.6225445!4d73.0023092!16s%2Fg%2F11sny94m4y!19sChIJT4l7Eogj4DsR_0aVnUUsKpY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raj+clinic+.piles,+Fistula,fissar,hydrocyle,+sexual,skin/data=!4m7!3m6!1s0x3be02388127b894f:0x962a2c459d9546ff!8m2!3d21.6225445!4d73.0023092!16s%2Fg%2F11sny94m4y!19sChIJT4l7Eogj4DsR_0aVnUUsKpY?authuser=0&hl=en&rclk=1"
@@ -5929,8 +5880,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raj+clinic+.piles,+Fistula,fissar,hydrocyle,+sexual,skin/data=!4m7!3m6!1s0x3be02388127b894f:0x962a2c459d9546ff!8m2!3d21.6225445!4d73.0023092!16s%2Fg%2F11sny94m4y!19sChIJT4l7Eogj4DsR_0aVnUUsKpY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sakhiya-skin-clinic-best-skin-care-clinic-ankleshwar",
@@ -5979,7 +5929,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+Care+Clinic/data=!4m7!3m6!1s0x3be023f1d8414ea5:0x2728067aa40a233a!8m2!3d21.6015029!4d73.0207623!16s%2Fg%2F11f3xgx1yq!19sChIJpU5B2PEj4DsROiMKpHoGKCc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+Care+Clinic/data=!4m7!3m6!1s0x3be023f1d8414ea5:0x2728067aa40a233a!8m2!3d21.6015029!4d73.0207623!16s%2Fg%2F11f3xgx1yq!19sChIJpU5B2PEj4DsROiMKpHoGKCc?authuser=0&hl=en&rclk=1"
@@ -6048,8 +5998,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+Care+Clinic/data=!4m7!3m6!1s0x3be023f1d8414ea5:0x2728067aa40a233a!8m2!3d21.6015029!4d73.0207623!16s%2Fg%2F11f3xgx1yq!19sChIJpU5B2PEj4DsROiMKpHoGKCc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samarpan-child-dental-care-bharuch-ankleshwar-kids-dentist-dental-clinic-dentist-dentist-for-child-bharuch",
@@ -6100,7 +6049,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samarpan+CHILD+DENTAL+CARE,+Bharuch,+Ankleshwar+%7C%7C+Kids+Dentist,+Dental+Clinic,+Dentist,+Dentist+For+Child/@21.7149757,73.0133099,17z/data=!3m1!4b1!4m6!3m5!1s0x3be02101437fb36b:0x655db6cb8e82ad43!8m2!3d21.7149757!4d73.0133099!16s%2Fg%2F11tf7rqb61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarpan+CHILD+DENTAL+CARE,+Bharuch,+Ankleshwar+%7C%7C+Kids+Dentist,+Dental+Clinic,+Dentist,+Dentist+For+Child/@21.7149757,73.0133099,17z/data=!3m1!4b1!4m6!3m5!1s0x3be02101437fb36b:0x655db6cb8e82ad43!8m2!3d21.7149757!4d73.0133099!16s%2Fg%2F11tf7rqb61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -6166,11 +6115,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samarpan+CHILD+DENTAL+CARE,+Bharuch,+Ankleshwar+%7C%7C+Kids+Dentist,+Dental+Clinic,+Dentist,+Dentist+For+Child/@21.7149757,73.0133099,17z/data=!3m1!4b1!4m6!3m5!1s0x3be02101437fb36b:0x655db6cb8e82ad43!8m2!3d21.7149757!4d73.0133099!16s%2Fg%2F11tf7rqb61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanidhya-hospital-ankleshwar",
@@ -6218,7 +6166,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanidhya+hospital/data=!4m7!3m6!1s0x3be0230b9289e917:0xe2dfb16dfa4c8c01!8m2!3d21.6311021!4d72.997827!16s%2Fg%2F11qlfncts9!19sChIJF-mJkgsj4DsRAYxM-m2x3-I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanidhya+hospital/data=!4m7!3m6!1s0x3be0230b9289e917:0xe2dfb16dfa4c8c01!8m2!3d21.6311021!4d72.997827!16s%2Fg%2F11qlfncts9!19sChIJF-mJkgsj4DsRAYxM-m2x3-I?authuser=0&hl=en&rclk=1"
@@ -6287,8 +6235,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanidhya+hospital/data=!4m7!3m6!1s0x3be0230b9289e917:0xe2dfb16dfa4c8c01!8m2!3d21.6311021!4d72.997827!16s%2Fg%2F11qlfncts9!19sChIJF-mJkgsj4DsRAYxM-m2x3-I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjivani-clinic-ankleshwar",
@@ -6336,7 +6283,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjivani+Clinic/data=!4m7!3m6!1s0x3be023968e5085a3:0xb63d9d2b4e820b29!8m2!3d21.6045618!4d73.0133619!16s%2Fg%2F11bbrk2lt8!19sChIJo4VQjpYj4DsRKQuCTiudPbY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjivani+Clinic/data=!4m7!3m6!1s0x3be023968e5085a3:0xb63d9d2b4e820b29!8m2!3d21.6045618!4d73.0133619!16s%2Fg%2F11bbrk2lt8!19sChIJo4VQjpYj4DsRKQuCTiudPbY?authuser=0&hl=en&rclk=1"
@@ -6402,11 +6349,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjivani+Clinic/data=!4m7!3m6!1s0x3be023968e5085a3:0xb63d9d2b4e820b29!8m2!3d21.6045618!4d73.0133619!16s%2Fg%2F11bbrk2lt8!19sChIJo4VQjpYj4DsRKQuCTiudPbY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sardar-patel-hospital-and-heart-institute-ankleshwar",
@@ -6457,7 +6403,7 @@
       "17+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sardar+Patel+Hospital+%26+Heart+Institute/data=!4m7!3m6!1s0x3be023fc5b83862f:0xa4a03f75b4581c46!8m2!3d21.629526!4d73.0012607!16s%2Fg%2F11bwfltwvl!19sChIJL4aDW_wj4DsRRhxYtHU_oKQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sardar+Patel+Hospital+%26+Heart+Institute/data=!4m7!3m6!1s0x3be023fc5b83862f:0xa4a03f75b4581c46!8m2!3d21.629526!4d73.0012607!16s%2Fg%2F11bwfltwvl!19sChIJL4aDW_wj4DsRRhxYtHU_oKQ?authuser=0&hl=en&rclk=1"
@@ -6526,8 +6472,7 @@
     "rating": 4.5,
     "reviews": 17,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sardar+Patel+Hospital+%26+Heart+Institute/data=!4m7!3m6!1s0x3be023fc5b83862f:0xa4a03f75b4581c46!8m2!3d21.629526!4d73.0012607!16s%2Fg%2F11bwfltwvl!19sChIJL4aDW_wj4DsRRhxYtHU_oKQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiv-dental-clinic-ankleshwar",
@@ -6573,7 +6518,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiv+Dental+Clinic/data=!4m7!3m6!1s0x3be02324992a2cd9:0xc965c5cb030434d4!8m2!3d21.6067782!4d73.0263409!16s%2Fg%2F11vhcmqys3!19sChIJ2SwqmSQj4DsR1DQEA8vFZck?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Dental+Clinic/data=!4m7!3m6!1s0x3be02324992a2cd9:0xc965c5cb030434d4!8m2!3d21.6067782!4d73.0263409!16s%2Fg%2F11vhcmqys3!19sChIJ2SwqmSQj4DsR1DQEA8vFZck?authuser=0&hl=en&rclk=1"
@@ -6639,11 +6584,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiv+Dental+Clinic/data=!4m7!3m6!1s0x3be02324992a2cd9:0xc965c5cb030434d4!8m2!3d21.6067782!4d73.0263409!16s%2Fg%2F11vhcmqys3!19sChIJ2SwqmSQj4DsR1DQEA8vFZck?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivam-clinic-ankleshwar",
@@ -6691,7 +6635,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivam+clinic/data=!4m7!3m6!1s0x3be023001064253d:0x3b70acefe60779a9!8m2!3d21.6002963!4d73.0199932!16s%2Fg%2F11m6zcfnh7!19sChIJPSVkEAAj4DsRqXkH5u-scDs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam+clinic/data=!4m7!3m6!1s0x3be023001064253d:0x3b70acefe60779a9!8m2!3d21.6002963!4d73.0199932!16s%2Fg%2F11m6zcfnh7!19sChIJPSVkEAAj4DsRqXkH5u-scDs?authuser=0&hl=en&rclk=1"
@@ -6757,11 +6701,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivam+clinic/data=!4m7!3m6!1s0x3be023001064253d:0x3b70acefe60779a9!8m2!3d21.6002963!4d73.0199932!16s%2Fg%2F11m6zcfnh7!19sChIJPSVkEAAj4DsRqXkH5u-scDs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivam-surgical-hospital-ankleshwar",
@@ -6809,7 +6752,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivam+Surgical+Hospital/data=!4m7!3m6!1s0x3be023fbeaac7851:0x2afb0a42e045a89b!8m2!3d21.6306159!4d72.9941411!16s%2Fg%2F1tdvssd5!19sChIJUXis6vsj4DsRm6hF4EIK-yo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam+Surgical+Hospital/data=!4m7!3m6!1s0x3be023fbeaac7851:0x2afb0a42e045a89b!8m2!3d21.6306159!4d72.9941411!16s%2Fg%2F1tdvssd5!19sChIJUXis6vsj4DsRm6hF4EIK-yo?authuser=0&hl=en&rclk=1"
@@ -6878,8 +6821,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivam+Surgical+Hospital/data=!4m7!3m6!1s0x3be023fbeaac7851:0x2afb0a42e045a89b!8m2!3d21.6306159!4d72.9941411!16s%2Fg%2F1tdvssd5!19sChIJUXis6vsj4DsRm6hF4EIK-yo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shraddha-dental-and-orthodontic-clinic-ankleshwar",
@@ -6928,7 +6870,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shraddha+Dental+%26+Orthodontic+Clinic/data=!4m7!3m6!1s0x3be023bd2f9d4093:0x2aa0fe94a2c9e73d!8m2!3d21.6010267!4d73.0193065!16s%2Fg%2F1q62kk3ss!19sChIJk0CdL70j4DsRPefJopT-oCo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddha+Dental+%26+Orthodontic+Clinic/data=!4m7!3m6!1s0x3be023bd2f9d4093:0x2aa0fe94a2c9e73d!8m2!3d21.6010267!4d73.0193065!16s%2Fg%2F1q62kk3ss!19sChIJk0CdL70j4DsRPefJopT-oCo?authuser=0&hl=en&rclk=1"
@@ -6997,8 +6939,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shraddha+Dental+%26+Orthodontic+Clinic/data=!4m7!3m6!1s0x3be023bd2f9d4093:0x2aa0fe94a2c9e73d!8m2!3d21.6010267!4d73.0193065!16s%2Fg%2F1q62kk3ss!19sChIJk0CdL70j4DsRPefJopT-oCo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shraddha-orthodontics-and-dental-clinic-bharuch-and-ankleshwar-bharuch",
@@ -7049,7 +6990,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shraddha+Orthodontics+%26+Dental+Clinic+%E2%80%93+Bharuch+%26+Ankleshwar/data=!4m7!3m6!1s0x3be020b53a6a670f:0x171fbe7f4e6beae5!8m2!3d21.7041569!4d72.9930211!16s%2Fg%2F11btyv6zrd!19sChIJD2dqOrUg4DsR5eprTn--Hxc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddha+Orthodontics+%26+Dental+Clinic+%E2%80%93+Bharuch+%26+Ankleshwar/data=!4m7!3m6!1s0x3be020b53a6a670f:0x171fbe7f4e6beae5!8m2!3d21.7041569!4d72.9930211!16s%2Fg%2F11btyv6zrd!19sChIJD2dqOrUg4DsR5eprTn--Hxc?authuser=0&hl=en&rclk=1"
@@ -7115,11 +7056,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shraddha+Orthodontics+%26+Dental+Clinic+%E2%80%93+Bharuch+%26+Ankleshwar/data=!4m7!3m6!1s0x3be020b53a6a670f:0x171fbe7f4e6beae5!8m2!3d21.7041569!4d72.9930211!16s%2Fg%2F11btyv6zrd!19sChIJD2dqOrUg4DsR5eprTn--Hxc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-sai-dental-clinic-ankleshwar",
@@ -7165,7 +7105,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+sai+dental+clinic/data=!4m7!3m6!1s0x3be023d85d352a71:0x3e05b88d9ea24a15!8m2!3d21.5945856!4d73.0260253!16s%2Fg%2F11q40hlgkv!19sChIJcSo1Xdgj4DsRFUqino24BT4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+sai+dental+clinic/data=!4m7!3m6!1s0x3be023d85d352a71:0x3e05b88d9ea24a15!8m2!3d21.5945856!4d73.0260253!16s%2Fg%2F11q40hlgkv!19sChIJcSo1Xdgj4DsRFUqino24BT4?authuser=0&hl=en&rclk=1"
@@ -7231,11 +7171,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+sai+dental+clinic/data=!4m7!3m6!1s0x3be023d85d352a71:0x3e05b88d9ea24a15!8m2!3d21.5945856!4d73.0260253!16s%2Fg%2F11q40hlgkv!19sChIJcSo1Xdgj4DsRFUqino24BT4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-sardar-vallabhbhai-patel-ankleshwar",
@@ -7283,7 +7222,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Sardar+Vallabhbhai+Patel/data=!4m7!3m6!1s0x3be023e690d70849:0xafaccd563fd93ef8!8m2!3d21.6265391!4d73.015268!16s%2Fg%2F1td_9415!19sChIJSQjXkOYj4DsR-D7ZP1bNrK8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Sardar+Vallabhbhai+Patel/data=!4m7!3m6!1s0x3be023e690d70849:0xafaccd563fd93ef8!8m2!3d21.6265391!4d73.015268!16s%2Fg%2F1td_9415!19sChIJSQjXkOYj4DsR-D7ZP1bNrK8?authuser=0&hl=en&rclk=1"
@@ -7352,8 +7291,7 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Sardar+Vallabhbhai+Patel/data=!4m7!3m6!1s0x3be023e690d70849:0xafaccd563fd93ef8!8m2!3d21.6265391!4d73.015268!16s%2Fg%2F1td_9415!19sChIJSQjXkOYj4DsR-D7ZP1bNrK8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreeji-clinic-ankleshwar",
@@ -7401,7 +7339,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreeji+Clinic/data=!4m7!3m6!1s0x3be023c62baa7315:0x170183bd19de6ad8!8m2!3d21.6039971!4d73.0214061!16s%2Fg%2F11smf3kf2q!19sChIJFXOqK8Yj4DsR2GreGb2DARc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreeji+Clinic/data=!4m7!3m6!1s0x3be023c62baa7315:0x170183bd19de6ad8!8m2!3d21.6039971!4d73.0214061!16s%2Fg%2F11smf3kf2q!19sChIJFXOqK8Yj4DsR2GreGb2DARc?authuser=0&hl=en&rclk=1"
@@ -7470,8 +7408,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreeji+Clinic/data=!4m7!3m6!1s0x3be023c62baa7315:0x170183bd19de6ad8!8m2!3d21.6039971!4d73.0214061!16s%2Fg%2F11smf3kf2q!19sChIJFXOqK8Yj4DsR2GreGb2DARc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-xpress-dental-clinic-ankleshwar",
@@ -7519,7 +7456,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMILE+XPRESS+DENTAL+CLINIC/data=!4m7!3m6!1s0x3be023a5faa84895:0xee620908b83162af!8m2!3d21.6327316!4d73.0058292!16s%2Fg%2F11s38lvkcb!19sChIJlUio-qUj4DsRr2IxuAgJYu4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+XPRESS+DENTAL+CLINIC/data=!4m7!3m6!1s0x3be023a5faa84895:0xee620908b83162af!8m2!3d21.6327316!4d73.0058292!16s%2Fg%2F11s38lvkcb!19sChIJlUio-qUj4DsRr2IxuAgJYu4?authuser=0&hl=en&rclk=1"
@@ -7588,8 +7525,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMILE+XPRESS+DENTAL+CLINIC/data=!4m7!3m6!1s0x3be023a5faa84895:0xee620908b83162af!8m2!3d21.6327316!4d73.0058292!16s%2Fg%2F11s38lvkcb!19sChIJlUio-qUj4DsRr2IxuAgJYu4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "soni-dental-care-and-implant-centre-ankleshwar",
@@ -7637,7 +7573,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Soni+Dental+Care+and+Implant+Centre/data=!4m7!3m6!1s0x3be0219597752e41:0x5fa5619aef4d5513!8m2!3d21.7247728!4d73.006635!16s%2Fg%2F11z1p6mqvw!19sChIJQS51l5Uh4DsRE1VN75phpV8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soni+Dental+Care+and+Implant+Centre/data=!4m7!3m6!1s0x3be0219597752e41:0x5fa5619aef4d5513!8m2!3d21.7247728!4d73.006635!16s%2Fg%2F11z1p6mqvw!19sChIJQS51l5Uh4DsRE1VN75phpV8?authuser=0&hl=en&rclk=1"
@@ -7703,11 +7639,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Soni+Dental+Care+and+Implant+Centre/data=!4m7!3m6!1s0x3be0219597752e41:0x5fa5619aef4d5513!8m2!3d21.7247728!4d73.006635!16s%2Fg%2F11z1p6mqvw!19sChIJQS51l5Uh4DsRE1VN75phpV8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "soni-dental-care-dental-clinic-ankleshwar-dentist-in-ankleshwar-ankleshwar",
@@ -7756,7 +7691,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SONI+DENTAL+CARE+%7C+Dental+Clinic+Ankleshwar+%7C+Dentist+In+Ankleshwar/data=!4m7!3m6!1s0x3be023e70c4dc605:0x414f114c3ca494a9!8m2!3d21.6340675!4d72.9932678!16s%2Fg%2F11h88sszd4!19sChIJBcZNDOcj4DsRqZSkPEwRT0E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SONI+DENTAL+CARE+%7C+Dental+Clinic+Ankleshwar+%7C+Dentist+In+Ankleshwar/data=!4m7!3m6!1s0x3be023e70c4dc605:0x414f114c3ca494a9!8m2!3d21.6340675!4d72.9932678!16s%2Fg%2F11h88sszd4!19sChIJBcZNDOcj4DsRqZSkPEwRT0E?authuser=0&hl=en&rclk=1"
@@ -7822,11 +7757,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SONI+DENTAL+CARE+%7C+Dental+Clinic+Ankleshwar+%7C+Dentist+In+Ankleshwar/data=!4m7!3m6!1s0x3be023e70c4dc605:0x414f114c3ca494a9!8m2!3d21.6340675!4d72.9932678!16s%2Fg%2F11h88sszd4!19sChIJBcZNDOcj4DsRqZSkPEwRT0E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "soni-hospital-ankleshwar",
@@ -7875,7 +7809,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Soni+Hospital/data=!4m7!3m6!1s0x3be02155337e2693:0xa0a2deb1ded533fc!8m2!3d21.6339393!4d72.9934437!16s%2Fg%2F11bt_hqbdw!19sChIJkyZ-M1Uh4DsR_DPV3rHeoqA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soni+Hospital/data=!4m7!3m6!1s0x3be02155337e2693:0xa0a2deb1ded533fc!8m2!3d21.6339393!4d72.9934437!16s%2Fg%2F11bt_hqbdw!19sChIJkyZ-M1Uh4DsR_DPV3rHeoqA?authuser=0&hl=en&rclk=1"
@@ -7944,8 +7878,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Soni+Hospital/data=!4m7!3m6!1s0x3be02155337e2693:0xa0a2deb1ded533fc!8m2!3d21.6339393!4d72.9934437!16s%2Fg%2F11bt_hqbdw!19sChIJkyZ-M1Uh4DsR_DPV3rHeoqA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sterling-dental-clinic-ankleshwar",
@@ -7993,7 +7926,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/STERLING+DENTAL+CLINIC/data=!4m7!3m6!1s0x3be023ff1eb8728f:0x2a64c3ad4ce4849e!8m2!3d21.6284855!4d72.9959326!16s%2Fg%2F11dxl0pwx7!19sChIJj3K4Hv8j4DsRnoTkTK3DZCo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STERLING+DENTAL+CLINIC/data=!4m7!3m6!1s0x3be023ff1eb8728f:0x2a64c3ad4ce4849e!8m2!3d21.6284855!4d72.9959326!16s%2Fg%2F11dxl0pwx7!19sChIJj3K4Hv8j4DsRnoTkTK3DZCo?authuser=0&hl=en&rclk=1"
@@ -8059,11 +7992,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/STERLING+DENTAL+CLINIC/data=!4m7!3m6!1s0x3be023ff1eb8728f:0x2a64c3ad4ce4849e!8m2!3d21.6284855!4d72.9959326!16s%2Fg%2F11dxl0pwx7!19sChIJj3K4Hv8j4DsRnoTkTK3DZCo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thadhani-eye-hospital-ankleshwar",
@@ -8111,7 +8043,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/thadhani+eye+hospital/data=!4m7!3m6!1s0x3be023fbeaac7851:0xacbfee3a42395b13!8m2!3d21.6303995!4d72.994033!16s%2Fg%2F1td7rnkg!19sChIJUXis6vsj4DsRE1s5Qjruv6w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/thadhani+eye+hospital/data=!4m7!3m6!1s0x3be023fbeaac7851:0xacbfee3a42395b13!8m2!3d21.6303995!4d72.994033!16s%2Fg%2F1td7rnkg!19sChIJUXis6vsj4DsRE1s5Qjruv6w?authuser=0&hl=en&rclk=1"
@@ -8180,8 +8112,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/thadhani+eye+hospital/data=!4m7!3m6!1s0x3be023fbeaac7851:0xacbfee3a42395b13!8m2!3d21.6303995!4d72.994033!16s%2Fg%2F1td7rnkg!19sChIJUXis6vsj4DsRE1s5Qjruv6w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "varia-hospital-and-icu-pvt-ltd-hypertension-thyroid-diabetes-asthma-and-heart-care-bharuch",
@@ -8232,7 +8163,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Varia+Hospital+%26+ICU+Pvt.+Ltd.+-+Hypertension,+Thyroid,+Diabetes,+Asthma+%26+Heart+Care/data=!4m7!3m6!1s0x3be020b539ff9089:0x9f9cda23a447e326!8m2!3d21.7025342!4d72.9947269!16s%2Fg%2F1q6bc1jgb!19sChIJiZD_ObUg4DsRJuNHpCPanJ8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varia+Hospital+%26+ICU+Pvt.+Ltd.+-+Hypertension,+Thyroid,+Diabetes,+Asthma+%26+Heart+Care/data=!4m7!3m6!1s0x3be020b539ff9089:0x9f9cda23a447e326!8m2!3d21.7025342!4d72.9947269!16s%2Fg%2F1q6bc1jgb!19sChIJiZD_ObUg4DsRJuNHpCPanJ8?authuser=0&hl=en&rclk=1"
@@ -8301,8 +8232,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Varia+Hospital+%26+ICU+Pvt.+Ltd.+-+Hypertension,+Thyroid,+Diabetes,+Asthma+%26+Heart+Care/data=!4m7!3m6!1s0x3be020b539ff9089:0x9f9cda23a447e326!8m2!3d21.7025342!4d72.9947269!16s%2Fg%2F1q6bc1jgb!19sChIJiZD_ObUg4DsRJuNHpCPanJ8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vatsalyam-kids-and-family-dental-clinic-bharuch",
@@ -8351,7 +8281,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vatsalyam+Kids+and+Family+Dental+Clinic/data=!4m7!3m6!1s0x3be02334718a81a9:0xd34c950b3dddee55!8m2!3d21.6035285!4d73.018553!16s%2Fg%2F11rckzj4fn!19sChIJqYGKcTQj4DsRVe7dPQuVTNM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vatsalyam+Kids+and+Family+Dental+Clinic/data=!4m7!3m6!1s0x3be02334718a81a9:0xd34c950b3dddee55!8m2!3d21.6035285!4d73.018553!16s%2Fg%2F11rckzj4fn!19sChIJqYGKcTQj4DsRVe7dPQuVTNM?authuser=0&hl=en&rclk=1"
@@ -8417,11 +8347,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vatsalyam+Kids+and+Family+Dental+Clinic/data=!4m7!3m6!1s0x3be02334718a81a9:0xd34c950b3dddee55!8m2!3d21.6035285!4d73.018553!16s%2Fg%2F11rckzj4fn!19sChIJqYGKcTQj4DsRVe7dPQuVTNM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vismay-dental-clinic-ankleshwar",
@@ -8470,7 +8399,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VISMAY+DENTAL+CLINIC/data=!4m7!3m6!1s0x3be02394a14fd509:0x8eda5d0e2ee2f12f!8m2!3d21.6070039!4d73.0246391!16s%2Fg%2F1tdhcgxc!19sChIJCdVPoZQj4DsRL_HiLg5d2o4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VISMAY+DENTAL+CLINIC/data=!4m7!3m6!1s0x3be02394a14fd509:0x8eda5d0e2ee2f12f!8m2!3d21.6070039!4d73.0246391!16s%2Fg%2F1tdhcgxc!19sChIJCdVPoZQj4DsRL_HiLg5d2o4?authuser=0&hl=en&rclk=1"
@@ -8539,8 +8468,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VISMAY+DENTAL+CLINIC/data=!4m7!3m6!1s0x3be02394a14fd509:0x8eda5d0e2ee2f12f!8m2!3d21.6070039!4d73.0246391!16s%2Fg%2F1tdhcgxc!19sChIJCdVPoZQj4DsRL_HiLg5d2o4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wardwizard-divine-hospital-bharuch",
@@ -8588,7 +8516,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Wardwizard+Divine+Hospital/data=!4m7!3m6!1s0x3be02735f87ce715:0xead0724029ca9bfe!8m2!3d21.7009271!4d72.9879593!16s%2Fg%2F11bzsr8n_z!19sChIJFed8-DUn4DsR_pvKKUBy0Oo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wardwizard+Divine+Hospital/data=!4m7!3m6!1s0x3be02735f87ce715:0xead0724029ca9bfe!8m2!3d21.7009271!4d72.9879593!16s%2Fg%2F11bzsr8n_z!19sChIJFed8-DUn4DsR_pvKKUBy0Oo?authuser=0&hl=en&rclk=1"
@@ -8657,8 +8585,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Wardwizard+Divine+Hospital/data=!4m7!3m6!1s0x3be02735f87ce715:0xead0724029ca9bfe!8m2!3d21.7009271!4d72.9879593!16s%2Fg%2F11bzsr8n_z!19sChIJFed8-DUn4DsR_pvKKUBy0Oo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yashaswi-dental-care-dr-jigar-hajariwala-speciality-in-full-mouth-fixed-bridges-since-2006-ankleshwar",
@@ -8707,7 +8634,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/YASHASWI+DENTAL+CARE+%28DR+JIGAR+HAJARIWALA%29+SPECIALITY+IN+FULL+MOUTH+FIXED+BRIDGES%28+SINCE+2006%29/data=!4m7!3m6!1s0x3be0234768572a67:0xe39610b2724b1d7e!8m2!3d21.6069107!4d73.0248583!16s%2Fg%2F11khvtmqcr!19sChIJZypXaEcj4DsRfh1LcrIQluM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/YASHASWI+DENTAL+CARE+%28DR+JIGAR+HAJARIWALA%29+SPECIALITY+IN+FULL+MOUTH+FIXED+BRIDGES%28+SINCE+2006%29/data=!4m7!3m6!1s0x3be0234768572a67:0xe39610b2724b1d7e!8m2!3d21.6069107!4d73.0248583!16s%2Fg%2F11khvtmqcr!19sChIJZypXaEcj4DsRfh1LcrIQluM?authuser=0&hl=en&rclk=1"
@@ -8776,8 +8703,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/YASHASWI+DENTAL+CARE+%28DR+JIGAR+HAJARIWALA%29+SPECIALITY+IN+FULL+MOUTH+FIXED+BRIDGES%28+SINCE+2006%29/data=!4m7!3m6!1s0x3be0234768572a67:0xe39610b2724b1d7e!8m2!3d21.6069107!4d73.0248583!16s%2Fg%2F11khvtmqcr!19sChIJZypXaEcj4DsRfh1LcrIQluM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "best-vaccination-centre-pediatric-emergency-neonatology-well-baby-clinic-ankleshwar-ankleshwar",
@@ -8828,7 +8754,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A9+%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A7%F0%9D%97%94+%F0%9D%97%96%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%9F%F0%9D%97%97%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A1+%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F-+Best+Vaccination+Centre%2FPediatric+Emergency%2FNeonatology%2FWell+Baby+Clinic+Ankleshwar/data=!4m7!3m6!1s0x3be02365fa374357:0xeef698f18f4ad79c!8m2!3d21.5991765!4d73.0213382!16s%2Fg%2F11xlb1s0wv!19sChIJV0M3-mUj4DsRnNdKj_GY9u4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A9+%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A7%F0%9D%97%94+%F0%9D%97%96%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%9F%F0%9D%97%97%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A1+%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F-+Best+Vaccination+Centre%2FPediatric+Emergency%2FNeonatology%2FWell+Baby+Clinic+Ankleshwar/data=!4m7!3m6!1s0x3be02365fa374357:0xeef698f18f4ad79c!8m2!3d21.5991765!4d73.0213382!16s%2Fg%2F11xlb1s0wv!19sChIJV0M3-mUj4DsRnNdKj_GY9u4?authuser=0&hl=en&rclk=1"
@@ -8897,7 +8823,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A9+%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A7%F0%9D%97%94+%F0%9D%97%96%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%9F%F0%9D%97%97%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A1+%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F-+Best+Vaccination+Centre%2FPediatric+Emergency%2FNeonatology%2FWell+Baby+Clinic+Ankleshwar/data=!4m7!3m6!1s0x3be02365fa374357:0xeef698f18f4ad79c!8m2!3d21.5991765!4d73.0213382!16s%2Fg%2F11xlb1s0wv!19sChIJV0M3-mUj4DsRnNdKj_GY9u4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

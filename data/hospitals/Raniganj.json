@@ -46,7 +46,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A+Plus+Polyclinic/@23.6894614,86.9585511,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fe31052054d:0xa984a9ff6d138d55!8m2!3d23.6894614!4d86.9585511!16s%2Fg%2F11x0zgtrbq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+Plus+Polyclinic/@23.6894614,86.9585511,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fe31052054d:0xa984a9ff6d138d55!8m2!3d23.6894614!4d86.9585511!16s%2Fg%2F11x0zgtrbq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -112,11 +112,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A+Plus+Polyclinic/@23.6894614,86.9585511,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fe31052054d:0xa984a9ff6d138d55!8m2!3d23.6894614!4d86.9585511!16s%2Fg%2F11x0zgtrbq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aaradhya-health-hub-unit-2-asansol",
@@ -165,7 +164,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aaradhya+Health+Hub+Unit-2/@23.6821678,86.9576721,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f87b3f77cdb:0x83fddd85dbef3e73!8m2!3d23.6821678!4d86.9576721!16s%2Fg%2F11y9qnvs20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aaradhya+Health+Hub+Unit-2/@23.6821678,86.9576721,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f87b3f77cdb:0x83fddd85dbef3e73!8m2!3d23.6821678!4d86.9576721!16s%2Fg%2F11y9qnvs20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -234,8 +233,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aaradhya+Health+Hub+Unit-2/@23.6821678,86.9576721,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f87b3f77cdb:0x83fddd85dbef3e73!8m2!3d23.6821678!4d86.9576721!16s%2Fg%2F11y9qnvs20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "acharjee-health-clinic-and-pharmacy-asansol",
@@ -284,7 +282,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Acharjee+Health+Clinic+and+Pharmacy/@23.6767734,86.968827,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71edb0c8dd45f:0xf2eb8221e5290fda!8m2!3d23.6767734!4d86.968827!16s%2Fg%2F11c2r14gfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Acharjee+Health+Clinic+and+Pharmacy/@23.6767734,86.968827,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71edb0c8dd45f:0xf2eb8221e5290fda!8m2!3d23.6767734!4d86.968827!16s%2Fg%2F11c2r14gfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -353,8 +351,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Acharjee+Health+Clinic+and+Pharmacy/@23.6767734,86.968827,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71edb0c8dd45f:0xf2eb8221e5290fda!8m2!3d23.6767734!4d86.968827!16s%2Fg%2F11c2r14gfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advait-clinic-raniganj",
@@ -400,7 +397,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Advait+Clinic/@23.6251077,87.1952046,17z/data=!3m1!4b1!4m6!3m5!1s0x39f713521bb738d9:0x301cb349d7525265!8m2!3d23.6251077!4d87.1952046!16s%2Fg%2F11wqzcdnyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advait+Clinic/@23.6251077,87.1952046,17z/data=!3m1!4b1!4m6!3m5!1s0x39f713521bb738d9:0x301cb349d7525265!8m2!3d23.6251077!4d87.1952046!16s%2Fg%2F11wqzcdnyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -466,11 +463,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Advait+Clinic/@23.6251077,87.1952046,17z/data=!3m1!4b1!4m6!3m5!1s0x39f713521bb738d9:0x301cb349d7525265!8m2!3d23.6251077!4d87.1952046!16s%2Fg%2F11wqzcdnyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advanced-dental-clinic-raniganj",
@@ -518,7 +514,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Advanced+Dental+Clinic/@23.6310167,87.1175349,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711340daaaaa9:0x382f080cce20bfce!8m2!3d23.6310167!4d87.1175349!16s%2Fg%2F11c60jqpnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Dental+Clinic/@23.6310167,87.1175349,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711340daaaaa9:0x382f080cce20bfce!8m2!3d23.6310167!4d87.1175349!16s%2Fg%2F11c60jqpnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -584,11 +580,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Advanced+Dental+Clinic/@23.6310167,87.1175349,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711340daaaaa9:0x382f080cce20bfce!8m2!3d23.6310167!4d87.1175349!16s%2Fg%2F11c60jqpnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akruti-aesthetics-and-plastic-surgery-clinic-durgapur",
@@ -637,7 +632,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akruti+Aesthetics+%26+Plastic+Surgery+Clinic/@23.5445891,87.3022692,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77116f0d41349:0x8366b28f98d88376!8m2!3d23.5445891!4d87.3022692!16s%2Fg%2F11rvdn1fkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akruti+Aesthetics+%26+Plastic+Surgery+Clinic/@23.5445891,87.3022692,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77116f0d41349:0x8366b28f98d88376!8m2!3d23.5445891!4d87.3022692!16s%2Fg%2F11rvdn1fkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -703,11 +698,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akruti+Aesthetics+%26+Plastic+Surgery+Clinic/@23.5445891,87.3022692,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77116f0d41349:0x8366b28f98d88376!8m2!3d23.5445891!4d87.3022692!16s%2Fg%2F11rvdn1fkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anandalok-hospital-kolkata",
@@ -756,7 +750,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anandalok+Hospital/@22.5847612,88.4230856,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275bfaedc1f6b:0x110d331a27340720!8m2!3d22.5847612!4d88.4230856!16s%2Fg%2F11f3_2n7vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anandalok+Hospital/@22.5847612,88.4230856,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275bfaedc1f6b:0x110d331a27340720!8m2!3d22.5847612!4d88.4230856!16s%2Fg%2F11f3_2n7vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -825,8 +819,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anandalok+Hospital/@22.5847612,88.4230856,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275bfaedc1f6b:0x110d331a27340720!8m2!3d22.5847612!4d88.4230856!16s%2Fg%2F11f3_2n7vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anandalok-hospital-raniganj-raniganj",
@@ -875,7 +868,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anandalok+Hospital,+Raniganj/@23.6333027,87.1141339,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711338d8f8501:0xcc6a8ed322de30da!8m2!3d23.6333027!4d87.1141339!16s%2Fg%2F1tdpdl_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anandalok+Hospital,+Raniganj/@23.6333027,87.1141339,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711338d8f8501:0xcc6a8ed322de30da!8m2!3d23.6333027!4d87.1141339!16s%2Fg%2F1tdpdl_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -944,8 +937,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anandalok+Hospital,+Raniganj/@23.6333027,87.1141339,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711338d8f8501:0xcc6a8ed322de30da!8m2!3d23.6333027!4d87.1141339!16s%2Fg%2F1tdpdl_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "animals-care-veterinary-clinic-raniganj",
@@ -994,7 +986,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Animals+Care+Veterinary+Clinic/@23.6091096,87.1144784,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113ba70f4c3f:0x73d9c11089c0329a!8m2!3d23.6091096!4d87.1144784!16s%2Fg%2F11fjs_dwkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Animals+Care+Veterinary+Clinic/@23.6091096,87.1144784,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113ba70f4c3f:0x73d9c11089c0329a!8m2!3d23.6091096!4d87.1144784!16s%2Fg%2F11fjs_dwkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1063,8 +1055,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Animals+Care+Veterinary+Clinic/@23.6091096,87.1144784,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113ba70f4c3f:0x73d9c11089c0329a!8m2!3d23.6091096!4d87.1144784!16s%2Fg%2F11fjs_dwkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anubikhan-diagnostic-raniganj",
@@ -1114,7 +1105,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anubikhan+Diagnostic/@23.6305955,87.1160205,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71130942252cd:0x4c964651034f01a7!8m2!3d23.6305955!4d87.1160205!16s%2Fg%2F11cs3zlrsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anubikhan+Diagnostic/@23.6305955,87.1160205,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71130942252cd:0x4c964651034f01a7!8m2!3d23.6305955!4d87.1160205!16s%2Fg%2F11cs3zlrsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1180,11 +1171,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anubikhan+Diagnostic/@23.6305955,87.1160205,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71130942252cd:0x4c964651034f01a7!8m2!3d23.6305955!4d87.1160205!16s%2Fg%2F11cs3zlrsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-24-7-lab-test-near-me-azad-nagar-raniganj-home-collection-purba-bardhaman-raniganj",
@@ -1233,7 +1223,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+Azad+Nagar+Raniganj+%7C+Home+Collection+%7C+Purba+Bardhaman/@23.6142354,87.1311194,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711d9f9216425:0x57f5655f144c53ae!8m2!3d23.6142354!4d87.1311194!16s%2Fg%2F11x63qxk3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+Azad+Nagar+Raniganj+%7C+Home+Collection+%7C+Purba+Bardhaman/@23.6142354,87.1311194,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711d9f9216425:0x57f5655f144c53ae!8m2!3d23.6142354!4d87.1311194!16s%2Fg%2F11x63qxk3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1299,11 +1289,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+Azad+Nagar+Raniganj+%7C+Home+Collection+%7C+Purba+Bardhaman/@23.6142354,87.1311194,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711d9f9216425:0x57f5655f144c53ae!8m2!3d23.6142354!4d87.1311194!16s%2Fg%2F11x63qxk3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-24-7-lab-test-near-me-mg-road-raniganj-home-collection-purba-bardhaman-raniganj",
@@ -1352,7 +1341,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+MG+Road+Raniganj+%7C+Home+Collection+%7C+Purba+Bardhaman/@23.6087988,87.1160602,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7112e3f985bd5:0xa0647367f6774bb7!8m2!3d23.6087988!4d87.1160602!16s%2Fg%2F11x6qx3b_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+MG+Road+Raniganj+%7C+Home+Collection+%7C+Purba+Bardhaman/@23.6087988,87.1160602,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7112e3f985bd5:0xa0647367f6774bb7!8m2!3d23.6087988!4d87.1160602!16s%2Fg%2F11x6qx3b_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1418,11 +1407,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+MG+Road+Raniganj+%7C+Home+Collection+%7C+Purba+Bardhaman/@23.6087988,87.1160602,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7112e3f985bd5:0xa0647367f6774bb7!8m2!3d23.6087988!4d87.1160602!16s%2Fg%2F11x6qx3b_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-24-7-lab-test-near-me-raniganj-marwari-hospital-home-collection-purba-bardhaman-paschim-purba",
@@ -1471,7 +1459,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+Raniganj+Marwari+Hospital+%7C+Home+Collection+%7C+Purba+Bardhaman/@22.57265,88.3639,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02771cff57a777:0x807d8d01768e7a1a!8m2!3d22.57265!4d88.3639!16s%2Fg%2F11m7838xf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+Raniganj+Marwari+Hospital+%7C+Home+Collection+%7C+Purba+Bardhaman/@22.57265,88.3639,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02771cff57a777:0x807d8d01768e7a1a!8m2!3d22.57265!4d88.3639!16s%2Fg%2F11m7838xf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1537,11 +1525,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+Near+Me+%7C+Raniganj+Marwari+Hospital+%7C+Home+Collection+%7C+Purba+Bardhaman/@22.57265,88.3639,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02771cff57a777:0x807d8d01768e7a1a!8m2!3d22.57265!4d88.3639!16s%2Fg%2F11m7838xf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-proton-therapy-in-asansol-asansol",
@@ -1590,7 +1577,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Asansol/@23.6844,86.9535,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71faed110bded:0xfe216fd4d4923c56!8m2!3d23.6844!4d86.9535!16s%2Fg%2F11xtw_s26n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Asansol/@23.6844,86.9535,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71faed110bded:0xfe216fd4d4923c56!8m2!3d23.6844!4d86.9535!16s%2Fg%2F11xtw_s26n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1656,11 +1643,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Asansol/@23.6844,86.9535,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71faed110bded:0xfe216fd4d4923c56!8m2!3d23.6844!4d86.9535!16s%2Fg%2F11xtw_s26n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asansol-dental-and-maxillofacial-clinic-best-dental-clinic-asansol",
@@ -1710,7 +1696,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asansol+Dental+%26+Maxillofacial+Clinic+-+Best+Dental+Clinic/@23.6945862,86.9514793,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f05213e1be1:0x49e6c2b59c9ce438!8m2!3d23.6945862!4d86.9514793!16s%2Fg%2F1q69y5fh2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asansol+Dental+%26+Maxillofacial+Clinic+-+Best+Dental+Clinic/@23.6945862,86.9514793,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f05213e1be1:0x49e6c2b59c9ce438!8m2!3d23.6945862!4d86.9514793!16s%2Fg%2F1q69y5fh2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1779,8 +1765,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asansol+Dental+%26+Maxillofacial+Clinic+-+Best+Dental+Clinic/@23.6945862,86.9514793,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f05213e1be1:0x49e6c2b59c9ce438!8m2!3d23.6945862!4d86.9514793!16s%2Fg%2F1q69y5fh2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asansol-district-hospital-asansol",
@@ -1828,7 +1813,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asansol+District+Hospital/@23.6762026,86.9737198,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f1d4fdbe3f7:0x42aba748c729a802!8m2!3d23.6762026!4d86.9737198!16s%2Fg%2F1wc46d9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asansol+District+Hospital/@23.6762026,86.9737198,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f1d4fdbe3f7:0x42aba748c729a802!8m2!3d23.6762026!4d86.9737198!16s%2Fg%2F1wc46d9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1897,8 +1882,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asansol+District+Hospital/@23.6762026,86.9737198,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f1d4fdbe3f7:0x42aba748c729a802!8m2!3d23.6762026!4d86.9737198!16s%2Fg%2F1wc46d9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asansol-eye-hospital-asansol",
@@ -1947,7 +1931,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asansol+eye+hospital/@23.6769356,86.9944708,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71924998a4c3d:0x7c87345094015e3b!8m2!3d23.6769356!4d86.9944708!16s%2Fg%2F11rnqhxd03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asansol+eye+hospital/@23.6769356,86.9944708,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71924998a4c3d:0x7c87345094015e3b!8m2!3d23.6769356!4d86.9944708!16s%2Fg%2F11rnqhxd03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2013,11 +1997,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asansol+eye+hospital/@23.6769356,86.9944708,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71924998a4c3d:0x7c87345094015e3b!8m2!3d23.6769356!4d86.9944708!16s%2Fg%2F11rnqhxd03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asansol-eye-hospital-clinic-best-eye-clinic-in-asansol-cataract-and-phaco-surgery-eye-hospital-in-asansol-asansol",
@@ -2066,7 +2049,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asansol+eye+hospital+clinic-Best+Eye+Clinic+In+Asansol%7CCataract+And+Phaco+Surgery%7CEye+Hospital+In+Asansol/@23.6810281,86.9909603,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7194bbbb4ce01:0x56f36afad9a01362!8m2!3d23.6810281!4d86.9909603!16s%2Fg%2F11s0wh7sk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asansol+eye+hospital+clinic-Best+Eye+Clinic+In+Asansol%7CCataract+And+Phaco+Surgery%7CEye+Hospital+In+Asansol/@23.6810281,86.9909603,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7194bbbb4ce01:0x56f36afad9a01362!8m2!3d23.6810281!4d86.9909603!16s%2Fg%2F11s0wh7sk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2135,8 +2118,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asansol+eye+hospital+clinic-Best+Eye+Clinic+In+Asansol%7CCataract+And+Phaco+Surgery%7CEye+Hospital+In+Asansol/@23.6810281,86.9909603,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7194bbbb4ce01:0x56f36afad9a01362!8m2!3d23.6810281!4d86.9909603!16s%2Fg%2F11s0wh7sk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asian-centre-for-urology-top-urology-and-minimally-invasive-surgery-centre-in-dhanbad-dhanbad",
@@ -2184,7 +2166,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asian+Centre+for+Urology+-+Top+Urology+%26+Minimally+Invasive+Surgery+Centre+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd2a2d59aa8d:0x1ecd55e50011136!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11yw2j4_07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Centre+for+Urology+-+Top+Urology+%26+Minimally+Invasive+Surgery+Centre+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd2a2d59aa8d:0x1ecd55e50011136!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11yw2j4_07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2250,11 +2232,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asian+Centre+for+Urology+-+Top+Urology+%26+Minimally+Invasive+Surgery+Centre+in+Dhanbad/@23.8060701,86.4310746,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6bd2a2d59aa8d:0x1ecd55e50011136!8m2!3d23.8060701!4d86.4310746!16s%2Fg%2F11yw2j4_07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "azmi-clinic-raniganj",
@@ -2300,7 +2281,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AZMI+CLINIC/@23.6148644,87.1340874,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711664d4025ad:0xb9e93023a31362fd!8m2!3d23.6148644!4d87.1340874!16s%2Fg%2F11mrzzktrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AZMI+CLINIC/@23.6148644,87.1340874,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711664d4025ad:0xb9e93023a31362fd!8m2!3d23.6148644!4d87.1340874!16s%2Fg%2F11mrzzktrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2366,11 +2347,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AZMI+CLINIC/@23.6148644,87.1340874,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711664d4025ad:0xb9e93023a31362fd!8m2!3d23.6148644!4d87.1340874!16s%2Fg%2F11mrzzktrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "b-n-agarwal-memorial-hospital-raniganj",
@@ -2418,7 +2398,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/B+N+Agarwal+Memorial+Hospital/@23.6193178,87.1140611,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113d1477b7f1:0xd72b96a01fb430eb!8m2!3d23.6193178!4d87.1140611!16s%2Fg%2F1tjddlsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B+N+Agarwal+Memorial+Hospital/@23.6193178,87.1140611,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113d1477b7f1:0xd72b96a01fb430eb!8m2!3d23.6193178!4d87.1140611!16s%2Fg%2F1tjddlsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2487,8 +2467,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/B+N+Agarwal+Memorial+Hospital/@23.6193178,87.1140611,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113d1477b7f1:0xd72b96a01fb430eb!8m2!3d23.6193178!4d87.1140611!16s%2Fg%2F1tjddlsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "benoy-chowdhury-memorial-health-and-research-institute-bcmhri-hospital-raniganj",
@@ -2536,7 +2515,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BENOY+CHOWDHURY+MEMORIAL+HEALTH+AND+RESEARCH+INSTITUTE+(BCMHRI+HOSPITAL)/@23.6164793,87.1374999,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113b1ba3f33f:0xcc5e91926bbecf8!8m2!3d23.6164793!4d87.1374999!16s%2Fg%2F11txk2bd0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BENOY+CHOWDHURY+MEMORIAL+HEALTH+AND+RESEARCH+INSTITUTE+(BCMHRI+HOSPITAL)/@23.6164793,87.1374999,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113b1ba3f33f:0xcc5e91926bbecf8!8m2!3d23.6164793!4d87.1374999!16s%2Fg%2F11txk2bd0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2605,8 +2584,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BENOY+CHOWDHURY+MEMORIAL+HEALTH+AND+RESEARCH+INSTITUTE+(BCMHRI+HOSPITAL)/@23.6164793,87.1374999,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113b1ba3f33f:0xcc5e91926bbecf8!8m2!3d23.6164793!4d87.1374999!16s%2Fg%2F11txk2bd0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bless-hospital-asansol",
@@ -2655,7 +2633,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BLESS+HOSPITAL/@23.7105061,86.9620429,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fa1f430976f:0xf4043fde6ed0cdba!8m2!3d23.7105061!4d86.9620429!16s%2Fg%2F11t7fbvqzk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BLESS+HOSPITAL/@23.7105061,86.9620429,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fa1f430976f:0xf4043fde6ed0cdba!8m2!3d23.7105061!4d86.9620429!16s%2Fg%2F11t7fbvqzk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2724,8 +2702,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BLESS+HOSPITAL/@23.7105061,86.9620429,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fa1f430976f:0xf4043fde6ed0cdba!8m2!3d23.7105061!4d86.9620429!16s%2Fg%2F11t7fbvqzk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "confidental-dental-clinic-raniganj",
@@ -2773,7 +2750,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Confidental+Dental+Clinic/@23.6071021,87.1149952,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711104e567957:0x1c5d50b203235471!8m2!3d23.6071021!4d87.1149952!16s%2Fg%2F11hbvb29xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Confidental+Dental+Clinic/@23.6071021,87.1149952,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711104e567957:0x1c5d50b203235471!8m2!3d23.6071021!4d87.1149952!16s%2Fg%2F11hbvb29xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2842,8 +2819,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Confidental+Dental+Clinic/@23.6071021,87.1149952,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711104e567957:0x1c5d50b203235471!8m2!3d23.6071021!4d87.1149952!16s%2Fg%2F11hbvb29xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmodent-dental-and-oral-clinic-raniganj",
@@ -2891,7 +2867,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cosmodent+Dental+and+Oral+Clinic/@23.6200513,87.1162825,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7115ff8e6ef13:0xc68b34ed080acb6a!8m2!3d23.6200513!4d87.1162825!16s%2Fg%2F11gtg8jp9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmodent+Dental+and+Oral+Clinic/@23.6200513,87.1162825,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7115ff8e6ef13:0xc68b34ed080acb6a!8m2!3d23.6200513!4d87.1162825!16s%2Fg%2F11gtg8jp9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2960,8 +2936,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cosmodent+Dental+and+Oral+Clinic/@23.6200513,87.1162825,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7115ff8e6ef13:0xc68b34ed080acb6a!8m2!3d23.6200513!4d87.1162825!16s%2Fg%2F11gtg8jp9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentcare-dental-clinic-raniganj",
@@ -3011,7 +2986,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DENTCARE+Dental+clinic/@23.6365871,87.1156928,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7112d388b2321:0xd78c9d8cf1e8e894!8m2!3d23.6365871!4d87.1156928!16s%2Fg%2F11lnngj49k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTCARE+Dental+clinic/@23.6365871,87.1156928,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7112d388b2321:0xd78c9d8cf1e8e894!8m2!3d23.6365871!4d87.1156928!16s%2Fg%2F11lnngj49k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3080,8 +3055,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DENTCARE+Dental+clinic/@23.6365871,87.1156928,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7112d388b2321:0xd78c9d8cf1e8e894!8m2!3d23.6365871!4d87.1156928!16s%2Fg%2F11lnngj49k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "desai-kidney-care-centre-asansol",
@@ -3130,7 +3104,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Desai+Kidney+Care+Centre/@23.6872163,86.9733219,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f28112dc85f:0xbb80146cfec0e2b!8m2!3d23.6872163!4d86.9733219!16s%2Fg%2F1tj29dz8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Desai+Kidney+Care+Centre/@23.6872163,86.9733219,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f28112dc85f:0xbb80146cfec0e2b!8m2!3d23.6872163!4d86.9733219!16s%2Fg%2F1tj29dz8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3199,8 +3173,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Desai+Kidney+Care+Centre/@23.6872163,86.9733219,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f28112dc85f:0xbb80146cfec0e2b!8m2!3d23.6872163!4d86.9733219!16s%2Fg%2F1tj29dz8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dutta-optics-exclusive-at-sisubagan-more-raniganj-raniganj",
@@ -3250,7 +3223,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dutta+Optics+Exclusive+at+sisubagan+more+Raniganj/@23.6233333,87.1141298,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711e372114403:0x73a4fb81d893a968!8m2!3d23.6233333!4d87.1141298!16s%2Fg%2F11fmrpjr9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dutta+Optics+Exclusive+at+sisubagan+more+Raniganj/@23.6233333,87.1141298,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711e372114403:0x73a4fb81d893a968!8m2!3d23.6233333!4d87.1141298!16s%2Fg%2F11fmrpjr9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3319,8 +3292,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dutta+Optics+Exclusive+at+sisubagan+more+Raniganj/@23.6233333,87.1141298,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711e372114403:0x73a4fb81d893a968!8m2!3d23.6233333!4d87.1141298!16s%2Fg%2F11fmrpjr9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-diagnostics-and-health-care-raniganj",
@@ -3369,7 +3341,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Global+Diagnostics+%26+Health+Care/@23.6293732,87.1147907,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711ee161405e7:0x737297638ec3ff2!8m2!3d23.6293732!4d87.1147907!16s%2Fg%2F11f67bmmq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Diagnostics+%26+Health+Care/@23.6293732,87.1147907,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711ee161405e7:0x737297638ec3ff2!8m2!3d23.6293732!4d87.1147907!16s%2Fg%2F11f67bmmq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3438,8 +3410,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Global+Diagnostics+%26+Health+Care/@23.6293732,87.1147907,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711ee161405e7:0x737297638ec3ff2!8m2!3d23.6293732!4d87.1147907!16s%2Fg%2F11f67bmmq_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "health-aid-durgapur",
@@ -3489,7 +3460,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Health+Aid/@23.5860052,87.2717881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d48c8296301:0x1bc5e512381c2059!8m2!3d23.5860052!4d87.2717881!16s%2Fg%2F11v3xl6xpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Health+Aid/@23.5860052,87.2717881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d48c8296301:0x1bc5e512381c2059!8m2!3d23.5860052!4d87.2717881!16s%2Fg%2F11v3xl6xpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3555,11 +3526,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Health+Aid/@23.5860052,87.2717881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f76d48c8296301:0x1bc5e512381c2059!8m2!3d23.5860052!4d87.2717881!16s%2Fg%2F11v3xl6xpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healthworld-hospital-clinic-raniganj-raniganj",
@@ -3607,7 +3577,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Healthworld+Hospital+Clinic+Raniganj/@23.6306477,87.1148821,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711f65340bbe9:0x22fbe8de8b39bd3b!8m2!3d23.6306477!4d87.1148821!16s%2Fg%2F11wgl32l09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthworld+Hospital+Clinic+Raniganj/@23.6306477,87.1148821,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711f65340bbe9:0x22fbe8de8b39bd3b!8m2!3d23.6306477!4d87.1148821!16s%2Fg%2F11wgl32l09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3676,8 +3646,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Healthworld+Hospital+Clinic+Raniganj/@23.6306477,87.1148821,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711f65340bbe9:0x22fbe8de8b39bd3b!8m2!3d23.6306477!4d87.1148821!16s%2Fg%2F11wgl32l09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healthworld-hospitals-durgapur",
@@ -3726,7 +3695,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Healthworld+Hospitals/@23.5399176,87.2891688,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77378b9066567:0x5cf72286bd1d6912!8m2!3d23.5399176!4d87.2891688!16s%2Fg%2F11dxd__bxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthworld+Hospitals/@23.5399176,87.2891688,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77378b9066567:0x5cf72286bd1d6912!8m2!3d23.5399176!4d87.2891688!16s%2Fg%2F11dxd__bxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3795,8 +3764,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Healthworld+Hospitals/@23.5399176,87.2891688,17z/data=!3m1!4b1!4m6!3m5!1s0x39f77378b9066567:0x5cf72286bd1d6912!8m2!3d23.5399176!4d87.2891688!16s%2Fg%2F11dxd__bxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "healthworld-hospitals-asansol-asansol",
@@ -3845,7 +3813,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Healthworld+Hospitals,+Asansol/@23.7042344,86.9480834,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f004859b96d:0xa27f74873343a71e!8m2!3d23.7042344!4d86.9480834!16s%2Fg%2F11vwhnq2b9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthworld+Hospitals,+Asansol/@23.7042344,86.9480834,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f004859b96d:0xa27f74873343a71e!8m2!3d23.7042344!4d86.9480834!16s%2Fg%2F11vwhnq2b9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3911,11 +3879,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Healthworld+Hospitals,+Asansol/@23.7042344,86.9480834,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f004859b96d:0xa27f74873343a71e!8m2!3d23.7042344!4d86.9480834!16s%2Fg%2F11vwhnq2b9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "heart-care-clinic-asansol",
@@ -3962,7 +3929,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Heart+Care+Clinic/@23.695933,86.952169,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f05346b7c3f:0x2bad7762ef19d252!8m2!3d23.695933!4d86.952169!16s%2Fg%2F11sbr0tpwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heart+Care+Clinic/@23.695933,86.952169,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f05346b7c3f:0x2bad7762ef19d252!8m2!3d23.695933!4d86.952169!16s%2Fg%2F11sbr0tpwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4028,11 +3995,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Heart+Care+Clinic/@23.695933,86.952169,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f05346b7c3f:0x2bad7762ef19d252!8m2!3d23.695933!4d86.952169!16s%2Fg%2F11sbr0tpwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hill-view-hospital-asansol",
@@ -4081,7 +4047,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hill+View+Hospital/@23.6847674,86.954586,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71ee25ce85a03:0xd17ac819caf8797!8m2!3d23.6847674!4d86.954586!16s%2Fg%2F1hm4cylq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hill+View+Hospital/@23.6847674,86.954586,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71ee25ce85a03:0xd17ac819caf8797!8m2!3d23.6847674!4d86.954586!16s%2Fg%2F1hm4cylq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4150,8 +4116,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hill+View+Hospital/@23.6847674,86.954586,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71ee25ce85a03:0xd17ac819caf8797!8m2!3d23.6847674!4d86.954586!16s%2Fg%2F1hm4cylq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hlg-memorial-hospital-asansol",
@@ -4200,7 +4165,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HLG+Memorial+Hospital/@23.7046736,86.9534463,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f120ff3549d:0xd6a4686d83b9782b!8m2!3d23.7046736!4d86.9534463!16s%2Fg%2F1hd_6dg4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HLG+Memorial+Hospital/@23.7046736,86.9534463,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f120ff3549d:0xd6a4686d83b9782b!8m2!3d23.7046736!4d86.9534463!16s%2Fg%2F1hd_6dg4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4269,8 +4234,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HLG+Memorial+Hospital/@23.7046736,86.9534463,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f120ff3549d:0xd6a4686d83b9782b!8m2!3d23.7046736!4d86.9534463!16s%2Fg%2F1hd_6dg4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hope-ent-care-raniganj",
@@ -4318,7 +4282,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hope+ENT+Care/@23.6301558,87.1156003,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7110eca49247b:0xe6195f1299925255!8m2!3d23.6301558!4d87.1156003!16s%2Fg%2F11h_9g7vs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+ENT+Care/@23.6301558,87.1156003,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7110eca49247b:0xe6195f1299925255!8m2!3d23.6301558!4d87.1156003!16s%2Fg%2F11h_9g7vs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4387,8 +4351,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hope+ENT+Care/@23.6301558,87.1156003,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7110eca49247b:0xe6195f1299925255!8m2!3d23.6301558!4d87.1156003!16s%2Fg%2F11h_9g7vs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hope-nursing-home-raniganj",
@@ -4438,7 +4401,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hope+Nursing+Home/@23.6307461,87.1151552,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711308db9b3e3:0x19a0ae32e01c2cdf!8m2!3d23.6307461!4d87.1151552!16s%2Fg%2F1hc34lxf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+Nursing+Home/@23.6307461,87.1151552,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711308db9b3e3:0x19a0ae32e01c2cdf!8m2!3d23.6307461!4d87.1151552!16s%2Fg%2F1hc34lxf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4507,8 +4470,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hope+Nursing+Home/@23.6307461,87.1151552,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711308db9b3e3:0x19a0ae32e01c2cdf!8m2!3d23.6307461!4d87.1151552!16s%2Fg%2F1hc34lxf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ig-diagnostic-centre-asansol",
@@ -4558,7 +4520,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ig+diagnostic+centre/@23.6951291,86.9476103,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fc913fa6dcf:0x802ae8c66b669292!8m2!3d23.6951291!4d86.9476103!16s%2Fg%2F11lyg6k2y_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ig+diagnostic+centre/@23.6951291,86.9476103,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fc913fa6dcf:0x802ae8c66b669292!8m2!3d23.6951291!4d86.9476103!16s%2Fg%2F11lyg6k2y_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4624,11 +4586,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ig+diagnostic+centre/@23.6951291,86.9476103,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fc913fa6dcf:0x802ae8c66b669292!8m2!3d23.6951291!4d86.9476103!16s%2Fg%2F11lyg6k2y_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jiva-ayurveda-clinic-murgasol-bardhaman-asansol",
@@ -4677,7 +4638,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Murgasol,+Bardhaman/@23.6810027,86.9910002,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71928cc10d50d:0x7fa4ecd9f9d7194a!8m2!3d23.6810027!4d86.9910002!16s%2Fg%2F11f5dfx3mw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Murgasol,+Bardhaman/@23.6810027,86.9910002,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71928cc10d50d:0x7fa4ecd9f9d7194a!8m2!3d23.6810027!4d86.9910002!16s%2Fg%2F11f5dfx3mw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4746,8 +4707,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Murgasol,+Bardhaman/@23.6810027,86.9910002,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71928cc10d50d:0x7fa4ecd9f9d7194a!8m2!3d23.6810027!4d86.9910002!16s%2Fg%2F11f5dfx3mw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "k-m-hospital-raniganj",
@@ -4795,7 +4755,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/K+M+Hospital/@23.6323002,87.1160704,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71130de2ac8b9:0xcb32bf4a731c9581!8m2!3d23.6323002!4d87.1160704!16s%2Fg%2F1hhmz8k2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K+M+Hospital/@23.6323002,87.1160704,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71130de2ac8b9:0xcb32bf4a731c9581!8m2!3d23.6323002!4d87.1160704!16s%2Fg%2F1hhmz8k2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4864,8 +4824,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/K+M+Hospital/@23.6323002,87.1160704,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71130de2ac8b9:0xcb32bf4a731c9581!8m2!3d23.6323002!4d87.1160704!16s%2Fg%2F1hhmz8k2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kidney-plus-clinics-kolkata-kolkata",
@@ -4916,7 +4875,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4985,8 +4944,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhumita-s-beauty-clinic-makeover-and-academy-raniganj",
@@ -5036,7 +4994,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Madhumita's+Beauty+Clinic+Makeover+%26+Academy/@23.6897019,87.1560905,17z/data=!3m1!4b1!4m6!3m5!1s0x39f715d5363a3787:0x928fc787b9346c72!8m2!3d23.6897019!4d87.1560905!16s%2Fg%2F11y4ycjf_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhumita's+Beauty+Clinic+Makeover+%26+Academy/@23.6897019,87.1560905,17z/data=!3m1!4b1!4m6!3m5!1s0x39f715d5363a3787:0x928fc787b9346c72!8m2!3d23.6897019!4d87.1560905!16s%2Fg%2F11y4ycjf_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5102,11 +5060,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Madhumita's+Beauty+Clinic+Makeover+%26+Academy/@23.6897019,87.1560905,17z/data=!3m1!4b1!4m6!3m5!1s0x39f715d5363a3787:0x928fc787b9346c72!8m2!3d23.6897019!4d87.1560905!16s%2Fg%2F11y4ycjf_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "marwari-relief-society-and-hospital-kolkata",
@@ -5154,7 +5111,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Marwari+Relief+Society+%26+Hospital/@22.5828041,88.3574385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277b6a700e48f:0xfd4b93a401639e53!8m2!3d22.5828041!4d88.3574385!16s%2Fg%2F1tnqfdg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Marwari+Relief+Society+%26+Hospital/@22.5828041,88.3574385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277b6a700e48f:0xfd4b93a401639e53!8m2!3d22.5828041!4d88.3574385!16s%2Fg%2F1tnqfdg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5223,8 +5180,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Marwari+Relief+Society+%26+Hospital/@22.5828041,88.3574385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277b6a700e48f:0xfd4b93a401639e53!8m2!3d22.5828041!4d88.3574385!16s%2Fg%2F1tnqfdg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "marwari-relief-society-hospital-raniganj",
@@ -5272,7 +5228,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Marwari+Relief+Society+Hospital/@23.6077809,87.1150918,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71111b27521e1:0xfdc1203ac69f9173!8m2!3d23.6077809!4d87.1150918!16s%2Fg%2F11c1wsr_74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Marwari+Relief+Society+Hospital/@23.6077809,87.1150918,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71111b27521e1:0xfdc1203ac69f9173!8m2!3d23.6077809!4d87.1150918!16s%2Fg%2F11c1wsr_74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5341,8 +5297,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Marwari+Relief+Society+Hospital/@23.6077809,87.1150918,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71111b27521e1:0xfdc1203ac69f9173!8m2!3d23.6077809!4d87.1150918!16s%2Fg%2F11c1wsr_74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-asansol-asansol",
@@ -5392,7 +5347,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Metropolis+Labs+Blood+Test+%26+Diagnostic+Centre+in+Asansol/@23.677753,86.974831,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f3adfdf6a11:0x35a133edaf0396f8!8m2!3d23.677753!4d86.974831!16s%2Fg%2F11ytvj36w2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+Blood+Test+%26+Diagnostic+Centre+in+Asansol/@23.677753,86.974831,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f3adfdf6a11:0x35a133edaf0396f8!8m2!3d23.677753!4d86.974831!16s%2Fg%2F11ytvj36w2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5458,11 +5413,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+Blood+Test+%26+Diagnostic+Centre+in+Asansol/@23.677753,86.974831,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f3adfdf6a11:0x35a133edaf0396f8!8m2!3d23.677753!4d86.974831!16s%2Fg%2F11ytvj36w2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mr-tooth-dental-clinic-raniganj",
@@ -5510,7 +5464,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mr.Tooth+Dental+Clinic/@23.6178766,87.1137258,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711f2a35153eb:0xfd6b0eb2581e1fca!8m2!3d23.6178766!4d87.1137258!16s%2Fg%2F11gjt5l9py?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mr.Tooth+Dental+Clinic/@23.6178766,87.1137258,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711f2a35153eb:0xfd6b0eb2581e1fca!8m2!3d23.6178766!4d87.1137258!16s%2Fg%2F11gjt5l9py?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5576,11 +5530,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mr.Tooth+Dental+Clinic/@23.6178766,87.1137258,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711f2a35153eb:0xfd6b0eb2581e1fca!8m2!3d23.6178766!4d87.1137258!16s%2Fg%2F11gjt5l9py?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nkpc-kidney-clinic-kolkata",
@@ -5630,7 +5583,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5699,8 +5652,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ora-care-dental-speciality-clinic-raniganj",
@@ -5749,7 +5701,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ora+Care+Dental+Speciality+Clinic/@23.6064609,87.113984,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711103b488809:0xa8e48edaa6293259!8m2!3d23.6064609!4d87.113984!16s%2Fg%2F11cs60764t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ora+Care+Dental+Speciality+Clinic/@23.6064609,87.113984,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711103b488809:0xa8e48edaa6293259!8m2!3d23.6064609!4d87.113984!16s%2Fg%2F11cs60764t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5818,8 +5770,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ora+Care+Dental+Speciality+Clinic/@23.6064609,87.113984,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711103b488809:0xa8e48edaa6293259!8m2!3d23.6064609!4d87.113984!16s%2Fg%2F11cs60764t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "quest-diabetic-clinic-and-diagnostic-center-best-diabetic-clinic-and-diagnostic-dr-sayanti-banerjee-dr-subhajit-mukherjee-asansol-asansol",
@@ -5869,7 +5820,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Quest+Diabetic+Clinic+%26+Diagnostic+Center-Best+Diabetic+Clinic+%26+Diagnostic%7CDr+Sayanti+Banerjee%7CDr+Subhajit+Mukherjee+Asansol/@23.6802839,86.9917403,17z/data=!3m1!4b1!4m6!3m5!1s0x39f719131c1d7cff:0x4507fd827cae87ea!8m2!3d23.6802839!4d86.9917403!16s%2Fg%2F11nxt7sbty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Quest+Diabetic+Clinic+%26+Diagnostic+Center-Best+Diabetic+Clinic+%26+Diagnostic%7CDr+Sayanti+Banerjee%7CDr+Subhajit+Mukherjee+Asansol/@23.6802839,86.9917403,17z/data=!3m1!4b1!4m6!3m5!1s0x39f719131c1d7cff:0x4507fd827cae87ea!8m2!3d23.6802839!4d86.9917403!16s%2Fg%2F11nxt7sbty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5938,8 +5889,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Quest+Diabetic+Clinic+%26+Diagnostic+Center-Best+Diabetic+Clinic+%26+Diagnostic%7CDr+Sayanti+Banerjee%7CDr+Subhajit+Mukherjee+Asansol/@23.6802839,86.9917403,17z/data=!3m1!4b1!4m6!3m5!1s0x39f719131c1d7cff:0x4507fd827cae87ea!8m2!3d23.6802839!4d86.9917403!16s%2Fg%2F11nxt7sbty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-k-dental-clinic-raniganj",
@@ -5988,7 +5938,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R+K+Dental+Clinic/@23.606684,87.11407,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711093d86d325:0x9695caf3de6779!8m2!3d23.606684!4d87.11407!16s%2Fg%2F11qmqzp9d4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+K+Dental+Clinic/@23.606684,87.11407,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711093d86d325:0x9695caf3de6779!8m2!3d23.606684!4d87.11407!16s%2Fg%2F11qmqzp9d4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6057,8 +6007,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R+K+Dental+Clinic/@23.606684,87.11407,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711093d86d325:0x9695caf3de6779!8m2!3d23.606684!4d87.11407!16s%2Fg%2F11qmqzp9d4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raniganj-lions-m-j-m-eye-hospital-raniganj",
@@ -6106,7 +6055,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RANIGANJ+LIONS+M.J.M.+EYE+HOSPITAL/@23.6202796,87.1130184,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113d26252c69:0xa01c262182a1984d!8m2!3d23.6202796!4d87.1130184!16s%2Fg%2F11g6lz30df?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RANIGANJ+LIONS+M.J.M.+EYE+HOSPITAL/@23.6202796,87.1130184,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113d26252c69:0xa01c262182a1984d!8m2!3d23.6202796!4d87.1130184!16s%2Fg%2F11g6lz30df?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6175,8 +6124,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RANIGANJ+LIONS+M.J.M.+EYE+HOSPITAL/@23.6202796,87.1130184,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113d26252c69:0xa01c262182a1984d!8m2!3d23.6202796!4d87.1130184!16s%2Fg%2F11g6lz30df?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raniganj-netralaya-raniganj",
@@ -6224,7 +6172,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raniganj+Netralaya/@23.6200084,87.1134742,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711cd894aca91:0x1aa5f027ee6ebeed!8m2!3d23.6200084!4d87.1134742!16s%2Fg%2F11qbb2ctcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raniganj+Netralaya/@23.6200084,87.1134742,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711cd894aca91:0x1aa5f027ee6ebeed!8m2!3d23.6200084!4d87.1134742!16s%2Fg%2F11qbb2ctcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6290,11 +6238,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raniganj+Netralaya/@23.6200084,87.1134742,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711cd894aca91:0x1aa5f027ee6ebeed!8m2!3d23.6200084!4d87.1134742!16s%2Fg%2F11qbb2ctcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raniganj-nursing-home-and-diagnostics-raniganj",
@@ -6343,7 +6290,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raniganj+Nursing+Home+%26+Diagnostics/@23.6307862,87.1145741,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113066f5c8a7:0x4fb5166b8aaf065a!8m2!3d23.6307862!4d87.1145741!16s%2Fg%2F1tkl1r2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raniganj+Nursing+Home+%26+Diagnostics/@23.6307862,87.1145741,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113066f5c8a7:0x4fb5166b8aaf065a!8m2!3d23.6307862!4d87.1145741!16s%2Fg%2F1tkl1r2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6412,8 +6359,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raniganj+Nursing+Home+%26+Diagnostics/@23.6307862,87.1145741,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7113066f5c8a7:0x4fb5166b8aaf065a!8m2!3d23.6307862!4d87.1145741!16s%2Fg%2F1tkl1r2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "royal-care-hospital-raniganj",
@@ -6461,7 +6407,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Royal+Care+Hospital/@23.6362339,87.115883,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711c1f01b574b:0x32e6985a65ca69a6!8m2!3d23.6362339!4d87.115883!16s%2Fg%2F11p0z6brvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+Care+Hospital/@23.6362339,87.115883,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711c1f01b574b:0x32e6985a65ca69a6!8m2!3d23.6362339!4d87.115883!16s%2Fg%2F11p0z6brvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6530,8 +6476,7 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Royal+Care+Hospital/@23.6362339,87.115883,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711c1f01b574b:0x32e6985a65ca69a6!8m2!3d23.6362339!4d87.115883!16s%2Fg%2F11p0z6brvw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sc-bagchi-arogya-sadan-pvt-ltd-howrah",
@@ -6580,7 +6525,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SC+BAGCHI+AROGYA+SADAN+Pvt.+Ltd./@22.5858545,88.3035204,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027840137d4685:0x89ae97a629b95661!8m2!3d22.5858545!4d88.3035204!16s%2Fg%2F11c531z3jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SC+BAGCHI+AROGYA+SADAN+Pvt.+Ltd./@22.5858545,88.3035204,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027840137d4685:0x89ae97a629b95661!8m2!3d22.5858545!4d88.3035204!16s%2Fg%2F11c531z3jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6649,8 +6594,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SC+BAGCHI+AROGYA+SADAN+Pvt.+Ltd./@22.5858545,88.3035204,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027840137d4685:0x89ae97a629b95661!8m2!3d22.5858545!4d88.3035204!16s%2Fg%2F11c531z3jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shanti-physiotherapy-center-raniganj",
@@ -6699,7 +6643,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shanti+physiotherapy+center/@23.6078202,87.1149037,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71142b6229a19:0x994c6b44f78b99fc!8m2!3d23.6078202!4d87.1149037!16s%2Fg%2F11hyqn5d5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+physiotherapy+center/@23.6078202,87.1149037,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71142b6229a19:0x994c6b44f78b99fc!8m2!3d23.6078202!4d87.1149037!16s%2Fg%2F11hyqn5d5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6765,11 +6709,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shanti+physiotherapy+center/@23.6078202,87.1149037,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71142b6229a19:0x994c6b44f78b99fc!8m2!3d23.6078202!4d87.1149037!16s%2Fg%2F11hyqn5d5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-jagannath-healthcare-pharmacy-and-clinic-asansol",
@@ -6817,7 +6760,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Jagannath+Healthcare+(Pharmacy+%26+Clinic)/@23.6927423,86.949244,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f10178b7d53:0x10c0ca17de982490!8m2!3d23.6927423!4d86.949244!16s%2Fg%2F11smgpsmd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Jagannath+Healthcare+(Pharmacy+%26+Clinic)/@23.6927423,86.949244,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f10178b7d53:0x10c0ca17de982490!8m2!3d23.6927423!4d86.949244!16s%2Fg%2F11smgpsmd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6883,11 +6826,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Jagannath+Healthcare+(Pharmacy+%26+Clinic)/@23.6927423,86.949244,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f10178b7d53:0x10c0ca17de982490!8m2!3d23.6927423!4d86.949244!16s%2Fg%2F11smgpsmd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-clinic-raniganj",
@@ -6935,7 +6877,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+dental+clinic/@23.6067552,87.1141583,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711103a185181:0x1b6b356ceddd8650!8m2!3d23.6067552!4d87.1141583!16s%2Fg%2F11c1wzc_jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+dental+clinic/@23.6067552,87.1141583,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711103a185181:0x1b6b356ceddd8650!8m2!3d23.6067552!4d87.1141583!16s%2Fg%2F11c1wzc_jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7001,11 +6943,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+dental+clinic/@23.6067552,87.1141583,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711103a185181:0x1b6b356ceddd8650!8m2!3d23.6067552!4d87.1141583!16s%2Fg%2F11c1wzc_jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunny-smile-dental-clinic-asansol",
@@ -7053,7 +6994,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SUNNY+SMILE+DENTAL+CLINIC/@23.6919875,86.9828288,17z/data=!3m1!4b1!4m6!3m5!1s0x39f719094834ad3d:0x8b57f42907d105d5!8m2!3d23.6919875!4d86.9828288!16s%2Fg%2F11h5lsffpb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUNNY+SMILE+DENTAL+CLINIC/@23.6919875,86.9828288,17z/data=!3m1!4b1!4m6!3m5!1s0x39f719094834ad3d:0x8b57f42907d105d5!8m2!3d23.6919875!4d86.9828288!16s%2Fg%2F11h5lsffpb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7119,11 +7060,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SUNNY+SMILE+DENTAL+CLINIC/@23.6919875,86.9828288,17z/data=!3m1!4b1!4m6!3m5!1s0x39f719094834ad3d:0x8b57f42907d105d5!8m2!3d23.6919875!4d86.9828288!16s%2Fg%2F11h5lsffpb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -7173,7 +7113,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
@@ -7239,11 +7179,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-mission-hospital-durgapur-durgapur",
@@ -7292,7 +7231,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Mission+Hospital+,+Durgapur/@23.5200737,87.3555012,17z/data=!3m1!4b1!4m6!3m5!1s0x39f770441b6a2cb7:0xc7c4abf33d85de56!8m2!3d23.5200737!4d87.3555012!16s%2Fm%2F0h3xkf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Mission+Hospital+,+Durgapur/@23.5200737,87.3555012,17z/data=!3m1!4b1!4m6!3m5!1s0x39f770441b6a2cb7:0xc7c4abf33d85de56!8m2!3d23.5200737!4d87.3555012!16s%2Fm%2F0h3xkf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7361,8 +7300,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Mission+Hospital+,+Durgapur/@23.5200737,87.3555012,17z/data=!3m1!4b1!4m6!3m5!1s0x39f770441b6a2cb7:0xc7c4abf33d85de56!8m2!3d23.5200737!4d87.3555012!16s%2Fm%2F0h3xkf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-mission-hospital-asansol-clinic-asansol",
@@ -7411,7 +7349,7 @@
       "Google rating 2.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Mission+Hospital+Asansol+Clinic/@23.6940132,86.9503501,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f1b6ca08d45:0xfc14aa8b73f3805c!8m2!3d23.6940132!4d86.9503501!16s%2Fg%2F11dxb215c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Mission+Hospital+Asansol+Clinic/@23.6940132,86.9503501,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f1b6ca08d45:0xfc14aa8b73f3805c!8m2!3d23.6940132!4d86.9503501!16s%2Fg%2F11dxb215c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7480,8 +7418,7 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Mission+Hospital+Asansol+Clinic/@23.6940132,86.9503501,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f1b6ca08d45:0xfc14aa8b73f3805c!8m2!3d23.6940132!4d86.9503501!16s%2Fg%2F11dxb215c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-mission-neighbourhood-advanced-diagnostics-and-patient-care-asansol",
@@ -7531,7 +7468,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Mission+Neighbourhood+-+Advanced+Diagnostics+and+Patient+Care/@23.6940743,86.9503837,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fb737360109:0xb2ca5dbe9c7bc297!8m2!3d23.6940743!4d86.9503837!16s%2Fg%2F11r35nym_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Mission+Neighbourhood+-+Advanced+Diagnostics+and+Patient+Care/@23.6940743,86.9503837,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fb737360109:0xb2ca5dbe9c7bc297!8m2!3d23.6940743!4d86.9503837!16s%2Fg%2F11r35nym_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7600,8 +7537,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Mission+Neighbourhood+-+Advanced+Diagnostics+and+Patient+Care/@23.6940743,86.9503837,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71fb737360109:0xb2ca5dbe9c7bc297!8m2!3d23.6940743!4d86.9503837!16s%2Fg%2F11r35nym_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-unique-physiotherapy-and-rehabilitation-centre-raniganj",
@@ -7651,7 +7587,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Unique+Physiotherapy+%26+Rehabilitation+Centre/@23.6203183,87.1130841,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711bfc6767e09:0xa7984e5c72629aad!8m2!3d23.6203183!4d87.1130841!16s%2Fg%2F11mf44tz22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Unique+Physiotherapy+%26+Rehabilitation+Centre/@23.6203183,87.1130841,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711bfc6767e09:0xa7984e5c72629aad!8m2!3d23.6203183!4d87.1130841!16s%2Fg%2F11mf44tz22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7717,11 +7653,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Unique+Physiotherapy+%26+Rehabilitation+Centre/@23.6203183,87.1130841,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711bfc6767e09:0xa7984e5c72629aad!8m2!3d23.6203183!4d87.1130841!16s%2Fg%2F11mf44tz22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tirupati-medical-centre-bottle-masjid-bari-lane-asansol",
@@ -7770,7 +7705,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tirupati+Medical+Centre(%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A6%A4%E0%A6%BF+%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2+%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0)Bottle+Masjid+Bari+lane/@23.6818103,86.9786884,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f90a81d96f9:0xe770214b408ec24b!8m2!3d23.6818103!4d86.9786884!16s%2Fg%2F11jy223_y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirupati+Medical+Centre(%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A6%A4%E0%A6%BF+%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2+%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0)Bottle+Masjid+Bari+lane/@23.6818103,86.9786884,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f90a81d96f9:0xe770214b408ec24b!8m2!3d23.6818103!4d86.9786884!16s%2Fg%2F11jy223_y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7836,11 +7771,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tirupati+Medical+Centre(%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A6%A4%E0%A6%BF+%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2+%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0)Bottle+Masjid+Bari+lane/@23.6818103,86.9786884,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f90a81d96f9:0xe770214b408ec24b!8m2!3d23.6818103!4d86.9786884!16s%2Fg%2F11jy223_y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "trivina-healthcare-raniganj",
@@ -7888,7 +7822,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/TRIVINA+HEALTHCARE/@23.6202979,87.1130254,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711843e3429e9:0xaa041b68d0aed574!8m2!3d23.6202979!4d87.1130254!16s%2Fg%2F11jjqydrp2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TRIVINA+HEALTHCARE/@23.6202979,87.1130254,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711843e3429e9:0xaa041b68d0aed574!8m2!3d23.6202979!4d87.1130254!16s%2Fg%2F11jjqydrp2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7957,8 +7891,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/TRIVINA+HEALTHCARE/@23.6202979,87.1130254,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711843e3429e9:0xaa041b68d0aed574!8m2!3d23.6202979!4d87.1130254!16s%2Fg%2F11jjqydrp2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ujjeewan-family-health-center-raniganj",
@@ -8007,7 +7940,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ujjeewan+Family+Health+Center/@23.6060121,87.1323139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7116fffffffff:0x73ed1b5f244e91b4!8m2!3d23.6060121!4d87.1323139!16s%2Fg%2F11cp5v_x0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ujjeewan+Family+Health+Center/@23.6060121,87.1323139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7116fffffffff:0x73ed1b5f244e91b4!8m2!3d23.6060121!4d87.1323139!16s%2Fg%2F11cp5v_x0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8073,11 +8006,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ujjeewan+Family+Health+Center/@23.6060121,87.1323139,17z/data=!3m1!4b1!4m6!3m5!1s0x39f7116fffffffff:0x73ed1b5f244e91b4!8m2!3d23.6060121!4d87.1323139!16s%2Fg%2F11cp5v_x0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "uma-eye-clinic-raniganj",
@@ -8126,7 +8058,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Uma+Eye+Clinic/@23.6139499,87.1154406,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71116faa631d1:0xc04f7666e6b56ac8!8m2!3d23.6139499!4d87.1154406!16s%2Fg%2F11g6yjsvyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uma+Eye+Clinic/@23.6139499,87.1154406,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71116faa631d1:0xc04f7666e6b56ac8!8m2!3d23.6139499!4d87.1154406!16s%2Fg%2F11g6yjsvyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8192,11 +8124,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Uma+Eye+Clinic/@23.6139499,87.1154406,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71116faa631d1:0xc04f7666e6b56ac8!8m2!3d23.6139499!4d87.1154406!16s%2Fg%2F11g6yjsvyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "uroheal-raniganj-raniganj",
@@ -8245,7 +8176,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Uroheal+(Raniganj)/@23.6258452,87.1145063,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711ee868c35a3:0xd3f813d73491d1d9!8m2!3d23.6258452!4d87.1145063!16s%2Fg%2F11xm_9klnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uroheal+(Raniganj)/@23.6258452,87.1145063,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711ee868c35a3:0xd3f813d73491d1d9!8m2!3d23.6258452!4d87.1145063!16s%2Fg%2F11xm_9klnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8311,11 +8242,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Uroheal+(Raniganj)/@23.6258452,87.1145063,17z/data=!3m1!4b1!4m6!3m5!1s0x39f711ee868c35a3:0xd3f813d73491d1d9!8m2!3d23.6258452!4d87.1145063!16s%2Fg%2F11xm_9klnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vaishnavi-dental-clinic-asansol",
@@ -8363,7 +8293,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vaishnavi+dental+clinic/@23.6843173,86.9629852,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f4570219263:0xcf779c9dd4cf0b35!8m2!3d23.6843173!4d86.9629852!16s%2Fg%2F11pvbd1t03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaishnavi+dental+clinic/@23.6843173,86.9629852,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f4570219263:0xcf779c9dd4cf0b35!8m2!3d23.6843173!4d86.9629852!16s%2Fg%2F11pvbd1t03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8432,7 +8362,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vaishnavi+dental+clinic/@23.6843173,86.9629852,17z/data=!3m1!4b1!4m6!3m5!1s0x39f71f4570219263:0xcf779c9dd4cf0b35!8m2!3d23.6843173!4d86.9629852!16s%2Fg%2F11pvbd1t03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

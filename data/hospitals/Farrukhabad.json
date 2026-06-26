@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anuradha+Hospital/@27.3835187,79.5946778,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30501a0c6d41:0x9c8621e4bee8a0d1!8m2!3d27.3835187!4d79.5946778!16s%2Fg%2F11g8yj5d3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anuradha+Hospital/@27.3835187,79.5946778,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30501a0c6d41:0x9c8621e4bee8a0d1!8m2!3d27.3835187!4d79.5946778!16s%2Fg%2F11g8yj5d3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -114,8 +114,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anuradha+Hospital/@27.3835187,79.5946778,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30501a0c6d41:0x9c8621e4bee8a0d1!8m2!3d27.3835187!4d79.5946778!16s%2Fg%2F11g8yj5d3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "archana-maternity-home-farrukhabad",
@@ -163,7 +162,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Archana+Maternity+Home/@27.3819289,79.6009302,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3059eaaaaaad:0x94de74cd89c07f79!8m2!3d27.3819289!4d79.6009302!16s%2Fg%2F11f2wp_kxf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Archana+Maternity+Home/@27.3819289,79.6009302,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3059eaaaaaad:0x94de74cd89c07f79!8m2!3d27.3819289!4d79.6009302!16s%2Fg%2F11f2wp_kxf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -229,11 +228,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Archana+Maternity+Home/@27.3819289,79.6009302,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3059eaaaaaad:0x94de74cd89c07f79!8m2!3d27.3819289!4d79.6009302!16s%2Fg%2F11f2wp_kxf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arzoo-hospital-farrukhabad",
@@ -281,7 +279,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arzoo+hospital+%F0%9F%8F%A5/@27.3817973,79.6003142,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31822548009b:0xd3241994ad6b8873!8m2!3d27.3817973!4d79.6003142!16s%2Fg%2F11sq1d4zmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arzoo+hospital+%F0%9F%8F%A5/@27.3817973,79.6003142,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31822548009b:0xd3241994ad6b8873!8m2!3d27.3817973!4d79.6003142!16s%2Fg%2F11sq1d4zmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -347,11 +345,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arzoo+hospital+%F0%9F%8F%A5/@27.3817973,79.6003142,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31822548009b:0xd3241994ad6b8873!8m2!3d27.3817973!4d79.6003142!16s%2Fg%2F11sq1d4zmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashoka-hospital-farrukhabad",
@@ -399,7 +396,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashoka+Hospital/@27.3936103,79.581928,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31cab2492535:0x3142200a157a086c!8m2!3d27.3936103!4d79.581928!16s%2Fg%2F11f3wrcmc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashoka+Hospital/@27.3936103,79.581928,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31cab2492535:0x3142200a157a086c!8m2!3d27.3936103!4d79.581928!16s%2Fg%2F11f3wrcmc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -468,8 +465,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashoka+Hospital/@27.3936103,79.581928,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31cab2492535:0x3142200a157a086c!8m2!3d27.3936103!4d79.581928!16s%2Fg%2F11f3wrcmc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "b-l-m-hospitals-pvt-ltd-fatehgarh",
@@ -517,7 +513,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/B.L.M.+Hospitals+Pvt.+Ltd./@27.3651774,79.6313604,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30bc585fd761:0x681ad18614135781!8m2!3d27.3651774!4d79.6313604!16s%2Fg%2F1tn0463r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B.L.M.+Hospitals+Pvt.+Ltd./@27.3651774,79.6313604,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30bc585fd761:0x681ad18614135781!8m2!3d27.3651774!4d79.6313604!16s%2Fg%2F1tn0463r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -586,8 +582,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/B.L.M.+Hospitals+Pvt.+Ltd./@27.3651774,79.6313604,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30bc585fd761:0x681ad18614135781!8m2!3d27.3651774!4d79.6313604!16s%2Fg%2F1tn0463r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "b-r-ayush-clinic-papiha-pur",
@@ -635,7 +630,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/B.R+Ayush+Clinic/@27.3614345,79.5889084,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31fd121e5257:0x3aa3195a9ff8dda4!8m2!3d27.3614345!4d79.5889084!16s%2Fg%2F11k923dvbd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B.R+Ayush+Clinic/@27.3614345,79.5889084,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31fd121e5257:0x3aa3195a9ff8dda4!8m2!3d27.3614345!4d79.5889084!16s%2Fg%2F11k923dvbd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -701,11 +696,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/B.R+Ayush+Clinic/@27.3614345,79.5889084,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31fd121e5257:0x3aa3195a9ff8dda4!8m2!3d27.3614345!4d79.5889084!16s%2Fg%2F11k923dvbd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bharat-nursing-home-farrukhabad",
@@ -753,7 +747,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bharat+Nursing+Home/@27.3938481,79.5873161,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31fc6b558aa1:0xb752e6cb08a5f80a!8m2!3d27.3938481!4d79.5873161!16s%2Fg%2F11sg_6zwvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharat+Nursing+Home/@27.3938481,79.5873161,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31fc6b558aa1:0xb752e6cb08a5f80a!8m2!3d27.3938481!4d79.5873161!16s%2Fg%2F11sg_6zwvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -822,8 +816,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bharat+Nursing+Home/@27.3938481,79.5873161,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31fc6b558aa1:0xb752e6cb08a5f80a!8m2!3d27.3938481!4d79.5873161!16s%2Fg%2F11sg_6zwvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "candy-dental-care-and-surgical-implant-laser-clinic-infront-of-nakp-degree-collage",
@@ -872,7 +865,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Candy+Dental+care+%26+surgical+implant+Laser+clinic/@27.3940538,79.5847571,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31caca105fef:0xe5824df87d47abc6!8m2!3d27.3940538!4d79.5847571!16s%2Fg%2F11hcclb8cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Candy+Dental+care+%26+surgical+implant+Laser+clinic/@27.3940538,79.5847571,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31caca105fef:0xe5824df87d47abc6!8m2!3d27.3940538!4d79.5847571!16s%2Fg%2F11hcclb8cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -941,8 +934,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Candy+Dental+care+%26+surgical+implant+Laser+clinic/@27.3940538,79.5847571,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31caca105fef:0xe5824df87d47abc6!8m2!3d27.3940538!4d79.5847571!16s%2Fg%2F11hcclb8cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-medico-farrukhabad",
@@ -989,7 +981,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+medico/@27.3800063,79.598802,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100518bec83:0x54c5d37f469e713f!8m2!3d27.3800063!4d79.598802!16s%2Fg%2F11y55sc5v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+medico/@27.3800063,79.598802,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100518bec83:0x54c5d37f469e713f!8m2!3d27.3800063!4d79.598802!16s%2Fg%2F11y55sc5v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1055,11 +1047,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+medico/@27.3800063,79.598802,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100518bec83:0x54c5d37f469e713f!8m2!3d27.3800063!4d79.598802!16s%2Fg%2F11y55sc5v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "d-r-medicare-hospital-farrukhabad",
@@ -1107,7 +1098,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/D.R+Medicare+Hospital/@27.3818668,79.6011698,17z/data=!3m1!4b1!4m6!3m5!1s0x399e318903156d87:0x2ebe342573931257!8m2!3d27.3818668!4d79.6011698!16s%2Fg%2F11vcgcvqgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D.R+Medicare+Hospital/@27.3818668,79.6011698,17z/data=!3m1!4b1!4m6!3m5!1s0x399e318903156d87:0x2ebe342573931257!8m2!3d27.3818668!4d79.6011698!16s%2Fg%2F11vcgcvqgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1173,11 +1164,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/D.R+Medicare+Hospital/@27.3818668,79.6011698,17z/data=!3m1!4b1!4m6!3m5!1s0x399e318903156d87:0x2ebe342573931257!8m2!3d27.3818668!4d79.6011698!16s%2Fg%2F11vcgcvqgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dabora-traders-farrukhabad",
@@ -1224,7 +1214,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dabora+Traders/@27.3901578,79.6162788,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100113b3097:0x22a43cb9ce9ad913!8m2!3d27.3901578!4d79.6162788!16s%2Fg%2F11x6by_152?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dabora+Traders/@27.3901578,79.6162788,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100113b3097:0x22a43cb9ce9ad913!8m2!3d27.3901578!4d79.6162788!16s%2Fg%2F11x6by_152?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1290,11 +1280,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dabora+Traders/@27.3901578,79.6162788,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100113b3097:0x22a43cb9ce9ad913!8m2!3d27.3901578!4d79.6162788!16s%2Fg%2F11x6by_152?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "das-nursing-home-fatehgarh-fatehgarh",
@@ -1343,7 +1332,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Das+Nursing+Home,+Fatehgarh/@27.3669096,79.6308282,17z/data=!3m1!4b1!4m6!3m5!1s0x399e312565fad1a9:0x2f535aa3eb496c06!8m2!3d27.3669096!4d79.6308282!16s%2Fg%2F11j0v3bxtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Das+Nursing+Home,+Fatehgarh/@27.3669096,79.6308282,17z/data=!3m1!4b1!4m6!3m5!1s0x399e312565fad1a9:0x2f535aa3eb496c06!8m2!3d27.3669096!4d79.6308282!16s%2Fg%2F11j0v3bxtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1412,8 +1401,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Das+Nursing+Home,+Fatehgarh/@27.3669096,79.6308282,17z/data=!3m1!4b1!4m6!3m5!1s0x399e312565fad1a9:0x2f535aa3eb496c06!8m2!3d27.3669096!4d79.6308282!16s%2Fg%2F11j0v3bxtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dcdc-kidney-care-farrukhabad-farrukhabad",
@@ -1464,7 +1452,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DCDC+Kidney+Care,+Farrukhabad/@27.381709,79.60108,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31cdaf07f4bb:0x4bd7784a1c32c89e!8m2!3d27.381709!4d79.60108!16s%2Fg%2F11vzb6q1qn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DCDC+Kidney+Care,+Farrukhabad/@27.381709,79.60108,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31cdaf07f4bb:0x4bd7784a1c32c89e!8m2!3d27.381709!4d79.60108!16s%2Fg%2F11vzb6q1qn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1530,11 +1518,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DCDC+Kidney+Care,+Farrukhabad/@27.381709,79.60108,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31cdaf07f4bb:0x4bd7784a1c32c89e!8m2!3d27.381709!4d79.60108!16s%2Fg%2F11vzb6q1qn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "divine-hospital-dr-rajat-goel-m-s-e-n-t-farrukhabad",
@@ -1584,7 +1571,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Divine+Hospital+(Dr+Rajat+Goel+M+S+E.N.T)/@27.3605784,79.6295418,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31006c3010d5:0x1e3375bcdbbdc013!8m2!3d27.3605784!4d79.6295418!16s%2Fg%2F11w8nwr7q7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divine+Hospital+(Dr+Rajat+Goel+M+S+E.N.T)/@27.3605784,79.6295418,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31006c3010d5:0x1e3375bcdbbdc013!8m2!3d27.3605784!4d79.6295418!16s%2Fg%2F11w8nwr7q7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1653,8 +1640,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Divine+Hospital+(Dr+Rajat+Goel+M+S+E.N.T)/@27.3605784,79.6295418,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31006c3010d5:0x1e3375bcdbbdc013!8m2!3d27.3605784!4d79.6295418!16s%2Fg%2F11w8nwr7q7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dubey-hospital-and-ultrasound-center-farrukhabad",
@@ -1702,7 +1688,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dubey+Hospital+and+Ultrasound+Center/@27.3933251,79.5873176,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31afd7730593:0xd8a916be34dba8ff!8m2!3d27.3933251!4d79.5873176!16s%2Fg%2F11j8l69dy0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dubey+Hospital+and+Ultrasound+Center/@27.3933251,79.5873176,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31afd7730593:0xd8a916be34dba8ff!8m2!3d27.3933251!4d79.5873176!16s%2Fg%2F11j8l69dy0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1771,8 +1757,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dubey+Hospital+and+Ultrasound+Center/@27.3933251,79.5873176,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31afd7730593:0xd8a916be34dba8ff!8m2!3d27.3933251!4d79.5873176!16s%2Fg%2F11j8l69dy0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ekdant-dental-implant-and-maxillofacial-surgery-centre-farrukhabad",
@@ -1821,7 +1806,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/EkDant+Dental,+Implant+%26+Maxillofacial+Surgery+Centre/@27.3905106,79.5934063,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e1c69cbc3d:0xc0d1ddd5ca1db4b4!8m2!3d27.3905106!4d79.5934063!16s%2Fg%2F11py64vm3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/EkDant+Dental,+Implant+%26+Maxillofacial+Surgery+Centre/@27.3905106,79.5934063,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e1c69cbc3d:0xc0d1ddd5ca1db4b4!8m2!3d27.3905106!4d79.5934063!16s%2Fg%2F11py64vm3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1890,8 +1875,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/EkDant+Dental,+Implant+%26+Maxillofacial+Surgery+Centre/@27.3905106,79.5934063,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e1c69cbc3d:0xc0d1ddd5ca1db4b4!8m2!3d27.3905106!4d79.5934063!16s%2Fg%2F11py64vm3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "esi-dispensary-farrukhabad",
@@ -1940,7 +1924,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ESI+dispensary/@27.3747244,79.6083057,17z/data=!3m1!4b1!4m6!3m5!1s0x399e318dd416cdcb:0x27c548d417febe4e!8m2!3d27.3747244!4d79.6083057!16s%2Fg%2F11k2p6nyq2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ESI+dispensary/@27.3747244,79.6083057,17z/data=!3m1!4b1!4m6!3m5!1s0x399e318dd416cdcb:0x27c548d417febe4e!8m2!3d27.3747244!4d79.6083057!16s%2Fg%2F11k2p6nyq2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2009,8 +1993,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ESI+dispensary/@27.3747244,79.6083057,17z/data=!3m1!4b1!4m6!3m5!1s0x399e318dd416cdcb:0x27c548d417febe4e!8m2!3d27.3747244!4d79.6083057!16s%2Fg%2F11k2p6nyq2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "farrukhabad-city-hospital-farrukhabad",
@@ -2058,7 +2041,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Farrukhabad+City+Hospital/@27.3800178,79.5988089,17z/data=!3m1!4b1!4m6!3m5!1s0x399e303400000001:0x4763bbc7d9f378aa!8m2!3d27.3800178!4d79.5988089!16s%2Fg%2F1w663tqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Farrukhabad+City+Hospital/@27.3800178,79.5988089,17z/data=!3m1!4b1!4m6!3m5!1s0x399e303400000001:0x4763bbc7d9f378aa!8m2!3d27.3800178!4d79.5988089!16s%2Fg%2F1w663tqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2127,8 +2110,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Farrukhabad+City+Hospital/@27.3800178,79.5988089,17z/data=!3m1!4b1!4m6!3m5!1s0x399e303400000001:0x4763bbc7d9f378aa!8m2!3d27.3800178!4d79.5988089!16s%2Fg%2F1w663tqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gagan-candy-dental-clinic-farrukhabad",
@@ -2177,7 +2159,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gagan+candy+dental+clinic/@27.394299,79.5843633,17z/data=!3m1!4b1!4m6!3m5!1s0x399e313868b94ac5:0xc11789e1c310dd1c!8m2!3d27.394299!4d79.5843633!16s%2Fg%2F11h3yhgtzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gagan+candy+dental+clinic/@27.394299,79.5843633,17z/data=!3m1!4b1!4m6!3m5!1s0x399e313868b94ac5:0xc11789e1c310dd1c!8m2!3d27.394299!4d79.5843633!16s%2Fg%2F11h3yhgtzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2246,8 +2228,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gagan+candy+dental+clinic/@27.394299,79.5843633,17z/data=!3m1!4b1!4m6!3m5!1s0x399e313868b94ac5:0xc11789e1c310dd1c!8m2!3d27.394299!4d79.5843633!16s%2Fg%2F11h3yhgtzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ganga-skin-clinic-mbbs-md-skin-consultant-regency-kanpur-ganga-skin-hair-and-laser-centre-laser-prp-hairloss-fatehgarh",
@@ -2295,7 +2276,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ganga+skin+clinic+%7C+MBBS+MD(Skin)%7C+Consultant+Regency+Kanpur%7C+Ganga+Skin+Hair+%26+Laser+Centre%7C+LASER%7C+PRP%7C+Hairloss/@27.3721357,79.6265508,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e1da211875:0x406f0619fd232c11!8m2!3d27.3721357!4d79.6265508!16s%2Fg%2F11t9mn39y1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganga+skin+clinic+%7C+MBBS+MD(Skin)%7C+Consultant+Regency+Kanpur%7C+Ganga+Skin+Hair+%26+Laser+Centre%7C+LASER%7C+PRP%7C+Hairloss/@27.3721357,79.6265508,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e1da211875:0x406f0619fd232c11!8m2!3d27.3721357!4d79.6265508!16s%2Fg%2F11t9mn39y1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2364,8 +2345,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ganga+skin+clinic+%7C+MBBS+MD(Skin)%7C+Consultant+Regency+Kanpur%7C+Ganga+Skin+Hair+%26+Laser+Centre%7C+LASER%7C+PRP%7C+Hairloss/@27.3721357,79.6265508,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e1da211875:0x406f0619fd232c11!8m2!3d27.3721357!4d79.6265508!16s%2Fg%2F11t9mn39y1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gayatri-dental-clinic-farrukhabad",
@@ -2414,7 +2394,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gayatri+Dental+Clinic/@27.3664903,79.6319368,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30bc401152dd:0xe526c3f1359f33f2!8m2!3d27.3664903!4d79.6319368!16s%2Fg%2F11c3_90_9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+Dental+Clinic/@27.3664903,79.6319368,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30bc401152dd:0xe526c3f1359f33f2!8m2!3d27.3664903!4d79.6319368!16s%2Fg%2F11c3_90_9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2483,8 +2463,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gayatri+Dental+Clinic/@27.3664903,79.6319368,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30bc401152dd:0xe526c3f1359f33f2!8m2!3d27.3664903!4d79.6319368!16s%2Fg%2F11c3_90_9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gayatri-hospital-hospital-in-farrukhabad-farrukhabad",
@@ -2532,7 +2511,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gayatri+Hospital+-+Hospital+in+Farrukhabad/@27.3836756,79.6077963,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f0c57512df:0xb29e3c78fa8a26ba!8m2!3d27.3836756!4d79.6077963!16s%2Fg%2F11c57xsbg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+Hospital+-+Hospital+in+Farrukhabad/@27.3836756,79.6077963,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f0c57512df:0xb29e3c78fa8a26ba!8m2!3d27.3836756!4d79.6077963!16s%2Fg%2F11c57xsbg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2601,8 +2580,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gayatri+Hospital+-+Hospital+in+Farrukhabad/@27.3836756,79.6077963,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f0c57512df:0xb29e3c78fa8a26ba!8m2!3d27.3836756!4d79.6077963!16s%2Fg%2F11c57xsbg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-hospital-farrukhabad",
@@ -2648,7 +2626,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Global+hospital/@27.3829078,79.6126393,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100493e8a9d:0xa416fd14677e00fc!8m2!3d27.3829078!4d79.6126393!16s%2Fg%2F11n9sjj0fj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+hospital/@27.3829078,79.6126393,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100493e8a9d:0xa416fd14677e00fc!8m2!3d27.3829078!4d79.6126393!16s%2Fg%2F11n9sjj0fj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2714,11 +2692,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Global+hospital/@27.3829078,79.6126393,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100493e8a9d:0xa416fd14677e00fc!8m2!3d27.3829078!4d79.6126393!16s%2Fg%2F11n9sjj0fj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hl-memorial-hospital-farrukhabad",
@@ -2764,7 +2741,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HL+MEMORIAL+HOSPITAL/@27.3810335,79.6072296,17z/data=!3m1!4b1!4m6!3m5!1s0x399e312d2c27e26d:0xc826e59f825dc272!8m2!3d27.3810335!4d79.6072296!16s%2Fg%2F11rql7fy74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HL+MEMORIAL+HOSPITAL/@27.3810335,79.6072296,17z/data=!3m1!4b1!4m6!3m5!1s0x399e312d2c27e26d:0xc826e59f825dc272!8m2!3d27.3810335!4d79.6072296!16s%2Fg%2F11rql7fy74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2830,11 +2807,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HL+MEMORIAL+HOSPITAL/@27.3810335,79.6072296,17z/data=!3m1!4b1!4m6!3m5!1s0x399e312d2c27e26d:0xc826e59f825dc272!8m2!3d27.3810335!4d79.6072296!16s%2Fg%2F11rql7fy74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jayas-hospital-farrukhabad",
@@ -2882,7 +2858,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jayas+Hospital/@27.3787996,79.6109735,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31004e326107:0xba8fc427e4e2f8b0!8m2!3d27.3787996!4d79.6109735!16s%2Fg%2F11y3y8hfzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jayas+Hospital/@27.3787996,79.6109735,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31004e326107:0xba8fc427e4e2f8b0!8m2!3d27.3787996!4d79.6109735!16s%2Fg%2F11y3y8hfzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2948,11 +2924,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jayas+Hospital/@27.3787996,79.6109735,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31004e326107:0xba8fc427e4e2f8b0!8m2!3d27.3787996!4d79.6109735!16s%2Fg%2F11y3y8hfzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jograj-hospital-farrukhabad",
@@ -3000,7 +2975,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jograj+Hospital/@27.3796729,79.598715,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3191f4253129:0xb0f4640a88257ad3!8m2!3d27.3796729!4d79.598715!16s%2Fg%2F11h4c03twr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jograj+Hospital/@27.3796729,79.598715,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3191f4253129:0xb0f4640a88257ad3!8m2!3d27.3796729!4d79.598715!16s%2Fg%2F11h4c03twr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3069,8 +3044,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jograj+Hospital/@27.3796729,79.598715,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3191f4253129:0xb0f4640a88257ad3!8m2!3d27.3796729!4d79.598715!16s%2Fg%2F11h4c03twr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "k-p-singh-hospital-farrukhabad",
@@ -3118,7 +3092,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/K+P+Singh+Hospital/@27.3532325,79.6198223,17z/data=!3m1!4b1!4m6!3m5!1s0x399e309c5cd2dc0b:0x299e3d36a95ad1d0!8m2!3d27.3532325!4d79.6198223!16s%2Fg%2F11f4t9wm71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K+P+Singh+Hospital/@27.3532325,79.6198223,17z/data=!3m1!4b1!4m6!3m5!1s0x399e309c5cd2dc0b:0x299e3d36a95ad1d0!8m2!3d27.3532325!4d79.6198223!16s%2Fg%2F11f4t9wm71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3187,8 +3161,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/K+P+Singh+Hospital/@27.3532325,79.6198223,17z/data=!3m1!4b1!4m6!3m5!1s0x399e309c5cd2dc0b:0x299e3d36a95ad1d0!8m2!3d27.3532325!4d79.6198223!16s%2Fg%2F11f4t9wm71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kashvi-aesthetics-skin-hair-laser-and-homeo-clinic-farrukhabad",
@@ -3237,7 +3210,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kashvi+Aesthetics+(Skin+Hair+Laser+%26+Homeo+Clinic)/@27.3650509,79.60314,17z/data=!3m1!4b1!4m6!3m5!1s0x399e318a559511f7:0xcee0a8a0e4a31725!8m2!3d27.3650509!4d79.60314!16s%2Fg%2F11rwq1p_z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kashvi+Aesthetics+(Skin+Hair+Laser+%26+Homeo+Clinic)/@27.3650509,79.60314,17z/data=!3m1!4b1!4m6!3m5!1s0x399e318a559511f7:0xcee0a8a0e4a31725!8m2!3d27.3650509!4d79.60314!16s%2Fg%2F11rwq1p_z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3306,8 +3279,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kashvi+Aesthetics+(Skin+Hair+Laser+%26+Homeo+Clinic)/@27.3650509,79.60314,17z/data=!3m1!4b1!4m6!3m5!1s0x399e318a559511f7:0xcee0a8a0e4a31725!8m2!3d27.3650509!4d79.60314!16s%2Fg%2F11rwq1p_z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "katiyar-eye-hospital-farrukhabad",
@@ -3357,7 +3329,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KATIYAR+EYE+HOSPITAL/@27.3839077,79.6064983,17z/data=!3m1!4b1!4m6!3m5!1s0x405553d5dfbd3bdf:0x7cf5267888028b49!8m2!3d27.3839077!4d79.6064983!16s%2Fg%2F11kjdskdy8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KATIYAR+EYE+HOSPITAL/@27.3839077,79.6064983,17z/data=!3m1!4b1!4m6!3m5!1s0x405553d5dfbd3bdf:0x7cf5267888028b49!8m2!3d27.3839077!4d79.6064983!16s%2Fg%2F11kjdskdy8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3426,8 +3398,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KATIYAR+EYE+HOSPITAL/@27.3839077,79.6064983,17z/data=!3m1!4b1!4m6!3m5!1s0x405553d5dfbd3bdf:0x7cf5267888028b49!8m2!3d27.3839077!4d79.6064983!16s%2Fg%2F11kjdskdy8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "katiyar-hospital-farrukhabad",
@@ -3475,7 +3446,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Katiyar+Hospital/@27.3812947,79.6015231,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30598d1689ef:0x4c9a90de84eb3c48!8m2!3d27.3812947!4d79.6015231!16s%2Fg%2F11fxzlwk74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Katiyar+Hospital/@27.3812947,79.6015231,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30598d1689ef:0x4c9a90de84eb3c48!8m2!3d27.3812947!4d79.6015231!16s%2Fg%2F11fxzlwk74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3544,8 +3515,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Katiyar+Hospital/@27.3812947,79.6015231,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30598d1689ef:0x4c9a90de84eb3c48!8m2!3d27.3812947!4d79.6015231!16s%2Fg%2F11fxzlwk74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kedar-hospital-farrukhabad",
@@ -3593,7 +3563,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kedar+Hospital/@27.385757,79.6037837,17z/data=!3m1!4b1!4m6!3m5!1s0x399e313139dc948d:0xd906af72a1f0b7b6!8m2!3d27.385757!4d79.6037837!16s%2Fg%2F11rws08mq9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kedar+Hospital/@27.385757,79.6037837,17z/data=!3m1!4b1!4m6!3m5!1s0x399e313139dc948d:0xd906af72a1f0b7b6!8m2!3d27.385757!4d79.6037837!16s%2Fg%2F11rws08mq9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3659,11 +3629,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kedar+Hospital/@27.385757,79.6037837,17z/data=!3m1!4b1!4m6!3m5!1s0x399e313139dc948d:0xd906af72a1f0b7b6!8m2!3d27.385757!4d79.6037837!16s%2Fg%2F11rws08mq9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kulwanti-hospital-baglakhula",
@@ -3711,7 +3680,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kulwanti+Hospital/@27.383705,79.60784,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f82a5f988f:0xcfa18c74a0efb975!8m2!3d27.383705!4d79.60784!16s%2Fg%2F11cs3qf_nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kulwanti+Hospital/@27.383705,79.60784,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f82a5f988f:0xcfa18c74a0efb975!8m2!3d27.383705!4d79.60784!16s%2Fg%2F11cs3qf_nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3780,8 +3749,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kulwanti+Hospital/@27.383705,79.60784,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f82a5f988f:0xcfa18c74a0efb975!8m2!3d27.383705!4d79.60784!16s%2Fg%2F11cs3qf_nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lakshya-cancer-hospital-kaimganj",
@@ -3829,7 +3797,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lakshya+Cancer+Hospital/@27.5394747,79.3229177,17z/data=!3m1!4b1!4m6!3m5!1s0x39757f15bdab194d:0x185bf1d1c7802914!8m2!3d27.5394747!4d79.3229177!16s%2Fg%2F11gf120hbd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lakshya+Cancer+Hospital/@27.5394747,79.3229177,17z/data=!3m1!4b1!4m6!3m5!1s0x39757f15bdab194d:0x185bf1d1c7802914!8m2!3d27.5394747!4d79.3229177!16s%2Fg%2F11gf120hbd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3898,8 +3866,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lakshya+Cancer+Hospital/@27.5394747,79.3229177,17z/data=!3m1!4b1!4m6!3m5!1s0x39757f15bdab194d:0x185bf1d1c7802914!8m2!3d27.5394747!4d79.3229177!16s%2Fg%2F11gf120hbd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "leela-hospital-farrukhabad",
@@ -3947,7 +3914,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Leela+hospital/@27.3817326,79.6018059,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31afb9257123:0xcce8a279e1bb874a!8m2!3d27.3817326!4d79.6018059!16s%2Fg%2F11vjdvn_42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Leela+hospital/@27.3817326,79.6018059,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31afb9257123:0xcce8a279e1bb874a!8m2!3d27.3817326!4d79.6018059!16s%2Fg%2F11vjdvn_42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4016,8 +3983,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Leela+hospital/@27.3817326,79.6018059,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31afb9257123:0xcce8a279e1bb874a!8m2!3d27.3817326!4d79.6018059!16s%2Fg%2F11vjdvn_42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-line-hospital-farrukhabad",
@@ -4065,7 +4031,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+Line+Hospital/@27.353588,79.6254931,17z/data=!3m1!4b1!4m6!3m5!1s0x399e309f0504f171:0x96cb7184df63a155!8m2!3d27.353588!4d79.6254931!16s%2Fg%2F11dxlbxl3s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Line+Hospital/@27.353588,79.6254931,17z/data=!3m1!4b1!4m6!3m5!1s0x399e309f0504f171:0x96cb7184df63a155!8m2!3d27.353588!4d79.6254931!16s%2Fg%2F11dxlbxl3s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4131,11 +4097,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+Line+Hospital/@27.353588,79.6254931,17z/data=!3m1!4b1!4m6!3m5!1s0x399e309f0504f171:0x96cb7184df63a155!8m2!3d27.353588!4d79.6254931!16s%2Fg%2F11dxlbxl3s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "m-n-city-hospital-farrukhabad",
@@ -4183,7 +4148,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/M+N+City+Hospital/@27.3913755,79.6203072,17z/data=!3m1!4b1!4m6!3m5!1s0x399e312112c6ec3d:0xecc8fb3b5d9db9c0!8m2!3d27.3913755!4d79.6203072!16s%2Fg%2F11xdk6wzn5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+N+City+Hospital/@27.3913755,79.6203072,17z/data=!3m1!4b1!4m6!3m5!1s0x399e312112c6ec3d:0xecc8fb3b5d9db9c0!8m2!3d27.3913755!4d79.6203072!16s%2Fg%2F11xdk6wzn5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4252,8 +4217,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/M+N+City+Hospital/@27.3913755,79.6203072,17z/data=!3m1!4b1!4m6!3m5!1s0x399e312112c6ec3d:0xecc8fb3b5d9db9c0!8m2!3d27.3913755!4d79.6203072!16s%2Fg%2F11xdk6wzn5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-hospital-and-maternity-home-and-maa-diagnostic-centre-farrukhabad",
@@ -4301,7 +4265,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maa+Hospital+%26+Maternity+Home+%26+Maa+diagnostic+centre/@27.3918601,79.57236,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3032a8545c41:0x633553d3846f7ac1!8m2!3d27.3918601!4d79.57236!16s%2Fg%2F11ggmmr4fp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Hospital+%26+Maternity+Home+%26+Maa+diagnostic+centre/@27.3918601,79.57236,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3032a8545c41:0x633553d3846f7ac1!8m2!3d27.3918601!4d79.57236!16s%2Fg%2F11ggmmr4fp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4370,8 +4334,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maa+Hospital+%26+Maternity+Home+%26+Maa+diagnostic+centre/@27.3918601,79.57236,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3032a8545c41:0x633553d3846f7ac1!8m2!3d27.3918601!4d79.57236!16s%2Fg%2F11ggmmr4fp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-shashi-dental-clinic-and-aesthetic-centre-farrukhabad",
@@ -4419,7 +4382,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maa+Shashi+Dental+Clinic+%26+Aesthetic+Centre/@28.832463,78.739323,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31000e285531:0xe184e15356030611!8m2!3d28.832463!4d78.739323!16s%2Fg%2F11vsglk6jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Shashi+Dental+Clinic+%26+Aesthetic+Centre/@28.832463,78.739323,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31000e285531:0xe184e15356030611!8m2!3d28.832463!4d78.739323!16s%2Fg%2F11vsglk6jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4485,11 +4448,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maa+Shashi+Dental+Clinic+%26+Aesthetic+Centre/@28.832463,78.739323,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31000e285531:0xe184e15356030611!8m2!3d28.832463!4d78.739323!16s%2Fg%2F11vsglk6jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manglik-hospitals-farrukhabad",
@@ -4537,7 +4499,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manglik+Hospitals/@27.3825945,79.6054153,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f7e307874d:0xf84894f1ac168fba!8m2!3d27.3825945!4d79.6054153!16s%2Fg%2F11bw3dpqhg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manglik+Hospitals/@27.3825945,79.6054153,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f7e307874d:0xf84894f1ac168fba!8m2!3d27.3825945!4d79.6054153!16s%2Fg%2F11bw3dpqhg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4606,8 +4568,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manglik+Hospitals/@27.3825945,79.6054153,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f7e307874d:0xf84894f1ac168fba!8m2!3d27.3825945!4d79.6054153!16s%2Fg%2F11bw3dpqhg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maya-hospital-farrukhabad",
@@ -4655,7 +4616,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maya+Hospital/@27.3796744,79.5989374,17z/data=!3m1!4b1!4m6!3m5!1s0x399e305bcf21b5b5:0xa8dd5767a58b82f7!8m2!3d27.3796744!4d79.5989374!16s%2Fg%2F11dxlc0r1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maya+Hospital/@27.3796744,79.5989374,17z/data=!3m1!4b1!4m6!3m5!1s0x399e305bcf21b5b5:0xa8dd5767a58b82f7!8m2!3d27.3796744!4d79.5989374!16s%2Fg%2F11dxlc0r1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4724,8 +4685,7 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maya+Hospital/@27.3796744,79.5989374,17z/data=!3m1!4b1!4m6!3m5!1s0x399e305bcf21b5b5:0xa8dd5767a58b82f7!8m2!3d27.3796744!4d79.5989374!16s%2Fg%2F11dxlc0r1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "memorial-mission-hospital-fatehgarh-farrukhabad",
@@ -4773,7 +4733,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Memorial+Mission+Hospital+Fatehgarh/@27.379591,79.611531,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31f5d5d053bf:0x49a00149a7983234!8m2!3d27.379591!4d79.611531!16s%2Fg%2F11j6w0bpf_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Memorial+Mission+Hospital+Fatehgarh/@27.379591,79.611531,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31f5d5d053bf:0x49a00149a7983234!8m2!3d27.379591!4d79.611531!16s%2Fg%2F11j6w0bpf_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4839,11 +4799,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Memorial+Mission+Hospital+Fatehgarh/@27.379591,79.611531,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31f5d5d053bf:0x49a00149a7983234!8m2!3d27.379591!4d79.611531!16s%2Fg%2F11j6w0bpf_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "metro-city-hospital-farrukhabad",
@@ -4891,7 +4850,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/metro+city+hospital/@27.3868513,79.6145903,17z/data=!3m1!4b1!4m6!3m5!1s0x399e317bc1859f71:0xf67d0355b2a43c1e!8m2!3d27.3868513!4d79.6145903!16s%2Fg%2F11scl4dhzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/metro+city+hospital/@27.3868513,79.6145903,17z/data=!3m1!4b1!4m6!3m5!1s0x399e317bc1859f71:0xf67d0355b2a43c1e!8m2!3d27.3868513!4d79.6145903!16s%2Fg%2F11scl4dhzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4957,11 +4916,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/metro+city+hospital/@27.3868513,79.6145903,17z/data=!3m1!4b1!4m6!3m5!1s0x399e317bc1859f71:0xf67d0355b2a43c1e!8m2!3d27.3868513!4d79.6145903!16s%2Fg%2F11scl4dhzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "murari-hospital-farrukhabad",
@@ -5009,7 +4967,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Murari+Hospital/@27.3817,79.5831,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3047fe14b4a5:0xaee95cf9c79cf5ee!8m2!3d27.3817!4d79.5831!16s%2Fg%2F11g6xwq2qw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Murari+Hospital/@27.3817,79.5831,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3047fe14b4a5:0xaee95cf9c79cf5ee!8m2!3d27.3817!4d79.5831!16s%2Fg%2F11g6xwq2qw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5078,8 +5036,7 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Murari+Hospital/@27.3817,79.5831,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3047fe14b4a5:0xaee95cf9c79cf5ee!8m2!3d27.3817!4d79.5831!16s%2Fg%2F11g6xwq2qw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "n-k-d-hospital-farrukhabad",
@@ -5127,7 +5084,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/N.K.D+HOSPITAL/@27.3532333,79.6216608,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3194d3d143f9:0xec20d7ad54f81b2!8m2!3d27.3532333!4d79.6216608!16s%2Fg%2F11t1bn140v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/N.K.D+HOSPITAL/@27.3532333,79.6216608,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3194d3d143f9:0xec20d7ad54f81b2!8m2!3d27.3532333!4d79.6216608!16s%2Fg%2F11t1bn140v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5193,11 +5150,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/N.K.D+HOSPITAL/@27.3532333,79.6216608,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3194d3d143f9:0xec20d7ad54f81b2!8m2!3d27.3532333!4d79.6216608!16s%2Fg%2F11t1bn140v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neuron-clinic-farrukhabad",
@@ -5246,7 +5202,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NEURON+CLINIC/@27.3817681,79.6000685,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3059f2dfb7ed:0xd727871628415b1c!8m2!3d27.3817681!4d79.6000685!16s%2Fg%2F11c4_y9sq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEURON+CLINIC/@27.3817681,79.6000685,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3059f2dfb7ed:0xd727871628415b1c!8m2!3d27.3817681!4d79.6000685!16s%2Fg%2F11c4_y9sq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5315,8 +5271,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NEURON+CLINIC/@27.3817681,79.6000685,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3059f2dfb7ed:0xd727871628415b1c!8m2!3d27.3817681!4d79.6000685!16s%2Fg%2F11c4_y9sq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-jeevan-hospital-farrukhabad",
@@ -5364,7 +5319,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Jeevan+Hospital/@27.3803209,79.6103198,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31772b85611b:0x950b6d2a34887585!8m2!3d27.3803209!4d79.6103198!16s%2Fg%2F11jtv9m4x7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Jeevan+Hospital/@27.3803209,79.6103198,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31772b85611b:0x950b6d2a34887585!8m2!3d27.3803209!4d79.6103198!16s%2Fg%2F11jtv9m4x7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5433,8 +5388,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Jeevan+Hospital/@27.3803209,79.6103198,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31772b85611b:0x950b6d2a34887585!8m2!3d27.3803209!4d79.6103198!16s%2Fg%2F11jtv9m4x7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-modern-hospital-farrukhabad",
@@ -5482,7 +5436,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Modern+Hospital/@27.3832706,79.6095299,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3154aa1f72c5:0xc194448d6adaf755!8m2!3d27.3832706!4d79.6095299!16s%2Fg%2F11pzwc00pp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Modern+Hospital/@27.3832706,79.6095299,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3154aa1f72c5:0xc194448d6adaf755!8m2!3d27.3832706!4d79.6095299!16s%2Fg%2F11pzwc00pp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5551,8 +5505,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Modern+Hospital/@27.3832706,79.6095299,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3154aa1f72c5:0xc194448d6adaf755!8m2!3d27.3832706!4d79.6095299!16s%2Fg%2F11pzwc00pp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orthocare-clinic-and-physiotherapy-centre-farrukhabad",
@@ -5602,7 +5555,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ORTHOCARE+CLINIC+%26+PHYSIOTHERAPY+CENTRE/@27.3836397,79.6062299,17z/data=!3m1!4b1!4m6!3m5!1s0x399e310061b07883:0xcdb08c54fdb934f6!8m2!3d27.3836397!4d79.6062299!16s%2Fg%2F11y78qz_c9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ORTHOCARE+CLINIC+%26+PHYSIOTHERAPY+CENTRE/@27.3836397,79.6062299,17z/data=!3m1!4b1!4m6!3m5!1s0x399e310061b07883:0xcdb08c54fdb934f6!8m2!3d27.3836397!4d79.6062299!16s%2Fg%2F11y78qz_c9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5668,11 +5621,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ORTHOCARE+CLINIC+%26+PHYSIOTHERAPY+CENTRE/@27.3836397,79.6062299,17z/data=!3m1!4b1!4m6!3m5!1s0x399e310061b07883:0xcdb08c54fdb934f6!8m2!3d27.3836397!4d79.6062299!16s%2Fg%2F11y78qz_c9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "paras-om-hospital-farrukhabad",
@@ -5720,7 +5672,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Paras+om+hospital/@27.3878223,79.596138,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31001d0e359f:0xe7ef1f643dd138c8!8m2!3d27.3878223!4d79.596138!16s%2Fg%2F11lyn3hv_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paras+om+hospital/@27.3878223,79.596138,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31001d0e359f:0xe7ef1f643dd138c8!8m2!3d27.3878223!4d79.596138!16s%2Fg%2F11lyn3hv_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5786,11 +5738,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Paras+om+hospital/@27.3878223,79.596138,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31001d0e359f:0xe7ef1f643dd138c8!8m2!3d27.3878223!4d79.596138!16s%2Fg%2F11lyn3hv_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parivartan-memorial-hospital-farrukhabad",
@@ -5838,7 +5789,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Parivartan+Memorial+Hospital/@27.3798918,79.599036,17z/data=!3m1!4b1!4m6!3m5!1s0x399e319412644561:0x3c0e8337b402f2dd!8m2!3d27.3798918!4d79.599036!16s%2Fg%2F11j8tnhpcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parivartan+Memorial+Hospital/@27.3798918,79.599036,17z/data=!3m1!4b1!4m6!3m5!1s0x399e319412644561:0x3c0e8337b402f2dd!8m2!3d27.3798918!4d79.599036!16s%2Fg%2F11j8tnhpcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5907,8 +5858,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Parivartan+Memorial+Hospital/@27.3798918,79.599036,17z/data=!3m1!4b1!4m6!3m5!1s0x399e319412644561:0x3c0e8337b402f2dd!8m2!3d27.3798918!4d79.599036!16s%2Fg%2F11j8tnhpcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parivartan-mission-hospital-farrukhabad",
@@ -5956,7 +5906,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PARIVARTAN+MISSION+HOSPITAL/@27.3795428,79.5989351,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31308e8c75f5:0xe3a48d4a2389c67c!8m2!3d27.3795428!4d79.5989351!16s%2Fg%2F11qn7tc0ms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PARIVARTAN+MISSION+HOSPITAL/@27.3795428,79.5989351,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31308e8c75f5:0xe3a48d4a2389c67c!8m2!3d27.3795428!4d79.5989351!16s%2Fg%2F11qn7tc0ms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6025,8 +5975,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PARIVARTAN+MISSION+HOSPITAL/@27.3795428,79.5989351,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31308e8c75f5:0xe3a48d4a2389c67c!8m2!3d27.3795428!4d79.5989351!16s%2Fg%2F11qn7tc0ms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-s-hospital-farrukhabad",
@@ -6074,7 +6023,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R+S+Hospital/@27.387093,79.6005229,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3173cda94e81:0xe57f493fd552a126!8m2!3d27.387093!4d79.6005229!16s%2Fg%2F11rwl5v7wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+S+Hospital/@27.387093,79.6005229,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3173cda94e81:0xe57f493fd552a126!8m2!3d27.387093!4d79.6005229!16s%2Fg%2F11rwl5v7wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6143,8 +6092,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R+S+Hospital/@27.387093,79.6005229,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3173cda94e81:0xe57f493fd552a126!8m2!3d27.387093!4d79.6005229!16s%2Fg%2F11rwl5v7wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-k-hospital-farrukhabad",
@@ -6192,7 +6140,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R.K+Hospital/@27.3818159,79.6005894,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3059ec9c08d7:0xf4bc869a1120a54b!8m2!3d27.3818159!4d79.6005894!16s%2Fg%2F1hd_crbkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.K+Hospital/@27.3818159,79.6005894,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3059ec9c08d7:0xf4bc869a1120a54b!8m2!3d27.3818159!4d79.6005894!16s%2Fg%2F1hd_crbkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6258,11 +6206,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R.K+Hospital/@27.3818159,79.6005894,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3059ec9c08d7:0xf4bc869a1120a54b!8m2!3d27.3818159!4d79.6005894!16s%2Fg%2F1hd_crbkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-singh-medical-farrukhabad",
@@ -6311,7 +6258,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R.SINGH+MEDICAL/@27.3835986,79.5696995,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31002d78af55:0xaface9bcaf6f77d2!8m2!3d27.3835986!4d79.5696995!16s%2Fg%2F11vy874257?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.SINGH+MEDICAL/@27.3835986,79.5696995,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31002d78af55:0xaface9bcaf6f77d2!8m2!3d27.3835986!4d79.5696995!16s%2Fg%2F11vy874257?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6377,11 +6324,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R.SINGH+MEDICAL/@27.3835986,79.5696995,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31002d78af55:0xaface9bcaf6f77d2!8m2!3d27.3835986!4d79.5696995!16s%2Fg%2F11vy874257?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "radiaanto-hospital-farrukhabad",
@@ -6429,7 +6375,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Radiaanto+Hospital/@27.3877389,79.5987211,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3141697572e1:0x5b485a858ab2bda7!8m2!3d27.3877389!4d79.5987211!16s%2Fg%2F11t3hr4j29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiaanto+Hospital/@27.3877389,79.5987211,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3141697572e1:0x5b485a858ab2bda7!8m2!3d27.3877389!4d79.5987211!16s%2Fg%2F11t3hr4j29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6498,8 +6444,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Radiaanto+Hospital/@27.3877389,79.5987211,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3141697572e1:0x5b485a858ab2bda7!8m2!3d27.3877389!4d79.5987211!16s%2Fg%2F11t3hr4j29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rajni-hospital-farrukhabad",
@@ -6548,7 +6493,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rajni+Hospital/@27.3935222,79.5815905,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31cab5a93ed9:0xdcd6baad71188a63!8m2!3d27.3935222!4d79.5815905!16s%2Fg%2F11f123ywsn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajni+Hospital/@27.3935222,79.5815905,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31cab5a93ed9:0xdcd6baad71188a63!8m2!3d27.3935222!4d79.5815905!16s%2Fg%2F11f123ywsn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6617,8 +6562,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rajni+Hospital/@27.3935222,79.5815905,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31cab5a93ed9:0xdcd6baad71188a63!8m2!3d27.3935222!4d79.5815905!16s%2Fg%2F11f123ywsn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rajshree-hospital-farrukhabad",
@@ -6666,7 +6610,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RajShree+Hospital/@27.3763073,79.606675,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e327505ea5:0x1c9b48a3f577c827!8m2!3d27.3763073!4d79.606675!16s%2Fg%2F11j9ctcnd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RajShree+Hospital/@27.3763073,79.606675,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e327505ea5:0x1c9b48a3f577c827!8m2!3d27.3763073!4d79.606675!16s%2Fg%2F11j9ctcnd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6735,8 +6679,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RajShree+Hospital/@27.3763073,79.606675,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e327505ea5:0x1c9b48a3f577c827!8m2!3d27.3763073!4d79.606675!16s%2Fg%2F11j9ctcnd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rastogi-skin-care-clinic-fatehgarh",
@@ -6784,7 +6727,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rastogi+Skin+Care+Clinic/@27.3651267,79.6305356,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30bdaaed822b:0xf004dc915ad5a72c!8m2!3d27.3651267!4d79.6305356!16s%2Fg%2F11gcn2_td1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rastogi+Skin+Care+Clinic/@27.3651267,79.6305356,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30bdaaed822b:0xf004dc915ad5a72c!8m2!3d27.3651267!4d79.6305356!16s%2Fg%2F11gcn2_td1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6853,8 +6796,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rastogi+Skin+Care+Clinic/@27.3651267,79.6305356,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30bdaaed822b:0xf004dc915ad5a72c!8m2!3d27.3651267!4d79.6305356!16s%2Fg%2F11gcn2_td1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sah-dental-clinic-farrukhabad",
@@ -6902,7 +6844,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sah+Dental+Clinic/@27.3906398,79.5759878,17z/data=!3m1!4b1!4m6!3m5!1s0x399e311acb6faca1:0x6b8480ccc08eb3cb!8m2!3d27.3906398!4d79.5759878!16s%2Fg%2F11f7nqkmxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sah+Dental+Clinic/@27.3906398,79.5759878,17z/data=!3m1!4b1!4m6!3m5!1s0x399e311acb6faca1:0x6b8480ccc08eb3cb!8m2!3d27.3906398!4d79.5759878!16s%2Fg%2F11f7nqkmxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6971,8 +6913,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sah+Dental+Clinic/@27.3906398,79.5759878,17z/data=!3m1!4b1!4m6!3m5!1s0x399e311acb6faca1:0x6b8480ccc08eb3cb!8m2!3d27.3906398!4d79.5759878!16s%2Fg%2F11f7nqkmxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sahara-nursing-home-and-maternity-centre-farrukhabad",
@@ -7020,7 +6961,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAHARA+NURSING+HOME+%26+MATERNITY+CENTRE/@27.3798096,79.6114027,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3184cf0efa59:0x157c172859361d2c!8m2!3d27.3798096!4d79.6114027!16s%2Fg%2F11h7c9nqpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAHARA+NURSING+HOME+%26+MATERNITY+CENTRE/@27.3798096,79.6114027,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3184cf0efa59:0x157c172859361d2c!8m2!3d27.3798096!4d79.6114027!16s%2Fg%2F11h7c9nqpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7086,11 +7027,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAHARA+NURSING+HOME+%26+MATERNITY+CENTRE/@27.3798096,79.6114027,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3184cf0efa59:0x157c172859361d2c!8m2!3d27.3798096!4d79.6114027!16s%2Fg%2F11h7c9nqpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samarth-ivf-farrukhabad-farrukhabad",
@@ -7139,7 +7079,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samarth+IVF+Farrukhabad/@27.3796295,79.5989646,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31aea75a62a3:0x8d3bfa1fd933018b!8m2!3d27.3796295!4d79.5989646!16s%2Fg%2F11z5km0d8c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarth+IVF+Farrukhabad/@27.3796295,79.5989646,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31aea75a62a3:0x8d3bfa1fd933018b!8m2!3d27.3796295!4d79.5989646!16s%2Fg%2F11z5km0d8c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7205,11 +7145,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samarth+IVF+Farrukhabad/@27.3796295,79.5989646,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31aea75a62a3:0x8d3bfa1fd933018b!8m2!3d27.3796295!4d79.5989646!16s%2Fg%2F11z5km0d8c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satguru-clinic-and-hospital-farrukhabad",
@@ -7257,7 +7196,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SATGURU+CLINIC+%26+HOSPITAL/@27.376116,79.6077119,17z/data=!3m1!4b1!4m6!3m5!1s0x399e315255e2f74d:0x891d7349aff1c45c!8m2!3d27.376116!4d79.6077119!16s%2Fg%2F11vpqnkp5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SATGURU+CLINIC+%26+HOSPITAL/@27.376116,79.6077119,17z/data=!3m1!4b1!4m6!3m5!1s0x399e315255e2f74d:0x891d7349aff1c45c!8m2!3d27.376116!4d79.6077119!16s%2Fg%2F11vpqnkp5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7323,11 +7262,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SATGURU+CLINIC+%26+HOSPITAL/@27.376116,79.6077119,17z/data=!3m1!4b1!4m6!3m5!1s0x399e315255e2f74d:0x891d7349aff1c45c!8m2!3d27.376116!4d79.6077119!16s%2Fg%2F11vpqnkp5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satyam-hospital-farrukhabad",
@@ -7375,7 +7313,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Satyam+Hospital/@27.3821403,79.5957189,17z/data=!3m1!4b1!4m6!3m5!1s0x399e305a999a32a1:0xca62f7f94a3e4939!8m2!3d27.3821403!4d79.5957189!16s%2Fg%2F11c60_26bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyam+Hospital/@27.3821403,79.5957189,17z/data=!3m1!4b1!4m6!3m5!1s0x399e305a999a32a1:0xca62f7f94a3e4939!8m2!3d27.3821403!4d79.5957189!16s%2Fg%2F11c60_26bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7444,8 +7382,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Satyam+Hospital/@27.3821403,79.5957189,17z/data=!3m1!4b1!4m6!3m5!1s0x399e305a999a32a1:0xca62f7f94a3e4939!8m2!3d27.3821403!4d79.5957189!16s%2Fg%2F11c60_26bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saundarya-kaya-skin-cosmetic-clinic-fatehgarh",
@@ -7493,7 +7430,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saundarya+Kaya+Skin+Cosmetic+Clinic/@27.3660989,79.6251279,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3148d383e3f7:0x39cfbf7f43ac9212!8m2!3d27.3660989!4d79.6251279!16s%2Fg%2F11tnfnn3_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saundarya+Kaya+Skin+Cosmetic+Clinic/@27.3660989,79.6251279,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3148d383e3f7:0x39cfbf7f43ac9212!8m2!3d27.3660989!4d79.6251279!16s%2Fg%2F11tnfnn3_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7562,8 +7499,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saundarya+Kaya+Skin+Cosmetic+Clinic/@27.3660989,79.6251279,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3148d383e3f7:0x39cfbf7f43ac9212!8m2!3d27.3660989!4d79.6251279!16s%2Fg%2F11tnfnn3_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharan-hospital-farrukhabad",
@@ -7611,7 +7547,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharan+Hospital/@27.3798312,79.6049425,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31a7262f753f:0x19a7359adaaecb9!8m2!3d27.3798312!4d79.6049425!16s%2Fg%2F11jq2ph8dt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharan+Hospital/@27.3798312,79.6049425,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31a7262f753f:0x19a7359adaaecb9!8m2!3d27.3798312!4d79.6049425!16s%2Fg%2F11jq2ph8dt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7680,8 +7616,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharan+Hospital/@27.3798312,79.6049425,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31a7262f753f:0x19a7359adaaecb9!8m2!3d27.3798312!4d79.6049425!16s%2Fg%2F11jq2ph8dt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiva-ji-hospitals-and-heart-and-diabetes-center-farrukhabad",
@@ -7731,7 +7666,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiva+ji+Hospitals+%26+heart+and+diabetes+center/@27.3845983,79.5962483,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100658d87bf:0xd089268ad9f4790a!8m2!3d27.3845983!4d79.5962483!16s%2Fg%2F11w3bnb8xb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiva+ji+Hospitals+%26+heart+and+diabetes+center/@27.3845983,79.5962483,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100658d87bf:0xd089268ad9f4790a!8m2!3d27.3845983!4d79.5962483!16s%2Fg%2F11w3bnb8xb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7797,11 +7732,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiva+ji+Hospitals+%26+heart+and+diabetes+center/@27.3845983,79.5962483,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3100658d87bf:0xd089268ad9f4790a!8m2!3d27.3845983!4d79.5962483!16s%2Fg%2F11w3bnb8xb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivaji-hospital-and-heart-care-centre-farrukhabad",
@@ -7848,7 +7782,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivaji+Hospital+And+Heart+Care+Centre/@27.3845983,79.5962483,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31005c905b39:0x85b3180d2c8bc79b!8m2!3d27.3845983!4d79.5962483!16s%2Fg%2F11w_fhmftl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivaji+Hospital+And+Heart+Care+Centre/@27.3845983,79.5962483,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31005c905b39:0x85b3180d2c8bc79b!8m2!3d27.3845983!4d79.5962483!16s%2Fg%2F11w_fhmftl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7914,11 +7848,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivaji+Hospital+And+Heart+Care+Centre/@27.3845983,79.5962483,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31005c905b39:0x85b3180d2c8bc79b!8m2!3d27.3845983!4d79.5962483!16s%2Fg%2F11w_fhmftl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-babu-singh-jay-singh-hospital-farrukhabad-best-hospital-in-farrukhabad-farrukhabad",
@@ -7967,7 +7900,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Babu+Singh+Jay+Singh+Hospital+Farrukhabad+%7C+Best+Hospital+in+Farrukhabad/@27.3568963,79.5699208,17z/data=!3m1!4b1!4m6!3m5!1s0x399e316f85612905:0xc7a1431b94f31ae!8m2!3d27.3568963!4d79.5699208!16s%2Fg%2F11y82zzpgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Babu+Singh+Jay+Singh+Hospital+Farrukhabad+%7C+Best+Hospital+in+Farrukhabad/@27.3568963,79.5699208,17z/data=!3m1!4b1!4m6!3m5!1s0x399e316f85612905:0xc7a1431b94f31ae!8m2!3d27.3568963!4d79.5699208!16s%2Fg%2F11y82zzpgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8036,8 +7969,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Babu+Singh+Jay+Singh+Hospital+Farrukhabad+%7C+Best+Hospital+in+Farrukhabad/@27.3568963,79.5699208,17z/data=!3m1!4b1!4m6!3m5!1s0x399e316f85612905:0xc7a1431b94f31ae!8m2!3d27.3568963!4d79.5699208!16s%2Fg%2F11y82zzpgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "som-hospital-farrukhabad",
@@ -8085,7 +8017,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Som+Hospital/@27.38431,79.6073118,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3128f09353f7:0x1d775f7d2768536e!8m2!3d27.38431!4d79.6073118!16s%2Fg%2F11llhqtws8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Som+Hospital/@27.38431,79.6073118,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3128f09353f7:0x1d775f7d2768536e!8m2!3d27.38431!4d79.6073118!16s%2Fg%2F11llhqtws8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8151,11 +8083,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Som+Hospital/@27.38431,79.6073118,17z/data=!3m1!4b1!4m6!3m5!1s0x399e3128f09353f7:0x1d775f7d2768536e!8m2!3d27.38431!4d79.6073118!16s%2Fg%2F11llhqtws8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sri-banke-bihari-hospital-and-maternity-center-farrukhabad-farrukhabad",
@@ -8204,7 +8135,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sri+Banke+Bihari+Hospital+And+Maternity+Center,+Farrukhabad/@27.3847979,79.605763,17z/data=!3m1!4b1!4m6!3m5!1s0x399e314df6efcc19:0x1f4c9f8adf1b9701!8m2!3d27.3847979!4d79.605763!16s%2Fg%2F11k1hmwrkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Banke+Bihari+Hospital+And+Maternity+Center,+Farrukhabad/@27.3847979,79.605763,17z/data=!3m1!4b1!4m6!3m5!1s0x399e314df6efcc19:0x1f4c9f8adf1b9701!8m2!3d27.3847979!4d79.605763!16s%2Fg%2F11k1hmwrkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8273,8 +8204,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sri+Banke+Bihari+Hospital+And+Maternity+Center,+Farrukhabad/@27.3847979,79.605763,17z/data=!3m1!4b1!4m6!3m5!1s0x399e314df6efcc19:0x1f4c9f8adf1b9701!8m2!3d27.3847979!4d79.605763!16s%2Fg%2F11k1hmwrkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surya-hospital-baglakhula",
@@ -8322,7 +8252,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surya+Hospital/@27.3839075,79.6076373,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f8291676e7:0x8b3853cdcc10dd2a!8m2!3d27.3839075!4d79.6076373!16s%2Fg%2F11hctg8x6f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+Hospital/@27.3839075,79.6076373,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f8291676e7:0x8b3853cdcc10dd2a!8m2!3d27.3839075!4d79.6076373!16s%2Fg%2F11hctg8x6f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8391,8 +8321,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surya+Hospital/@27.3839075,79.6076373,17z/data=!3m1!4b1!4m6!3m5!1s0x399e30f8291676e7:0x8b3853cdcc10dd2a!8m2!3d27.3839075!4d79.6076373!16s%2Fg%2F11hctg8x6f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-family-hospital-and-diagnostic-centre-farrukhabad",
@@ -8440,7 +8369,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/THE+FAMILY+HOSPITAL+%26+DIAGNOSTIC+CENTRE/@27.3804798,79.604597,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31f908b4d409:0x4faa1f31920fb24c!8m2!3d27.3804798!4d79.604597!16s%2Fg%2F11hzk50dgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THE+FAMILY+HOSPITAL+%26+DIAGNOSTIC+CENTRE/@27.3804798,79.604597,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31f908b4d409:0x4faa1f31920fb24c!8m2!3d27.3804798!4d79.604597!16s%2Fg%2F11hzk50dgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8509,8 +8438,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/THE+FAMILY+HOSPITAL+%26+DIAGNOSTIC+CENTRE/@27.3804798,79.604597,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31f908b4d409:0x4faa1f31920fb24c!8m2!3d27.3804798!4d79.604597!16s%2Fg%2F11hzk50dgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vedanta-hospital-farrukhabad",
@@ -8558,7 +8486,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VEDANTA+HOSPITAL/@27.389555,79.5961396,17z/data=!3m1!4b1!4m6!3m5!1s0x399e310cb7c16ad3:0xded92031179dfa82!8m2!3d27.389555!4d79.5961396!16s%2Fg%2F11srmclg2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VEDANTA+HOSPITAL/@27.389555,79.5961396,17z/data=!3m1!4b1!4m6!3m5!1s0x399e310cb7c16ad3:0xded92031179dfa82!8m2!3d27.389555!4d79.5961396!16s%2Fg%2F11srmclg2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8627,8 +8555,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VEDANTA+HOSPITAL/@27.389555,79.5961396,17z/data=!3m1!4b1!4m6!3m5!1s0x399e310cb7c16ad3:0xded92031179dfa82!8m2!3d27.389555!4d79.5961396!16s%2Fg%2F11srmclg2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wellness-forever-physiotherapy-clinic-and-cp-child-rehabilitation-centre-farrukhabad",
@@ -8678,7 +8605,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Wellness+Forever+Physiotherapy+Clinic+and+cp+child+rehabilitation+centre/@27.3822519,79.6005567,17z/data=!3m1!4b1!4m6!3m5!1s0x399e316bc5406dd1:0x1ff3b37ba374f928!8m2!3d27.3822519!4d79.6005567!16s%2Fg%2F11qmrpv1sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wellness+Forever+Physiotherapy+Clinic+and+cp+child+rehabilitation+centre/@27.3822519,79.6005567,17z/data=!3m1!4b1!4m6!3m5!1s0x399e316bc5406dd1:0x1ff3b37ba374f928!8m2!3d27.3822519!4d79.6005567!16s%2Fg%2F11qmrpv1sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8747,8 +8674,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Wellness+Forever+Physiotherapy+Clinic+and+cp+child+rehabilitation+centre/@27.3822519,79.6005567,17z/data=!3m1!4b1!4m6!3m5!1s0x399e316bc5406dd1:0x1ff3b37ba374f928!8m2!3d27.3822519!4d79.6005567!16s%2Fg%2F11qmrpv1sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "farrukhabad",
@@ -8796,7 +8722,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF/@27.3902526,79.5964796,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e7217e0d5d:0x8142584b60207ceb!8m2!3d27.3902526!4d79.5964796!16s%2Fg%2F11f62s3yht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF/@27.3902526,79.5964796,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e7217e0d5d:0x8142584b60207ceb!8m2!3d27.3902526!4d79.5964796!16s%2Fg%2F11f62s3yht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8862,11 +8788,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AF/@27.3902526,79.5964796,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31e7217e0d5d:0x8142584b60207ceb!8m2!3d27.3902526!4d79.5964796!16s%2Fg%2F11f62s3yht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "farrukhabad",
@@ -8914,7 +8839,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%AA%E0%A5%89%E0%A4%B2%E0%A5%80+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@27.3932453,79.5873183,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31ae7065fb93:0x64c5a0193bf001ad!8m2!3d27.3932453!4d79.5873183!16s%2Fg%2F11h1261kmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%AA%E0%A5%89%E0%A4%B2%E0%A5%80+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@27.3932453,79.5873183,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31ae7065fb93:0x64c5a0193bf001ad!8m2!3d27.3932453!4d79.5873183!16s%2Fg%2F11h1261kmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8980,11 +8905,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%AA%E0%A5%89%E0%A4%B2%E0%A5%80+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@27.3932453,79.5873183,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31ae7065fb93:0x64c5a0193bf001ad!8m2!3d27.3932453!4d79.5873183!16s%2Fg%2F11h1261kmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "baglakhula",
@@ -9032,7 +8956,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%B6%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%95+%E0%A4%B9%E0%A5%8B%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%80%E0%A4%9F%E0%A4%B2/@27.3814147,79.6120304,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31fec1ba7e93:0xfaf789885de393ad!8m2!3d27.3814147!4d79.6120304!16s%2Fg%2F11fp9bp9m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B6%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%95+%E0%A4%B9%E0%A5%8B%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%80%E0%A4%9F%E0%A4%B2/@27.3814147,79.6120304,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31fec1ba7e93:0xfaf789885de393ad!8m2!3d27.3814147!4d79.6120304!16s%2Fg%2F11fp9bp9m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9098,10 +9022,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%B6%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7+%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%95+%E0%A4%B9%E0%A5%8B%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%80%E0%A4%9F%E0%A4%B2/@27.3814147,79.6120304,17z/data=!3m1!4b1!4m6!3m5!1s0x399e31fec1ba7e93:0xfaf789885de393ad!8m2!3d27.3814147!4d79.6120304!16s%2Fg%2F11fp9bp9m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

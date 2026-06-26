@@ -46,7 +46,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A.P+Healthcare+%26+Trauma+Centre/@30.3302642,76.3907115,17z/data=!3m1!4b1!4m6!3m5!1s0x391028e892dda9af:0xb1b040397ea2069!8m2!3d30.3302642!4d76.3907115!16s%2Fg%2F11fy0chgxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.P+Healthcare+%26+Trauma+Centre/@30.3302642,76.3907115,17z/data=!3m1!4b1!4m6!3m5!1s0x391028e892dda9af:0xb1b040397ea2069!8m2!3d30.3302642!4d76.3907115!16s%2Fg%2F11fy0chgxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -112,11 +112,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A.P+Healthcare+%26+Trauma+Centre/@30.3302642,76.3907115,17z/data=!3m1!4b1!4m6!3m5!1s0x391028e892dda9af:0xb1b040397ea2069!8m2!3d30.3302642!4d76.3907115!16s%2Fg%2F11fy0chgxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aastha-medical-center-patiala",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aastha+medical+center/@30.3330139,76.3821196,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c3e5fe8c4b:0xd6dba497b652c3c5!8m2!3d30.3330139!4d76.3821196!16s%2Fg%2F11fzff2zz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+medical+center/@30.3330139,76.3821196,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c3e5fe8c4b:0xd6dba497b652c3c5!8m2!3d30.3330139!4d76.3821196!16s%2Fg%2F11fzff2zz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -230,11 +229,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aastha+medical+center/@30.3330139,76.3821196,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c3e5fe8c4b:0xd6dba497b652c3c5!8m2!3d30.3330139!4d76.3821196!16s%2Fg%2F11fzff2zz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ab-lifecare-hospital-patiala",
@@ -282,7 +280,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AB+Lifecare+Hospital/@30.342786,76.3926515,17z/data=!3m1!4b1!4m6!3m5!1s0x39102944e89027dd:0xc05c5329505fae60!8m2!3d30.342786!4d76.3926515!16s%2Fg%2F11xgryh3jv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AB+Lifecare+Hospital/@30.342786,76.3926515,17z/data=!3m1!4b1!4m6!3m5!1s0x39102944e89027dd:0xc05c5329505fae60!8m2!3d30.342786!4d76.3926515!16s%2Fg%2F11xgryh3jv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -351,8 +349,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AB+Lifecare+Hospital/@30.342786,76.3926515,17z/data=!3m1!4b1!4m6!3m5!1s0x39102944e89027dd:0xc05c5329505fae60!8m2!3d30.342786!4d76.3926515!16s%2Fg%2F11xgryh3jv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "adarsh-hospital-patiala",
@@ -400,7 +397,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Adarsh+Hospital/data=!4m7!3m6!1s0x3910288c31a03f9f:0x23e76178df3d4269!8m2!3d30.3460478!4d76.4017173!16s%2Fg%2F11cs6f0f1j!19sChIJnz-gMYwoEDkRaUI933hh5yM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adarsh+Hospital/data=!4m7!3m6!1s0x3910288c31a03f9f:0x23e76178df3d4269!8m2!3d30.3460478!4d76.4017173!16s%2Fg%2F11cs6f0f1j!19sChIJnz-gMYwoEDkRaUI933hh5yM?authuser=0&hl=en&rclk=1"
@@ -469,8 +466,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Adarsh+Hospital/data=!4m7!3m6!1s0x3910288c31a03f9f:0x23e76178df3d4269!8m2!3d30.3460478!4d76.4017173!16s%2Fg%2F11cs6f0f1j!19sChIJnz-gMYwoEDkRaUI933hh5yM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advance-heart-care-patiala",
@@ -520,7 +516,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ADVANCE+HEART+CARE/@30.3443069,76.3669894,17z/data=!3m1!4b1!4m6!3m5!1s0x3910293fb77ab6eb:0xda5f9d134c27b88b!8m2!3d30.3443069!4d76.3669894!16s%2Fg%2F11zjr9bqyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADVANCE+HEART+CARE/@30.3443069,76.3669894,17z/data=!3m1!4b1!4m6!3m5!1s0x3910293fb77ab6eb:0xda5f9d134c27b88b!8m2!3d30.3443069!4d76.3669894!16s%2Fg%2F11zjr9bqyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -586,11 +582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ADVANCE+HEART+CARE/@30.3443069,76.3669894,17z/data=!3m1!4b1!4m6!3m5!1s0x3910293fb77ab6eb:0xda5f9d134c27b88b!8m2!3d30.3443069!4d76.3669894!16s%2Fg%2F11zjr9bqyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advanced-surgery-and-cosmetic-care-patiala",
@@ -636,7 +631,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Advanced+Surgery+%26+Cosmetic+Care/@30.3250791,76.3879388,17z/data=!3m1!4b1!4m6!3m5!1s0x3910298262bc8aa3:0xa31090aa5219f0d9!8m2!3d30.3250791!4d76.3879388!16s%2Fg%2F11f7kcb5f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Surgery+%26+Cosmetic+Care/@30.3250791,76.3879388,17z/data=!3m1!4b1!4m6!3m5!1s0x3910298262bc8aa3:0xa31090aa5219f0d9!8m2!3d30.3250791!4d76.3879388!16s%2Fg%2F11f7kcb5f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -702,11 +697,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Advanced+Surgery+%26+Cosmetic+Care/@30.3250791,76.3879388,17z/data=!3m1!4b1!4m6!3m5!1s0x3910298262bc8aa3:0xa31090aa5219f0d9!8m2!3d30.3250791!4d76.3879388!16s%2Fg%2F11f7kcb5f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aggarsain-hospital-patiala-patiala",
@@ -755,7 +749,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aggarsain+Hospital+Patiala/@30.3338046,76.4090574,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f7d24acbf9:0xe36b40f2c762b367!8m2!3d30.3338046!4d76.4090574!16s%2Fg%2F11f0_dp19c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aggarsain+Hospital+Patiala/@30.3338046,76.4090574,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f7d24acbf9:0xe36b40f2c762b367!8m2!3d30.3338046!4d76.4090574!16s%2Fg%2F11f0_dp19c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -824,8 +818,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aggarsain+Hospital+Patiala/@30.3338046,76.4090574,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f7d24acbf9:0xe36b40f2c762b367!8m2!3d30.3338046!4d76.4090574!16s%2Fg%2F11f0_dp19c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aggarwal-clearsight-eye-hospital-best-cataract-surgery-in-patiala-best-cornea-and-retina-centre-patiala",
@@ -875,7 +868,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aggarwal+ClearSight+Eye+Hospital+%7C%7CBest+Cataract+Surgery+in+Patiala%7C%7C+Best+Cornea+%26+Retina+Centre%7C%7C/@30.3497383,76.4446859,17z/data=!3m1!4b1!4m6!3m5!1s0x391029004b2ea8d1:0x68c752af5e2f6144!8m2!3d30.3497383!4d76.4446859!16s%2Fg%2F11xv9vjb98?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aggarwal+ClearSight+Eye+Hospital+%7C%7CBest+Cataract+Surgery+in+Patiala%7C%7C+Best+Cornea+%26+Retina+Centre%7C%7C/@30.3497383,76.4446859,17z/data=!3m1!4b1!4m6!3m5!1s0x391029004b2ea8d1:0x68c752af5e2f6144!8m2!3d30.3497383!4d76.4446859!16s%2Fg%2F11xv9vjb98?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -941,11 +934,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aggarwal+ClearSight+Eye+Hospital+%7C%7CBest+Cataract+Surgery+in+Patiala%7C%7C+Best+Cornea+%26+Retina+Centre%7C%7C/@30.3497383,76.4446859,17z/data=!3m1!4b1!4m6!3m5!1s0x391029004b2ea8d1:0x68c752af5e2f6144!8m2!3d30.3497383!4d76.4446859!16s%2Fg%2F11xv9vjb98?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aggarwal-clinic-patiala",
@@ -993,7 +985,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aggarwal+Clinic/@30.3554562,76.4038308,17z/data=!3m1!4b1!4m6!3m5!1s0x39102885d38b853d:0xfb6652c06ded94df!8m2!3d30.3554562!4d76.4038308!16s%2Fg%2F11hbjk1rgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aggarwal+Clinic/@30.3554562,76.4038308,17z/data=!3m1!4b1!4m6!3m5!1s0x39102885d38b853d:0xfb6652c06ded94df!8m2!3d30.3554562!4d76.4038308!16s%2Fg%2F11hbjk1rgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1059,11 +1051,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aggarwal+Clinic/@30.3554562,76.4038308,17z/data=!3m1!4b1!4m6!3m5!1s0x39102885d38b853d:0xfb6652c06ded94df!8m2!3d30.3554562!4d76.4038308!16s%2Fg%2F11hbjk1rgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aggarwal-health-care-patiala",
@@ -1113,7 +1104,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aggarwal+Health+Care/@30.3655071,76.3680906,17z/data=!3m1!4b1!4m6!3m5!1s0x39102601362e05e3:0x62a89f27ebe26860!8m2!3d30.3655071!4d76.3680906!16s%2Fg%2F11b6vjjnvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aggarwal+Health+Care/@30.3655071,76.3680906,17z/data=!3m1!4b1!4m6!3m5!1s0x39102601362e05e3:0x62a89f27ebe26860!8m2!3d30.3655071!4d76.3680906!16s%2Fg%2F11b6vjjnvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1182,8 +1173,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aggarwal+Health+Care/@30.3655071,76.3680906,17z/data=!3m1!4b1!4m6!3m5!1s0x39102601362e05e3:0x62a89f27ebe26860!8m2!3d30.3655071!4d76.3680906!16s%2Fg%2F11b6vjjnvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aggarwal-hospital-patiala",
@@ -1231,7 +1221,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aggarwal+Hospital/@30.3410829,76.446135,17z/data=!3m1!4b1!4m6!3m5!1s0x39102816ffffffff:0x89db7e11212c9fed!8m2!3d30.3410829!4d76.446135!16s%2Fg%2F1tfh30wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aggarwal+Hospital/@30.3410829,76.446135,17z/data=!3m1!4b1!4m6!3m5!1s0x39102816ffffffff:0x89db7e11212c9fed!8m2!3d30.3410829!4d76.446135!16s%2Fg%2F1tfh30wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1300,8 +1290,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aggarwal+Hospital/@30.3410829,76.446135,17z/data=!3m1!4b1!4m6!3m5!1s0x39102816ffffffff:0x89db7e11212c9fed!8m2!3d30.3410829!4d76.446135!16s%2Fg%2F1tfh30wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akal-hospital-sular",
@@ -1349,7 +1338,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Akal+Hospital/@30.3130511,76.3842563,17z/data=!3m1!4b1!4m6!3m5!1s0x39102921a82fc863:0x46f5ea4c1a9dfd92!8m2!3d30.3130511!4d76.3842563!16s%2Fg%2F11cn0qv4k6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akal+Hospital/@30.3130511,76.3842563,17z/data=!3m1!4b1!4m6!3m5!1s0x39102921a82fc863:0x46f5ea4c1a9dfd92!8m2!3d30.3130511!4d76.3842563!16s%2Fg%2F11cn0qv4k6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1418,8 +1407,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Akal+Hospital/@30.3130511,76.3842563,17z/data=!3m1!4b1!4m6!3m5!1s0x39102921a82fc863:0x46f5ea4c1a9dfd92!8m2!3d30.3130511!4d76.3842563!16s%2Fg%2F11cn0qv4k6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "alfa-radiological-centre-patiala",
@@ -1467,7 +1455,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Alfa+Radiological+Centre/@30.3311713,76.3829957,17z/data=!3m1!4b1!4m6!3m5!1s0x391029543dc6b4cd:0x7384aec6af7bf9e3!8m2!3d30.3311713!4d76.3829957!16s%2Fg%2F11rqgd7xw3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alfa+Radiological+Centre/@30.3311713,76.3829957,17z/data=!3m1!4b1!4m6!3m5!1s0x391029543dc6b4cd:0x7384aec6af7bf9e3!8m2!3d30.3311713!4d76.3829957!16s%2Fg%2F11rqgd7xw3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1536,8 +1524,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Alfa+Radiological+Centre/@30.3311713,76.3829957,17z/data=!3m1!4b1!4m6!3m5!1s0x391029543dc6b4cd:0x7384aec6af7bf9e3!8m2!3d30.3311713!4d76.3829957!16s%2Fg%2F11rqgd7xw3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amar-hospital-patiala-patiala",
@@ -1586,7 +1573,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Amar+Hospital+Patiala/@30.3328589,76.3821362,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c1927afcc9:0xefcdd448cfd16ea8!8m2!3d30.3328589!4d76.3821362!16s%2Fg%2F11c2pq5z_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amar+Hospital+Patiala/@30.3328589,76.3821362,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c1927afcc9:0xefcdd448cfd16ea8!8m2!3d30.3328589!4d76.3821362!16s%2Fg%2F11c2pq5z_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1655,8 +1642,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Amar+Hospital+Patiala/@30.3328589,76.3821362,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c1927afcc9:0xefcdd448cfd16ea8!8m2!3d30.3328589!4d76.3821362!16s%2Fg%2F11c2pq5z_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amg-health-patiala",
@@ -1705,7 +1691,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AMG+HEALTH/@30.3452682,76.3720023,17z/data=!3m1!4b1!4m6!3m5!1s0x3910293dcc6feab5:0x8c33c0811df7b322!8m2!3d30.3452682!4d76.3720023!16s%2Fg%2F11yvj1t395?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMG+HEALTH/@30.3452682,76.3720023,17z/data=!3m1!4b1!4m6!3m5!1s0x3910293dcc6feab5:0x8c33c0811df7b322!8m2!3d30.3452682!4d76.3720023!16s%2Fg%2F11yvj1t395?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1774,8 +1760,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AMG+HEALTH/@30.3452682,76.3720023,17z/data=!3m1!4b1!4m6!3m5!1s0x3910293dcc6feab5:0x8c33c0811df7b322!8m2!3d30.3452682!4d76.3720023!16s%2Fg%2F11yvj1t395?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arogyam-ayurvedic-allergy-hospital-patiala",
@@ -1824,7 +1809,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arogyam+Ayurvedic+Allergy+Hospital/@30.3459177,76.3954507,17z/data=!3m1!4b1!4m6!3m5!1s0x39102953cc1d1cf1:0x834e0083056e804f!8m2!3d30.3459177!4d76.3954507!16s%2Fg%2F11g1y60gmy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arogyam+Ayurvedic+Allergy+Hospital/@30.3459177,76.3954507,17z/data=!3m1!4b1!4m6!3m5!1s0x39102953cc1d1cf1:0x834e0083056e804f!8m2!3d30.3459177!4d76.3954507!16s%2Fg%2F11g1y60gmy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1893,8 +1878,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arogyam+Ayurvedic+Allergy+Hospital/@30.3459177,76.3954507,17z/data=!3m1!4b1!4m6!3m5!1s0x39102953cc1d1cf1:0x834e0083056e804f!8m2!3d30.3459177!4d76.3954507!16s%2Fg%2F11g1y60gmy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asha-s-arogya-kaya-and-panchkarma-ayurvedic-clinic-patiala-patiala",
@@ -1943,7 +1927,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asha%E2%80%99s+Arogya+Kaya+%26+Panchkarma+%7C+Ayurvedic+Clinic+Patiala/@30.3572972,76.3873919,17z/data=!3m1!4b1!4m6!3m5!1s0x3910293fe9ff6ad7:0xfa65416f754dc635!8m2!3d30.3572972!4d76.3873919!16s%2Fg%2F11m9kfn0bs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asha%E2%80%99s+Arogya+Kaya+%26+Panchkarma+%7C+Ayurvedic+Clinic+Patiala/@30.3572972,76.3873919,17z/data=!3m1!4b1!4m6!3m5!1s0x3910293fe9ff6ad7:0xfa65416f754dc635!8m2!3d30.3572972!4d76.3873919!16s%2Fg%2F11m9kfn0bs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2012,8 +1996,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asha%E2%80%99s+Arogya+Kaya+%26+Panchkarma+%7C+Ayurvedic+Clinic+Patiala/@30.3572972,76.3873919,17z/data=!3m1!4b1!4m6!3m5!1s0x3910293fe9ff6ad7:0xfa65416f754dc635!8m2!3d30.3572972!4d76.3873919!16s%2Fg%2F11m9kfn0bs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashu-nursing-home-patiala",
@@ -2061,7 +2044,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashu+Nursing+Home/data=!4m7!3m6!1s0x391029e26685ef99:0x34e3311de10842d8!8m2!3d30.3189341!4d76.4174835!16s%2Fg%2F11rqcdrzk_!19sChIJme-FZuIpEDkR2EII4R0x4zQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashu+Nursing+Home/data=!4m7!3m6!1s0x391029e26685ef99:0x34e3311de10842d8!8m2!3d30.3189341!4d76.4174835!16s%2Fg%2F11rqcdrzk_!19sChIJme-FZuIpEDkR2EII4R0x4zQ?authuser=0&hl=en&rclk=1"
@@ -2130,8 +2113,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashu+Nursing+Home/data=!4m7!3m6!1s0x391029e26685ef99:0x34e3311de10842d8!8m2!3d30.3189341!4d76.4174835!16s%2Fg%2F11rqcdrzk_!19sChIJme-FZuIpEDkR2EII4R0x4zQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "balaji-heart-institute-patiala",
@@ -2180,7 +2162,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Balaji+Heart+Institute/@30.366224,76.367906,17z/data=!3m1!4b1!4m6!3m5!1s0x39102606cb7c2521:0xa48419fb0b6e3ea7!8m2!3d30.366224!4d76.367906!16s%2Fg%2F11bxk6knw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balaji+Heart+Institute/@30.366224,76.367906,17z/data=!3m1!4b1!4m6!3m5!1s0x39102606cb7c2521:0xa48419fb0b6e3ea7!8m2!3d30.366224!4d76.367906!16s%2Fg%2F11bxk6knw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2249,8 +2231,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Balaji+Heart+Institute/@30.366224,76.367906,17z/data=!3m1!4b1!4m6!3m5!1s0x39102606cb7c2521:0xa48419fb0b6e3ea7!8m2!3d30.366224!4d76.367906!16s%2Fg%2F11bxk6knw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bansal-child-care-hospital-and-vaccination-center-patiala",
@@ -2299,7 +2280,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bansal+Child+Care+Hospital+%26+Vaccination+Center/@30.3316007,76.3816539,17z/data=!3m1!4b1!4m6!3m5!1s0x391029403f6e0519:0x5cb99b048dcac07!8m2!3d30.3316007!4d76.3816539!16s%2Fg%2F11c5xlxk0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal+Child+Care+Hospital+%26+Vaccination+Center/@30.3316007,76.3816539,17z/data=!3m1!4b1!4m6!3m5!1s0x391029403f6e0519:0x5cb99b048dcac07!8m2!3d30.3316007!4d76.3816539!16s%2Fg%2F11c5xlxk0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2368,8 +2349,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bansal+Child+Care+Hospital+%26+Vaccination+Center/@30.3316007,76.3816539,17z/data=!3m1!4b1!4m6!3m5!1s0x391029403f6e0519:0x5cb99b048dcac07!8m2!3d30.3316007!4d76.3816539!16s%2Fg%2F11c5xlxk0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhatia-cancer-center-patiala",
@@ -2419,7 +2399,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhatia+Cancer+Center/@30.3336241,76.3735529,17z/data=!3m1!4b1!4m6!3m5!1s0x391029f00fc71157:0xf5bb00fa81c748a0!8m2!3d30.3336241!4d76.3735529!16s%2Fg%2F11y_qmp0qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhatia+Cancer+Center/@30.3336241,76.3735529,17z/data=!3m1!4b1!4m6!3m5!1s0x391029f00fc71157:0xf5bb00fa81c748a0!8m2!3d30.3336241!4d76.3735529!16s%2Fg%2F11y_qmp0qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2488,8 +2468,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhatia+Cancer+Center/@30.3336241,76.3735529,17z/data=!3m1!4b1!4m6!3m5!1s0x391029f00fc71157:0xf5bb00fa81c748a0!8m2!3d30.3336241!4d76.3735529!16s%2Fg%2F11y_qmp0qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "boparai-s-tooth-care-centre-patiala",
@@ -2537,7 +2516,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Boparai%E2%80%99s+Tooth+Care+Centre/@30.3657586,76.3683356,17z/data=!3m1!4b1!4m6!3m5!1s0x3910271eeee02a05:0x90298d647bccf103!8m2!3d30.3657586!4d76.3683356!16s%2Fg%2F11fl8t6kpc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Boparai%E2%80%99s+Tooth+Care+Centre/@30.3657586,76.3683356,17z/data=!3m1!4b1!4m6!3m5!1s0x3910271eeee02a05:0x90298d647bccf103!8m2!3d30.3657586!4d76.3683356!16s%2Fg%2F11fl8t6kpc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2603,11 +2582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Boparai%E2%80%99s+Tooth+Care+Centre/@30.3657586,76.3683356,17z/data=!3m1!4b1!4m6!3m5!1s0x3910271eeee02a05:0x90298d647bccf103!8m2!3d30.3657586!4d76.3683356!16s%2Fg%2F11fl8t6kpc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "brain-hospital-22-no-phatak",
@@ -2656,7 +2634,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Brain+Hospital/@30.3410417,76.380541,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b8d6ad53ff:0x20b53590c67106fd!8m2!3d30.3410417!4d76.380541!16s%2Fg%2F1tc_718l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brain+Hospital/@30.3410417,76.380541,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b8d6ad53ff:0x20b53590c67106fd!8m2!3d30.3410417!4d76.380541!16s%2Fg%2F1tc_718l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2725,8 +2703,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Brain+Hospital/@30.3410417,76.380541,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b8d6ad53ff:0x20b53590c67106fd!8m2!3d30.3410417!4d76.380541!16s%2Fg%2F1tc_718l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cd-nursing-home-patiala",
@@ -2775,7 +2752,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/CD+Nursing+Home/@30.3382451,76.3796487,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c742a74dbb:0x86836ca673d91bad!8m2!3d30.3382451!4d76.3796487!16s%2Fg%2F11f3zsrxnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CD+Nursing+Home/@30.3382451,76.3796487,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c742a74dbb:0x86836ca673d91bad!8m2!3d30.3382451!4d76.3796487!16s%2Fg%2F11f3zsrxnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2844,8 +2821,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/CD+Nursing+Home/@30.3382451,76.3796487,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c742a74dbb:0x86836ca673d91bad!8m2!3d30.3382451!4d76.3796487!16s%2Fg%2F11f3zsrxnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "charanjeet-dental-clinic-patiala",
@@ -2894,7 +2870,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Charanjeet+Dental+Clinic/@30.3445221,76.383657,17z/data=!3m1!4b1!4m6!3m5!1s0x391028be86f0c163:0x95bda465c283c8fc!8m2!3d30.3445221!4d76.383657!16s%2Fg%2F11c7sqktgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Charanjeet+Dental+Clinic/@30.3445221,76.383657,17z/data=!3m1!4b1!4m6!3m5!1s0x391028be86f0c163:0x95bda465c283c8fc!8m2!3d30.3445221!4d76.383657!16s%2Fg%2F11c7sqktgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2963,8 +2939,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Charanjeet+Dental+Clinic/@30.3445221,76.383657,17z/data=!3m1!4b1!4m6!3m5!1s0x391028be86f0c163:0x95bda465c283c8fc!8m2!3d30.3445221!4d76.383657!16s%2Fg%2F11c7sqktgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "charanjeet-dental-clinic-patiala",
@@ -3012,7 +2987,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Charanjeet+Dental+Clinic/@30.3508611,76.4339798,17z/data=!3m1!4b1!4m6!3m5!1s0x391029d2c27bf8d5:0xa34524c69611256e!8m2!3d30.3508611!4d76.4339798!16s%2Fg%2F11f7gxstkv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Charanjeet+Dental+Clinic/@30.3508611,76.4339798,17z/data=!3m1!4b1!4m6!3m5!1s0x391029d2c27bf8d5:0xa34524c69611256e!8m2!3d30.3508611!4d76.4339798!16s%2Fg%2F11f7gxstkv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3081,8 +3056,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Charanjeet+Dental+Clinic/@30.3508611,76.4339798,17z/data=!3m1!4b1!4m6!3m5!1s0x391029d2c27bf8d5:0xa34524c69611256e!8m2!3d30.3508611!4d76.4339798!16s%2Fg%2F11f7gxstkv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cheema-infertility-clinic-patiala-patiala",
@@ -3132,7 +3106,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cheema+Infertility+Clinic+Patiala/@30.3350393,76.3839049,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c17c1cf567:0x658c8ef9f1b0331c!8m2!3d30.3350393!4d76.3839049!16s%2Fg%2F11b76f3dxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cheema+Infertility+Clinic+Patiala/@30.3350393,76.3839049,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c17c1cf567:0x658c8ef9f1b0331c!8m2!3d30.3350393!4d76.3839049!16s%2Fg%2F11b76f3dxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3201,8 +3175,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cheema+Infertility+Clinic+Patiala/@30.3350393,76.3839049,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c17c1cf567:0x658c8ef9f1b0331c!8m2!3d30.3350393!4d76.3839049!16s%2Fg%2F11b76f3dxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-dental-care-centre-patiala",
@@ -3250,7 +3223,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Dental+Care+Centre/@30.339616,76.404793,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f50fffffff:0x784bc798dfa7c5f6!8m2!3d30.339616!4d76.404793!16s%2Fg%2F1tfbg39x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Dental+Care+Centre/@30.339616,76.404793,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f50fffffff:0x784bc798dfa7c5f6!8m2!3d30.339616!4d76.404793!16s%2Fg%2F1tfbg39x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3319,8 +3292,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Dental+Care+Centre/@30.339616,76.404793,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f50fffffff:0x784bc798dfa7c5f6!8m2!3d30.339616!4d76.404793!16s%2Fg%2F1tfbg39x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "clinic-reborn-patiala",
@@ -3369,7 +3341,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Clinic+Reborn/@30.3345116,76.3844022,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c17c3f15c9:0xb4eee7c568cbb5a1!8m2!3d30.3345116!4d76.3844022!16s%2Fg%2F11b745v26h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic+Reborn/@30.3345116,76.3844022,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c17c3f15c9:0xb4eee7c568cbb5a1!8m2!3d30.3345116!4d76.3844022!16s%2Fg%2F11b745v26h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3438,8 +3410,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Clinic+Reborn/@30.3345116,76.3844022,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c17c3f15c9:0xb4eee7c568cbb5a1!8m2!3d30.3345116!4d76.3844022!16s%2Fg%2F11b745v26h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "columbia-asia-fertility-and-ivf-centre-patiala-first-floor-phatak",
@@ -3488,7 +3459,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Columbia+Asia+Fertility+%26+IVF+Centre+-+Patiala/@30.3444107,76.3794716,17z/data=!3m1!4b1!4m6!3m5!1s0x39102900072d472b:0xf1d71879a81154b1!8m2!3d30.3444107!4d76.3794716!16s%2Fg%2F11nz3tmt7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Columbia+Asia+Fertility+%26+IVF+Centre+-+Patiala/@30.3444107,76.3794716,17z/data=!3m1!4b1!4m6!3m5!1s0x39102900072d472b:0xf1d71879a81154b1!8m2!3d30.3444107!4d76.3794716!16s%2Fg%2F11nz3tmt7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3554,11 +3525,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Columbia+Asia+Fertility+%26+IVF+Centre+-+Patiala/@30.3444107,76.3794716,17z/data=!3m1!4b1!4m6!3m5!1s0x39102900072d472b:0xf1d71879a81154b1!8m2!3d30.3444107!4d76.3794716!16s%2Fg%2F11nz3tmt7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "community-health-centre-model-town-patiala",
@@ -3607,7 +3577,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Community+Health+Centre+Model+Town/@30.3419175,76.3661465,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b6c0000001:0xb26c6caa0c464ffa!8m2!3d30.3419175!4d76.3661465!16s%2Fg%2F1td2s8kh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Community+Health+Centre+Model+Town/@30.3419175,76.3661465,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b6c0000001:0xb26c6caa0c464ffa!8m2!3d30.3419175!4d76.3661465!16s%2Fg%2F1td2s8kh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3676,8 +3646,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Community+Health+Centre+Model+Town/@30.3419175,76.3661465,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b6c0000001:0xb26c6caa0c464ffa!8m2!3d30.3419175!4d76.3661465!16s%2Fg%2F1td2s8kh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "comprehensive-hpb-gi-and-liver-transplant-clinic-sahibzada-ajit-singh-nagar",
@@ -3726,7 +3695,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Comprehensive+HPB,+GI+%26+Liver+Transplant+Clinic/@30.7042912,76.7104408,17z/data=!3m1!4b1!4m6!3m5!1s0x390fef0016088d13:0x63a806526ea0c82e!8m2!3d30.7042912!4d76.7104408!16s%2Fg%2F11y3lrkqp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Comprehensive+HPB,+GI+%26+Liver+Transplant+Clinic/@30.7042912,76.7104408,17z/data=!3m1!4b1!4m6!3m5!1s0x390fef0016088d13:0x63a806526ea0c82e!8m2!3d30.7042912!4d76.7104408!16s%2Fg%2F11y3lrkqp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3792,11 +3761,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Comprehensive+HPB,+GI+%26+Liver+Transplant+Clinic/@30.7042912,76.7104408,17z/data=!3m1!4b1!4m6!3m5!1s0x390fef0016088d13:0x63a806526ea0c82e!8m2!3d30.7042912!4d76.7104408!16s%2Fg%2F11y3lrkqp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dang-hospital-patiala",
@@ -3844,7 +3812,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dang+Hospital/@30.3393155,76.4023228,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd7e549995:0xac6a35a4d3b950cf!8m2!3d30.3393155!4d76.4023228!16s%2Fg%2F119vlz4hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dang+Hospital/@30.3393155,76.4023228,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd7e549995:0xac6a35a4d3b950cf!8m2!3d30.3393155!4d76.4023228!16s%2Fg%2F119vlz4hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3913,8 +3881,7 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dang+Hospital/@30.3393155,76.4023228,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd7e549995:0xac6a35a4d3b950cf!8m2!3d30.3393155!4d76.4023228!16s%2Fg%2F119vlz4hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "deep-dental-care-implant-and-physiotherapy-centre-patiala",
@@ -3962,7 +3929,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Deep+Dental+Care,+Implant+%26+Physiotherapy+Centre/@30.3506511,76.439148,17z/data=!3m1!4b1!4m6!3m5!1s0x391029b17750b655:0xcf67114119d05c12!8m2!3d30.3506511!4d76.439148!16s%2Fg%2F11h5l3w4tf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deep+Dental+Care,+Implant+%26+Physiotherapy+Centre/@30.3506511,76.439148,17z/data=!3m1!4b1!4m6!3m5!1s0x391029b17750b655:0xcf67114119d05c12!8m2!3d30.3506511!4d76.439148!16s%2Fg%2F11h5l3w4tf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4031,8 +3998,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Deep+Dental+Care,+Implant+%26+Physiotherapy+Centre/@30.3506511,76.439148,17z/data=!3m1!4b1!4m6!3m5!1s0x391029b17750b655:0xcf67114119d05c12!8m2!3d30.3506511!4d76.439148!16s%2Fg%2F11h5l3w4tf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "deep-hospital-best-surgical-hospital-gynaecology-ultrasound-x-ray-centre-ecg-in-patiala-patiala",
@@ -4081,7 +4047,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Deep+Hospital+-+Best+Surgical+Hospital+%7C+Gynaecology+%7C+Ultrasound+%7C+X+Ray+Centre+%7C+ECG+in+Patiala/@30.3559521,76.4556846,17z/data=!3m1!4b1!4m6!3m5!1s0x3910281d6507f81f:0xfe96e0ffdb924b!8m2!3d30.3559521!4d76.4556846!16s%2Fg%2F1hf22fcf7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deep+Hospital+-+Best+Surgical+Hospital+%7C+Gynaecology+%7C+Ultrasound+%7C+X+Ray+Centre+%7C+ECG+in+Patiala/@30.3559521,76.4556846,17z/data=!3m1!4b1!4m6!3m5!1s0x3910281d6507f81f:0xfe96e0ffdb924b!8m2!3d30.3559521!4d76.4556846!16s%2Fg%2F1hf22fcf7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4150,8 +4116,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Deep+Hospital+-+Best+Surgical+Hospital+%7C+Gynaecology+%7C+Ultrasound+%7C+X+Ray+Centre+%7C+ECG+in+Patiala/@30.3559521,76.4556846,17z/data=!3m1!4b1!4m6!3m5!1s0x3910281d6507f81f:0xfe96e0ffdb924b!8m2!3d30.3559521!4d76.4556846!16s%2Fg%2F1hf22fcf7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dent-o-care-family-dental-clinic-patiala",
@@ -4199,7 +4164,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dent-O-Care+Family+Dental+Clinic/@30.352297,76.398143,17z/data=!3m1!4b1!4m6!3m5!1s0x39102891211ff707:0x88f17dcc4a7b4ad8!8m2!3d30.352297!4d76.398143!16s%2Fg%2F11c1g5qm_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dent-O-Care+Family+Dental+Clinic/@30.352297,76.398143,17z/data=!3m1!4b1!4m6!3m5!1s0x39102891211ff707:0x88f17dcc4a7b4ad8!8m2!3d30.352297!4d76.398143!16s%2Fg%2F11c1g5qm_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4268,8 +4233,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dent-O-Care+Family+Dental+Clinic/@30.352297,76.398143,17z/data=!3m1!4b1!4m6!3m5!1s0x39102891211ff707:0x88f17dcc4a7b4ad8!8m2!3d30.352297!4d76.398143!16s%2Fg%2F11c1g5qm_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-zone-dental-clinic-patiala",
@@ -4318,7 +4282,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+zone+dental+clinic/@30.3405788,76.3686556,17z/data=!3m1!4b1!4m6!3m5!1s0x391029c736f99727:0x310d0f0ee5f1231b!8m2!3d30.3405788!4d76.3686556!16s%2Fg%2F11h64thclc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+zone+dental+clinic/@30.3405788,76.3686556,17z/data=!3m1!4b1!4m6!3m5!1s0x391029c736f99727:0x310d0f0ee5f1231b!8m2!3d30.3405788!4d76.3686556!16s%2Fg%2F11h64thclc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4387,8 +4351,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+zone+dental+clinic/@30.3405788,76.3686556,17z/data=!3m1!4b1!4m6!3m5!1s0x391029c736f99727:0x310d0f0ee5f1231b!8m2!3d30.3405788!4d76.3686556!16s%2Fg%2F11h64thclc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dream-ivf-best-ivf-centre-in-patiala-best-ivf-in-patiala-patiala",
@@ -4438,7 +4401,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dream+IVF+%7C+Best+IVF+centre+in+Patiala+%7C+Best+IVF+in+Patiala/@30.335079,76.3859577,17z/data=!3m1!4b1!4m6!3m5!1s0x3910298705dc32ff:0x5e5858b88b671860!8m2!3d30.335079!4d76.3859577!16s%2Fg%2F11mdmm259g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dream+IVF+%7C+Best+IVF+centre+in+Patiala+%7C+Best+IVF+in+Patiala/@30.335079,76.3859577,17z/data=!3m1!4b1!4m6!3m5!1s0x3910298705dc32ff:0x5e5858b88b671860!8m2!3d30.335079!4d76.3859577!16s%2Fg%2F11mdmm259g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4507,8 +4470,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dream+IVF+%7C+Best+IVF+centre+in+Patiala+%7C+Best+IVF+in+Patiala/@30.335079,76.3859577,17z/data=!3m1!4b1!4m6!3m5!1s0x3910298705dc32ff:0x5e5858b88b671860!8m2!3d30.335079!4d76.3859577!16s%2Fg%2F11mdmm259g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "duggal-dental-clinic-patiala",
@@ -4557,7 +4519,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Duggal+Dental+Clinic/@30.3507066,76.396614,17z/data=!3m1!4b1!4m6!3m5!1s0x391028903e176013:0xb721bbbc0127e331!8m2!3d30.3507066!4d76.396614!16s%2Fg%2F12hkynfdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Duggal+Dental+Clinic/@30.3507066,76.396614,17z/data=!3m1!4b1!4m6!3m5!1s0x391028903e176013:0xb721bbbc0127e331!8m2!3d30.3507066!4d76.396614!16s%2Fg%2F12hkynfdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4626,8 +4588,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Duggal+Dental+Clinic/@30.3507066,76.396614,17z/data=!3m1!4b1!4m6!3m5!1s0x391028903e176013:0xb721bbbc0127e331!8m2!3d30.3507066!4d76.396614!16s%2Fg%2F12hkynfdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "focus-hair-transplant-centre-patiala",
@@ -4676,7 +4637,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Focus+Hair+Transplant+Centre/@30.326356,76.404743,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f966f1f55d:0x3bbb94ec039f2288!8m2!3d30.326356!4d76.404743!16s%2Fg%2F11dfgcjgvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Focus+Hair+Transplant+Centre/@30.326356,76.404743,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f966f1f55d:0x3bbb94ec039f2288!8m2!3d30.326356!4d76.404743!16s%2Fg%2F11dfgcjgvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4742,11 +4703,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Focus+Hair+Transplant+Centre/@30.326356,76.404743,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f966f1f55d:0x3bbb94ec039f2288!8m2!3d30.326356!4d76.404743!16s%2Fg%2F11dfgcjgvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "galaxy-hospital-patiala",
@@ -4795,7 +4755,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Galaxy+Hospital/@30.3449242,76.3710769,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b0e633db29:0xdd068283f265ae9f!8m2!3d30.3449242!4d76.3710769!16s%2Fg%2F11f2xmd9rj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Galaxy+Hospital/@30.3449242,76.3710769,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b0e633db29:0xdd068283f265ae9f!8m2!3d30.3449242!4d76.3710769!16s%2Fg%2F11f2xmd9rj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4864,8 +4824,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Galaxy+Hospital/@30.3449242,76.3710769,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b0e633db29:0xdd068283f265ae9f!8m2!3d30.3449242!4d76.3710769!16s%2Fg%2F11f2xmd9rj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "garg-dental-care-patiala",
@@ -4913,7 +4872,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/garg+dental+care/data=!4m7!3m6!1s0x391029e3497da71b:0x2c9c555d17d6df1!8m2!3d30.329391!4d76.4086447!16s%2Fg%2F11ry7hb5fk!19sChIJG6d9SeMpEDkR8W190VXFyQI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/garg+dental+care/data=!4m7!3m6!1s0x391029e3497da71b:0x2c9c555d17d6df1!8m2!3d30.329391!4d76.4086447!16s%2Fg%2F11ry7hb5fk!19sChIJG6d9SeMpEDkR8W190VXFyQI?authuser=0&hl=en&rclk=1"
@@ -4979,11 +4938,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/garg+dental+care/data=!4m7!3m6!1s0x391029e3497da71b:0x2c9c555d17d6df1!8m2!3d30.329391!4d76.4086447!16s%2Fg%2F11ry7hb5fk!19sChIJG6d9SeMpEDkR8W190VXFyQI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "garg-eye-hospital-best-lasik-laser-eye-surgery-best-cataract-surgery-patiala-patiala",
@@ -5033,7 +4991,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Garg+Eye+Hospital+%7C+Best+LASIK+Laser+Eye+Surgery+%7C+Best+Cataract+Surgery+%7C+Patiala/@30.3472456,76.3937262,17z/data=!3m1!4b1!4m6!3m5!1s0x39102893d43570bd:0x7e70caf8d4a78db4!8m2!3d30.3472456!4d76.3937262!16s%2Fg%2F11bzq3lnrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Garg+Eye+Hospital+%7C+Best+LASIK+Laser+Eye+Surgery+%7C+Best+Cataract+Surgery+%7C+Patiala/@30.3472456,76.3937262,17z/data=!3m1!4b1!4m6!3m5!1s0x39102893d43570bd:0x7e70caf8d4a78db4!8m2!3d30.3472456!4d76.3937262!16s%2Fg%2F11bzq3lnrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5099,11 +5057,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Garg+Eye+Hospital+%7C+Best+LASIK+Laser+Eye+Surgery+%7C+Best+Cataract+Surgery+%7C+Patiala/@30.3472456,76.3937262,17z/data=!3m1!4b1!4m6!3m5!1s0x39102893d43570bd:0x7e70caf8d4a78db4!8m2!3d30.3472456!4d76.3937262!16s%2Fg%2F11bzq3lnrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "garg-mission-hospital-patiala",
@@ -5151,7 +5108,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Garg+Mission+Hospital/data=!4m7!3m6!1s0x391028b08f9ec36d:0xa2ca08148e8e5be3!8m2!3d30.346408!4d76.3745053!16s%2Fg%2F11bc5zmy_c!19sChIJbcOej7AoEDkR41uOjhQIyqI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Garg+Mission+Hospital/data=!4m7!3m6!1s0x391028b08f9ec36d:0xa2ca08148e8e5be3!8m2!3d30.346408!4d76.3745053!16s%2Fg%2F11bc5zmy_c!19sChIJbcOej7AoEDkR41uOjhQIyqI?authuser=0&hl=en&rclk=1"
@@ -5220,8 +5177,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Garg+Mission+Hospital/data=!4m7!3m6!1s0x391028b08f9ec36d:0xa2ca08148e8e5be3!8m2!3d30.346408!4d76.3745053!16s%2Fg%2F11bc5zmy_c!19sChIJbcOej7AoEDkR41uOjhQIyqI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gaytri-hospital-patiala",
@@ -5269,7 +5225,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GAYTRI+HOSPITAL/@30.369703,76.4026207,17z/data=!3m1!4b1!4m6!3m5!1s0x39102779a208bd7d:0x305fbbb8cfb6d25d!8m2!3d30.369703!4d76.4026207!16s%2Fg%2F11g0hxzfbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GAYTRI+HOSPITAL/@30.369703,76.4026207,17z/data=!3m1!4b1!4m6!3m5!1s0x39102779a208bd7d:0x305fbbb8cfb6d25d!8m2!3d30.369703!4d76.4026207!16s%2Fg%2F11g0hxzfbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5338,8 +5294,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GAYTRI+HOSPITAL/@30.369703,76.4026207,17z/data=!3m1!4b1!4m6!3m5!1s0x39102779a208bd7d:0x305fbbb8cfb6d25d!8m2!3d30.369703!4d76.4026207!16s%2Fg%2F11g0hxzfbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gh-derma-centre-patiala",
@@ -5388,7 +5343,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GH+Derma+Centre/@30.3547108,76.394201,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289a355f2777:0xcaec37d73373e80c!8m2!3d30.3547108!4d76.394201!16s%2Fg%2F11f3rdwflz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GH+Derma+Centre/@30.3547108,76.394201,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289a355f2777:0xcaec37d73373e80c!8m2!3d30.3547108!4d76.394201!16s%2Fg%2F11f3rdwflz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5457,8 +5412,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GH+Derma+Centre/@30.3547108,76.394201,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289a355f2777:0xcaec37d73373e80c!8m2!3d30.3547108!4d76.394201!16s%2Fg%2F11f3rdwflz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "global-dental-hospital-and-implant-centre-patiala",
@@ -5508,7 +5462,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Global+Dental+Hospital+%26+Implant+Centre/data=!4m7!3m6!1s0x3910289a314ac671:0x19994701e6c6b80f!8m2!3d30.3535779!4d76.3937331!16s%2Fg%2F11f3zvb21b!19sChIJccZKMZooEDkRD7jG5gFHmRk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Dental+Hospital+%26+Implant+Centre/data=!4m7!3m6!1s0x3910289a314ac671:0x19994701e6c6b80f!8m2!3d30.3535779!4d76.3937331!16s%2Fg%2F11f3zvb21b!19sChIJccZKMZooEDkRD7jG5gFHmRk?authuser=0&hl=en&rclk=1"
@@ -5577,8 +5531,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Global+Dental+Hospital+%26+Implant+Centre/data=!4m7!3m6!1s0x3910289a314ac671:0x19994701e6c6b80f!8m2!3d30.3535779!4d76.3937331!16s%2Fg%2F11f3zvb21b!19sChIJccZKMZooEDkRD7jG5gFHmRk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gobind-dhaam-dentotherapeutics-and-ortho-implant-centre-patiala",
@@ -5627,7 +5580,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GOBIND+DHAAM+DENTOTHERAPEUTICS+%26+ORTHO-IMPLANT+CENTRE/@30.3445055,76.4439122,17z/data=!3m1!4b1!4m6!3m5!1s0x3910283d48f5c593:0x3d80f9d451b4ac74!8m2!3d30.3445055!4d76.4439122!16s%2Fg%2F11vj3gz3qs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GOBIND+DHAAM+DENTOTHERAPEUTICS+%26+ORTHO-IMPLANT+CENTRE/@30.3445055,76.4439122,17z/data=!3m1!4b1!4m6!3m5!1s0x3910283d48f5c593:0x3d80f9d451b4ac74!8m2!3d30.3445055!4d76.4439122!16s%2Fg%2F11vj3gz3qs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5696,8 +5649,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GOBIND+DHAAM+DENTOTHERAPEUTICS+%26+ORTHO-IMPLANT+CENTRE/@30.3445055,76.4439122,17z/data=!3m1!4b1!4m6!3m5!1s0x3910283d48f5c593:0x3d80f9d451b4ac74!8m2!3d30.3445055!4d76.4439122!16s%2Fg%2F11vj3gz3qs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-medical-college-ground-patiala",
@@ -5746,7 +5698,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+Medical+College+Ground/@30.326861,76.3866988,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd614fbb2b:0x14c60893ad9d5a89!8m2!3d30.326861!4d76.3866988!16s%2Fg%2F11h0swqb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Medical+College+Ground/@30.326861,76.3866988,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd614fbb2b:0x14c60893ad9d5a89!8m2!3d30.326861!4d76.3866988!16s%2Fg%2F11h0swqb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5815,8 +5767,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+Medical+College+Ground/@30.326861,76.3866988,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd614fbb2b:0x14c60893ad9d5a89!8m2!3d30.326861!4d76.3866988!16s%2Fg%2F11h0swqb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "government-medical-college-patiala-patiala",
@@ -5866,7 +5817,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Government+Medical+College,+Patiala/@30.3280627,76.3851284,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd42623407:0x5e276e90afb4f8a!8m2!3d30.3280627!4d76.3851284!16zL20vMGZ5czd3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Medical+College,+Patiala/@30.3280627,76.3851284,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd42623407:0x5e276e90afb4f8a!8m2!3d30.3280627!4d76.3851284!16zL20vMGZ5czd3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5935,8 +5886,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Government+Medical+College,+Patiala/@30.3280627,76.3851284,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd42623407:0x5e276e90afb4f8a!8m2!3d30.3280627!4d76.3851284!16zL20vMGZ5czd3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "govt-dental-college-and-hospital-patiala",
@@ -5985,7 +5935,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Govt+Dental+College+%26+Hospital/@30.3259991,76.3821504,17z/data=!3m1!4b1!4m6!3m5!1s0x391026293dd197c7:0xec7cdf73ebe3a60c!8m2!3d30.3259991!4d76.3821504!16s%2Fg%2F11gfgpdwj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt+Dental+College+%26+Hospital/@30.3259991,76.3821504,17z/data=!3m1!4b1!4m6!3m5!1s0x391026293dd197c7:0xec7cdf73ebe3a60c!8m2!3d30.3259991!4d76.3821504!16s%2Fg%2F11gfgpdwj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6054,8 +6004,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Govt+Dental+College+%26+Hospital/@30.3259991,76.3821504,17z/data=!3m1!4b1!4m6!3m5!1s0x391026293dd197c7:0xec7cdf73ebe3a60c!8m2!3d30.3259991!4d76.3821504!16s%2Fg%2F11gfgpdwj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gurkaran-hospital-and-wellness-centre-patiala",
@@ -6103,7 +6052,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gurkaran+Hospital+%26+Wellness+Centre/@30.3534253,76.3948938,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295da89b42d1:0xab72cc7aedd570c!8m2!3d30.3534253!4d76.3948938!16s%2Fg%2F11h22_tmlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurkaran+Hospital+%26+Wellness+Centre/@30.3534253,76.3948938,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295da89b42d1:0xab72cc7aedd570c!8m2!3d30.3534253!4d76.3948938!16s%2Fg%2F11h22_tmlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6172,8 +6121,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gurkaran+Hospital+%26+Wellness+Centre/@30.3534253,76.3948938,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295da89b42d1:0xab72cc7aedd570c!8m2!3d30.3534253!4d76.3948938!16s%2Fg%2F11h22_tmlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gursharan-hospital-patiala",
@@ -6222,7 +6170,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gursharan+Hospital/@30.3545485,76.3940609,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289fac5e9e3b:0xc97ce6cc978e5880!8m2!3d30.3545485!4d76.3940609!16s%2Fg%2F11gzz7t8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gursharan+Hospital/@30.3545485,76.3940609,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289fac5e9e3b:0xc97ce6cc978e5880!8m2!3d30.3545485!4d76.3940609!16s%2Fg%2F11gzz7t8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6291,8 +6239,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gursharan+Hospital/@30.3545485,76.3940609,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289fac5e9e3b:0xc97ce6cc978e5880!8m2!3d30.3545485!4d76.3940609!16s%2Fg%2F11gzz7t8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "guru-tegh-bahadur-eye-hospital-and-lasik-laser-centre-patiala",
@@ -6341,7 +6288,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Guru+Tegh+Bahadur+Eye+Hospital+and+Lasik+Laser+Centre/@30.3463648,76.3951959,17z/data=!3m1!4b1!4m6!3m5!1s0x391029679452dfb5:0x8a22673e7a79d15b!8m2!3d30.3463648!4d76.3951959!16s%2Fg%2F11h5ndb1z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Guru+Tegh+Bahadur+Eye+Hospital+and+Lasik+Laser+Centre/@30.3463648,76.3951959,17z/data=!3m1!4b1!4m6!3m5!1s0x391029679452dfb5:0x8a22673e7a79d15b!8m2!3d30.3463648!4d76.3951959!16s%2Fg%2F11h5ndb1z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6407,11 +6354,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Guru+Tegh+Bahadur+Eye+Hospital+and+Lasik+Laser+Centre/@30.3463648,76.3951959,17z/data=!3m1!4b1!4m6!3m5!1s0x391029679452dfb5:0x8a22673e7a79d15b!8m2!3d30.3463648!4d76.3951959!16s%2Fg%2F11h5ndb1z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gyani-lal-singh-memorial-hospital-patiala",
@@ -6459,7 +6405,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gyani+Lal+Singh+Memorial+Hospital/@30.3319577,76.3813312,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c38ba76ddd:0x32604ed1fa10419e!8m2!3d30.3319577!4d76.3813312!16s%2Fg%2F11b76txr59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gyani+Lal+Singh+Memorial+Hospital/@30.3319577,76.3813312,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c38ba76ddd:0x32604ed1fa10419e!8m2!3d30.3319577!4d76.3813312!16s%2Fg%2F11b76txr59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6528,8 +6474,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gyani+Lal+Singh+Memorial+Hospital/@30.3319577,76.3813312,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c38ba76ddd:0x32604ed1fa10419e!8m2!3d30.3319577!4d76.3813312!16s%2Fg%2F11b76txr59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hans-clinic-patiala",
@@ -6577,7 +6522,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hans+Clinic/@30.337758,76.377135,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c796b55d5f:0xb32cb381a3e0fc0d!8m2!3d30.337758!4d76.377135!16s%2Fg%2F11g6mdmhcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hans+Clinic/@30.337758,76.377135,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c796b55d5f:0xb32cb381a3e0fc0d!8m2!3d30.337758!4d76.377135!16s%2Fg%2F11g6mdmhcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6646,8 +6591,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hans+Clinic/@30.337758,76.377135,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c796b55d5f:0xb32cb381a3e0fc0d!8m2!3d30.337758!4d76.377135!16s%2Fg%2F11g6mdmhcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hans-eye-hospital-patiala",
@@ -6696,7 +6640,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hans+Eye+Hospital/@30.344392,76.3989053,17z/data=!3m1!4b1!4m6!3m5!1s0x3910288d862159a3:0xedf87eaf48e440c1!8m2!3d30.344392!4d76.3989053!16s%2Fg%2F1hm3bjkld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hans+Eye+Hospital/@30.344392,76.3989053,17z/data=!3m1!4b1!4m6!3m5!1s0x3910288d862159a3:0xedf87eaf48e440c1!8m2!3d30.344392!4d76.3989053!16s%2Fg%2F1hm3bjkld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6765,8 +6709,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hans+Eye+Hospital/@30.344392,76.3989053,17z/data=!3m1!4b1!4m6!3m5!1s0x3910288d862159a3:0xedf87eaf48e440c1!8m2!3d30.344392!4d76.3989053!16s%2Fg%2F1hm3bjkld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "heal-and-care-hospital-patiala-patiala",
@@ -6812,7 +6755,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Heal+%26+Care+Hospital+Patiala/@30.3658335,76.3686415,17z/data=!3m1!4b1!4m6!3m5!1s0x3910276f890ac8ff:0x1764dc3e7ed4e0f8!8m2!3d30.3658335!4d76.3686415!16s%2Fg%2F11rd02fhrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heal+%26+Care+Hospital+Patiala/@30.3658335,76.3686415,17z/data=!3m1!4b1!4m6!3m5!1s0x3910276f890ac8ff:0x1764dc3e7ed4e0f8!8m2!3d30.3658335!4d76.3686415!16s%2Fg%2F11rd02fhrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6878,11 +6821,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Heal+%26+Care+Hospital+Patiala/@30.3658335,76.3686415,17z/data=!3m1!4b1!4m6!3m5!1s0x3910276f890ac8ff:0x1764dc3e7ed4e0f8!8m2!3d30.3658335!4d76.3686415!16s%2Fg%2F11rd02fhrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "institute-for-liver-disease-ayurveda-yogashram-sahibzada-ajit-singh-nagar",
@@ -6932,7 +6874,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Institute+For+Liver+Disease+-+Ayurveda+Yogashram/@30.6793706,76.7286072,17z/data=!3m1!4b1!4m6!3m5!1s0x390fef44d24cc7cb:0x9416f1bd4a7b1ad9!8m2!3d30.6793706!4d76.7286072!16s%2Fg%2F11l5h5v2cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Institute+For+Liver+Disease+-+Ayurveda+Yogashram/@30.6793706,76.7286072,17z/data=!3m1!4b1!4m6!3m5!1s0x390fef44d24cc7cb:0x9416f1bd4a7b1ad9!8m2!3d30.6793706!4d76.7286072!16s%2Fg%2F11l5h5v2cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7001,8 +6943,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Institute+For+Liver+Disease+-+Ayurveda+Yogashram/@30.6793706,76.7286072,17z/data=!3m1!4b1!4m6!3m5!1s0x390fef44d24cc7cb:0x9416f1bd4a7b1ad9!8m2!3d30.6793706!4d76.7286072!16s%2Fg%2F11l5h5v2cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jai-nursing-home-patiala",
@@ -7050,7 +6991,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jai+Nursing+Home/@30.3319666,76.3977914,17z/data=!3m1!4b1!4m6!3m5!1s0x391028efd193503b:0xf9a993b655167f07!8m2!3d30.3319666!4d76.3977914!16s%2Fg%2F11fkm98bmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jai+Nursing+Home/@30.3319666,76.3977914,17z/data=!3m1!4b1!4m6!3m5!1s0x391028efd193503b:0xf9a993b655167f07!8m2!3d30.3319666!4d76.3977914!16s%2Fg%2F11fkm98bmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7116,11 +7057,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jai+Nursing+Home/@30.3319666,76.3977914,17z/data=!3m1!4b1!4m6!3m5!1s0x391028efd193503b:0xf9a993b655167f07!8m2!3d30.3319666!4d76.3977914!16s%2Fg%2F11fkm98bmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jain-dental-clinic-and-smile-studio-patiala",
@@ -7168,7 +7108,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jain+Dental+Clinic+and+Smile+Studio/data=!4m7!3m6!1s0x391029053e34f0e3:0xc5cd5ed5e8d1f1e6!8m2!3d30.3164048!4d76.3835939!16s%2Fg%2F11sqj2d1cy!19sChIJ4_A0PgUpEDkR5vHR6NVezcU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jain+Dental+Clinic+and+Smile+Studio/data=!4m7!3m6!1s0x391029053e34f0e3:0xc5cd5ed5e8d1f1e6!8m2!3d30.3164048!4d76.3835939!16s%2Fg%2F11sqj2d1cy!19sChIJ4_A0PgUpEDkR5vHR6NVezcU?authuser=0&hl=en&rclk=1"
@@ -7237,8 +7177,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jain+Dental+Clinic+and+Smile+Studio/data=!4m7!3m6!1s0x391029053e34f0e3:0xc5cd5ed5e8d1f1e6!8m2!3d30.3164048!4d76.3835939!16s%2Fg%2F11sqj2d1cy!19sChIJ4_A0PgUpEDkR5vHR6NVezcU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "janak-surgicare-and-ankur-advanced-urology-centre-patiala",
@@ -7287,7 +7226,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Janak+Surgicare+%26+Ankur+Advanced+Urology+Centre/@30.3495323,76.387807,17z/data=!3m1!4b1!4m6!3m5!1s0x39102897c39ec6e1:0xb782ea022c58e19a!8m2!3d30.3495323!4d76.387807!16s%2Fg%2F1td9nxx5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janak+Surgicare+%26+Ankur+Advanced+Urology+Centre/@30.3495323,76.387807,17z/data=!3m1!4b1!4m6!3m5!1s0x39102897c39ec6e1:0xb782ea022c58e19a!8m2!3d30.3495323!4d76.387807!16s%2Fg%2F1td9nxx5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7356,8 +7295,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Janak+Surgicare+%26+Ankur+Advanced+Urology+Centre/@30.3495323,76.387807,17z/data=!3m1!4b1!4m6!3m5!1s0x39102897c39ec6e1:0xb782ea022c58e19a!8m2!3d30.3495323!4d76.387807!16s%2Fg%2F1td9nxx5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "k-d-hospital-patiala",
@@ -7405,7 +7343,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/K+D+Hospital/@30.3338958,76.4019414,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f125555555:0x8efd837f50470ec8!8m2!3d30.3338958!4d76.4019414!16s%2Fg%2F1tgz3w7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K+D+Hospital/@30.3338958,76.4019414,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f125555555:0x8efd837f50470ec8!8m2!3d30.3338958!4d76.4019414!16s%2Fg%2F1tgz3w7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7474,8 +7412,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/K+D+Hospital/@30.3338958,76.4019414,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f125555555:0x8efd837f50470ec8!8m2!3d30.3338958!4d76.4019414!16s%2Fg%2F1tgz3w7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kanwar-s-orthodontics-and-implant-smile-studio-patiala",
@@ -7524,7 +7461,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kanwar%E2%80%99s+Orthodontics+and+Implant+Smile+Studio/@30.3574522,76.4038771,17z/data=!3m1!4b1!4m6!3m5!1s0x391028841a0e8435:0x32d489e892b496ff!8m2!3d30.3574522!4d76.4038771!16s%2Fg%2F11cs5yq700?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kanwar%E2%80%99s+Orthodontics+and+Implant+Smile+Studio/@30.3574522,76.4038771,17z/data=!3m1!4b1!4m6!3m5!1s0x391028841a0e8435:0x32d489e892b496ff!8m2!3d30.3574522!4d76.4038771!16s%2Fg%2F11cs5yq700?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7593,8 +7530,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kanwar%E2%80%99s+Orthodontics+and+Implant+Smile+Studio/@30.3574522,76.4038771,17z/data=!3m1!4b1!4m6!3m5!1s0x391028841a0e8435:0x32d489e892b496ff!8m2!3d30.3574522!4d76.4038771!16s%2Fg%2F11cs5yq700?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-clinic-and-nursing-home-patiala",
@@ -7642,7 +7578,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Clinic+%26+Nursing+Home/@30.3179421,76.400084,17z/data=!3m1!4b1!4m6!3m5!1s0x39102902984cc28f:0x287e4d59b8ed345b!8m2!3d30.3179421!4d76.400084!16s%2Fg%2F11hbgj0v2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Clinic+%26+Nursing+Home/@30.3179421,76.400084,17z/data=!3m1!4b1!4m6!3m5!1s0x39102902984cc28f:0x287e4d59b8ed345b!8m2!3d30.3179421!4d76.400084!16s%2Fg%2F11hbgj0v2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7708,11 +7644,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Clinic+%26+Nursing+Home/@30.3179421,76.400084,17z/data=!3m1!4b1!4m6!3m5!1s0x39102902984cc28f:0x287e4d59b8ed345b!8m2!3d30.3179421!4d76.400084!16s%2Fg%2F11hbgj0v2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krsnaa-diagnostics-blood-test-and-diagnostic-centre-in-patiala-patiala",
@@ -7762,7 +7697,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+Patiala/@30.3369343,76.3987729,17z/data=!3m1!4b1!4m6!3m5!1s0x39102914873c8039:0xbcf434206815140f!8m2!3d30.3369343!4d76.3987729!16s%2Fg%2F11k55xkdcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+Patiala/@30.3369343,76.3987729,17z/data=!3m1!4b1!4m6!3m5!1s0x39102914873c8039:0xbcf434206815140f!8m2!3d30.3369343!4d76.3987729!16s%2Fg%2F11k55xkdcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7831,8 +7766,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+Patiala/@30.3369343,76.3987729,17z/data=!3m1!4b1!4m6!3m5!1s0x39102914873c8039:0xbcf434206815140f!8m2!3d30.3369343!4d76.3987729!16s%2Fg%2F11k55xkdcd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kuber-hospital-patiala",
@@ -7880,7 +7814,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kuber+Hospital/@30.3330341,76.4172084,17z/data=!3m1!4b1!4m6!3m5!1s0x3910285a15627fc3:0xed515ee4a7987037!8m2!3d30.3330341!4d76.4172084!16s%2Fg%2F11b8yyryz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kuber+Hospital/@30.3330341,76.4172084,17z/data=!3m1!4b1!4m6!3m5!1s0x3910285a15627fc3:0xed515ee4a7987037!8m2!3d30.3330341!4d76.4172084!16s%2Fg%2F11b8yyryz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7949,8 +7883,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kuber+Hospital/@30.3330341,76.4172084,17z/data=!3m1!4b1!4m6!3m5!1s0x3910285a15627fc3:0xed515ee4a7987037!8m2!3d30.3330341!4d76.4172084!16s%2Fg%2F11b8yyryz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lhr-clinics-patiala-patiala",
@@ -7999,7 +7932,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LHR+Clinics+Patiala/@30.3481476,76.3761926,17z/data=!3m1!4b1!4m6!3m5!1s0x3910294aabcff5af:0x717b26b9dc7173a2!8m2!3d30.3481476!4d76.3761926!16s%2Fg%2F11vr1my_hb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LHR+Clinics+Patiala/@30.3481476,76.3761926,17z/data=!3m1!4b1!4m6!3m5!1s0x3910294aabcff5af:0x717b26b9dc7173a2!8m2!3d30.3481476!4d76.3761926!16s%2Fg%2F11vr1my_hb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8065,11 +7998,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LHR+Clinics+Patiala/@30.3481476,76.3761926,17z/data=!3m1!4b1!4m6!3m5!1s0x3910294aabcff5af:0x717b26b9dc7173a2!8m2!3d30.3481476!4d76.3761926!16s%2Fg%2F11vr1my_hb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-line-clinic-patiala",
@@ -8118,7 +8050,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+Line+Clinic/@30.3451263,76.4216415,17z/data=!3m1!4b1!4m6!3m5!1s0x3910286875f29ae7:0xcd563c588ce9cde7!8m2!3d30.3451263!4d76.4216415!16s%2Fg%2F11f3tthmpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Line+Clinic/@30.3451263,76.4216415,17z/data=!3m1!4b1!4m6!3m5!1s0x3910286875f29ae7:0xcd563c588ce9cde7!8m2!3d30.3451263!4d76.4216415!16s%2Fg%2F11f3tthmpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8184,11 +8116,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+Line+Clinic/@30.3451263,76.4216415,17z/data=!3m1!4b1!4m6!3m5!1s0x3910286875f29ae7:0xcd563c588ce9cde7!8m2!3d30.3451263!4d76.4216415!16s%2Fg%2F11f3tthmpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "livasa-hospital-khanna-khanna",
@@ -8237,7 +8168,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Livasa+Hospital+Khanna/@30.6964588,76.2379477,17z/data=!3m1!4b1!4m6!3m5!1s0x3910116f97553dbb:0x48dea71025516505!8m2!3d30.6964588!4d76.2379477!16s%2Fg%2F11ln2ykbz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Livasa+Hospital+Khanna/@30.6964588,76.2379477,17z/data=!3m1!4b1!4m6!3m5!1s0x3910116f97553dbb:0x48dea71025516505!8m2!3d30.6964588!4d76.2379477!16s%2Fg%2F11ln2ykbz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8303,11 +8234,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Livasa+Hospital+Khanna/@30.6964588,76.2379477,17z/data=!3m1!4b1!4m6!3m5!1s0x3910116f97553dbb:0x48dea71025516505!8m2!3d30.6964588!4d76.2379477!16s%2Fg%2F11ln2ykbz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "livasa-hospital-mohali-sahibzada-ajit-singh-nagar",
@@ -8356,7 +8286,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Livasa+Hospital,+Mohali/@30.706837,76.7081236,17z/data=!3m1!4b1!4m6!3m5!1s0x390feff6924d7055:0x6f2d60fadafb0b2b!8m2!3d30.706837!4d76.7081236!16s%2Fg%2F11pf0cdtzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Livasa+Hospital,+Mohali/@30.706837,76.7081236,17z/data=!3m1!4b1!4m6!3m5!1s0x390feff6924d7055:0x6f2d60fadafb0b2b!8m2!3d30.706837!4d76.7081236!16s%2Fg%2F11pf0cdtzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8425,8 +8355,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Livasa+Hospital,+Mohali/@30.706837,76.7081236,17z/data=!3m1!4b1!4m6!3m5!1s0x390feff6924d7055:0x6f2d60fadafb0b2b!8m2!3d30.706837!4d76.7081236!16s%2Fg%2F11pf0cdtzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lj-eye-institute-patiala-best-cataract-surgery-in-patiala-contoura-vision-surgery-in-patiala-cornea-transplant-centre-patiala",
@@ -8476,7 +8405,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LJ+Eye+Institute+-+Patiala+%7C+Best+Cataract+Surgery+in+Patiala+%7C+Contoura+Vision+Surgery+In+Patiala+%7C+Cornea+Transplant+Centre/@30.3320499,76.3813668,17z/data=!3m1!4b1!4m6!3m5!1s0x39102968c07ffbc9:0x3ef2d01b9951ce1e!8m2!3d30.3320499!4d76.3813668!16s%2Fg%2F11y6lpy0vd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LJ+Eye+Institute+-+Patiala+%7C+Best+Cataract+Surgery+in+Patiala+%7C+Contoura+Vision+Surgery+In+Patiala+%7C+Cornea+Transplant+Centre/@30.3320499,76.3813668,17z/data=!3m1!4b1!4m6!3m5!1s0x39102968c07ffbc9:0x3ef2d01b9951ce1e!8m2!3d30.3320499!4d76.3813668!16s%2Fg%2F11y6lpy0vd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8545,8 +8474,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LJ+Eye+Institute+-+Patiala+%7C+Best+Cataract+Surgery+in+Patiala+%7C+Contoura+Vision+Surgery+In+Patiala+%7C+Cornea+Transplant+Centre/@30.3320499,76.3813668,17z/data=!3m1!4b1!4m6!3m5!1s0x39102968c07ffbc9:0x3ef2d01b9951ce1e!8m2!3d30.3320499!4d76.3813668!16s%2Fg%2F11y6lpy0vd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "macro-mothercare-and-skin-clinic-patiala",
@@ -8594,7 +8522,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MACRO+Mothercare+and+Skin+Clinic/@30.3669673,76.3627783,17z/data=!3m1!4b1!4m6!3m5!1s0x39102603cdff5c1d:0x39a81e10ec0c0f2d!8m2!3d30.3669673!4d76.3627783!16s%2Fg%2F11f4m9xt5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MACRO+Mothercare+and+Skin+Clinic/@30.3669673,76.3627783,17z/data=!3m1!4b1!4m6!3m5!1s0x39102603cdff5c1d:0x39a81e10ec0c0f2d!8m2!3d30.3669673!4d76.3627783!16s%2Fg%2F11f4m9xt5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8663,8 +8591,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MACRO+Mothercare+and+Skin+Clinic/@30.3669673,76.3627783,17z/data=!3m1!4b1!4m6!3m5!1s0x39102603cdff5c1d:0x39a81e10ec0c0f2d!8m2!3d30.3669673!4d76.3627783!16s%2Fg%2F11f4m9xt5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "malhotra-skin-laser-and-hair-transplant-centre-patiala",
@@ -8713,7 +8640,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Malhotra+Skin+Laser+and+Hair+Transplant+Centre/@30.3230783,76.392854,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295a74441381:0xc576aee31e1aea38!8m2!3d30.3230783!4d76.392854!16s%2Fg%2F11ypcf4cjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malhotra+Skin+Laser+and+Hair+Transplant+Centre/@30.3230783,76.392854,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295a74441381:0xc576aee31e1aea38!8m2!3d30.3230783!4d76.392854!16s%2Fg%2F11ypcf4cjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8782,8 +8709,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Malhotra+Skin+Laser+and+Hair+Transplant+Centre/@30.3230783,76.392854,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295a74441381:0xc576aee31e1aea38!8m2!3d30.3230783!4d76.392854!16s%2Fg%2F11ypcf4cjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manipal-hospitals-patiala-patiala",
@@ -8832,7 +8758,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manipal+Hospitals,+Patiala/@30.344075,76.378885,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b9647cfc47:0xddf8f9271079939c!8m2!3d30.344075!4d76.378885!16s%2Fg%2F1tqycwsf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospitals,+Patiala/@30.344075,76.378885,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b9647cfc47:0xddf8f9271079939c!8m2!3d30.344075!4d76.378885!16s%2Fg%2F1tqycwsf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8901,8 +8827,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manipal+Hospitals,+Patiala/@30.344075,76.378885,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b9647cfc47:0xddf8f9271079939c!8m2!3d30.344075!4d76.378885!16s%2Fg%2F1tqycwsf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mata-kaushalya-hospital-patiala",
@@ -8951,7 +8876,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mata+Kaushalya+Hospital/@30.3373666,76.3994958,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f26d65bd71:0xa23f720c575627df!8m2!3d30.3373666!4d76.3994958!16s%2Fg%2F1tnjgz7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mata+Kaushalya+Hospital/@30.3373666,76.3994958,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f26d65bd71:0xa23f720c575627df!8m2!3d30.3373666!4d76.3994958!16s%2Fg%2F1tnjgz7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9020,8 +8945,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mata+Kaushalya+Hospital/@30.3373666,76.3994958,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f26d65bd71:0xa23f720c575627df!8m2!3d30.3373666!4d76.3994958!16s%2Fg%2F1tnjgz7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medicover-fertility-clinic-best-ivf-center-in-patiala-punjab-patiala",
@@ -9070,7 +8994,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medicover+Fertility+Clinic-+Best+IVF+Center+in+Patiala,+Punjab/@30.3427797,76.370499,17z/data=!3m1!4b1!4m6!3m5!1s0x391029721be485b1:0xd361c44fafbfb944!8m2!3d30.3427797!4d76.370499!16s%2Fg%2F11s42svnys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicover+Fertility+Clinic-+Best+IVF+Center+in+Patiala,+Punjab/@30.3427797,76.370499,17z/data=!3m1!4b1!4m6!3m5!1s0x391029721be485b1:0xd361c44fafbfb944!8m2!3d30.3427797!4d76.370499!16s%2Fg%2F11s42svnys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9136,11 +9060,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medicover+Fertility+Clinic-+Best+IVF+Center+in+Patiala,+Punjab/@30.3427797,76.370499,17z/data=!3m1!4b1!4m6!3m5!1s0x391029721be485b1:0xd361c44fafbfb944!8m2!3d30.3427797!4d76.370499!16s%2Fg%2F11s42svnys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mehar-hospital-patiala",
@@ -9189,7 +9112,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mehar+Hospital/@30.350829,76.4045081,17z/data=!3m1!4b1!4m6!3m5!1s0x39102888d3d09367:0x96da031e912f26bf!8m2!3d30.350829!4d76.4045081!16s%2Fg%2F11ckb725qm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mehar+Hospital/@30.350829,76.4045081,17z/data=!3m1!4b1!4m6!3m5!1s0x39102888d3d09367:0x96da031e912f26bf!8m2!3d30.350829!4d76.4045081!16s%2Fg%2F11ckb725qm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9258,8 +9181,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mehar+Hospital/@30.350829,76.4045081,17z/data=!3m1!4b1!4m6!3m5!1s0x39102888d3d09367:0x96da031e912f26bf!8m2!3d30.350829!4d76.4045081!16s%2Fg%2F11ckb725qm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mittal-cardiology-clinic-patiala",
@@ -9305,7 +9227,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mittal+Cardiology+Clinic/@30.3447295,76.3709701,17z/data=!3m1!4b1!4m6!3m5!1s0x391029cbe26f56e3:0xc6ce308eb991e67!8m2!3d30.3447295!4d76.3709701!16s%2Fg%2F11hm882g_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mittal+Cardiology+Clinic/@30.3447295,76.3709701,17z/data=!3m1!4b1!4m6!3m5!1s0x391029cbe26f56e3:0xc6ce308eb991e67!8m2!3d30.3447295!4d76.3709701!16s%2Fg%2F11hm882g_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9371,11 +9293,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mittal+Cardiology+Clinic/@30.3447295,76.3709701,17z/data=!3m1!4b1!4m6!3m5!1s0x391029cbe26f56e3:0xc6ce308eb991e67!8m2!3d30.3447295!4d76.3709701!16s%2Fg%2F11hm882g_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mittal-hospital-and-heart-centre-moga-dialysis-centre-endoscopy-liver-general-laparoscopic-surgery-heart-kidney-centre-moga",
@@ -9426,7 +9347,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mittal+Hospital+And+Heart+Centre+Moga+-+Dialysis+Centre%2FEndoscopy%2FLiver%2FGeneral%2FLaparoscopic+Surgery%2FHeart+Kidney+Centre/@30.813184,75.1732,17z/data=!3m1!4b1!4m6!3m5!1s0x391a0861e6a4c571:0x7a8e058b933e5338!8m2!3d30.813184!4d75.1732!16s%2Fg%2F11b7k_0r4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mittal+Hospital+And+Heart+Centre+Moga+-+Dialysis+Centre%2FEndoscopy%2FLiver%2FGeneral%2FLaparoscopic+Surgery%2FHeart+Kidney+Centre/@30.813184,75.1732,17z/data=!3m1!4b1!4m6!3m5!1s0x391a0861e6a4c571:0x7a8e058b933e5338!8m2!3d30.813184!4d75.1732!16s%2Fg%2F11b7k_0r4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9495,8 +9416,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mittal+Hospital+And+Heart+Centre+Moga+-+Dialysis+Centre%2FEndoscopy%2FLiver%2FGeneral%2FLaparoscopic+Surgery%2FHeart+Kidney+Centre/@30.813184,75.1732,17z/data=!3m1!4b1!4m6!3m5!1s0x391a0861e6a4c571:0x7a8e058b933e5338!8m2!3d30.813184!4d75.1732!16s%2Fg%2F11b7k_0r4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mittal-liver-and-gastroenterology-centre-patiala",
@@ -9546,7 +9466,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mittal+Liver+and+Gastroenterology+Centre/@30.3411327,76.3664483,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b13fffffff:0xbccee67bf15cd856!8m2!3d30.3411327!4d76.3664483!16s%2Fg%2F11cs7692ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mittal+Liver+and+Gastroenterology+Centre/@30.3411327,76.3664483,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b13fffffff:0xbccee67bf15cd856!8m2!3d30.3411327!4d76.3664483!16s%2Fg%2F11cs7692ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9615,8 +9535,7 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mittal+Liver+and+Gastroenterology+Centre/@30.3411327,76.3664483,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b13fffffff:0xbccee67bf15cd856!8m2!3d30.3411327!4d76.3664483!16s%2Fg%2F11cs7692ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "modern-dental-care-clinic-patiala-patiala",
@@ -9664,7 +9583,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Modern+Dental+Care+Clinic+Patiala/@30.3620664,76.3847781,17z/data=!3m1!4b1!4m6!3m5!1s0x391029ea33caa00f:0x4cf7178515c81b9e!8m2!3d30.3620664!4d76.3847781!16s%2Fg%2F11rqtt6gbg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modern+Dental+Care+Clinic+Patiala/@30.3620664,76.3847781,17z/data=!3m1!4b1!4m6!3m5!1s0x391029ea33caa00f:0x4cf7178515c81b9e!8m2!3d30.3620664!4d76.3847781!16s%2Fg%2F11rqtt6gbg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9733,8 +9652,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Modern+Dental+Care+Clinic+Patiala/@30.3620664,76.3847781,17z/data=!3m1!4b1!4m6!3m5!1s0x391029ea33caa00f:0x4cf7178515c81b9e!8m2!3d30.3620664!4d76.3847781!16s%2Fg%2F11rqtt6gbg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "muskaan-gynae-centre-patiala",
@@ -9783,7 +9701,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Muskaan+Gynae+Centre/@30.3275329,76.4103708,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f1e065e7bb:0x651b20ba7e71805b!8m2!3d30.3275329!4d76.4103708!16s%2Fg%2F11gfd37mmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Muskaan+Gynae+Centre/@30.3275329,76.4103708,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f1e065e7bb:0x651b20ba7e71805b!8m2!3d30.3275329!4d76.4103708!16s%2Fg%2F11gfd37mmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9852,8 +9770,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Muskaan+Gynae+Centre/@30.3275329,76.4103708,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f1e065e7bb:0x651b20ba7e71805b!8m2!3d30.3275329!4d76.4103708!16s%2Fg%2F11gfd37mmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "naresh-dental-clinic-and-implant-center-patiala",
@@ -9901,7 +9818,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Naresh+Dental+Clinic+and+Implant+Center/@30.3406386,76.4120083,17z/data=!3m1!4b1!4m6!3m5!1s0x391029470a0bf749:0x5112cca28e56b008!8m2!3d30.3406386!4d76.4120083!16s%2Fg%2F11f5_50ftc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naresh+Dental+Clinic+and+Implant+Center/@30.3406386,76.4120083,17z/data=!3m1!4b1!4m6!3m5!1s0x391029470a0bf749:0x5112cca28e56b008!8m2!3d30.3406386!4d76.4120083!16s%2Fg%2F11f5_50ftc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9970,8 +9887,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Naresh+Dental+Clinic+and+Implant+Center/@30.3406386,76.4120083,17z/data=!3m1!4b1!4m6!3m5!1s0x391029470a0bf749:0x5112cca28e56b008!8m2!3d30.3406386!4d76.4120083!16s%2Fg%2F11f5_50ftc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "narula-dental-clinic-patiala",
@@ -10019,7 +9935,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Narula+Dental+Clinic/@30.3261867,76.391307,17z/data=!3m1!4b1!4m6!3m5!1s0x391028e3dffeca0d:0xfd3c72a1957c4ec2!8m2!3d30.3261867!4d76.391307!16s%2Fg%2F11cjk0dphk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narula+Dental+Clinic/@30.3261867,76.391307,17z/data=!3m1!4b1!4m6!3m5!1s0x391028e3dffeca0d:0xfd3c72a1957c4ec2!8m2!3d30.3261867!4d76.391307!16s%2Fg%2F11cjk0dphk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10088,8 +10004,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Narula+Dental+Clinic/@30.3261867,76.391307,17z/data=!3m1!4b1!4m6!3m5!1s0x391028e3dffeca0d:0xfd3c72a1957c4ec2!8m2!3d30.3261867!4d76.391307!16s%2Fg%2F11cjk0dphk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "navgeet-hospital-patiala",
@@ -10137,7 +10052,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Navgeet+Hospital/@30.3602604,76.3714479,17z/data=!3m1!4b1!4m6!3m5!1s0x3910291e52b83fc9:0x788e272c468fce13!8m2!3d30.3602604!4d76.3714479!16s%2Fg%2F11s22yslst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navgeet+Hospital/@30.3602604,76.3714479,17z/data=!3m1!4b1!4m6!3m5!1s0x3910291e52b83fc9:0x788e272c468fce13!8m2!3d30.3602604!4d76.3714479!16s%2Fg%2F11s22yslst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10206,8 +10121,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Navgeet+Hospital/@30.3602604,76.3714479,17z/data=!3m1!4b1!4m6!3m5!1s0x3910291e52b83fc9:0x788e272c468fce13!8m2!3d30.3602604!4d76.3714479!16s%2Fg%2F11s22yslst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nawal-hospital-patiala",
@@ -10255,7 +10169,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nawal+Hospital/@30.3203792,76.407588,17z/data=!3m1!4b1!4m6!3m5!1s0x391029778c22b5cf:0x142cf0c077a44a1f!8m2!3d30.3203792!4d76.407588!16s%2Fg%2F11ffm19bt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nawal+Hospital/@30.3203792,76.407588,17z/data=!3m1!4b1!4m6!3m5!1s0x391029778c22b5cf:0x142cf0c077a44a1f!8m2!3d30.3203792!4d76.407588!16s%2Fg%2F11ffm19bt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10324,8 +10238,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nawal+Hospital/@30.3203792,76.407588,17z/data=!3m1!4b1!4m6!3m5!1s0x391029778c22b5cf:0x142cf0c077a44a1f!8m2!3d30.3203792!4d76.407588!16s%2Fg%2F11ffm19bt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neelam-hospital-rajpura",
@@ -10374,7 +10287,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neelam+Hospital/@30.5185855,76.6581459,17z/data=!3m1!4b1!4m6!3m5!1s0x390fdc790fd6a1d1:0x8a46be7d045ce72a!8m2!3d30.5185855!4d76.6581459!16s%2Fg%2F1tfqpb9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neelam+Hospital/@30.5185855,76.6581459,17z/data=!3m1!4b1!4m6!3m5!1s0x390fdc790fd6a1d1:0x8a46be7d045ce72a!8m2!3d30.5185855!4d76.6581459!16s%2Fg%2F1tfqpb9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10443,8 +10356,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neelam+Hospital/@30.5185855,76.6581459,17z/data=!3m1!4b1!4m6!3m5!1s0x390fdc790fd6a1d1:0x8a46be7d045ce72a!8m2!3d30.5185855!4d76.6581459!16s%2Fg%2F1tfqpb9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-patiala",
@@ -10494,7 +10406,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@30.3325712,76.3819531,17z/data=!3m1!4b1!4m6!3m5!1s0x39102913250692f1:0xec6e0844626fee0f!8m2!3d30.3325712!4d76.3819531!16s%2Fg%2F11plsxs_jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@30.3325712,76.3819531,17z/data=!3m1!4b1!4m6!3m5!1s0x39102913250692f1:0xec6e0844626fee0f!8m2!3d30.3325712!4d76.3819531!16s%2Fg%2F11plsxs_jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10560,11 +10472,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@30.3325712,76.3819531,17z/data=!3m1!4b1!4m6!3m5!1s0x39102913250692f1:0xec6e0844626fee0f!8m2!3d30.3325712!4d76.3819531!16s%2Fg%2F11plsxs_jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-patiala-hospital-and-maternity-home-patiala",
@@ -10612,7 +10523,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Patiala+Hospital+and+maternity+home/@30.3625913,76.37211,17z/data=!3m1!4b1!4m6!3m5!1s0x3910260259bf7697:0xa42976f448e05dbb!8m2!3d30.3625913!4d76.37211!16s%2Fg%2F11c50l36dd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Patiala+Hospital+and+maternity+home/@30.3625913,76.37211,17z/data=!3m1!4b1!4m6!3m5!1s0x3910260259bf7697:0xa42976f448e05dbb!8m2!3d30.3625913!4d76.37211!16s%2Fg%2F11c50l36dd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10681,8 +10592,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Patiala+Hospital+and+maternity+home/@30.3625913,76.37211,17z/data=!3m1!4b1!4m6!3m5!1s0x3910260259bf7697:0xa42976f448e05dbb!8m2!3d30.3625913!4d76.37211!16s%2Fg%2F11c50l36dd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nitin-hospital-patiala",
@@ -10731,7 +10641,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nitin+Hospital/@30.3350795,76.3826392,17z/data=!3m1!4b1!4m6!3m5!1s0x39101f0c88a9b3b3:0x14d57ac30fc69982!8m2!3d30.3350795!4d76.3826392!16s%2Fg%2F1tdyzbcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nitin+Hospital/@30.3350795,76.3826392,17z/data=!3m1!4b1!4m6!3m5!1s0x39101f0c88a9b3b3:0x14d57ac30fc69982!8m2!3d30.3350795!4d76.3826392!16s%2Fg%2F1tdyzbcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10800,8 +10710,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nitin+Hospital/@30.3350795,76.3826392,17z/data=!3m1!4b1!4m6!3m5!1s0x39101f0c88a9b3b3:0x14d57ac30fc69982!8m2!3d30.3350795!4d76.3826392!16s%2Fg%2F1tdyzbcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "noor-dental-clinic-patiala",
@@ -10851,7 +10760,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Noor+Dental+Clinic/@30.345031,76.3805164,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b96cd98e1d:0x753ce95322d77c90!8m2!3d30.345031!4d76.3805164!16s%2Fg%2F11hbmw2z5x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Noor+Dental+Clinic/@30.345031,76.3805164,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b96cd98e1d:0x753ce95322d77c90!8m2!3d30.345031!4d76.3805164!16s%2Fg%2F11hbmw2z5x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10920,8 +10829,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Noor+Dental+Clinic/@30.345031,76.3805164,17z/data=!3m1!4b1!4m6!3m5!1s0x391028b96cd98e1d:0x753ce95322d77c90!8m2!3d30.345031!4d76.3805164!16s%2Fg%2F11hbmw2z5x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nulife-hospital-greater-mohali",
@@ -10970,7 +10878,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NuLife+Hospital/@30.7337101,76.6474664,17z/data=!3m1!4b1!4m6!3m5!1s0x390feff6acdf4e8f:0xa5db26a1ad9b061!8m2!3d30.7337101!4d76.6474664!16s%2Fg%2F11dd_srhgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NuLife+Hospital/@30.7337101,76.6474664,17z/data=!3m1!4b1!4m6!3m5!1s0x390feff6acdf4e8f:0xa5db26a1ad9b061!8m2!3d30.7337101!4d76.6474664!16s%2Fg%2F11dd_srhgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11039,8 +10947,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NuLife+Hospital/@30.7337101,76.6474664,17z/data=!3m1!4b1!4m6!3m5!1s0x390feff6acdf4e8f:0xa5db26a1ad9b061!8m2!3d30.7337101!4d76.6474664!16s%2Fg%2F11dd_srhgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "omnia-hospital-patiala",
@@ -11089,7 +10996,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Omnia+Hospital/@30.3318657,76.3798362,17z/data=!3m1!4b1!4m6!3m5!1s0x3910292b4e34f5eb:0xc10962972b52e0e7!8m2!3d30.3318657!4d76.3798362!16s%2Fg%2F11pbfk8m3n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Omnia+Hospital/@30.3318657,76.3798362,17z/data=!3m1!4b1!4m6!3m5!1s0x3910292b4e34f5eb:0xc10962972b52e0e7!8m2!3d30.3318657!4d76.3798362!16s%2Fg%2F11pbfk8m3n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11158,8 +11065,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Omnia+Hospital/@30.3318657,76.3798362,17z/data=!3m1!4b1!4m6!3m5!1s0x3910292b4e34f5eb:0xc10962972b52e0e7!8m2!3d30.3318657!4d76.3798362!16s%2Fg%2F11pbfk8m3n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "one-skin-clinic-patiala",
@@ -11207,7 +11113,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/One+Skin+Clinic/@30.3446785,76.3848337,17z/data=!3m1!4b1!4m6!3m5!1s0x391028be703e1b7f:0x57f01f9cfb689c66!8m2!3d30.3446785!4d76.3848337!16s%2Fg%2F1wrghkh3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/One+Skin+Clinic/@30.3446785,76.3848337,17z/data=!3m1!4b1!4m6!3m5!1s0x391028be703e1b7f:0x57f01f9cfb689c66!8m2!3d30.3446785!4d76.3848337!16s%2Fg%2F1wrghkh3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11276,8 +11182,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/One+Skin+Clinic/@30.3446785,76.3848337,17z/data=!3m1!4b1!4m6!3m5!1s0x391028be703e1b7f:0x57f01f9cfb689c66!8m2!3d30.3446785!4d76.3848337!16s%2Fg%2F1wrghkh3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "osteocare-patiala",
@@ -11325,7 +11230,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/OsteoCare/@30.3323387,76.3792701,17z/data=!3m1!4b1!4m6!3m5!1s0x391029be04a208a3:0x82939738dcffa65d!8m2!3d30.3323387!4d76.3792701!16s%2Fg%2F11h0pn894k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OsteoCare/@30.3323387,76.3792701,17z/data=!3m1!4b1!4m6!3m5!1s0x391029be04a208a3:0x82939738dcffa65d!8m2!3d30.3323387!4d76.3792701!16s%2Fg%2F11h0pn894k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11394,8 +11299,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/OsteoCare/@30.3323387,76.3792701,17z/data=!3m1!4b1!4m6!3m5!1s0x391029be04a208a3:0x82939738dcffa65d!8m2!3d30.3323387!4d76.3792701!16s%2Fg%2F11h0pn894k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pal-kidney-and-stone-centre-patiala",
@@ -11444,7 +11348,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pal+Kidney+and+Stone+Centre/@30.3420176,76.3829449,17z/data=!3m1!4b1!4m6!3m5!1s0x39102952d0729eed:0x2186904983f4ab93!8m2!3d30.3420176!4d76.3829449!16s%2Fg%2F11hzpgncm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pal+Kidney+and+Stone+Centre/@30.3420176,76.3829449,17z/data=!3m1!4b1!4m6!3m5!1s0x39102952d0729eed:0x2186904983f4ab93!8m2!3d30.3420176!4d76.3829449!16s%2Fg%2F11hzpgncm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11510,11 +11414,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pal+Kidney+and+Stone+Centre/@30.3420176,76.3829449,17z/data=!3m1!4b1!4m6!3m5!1s0x39102952d0729eed:0x2186904983f4ab93!8m2!3d30.3420176!4d76.3829449!16s%2Fg%2F11hzpgncm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pal-urology-and-stone-centre-patiala-patiala",
@@ -11562,7 +11465,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PAL+UROLOGY+AND+STONE+CENTRE,+PATIALA/@30.3412647,76.382253,17z/data=!3m1!4b1!4m6!3m5!1s0x391029139c93081b:0xb9b4008e55f22a96!8m2!3d30.3412647!4d76.382253!16s%2Fg%2F11q8hzn6hv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PAL+UROLOGY+AND+STONE+CENTRE,+PATIALA/@30.3412647,76.382253,17z/data=!3m1!4b1!4m6!3m5!1s0x391029139c93081b:0xb9b4008e55f22a96!8m2!3d30.3412647!4d76.382253!16s%2Fg%2F11q8hzn6hv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11628,11 +11531,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PAL+UROLOGY+AND+STONE+CENTRE,+PATIALA/@30.3412647,76.382253,17z/data=!3m1!4b1!4m6!3m5!1s0x391029139c93081b:0xb9b4008e55f22a96!8m2!3d30.3412647!4d76.382253!16s%2Fg%2F11q8hzn6hv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "panwar-dental-clinic-patiala",
@@ -11681,7 +11583,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Panwar+Dental+Clinic/@30.3425802,76.448245,17z/data=!3m1!4b1!4m6!3m5!1s0x39102997cab2f7b5:0xf1665fd55235c5d9!8m2!3d30.3425802!4d76.448245!16s%2Fg%2F11rhrw6vmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Panwar+Dental+Clinic/@30.3425802,76.448245,17z/data=!3m1!4b1!4m6!3m5!1s0x39102997cab2f7b5:0xf1665fd55235c5d9!8m2!3d30.3425802!4d76.448245!16s%2Fg%2F11rhrw6vmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11747,11 +11649,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Panwar+Dental+Clinic/@30.3425802,76.448245,17z/data=!3m1!4b1!4m6!3m5!1s0x39102997cab2f7b5:0xf1665fd55235c5d9!8m2!3d30.3425802!4d76.448245!16s%2Fg%2F11rhrw6vmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patiala-diagnostics-and-fetal-scan-centre-patiala",
@@ -11801,7 +11702,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patiala+Diagnostics+%26+Fetal+Scan+Centre/@30.3382751,76.4017344,17z/data=!3m1!4b1!4m6!3m5!1s0x391029150e6cebf5:0xf7b655a1526aa3b9!8m2!3d30.3382751!4d76.4017344!16s%2Fg%2F11xnr09qr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patiala+Diagnostics+%26+Fetal+Scan+Centre/@30.3382751,76.4017344,17z/data=!3m1!4b1!4m6!3m5!1s0x391029150e6cebf5:0xf7b655a1526aa3b9!8m2!3d30.3382751!4d76.4017344!16s%2Fg%2F11xnr09qr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11870,8 +11771,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patiala+Diagnostics+%26+Fetal+Scan+Centre/@30.3382751,76.4017344,17z/data=!3m1!4b1!4m6!3m5!1s0x391029150e6cebf5:0xf7b655a1526aa3b9!8m2!3d30.3382751!4d76.4017344!16s%2Fg%2F11xnr09qr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patiala-eye-hospital-and-lasik-laser-centre-patiala",
@@ -11921,7 +11821,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patiala+Eye+Hospital+%26+Lasik+Laser+Centre/@30.3355212,76.3842221,17z/data=!3m1!4b1!4m6!3m5!1s0x390fec1ffa16fa7b:0xa2c5fbea313bc0a4!8m2!3d30.3355212!4d76.3842221!16s%2Fg%2F1ptzn3q52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patiala+Eye+Hospital+%26+Lasik+Laser+Centre/@30.3355212,76.3842221,17z/data=!3m1!4b1!4m6!3m5!1s0x390fec1ffa16fa7b:0xa2c5fbea313bc0a4!8m2!3d30.3355212!4d76.3842221!16s%2Fg%2F1ptzn3q52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11990,8 +11890,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patiala+Eye+Hospital+%26+Lasik+Laser+Centre/@30.3355212,76.3842221,17z/data=!3m1!4b1!4m6!3m5!1s0x390fec1ffa16fa7b:0xa2c5fbea313bc0a4!8m2!3d30.3355212!4d76.3842221!16s%2Fg%2F1ptzn3q52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patiala-hospital-hair-transplant-hospital-patiala",
@@ -12039,7 +11938,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patiala+Hospital+-+Hair+Transplant+Hospital/@30.360146,76.4037656,17z/data=!3m1!4b1!4m6!3m5!1s0x39102883dc4eccab:0xf8d3cac48add86e2!8m2!3d30.360146!4d76.4037656!16s%2Fg%2F11gdyllr65?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patiala+Hospital+-+Hair+Transplant+Hospital/@30.360146,76.4037656,17z/data=!3m1!4b1!4m6!3m5!1s0x39102883dc4eccab:0xf8d3cac48add86e2!8m2!3d30.360146!4d76.4037656!16s%2Fg%2F11gdyllr65?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12108,8 +12007,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patiala+Hospital+-+Hair+Transplant+Hospital/@30.360146,76.4037656,17z/data=!3m1!4b1!4m6!3m5!1s0x39102883dc4eccab:0xf8d3cac48add86e2!8m2!3d30.360146!4d76.4037656!16s%2Fg%2F11gdyllr65?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pearl-e-whites-patiala",
@@ -12157,7 +12055,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pearl+'E+Whites/@30.3363844,76.4092373,17z/data=!3m1!4b1!4m6!3m5!1s0x391029e95ddf2f57:0x6201de849f8b71cb!8m2!3d30.3363844!4d76.4092373!16s%2Fg%2F11p02pbdr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pearl+'E+Whites/@30.3363844,76.4092373,17z/data=!3m1!4b1!4m6!3m5!1s0x391029e95ddf2f57:0x6201de849f8b71cb!8m2!3d30.3363844!4d76.4092373!16s%2Fg%2F11p02pbdr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12223,11 +12121,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pearl+'E+Whites/@30.3363844,76.4092373,17z/data=!3m1!4b1!4m6!3m5!1s0x391029e95ddf2f57:0x6201de849f8b71cb!8m2!3d30.3363844!4d76.4092373!16s%2Fg%2F11p02pbdr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pearl-dental-clinic-patiala",
@@ -12275,7 +12172,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pearl+dental+clinic/@30.3392971,76.3880616,17z/data=!3m1!4b1!4m6!3m5!1s0x39102765537fe2c3:0xa7b130afca901a5d!8m2!3d30.3392971!4d76.3880616!16s%2Fg%2F11y35291pq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pearl+dental+clinic/@30.3392971,76.3880616,17z/data=!3m1!4b1!4m6!3m5!1s0x39102765537fe2c3:0xa7b130afca901a5d!8m2!3d30.3392971!4d76.3880616!16s%2Fg%2F11y35291pq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12341,11 +12238,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pearl+dental+clinic/@30.3392971,76.3880616,17z/data=!3m1!4b1!4m6!3m5!1s0x39102765537fe2c3:0xa7b130afca901a5d!8m2!3d30.3392971!4d76.3880616!16s%2Fg%2F11y35291pq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "petals-aesthetics-patiala",
@@ -12394,7 +12290,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Petals+Aesthetics/@30.3301281,76.3905918,17z/data=!3m1!4b1!4m6!3m5!1s0x39102937aacec785:0x561fa2916545d233!8m2!3d30.3301281!4d76.3905918!16s%2Fg%2F11p_5m_q6f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Petals+Aesthetics/@30.3301281,76.3905918,17z/data=!3m1!4b1!4m6!3m5!1s0x39102937aacec785:0x561fa2916545d233!8m2!3d30.3301281!4d76.3905918!16s%2Fg%2F11p_5m_q6f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12463,8 +12359,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Petals+Aesthetics/@30.3301281,76.3905918,17z/data=!3m1!4b1!4m6!3m5!1s0x39102937aacec785:0x561fa2916545d233!8m2!3d30.3301281!4d76.3905918!16s%2Fg%2F11p_5m_q6f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "preet-dental-and-facial-aesthetics-clinic-patiala",
@@ -12513,7 +12408,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Preet+Dental%26+Facial+Aesthetics+Clinic/@30.3514791,76.4489104,17z/data=!3m1!4b1!4m6!3m5!1s0x3910296c12884405:0x8f0abf8e0cd1e508!8m2!3d30.3514791!4d76.4489104!16s%2Fg%2F11w8qg99d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Preet+Dental%26+Facial+Aesthetics+Clinic/@30.3514791,76.4489104,17z/data=!3m1!4b1!4m6!3m5!1s0x3910296c12884405:0x8f0abf8e0cd1e508!8m2!3d30.3514791!4d76.4489104!16s%2Fg%2F11w8qg99d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12579,11 +12474,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Preet+Dental%26+Facial+Aesthetics+Clinic/@30.3514791,76.4489104,17z/data=!3m1!4b1!4m6!3m5!1s0x3910296c12884405:0x8f0abf8e0cd1e508!8m2!3d30.3514791!4d76.4489104!16s%2Fg%2F11w8qg99d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "preet-hospital-patiala",
@@ -12631,7 +12525,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Preet+Hospital/@30.3481576,76.3762189,17z/data=!3m1!4b1!4m6!3m5!1s0x391028ba90da6cb3:0xef8ed48791d8d41b!8m2!3d30.3481576!4d76.3762189!16s%2Fg%2F1hhwphsqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Preet+Hospital/@30.3481576,76.3762189,17z/data=!3m1!4b1!4m6!3m5!1s0x391028ba90da6cb3:0xef8ed48791d8d41b!8m2!3d30.3481576!4d76.3762189!16s%2Fg%2F1hhwphsqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12700,8 +12594,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Preet+Hospital/@30.3481576,76.3762189,17z/data=!3m1!4b1!4m6!3m5!1s0x391028ba90da6cb3:0xef8ed48791d8d41b!8m2!3d30.3481576!4d76.3762189!16s%2Fg%2F1hhwphsqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "radiant-diagnostics-patiala",
@@ -12751,7 +12644,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Radiant+Diagnostics/@30.3496983,76.4446505,17z/data=!3m1!4b1!4m6!3m5!1s0x391029af279fce45:0xdfa20886a7bf4208!8m2!3d30.3496983!4d76.4446505!16s%2Fg%2F11b6_8k7pg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiant+Diagnostics/@30.3496983,76.4446505,17z/data=!3m1!4b1!4m6!3m5!1s0x391029af279fce45:0xdfa20886a7bf4208!8m2!3d30.3496983!4d76.4446505!16s%2Fg%2F11b6_8k7pg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12820,8 +12713,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Radiant+Diagnostics/@30.3496983,76.4446505,17z/data=!3m1!4b1!4m6!3m5!1s0x391029af279fce45:0xdfa20886a7bf4208!8m2!3d30.3496983!4d76.4446505!16s%2Fg%2F11b6_8k7pg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rajan-hospital-patiala",
@@ -12869,7 +12761,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rajan+Hospital/@30.337997,76.4013755,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f3ab7d75e7:0xbcff306ef100be51!8m2!3d30.337997!4d76.4013755!16s%2Fg%2F11g71tzqf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajan+Hospital/@30.337997,76.4013755,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f3ab7d75e7:0xbcff306ef100be51!8m2!3d30.337997!4d76.4013755!16s%2Fg%2F11g71tzqf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12935,11 +12827,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rajan+Hospital/@30.337997,76.4013755,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f3ab7d75e7:0xbcff306ef100be51!8m2!3d30.337997!4d76.4013755!16s%2Fg%2F11g71tzqf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rajindra-hospital-patiala-patiala",
@@ -12988,7 +12879,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rajindra+Hospital+Patiala/@30.3283953,76.3844366,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd695e0c2b:0xab9eccd20f905b2d!8m2!3d30.3283953!4d76.3844366!16s%2Fg%2F11b75hyvzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajindra+Hospital+Patiala/@30.3283953,76.3844366,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd695e0c2b:0xab9eccd20f905b2d!8m2!3d30.3283953!4d76.3844366!16s%2Fg%2F11b75hyvzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13057,8 +12948,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rajindra+Hospital+Patiala/@30.3283953,76.3844366,17z/data=!3m1!4b1!4m6!3m5!1s0x391028dd695e0c2b:0xab9eccd20f905b2d!8m2!3d30.3283953!4d76.3844366!16s%2Fg%2F11b75hyvzx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ranjit-maternity-clinic-patiala",
@@ -13107,7 +12997,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ranjit+Maternity+Clinic/@30.3342478,76.3906351,17z/data=!3m1!4b1!4m6!3m5!1s0x391028e963f42543:0x204244d2652f15dc!8m2!3d30.3342478!4d76.3906351!16s%2Fg%2F11c5b3046v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ranjit+Maternity+Clinic/@30.3342478,76.3906351,17z/data=!3m1!4b1!4m6!3m5!1s0x391028e963f42543:0x204244d2652f15dc!8m2!3d30.3342478!4d76.3906351!16s%2Fg%2F11c5b3046v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13176,8 +13066,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ranjit+Maternity+Clinic/@30.3342478,76.3906351,17z/data=!3m1!4b1!4m6!3m5!1s0x391028e963f42543:0x204244d2652f15dc!8m2!3d30.3342478!4d76.3906351!16s%2Fg%2F11c5b3046v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rehbar-ayu-health-care-and-panchkarma-centre-ayurvedic-clinic-patiala",
@@ -13225,7 +13114,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/REHBAR+AYU+HEALTH+CARE+%26+PANCHKARMA+CENTRE+%7C+Ayurvedic+Clinic+%7C/@30.3635541,76.380047,17z/data=!3m1!4b1!4m6!3m5!1s0x3910261dc424a06d:0xd346740881305725!8m2!3d30.3635541!4d76.380047!16s%2Fg%2F11g9f7bkwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/REHBAR+AYU+HEALTH+CARE+%26+PANCHKARMA+CENTRE+%7C+Ayurvedic+Clinic+%7C/@30.3635541,76.380047,17z/data=!3m1!4b1!4m6!3m5!1s0x3910261dc424a06d:0xd346740881305725!8m2!3d30.3635541!4d76.380047!16s%2Fg%2F11g9f7bkwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13294,8 +13183,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/REHBAR+AYU+HEALTH+CARE+%26+PANCHKARMA+CENTRE+%7C+Ayurvedic+Clinic+%7C/@30.3635541,76.380047,17z/data=!3m1!4b1!4m6!3m5!1s0x3910261dc424a06d:0xd346740881305725!8m2!3d30.3635541!4d76.380047!16s%2Fg%2F11g9f7bkwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saaol-heart-center-patiala-eecp-treatment-dr-bimal-chhajer-patiala",
@@ -13345,7 +13233,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAAOL+Heart+Center+Patiala+-+EECP+Treatment+(Dr+Bimal+Chhajer)/@30.351927,76.3993055,17z/data=!3m1!4b1!4m6!3m5!1s0x3910288ff1abb73f:0xad5efd7dcfcb12c0!8m2!3d30.351927!4d76.3993055!16s%2Fg%2F11gdrf3v66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAAOL+Heart+Center+Patiala+-+EECP+Treatment+(Dr+Bimal+Chhajer)/@30.351927,76.3993055,17z/data=!3m1!4b1!4m6!3m5!1s0x3910288ff1abb73f:0xad5efd7dcfcb12c0!8m2!3d30.351927!4d76.3993055!16s%2Fg%2F11gdrf3v66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13414,8 +13302,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAAOL+Heart+Center+Patiala+-+EECP+Treatment+(Dr+Bimal+Chhajer)/@30.351927,76.3993055,17z/data=!3m1!4b1!4m6!3m5!1s0x3910288ff1abb73f:0xad5efd7dcfcb12c0!8m2!3d30.351927!4d76.3993055!16s%2Fg%2F11gdrf3v66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sadhbawna-hospital-patiala",
@@ -13463,7 +13350,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sadhbawna+Hospital/data=!4m7!3m6!1s0x391028963cc6483b:0x76acc46bca71a31a!8m2!3d30.3471801!4d76.3876664!16s%2Fg%2F11nwx83ms8!19sChIJO0jGPJYoEDkRGqNxymvErHY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadhbawna+Hospital/data=!4m7!3m6!1s0x391028963cc6483b:0x76acc46bca71a31a!8m2!3d30.3471801!4d76.3876664!16s%2Fg%2F11nwx83ms8!19sChIJO0jGPJYoEDkRGqNxymvErHY?authuser=0&hl=en&rclk=1"
@@ -13532,8 +13419,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sadhbawna+Hospital/data=!4m7!3m6!1s0x391028963cc6483b:0x76acc46bca71a31a!8m2!3d30.3471801!4d76.3876664!16s%2Fg%2F11nwx83ms8!19sChIJO0jGPJYoEDkRGqNxymvErHY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevani-hospital-patiala",
@@ -13583,7 +13469,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevani+Hospital/@30.3460095,76.3796706,17z/data=!3m1!4b1!4m6!3m5!1s0x391028bbc028b71d:0x9b694a79ac777535!8m2!3d30.3460095!4d76.3796706!16s%2Fg%2F11b6ss89b5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Hospital/@30.3460095,76.3796706,17z/data=!3m1!4b1!4m6!3m5!1s0x391028bbc028b71d:0x9b694a79ac777535!8m2!3d30.3460095!4d76.3796706!16s%2Fg%2F11b6ss89b5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13652,8 +13538,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevani+Hospital/@30.3460095,76.3796706,17z/data=!3m1!4b1!4m6!3m5!1s0x391028bbc028b71d:0x9b694a79ac777535!8m2!3d30.3460095!4d76.3796706!16s%2Fg%2F11b6ss89b5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sant-clinic-and-maternity-home-and-child-care-hospital-patiala",
@@ -13702,7 +13587,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sant+Clinic+%26+Maternity+Home+%26+Child+Care+Hospital/@30.3441387,76.3828647,17z/data=!3m1!4b1!4m6!3m5!1s0x391028be9728f87b:0x89ed686641aad48b!8m2!3d30.3441387!4d76.3828647!16s%2Fg%2F1q64f4c3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sant+Clinic+%26+Maternity+Home+%26+Child+Care+Hospital/@30.3441387,76.3828647,17z/data=!3m1!4b1!4m6!3m5!1s0x391028be9728f87b:0x89ed686641aad48b!8m2!3d30.3441387!4d76.3828647!16s%2Fg%2F1q64f4c3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13771,8 +13656,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sant+Clinic+%26+Maternity+Home+%26+Child+Care+Hospital/@30.3441387,76.3828647,17z/data=!3m1!4b1!4m6!3m5!1s0x391028be9728f87b:0x89ed686641aad48b!8m2!3d30.3441387!4d76.3828647!16s%2Fg%2F1q64f4c3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satyadeep-dental-clinic-patiala",
@@ -13822,7 +13706,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Satyadeep+Dental+Clinic/@30.3414781,76.3759013,17z/data=!3m1!4b1!4m6!3m5!1s0x391029c68ead00b7:0xf29eba8d802719d2!8m2!3d30.3414781!4d76.3759013!16s%2Fg%2F11fj606dkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyadeep+Dental+Clinic/@30.3414781,76.3759013,17z/data=!3m1!4b1!4m6!3m5!1s0x391029c68ead00b7:0xf29eba8d802719d2!8m2!3d30.3414781!4d76.3759013!16s%2Fg%2F11fj606dkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13888,11 +13772,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Satyadeep+Dental+Clinic/@30.3414781,76.3759013,17z/data=!3m1!4b1!4m6!3m5!1s0x391029c68ead00b7:0xf29eba8d802719d2!8m2!3d30.3414781!4d76.3759013!16s%2Fg%2F11fj606dkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sekhon-medicine-clinic-patiala",
@@ -13940,7 +13823,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sekhon+Medicine+Clinic/@30.3699228,76.3644656,17z/data=!3m1!4b1!4m6!3m5!1s0x39102783839611a3:0xd1c43443aae692f2!8m2!3d30.3699228!4d76.3644656!16s%2Fg%2F11kbm_sh7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sekhon+Medicine+Clinic/@30.3699228,76.3644656,17z/data=!3m1!4b1!4m6!3m5!1s0x39102783839611a3:0xd1c43443aae692f2!8m2!3d30.3699228!4d76.3644656!16s%2Fg%2F11kbm_sh7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14009,8 +13892,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sekhon+Medicine+Clinic/@30.3699228,76.3644656,17z/data=!3m1!4b1!4m6!3m5!1s0x39102783839611a3:0xd1c43443aae692f2!8m2!3d30.3699228!4d76.3644656!16s%2Fg%2F11kbm_sh7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shahi-dawa-khana-ayurvedic-and-panchakarma-centre-maternity-hospital-in-patiala-patiala",
@@ -14058,7 +13940,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shahi+Dawa+Khana-+Ayurvedic+%26+Panchakarma+Centre+%2F+Maternity+Hospital+in+Patiala/@30.3377032,76.4011418,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f24c8d6f97:0xc745258cdc2f51bb!8m2!3d30.3377032!4d76.4011418!16s%2Fg%2F1tdz365q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shahi+Dawa+Khana-+Ayurvedic+%26+Panchakarma+Centre+%2F+Maternity+Hospital+in+Patiala/@30.3377032,76.4011418,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f24c8d6f97:0xc745258cdc2f51bb!8m2!3d30.3377032!4d76.4011418!16s%2Fg%2F1tdz365q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14127,8 +14009,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shahi+Dawa+Khana-+Ayurvedic+%26+Panchakarma+Centre+%2F+Maternity+Hospital+in+Patiala/@30.3377032,76.4011418,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f24c8d6f97:0xc745258cdc2f51bb!8m2!3d30.3377032!4d76.4011418!16s%2Fg%2F1tdz365q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shanky-surgical-and-medicine-patiala",
@@ -14178,7 +14059,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shanky+Surgical+%26+Medicine/@30.3359151,76.3990099,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f07518fbcd:0x63a7f817c0a7d5d!8m2!3d30.3359151!4d76.3990099!16s%2Fg%2F1tgjjp6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanky+Surgical+%26+Medicine/@30.3359151,76.3990099,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f07518fbcd:0x63a7f817c0a7d5d!8m2!3d30.3359151!4d76.3990099!16s%2Fg%2F1tgjjp6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14247,8 +14128,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shanky+Surgical+%26+Medicine/@30.3359151,76.3990099,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f07518fbcd:0x63a7f817c0a7d5d!8m2!3d30.3359151!4d76.3990099!16s%2Fg%2F1tgjjp6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-clinic-and-maternity-home-patiala",
@@ -14296,7 +14176,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHARMA+CLINIC+%26+MATERNITY+HOME/@30.3398172,76.359505,17z/data=!3m1!4b1!4m6!3m5!1s0x39102f2830096d1d:0xfa9432068bb789dd!8m2!3d30.3398172!4d76.359505!16s%2Fg%2F11mtd58m3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHARMA+CLINIC+%26+MATERNITY+HOME/@30.3398172,76.359505,17z/data=!3m1!4b1!4m6!3m5!1s0x39102f2830096d1d:0xfa9432068bb789dd!8m2!3d30.3398172!4d76.359505!16s%2Fg%2F11mtd58m3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14362,11 +14242,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHARMA+CLINIC+%26+MATERNITY+HOME/@30.3398172,76.359505,17z/data=!3m1!4b1!4m6!3m5!1s0x39102f2830096d1d:0xfa9432068bb789dd!8m2!3d30.3398172!4d76.359505!16s%2Fg%2F11mtd58m3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-clinic-family-healthcare-patiala",
@@ -14414,7 +14293,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharma+Clinic+(Family+Healthcare)/@30.3124269,76.3358073,17z/data=!3m1!4b1!4m6!3m5!1s0x39102f2e69b93feb:0xedc826974c2f3334!8m2!3d30.3124269!4d76.3358073!16s%2Fg%2F11f0w_wqwr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Clinic+(Family+Healthcare)/@30.3124269,76.3358073,17z/data=!3m1!4b1!4m6!3m5!1s0x39102f2e69b93feb:0xedc826974c2f3334!8m2!3d30.3124269!4d76.3358073!16s%2Fg%2F11f0w_wqwr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14483,8 +14362,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharma+Clinic+(Family+Healthcare)/@30.3124269,76.3358073,17z/data=!3m1!4b1!4m6!3m5!1s0x39102f2e69b93feb:0xedc826974c2f3334!8m2!3d30.3124269!4d76.3358073!16s%2Fg%2F11f0w_wqwr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharma-kidney-hospital-and-gynae-centre-patiala",
@@ -14533,7 +14411,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharma+Kidney+Hospital+%26+Gynae+Centre/@30.3577516,76.3924913,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289ea971add3:0x1ad363448afad7d3!8m2!3d30.3577516!4d76.3924913!16s%2Fg%2F11b729s732?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Kidney+Hospital+%26+Gynae+Centre/@30.3577516,76.3924913,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289ea971add3:0x1ad363448afad7d3!8m2!3d30.3577516!4d76.3924913!16s%2Fg%2F11b729s732?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14602,8 +14480,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharma+Kidney+Hospital+%26+Gynae+Centre/@30.3577516,76.3924913,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289ea971add3:0x1ad363448afad7d3!8m2!3d30.3577516!4d76.3924913!16s%2Fg%2F11b729s732?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sigma-ultrasound-sigma-lab-and-eye-care-centre-patiala-patiala",
@@ -14653,7 +14530,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sigma+Ultrasound,+Sigma+Lab+and+Eye+Care+Centre-+Patiala/@30.3456384,76.3777464,17z/data=!3m1!4b1!4m6!3m5!1s0x391028ba326e416d:0xe7015ae217fc5b64!8m2!3d30.3456384!4d76.3777464!16s%2Fg%2F124yhg2bg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sigma+Ultrasound,+Sigma+Lab+and+Eye+Care+Centre-+Patiala/@30.3456384,76.3777464,17z/data=!3m1!4b1!4m6!3m5!1s0x391028ba326e416d:0xe7015ae217fc5b64!8m2!3d30.3456384!4d76.3777464!16s%2Fg%2F124yhg2bg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14722,8 +14599,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sigma+Ultrasound,+Sigma+Lab+and+Eye+Care+Centre-+Patiala/@30.3456384,76.3777464,17z/data=!3m1!4b1!4m6!3m5!1s0x391028ba326e416d:0xe7015ae217fc5b64!8m2!3d30.3456384!4d76.3777464!16s%2Fg%2F124yhg2bg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "simran-e-n-t-hospital-patiala",
@@ -14771,7 +14647,7 @@
     "metrics": [
       "Google rating 2.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Simran+E.N.T+Hospital/@30.3302032,76.3909402,17z/data=!3m1!4b1!4m6!3m5!1s0x3910297d5bde8cc1:0xfe9f1cec643d7962!8m2!3d30.3302032!4d76.3909402!16s%2Fg%2F11j2z6jynh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Simran+E.N.T+Hospital/@30.3302032,76.3909402,17z/data=!3m1!4b1!4m6!3m5!1s0x3910297d5bde8cc1:0xfe9f1cec643d7962!8m2!3d30.3302032!4d76.3909402!16s%2Fg%2F11j2z6jynh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14840,8 +14716,7 @@
     "rating": 2.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Simran+E.N.T+Hospital/@30.3302032,76.3909402,17z/data=!3m1!4b1!4m6!3m5!1s0x3910297d5bde8cc1:0xfe9f1cec643d7962!8m2!3d30.3302032!4d76.3909402!16s%2Fg%2F11j2z6jynh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "singla-dental-clinic-patiala",
@@ -14889,7 +14764,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Singla+Dental+Clinic/@30.3601612,76.4030126,17z/data=!3m1!4b1!4m6!3m5!1s0x391028824e1b9a25:0xd93eba6ca2fd73ff!8m2!3d30.3601612!4d76.4030126!16s%2Fg%2F11gfd74xqw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singla+Dental+Clinic/@30.3601612,76.4030126,17z/data=!3m1!4b1!4m6!3m5!1s0x391028824e1b9a25:0xd93eba6ca2fd73ff!8m2!3d30.3601612!4d76.4030126!16s%2Fg%2F11gfd74xqw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14958,8 +14833,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Singla+Dental+Clinic/@30.3601612,76.4030126,17z/data=!3m1!4b1!4m6!3m5!1s0x391028824e1b9a25:0xd93eba6ca2fd73ff!8m2!3d30.3601612!4d76.4030126!16s%2Fg%2F11gfd74xqw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "singla-dental-clinic-advanced-dental-care-patiala",
@@ -15007,7 +14881,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Singla+dental+clinic+(Advanced+dental+care)/@30.3403923,76.4275033,17z/data=!3m1!4b1!4m6!3m5!1s0x391029a64e6a428f:0xbf9b579ef60b9644!8m2!3d30.3403923!4d76.4275033!16s%2Fg%2F11x_g4zkmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singla+dental+clinic+(Advanced+dental+care)/@30.3403923,76.4275033,17z/data=!3m1!4b1!4m6!3m5!1s0x391029a64e6a428f:0xbf9b579ef60b9644!8m2!3d30.3403923!4d76.4275033!16s%2Fg%2F11x_g4zkmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15076,8 +14950,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Singla+dental+clinic+(Advanced+dental+care)/@30.3403923,76.4275033,17z/data=!3m1!4b1!4m6!3m5!1s0x391029a64e6a428f:0xbf9b579ef60b9644!8m2!3d30.3403923!4d76.4275033!16s%2Fg%2F11x_g4zkmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sirat-heart-and-child-care-center-patiala",
@@ -15127,7 +15000,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sirat+heart+and+child+care+center/@30.3230857,76.4080587,17z/data=!3m1!4b1!4m6!3m5!1s0x391028ff11008797:0x5b294487a2297366!8m2!3d30.3230857!4d76.4080587!16s%2Fg%2F11c5zq7lkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sirat+heart+and+child+care+center/@30.3230857,76.4080587,17z/data=!3m1!4b1!4m6!3m5!1s0x391028ff11008797:0x5b294487a2297366!8m2!3d30.3230857!4d76.4080587!16s%2Fg%2F11c5zq7lkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15196,8 +15069,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sirat+heart+and+child+care+center/@30.3230857,76.4080587,17z/data=!3m1!4b1!4m6!3m5!1s0x391028ff11008797:0x5b294487a2297366!8m2!3d30.3230857!4d76.4080587!16s%2Fg%2F11c5zq7lkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "slg-ortho-and-spine-centre-patiala",
@@ -15248,7 +15120,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SLG+Ortho+and+Spine+Centre/@30.334225,76.4151057,17z/data=!3m1!4b1!4m6!3m5!1s0x391029b01aa2622f:0x6aabf5e06c73b55e!8m2!3d30.334225!4d76.4151057!16s%2Fg%2F11spdfwxn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SLG+Ortho+and+Spine+Centre/@30.334225,76.4151057,17z/data=!3m1!4b1!4m6!3m5!1s0x391029b01aa2622f:0x6aabf5e06c73b55e!8m2!3d30.334225!4d76.4151057!16s%2Fg%2F11spdfwxn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15317,8 +15189,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SLG+Ortho+and+Spine+Centre/@30.334225,76.4151057,17z/data=!3m1!4b1!4m6!3m5!1s0x391029b01aa2622f:0x6aabf5e06c73b55e!8m2!3d30.334225!4d76.4151057!16s%2Fg%2F11spdfwxn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-saviors-dental-clinic-and-implant-centre-patiala",
@@ -15366,7 +15237,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Saviors+Dental+Clinic+and+Implant+Centre/@30.3230853,76.3928413,17z/data=!3m1!4b1!4m6!3m5!1s0x3910291ad3ce9e17:0xafcfa5e649dd2524!8m2!3d30.3230853!4d76.3928413!16s%2Fg%2F11lgm2ymz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Saviors+Dental+Clinic+and+Implant+Centre/@30.3230853,76.3928413,17z/data=!3m1!4b1!4m6!3m5!1s0x3910291ad3ce9e17:0xafcfa5e649dd2524!8m2!3d30.3230853!4d76.3928413!16s%2Fg%2F11lgm2ymz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15435,8 +15306,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Saviors+Dental+Clinic+and+Implant+Centre/@30.3230853,76.3928413,17z/data=!3m1!4b1!4m6!3m5!1s0x3910291ad3ce9e17:0xafcfa5e649dd2524!8m2!3d30.3230853!4d76.3928413!16s%2Fg%2F11lgm2ymz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sneh-nursing-home-patiala",
@@ -15485,7 +15355,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sneh+nursing+home/@30.3319005,76.3839985,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c3b2d6165b:0xa315e0e91cb49250!8m2!3d30.3319005!4d76.3839985!16s%2Fg%2F11hbn2t1cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sneh+nursing+home/@30.3319005,76.3839985,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c3b2d6165b:0xa315e0e91cb49250!8m2!3d30.3319005!4d76.3839985!16s%2Fg%2F11hbn2t1cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15551,11 +15421,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sneh+nursing+home/@30.3319005,76.3839985,17z/data=!3m1!4b1!4m6!3m5!1s0x391028c3b2d6165b:0xa315e0e91cb49250!8m2!3d30.3319005!4d76.3839985!16s%2Fg%2F11hbn2t1cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "spacedent-dental-clinic-patiala",
@@ -15603,7 +15472,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Spacedent+Dental+Clinic/@30.3678389,76.4107415,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295c9dc7294b:0xea4a118d6ff2c4d4!8m2!3d30.3678389!4d76.4107415!16s%2Fg%2F11lg2v_833?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spacedent+Dental+Clinic/@30.3678389,76.4107415,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295c9dc7294b:0xea4a118d6ff2c4d4!8m2!3d30.3678389!4d76.4107415!16s%2Fg%2F11lg2v_833?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15669,11 +15538,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Spacedent+Dental+Clinic/@30.3678389,76.4107415,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295c9dc7294b:0xea4a118d6ff2c4d4!8m2!3d30.3678389!4d76.4107415!16s%2Fg%2F11lg2v_833?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "star-medicity-super-specilaity-hospital-and-trauma-center-patiala",
@@ -15722,7 +15590,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/STAR+MEDICITY+SUPER+SPECILAITY+HOSPITAL+%26+TRAUMA+CENTER/@30.3846659,76.4117092,17z/data=!3m1!4b1!4m6!3m5!1s0x39102717fce19913:0x4b13bafba997b7f1!8m2!3d30.3846659!4d76.4117092!16s%2Fg%2F11r7dgdfzz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STAR+MEDICITY+SUPER+SPECILAITY+HOSPITAL+%26+TRAUMA+CENTER/@30.3846659,76.4117092,17z/data=!3m1!4b1!4m6!3m5!1s0x39102717fce19913:0x4b13bafba997b7f1!8m2!3d30.3846659!4d76.4117092!16s%2Fg%2F11r7dgdfzz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15791,8 +15659,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/STAR+MEDICITY+SUPER+SPECILAITY+HOSPITAL+%26+TRAUMA+CENTER/@30.3846659,76.4117092,17z/data=!3m1!4b1!4m6!3m5!1s0x39102717fce19913:0x4b13bafba997b7f1!8m2!3d30.3846659!4d76.4117092!16s%2Fg%2F11r7dgdfzz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "swami-ramanand-medical-clinic-patiala",
@@ -15840,7 +15707,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Swami+Ramanand+Medical+Clinic/@30.3441675,76.372631,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f10c9d9689:0xda5495d6cb40da7a!8m2!3d30.3441675!4d76.372631!16s%2Fg%2F11cr_rykfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swami+Ramanand+Medical+Clinic/@30.3441675,76.372631,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f10c9d9689:0xda5495d6cb40da7a!8m2!3d30.3441675!4d76.372631!16s%2Fg%2F11cr_rykfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15906,11 +15773,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Swami+Ramanand+Medical+Clinic/@30.3441675,76.372631,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f10c9d9689:0xda5495d6cb40da7a!8m2!3d30.3441675!4d76.372631!16s%2Fg%2F11cr_rykfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "t-b-hospital-patiala",
@@ -15958,7 +15824,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/T.B+Hospital/@30.3356794,76.3978853,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f07518fbcd:0xbd45a89a4b85e9ef!8m2!3d30.3356794!4d76.3978853!16s%2Fg%2F11c1ny3h_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/T.B+Hospital/@30.3356794,76.3978853,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f07518fbcd:0xbd45a89a4b85e9ef!8m2!3d30.3356794!4d76.3978853!16s%2Fg%2F11c1ny3h_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16027,8 +15893,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/T.B+Hospital/@30.3356794,76.3978853,17z/data=!3m1!4b1!4m6!3m5!1s0x391028f07518fbcd:0xbd45a89a4b85e9ef!8m2!3d30.3356794!4d76.3978853!16s%2Fg%2F11c1ny3h_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-healer-s-nest-physiotherapy-clinic-patiala",
@@ -16077,7 +15942,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Healer's+nest+Physiotherapy+clinic/@30.3524568,76.3951295,17z/data=!3m1!4b1!4m6!3m5!1s0x3910277d1c6c59d1:0x44eb2a940b132cd1!8m2!3d30.3524568!4d76.3951295!16s%2Fg%2F11pxwdts9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Healer's+nest+Physiotherapy+clinic/@30.3524568,76.3951295,17z/data=!3m1!4b1!4m6!3m5!1s0x3910277d1c6c59d1:0x44eb2a940b132cd1!8m2!3d30.3524568!4d76.3951295!16s%2Fg%2F11pxwdts9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16143,11 +16008,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Healer's+nest+Physiotherapy+clinic/@30.3524568,76.3951295,17z/data=!3m1!4b1!4m6!3m5!1s0x3910277d1c6c59d1:0x44eb2a940b132cd1!8m2!3d30.3524568!4d76.3951295!16s%2Fg%2F11pxwdts9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -16197,7 +16061,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16263,11 +16127,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thind-plastic-surgery-centre-and-thind-hospital-patiala",
@@ -16316,7 +16179,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/THIND+Plastic+Surgery+Centre+and+Thind+Hospital/@30.3316292,76.3816396,17z/data=!3m1!4b1!4m6!3m5!1s0x3910275ab23db179:0x3c7a8278102ae0f0!8m2!3d30.3316292!4d76.3816396!16s%2Fg%2F11pq_58qcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THIND+Plastic+Surgery+Centre+and+Thind+Hospital/@30.3316292,76.3816396,17z/data=!3m1!4b1!4m6!3m5!1s0x3910275ab23db179:0x3c7a8278102ae0f0!8m2!3d30.3316292!4d76.3816396!16s%2Fg%2F11pq_58qcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16382,11 +16245,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/THIND+Plastic+Surgery+Centre+and+Thind+Hospital/@30.3316292,76.3816396,17z/data=!3m1!4b1!4m6!3m5!1s0x3910275ab23db179:0x3c7a8278102ae0f0!8m2!3d30.3316292!4d76.3816396!16s%2Fg%2F11pq_58qcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "u-smyle-dental-and-aesthetic-studio-patiala",
@@ -16434,7 +16296,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/U+Smyle+Dental+%26+Aesthetic+Studio/@30.3441935,76.365966,17z/data=!3m1!4b1!4m6!3m5!1s0x3910291c4ad44b69:0x224688a685d5e6a5!8m2!3d30.3441935!4d76.365966!16s%2Fg%2F11st99gj__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/U+Smyle+Dental+%26+Aesthetic+Studio/@30.3441935,76.365966,17z/data=!3m1!4b1!4m6!3m5!1s0x3910291c4ad44b69:0x224688a685d5e6a5!8m2!3d30.3441935!4d76.365966!16s%2Fg%2F11st99gj__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16500,11 +16362,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/U+Smyle+Dental+%26+Aesthetic+Studio/@30.3441935,76.365966,17z/data=!3m1!4b1!4m6!3m5!1s0x3910291c4ad44b69:0x224688a685d5e6a5!8m2!3d30.3441935!4d76.365966!16s%2Fg%2F11st99gj__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vardhman-mahaveer-health-care-patiala",
@@ -16552,7 +16413,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/vardhman+mahaveer+health+care/@30.335589,76.3836316,17z/data=!3m1!4b1!4m6!3m5!1s0x391029004ba71b23:0x9c9b068f58ee156f!8m2!3d30.335589!4d76.3836316!16s%2Fg%2F11yk9x9vt5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/vardhman+mahaveer+health+care/@30.335589,76.3836316,17z/data=!3m1!4b1!4m6!3m5!1s0x391029004ba71b23:0x9c9b068f58ee156f!8m2!3d30.335589!4d76.3836316!16s%2Fg%2F11yk9x9vt5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16621,8 +16482,7 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/vardhman+mahaveer+health+care/@30.335589,76.3836316,17z/data=!3m1!4b1!4m6!3m5!1s0x391029004ba71b23:0x9c9b068f58ee156f!8m2!3d30.335589!4d76.3836316!16s%2Fg%2F11yk9x9vt5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "veda-diagnostics-and-intervention-centre-ultrasound-x-ray-laboratory-fetal-medicine-best-ultrasound-centre-in-patiala-patiala",
@@ -16672,7 +16532,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Veda+diagnostics+%26+Intervention+centre+%7C+Ultrasound+%7C+X-Ray+%7C+Laboratory+%7C+Fetal+Medicine+%7C+Best+Ultrasound+Centre+in+Patiala/@30.334451,76.3835276,17z/data=!3m1!4b1!4m6!3m5!1s0x3910290013113da5:0x1f3fabc8a32be328!8m2!3d30.334451!4d76.3835276!16s%2Fg%2F11m6m20wnw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Veda+diagnostics+%26+Intervention+centre+%7C+Ultrasound+%7C+X-Ray+%7C+Laboratory+%7C+Fetal+Medicine+%7C+Best+Ultrasound+Centre+in+Patiala/@30.334451,76.3835276,17z/data=!3m1!4b1!4m6!3m5!1s0x3910290013113da5:0x1f3fabc8a32be328!8m2!3d30.334451!4d76.3835276!16s%2Fg%2F11m6m20wnw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16738,11 +16598,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Veda+diagnostics+%26+Intervention+centre+%7C+Ultrasound+%7C+X-Ray+%7C+Laboratory+%7C+Fetal+Medicine+%7C+Best+Ultrasound+Centre+in+Patiala/@30.334451,76.3835276,17z/data=!3m1!4b1!4m6!3m5!1s0x3910290013113da5:0x1f3fabc8a32be328!8m2!3d30.334451!4d76.3835276!16s%2Fg%2F11m6m20wnw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vituscare-dialysis-centre-at-medlink-hospital-patiala-patiala",
@@ -16791,7 +16650,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VitusCare+Dialysis+Centre+at+Medlink+Hospital+-+Patiala/@30.3433068,76.4105062,17z/data=!3m1!4b1!4m6!3m5!1s0x3910296fe9ab479f:0x15f177cd8de863e!8m2!3d30.3433068!4d76.4105062!16s%2Fg%2F11lz4m36vt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VitusCare+Dialysis+Centre+at+Medlink+Hospital+-+Patiala/@30.3433068,76.4105062,17z/data=!3m1!4b1!4m6!3m5!1s0x3910296fe9ab479f:0x15f177cd8de863e!8m2!3d30.3433068!4d76.4105062!16s%2Fg%2F11lz4m36vt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16857,11 +16716,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VitusCare+Dialysis+Centre+at+Medlink+Hospital+-+Patiala/@30.3433068,76.4105062,17z/data=!3m1!4b1!4m6!3m5!1s0x3910296fe9ab479f:0x15f177cd8de863e!8m2!3d30.3433068!4d76.4105062!16s%2Fg%2F11lz4m36vt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wealthy-pediatric-surgery-center-patiala",
@@ -16909,7 +16767,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Wealthy+Pediatric+Surgery+Center/@30.3448138,76.390044,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289433bf6053:0x86cb05969a32662a!8m2!3d30.3448138!4d76.390044!16s%2Fg%2F11c32kb8j3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wealthy+Pediatric+Surgery+Center/@30.3448138,76.390044,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289433bf6053:0x86cb05969a32662a!8m2!3d30.3448138!4d76.390044!16s%2Fg%2F11c32kb8j3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16978,8 +16836,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Wealthy+Pediatric+Surgery+Center/@30.3448138,76.390044,17z/data=!3m1!4b1!4m6!3m5!1s0x3910289433bf6053:0x86cb05969a32662a!8m2!3d30.3448138!4d76.390044!16s%2Fg%2F11c32kb8j3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "zenith-physiotherapy-clinic-patiala",
@@ -17028,7 +16885,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Zenith+Physiotherapy+Clinic/@30.331989,76.3795534,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295d0c5fd2f1:0xfd23f6110632d114!8m2!3d30.331989!4d76.3795534!16s%2Fg%2F11j5fv1m53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zenith+Physiotherapy+Clinic/@30.331989,76.3795534,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295d0c5fd2f1:0xfd23f6110632d114!8m2!3d30.331989!4d76.3795534!16s%2Fg%2F11j5fv1m53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -17094,11 +16951,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Zenith+Physiotherapy+Clinic/@30.331989,76.3795534,17z/data=!3m1!4b1!4m6!3m5!1s0x3910295d0c5fd2f1:0xfd23f6110632d114!8m2!3d30.331989!4d76.3795534!16s%2Fg%2F11j5fv1m53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patiala",
@@ -17146,7 +17002,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%98%F0%9D%98%85%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B5+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2/@30.3540656,76.4559806,17z/data=!3m1!4b1!4m6!3m5!1s0x3910281deae5c903:0xb962377d42fdb0fb!8m2!3d30.3540656!4d76.4559806!16s%2Fg%2F11c7s6y_55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%98%F0%9D%98%85%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B5+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2/@30.3540656,76.4559806,17z/data=!3m1!4b1!4m6!3m5!1s0x3910281deae5c903:0xb962377d42fdb0fb!8m2!3d30.3540656!4d76.4559806!16s%2Fg%2F11c7s6y_55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -17215,8 +17071,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%98%F0%9D%98%85%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B5+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2/@30.3540656,76.4559806,17z/data=!3m1!4b1!4m6!3m5!1s0x3910281deae5c903:0xb962377d42fdb0fb!8m2!3d30.3540656!4d76.4559806!16s%2Fg%2F11c7s6y_55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patiala",
@@ -17265,7 +17120,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%B6%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%BF+%F0%9D%97%A3%F0%9D%97%B5%F0%9D%98%86%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BD%F0%9D%98%86+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2/@30.3322612,76.40646,17z/data=!3m1!4b1!4m6!3m5!1s0x39102939c6926e6f:0x43b150673f8450e5!8m2!3d30.3322612!4d76.40646!16s%2Fg%2F11gy7wrglh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%B6%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%BF+%F0%9D%97%A3%F0%9D%97%B5%F0%9D%98%86%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BD%F0%9D%98%86+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2/@30.3322612,76.40646,17z/data=!3m1!4b1!4m6!3m5!1s0x39102939c6926e6f:0x43b150673f8450e5!8m2!3d30.3322612!4d76.40646!16s%2Fg%2F11gy7wrglh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -17334,7 +17189,6 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%B6%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%BF+%F0%9D%97%A3%F0%9D%97%B5%F0%9D%98%86%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BD%F0%9D%98%86+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2/@30.3322612,76.40646,17z/data=!3m1!4b1!4m6!3m5!1s0x39102939c6926e6f:0x43b150673f8450e5!8m2!3d30.3322612!4d76.40646!16s%2Fg%2F11gy7wrglh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

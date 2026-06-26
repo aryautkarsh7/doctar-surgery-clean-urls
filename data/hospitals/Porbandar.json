@@ -46,7 +46,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aasha+Hospital/@21.6335938,69.6165505,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345e895e2ffd:0x60ad14dbc3ee59db!8m2!3d21.6335938!4d69.6165505!16s%2Fg%2F11g8yhrzwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aasha+Hospital/@21.6335938,69.6165505,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345e895e2ffd:0x60ad14dbc3ee59db!8m2!3d21.6335938!4d69.6165505!16s%2Fg%2F11g8yhrzwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -115,8 +115,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aasha+Hospital/@21.6335938,69.6165505,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345e895e2ffd:0x60ad14dbc3ee59db!8m2!3d21.6335938!4d69.6165505!16s%2Fg%2F11g8yhrzwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aastha-children-hospital-porbandar",
@@ -166,7 +165,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aastha+Children+Hospital/@21.6411636,69.6137254,17z/data=!3m1!4b1!4m6!3m5!1s0x3956357d88984f3f:0xdb58c18d87bfaa00!8m2!3d21.6411636!4d69.6137254!16s%2Fg%2F11j8_hbn7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+Children+Hospital/@21.6411636,69.6137254,17z/data=!3m1!4b1!4m6!3m5!1s0x3956357d88984f3f:0xdb58c18d87bfaa00!8m2!3d21.6411636!4d69.6137254!16s%2Fg%2F11j8_hbn7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -235,8 +234,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aastha+Children+Hospital/@21.6411636,69.6137254,17z/data=!3m1!4b1!4m6!3m5!1s0x3956357d88984f3f:0xdb58c18d87bfaa00!8m2!3d21.6411636!4d69.6137254!16s%2Fg%2F11j8_hbn7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "advanced-dental-clinic-and-implant-centre-porbandar",
@@ -285,7 +283,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ADVANCED+DENTAL+CLINIC+%26+IMPLANT+CENTRE/@21.6412853,69.6134612,17z/data=!3m1!4b1!4m6!3m5!1s0x3956359f73c1dc81:0xefab11caaaf7e23b!8m2!3d21.6412853!4d69.6134612!16s%2Fg%2F11j138x60q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADVANCED+DENTAL+CLINIC+%26+IMPLANT+CENTRE/@21.6412853,69.6134612,17z/data=!3m1!4b1!4m6!3m5!1s0x3956359f73c1dc81:0xefab11caaaf7e23b!8m2!3d21.6412853!4d69.6134612!16s%2Fg%2F11j138x60q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -351,11 +349,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ADVANCED+DENTAL+CLINIC+%26+IMPLANT+CENTRE/@21.6412853,69.6134612,17z/data=!3m1!4b1!4m6!3m5!1s0x3956359f73c1dc81:0xefab11caaaf7e23b!8m2!3d21.6412853!4d69.6134612!16s%2Fg%2F11j138x60q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "akshar-dental-care-and-implant-centre-porbandar",
@@ -403,7 +400,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AKSHAR+DENTAL+CARE+AND+IMPLANT+CENTRE/@21.6413882,69.6137464,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c18d825769:0x6976187f2e4e8ffd!8m2!3d21.6413882!4d69.6137464!16s%2Fg%2F11py71n9s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AKSHAR+DENTAL+CARE+AND+IMPLANT+CENTRE/@21.6413882,69.6137464,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c18d825769:0x6976187f2e4e8ffd!8m2!3d21.6413882!4d69.6137464!16s%2Fg%2F11py71n9s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -469,11 +466,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AKSHAR+DENTAL+CARE+AND+IMPLANT+CENTRE/@21.6413882,69.6137464,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c18d825769:0x6976187f2e4e8ffd!8m2!3d21.6413882!4d69.6137464!16s%2Fg%2F11py71n9s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "al-amin-dental-clinic-diya-complex-1st-floor-shankar-mandal-rd",
@@ -521,7 +517,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Al-Amin+Dental+Clinic/data=!4m7!3m6!1s0x395635b04905b9fd:0x4ef9558ac7107d16!8m2!3d21.6447832!4d69.6076587!16s%2Fg%2F11hyw97zmp!19sChIJ_bkFSbA1VjkRFn0Qx4pV-U4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Al-Amin+Dental+Clinic/data=!4m7!3m6!1s0x395635b04905b9fd:0x4ef9558ac7107d16!8m2!3d21.6447832!4d69.6076587!16s%2Fg%2F11hyw97zmp!19sChIJ_bkFSbA1VjkRFn0Qx4pV-U4?authuser=0&hl=en&rclk=1"
@@ -590,8 +586,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Al-Amin+Dental+Clinic/data=!4m7!3m6!1s0x395635b04905b9fd:0x4ef9558ac7107d16!8m2!3d21.6447832!4d69.6076587!16s%2Fg%2F11hyw97zmp!19sChIJ_bkFSbA1VjkRFn0Qx4pV-U4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anand-hospital-porbandar",
@@ -639,7 +634,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anand+Hospital/@21.6415269,69.6204586,17z/data=!3m1!4b1!4m6!3m5!1s0x395634581bb08941:0x98415595bce74421!8m2!3d21.6415269!4d69.6204586!16s%2Fg%2F11b88vw0t3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Hospital/@21.6415269,69.6204586,17z/data=!3m1!4b1!4m6!3m5!1s0x395634581bb08941:0x98415595bce74421!8m2!3d21.6415269!4d69.6204586!16s%2Fg%2F11b88vw0t3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -705,11 +700,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anand+Hospital/@21.6415269,69.6204586,17z/data=!3m1!4b1!4m6!3m5!1s0x395634581bb08941:0x98415595bce74421!8m2!3d21.6415269!4d69.6204586!16s%2Fg%2F11b88vw0t3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-dental-clinic-and-implant-center-porbandar",
@@ -755,7 +749,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Dental+Clinic+%26+Implant+Center/@21.634445,69.6253217,17z/data=!3m1!4b1!4m6!3m5!1s0x3956357b68ef09e3:0x31d8a8c40bc1567a!8m2!3d21.634445!4d69.6253217!16s%2Fg%2F11l5g2prg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dental+Clinic+%26+Implant+Center/@21.634445,69.6253217,17z/data=!3m1!4b1!4m6!3m5!1s0x3956357b68ef09e3:0x31d8a8c40bc1567a!8m2!3d21.634445!4d69.6253217!16s%2Fg%2F11l5g2prg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -821,11 +815,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Dental+Clinic+%26+Implant+Center/@21.634445,69.6253217,17z/data=!3m1!4b1!4m6!3m5!1s0x3956357b68ef09e3:0x31d8a8c40bc1567a!8m2!3d21.634445!4d69.6253217!16s%2Fg%2F11l5g2prg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arogyadeep-ayurveda-hair-and-skin-treatment-center-porbandar",
@@ -873,7 +866,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AROGYADEEP+AYURVEDA+-+Hair+%26+Skin+Treatment+Center/@21.6387323,69.6227046,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c9db23e603:0x872a2db39f7b468e!8m2!3d21.6387323!4d69.6227046!16s%2Fg%2F11xw12n2yd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AROGYADEEP+AYURVEDA+-+Hair+%26+Skin+Treatment+Center/@21.6387323,69.6227046,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c9db23e603:0x872a2db39f7b468e!8m2!3d21.6387323!4d69.6227046!16s%2Fg%2F11xw12n2yd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -939,11 +932,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AROGYADEEP+AYURVEDA+-+Hair+%26+Skin+Treatment+Center/@21.6387323,69.6227046,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c9db23e603:0x872a2db39f7b468e!8m2!3d21.6387323!4d69.6227046!16s%2Fg%2F11xw12n2yd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirvad-children-hospital-and-newborn-care-porbandar",
@@ -992,7 +984,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashirvad+children+hospital+and+newborn+care/@21.6336661,69.6150583,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c269c9c9c9:0x116b046968d1dfeb!8m2!3d21.6336661!4d69.6150583!16s%2Fg%2F11sz19g_3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirvad+children+hospital+and+newborn+care/@21.6336661,69.6150583,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c269c9c9c9:0x116b046968d1dfeb!8m2!3d21.6336661!4d69.6150583!16s%2Fg%2F11sz19g_3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1061,8 +1053,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashirvad+children+hospital+and+newborn+care/@21.6336661,69.6150583,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c269c9c9c9:0x116b046968d1dfeb!8m2!3d21.6336661!4d69.6150583!16s%2Fg%2F11sz19g_3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "avadh-hospital-and-icu-porbandar",
@@ -1110,7 +1101,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Avadh+Hospital+%26+ICU/@21.6337558,69.615165,17z/data=!3m1!4b1!4m6!3m5!1s0x39563566e0df5a9b:0x962a0f9f77d64365!8m2!3d21.6337558!4d69.615165!16s%2Fg%2F11y2w5srj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avadh+Hospital+%26+ICU/@21.6337558,69.615165,17z/data=!3m1!4b1!4m6!3m5!1s0x39563566e0df5a9b:0x962a0f9f77d64365!8m2!3d21.6337558!4d69.615165!16s%2Fg%2F11y2w5srj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1179,8 +1170,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Avadh+Hospital+%26+ICU/@21.6337558,69.615165,17z/data=!3m1!4b1!4m6!3m5!1s0x39563566e0df5a9b:0x962a0f9f77d64365!8m2!3d21.6337558!4d69.615165!16s%2Fg%2F11y2w5srj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhardwaj-ayurved-clinic-porbandar",
@@ -1228,7 +1218,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhardwaj+Ayurved+Clinic/@21.638127,69.6228662,17z/data=!3m1!4b1!4m6!3m5!1s0x395635001bdc6f91:0xb5726c439c461226!8m2!3d21.638127!4d69.6228662!16s%2Fg%2F11z2ll9brf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhardwaj+Ayurved+Clinic/@21.638127,69.6228662,17z/data=!3m1!4b1!4m6!3m5!1s0x395635001bdc6f91:0xb5726c439c461226!8m2!3d21.638127!4d69.6228662!16s%2Fg%2F11z2ll9brf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1294,11 +1284,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhardwaj+Ayurved+Clinic/@21.638127,69.6228662,17z/data=!3m1!4b1!4m6!3m5!1s0x395635001bdc6f91:0xb5726c439c461226!8m2!3d21.638127!4d69.6228662!16s%2Fg%2F11z2ll9brf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhavsinhji-general-hospital-porbandar-porbandar",
@@ -1346,7 +1335,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhavsinhji+General+Hospital+Porbandar/@21.6377559,69.6090966,17z/data=!3m1!4b1!4m6!3m5!1s0x395634453a761a3b:0x3eb4d3f78de791af!8m2!3d21.6377559!4d69.6090966!16s%2Fg%2F11c2pd6c3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhavsinhji+General+Hospital+Porbandar/@21.6377559,69.6090966,17z/data=!3m1!4b1!4m6!3m5!1s0x395634453a761a3b:0x3eb4d3f78de791af!8m2!3d21.6377559!4d69.6090966!16s%2Fg%2F11c2pd6c3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1415,8 +1404,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhavsinhji+General+Hospital+Porbandar/@21.6377559,69.6090966,17z/data=!3m1!4b1!4m6!3m5!1s0x395634453a761a3b:0x3eb4d3f78de791af!8m2!3d21.6377559!4d69.6090966!16s%2Fg%2F11c2pd6c3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "civil-hospital-porbandar",
@@ -1464,7 +1452,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Civil+Hospital/@21.637876,69.6091145,17z/data=!3m1!4b1!4m6!3m5!1s0x3956344529e514c5:0x5c74a0cc9b761561!8m2!3d21.637876!4d69.6091145!16s%2Fg%2F11cs2gvz42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Civil+Hospital/@21.637876,69.6091145,17z/data=!3m1!4b1!4m6!3m5!1s0x3956344529e514c5:0x5c74a0cc9b761561!8m2!3d21.637876!4d69.6091145!16s%2Fg%2F11cs2gvz42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1533,8 +1521,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Civil+Hospital/@21.637876,69.6091145,17z/data=!3m1!4b1!4m6!3m5!1s0x3956344529e514c5:0x5c74a0cc9b761561!8m2!3d21.637876!4d69.6091145!16s%2Fg%2F11cs2gvz42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dax-children-hospital-porbandar",
@@ -1583,7 +1570,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dax+Children+Hospital/@21.6459841,69.6081081,17z/data=!3m1!4b1!4m6!3m5!1s0x3956344e0ad7e4f9:0x2343f6730d06d21b!8m2!3d21.6459841!4d69.6081081!16s%2Fg%2F11dfjzngt8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dax+Children+Hospital/@21.6459841,69.6081081,17z/data=!3m1!4b1!4m6!3m5!1s0x3956344e0ad7e4f9:0x2343f6730d06d21b!8m2!3d21.6459841!4d69.6081081!16s%2Fg%2F11dfjzngt8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1652,8 +1639,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dax+Children+Hospital/@21.6459841,69.6081081,17z/data=!3m1!4b1!4m6!3m5!1s0x3956344e0ad7e4f9:0x2343f6730d06d21b!8m2!3d21.6459841!4d69.6081081!16s%2Fg%2F11dfjzngt8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhanyata-dispensary-and-physiotherapy-clinic-porbandar",
@@ -1702,7 +1688,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dhanyata+dispensary+and+physiotherapy+clinic/@21.6417909,69.6210932,17z/data=!3m1!4b1!4m6!3m5!1s0x39563528055ca14d:0x7b75172b75158866!8m2!3d21.6417909!4d69.6210932!16s%2Fg%2F11fknnvn7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhanyata+dispensary+and+physiotherapy+clinic/@21.6417909,69.6210932,17z/data=!3m1!4b1!4m6!3m5!1s0x39563528055ca14d:0x7b75172b75158866!8m2!3d21.6417909!4d69.6210932!16s%2Fg%2F11fknnvn7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1771,8 +1757,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dhanyata+dispensary+and+physiotherapy+clinic/@21.6417909,69.6210932,17z/data=!3m1!4b1!4m6!3m5!1s0x39563528055ca14d:0x7b75172b75158866!8m2!3d21.6417909!4d69.6210932!16s%2Fg%2F11fknnvn7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dhyey-clinic-porbandar",
@@ -1821,7 +1806,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dhyey+Clinic/@21.6449404,69.6370207,17z/data=!3m1!4b1!4m6!3m5!1s0x39563549001a16f9:0x6309dd67e0db5026!8m2!3d21.6449404!4d69.6370207!16s%2Fg%2F11v6wn3t9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhyey+Clinic/@21.6449404,69.6370207,17z/data=!3m1!4b1!4m6!3m5!1s0x39563549001a16f9:0x6309dd67e0db5026!8m2!3d21.6449404!4d69.6370207!16s%2Fg%2F11v6wn3t9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1887,11 +1872,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dhyey+Clinic/@21.6449404,69.6370207,17z/data=!3m1!4b1!4m6!3m5!1s0x39563549001a16f9:0x6309dd67e0db5026!8m2!3d21.6449404!4d69.6370207!16s%2Fg%2F11v6wn3t9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dp-physiotherapy-and-dental-care-porbandar",
@@ -1941,7 +1925,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DP+Physiotherapy+%26+Dental+care/@21.6422002,69.6092143,17z/data=!3m1!4b1!4m6!3m5!1s0x395635cf7f4937b7:0x1b84686e5ca10515!8m2!3d21.6422002!4d69.6092143!16s%2Fg%2F11slrkzp_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DP+Physiotherapy+%26+Dental+care/@21.6422002,69.6092143,17z/data=!3m1!4b1!4m6!3m5!1s0x395635cf7f4937b7:0x1b84686e5ca10515!8m2!3d21.6422002!4d69.6092143!16s%2Fg%2F11slrkzp_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2010,8 +1994,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DP+Physiotherapy+%26+Dental+care/@21.6422002,69.6092143,17z/data=!3m1!4b1!4m6!3m5!1s0x395635cf7f4937b7:0x1b84686e5ca10515!8m2!3d21.6422002!4d69.6092143!16s%2Fg%2F11slrkzp_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gati-path-neuro-rehabilitation-centre-porbandar",
@@ -2061,7 +2044,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gati+Path+%E2%80%93+Neuro+Rehabilitation+Centre/@21.6358807,69.6224243,17z/data=!3m1!4b1!4m6!3m5!1s0x3956359e65486517:0x8c14095f2142d24e!8m2!3d21.6358807!4d69.6224243!16s%2Fg%2F11msch59lp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gati+Path+%E2%80%93+Neuro+Rehabilitation+Centre/@21.6358807,69.6224243,17z/data=!3m1!4b1!4m6!3m5!1s0x3956359e65486517:0x8c14095f2142d24e!8m2!3d21.6358807!4d69.6224243!16s%2Fg%2F11msch59lp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2127,11 +2110,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gati+Path+%E2%80%93+Neuro+Rehabilitation+Centre/@21.6358807,69.6224243,17z/data=!3m1!4b1!4m6!3m5!1s0x3956359e65486517:0x8c14095f2142d24e!8m2!3d21.6358807!4d69.6224243!16s%2Fg%2F11msch59lp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gayatri-hospital-porbandar-porbandar",
@@ -2179,7 +2161,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gayatri+Hospital+Porbandar/@21.6538194,69.6006031,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b455555555:0x829a4b3883915034!8m2!3d21.6538194!4d69.6006031!16s%2Fg%2F11f2t68s4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+Hospital+Porbandar/@21.6538194,69.6006031,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b455555555:0x829a4b3883915034!8m2!3d21.6538194!4d69.6006031!16s%2Fg%2F11f2t68s4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2248,8 +2230,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gayatri+Hospital+Porbandar/@21.6538194,69.6006031,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b455555555:0x829a4b3883915034!8m2!3d21.6538194!4d69.6006031!16s%2Fg%2F11f2t68s4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gayatri-poly-clinic-porbandar",
@@ -2297,7 +2278,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gayatri+Poly+Clinic/@21.6570751,69.6067867,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b22c65dacd:0x141419fc0d33ba6!8m2!3d21.6570751!4d69.6067867!16s%2Fg%2F11dfh55r1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+Poly+Clinic/@21.6570751,69.6067867,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b22c65dacd:0x141419fc0d33ba6!8m2!3d21.6570751!4d69.6067867!16s%2Fg%2F11dfh55r1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2366,8 +2347,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gayatri+Poly+Clinic/@21.6570751,69.6067867,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b22c65dacd:0x141419fc0d33ba6!8m2!3d21.6570751!4d69.6067867!16s%2Fg%2F11dfh55r1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gdp-porbandar-porbandar",
@@ -2416,7 +2396,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GDP+PORBANDAR/@21.6377559,69.6090966,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c94b373aa5:0x6ad96278b0b60d7f!8m2!3d21.6377559!4d69.6090966!16s%2Fg%2F11tc8nn_7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GDP+PORBANDAR/@21.6377559,69.6090966,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c94b373aa5:0x6ad96278b0b60d7f!8m2!3d21.6377559!4d69.6090966!16s%2Fg%2F11tc8nn_7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2482,11 +2462,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GDP+PORBANDAR/@21.6377559,69.6090966,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c94b373aa5:0x6ad96278b0b60d7f!8m2!3d21.6377559!4d69.6090966!16s%2Fg%2F11tc8nn_7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "godhania-s-medicare-hospital-icu-and-cosmetic-center-porbandar",
@@ -2535,7 +2514,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Godhania%E2%80%99s+Medicare+Hospital+ICU+%26+Cosmetic+Center/@21.6381142,69.610887,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345adf91050d:0x4e48dc4ee8b820ec!8m2!3d21.6381142!4d69.610887!16s%2Fg%2F11ddxbs0dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Godhania%E2%80%99s+Medicare+Hospital+ICU+%26+Cosmetic+Center/@21.6381142,69.610887,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345adf91050d:0x4e48dc4ee8b820ec!8m2!3d21.6381142!4d69.610887!16s%2Fg%2F11ddxbs0dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2604,8 +2583,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Godhania%E2%80%99s+Medicare+Hospital+ICU+%26+Cosmetic+Center/@21.6381142,69.610887,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345adf91050d:0x4e48dc4ee8b820ec!8m2!3d21.6381142!4d69.610887!16s%2Fg%2F11ddxbs0dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "harsiddhi-dental-clinic-and-implant-center-porbandar",
@@ -2653,7 +2631,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Harsiddhi+Dental+Clinic+%26+Implant+Center/@21.6392048,69.6232267,17z/data=!3m1!4b1!4m6!3m5!1s0x395635eafcbf2d17:0x78f07877d994a2e8!8m2!3d21.6392048!4d69.6232267!16s%2Fg%2F11h056n4ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Harsiddhi+Dental+Clinic+%26+Implant+Center/@21.6392048,69.6232267,17z/data=!3m1!4b1!4m6!3m5!1s0x395635eafcbf2d17:0x78f07877d994a2e8!8m2!3d21.6392048!4d69.6232267!16s%2Fg%2F11h056n4ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2719,11 +2697,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Harsiddhi+Dental+Clinic+%26+Implant+Center/@21.6392048,69.6232267,17z/data=!3m1!4b1!4m6!3m5!1s0x395635eafcbf2d17:0x78f07877d994a2e8!8m2!3d21.6392048!4d69.6232267!16s%2Fg%2F11h056n4ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hope-hospital-porbandar",
@@ -2771,7 +2748,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hope+Hospital/@21.6386451,69.6150055,17z/data=!3m1!4b1!4m6!3m5!1s0x3956355cfa7ff52b:0x632184736488f2d2!8m2!3d21.6386451!4d69.6150055!16s%2Fg%2F11p667z5yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+Hospital/@21.6386451,69.6150055,17z/data=!3m1!4b1!4m6!3m5!1s0x3956355cfa7ff52b:0x632184736488f2d2!8m2!3d21.6386451!4d69.6150055!16s%2Fg%2F11p667z5yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2840,8 +2817,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hope+Hospital/@21.6386451,69.6150055,17z/data=!3m1!4b1!4m6!3m5!1s0x3956355cfa7ff52b:0x632184736488f2d2!8m2!3d21.6386451!4d69.6150055!16s%2Fg%2F11p667z5yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hope-veterinary-services-porbandar",
@@ -2889,7 +2865,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HOPE+VETERINARY+SERVICES/@21.6350509,69.631466,17z/data=!3m1!4b1!4m6!3m5!1s0x395635cded04ba53:0x242a6e0f8ed62330!8m2!3d21.6350509!4d69.631466!16s%2Fg%2F11l5xwyx6g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HOPE+VETERINARY+SERVICES/@21.6350509,69.631466,17z/data=!3m1!4b1!4m6!3m5!1s0x395635cded04ba53:0x242a6e0f8ed62330!8m2!3d21.6350509!4d69.631466!16s%2Fg%2F11l5xwyx6g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2958,8 +2934,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HOPE+VETERINARY+SERVICES/@21.6350509,69.631466,17z/data=!3m1!4b1!4m6!3m5!1s0x395635cded04ba53:0x242a6e0f8ed62330!8m2!3d21.6350509!4d69.631466!16s%2Fg%2F11l5xwyx6g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jadeja-hospital-and-i-c-u-porbandar",
@@ -3007,7 +2982,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jadeja+Hospital+and+I.C.U/@21.6377771,69.6108471,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352e1fa35b3d:0x922ed3c005b41026!8m2!3d21.6377771!4d69.6108471!16s%2Fg%2F11j0cvssvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jadeja+Hospital+and+I.C.U/@21.6377771,69.6108471,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352e1fa35b3d:0x922ed3c005b41026!8m2!3d21.6377771!4d69.6108471!16s%2Fg%2F11j0cvssvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3076,8 +3051,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jadeja+Hospital+and+I.C.U/@21.6377771,69.6108471,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352e1fa35b3d:0x922ed3c005b41026!8m2!3d21.6377771!4d69.6108471!16s%2Fg%2F11j0cvssvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeel-dental-clinic-and-implant-centre-porbandar",
@@ -3125,7 +3099,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeel+Dental+Clinic+and+Implant+Centre/@21.6487232,69.633763,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352c168d58e5:0x12041aab2a18aafd!8m2!3d21.6487232!4d69.633763!16s%2Fg%2F11wtjdl73p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeel+Dental+Clinic+and+Implant+Centre/@21.6487232,69.633763,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352c168d58e5:0x12041aab2a18aafd!8m2!3d21.6487232!4d69.633763!16s%2Fg%2F11wtjdl73p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3191,11 +3165,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeel+Dental+Clinic+and+Implant+Centre/@21.6487232,69.633763,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352c168d58e5:0x12041aab2a18aafd!8m2!3d21.6487232!4d69.633763!16s%2Fg%2F11wtjdl73p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "joshi-homeopathy-clinic-porbandar",
@@ -3245,7 +3218,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Joshi+Homeopathy+Clinic/@21.6387988,69.6155392,17z/data=!3m1!4b1!4m6!3m5!1s0x3956354f3ba156f1:0x98cbb899bbbec84e!8m2!3d21.6387988!4d69.6155392!16s%2Fg%2F11pb95_1n_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Joshi+Homeopathy+Clinic/@21.6387988,69.6155392,17z/data=!3m1!4b1!4m6!3m5!1s0x3956354f3ba156f1:0x98cbb899bbbec84e!8m2!3d21.6387988!4d69.6155392!16s%2Fg%2F11pb95_1n_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3311,11 +3284,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Joshi+Homeopathy+Clinic/@21.6387988,69.6155392,17z/data=!3m1!4b1!4m6!3m5!1s0x3956354f3ba156f1:0x98cbb899bbbec84e!8m2!3d21.6387988!4d69.6155392!16s%2Fg%2F11pb95_1n_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kargathra-dental-clinic-dental-implant-clinic-porbandar",
@@ -3364,7 +3336,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kargathra+Dental+clinic+Dental+implant+clinic/data=!4m7!3m6!1s0x395635d2b849b77d:0x8695039d201291cf!8m2!3d21.6412888!4d69.62808!16s%2Fg%2F11ft97tw8y!19sChIJfbdJuNI1VjkRz5ESIJ0DlYY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kargathra+Dental+clinic+Dental+implant+clinic/data=!4m7!3m6!1s0x395635d2b849b77d:0x8695039d201291cf!8m2!3d21.6412888!4d69.62808!16s%2Fg%2F11ft97tw8y!19sChIJfbdJuNI1VjkRz5ESIJ0DlYY?authuser=0&hl=en&rclk=1"
@@ -3433,8 +3405,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kargathra+Dental+clinic+Dental+implant+clinic/data=!4m7!3m6!1s0x395635d2b849b77d:0x8695039d201291cf!8m2!3d21.6412888!4d69.62808!16s%2Fg%2F11ft97tw8y!19sChIJfbdJuNI1VjkRz5ESIJ0DlYY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lady-hospital-porbandar",
@@ -3482,7 +3453,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/lady+hospital/@21.6388891,69.6123365,17z/data=!3m1!4b1!4m6!3m5!1s0x3956358dbcc06d3f:0xb9cb77301d1b1339!8m2!3d21.6388891!4d69.6123365!16s%2Fg%2F11g1lj8k_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/lady+hospital/@21.6388891,69.6123365,17z/data=!3m1!4b1!4m6!3m5!1s0x3956358dbcc06d3f:0xb9cb77301d1b1339!8m2!3d21.6388891!4d69.6123365!16s%2Fg%2F11g1lj8k_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3551,8 +3522,7 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/lady+hospital/@21.6388891,69.6123365,17z/data=!3m1!4b1!4m6!3m5!1s0x3956358dbcc06d3f:0xb9cb77301d1b1339!8m2!3d21.6388891!4d69.6123365!16s%2Fg%2F11g1lj8k_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lions-hospital-porbandar",
@@ -3600,7 +3570,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lions+Hospital/@21.640007,69.6250324,17z/data=!3m1!4b1!4m6!3m5!1s0x395634f703a5ae4b:0x3b25ecc1943ef789!8m2!3d21.640007!4d69.6250324!16s%2Fg%2F11rvx3zcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lions+Hospital/@21.640007,69.6250324,17z/data=!3m1!4b1!4m6!3m5!1s0x395634f703a5ae4b:0x3b25ecc1943ef789!8m2!3d21.640007!4d69.6250324!16s%2Fg%2F11rvx3zcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3669,8 +3639,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lions+Hospital/@21.640007,69.6250324,17z/data=!3m1!4b1!4m6!3m5!1s0x395634f703a5ae4b:0x3b25ecc1943ef789!8m2!3d21.640007!4d69.6250324!16s%2Fg%2F11rvx3zcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "m-k-thakrar-hospital-porbandar",
@@ -3718,7 +3687,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/M+K+Thakrar+Hospital/@21.6326762,69.6159045,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345e7eab789f:0x199d242b6131f8cd!8m2!3d21.6326762!4d69.6159045!16s%2Fg%2F11c208z59v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+K+Thakrar+Hospital/@21.6326762,69.6159045,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345e7eab789f:0x199d242b6131f8cd!8m2!3d21.6326762!4d69.6159045!16s%2Fg%2F11c208z59v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3787,8 +3756,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/M+K+Thakrar+Hospital/@21.6326762,69.6159045,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345e7eab789f:0x199d242b6131f8cd!8m2!3d21.6326762!4d69.6159045!16s%2Fg%2F11c208z59v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-dental-clinic-porbandar",
@@ -3836,7 +3804,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MAA+DENTAL+CLINIC/@21.6405572,69.6134203,17z/data=!3m1!4b1!4m6!3m5!1s0x395635a17cff96d5:0xd5b37ef10fcec893!8m2!3d21.6405572!4d69.6134203!16s%2Fg%2F11trcxg2cb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAA+DENTAL+CLINIC/@21.6405572,69.6134203,17z/data=!3m1!4b1!4m6!3m5!1s0x395635a17cff96d5:0xd5b37ef10fcec893!8m2!3d21.6405572!4d69.6134203!16s%2Fg%2F11trcxg2cb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3905,8 +3873,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MAA+DENTAL+CLINIC/@21.6405572,69.6134203,17z/data=!3m1!4b1!4m6!3m5!1s0x395635a17cff96d5:0xd5b37ef10fcec893!8m2!3d21.6405572!4d69.6134203!16s%2Fg%2F11trcxg2cb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mahida-ent-hospital-porbandar",
@@ -3954,7 +3921,7 @@
     "metrics": [
       "Google rating 1.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mahida+ENT+Hospital/@21.6405873,69.6268737,17z/data=!3m1!4b1!4m6!3m5!1s0x39563561a6fbf9a7:0x7bee61b8e9a9e3d1!8m2!3d21.6405873!4d69.6268737!16s%2Fg%2F11f9zzc67k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahida+ENT+Hospital/@21.6405873,69.6268737,17z/data=!3m1!4b1!4m6!3m5!1s0x39563561a6fbf9a7:0x7bee61b8e9a9e3d1!8m2!3d21.6405873!4d69.6268737!16s%2Fg%2F11f9zzc67k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4023,8 +3990,7 @@
     "rating": 1.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mahida+ENT+Hospital/@21.6405873,69.6268737,17z/data=!3m1!4b1!4m6!3m5!1s0x39563561a6fbf9a7:0x7bee61b8e9a9e3d1!8m2!3d21.6405873!4d69.6268737!16s%2Fg%2F11f9zzc67k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mann-psychiatric-hospital-and-physiotherapy-centre-porbandar",
@@ -4072,7 +4038,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mann+Psychiatric+Hospital+and+Physiotherapy+Centre/@21.6380074,69.6203432,17z/data=!3m1!4b1!4m6!3m5!1s0x395634453c6cad81:0xff8dc8f69bef784d!8m2!3d21.6380074!4d69.6203432!16s%2Fg%2F11c5bqrlxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mann+Psychiatric+Hospital+and+Physiotherapy+Centre/@21.6380074,69.6203432,17z/data=!3m1!4b1!4m6!3m5!1s0x395634453c6cad81:0xff8dc8f69bef784d!8m2!3d21.6380074!4d69.6203432!16s%2Fg%2F11c5bqrlxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4141,8 +4107,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mann+Psychiatric+Hospital+and+Physiotherapy+Centre/@21.6380074,69.6203432,17z/data=!3m1!4b1!4m6!3m5!1s0x395634453c6cad81:0xff8dc8f69bef784d!8m2!3d21.6380074!4d69.6203432!16s%2Fg%2F11c5bqrlxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "narmad-ent-hospital-porbandar",
@@ -4190,7 +4155,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NARMAD+ENT+HOSPITAL/@21.6413473,69.6137353,17z/data=!3m1!4b1!4m6!3m5!1s0x395635006046edd5:0x78dabcb543ced9c8!8m2!3d21.6413473!4d69.6137353!16s%2Fg%2F11lf12hkdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NARMAD+ENT+HOSPITAL/@21.6413473,69.6137353,17z/data=!3m1!4b1!4m6!3m5!1s0x395635006046edd5:0x78dabcb543ced9c8!8m2!3d21.6413473!4d69.6137353!16s%2Fg%2F11lf12hkdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4259,8 +4224,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NARMAD+ENT+HOSPITAL/@21.6413473,69.6137353,17z/data=!3m1!4b1!4m6!3m5!1s0x395635006046edd5:0x78dabcb543ced9c8!8m2!3d21.6413473!4d69.6137353!16s%2Fg%2F11lf12hkdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "netram-eye-hospital-porbandar",
@@ -4309,7 +4273,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Netram+Eye+Hospital/@21.638516,69.6187318,17z/data=!3m1!4b1!4m6!3m5!1s0x39563458fd2c1f13:0xf252dd94260d2603!8m2!3d21.638516!4d69.6187318!16s%2Fg%2F11gb40j_14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Netram+Eye+Hospital/@21.638516,69.6187318,17z/data=!3m1!4b1!4m6!3m5!1s0x39563458fd2c1f13:0xf252dd94260d2603!8m2!3d21.638516!4d69.6187318!16s%2Fg%2F11gb40j_14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4378,8 +4342,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Netram+Eye+Hospital/@21.638516,69.6187318,17z/data=!3m1!4b1!4m6!3m5!1s0x39563458fd2c1f13:0xf252dd94260d2603!8m2!3d21.638516!4d69.6187318!16s%2Fg%2F11gb40j_14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-life-hospital-porbandar",
@@ -4428,7 +4391,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Life+Hospital/@21.6405033,69.6129931,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a7ad94b57:0xadd28fbfece11096!8m2!3d21.6405033!4d69.6129931!16s%2Fg%2F11fxdtf3rr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Life+Hospital/@21.6405033,69.6129931,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a7ad94b57:0xadd28fbfece11096!8m2!3d21.6405033!4d69.6129931!16s%2Fg%2F11fxdtf3rr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4497,8 +4460,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Life+Hospital/@21.6405033,69.6129931,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a7ad94b57:0xadd28fbfece11096!8m2!3d21.6405033!4d69.6129931!16s%2Fg%2F11fxdtf3rr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "odedara-children-hospital-porbandar",
@@ -4547,7 +4509,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Odedara+Children+Hospital/@21.6416984,69.6134638,17z/data=!3m1!4b1!4m6!3m5!1s0x3956353e3291081f:0xf20fbe252c41ba4d!8m2!3d21.6416984!4d69.6134638!16s%2Fg%2F11t2n311xl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Odedara+Children+Hospital/@21.6416984,69.6134638,17z/data=!3m1!4b1!4m6!3m5!1s0x3956353e3291081f:0xf20fbe252c41ba4d!8m2!3d21.6416984!4d69.6134638!16s%2Fg%2F11t2n311xl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4616,8 +4578,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Odedara+Children+Hospital/@21.6416984,69.6134638,17z/data=!3m1!4b1!4m6!3m5!1s0x3956353e3291081f:0xf20fbe252c41ba4d!8m2!3d21.6416984!4d69.6134638!16s%2Fg%2F11t2n311xl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ojas-eye-hospital-porbandar",
@@ -4666,7 +4627,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ojas+eye+hospital/@21.6422235,69.6121058,17z/data=!3m1!4b1!4m6!3m5!1s0x395635170576ad91:0x96c04af0b9cd9b49!8m2!3d21.6422235!4d69.6121058!16s%2Fg%2F11fd4zxqw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ojas+eye+hospital/@21.6422235,69.6121058,17z/data=!3m1!4b1!4m6!3m5!1s0x395635170576ad91:0x96c04af0b9cd9b49!8m2!3d21.6422235!4d69.6121058!16s%2Fg%2F11fd4zxqw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4735,8 +4696,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ojas+eye+hospital/@21.6422235,69.6121058,17z/data=!3m1!4b1!4m6!3m5!1s0x395635170576ad91:0x96c04af0b9cd9b49!8m2!3d21.6422235!4d69.6121058!16s%2Fg%2F11fd4zxqw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-dental-clinic-porbandar",
@@ -4785,7 +4745,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/OM+DENTAL+CLINIC/@21.6433735,69.6068625,17z/data=!3m1!4b1!4m6!3m5!1s0x3956357b614d389f:0x404bec95eceebd62!8m2!3d21.6433735!4d69.6068625!16s%2Fg%2F11yc7g8wtt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OM+DENTAL+CLINIC/@21.6433735,69.6068625,17z/data=!3m1!4b1!4m6!3m5!1s0x3956357b614d389f:0x404bec95eceebd62!8m2!3d21.6433735!4d69.6068625!16s%2Fg%2F11yc7g8wtt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4851,11 +4811,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/OM+DENTAL+CLINIC/@21.6433735,69.6068625,17z/data=!3m1!4b1!4m6!3m5!1s0x3956357b614d389f:0x404bec95eceebd62!8m2!3d21.6433735!4d69.6068625!16s%2Fg%2F11yc7g8wtt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "om-dental-clinic-porbandar",
@@ -4903,7 +4862,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Om+Dental+Clinic/@21.6439578,69.6358299,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352ae26dcd6f:0x359d100a859f2de5!8m2!3d21.6439578!4d69.6358299!16s%2Fg%2F11w4g25s5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Dental+Clinic/@21.6439578,69.6358299,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352ae26dcd6f:0x359d100a859f2de5!8m2!3d21.6439578!4d69.6358299!16s%2Fg%2F11w4g25s5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4969,11 +4928,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Om+Dental+Clinic/@21.6439578,69.6358299,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352ae26dcd6f:0x359d100a859f2de5!8m2!3d21.6439578!4d69.6358299!16s%2Fg%2F11w4g25s5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "osteofix-bone-setting-center-porbandar-porbandar",
@@ -5024,7 +4982,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Osteofix+bone+setting+center+Porbandar/@21.6423272,69.6109528,17z/data=!3m1!4b1!4m6!3m5!1s0x395635fed77f9dc7:0x2ad2f25c35a1f87f!8m2!3d21.6423272!4d69.6109528!16s%2Fg%2F11w7rf7_96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Osteofix+bone+setting+center+Porbandar/@21.6423272,69.6109528,17z/data=!3m1!4b1!4m6!3m5!1s0x395635fed77f9dc7:0x2ad2f25c35a1f87f!8m2!3d21.6423272!4d69.6109528!16s%2Fg%2F11w7rf7_96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5090,11 +5048,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Osteofix+bone+setting+center+Porbandar/@21.6423272,69.6109528,17z/data=!3m1!4b1!4m6!3m5!1s0x395635fed77f9dc7:0x2ad2f25c35a1f87f!8m2!3d21.6423272!4d69.6109528!16s%2Fg%2F11w7rf7_96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "p-v-gadhia-dental-clinic-and-implant-centre-porbandar",
@@ -5142,7 +5099,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/P.V.+Gadhia+dental+clinic+and+implant+centre/@21.6398159,69.6042075,17z/data=!3m1!4b1!4m6!3m5!1s0x39563445f9fc3a57:0xd7f3cb67d3de48ab!8m2!3d21.6398159!4d69.6042075!16s%2Fg%2F11f4lmhnwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/P.V.+Gadhia+dental+clinic+and+implant+centre/@21.6398159,69.6042075,17z/data=!3m1!4b1!4m6!3m5!1s0x39563445f9fc3a57:0xd7f3cb67d3de48ab!8m2!3d21.6398159!4d69.6042075!16s%2Fg%2F11f4lmhnwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5211,8 +5168,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/P.V.+Gadhia+dental+clinic+and+implant+centre/@21.6398159,69.6042075,17z/data=!3m1!4b1!4m6!3m5!1s0x39563445f9fc3a57:0xd7f3cb67d3de48ab!8m2!3d21.6398159!4d69.6042075!16s%2Fg%2F11f4lmhnwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "parwani-hospital-porbandar",
@@ -5260,7 +5216,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Parwani+Hospital/@21.6333049,69.6143834,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345c3132b04f:0x9afc962b9c4b6a46!8m2!3d21.6333049!4d69.6143834!16s%2Fg%2F11gb3tr1d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parwani+Hospital/@21.6333049,69.6143834,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345c3132b04f:0x9afc962b9c4b6a46!8m2!3d21.6333049!4d69.6143834!16s%2Fg%2F11gb3tr1d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5329,8 +5285,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Parwani+Hospital/@21.6333049,69.6143834,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345c3132b04f:0x9afc962b9c4b6a46!8m2!3d21.6333049!4d69.6143834!16s%2Fg%2F11gb3tr1d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raj-dental-clinic-and-implant-centre-porbandar",
@@ -5379,7 +5334,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/RAJ+DENTAL+CLINIC+%26+IMPLANT+CENTRE/@21.6415701,69.605204,17z/data=!3m1!4b1!4m6!3m5!1s0x3956344f740933d9:0xacd5aef198b324de!8m2!3d21.6415701!4d69.605204!16s%2Fg%2F11cn0wclc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAJ+DENTAL+CLINIC+%26+IMPLANT+CENTRE/@21.6415701,69.605204,17z/data=!3m1!4b1!4m6!3m5!1s0x3956344f740933d9:0xacd5aef198b324de!8m2!3d21.6415701!4d69.605204!16s%2Fg%2F11cn0wclc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5448,8 +5403,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/RAJ+DENTAL+CLINIC+%26+IMPLANT+CENTRE/@21.6415701,69.605204,17z/data=!3m1!4b1!4m6!3m5!1s0x3956344f740933d9:0xacd5aef198b324de!8m2!3d21.6415701!4d69.605204!16s%2Fg%2F11cn0wclc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rajshree-dental-clinic-porbandar",
@@ -5497,7 +5451,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rajshree+Dental+Clinic/@21.6386323,69.6053514,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b96e40ac27:0xedd0131944291bac!8m2!3d21.6386323!4d69.6053514!16s%2Fg%2F11jp06sds_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajshree+Dental+Clinic/@21.6386323,69.6053514,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b96e40ac27:0xedd0131944291bac!8m2!3d21.6386323!4d69.6053514!16s%2Fg%2F11jp06sds_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5566,8 +5520,7 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rajshree+Dental+Clinic/@21.6386323,69.6053514,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b96e40ac27:0xedd0131944291bac!8m2!3d21.6386323!4d69.6053514!16s%2Fg%2F11jp06sds_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ram-surgical-hospital-porbandar",
@@ -5613,7 +5566,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ram+Surgical+Hospital/data=!4m7!3m6!1s0x3956345099cf7899:0x4f7900145776b510!8m2!3d21.6419314!4d69.6137778!16s%2Fg%2F11c5_pyk7d!19sChIJmXjPmVA0VjkRELV2VxQAeU8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ram+Surgical+Hospital/data=!4m7!3m6!1s0x3956345099cf7899:0x4f7900145776b510!8m2!3d21.6419314!4d69.6137778!16s%2Fg%2F11c5_pyk7d!19sChIJmXjPmVA0VjkRELV2VxQAeU8?authuser=0&hl=en&rclk=1"
@@ -5679,11 +5632,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ram+Surgical+Hospital/data=!4m7!3m6!1s0x3956345099cf7899:0x4f7900145776b510!8m2!3d21.6419314!4d69.6137778!16s%2Fg%2F11c5_pyk7d!19sChIJmXjPmVA0VjkRELV2VxQAeU8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "raninga-physiotherapy-and-wellness-center-porbandar",
@@ -5732,7 +5684,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Raninga+Physiotherapy+%26+Wellness+Center/@21.6365352,69.6209201,17z/data=!3m1!4b1!4m6!3m5!1s0x3956358978b849ad:0x812b2de8439f3154!8m2!3d21.6365352!4d69.6209201!16s%2Fg%2F11ms_71krs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raninga+Physiotherapy+%26+Wellness+Center/@21.6365352,69.6209201,17z/data=!3m1!4b1!4m6!3m5!1s0x3956358978b849ad:0x812b2de8439f3154!8m2!3d21.6365352!4d69.6209201!16s%2Fg%2F11ms_71krs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5801,8 +5753,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Raninga+Physiotherapy+%26+Wellness+Center/@21.6365352,69.6209201,17z/data=!3m1!4b1!4m6!3m5!1s0x3956358978b849ad:0x812b2de8439f3154!8m2!3d21.6365352!4d69.6209201!16s%2Fg%2F11ms_71krs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "riddhi-hospital-porbandar",
@@ -5850,7 +5801,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Riddhi+Hospital/@21.6406958,69.6131615,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a7a6a0581:0x5bec9759ed7d6ec9!8m2!3d21.6406958!4d69.6131615!16s%2Fg%2F1hd_gckjw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Riddhi+Hospital/@21.6406958,69.6131615,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a7a6a0581:0x5bec9759ed7d6ec9!8m2!3d21.6406958!4d69.6131615!16s%2Fg%2F1hd_gckjw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5919,8 +5870,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Riddhi+Hospital/@21.6406958,69.6131615,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a7a6a0581:0x5bec9759ed7d6ec9!8m2!3d21.6406958!4d69.6131615!16s%2Fg%2F1hd_gckjw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "royal-dental-sicher-gujarat-porbandar",
@@ -5968,7 +5918,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Royal+Dental+Sicher+Gujarat/@21.6448658,69.607718,17z/data=!3m1!4b1!4m6!3m5!1s0x39563570d1de3ed5:0x22817869daede070!8m2!3d21.6448658!4d69.607718!16s%2Fg%2F11pzt7q422?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+Dental+Sicher+Gujarat/@21.6448658,69.607718,17z/data=!3m1!4b1!4m6!3m5!1s0x39563570d1de3ed5:0x22817869daede070!8m2!3d21.6448658!4d69.607718!16s%2Fg%2F11pzt7q422?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6034,11 +5984,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Royal+Dental+Sicher+Gujarat/@21.6448658,69.607718,17z/data=!3m1!4b1!4m6!3m5!1s0x39563570d1de3ed5:0x22817869daede070!8m2!3d21.6448658!4d69.607718!16s%2Fg%2F11pzt7q422?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sachin-dental-clinic-porbandar",
@@ -6087,7 +6036,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sachin+Dental+Clinic/data=!4m7!3m6!1s0x3956345a7069e87f:0x206627a4fc21710e!8m2!3d21.6405766!4d69.6134184!16s%2Fg%2F11dybh0ksm!19sChIJf-hpcFo0VjkRDnEh_KQnZiA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sachin+Dental+Clinic/data=!4m7!3m6!1s0x3956345a7069e87f:0x206627a4fc21710e!8m2!3d21.6405766!4d69.6134184!16s%2Fg%2F11dybh0ksm!19sChIJf-hpcFo0VjkRDnEh_KQnZiA?authuser=0&hl=en&rclk=1"
@@ -6156,8 +6105,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sachin+Dental+Clinic/data=!4m7!3m6!1s0x3956345a7069e87f:0x206627a4fc21710e!8m2!3d21.6405766!4d69.6134184!16s%2Fg%2F11dybh0ksm!19sChIJf-hpcFo0VjkRDnEh_KQnZiA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sahyog-hospital-porbandar",
@@ -6205,7 +6153,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sahyog+Hospital/@21.6383673,69.6191048,17z/data=!3m1!4b1!4m6!3m5!1s0x39563458fb4b1215:0x8af4359ce73813c0!8m2!3d21.6383673!4d69.6191048!16s%2Fg%2F11r9mhb0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahyog+Hospital/@21.6383673,69.6191048,17z/data=!3m1!4b1!4m6!3m5!1s0x39563458fb4b1215:0x8af4359ce73813c0!8m2!3d21.6383673!4d69.6191048!16s%2Fg%2F11r9mhb0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6274,8 +6222,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sahyog+Hospital/@21.6383673,69.6191048,17z/data=!3m1!4b1!4m6!3m5!1s0x39563458fb4b1215:0x8af4359ce73813c0!8m2!3d21.6383673!4d69.6191048!16s%2Fg%2F11r9mhb0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "samarth-ivf-fertility-center-best-ivf-center-in-porbandar-porbandar",
@@ -6324,7 +6271,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Porbandar/@21.6410397,69.6139454,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c87b939e1f:0xb0af750a2225894f!8m2!3d21.6410397!4d69.6139454!16s%2Fg%2F11y8gfcdzl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Porbandar/@21.6410397,69.6139454,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c87b939e1f:0xb0af750a2225894f!8m2!3d21.6410397!4d69.6139454!16s%2Fg%2F11y8gfcdzl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6390,11 +6337,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Porbandar/@21.6410397,69.6139454,17z/data=!3m1!4b1!4m6!3m5!1s0x395635c87b939e1f:0xb0af750a2225894f!8m2!3d21.6410397!4d69.6139454!16s%2Fg%2F11y8gfcdzl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sambhav-diagnostic-center-porbandar",
@@ -6443,7 +6389,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SAMBHAV+DIAGNOSTIC+CENTER/@21.6413038,69.6137158,17z/data=!3m1!4b1!4m6!3m5!1s0x3956351da7f0d477:0xf98effdfeade103f!8m2!3d21.6413038!4d69.6137158!16s%2Fg%2F11ptqqyy45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAMBHAV+DIAGNOSTIC+CENTER/@21.6413038,69.6137158,17z/data=!3m1!4b1!4m6!3m5!1s0x3956351da7f0d477:0xf98effdfeade103f!8m2!3d21.6413038!4d69.6137158!16s%2Fg%2F11ptqqyy45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6512,8 +6458,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SAMBHAV+DIAGNOSTIC+CENTER/@21.6413038,69.6137158,17z/data=!3m1!4b1!4m6!3m5!1s0x3956351da7f0d477:0xf98effdfeade103f!8m2!3d21.6413038!4d69.6137158!16s%2Fg%2F11ptqqyy45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanidhya-hospital-porbandar",
@@ -6561,7 +6506,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanidhya+Hospital/@21.641924,69.6136648,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352634e77087:0xf3cadc3c66c078db!8m2!3d21.641924!4d69.6136648!16s%2Fg%2F11gl1pwkxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanidhya+Hospital/@21.641924,69.6136648,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352634e77087:0xf3cadc3c66c078db!8m2!3d21.641924!4d69.6136648!16s%2Fg%2F11gl1pwkxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6630,8 +6575,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanidhya+Hospital/@21.641924,69.6136648,17z/data=!3m1!4b1!4m6!3m5!1s0x3956352634e77087:0xf3cadc3c66c078db!8m2!3d21.641924!4d69.6136648!16s%2Fg%2F11gl1pwkxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "savio-skin-clinic-porbandar",
@@ -6679,7 +6623,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Savio+Skin+Clinic/@21.6405764,69.6214708,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345875b68337:0x4f5268f30b0ed5de!8m2!3d21.6405764!4d69.6214708!16s%2Fg%2F11h_fgsjhc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Savio+Skin+Clinic/@21.6405764,69.6214708,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345875b68337:0x4f5268f30b0ed5de!8m2!3d21.6405764!4d69.6214708!16s%2Fg%2F11h_fgsjhc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6748,8 +6692,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Savio+Skin+Clinic/@21.6405764,69.6214708,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345875b68337:0x4f5268f30b0ed5de!8m2!3d21.6405764!4d69.6214708!16s%2Fg%2F11h_fgsjhc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shagun-ent-hospital-porbandar",
@@ -6797,7 +6740,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shagun+ENT+Hospital/@21.6344478,69.6161699,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345dd83fffff:0x6f81f0de7a04c802!8m2!3d21.6344478!4d69.6161699!16s%2Fg%2F11g_m_f1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shagun+ENT+Hospital/@21.6344478,69.6161699,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345dd83fffff:0x6f81f0de7a04c802!8m2!3d21.6344478!4d69.6161699!16s%2Fg%2F11g_m_f1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6866,8 +6809,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shagun+ENT+Hospital/@21.6344478,69.6161699,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345dd83fffff:0x6f81f0de7a04c802!8m2!3d21.6344478!4d69.6161699!16s%2Fg%2F11g_m_f1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiv-clinic-dr-a-k-godhania-porbandar",
@@ -6915,7 +6857,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHIV+CLINIC(Dr+A.K.Godhania)/@21.656714,69.6068966,17z/data=!3m1!4b1!4m6!3m5!1s0x39563584a05dc2e1:0xd990dbce2a3870d3!8m2!3d21.656714!4d69.6068966!16s%2Fg%2F11qpv11yl4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHIV+CLINIC(Dr+A.K.Godhania)/@21.656714,69.6068966,17z/data=!3m1!4b1!4m6!3m5!1s0x39563584a05dc2e1:0xd990dbce2a3870d3!8m2!3d21.656714!4d69.6068966!16s%2Fg%2F11qpv11yl4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6981,11 +6923,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHIV+CLINIC(Dr+A.K.Godhania)/@21.656714,69.6068966,17z/data=!3m1!4b1!4m6!3m5!1s0x39563584a05dc2e1:0xd990dbce2a3870d3!8m2!3d21.656714!4d69.6068966!16s%2Fg%2F11qpv11yl4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-clinic-porbandar",
@@ -7033,7 +6974,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Clinic/data=!4m7!3m6!1s0x3956351b31118121:0xd5cd4d9585f4270!8m2!3d21.6296657!4d69.6153081!16s%2Fg%2F11qpsh2699!19sChIJIYERMRs1VjkRcEJfWNnUXA0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Clinic/data=!4m7!3m6!1s0x3956351b31118121:0xd5cd4d9585f4270!8m2!3d21.6296657!4d69.6153081!16s%2Fg%2F11qpsh2699!19sChIJIYERMRs1VjkRcEJfWNnUXA0?authuser=0&hl=en&rclk=1"
@@ -7099,11 +7040,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Clinic/data=!4m7!3m6!1s0x3956351b31118121:0xd5cd4d9585f4270!8m2!3d21.6296657!4d69.6153081!16s%2Fg%2F11qpsh2699!19sChIJIYERMRs1VjkRcEJfWNnUXA0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-hospital-porbandar",
@@ -7151,7 +7091,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Hospital/@21.6417677,69.6206833,17z/data=!3m1!4b1!4m6!3m5!1s0x395635ddb185f177:0xd55b59fdd84f0499!8m2!3d21.6417677!4d69.6206833!16s%2Fg%2F11hdj5f8qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Hospital/@21.6417677,69.6206833,17z/data=!3m1!4b1!4m6!3m5!1s0x395635ddb185f177:0xd55b59fdd84f0499!8m2!3d21.6417677!4d69.6206833!16s%2Fg%2F11hdj5f8qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7220,8 +7160,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Hospital/@21.6417677,69.6206833,17z/data=!3m1!4b1!4m6!3m5!1s0x395635ddb185f177:0xd55b59fdd84f0499!8m2!3d21.6417677!4d69.6206833!16s%2Fg%2F11hdj5f8qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-hospital-porbandar",
@@ -7269,7 +7208,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Hospital/@21.6417786,69.6206972,17z/data=!3m1!4b1!4m6!3m5!1s0x3956358d2acbc793:0x3e78ab8aa4035fa3!8m2!3d21.6417786!4d69.6206972!16s%2Fg%2F11w3g4mh87?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Hospital/@21.6417786,69.6206972,17z/data=!3m1!4b1!4m6!3m5!1s0x3956358d2acbc793:0x3e78ab8aa4035fa3!8m2!3d21.6417786!4d69.6206972!16s%2Fg%2F11w3g4mh87?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7338,8 +7277,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Hospital/@21.6417786,69.6206972,17z/data=!3m1!4b1!4m6!3m5!1s0x3956358d2acbc793:0x3e78ab8aa4035fa3!8m2!3d21.6417786!4d69.6206972!16s%2Fg%2F11w3g4mh87?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-morarji-kheraj-thakrar-hospital-porbandar",
@@ -7387,7 +7325,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Morarji+Kheraj+Thakrar+Hospital/@21.632702,69.61576,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345ac291d163:0x7291871998a9a6c0!8m2!3d21.632702!4d69.61576!16s%2Fg%2F11pbrfcb_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Morarji+Kheraj+Thakrar+Hospital/@21.632702,69.61576,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345ac291d163:0x7291871998a9a6c0!8m2!3d21.632702!4d69.61576!16s%2Fg%2F11pbrfcb_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7456,8 +7394,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Morarji+Kheraj+Thakrar+Hospital/@21.632702,69.61576,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345ac291d163:0x7291871998a9a6c0!8m2!3d21.632702!4d69.61576!16s%2Fg%2F11pbrfcb_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreeji-eye-and-dental-hospital-porbandar",
@@ -7506,7 +7443,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreeji+Eye+and+Dental+Hospital/@21.6362233,69.6223886,17z/data=!3m1!4b1!4m6!3m5!1s0x3956355327d81eff:0x8d1ad3d5389538ea!8m2!3d21.6362233!4d69.6223886!16s%2Fg%2F11j09zjqvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreeji+Eye+and+Dental+Hospital/@21.6362233,69.6223886,17z/data=!3m1!4b1!4m6!3m5!1s0x3956355327d81eff:0x8d1ad3d5389538ea!8m2!3d21.6362233!4d69.6223886!16s%2Fg%2F11j09zjqvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7572,11 +7509,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreeji+Eye+and+Dental+Hospital/@21.6362233,69.6223886,17z/data=!3m1!4b1!4m6!3m5!1s0x3956355327d81eff:0x8d1ad3d5389538ea!8m2!3d21.6362233!4d69.6223886!16s%2Fg%2F11j09zjqvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreeji-hospital-porbandar",
@@ -7624,7 +7560,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreeji+Hospital/data=!4m7!3m6!1s0x395634f5e83eddbd:0x6509630325f1204b!8m2!3d21.6359269!4d69.6228662!16s%2Fg%2F11ddxxl4p5!19sChIJvd0-6PU0VjkRSyDxJQNjCWU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreeji+Hospital/data=!4m7!3m6!1s0x395634f5e83eddbd:0x6509630325f1204b!8m2!3d21.6359269!4d69.6228662!16s%2Fg%2F11ddxxl4p5!19sChIJvd0-6PU0VjkRSyDxJQNjCWU?authuser=0&hl=en&rclk=1"
@@ -7693,8 +7629,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreeji+Hospital/data=!4m7!3m6!1s0x395634f5e83eddbd:0x6509630325f1204b!8m2!3d21.6359269!4d69.6228662!16s%2Fg%2F11ddxxl4p5!19sChIJvd0-6PU0VjkRSyDxJQNjCWU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreya-hospital-and-i-c-u-porbandar",
@@ -7742,7 +7677,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreya+Hospital+%26+I.C.U./@21.6404075,69.6135898,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a6dc03bf7:0xbd48eb15a76a10dc!8m2!3d21.6404075!4d69.6135898!16s%2Fg%2F1tcxy6f0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreya+Hospital+%26+I.C.U./@21.6404075,69.6135898,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a6dc03bf7:0xbd48eb15a76a10dc!8m2!3d21.6404075!4d69.6135898!16s%2Fg%2F1tcxy6f0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7811,8 +7746,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreya+Hospital+%26+I.C.U./@21.6404075,69.6135898,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a6dc03bf7:0xbd48eb15a76a10dc!8m2!3d21.6404075!4d69.6135898!16s%2Fg%2F1tcxy6f0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "siddharth-hospital-porbandar",
@@ -7860,7 +7794,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Siddharth+Hospital/@21.6380267,69.6187119,17z/data=!3m1!4b1!4m6!3m5!1s0x39563458badbecf7:0xf51d55bc2cb107b!8m2!3d21.6380267!4d69.6187119!16s%2Fg%2F11cn7x70mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddharth+Hospital/@21.6380267,69.6187119,17z/data=!3m1!4b1!4m6!3m5!1s0x39563458badbecf7:0xf51d55bc2cb107b!8m2!3d21.6380267!4d69.6187119!16s%2Fg%2F11cn7x70mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7929,8 +7863,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Siddharth+Hospital/@21.6380267,69.6187119,17z/data=!3m1!4b1!4m6!3m5!1s0x39563458badbecf7:0xf51d55bc2cb107b!8m2!3d21.6380267!4d69.6187119!16s%2Fg%2F11cn7x70mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "skinovate-porbandar",
@@ -7979,7 +7912,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SKINOVATE/@21.6386627,69.6055241,17z/data=!3m1!4b1!4m6!3m5!1s0x395635ebd49fc6cf:0x3f04c076b5edc483!8m2!3d21.6386627!4d69.6055241!16s%2Fg%2F11q7fsf6p6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SKINOVATE/@21.6386627,69.6055241,17z/data=!3m1!4b1!4m6!3m5!1s0x395635ebd49fc6cf:0x3f04c076b5edc483!8m2!3d21.6386627!4d69.6055241!16s%2Fg%2F11q7fsf6p6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8048,8 +7981,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SKINOVATE/@21.6386627,69.6055241,17z/data=!3m1!4b1!4m6!3m5!1s0x395635ebd49fc6cf:0x3f04c076b5edc483!8m2!3d21.6386627!4d69.6055241!16s%2Fg%2F11q7fsf6p6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sneh-hospital-porbandar",
@@ -8097,7 +8029,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sneh+Hospital/@21.6326825,69.6159025,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345e7eabe941:0x14b6d9568f1b242a!8m2!3d21.6326825!4d69.6159025!16s%2Fg%2F11f3n6fn51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sneh+Hospital/@21.6326825,69.6159025,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345e7eabe941:0x14b6d9568f1b242a!8m2!3d21.6326825!4d69.6159025!16s%2Fg%2F11f3n6fn51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8163,11 +8095,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sneh+Hospital/@21.6326825,69.6159025,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345e7eabe941:0x14b6d9568f1b242a!8m2!3d21.6326825!4d69.6159025!16s%2Fg%2F11f3n6fn51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "southern-hospitalities-pvt-ltd-porbandar",
@@ -8213,7 +8144,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Southern+Hospitalities+Pvt+Ltd/@21.6474414,69.6344825,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b77579f0a7:0xa8a537cb40b0a09a!8m2!3d21.6474414!4d69.6344825!16s%2Fg%2F11fryy_thg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Southern+Hospitalities+Pvt+Ltd/@21.6474414,69.6344825,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b77579f0a7:0xa8a537cb40b0a09a!8m2!3d21.6474414!4d69.6344825!16s%2Fg%2F11fryy_thg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8279,11 +8210,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Southern+Hospitalities+Pvt+Ltd/@21.6474414,69.6344825,17z/data=!3m1!4b1!4m6!3m5!1s0x395635b77579f0a7:0xa8a537cb40b0a09a!8m2!3d21.6474414!4d69.6344825!16s%2Fg%2F11fryy_thg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "suruchi-hospital-porbandar",
@@ -8331,7 +8261,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SURUCHI+HOSPITAL/@21.6386278,69.6128422,17z/data=!3m1!4b1!4m6!3m5!1s0x39563500284d7101:0x5222af2430e7fd8b!8m2!3d21.6386278!4d69.6128422!16s%2Fg%2F11zhmlzbtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SURUCHI+HOSPITAL/@21.6386278,69.6128422,17z/data=!3m1!4b1!4m6!3m5!1s0x39563500284d7101:0x5222af2430e7fd8b!8m2!3d21.6386278!4d69.6128422!16s%2Fg%2F11zhmlzbtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8397,11 +8327,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SURUCHI+HOSPITAL/@21.6386278,69.6128422,17z/data=!3m1!4b1!4m6!3m5!1s0x39563500284d7101:0x5222af2430e7fd8b!8m2!3d21.6386278!4d69.6128422!16s%2Fg%2F11zhmlzbtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tanmay-child-care-hospital-porbandar",
@@ -8450,7 +8379,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tanmay+Child+Care+Hospital/@21.6380224,69.6107738,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345b209be205:0xae040296c94dfc1c!8m2!3d21.6380224!4d69.6107738!16s%2Fg%2F12hll3zcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tanmay+Child+Care+Hospital/@21.6380224,69.6107738,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345b209be205:0xae040296c94dfc1c!8m2!3d21.6380224!4d69.6107738!16s%2Fg%2F12hll3zcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8519,8 +8448,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tanmay+Child+Care+Hospital/@21.6380224,69.6107738,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345b209be205:0xae040296c94dfc1c!8m2!3d21.6380224!4d69.6107738!16s%2Fg%2F12hll3zcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "thakore-general-hospital-porbandar",
@@ -8568,7 +8496,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Thakore+General+Hospital/@21.6282206,69.6341178,17z/data=!3m1!4b1!4m6!3m5!1s0x395635ac9ddb118f:0xd4b61f97f305e83d!8m2!3d21.6282206!4d69.6341178!16s%2Fg%2F11vwmq_sfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thakore+General+Hospital/@21.6282206,69.6341178,17z/data=!3m1!4b1!4m6!3m5!1s0x395635ac9ddb118f:0xd4b61f97f305e83d!8m2!3d21.6282206!4d69.6341178!16s%2Fg%2F11vwmq_sfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8634,11 +8562,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Thakore+General+Hospital/@21.6282206,69.6341178,17z/data=!3m1!4b1!4m6!3m5!1s0x395635ac9ddb118f:0xd4b61f97f305e83d!8m2!3d21.6282206!4d69.6341178!16s%2Fg%2F11vwmq_sfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "uttam-dental-clinic-porbandar",
@@ -8686,7 +8613,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Uttam+Dental+Clinic/@21.6360407,69.6227402,17z/data=!3m1!4b1!4m6!3m5!1s0x395635cec070b911:0x1cbb8ddcc11535f9!8m2!3d21.6360407!4d69.6227402!16s%2Fg%2F11z631rng7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uttam+Dental+Clinic/@21.6360407,69.6227402,17z/data=!3m1!4b1!4m6!3m5!1s0x395635cec070b911:0x1cbb8ddcc11535f9!8m2!3d21.6360407!4d69.6227402!16s%2Fg%2F11z631rng7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8755,8 +8682,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Uttam+Dental+Clinic/@21.6360407,69.6227402,17z/data=!3m1!4b1!4m6!3m5!1s0x395635cec070b911:0x1cbb8ddcc11535f9!8m2!3d21.6360407!4d69.6227402!16s%2Fg%2F11z631rng7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "v-v-hospital-porbandar",
@@ -8804,7 +8730,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/V+V+Hospital/@21.6393478,69.6234592,17z/data=!3m1!4b1!4m6!3m5!1s0x395634f64c261c21:0x221e201c8b055286!8m2!3d21.6393478!4d69.6234592!16s%2Fg%2F124t4c6qn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V+V+Hospital/@21.6393478,69.6234592,17z/data=!3m1!4b1!4m6!3m5!1s0x395634f64c261c21:0x221e201c8b055286!8m2!3d21.6393478!4d69.6234592!16s%2Fg%2F124t4c6qn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8873,8 +8799,7 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/V+V+Hospital/@21.6393478,69.6234592,17z/data=!3m1!4b1!4m6!3m5!1s0x395634f64c261c21:0x221e201c8b055286!8m2!3d21.6393478!4d69.6234592!16s%2Fg%2F124t4c6qn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vedant-hospital-porbandar",
@@ -8923,7 +8848,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VEDANT+HOSPITAL/@21.6379338,69.6109817,17z/data=!3m1!4b1!4m6!3m5!1s0x39563579dbb64ee7:0x52c31dbf1e5d906!8m2!3d21.6379338!4d69.6109817!16s%2Fg%2F11rjj6667h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VEDANT+HOSPITAL/@21.6379338,69.6109817,17z/data=!3m1!4b1!4m6!3m5!1s0x39563579dbb64ee7:0x52c31dbf1e5d906!8m2!3d21.6379338!4d69.6109817!16s%2Fg%2F11rjj6667h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8992,8 +8917,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VEDANT+HOSPITAL/@21.6379338,69.6109817,17z/data=!3m1!4b1!4m6!3m5!1s0x39563579dbb64ee7:0x52c31dbf1e5d906!8m2!3d21.6379338!4d69.6109817!16s%2Fg%2F11rjj6667h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "venus-hospital-porbandar",
@@ -9042,7 +8966,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Venus+Hospital/@21.642614,69.607383,17z/data=!3m1!4b1!4m6!3m5!1s0x39563509343836f3:0xf23cf41147b0acc4!8m2!3d21.642614!4d69.607383!16s%2Fg%2F11ghnp2zs1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venus+Hospital/@21.642614,69.607383,17z/data=!3m1!4b1!4m6!3m5!1s0x39563509343836f3:0xf23cf41147b0acc4!8m2!3d21.642614!4d69.607383!16s%2Fg%2F11ghnp2zs1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9111,8 +9035,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Venus+Hospital/@21.642614,69.607383,17z/data=!3m1!4b1!4m6!3m5!1s0x39563509343836f3:0xf23cf41147b0acc4!8m2!3d21.642614!4d69.607383!16s%2Fg%2F11ghnp2zs1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wadia-dental-care-family-and-cosmetic-dentistry-porbandar-porbandar",
@@ -9160,7 +9083,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/WADIA+DENTAL+CARE%7CFamily+and+Cosmetic+Dentistry%7CPORBANDAR./@21.6396201,69.6184971,17z/data=!3m1!4b1!4m6!3m5!1s0x3956359f97365437:0x6f07756f52dbd499!8m2!3d21.6396201!4d69.6184971!16s%2Fg%2F11gyyxd4qs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/WADIA+DENTAL+CARE%7CFamily+and+Cosmetic+Dentistry%7CPORBANDAR./@21.6396201,69.6184971,17z/data=!3m1!4b1!4m6!3m5!1s0x3956359f97365437:0x6f07756f52dbd499!8m2!3d21.6396201!4d69.6184971!16s%2Fg%2F11gyyxd4qs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9229,8 +9152,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/WADIA+DENTAL+CARE%7CFamily+and+Cosmetic+Dentistry%7CPORBANDAR./@21.6396201,69.6184971,17z/data=!3m1!4b1!4m6!3m5!1s0x3956359f97365437:0x6f07756f52dbd499!8m2!3d21.6396201!4d69.6184971!16s%2Fg%2F11gyyxd4qs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "xtrim-gym-xtrim-fitness-care-porbandar",
@@ -9279,7 +9201,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Xtrim+Gym%2FXtrim+Fitness+Care/@21.6388567,69.6128847,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a56d063f3:0x9bf6c3b58391176!8m2!3d21.6388567!4d69.6128847!16s%2Fg%2F11fxx43lcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Xtrim+Gym%2FXtrim+Fitness+Care/@21.6388567,69.6128847,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a56d063f3:0x9bf6c3b58391176!8m2!3d21.6388567!4d69.6128847!16s%2Fg%2F11fxx43lcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9348,8 +9270,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Xtrim+Gym%2FXtrim+Fitness+Care/@21.6388567,69.6128847,17z/data=!3m1!4b1!4m6!3m5!1s0x3956345a56d063f3:0x9bf6c3b58391176!8m2!3d21.6388567!4d69.6128847!16s%2Fg%2F11fxx43lcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "porbandar",
@@ -9395,7 +9316,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%AA%A1%E0%AB%89.%E0%AA%8F.%E0%AA%8F%E0%AA%AE.%E0%AA%B0%E0%AB%82%E0%AA%AA%E0%AA%BE%E0%AA%B0%E0%AB%87%E0%AA%B2/data=!4m7!3m6!1s0x3956344f03cfcb2f:0xa3e14d81c87a0514!8m2!3d21.6429357!4d69.6061373!16s%2Fg%2F11vl9gckbr!19sChIJL8vPA080VjkRFAV6yIFN4aM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%AA%A1%E0%AB%89.%E0%AA%8F.%E0%AA%8F%E0%AA%AE.%E0%AA%B0%E0%AB%82%E0%AA%AA%E0%AA%BE%E0%AA%B0%E0%AB%87%E0%AA%B2/data=!4m7!3m6!1s0x3956344f03cfcb2f:0xa3e14d81c87a0514!8m2!3d21.6429357!4d69.6061373!16s%2Fg%2F11vl9gckbr!19sChIJL8vPA080VjkRFAV6yIFN4aM?authuser=0&hl=en&rclk=1"
@@ -9461,10 +9382,9 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%AA%A1%E0%AB%89.%E0%AA%8F.%E0%AA%8F%E0%AA%AE.%E0%AA%B0%E0%AB%82%E0%AA%AA%E0%AA%BE%E0%AA%B0%E0%AB%87%E0%AA%B2/data=!4m7!3m6!1s0x3956344f03cfcb2f:0xa3e14d81c87a0514!8m2!3d21.6429357!4d69.6061373!16s%2Fg%2F11vl9gckbr!19sChIJL8vPA080VjkRFAV6yIFN4aM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]

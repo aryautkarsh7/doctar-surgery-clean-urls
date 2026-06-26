@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aditya+Hospital-+Laser+treatment/data=!4m7!3m6!1s0x3bc12283d5e05f21:0x2d439b6e913387fa!8m2!3d16.8478887!4d74.596476!16s%2Fg%2F1hm5qjj8s!19sChIJIV_g1YMiwTsR-oczkW6bQy0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditya+Hospital-+Laser+treatment/data=!4m7!3m6!1s0x3bc12283d5e05f21:0x2d439b6e913387fa!8m2!3d16.8478887!4d74.596476!16s%2Fg%2F1hm5qjj8s!19sChIJIV_g1YMiwTsR-oczkW6bQy0?authuser=0&hl=en&rclk=1"
@@ -114,8 +114,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aditya+Hospital-+Laser+treatment/data=!4m7!3m6!1s0x3bc12283d5e05f21:0x2d439b6e913387fa!8m2!3d16.8478887!4d74.596476!16s%2Fg%2F1hm5qjj8s!19sChIJIV_g1YMiwTsR-oczkW6bQy0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aditya-rainbow-children-s-hospital-sangli",
@@ -165,7 +164,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aditya+Rainbow+Children's+Hospital/@16.8533721,74.5808498,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fe5b98b4b:0xe1317bf0284033aa!8m2!3d16.8533721!4d74.5808498!16s%2Fg%2F11gdqjx0tm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditya+Rainbow+Children's+Hospital/@16.8533721,74.5808498,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fe5b98b4b:0xe1317bf0284033aa!8m2!3d16.8533721!4d74.5808498!16s%2Fg%2F11gdqjx0tm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -234,8 +233,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aditya+Rainbow+Children's+Hospital/@16.8533721,74.5808498,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fe5b98b4b:0xe1317bf0284033aa!8m2!3d16.8533721!4d74.5808498!16s%2Fg%2F11gdqjx0tm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amrut-dental-clinic-sangli",
@@ -283,7 +281,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Amrut+Dental+Clinic/@16.8458573,74.5930168,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187f6001e535:0xced19d340b6f2cf!8m2!3d16.8458573!4d74.5930168!16s%2Fg%2F11c3k52whp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrut+Dental+Clinic/@16.8458573,74.5930168,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187f6001e535:0xced19d340b6f2cf!8m2!3d16.8458573!4d74.5930168!16s%2Fg%2F11c3k52whp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -349,11 +347,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Amrut+Dental+Clinic/@16.8458573,74.5930168,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187f6001e535:0xced19d340b6f2cf!8m2!3d16.8458573!4d74.5930168!16s%2Fg%2F11c3k52whp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anand-nursing-home-sangli-miraj-kupwad",
@@ -402,7 +399,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anand+Nursing+Home/@16.8330782,74.639481,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224d4fb65297:0x962acc94af5ba4d8!8m2!3d16.8330782!4d74.639481!16s%2Fg%2F11cn6cbmf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Nursing+Home/@16.8330782,74.639481,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224d4fb65297:0x962acc94af5ba4d8!8m2!3d16.8330782!4d74.639481!16s%2Fg%2F11cn6cbmf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -471,8 +468,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anand+Nursing+Home/@16.8330782,74.639481,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224d4fb65297:0x962acc94af5ba4d8!8m2!3d16.8330782!4d74.639481!16s%2Fg%2F11cn6cbmf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ansh-fetal-medicine-centre-sangli-miraj-kupwad",
@@ -523,7 +519,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ansh+Fetal+Medicine+Centre/@16.8534388,74.5655217,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119714ca4f81d:0xe69a152139a4a8c6!8m2!3d16.8534388!4d74.5655217!16s%2Fg%2F11vcbc1zw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ansh+Fetal+Medicine+Centre/@16.8534388,74.5655217,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119714ca4f81d:0xe69a152139a4a8c6!8m2!3d16.8534388!4d74.5655217!16s%2Fg%2F11vcbc1zw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -592,8 +588,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ansh+Fetal+Medicine+Centre/@16.8534388,74.5655217,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119714ca4f81d:0xe69a152139a4a8c6!8m2!3d16.8534388!4d74.5655217!16s%2Fg%2F11vcbc1zw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anuved-surgical-hospital-sangli-miraj-kupwad",
@@ -643,7 +638,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anuved+Surgical+Hospital/data=!4m7!3m6!1s0x3bc1224ccc1234d5:0x863a52ac560d19ef!8m2!3d16.8249876!4d74.6454434!16s%2Fg%2F11bxb3wx5m!19sChIJ1TQSzEwiwTsR7xkNVqxSOoY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anuved+Surgical+Hospital/data=!4m7!3m6!1s0x3bc1224ccc1234d5:0x863a52ac560d19ef!8m2!3d16.8249876!4d74.6454434!16s%2Fg%2F11bxb3wx5m!19sChIJ1TQSzEwiwTsR7xkNVqxSOoY?authuser=0&hl=en&rclk=1"
@@ -712,8 +707,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anuved+Surgical+Hospital/data=!4m7!3m6!1s0x3bc1224ccc1234d5:0x863a52ac560d19ef!8m2!3d16.8249876!4d74.6454434!16s%2Fg%2F11bxb3wx5m!19sChIJ1TQSzEwiwTsR7xkNVqxSOoY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-proton-therapy-in-sangli-sangli",
@@ -762,7 +756,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Sangli/data=!4m7!3m6!1s0x3bc1196a4040c043:0x49f93535682d769c!8m2!3d16.845585!4d74.581071!16s%2Fg%2F11yhrbbd55!19sChIJQ8BAQGoZwTsRnHYtaDU1-Uk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Sangli/data=!4m7!3m6!1s0x3bc1196a4040c043:0x49f93535682d769c!8m2!3d16.845585!4d74.581071!16s%2Fg%2F11yhrbbd55!19sChIJQ8BAQGoZwTsRnHYtaDU1-Uk?authuser=0&hl=en&rclk=1"
@@ -828,11 +822,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Sangli/data=!4m7!3m6!1s0x3bc1196a4040c043:0x49f93535682d769c!8m2!3d16.845585!4d74.581071!16s%2Fg%2F11yhrbbd55!19sChIJQ8BAQGoZwTsRnHYtaDU1-Uk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "arunodaya-dental-hospital-sangli-miraj-kupwad",
@@ -880,7 +873,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Arunodaya+dental+hospital/data=!4m7!3m6!1s0x3bc123b4edfdfe2f:0x62b0bc5f9e9921a3!8m2!3d16.8267893!4d74.6423899!16s%2Fg%2F11fy22fv_c!19sChIJL_797bQjwTsRoyGZnl-8sGI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arunodaya+dental+hospital/data=!4m7!3m6!1s0x3bc123b4edfdfe2f:0x62b0bc5f9e9921a3!8m2!3d16.8267893!4d74.6423899!16s%2Fg%2F11fy22fv_c!19sChIJL_797bQjwTsRoyGZnl-8sGI?authuser=0&hl=en&rclk=1"
@@ -949,8 +942,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Arunodaya+dental+hospital/data=!4m7!3m6!1s0x3bc123b4edfdfe2f:0x62b0bc5f9e9921a3!8m2!3d16.8267893!4d74.6423899!16s%2Fg%2F11fy22fv_c!19sChIJL_797bQjwTsRoyGZnl-8sGI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashirwad-hospital-sangli-miraj-kupwad",
@@ -998,7 +990,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashirwad+Hospital/@16.8624627,74.5907096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118751a729241:0x500c7ae028e2808!8m2!3d16.8624627!4d74.5907096!16s%2Fg%2F11dfkm3ddr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirwad+Hospital/@16.8624627,74.5907096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118751a729241:0x500c7ae028e2808!8m2!3d16.8624627!4d74.5907096!16s%2Fg%2F11dfkm3ddr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1067,8 +1059,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashirwad+Hospital/@16.8624627,74.5907096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118751a729241:0x500c7ae028e2808!8m2!3d16.8624627!4d74.5907096!16s%2Fg%2F11dfkm3ddr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bharti-vidyapeeth-deemed-university-medical-college-and-hospital-sangli-sangli-miraj-kupwad",
@@ -1117,7 +1108,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bharti+Vidyapeeth+Deemed+University+Medical+College+And+Hospital+Sangli/@16.841957,74.619887,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1225f10aff8b5:0x916851fa55ec0084!8m2!3d16.841957!4d74.619887!16s%2Fg%2F11c5m85r_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharti+Vidyapeeth+Deemed+University+Medical+College+And+Hospital+Sangli/@16.841957,74.619887,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1225f10aff8b5:0x916851fa55ec0084!8m2!3d16.841957!4d74.619887!16s%2Fg%2F11c5m85r_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1186,8 +1177,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bharti+Vidyapeeth+Deemed+University+Medical+College+And+Hospital+Sangli/@16.841957,74.619887,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1225f10aff8b5:0x916851fa55ec0084!8m2!3d16.841957!4d74.619887!16s%2Fg%2F11c5m85r_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhomaj-hospital-miraj",
@@ -1236,7 +1226,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhomaj+Hospital/@16.8329114,74.6412001,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b2bfd14de9:0x564b13d2f1e76160!8m2!3d16.8329114!4d74.6412001!16s%2Fg%2F11b6ycr1my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhomaj+Hospital/@16.8329114,74.6412001,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b2bfd14de9:0x564b13d2f1e76160!8m2!3d16.8329114!4d74.6412001!16s%2Fg%2F11b6ycr1my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1305,8 +1295,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhomaj+Hospital/@16.8329114,74.6412001,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b2bfd14de9:0x564b13d2f1e76160!8m2!3d16.8329114!4d74.6412001!16s%2Fg%2F11b6ycr1my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "br-g-d-patil-memorial-hospital-sangli-miraj-kupwad",
@@ -1354,7 +1343,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Br+G+D+Patil+Memorial+Hospital/data=!4m7!3m6!1s0x3bc1224d57fe9969:0x285b15c148a12319!8m2!3d16.833895!4d74.6392917!16s%2Fg%2F1tfb0ft0!19sChIJaZn-V00iwTsRGSOhSMEVWyg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Br+G+D+Patil+Memorial+Hospital/data=!4m7!3m6!1s0x3bc1224d57fe9969:0x285b15c148a12319!8m2!3d16.833895!4d74.6392917!16s%2Fg%2F1tfb0ft0!19sChIJaZn-V00iwTsRGSOhSMEVWyg?authuser=0&hl=en&rclk=1"
@@ -1423,8 +1412,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Br+G+D+Patil+Memorial+Hospital/data=!4m7!3m6!1s0x3bc1224d57fe9969:0x285b15c148a12319!8m2!3d16.833895!4d74.6392917!16s%2Fg%2F1tfb0ft0!19sChIJaZn-V00iwTsRGSOhSMEVWyg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "brahmand-dental-care-sangli-l-dental-implant-and-root-canal-speciality-dental-clinic-in-sangli-sangli-miraj-kupwad",
@@ -1473,7 +1461,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Brahmand+Dental+Care+sangli+l+Dental+Implant+%26+Root+Canal+Speciality+Dental+Clinic+in+Sangli/@16.8478685,74.5797184,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11987ddb3251d:0x4eeb9b2d4df868ab!8m2!3d16.8478685!4d74.5797184!16s%2Fg%2F11m6c31mzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brahmand+Dental+Care+sangli+l+Dental+Implant+%26+Root+Canal+Speciality+Dental+Clinic+in+Sangli/@16.8478685,74.5797184,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11987ddb3251d:0x4eeb9b2d4df868ab!8m2!3d16.8478685!4d74.5797184!16s%2Fg%2F11m6c31mzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1539,11 +1527,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Brahmand+Dental+Care+sangli+l+Dental+Implant+%26+Root+Canal+Speciality+Dental+Clinic+in+Sangli/@16.8478685,74.5797184,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11987ddb3251d:0x4eeb9b2d4df868ab!8m2!3d16.8478685!4d74.5797184!16s%2Fg%2F11m6c31mzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bvdu-dental-college-and-hospital-sangli-sangli",
@@ -1593,7 +1580,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BVDU+Dental+College+and+Hospital+Sangli/@16.8434927,74.6189629,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1225f844fb2fd:0x5ef34e87660081a3!8m2!3d16.8434927!4d74.6189629!16s%2Fg%2F1tk4pltc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BVDU+Dental+College+and+Hospital+Sangli/@16.8434927,74.6189629,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1225f844fb2fd:0x5ef34e87660081a3!8m2!3d16.8434927!4d74.6189629!16s%2Fg%2F1tk4pltc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1662,8 +1649,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BVDU+Dental+College+and+Hospital+Sangli/@16.8434927,74.6189629,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1225f844fb2fd:0x5ef34e87660081a3!8m2!3d16.8434927!4d74.6189629!16s%2Fg%2F1tk4pltc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cancer-hospital-sangli-miraj-kupwad",
@@ -1709,7 +1695,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cancer+hospital/data=!4m7!3m6!1s0x3bc119006348c4c5:0x2cfe648d4b63083!8m2!3d16.830924!4d74.5779241!16s%2Fg%2F11x5v1lbfc!19sChIJxcRIYwAZwTsRgzC21EjmzwI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cancer+hospital/data=!4m7!3m6!1s0x3bc119006348c4c5:0x2cfe648d4b63083!8m2!3d16.830924!4d74.5779241!16s%2Fg%2F11x5v1lbfc!19sChIJxcRIYwAZwTsRgzC21EjmzwI?authuser=0&hl=en&rclk=1"
@@ -1775,11 +1761,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cancer+hospital/data=!4m7!3m6!1s0x3bc119006348c4c5:0x2cfe648d4b63083!8m2!3d16.830924!4d74.5779241!16s%2Fg%2F11x5v1lbfc!19sChIJxcRIYwAZwTsRgzC21EjmzwI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cheery-blossom-ivf-sangli-sangli",
@@ -1826,7 +1811,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cheery+Blossom+IVF+Sangli/@16.8537138,74.5738392,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11936e7144ad9:0x1793931235dc72ff!8m2!3d16.8537138!4d74.5738392!16s%2Fg%2F11n44rgpxv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cheery+Blossom+IVF+Sangli/@16.8537138,74.5738392,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11936e7144ad9:0x1793931235dc72ff!8m2!3d16.8537138!4d74.5738392!16s%2Fg%2F11n44rgpxv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1892,11 +1877,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cheery+Blossom+IVF+Sangli/@16.8537138,74.5738392,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11936e7144ad9:0x1793931235dc72ff!8m2!3d16.8537138!4d74.5738392!16s%2Fg%2F11n44rgpxv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "children-s-dental-clinic-and-family-care-sangli",
@@ -1947,7 +1931,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Children's+Dental+Clinic+%26+Family+Care/@16.8536346,74.5673681,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11842fb5ffe8b:0xce3af47f6c6eddc3!8m2!3d16.8536346!4d74.5673681!16s%2Fg%2F11c3w6b99_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Children's+Dental+Clinic+%26+Family+Care/@16.8536346,74.5673681,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11842fb5ffe8b:0xce3af47f6c6eddc3!8m2!3d16.8536346!4d74.5673681!16s%2Fg%2F11c3w6b99_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2013,11 +1997,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Children's+Dental+Clinic+%26+Family+Care/@16.8536346,74.5673681,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11842fb5ffe8b:0xce3af47f6c6eddc3!8m2!3d16.8536346!4d74.5673681!16s%2Fg%2F11c3w6b99_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "chopade-memorial-hospital-sangli",
@@ -2065,7 +2048,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Chopade+Memorial+Hospital/data=!4m7!3m6!1s0x3bc119d3f2c2eed1:0x8d4737396e7dea1b!8m2!3d16.8566172!4d74.5734408!16s%2Fg%2F11gtys6t0m!19sChIJ0e7C8tMZwTsRG-p9bjk3R40?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chopade+Memorial+Hospital/data=!4m7!3m6!1s0x3bc119d3f2c2eed1:0x8d4737396e7dea1b!8m2!3d16.8566172!4d74.5734408!16s%2Fg%2F11gtys6t0m!19sChIJ0e7C8tMZwTsRG-p9bjk3R40?authuser=0&hl=en&rclk=1"
@@ -2134,8 +2117,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Chopade+Memorial+Hospital/data=!4m7!3m6!1s0x3bc119d3f2c2eed1:0x8d4737396e7dea1b!8m2!3d16.8566172!4d74.5734408!16s%2Fg%2F11gtys6t0m!19sChIJ0e7C8tMZwTsRG-p9bjk3R40?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-smiles-best-dental-care-sangli-root-canal-and-implant-centre-sangli",
@@ -2183,7 +2165,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Smiles+Best+Dental+Care+Sangli+%7C+Root+canal+%26+Implant+Centre/@16.8589663,74.5749463,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186bbf9f342d:0x7a9cce37b7852e6b!8m2!3d16.8589663!4d74.5749463!16s%2Fg%2F11f54mwfg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Smiles+Best+Dental+Care+Sangli+%7C+Root+canal+%26+Implant+Centre/@16.8589663,74.5749463,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186bbf9f342d:0x7a9cce37b7852e6b!8m2!3d16.8589663!4d74.5749463!16s%2Fg%2F11f54mwfg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2252,8 +2234,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Smiles+Best+Dental+Care+Sangli+%7C+Root+canal+%26+Implant+Centre/@16.8589663,74.5749463,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186bbf9f342d:0x7a9cce37b7852e6b!8m2!3d16.8589663!4d74.5749463!16s%2Fg%2F11f54mwfg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "d-signer-smiles-dental-clinic-sangli",
@@ -2301,7 +2282,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/D'signer+Smiles+Dental+Clinic/@16.85345,74.581038,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fe070c4fd:0x14d059a1ede61163!8m2!3d16.85345!4d74.581038!16s%2Fg%2F11cn3pjxhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D'signer+Smiles+Dental+Clinic/@16.85345,74.581038,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fe070c4fd:0x14d059a1ede61163!8m2!3d16.85345!4d74.581038!16s%2Fg%2F11cn3pjxhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2370,8 +2351,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/D'signer+Smiles+Dental+Clinic/@16.85345,74.581038,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fe070c4fd:0x14d059a1ede61163!8m2!3d16.85345!4d74.581038!16s%2Fg%2F11cn3pjxhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "date-hospital-arthroscopy-and-joint-replacement-center-sangli",
@@ -2420,7 +2400,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Date+Hospital+Arthroscopy+%26+Joint+Replacement+Center/data=!4m7!3m6!1s0x3bc11868cce4e0b1:0xabfce12e98d75c42!8m2!3d16.8539694!4d74.5755483!16s%2Fg%2F1vzn3_t0!19sChIJseDkzGgYwTsRQlzXmC7h_Ks?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Date+Hospital+Arthroscopy+%26+Joint+Replacement+Center/data=!4m7!3m6!1s0x3bc11868cce4e0b1:0xabfce12e98d75c42!8m2!3d16.8539694!4d74.5755483!16s%2Fg%2F1vzn3_t0!19sChIJseDkzGgYwTsRQlzXmC7h_Ks?authuser=0&hl=en&rclk=1"
@@ -2489,8 +2469,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Date+Hospital+Arthroscopy+%26+Joint+Replacement+Center/data=!4m7!3m6!1s0x3bc11868cce4e0b1:0xabfce12e98d75c42!8m2!3d16.8539694!4d74.5755483!16s%2Fg%2F1vzn3_t0!19sChIJseDkzGgYwTsRQlzXmC7h_Ks?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "devkare-hospital-sangli-miraj-kupwad",
@@ -2538,7 +2517,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Devkare+Hospital/@16.8336357,74.6388753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b584b8466d:0xc221de804ae775b4!8m2!3d16.8336357!4d74.6388753!16s%2Fg%2F11hcw3t8vr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devkare+Hospital/@16.8336357,74.6388753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b584b8466d:0xc221de804ae775b4!8m2!3d16.8336357!4d74.6388753!16s%2Fg%2F11hcw3t8vr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2607,8 +2586,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Devkare+Hospital/@16.8336357,74.6388753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b584b8466d:0xc221de804ae775b4!8m2!3d16.8336357!4d74.6388753!16s%2Fg%2F11hcw3t8vr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "district-civil-hospital-sangli-sangli",
@@ -2656,7 +2634,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/District+Civil+Hospital,+Sangli/data=!4m7!3m6!1s0x3bc11868a4d1543b:0xf66f68ce8145c0ee!8m2!3d16.8525548!4d74.5747501!16s%2Fg%2F1ts2yqxw!19sChIJO1TRpGgYwTsR7sBFgc5ob_Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Civil+Hospital,+Sangli/data=!4m7!3m6!1s0x3bc11868a4d1543b:0xf66f68ce8145c0ee!8m2!3d16.8525548!4d74.5747501!16s%2Fg%2F1ts2yqxw!19sChIJO1TRpGgYwTsR7sBFgc5ob_Y?authuser=0&hl=en&rclk=1"
@@ -2722,11 +2700,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/District+Civil+Hospital,+Sangli/data=!4m7!3m6!1s0x3bc11868a4d1543b:0xf66f68ce8145c0ee!8m2!3d16.8525548!4d74.5747501!16s%2Fg%2F1ts2yqxw!19sChIJO1TRpGgYwTsR7sBFgc5ob_Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dorkar-dental-clinic-sangli-miraj-kupwad",
@@ -2774,7 +2751,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dorkar+Dental+Clinic/@16.8271304,74.6495374,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b719f9b6e7:0x8dc870f29e6fd397!8m2!3d16.8271304!4d74.6495374!16s%2Fg%2F11gfdb59hm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dorkar+Dental+Clinic/@16.8271304,74.6495374,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b719f9b6e7:0x8dc870f29e6fd397!8m2!3d16.8271304!4d74.6495374!16s%2Fg%2F11gfdb59hm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2840,11 +2817,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dorkar+Dental+Clinic/@16.8271304,74.6495374,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b719f9b6e7:0x8dc870f29e6fd397!8m2!3d16.8271304!4d74.6495374!16s%2Fg%2F11gfdb59hm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dorle-dental-clinic-sangli",
@@ -2892,7 +2868,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dorle+Dental+Clinic/@16.8325262,74.6394489,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224e1d6c2655:0x3f4f50f6f08c0d5b!8m2!3d16.8325262!4d74.6394489!16s%2Fg%2F1txnmxjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dorle+Dental+Clinic/@16.8325262,74.6394489,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224e1d6c2655:0x3f4f50f6f08c0d5b!8m2!3d16.8325262!4d74.6394489!16s%2Fg%2F1txnmxjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2961,8 +2937,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dorle+Dental+Clinic/@16.8325262,74.6394489,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224e1d6c2655:0x3f4f50f6f08c0d5b!8m2!3d16.8325262!4d74.6394489!16s%2Fg%2F1txnmxjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "family-dental-care-and-maxillofacial-centre-sangli-miraj-kupwad",
@@ -3011,7 +2986,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Family+Dental+care+and+maxillofacial+centre/@16.8598429,74.5764808,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119077bbd8709:0xd6d9520f8e0ff254!8m2!3d16.8598429!4d74.5764808!16s%2Fg%2F11p3h842r9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Family+Dental+care+and+maxillofacial+centre/@16.8598429,74.5764808,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119077bbd8709:0xd6d9520f8e0ff254!8m2!3d16.8598429!4d74.5764808!16s%2Fg%2F11p3h842r9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3077,11 +3052,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Family+Dental+care+and+maxillofacial+centre/@16.8598429,74.5764808,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119077bbd8709:0xd6d9520f8e0ff254!8m2!3d16.8598429!4d74.5764808!16s%2Fg%2F11p3h842r9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gadve-kidney-clinic-shivaji-nagar",
@@ -3130,7 +3104,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gadve+Kidney+Clinic/data=!4m7!3m6!1s0x3bc1230e8e3e47a1:0xbe20dd89c1df7155!8m2!3d16.8338531!4d74.6389398!16s%2Fg%2F11mw4vg_4l!19sChIJoUc-jg4jwTsRVXHfwYndIL4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gadve+Kidney+Clinic/data=!4m7!3m6!1s0x3bc1230e8e3e47a1:0xbe20dd89c1df7155!8m2!3d16.8338531!4d74.6389398!16s%2Fg%2F11mw4vg_4l!19sChIJoUc-jg4jwTsRVXHfwYndIL4?authuser=0&hl=en&rclk=1"
@@ -3199,8 +3173,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gadve+Kidney+Clinic/data=!4m7!3m6!1s0x3bc1230e8e3e47a1:0xbe20dd89c1df7155!8m2!3d16.8338531!4d74.6389398!16s%2Fg%2F11mw4vg_4l!19sChIJoUc-jg4jwTsRVXHfwYndIL4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gandhi-hospital-sangli-miraj-kupwad",
@@ -3248,7 +3221,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gandhi+Hospital/@16.849048,74.5915591,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11878ea885543:0xf5da57fea6e4f0d!8m2!3d16.849048!4d74.5915591!16s%2Fg%2F11fyln9z7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gandhi+Hospital/@16.849048,74.5915591,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11878ea885543:0xf5da57fea6e4f0d!8m2!3d16.849048!4d74.5915591!16s%2Fg%2F11fyln9z7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3314,11 +3287,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gandhi+Hospital/@16.849048,74.5915591,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11878ea885543:0xf5da57fea6e4f0d!8m2!3d16.849048!4d74.5915591!16s%2Fg%2F11fyln9z7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gastro-liver-and-advanced-endoscopy-center-sangli-miraj-kupwad",
@@ -3369,7 +3341,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gastro+Liver+and+advanced+endoscopy+Center/data=!4m7!3m6!1s0x3bc123ffbe812b6d:0x97a17924bc1a75dd!8m2!3d16.8317824!4d74.6398465!16s%2Fg%2F11srl054kv!19sChIJbSuBvv8jwTsR3XUavCR5oZc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gastro+Liver+and+advanced+endoscopy+Center/data=!4m7!3m6!1s0x3bc123ffbe812b6d:0x97a17924bc1a75dd!8m2!3d16.8317824!4d74.6398465!16s%2Fg%2F11srl054kv!19sChIJbSuBvv8jwTsR3XUavCR5oZc?authuser=0&hl=en&rclk=1"
@@ -3435,11 +3407,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gastro+Liver+and+advanced+endoscopy+Center/data=!4m7!3m6!1s0x3bc123ffbe812b6d:0x97a17924bc1a75dd!8m2!3d16.8317824!4d74.6398465!16s%2Fg%2F11srl054kv!19sChIJbSuBvv8jwTsR3XUavCR5oZc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gosavi-ent-hospital-sangli-miraj-kupwad",
@@ -3488,7 +3459,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gosavi+ENT+Hospital/@16.8200578,74.6411531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cadbf445e1:0xcaa7ad9ba55963d5!8m2!3d16.8200578!4d74.6411531!16s%2Fg%2F1tfq32vw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gosavi+ENT+Hospital/@16.8200578,74.6411531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cadbf445e1:0xcaa7ad9ba55963d5!8m2!3d16.8200578!4d74.6411531!16s%2Fg%2F1tfq32vw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3557,8 +3528,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gosavi+ENT+Hospital/@16.8200578,74.6411531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cadbf445e1:0xcaa7ad9ba55963d5!8m2!3d16.8200578!4d74.6411531!16s%2Fg%2F1tfq32vw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "health-chakra-sangli-sangli",
@@ -3604,7 +3574,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Health+Chakra+-+Sangli/@16.8579655,74.5739407,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119b0642a7857:0xe7c8f573cca37a26!8m2!3d16.8579655!4d74.5739407!16s%2Fg%2F11wppq9ztj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Health+Chakra+-+Sangli/@16.8579655,74.5739407,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119b0642a7857:0xe7c8f573cca37a26!8m2!3d16.8579655!4d74.5739407!16s%2Fg%2F11wppq9ztj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3670,11 +3640,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Health+Chakra+-+Sangli/@16.8579655,74.5739407,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119b0642a7857:0xe7c8f573cca37a26!8m2!3d16.8579655!4d74.5739407!16s%2Fg%2F11wppq9ztj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hombalkar-pediatric-and-neonatal-surgical-hospital-sangli-miraj-kupwad",
@@ -3723,7 +3692,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Hombalkar+Pediatric+And+Neonatal+Surgical+Hospital/@16.825363,74.641846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b51e0c7c67:0x4dcfc5c0a9c9b5d0!8m2!3d16.825363!4d74.641846!16s%2Fg%2F11y3_ckt3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hombalkar+Pediatric+And+Neonatal+Surgical+Hospital/@16.825363,74.641846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b51e0c7c67:0x4dcfc5c0a9c9b5d0!8m2!3d16.825363!4d74.641846!16s%2Fg%2F11y3_ckt3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3792,8 +3761,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Hombalkar+Pediatric+And+Neonatal+Surgical+Hospital/@16.825363,74.641846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b51e0c7c67:0x4dcfc5c0a9c9b5d0!8m2!3d16.825363!4d74.641846!16s%2Fg%2F11y3_ckt3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "huddar-dental-clinic-and-implant-centre-sangli-miraj-kupwad",
@@ -3841,7 +3809,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Huddar+Dental+Clinic+And+Implant+Centre/@16.8347999,74.6488272,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123feb2e42633:0x73428195eea132c!8m2!3d16.8347999!4d74.6488272!16s%2Fg%2F11ghtr0hrp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Huddar+Dental+Clinic+And+Implant+Centre/@16.8347999,74.6488272,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123feb2e42633:0x73428195eea132c!8m2!3d16.8347999!4d74.6488272!16s%2Fg%2F11ghtr0hrp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3910,8 +3878,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Huddar+Dental+Clinic+And+Implant+Centre/@16.8347999,74.6488272,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123feb2e42633:0x73428195eea132c!8m2!3d16.8347999!4d74.6488272!16s%2Fg%2F11ghtr0hrp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "implant-centre-miraj",
@@ -3958,7 +3925,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Implant+Centre/data=!4m7!3m6!1s0x3bc123667839f8b3:0x386d4e2c0dcafce7!8m2!3d16.8435101!4d74.6094092!16s%2Fg%2F11j8kjrpqj!19sChIJs_g5eGYjwTsR5_zKDSxObTg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Implant+Centre/data=!4m7!3m6!1s0x3bc123667839f8b3:0x386d4e2c0dcafce7!8m2!3d16.8435101!4d74.6094092!16s%2Fg%2F11j8kjrpqj!19sChIJs_g5eGYjwTsR5_zKDSxObTg?authuser=0&hl=en&rclk=1"
@@ -4024,11 +3991,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Implant+Centre/data=!4m7!3m6!1s0x3bc123667839f8b3:0x386d4e2c0dcafce7!8m2!3d16.8435101!4d74.6094092!16s%2Fg%2F11j8kjrpqj!19sChIJs_g5eGYjwTsR5_zKDSxObTg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jadhav-hospital-miraj",
@@ -4076,7 +4042,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jadhav+Hospital/@16.8325441,74.6421914,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b2ed67fc3b:0x5307429ed434800b!8m2!3d16.8325441!4d74.6421914!16s%2Fg%2F11bwq97rtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jadhav+Hospital/@16.8325441,74.6421914,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b2ed67fc3b:0x5307429ed434800b!8m2!3d16.8325441!4d74.6421914!16s%2Fg%2F11bwq97rtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4145,8 +4111,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jadhav+Hospital/@16.8325441,74.6421914,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b2ed67fc3b:0x5307429ed434800b!8m2!3d16.8325441!4d74.6421914!16s%2Fg%2F11bwq97rtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jadhav-hospital-and-neurology-center-miraj",
@@ -4196,7 +4161,7 @@
       "Google rating 2.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jadhav+Hospital+and+Neurology+Center/@16.8325455,74.6421888,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cc84774859:0x8e90bf6f08f583db!8m2!3d16.8325455!4d74.6421888!16s%2Fg%2F11dyxx4kg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jadhav+Hospital+and+Neurology+Center/@16.8325455,74.6421888,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cc84774859:0x8e90bf6f08f583db!8m2!3d16.8325455!4d74.6421888!16s%2Fg%2F11dyxx4kg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4265,8 +4230,7 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jadhav+Hospital+and+Neurology+Center/@16.8325455,74.6421888,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cc84774859:0x8e90bf6f08f583db!8m2!3d16.8325455!4d74.6421888!16s%2Fg%2F11dyxx4kg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jadhav-neurosurgical-care-centre-ganesh-nagar",
@@ -4315,7 +4279,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jadhav+Neurosurgical+Care+Centre+%E0%A4%9C%E0%A4%BE%E0%A4%A7%E0%A4%B5+%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%B0%E0%A5%8B%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%95%E0%A4%B2+%E0%A4%95%E0%A5%87%E0%A4%85%E0%A4%B0+%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0+-+%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%82+%E0%A4%86%E0%A4%A3%E0%A4%BF+%E0%A4%AE%E0%A4%A3%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A5%87+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5+%E0%A4%89%E0%A4%AA%E0%A4%9A%E0%A4%BE%E0%A4%B0+%E0%A4%86%E0%A4%A3%E0%A4%BF+%E0%A4%91%E0%A4%AA%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8/data=!4m7!3m6!1s0x3bc118663e6a4d1f:0x8f03f9da124b335c!8m2!3d16.851598!4d74.5739428!16s%2Fg%2F1ptxvf3lz!19sChIJH01qPmYYwTsRXDNLEtr5A48?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jadhav+Neurosurgical+Care+Centre+%E0%A4%9C%E0%A4%BE%E0%A4%A7%E0%A4%B5+%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%B0%E0%A5%8B%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%95%E0%A4%B2+%E0%A4%95%E0%A5%87%E0%A4%85%E0%A4%B0+%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0+-+%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%82+%E0%A4%86%E0%A4%A3%E0%A4%BF+%E0%A4%AE%E0%A4%A3%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A5%87+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5+%E0%A4%89%E0%A4%AA%E0%A4%9A%E0%A4%BE%E0%A4%B0+%E0%A4%86%E0%A4%A3%E0%A4%BF+%E0%A4%91%E0%A4%AA%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8/data=!4m7!3m6!1s0x3bc118663e6a4d1f:0x8f03f9da124b335c!8m2!3d16.851598!4d74.5739428!16s%2Fg%2F1ptxvf3lz!19sChIJH01qPmYYwTsRXDNLEtr5A48?authuser=0&hl=en&rclk=1"
@@ -4384,8 +4348,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jadhav+Neurosurgical+Care+Centre+%E0%A4%9C%E0%A4%BE%E0%A4%A7%E0%A4%B5+%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%B0%E0%A5%8B%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%95%E0%A4%B2+%E0%A4%95%E0%A5%87%E0%A4%85%E0%A4%B0+%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0+-+%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%82+%E0%A4%86%E0%A4%A3%E0%A4%BF+%E0%A4%AE%E0%A4%A3%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A5%87+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5+%E0%A4%89%E0%A4%AA%E0%A4%9A%E0%A4%BE%E0%A4%B0+%E0%A4%86%E0%A4%A3%E0%A4%BF+%E0%A4%91%E0%A4%AA%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8/data=!4m7!3m6!1s0x3bc118663e6a4d1f:0x8f03f9da124b335c!8m2!3d16.851598!4d74.5739428!16s%2Fg%2F1ptxvf3lz!19sChIJH01qPmYYwTsRXDNLEtr5A48?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevak-hospital-dr-r-k-shravasti-sangli",
@@ -4433,7 +4396,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevak+Hospital+dr_R.K+Shravasti/data=!4m7!3m6!1s0x3bc11868210dac7d:0x4d7d8f0ecf2fdc48!8m2!3d16.8531687!4d74.5700233!16s%2Fg%2F11dzsxdjth!19sChIJfawNIWgYwTsRSNwvzw6PfU0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevak+Hospital+dr_R.K+Shravasti/data=!4m7!3m6!1s0x3bc11868210dac7d:0x4d7d8f0ecf2fdc48!8m2!3d16.8531687!4d74.5700233!16s%2Fg%2F11dzsxdjth!19sChIJfawNIWgYwTsRSNwvzw6PfU0?authuser=0&hl=en&rclk=1"
@@ -4499,11 +4462,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevak+Hospital+dr_R.K+Shravasti/data=!4m7!3m6!1s0x3bc11868210dac7d:0x4d7d8f0ecf2fdc48!8m2!3d16.8531687!4d74.5700233!16s%2Fg%2F11dzsxdjth!19sChIJfawNIWgYwTsRSNwvzw6PfU0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-medico-sangli",
@@ -4550,7 +4512,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Medico/data=!4m7!3m6!1s0x3bc11905e8269861:0xfec3450eb0f93dbe!8m2!3d16.8494851!4d74.563057!16s%2Fg%2F11vxqsszjr!19sChIJYZgm6AUZwTsRvj35sA5Fw_4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Medico/data=!4m7!3m6!1s0x3bc11905e8269861:0xfec3450eb0f93dbe!8m2!3d16.8494851!4d74.563057!16s%2Fg%2F11vxqsszjr!19sChIJYZgm6AUZwTsRvj35sA5Fw_4?authuser=0&hl=en&rclk=1"
@@ -4616,11 +4578,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Medico/data=!4m7!3m6!1s0x3bc11905e8269861:0xfec3450eb0f93dbe!8m2!3d16.8494851!4d74.563057!16s%2Fg%2F11vxqsszjr!19sChIJYZgm6AUZwTsRvj35sA5Fw_4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevanjyoti-heart-care-centre-sangli-miraj-kupwad",
@@ -4669,7 +4630,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevanjyoti+Heart+Care+Centre/@16.824179,74.6421713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b0ad747487:0xda978411e5418693!8m2!3d16.824179!4d74.6421713!16s%2Fg%2F11g0dv7yw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevanjyoti+Heart+Care+Centre/@16.824179,74.6421713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b0ad747487:0xda978411e5418693!8m2!3d16.824179!4d74.6421713!16s%2Fg%2F11g0dv7yw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4738,8 +4699,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevanjyoti+Heart+Care+Centre/@16.824179,74.6421713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b0ad747487:0xda978411e5418693!8m2!3d16.824179!4d74.6421713!16s%2Fg%2F11g0dv7yw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kabade-surgical-hospital-sangli-miraj-kupwad",
@@ -4788,7 +4748,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KABADE+SURGICAL+HOSPITAL./data=!4m7!3m6!1s0x3bc1185b30a5a959:0xfce76c65b1a95e0!8m2!3d16.8503585!4d74.5619201!16s%2Fg%2F11dymqt4tx!19sChIJWamlMFsYwTsR4JUaW8Z2zg8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KABADE+SURGICAL+HOSPITAL./data=!4m7!3m6!1s0x3bc1185b30a5a959:0xfce76c65b1a95e0!8m2!3d16.8503585!4d74.5619201!16s%2Fg%2F11dymqt4tx!19sChIJWamlMFsYwTsR4JUaW8Z2zg8?authuser=0&hl=en&rclk=1"
@@ -4857,8 +4817,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KABADE+SURGICAL+HOSPITAL./data=!4m7!3m6!1s0x3bc1185b30a5a959:0xfce76c65b1a95e0!8m2!3d16.8503585!4d74.5619201!16s%2Fg%2F11dymqt4tx!19sChIJWamlMFsYwTsR4JUaW8Z2zg8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "khot-hospital-maternity-infertility-and-hystero-laparoscopy-centre-sangli",
@@ -4907,7 +4866,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KHOT+HOSPITAL+:Maternity,+Infertility+and+Hystero+Laparoscopy+Centre/@16.846767,74.5747691,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11866b9f947c3:0x3e161f4acbdcc64e!8m2!3d16.846767!4d74.5747691!16s%2Fg%2F11c75vqxgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KHOT+HOSPITAL+:Maternity,+Infertility+and+Hystero+Laparoscopy+Centre/@16.846767,74.5747691,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11866b9f947c3:0x3e161f4acbdcc64e!8m2!3d16.846767!4d74.5747691!16s%2Fg%2F11c75vqxgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4976,8 +4935,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KHOT+HOSPITAL+:Maternity,+Infertility+and+Hystero+Laparoscopy+Centre/@16.846767,74.5747691,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11866b9f947c3:0x3e161f4acbdcc64e!8m2!3d16.846767!4d74.5747691!16s%2Fg%2F11c75vqxgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kims-uaims-hospital-sangli-sangli",
@@ -5026,7 +4984,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KIMS-UAIMS+Hospital,+Sangli/data=!4m7!3m6!1s0x3bc11891caec8821:0xca895874a87fb681!8m2!3d16.8315085!4d74.5772559!16s%2Fg%2F11sw_trckq!19sChIJIYjsypEYwTsRgbZ_qHRYico?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMS-UAIMS+Hospital,+Sangli/data=!4m7!3m6!1s0x3bc11891caec8821:0xca895874a87fb681!8m2!3d16.8315085!4d74.5772559!16s%2Fg%2F11sw_trckq!19sChIJIYjsypEYwTsRgbZ_qHRYico?authuser=0&hl=en&rclk=1"
@@ -5095,8 +5053,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KIMS-UAIMS+Hospital,+Sangli/data=!4m7!3m6!1s0x3bc11891caec8821:0xca895874a87fb681!8m2!3d16.8315085!4d74.5772559!16s%2Fg%2F11sw_trckq!19sChIJIYjsypEYwTsRgbZ_qHRYico?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kokare-dental-clinic-sangli",
@@ -5144,7 +5101,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kokare+Dental+Clinic+(%E0%A4%95%E0%A5%8B%E0%A4%95%E0%A4%B0%E0%A5%87+%E0%A4%A1%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95)/@16.846017,74.5825485,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187cbcfde463:0x4099f9640cbf6dfc!8m2!3d16.846017!4d74.5825485!16s%2Fg%2F11bt_j53ps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kokare+Dental+Clinic+(%E0%A4%95%E0%A5%8B%E0%A4%95%E0%A4%B0%E0%A5%87+%E0%A4%A1%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95)/@16.846017,74.5825485,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187cbcfde463:0x4099f9640cbf6dfc!8m2!3d16.846017!4d74.5825485!16s%2Fg%2F11bt_j53ps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5210,11 +5167,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kokare+Dental+Clinic+(%E0%A4%95%E0%A5%8B%E0%A4%95%E0%A4%B0%E0%A5%87+%E0%A4%A1%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95)/@16.846017,74.5825485,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187cbcfde463:0x4099f9640cbf6dfc!8m2!3d16.846017!4d74.5825485!16s%2Fg%2F11bt_j53ps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kothari-hospital-sangli",
@@ -5263,7 +5219,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kothari+Hospital/data=!4m7!3m6!1s0x3bc119c446eff553:0xd8ad8d3c9eec10fa!8m2!3d16.8595243!4d74.5713574!16s%2Fg%2F11qnvdjw49!19sChIJU_XvRsQZwTsR-hDsnjyNrdg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kothari+Hospital/data=!4m7!3m6!1s0x3bc119c446eff553:0xd8ad8d3c9eec10fa!8m2!3d16.8595243!4d74.5713574!16s%2Fg%2F11qnvdjw49!19sChIJU_XvRsQZwTsR-hDsnjyNrdg?authuser=0&hl=en&rclk=1"
@@ -5332,8 +5288,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kothari+Hospital/data=!4m7!3m6!1s0x3bc119c446eff553:0xd8ad8d3c9eec10fa!8m2!3d16.8595243!4d74.5713574!16s%2Fg%2F11qnvdjw49!19sChIJU_XvRsQZwTsR-hDsnjyNrdg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kothawale-hospital-sangli-miraj-kupwad",
@@ -5382,7 +5337,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kothawale+Hospital/@16.8279818,74.646247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b6a621f15f:0x91541460351584df!8m2!3d16.8279818!4d74.646247!16s%2Fg%2F11cn3lszxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kothawale+Hospital/@16.8279818,74.646247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b6a621f15f:0x91541460351584df!8m2!3d16.8279818!4d74.646247!16s%2Fg%2F11cn3lszxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5451,8 +5406,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kothawale+Hospital/@16.8279818,74.646247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b6a621f15f:0x91541460351584df!8m2!3d16.8279818!4d74.646247!16s%2Fg%2F11cn3lszxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kranti-clinic-sangli",
@@ -5500,7 +5454,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kranti+Clinic/@16.8531251,74.5665623,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118431c671c1d:0x7fc19ee0b748491b!8m2!3d16.8531251!4d74.5665623!16s%2Fg%2F1hjgk7y3b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kranti+Clinic/@16.8531251,74.5665623,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118431c671c1d:0x7fc19ee0b748491b!8m2!3d16.8531251!4d74.5665623!16s%2Fg%2F1hjgk7y3b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5569,8 +5523,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kranti+Clinic/@16.8531251,74.5665623,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118431c671c1d:0x7fc19ee0b748491b!8m2!3d16.8531251!4d74.5665623!16s%2Fg%2F1hjgk7y3b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-maternity-and-surgical-hospital-sangli-sangli",
@@ -5618,7 +5571,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+maternity+and+surgical+hospital+Sangli./@16.8495869,74.5663778,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1185ce740e701:0x1160bca7f4c6da37!8m2!3d16.8495869!4d74.5663778!16s%2Fg%2F11fz9jyr07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+maternity+and+surgical+hospital+Sangli./@16.8495869,74.5663778,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1185ce740e701:0x1160bca7f4c6da37!8m2!3d16.8495869!4d74.5663778!16s%2Fg%2F11fz9jyr07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5687,8 +5640,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+maternity+and+surgical+hospital+Sangli./@16.8495869,74.5663778,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1185ce740e701:0x1160bca7f4c6da37!8m2!3d16.8495869!4d74.5663778!16s%2Fg%2F11fz9jyr07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kudche-accident-and-arthopedic-hospital-miraj-sangli-miraj-kupwad",
@@ -5736,7 +5688,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kudche+accident+and+arthopedic+hospital+miraj/data=!4m7!3m6!1s0x3bc1233dccad01a1:0xb3e6a137d357f3be!8m2!3d16.8180331!4d74.6421925!16s%2Fg%2F11h0g_kzys!19sChIJoQGtzD0jwTsRvvNX0zeh5rM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kudche+accident+and+arthopedic+hospital+miraj/data=!4m7!3m6!1s0x3bc1233dccad01a1:0xb3e6a137d357f3be!8m2!3d16.8180331!4d74.6421925!16s%2Fg%2F11h0g_kzys!19sChIJoQGtzD0jwTsRvvNX0zeh5rM?authuser=0&hl=en&rclk=1"
@@ -5802,11 +5754,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kudche+accident+and+arthopedic+hospital+miraj/data=!4m7!3m6!1s0x3bc1233dccad01a1:0xb3e6a137d357f3be!8m2!3d16.8180331!4d74.6421925!16s%2Fg%2F11h0g_kzys!19sChIJoQGtzD0jwTsRvvNX0zeh5rM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kullolli-hospital-sangli",
@@ -5855,7 +5806,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/KULLOLLI+HOSPITAL/data=!4m7!3m6!1s0x3bc1234f16e953cf:0x7c0a07f08150d38f!8m2!3d16.8511292!4d74.5974425!16s%2Fg%2F11rxhtvy1_!19sChIJz1PpFk8jwTsRj9NQgfAHCnw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KULLOLLI+HOSPITAL/data=!4m7!3m6!1s0x3bc1234f16e953cf:0x7c0a07f08150d38f!8m2!3d16.8511292!4d74.5974425!16s%2Fg%2F11rxhtvy1_!19sChIJz1PpFk8jwTsRj9NQgfAHCnw?authuser=0&hl=en&rclk=1"
@@ -5924,8 +5875,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/KULLOLLI+HOSPITAL/data=!4m7!3m6!1s0x3bc1234f16e953cf:0x7c0a07f08150d38f!8m2!3d16.8511292!4d74.5974425!16s%2Fg%2F11rxhtvy1_!19sChIJz1PpFk8jwTsRj9NQgfAHCnw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kullolli-institute-of-health-services-sangli",
@@ -5974,7 +5924,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kullolli+Institute+of+Health+Services/data=!4m7!3m6!1s0x3bc123592d81f72f:0x9e6bcab8173ef430!8m2!3d16.8503102!4d74.597851!16s%2Fg%2F11r8y72z0!19sChIJL_eBLVkjwTsRMPQ-F7jKa54?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kullolli+Institute+of+Health+Services/data=!4m7!3m6!1s0x3bc123592d81f72f:0x9e6bcab8173ef430!8m2!3d16.8503102!4d74.597851!16s%2Fg%2F11r8y72z0!19sChIJL_eBLVkjwTsRMPQ-F7jKa54?authuser=0&hl=en&rclk=1"
@@ -6043,8 +5993,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kullolli+Institute+of+Health+Services/data=!4m7!3m6!1s0x3bc123592d81f72f:0x9e6bcab8173ef430!8m2!3d16.8503102!4d74.597851!16s%2Fg%2F11r8y72z0!19sChIJL_eBLVkjwTsRMPQ-F7jKa54?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "life-care-hospital-sangli",
@@ -6093,7 +6042,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Life+Care+Hospital/data=!4m7!3m6!1s0x3bc1185b16cb92d1:0x8251f78942ad7f67!8m2!3d16.8491339!4d74.562281!16s%2Fg%2F11f3w98d3y!19sChIJ0ZLLFlsYwTsRZ3-tQon3UYI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Care+Hospital/data=!4m7!3m6!1s0x3bc1185b16cb92d1:0x8251f78942ad7f67!8m2!3d16.8491339!4d74.562281!16s%2Fg%2F11f3w98d3y!19sChIJ0ZLLFlsYwTsRZ3-tQon3UYI?authuser=0&hl=en&rclk=1"
@@ -6162,8 +6111,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Life+Care+Hospital/data=!4m7!3m6!1s0x3bc1185b16cb92d1:0x8251f78942ad7f67!8m2!3d16.8491339!4d74.562281!16s%2Fg%2F11f3w98d3y!19sChIJ0ZLLFlsYwTsRZ3-tQon3UYI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maa-hospital-sangli-miraj-kupwad",
@@ -6211,7 +6159,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maa+Hospital/@16.8251031,74.6449971,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b5cfa88cc1:0x8466611545e432b1!8m2!3d16.8251031!4d74.6449971!16s%2Fg%2F11dz55_g7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Hospital/@16.8251031,74.6449971,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b5cfa88cc1:0x8466611545e432b1!8m2!3d16.8251031!4d74.6449971!16s%2Fg%2F11dz55_g7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6280,8 +6228,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maa+Hospital/@16.8251031,74.6449971,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b5cfa88cc1:0x8466611545e432b1!8m2!3d16.8251031!4d74.6449971!16s%2Fg%2F11dz55_g7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-and-panchakarma-center-s-t-stand-road-sangli-sangli",
@@ -6331,7 +6278,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+%28S.T.+Stand+Road,+Sangli%29/data=!4m7!3m6!1s0x3bc118446ef41583:0x2e39cf733ed2f80c!8m2!3d16.8531887!4d74.5683795!16s%2Fg%2F11c1ghg6qf!19sChIJgxX0bkQYwTsRDPjSPnPPOS4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+%28S.T.+Stand+Road,+Sangli%29/data=!4m7!3m6!1s0x3bc118446ef41583:0x2e39cf733ed2f80c!8m2!3d16.8531887!4d74.5683795!16s%2Fg%2F11c1ghg6qf!19sChIJgxX0bkQYwTsRDPjSPnPPOS4?authuser=0&hl=en&rclk=1"
@@ -6400,8 +6347,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+%28S.T.+Stand+Road,+Sangli%29/data=!4m7!3m6!1s0x3bc118446ef41583:0x2e39cf733ed2f80c!8m2!3d16.8531887!4d74.5683795!16s%2Fg%2F11c1ghg6qf!19sChIJgxX0bkQYwTsRDPjSPnPPOS4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-vishram-baug-sangli-sangli",
@@ -6451,7 +6397,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%28Vishram+Baug,+Sangli%29/data=!4m7!3m6!1s0x3bc1187a67b7d293:0x96a0789cbc450c25!8m2!3d16.8538454!4d74.5801764!16s%2Fg%2F11gd_z6x0f!19sChIJk9K3Z3oYwTsRJQxFvJx4oJY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%28Vishram+Baug,+Sangli%29/data=!4m7!3m6!1s0x3bc1187a67b7d293:0x96a0789cbc450c25!8m2!3d16.8538454!4d74.5801764!16s%2Fg%2F11gd_z6x0f!19sChIJk9K3Z3oYwTsRJQxFvJx4oJY?authuser=0&hl=en&rclk=1"
@@ -6520,8 +6466,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%28Vishram+Baug,+Sangli%29/data=!4m7!3m6!1s0x3bc1187a67b7d293:0x96a0789cbc450c25!8m2!3d16.8538454!4d74.5801764!16s%2Fg%2F11gd_z6x0f!19sChIJk9K3Z3oYwTsRJQxFvJx4oJY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mahatma-gandhi-cancer-hospital-sangli-miraj-kupwad",
@@ -6571,7 +6516,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mahatma+Gandhi+Cancer+Hospital/@16.8291064,74.6392713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224cba0fff97:0x296cd8b98f351e93!8m2!3d16.8291064!4d74.6392713!16s%2Fg%2F11c753_yx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahatma+Gandhi+Cancer+Hospital/@16.8291064,74.6392713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224cba0fff97:0x296cd8b98f351e93!8m2!3d16.8291064!4d74.6392713!16s%2Fg%2F11c753_yx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6640,8 +6585,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mahatma+Gandhi+Cancer+Hospital/@16.8291064,74.6392713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224cba0fff97:0x296cd8b98f351e93!8m2!3d16.8291064!4d74.6392713!16s%2Fg%2F11c753_yx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mane-neurology-and-spine-center-sangli-miraj-kupwad",
@@ -6691,7 +6635,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mane+Neurology+%26+Spine+Center/@16.8544863,74.5759151,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1194d25cc0f2b:0xa95fad35a34ee5a5!8m2!3d16.8544863!4d74.5759151!16s%2Fg%2F11qr0yxnzk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mane+Neurology+%26+Spine+Center/@16.8544863,74.5759151,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1194d25cc0f2b:0xa95fad35a34ee5a5!8m2!3d16.8544863!4d74.5759151!16s%2Fg%2F11qr0yxnzk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6760,8 +6704,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mane+Neurology+%26+Spine+Center/@16.8544863,74.5759151,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1194d25cc0f2b:0xa95fad35a34ee5a5!8m2!3d16.8544863!4d74.5759151!16s%2Fg%2F11qr0yxnzk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "manushree-dental-clinic-sangli",
@@ -6810,7 +6753,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Manushree+Dental+Clinic/@16.8589034,74.5713684,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186a407cfe27:0xc151ac39b5c23ded!8m2!3d16.8589034!4d74.5713684!16s%2Fg%2F11l6tm7yjm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manushree+Dental+Clinic/@16.8589034,74.5713684,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186a407cfe27:0xc151ac39b5c23ded!8m2!3d16.8589034!4d74.5713684!16s%2Fg%2F11l6tm7yjm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6876,11 +6819,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Manushree+Dental+Clinic/@16.8589034,74.5713684,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186a407cfe27:0xc151ac39b5c23ded!8m2!3d16.8589034!4d74.5713684!16s%2Fg%2F11l6tm7yjm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "million-smiles-dental-clinic-sangli-sangli",
@@ -6928,7 +6870,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Million+Smiles+Dental+Clinic,Sangli./@16.8561079,74.5737794,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119befa341857:0x45621fdfe68c2e69!8m2!3d16.8561079!4d74.5737794!16s%2Fg%2F11shs_6tvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Million+Smiles+Dental+Clinic,Sangli./@16.8561079,74.5737794,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119befa341857:0x45621fdfe68c2e69!8m2!3d16.8561079!4d74.5737794!16s%2Fg%2F11shs_6tvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6994,11 +6936,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Million+Smiles+Dental+Clinic,Sangli./@16.8561079,74.5737794,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119befa341857:0x45621fdfe68c2e69!8m2!3d16.8561079!4d74.5737794!16s%2Fg%2F11shs_6tvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mulla-surgical-hospital-sangli-miraj-kupwad",
@@ -7046,7 +6987,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mulla+Surgical+Hospital/data=!4m7!3m6!1s0x3bc1196d60073d7f:0x411cd90aed28de1f!8m2!3d16.8499364!4d74.5821789!16s%2Fg%2F11lh6dd93m!19sChIJfz0HYG0ZwTsRH94o7QrZHEE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mulla+Surgical+Hospital/data=!4m7!3m6!1s0x3bc1196d60073d7f:0x411cd90aed28de1f!8m2!3d16.8499364!4d74.5821789!16s%2Fg%2F11lh6dd93m!19sChIJfz0HYG0ZwTsRH94o7QrZHEE?authuser=0&hl=en&rclk=1"
@@ -7115,8 +7056,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mulla+Surgical+Hospital/data=!4m7!3m6!1s0x3bc1196d60073d7f:0x411cd90aed28de1f!8m2!3d16.8499364!4d74.5821789!16s%2Fg%2F11lh6dd93m!19sChIJfz0HYG0ZwTsRH94o7QrZHEE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "naik-hospital-sangli-miraj-kupwad",
@@ -7165,7 +7105,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Naik+Hospital/data=!4m7!3m6!1s0x3bc11868636af94b:0x658b24173940b7d2!8m2!3d16.8523322!4d74.5721754!16s%2Fg%2F11b5wjv4s4!19sChIJS_lqY2gYwTsR0rdAORcki2U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naik+Hospital/data=!4m7!3m6!1s0x3bc11868636af94b:0x658b24173940b7d2!8m2!3d16.8523322!4d74.5721754!16s%2Fg%2F11b5wjv4s4!19sChIJS_lqY2gYwTsR0rdAORcki2U?authuser=0&hl=en&rclk=1"
@@ -7234,8 +7174,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Naik+Hospital/data=!4m7!3m6!1s0x3bc11868636af94b:0x658b24173940b7d2!8m2!3d16.8523322!4d74.5721754!16s%2Fg%2F11b5wjv4s4!19sChIJS_lqY2gYwTsR0rdAORcki2U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nandadeep-eye-hospital-sangli-vyankatesh-nagar",
@@ -7285,7 +7224,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nandadeep+Eye+Hospital+SANGLI/@16.8654331,74.5764317,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118136e840739:0xe1024bb9b1b16b1d!8m2!3d16.8654331!4d74.5764317!16s%2Fg%2F1tx8rn69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nandadeep+Eye+Hospital+SANGLI/@16.8654331,74.5764317,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118136e840739:0xe1024bb9b1b16b1d!8m2!3d16.8654331!4d74.5764317!16s%2Fg%2F1tx8rn69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7354,8 +7293,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nandadeep+Eye+Hospital+SANGLI/@16.8654331,74.5764317,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118136e840739:0xe1024bb9b1b16b1d!8m2!3d16.8654331!4d74.5764317!16s%2Fg%2F1tx8rn69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nanjannawar-dental-clinic-sangli",
@@ -7403,7 +7341,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NANJANNAWAR+DENTAL+CLINIC/@16.8486617,74.5925576,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1198a96de4f73:0xcb4c5aff6b2bf1e3!8m2!3d16.8486617!4d74.5925576!16s%2Fg%2F11r_pdyv9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NANJANNAWAR+DENTAL+CLINIC/@16.8486617,74.5925576,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1198a96de4f73:0xcb4c5aff6b2bf1e3!8m2!3d16.8486617!4d74.5925576!16s%2Fg%2F11r_pdyv9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7472,8 +7410,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NANJANNAWAR+DENTAL+CLINIC/@16.8486617,74.5925576,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1198a96de4f73:0xcb4c5aff6b2bf1e3!8m2!3d16.8486617!4d74.5925576!16s%2Fg%2F11r_pdyv9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "neutron-hospital-and-research-center-sangli-miraj-kupwad",
@@ -7521,7 +7458,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Neutron+Hospital+%26+Research+Center./@16.8749203,74.5986516,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123693cf4fb9b:0xc97695de67f81025!8m2!3d16.8749203!4d74.5986516!16s%2Fg%2F11tp9z8src?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neutron+Hospital+%26+Research+Center./@16.8749203,74.5986516,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123693cf4fb9b:0xc97695de67f81025!8m2!3d16.8749203!4d74.5986516!16s%2Fg%2F11tp9z8src?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7590,8 +7527,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Neutron+Hospital+%26+Research+Center./@16.8749203,74.5986516,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123693cf4fb9b:0xc97695de67f81025!8m2!3d16.8749203!4d74.5986516!16s%2Fg%2F11tp9z8src?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirmal-hospital-de-addiction-and-rehab-centre-miraj-sangli-miraj-kupwad",
@@ -7640,7 +7576,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nirmal+Hospital+,+De-Addiction+%26+Rehab+Centre,+Miraj./@16.8219016,74.6409031,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cabb536009:0x8f6b552243991b71!8m2!3d16.8219016!4d74.6409031!16s%2Fg%2F1ptw5ptcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirmal+Hospital+,+De-Addiction+%26+Rehab+Centre,+Miraj./@16.8219016,74.6409031,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cabb536009:0x8f6b552243991b71!8m2!3d16.8219016!4d74.6409031!16s%2Fg%2F1ptw5ptcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7709,8 +7645,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nirmal+Hospital+,+De-Addiction+%26+Rehab+Centre,+Miraj./@16.8219016,74.6409031,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cabb536009:0x8f6b552243991b71!8m2!3d16.8219016!4d74.6409031!16s%2Fg%2F1ptw5ptcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirmiti-plastic-cosmetic-and-laser-surgery-center-best-hair-transplant-centre-in-kolhapur-kolhapur",
@@ -7759,7 +7694,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nirmiti+Plastic+Cosmetic+%26+Laser+Surgery+Center+-+Best+Hair+Transplant+Centre+in+Kolhapur/@16.7080332,74.2287047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101b8b799928f:0xac13b8e3d915e9f4!8m2!3d16.7080332!4d74.2287047!16s%2Fg%2F11qqgy8ydz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirmiti+Plastic+Cosmetic+%26+Laser+Surgery+Center+-+Best+Hair+Transplant+Centre+in+Kolhapur/@16.7080332,74.2287047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101b8b799928f:0xac13b8e3d915e9f4!8m2!3d16.7080332!4d74.2287047!16s%2Fg%2F11qqgy8ydz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7825,11 +7760,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nirmiti+Plastic+Cosmetic+%26+Laser+Surgery+Center+-+Best+Hair+Transplant+Centre+in+Kolhapur/@16.7080332,74.2287047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc101b8b799928f:0xac13b8e3d915e9f4!8m2!3d16.7080332!4d74.2287047!16s%2Fg%2F11qqgy8ydz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nirmiti-plastic-cosmetic-centre-sangli",
@@ -7878,7 +7812,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nirmiti+Plastic+Cosmetic+Centre/data=!4m7!3m6!1s0x3bc1187c601d0fc9:0xb6a453a3d98b6773!8m2!3d16.8455722!4d74.5844674!16s%2Fg%2F11clgcwtk5!19sChIJyQ8dYHwYwTsRc2eL2aNTpLY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirmiti+Plastic+Cosmetic+Centre/data=!4m7!3m6!1s0x3bc1187c601d0fc9:0xb6a453a3d98b6773!8m2!3d16.8455722!4d74.5844674!16s%2Fg%2F11clgcwtk5!19sChIJyQ8dYHwYwTsRc2eL2aNTpLY?authuser=0&hl=en&rclk=1"
@@ -7947,8 +7881,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nirmiti+Plastic+Cosmetic+Centre/data=!4m7!3m6!1s0x3bc1187c601d0fc9:0xb6a453a3d98b6773!8m2!3d16.8455722!4d74.5844674!16s%2Fg%2F11clgcwtk5!19sChIJyQ8dYHwYwTsRc2eL2aNTpLY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nitave-hospital-sangli",
@@ -7996,7 +7929,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Nitave+Hospital/@16.8483681,74.5953008,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc122822f0933bd:0x18be53e140c930fd!8m2!3d16.8483681!4d74.5953008!16s%2Fg%2F1v2dzz4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nitave+Hospital/@16.8483681,74.5953008,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc122822f0933bd:0x18be53e140c930fd!8m2!3d16.8483681!4d74.5953008!16s%2Fg%2F1v2dzz4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8065,8 +7998,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Nitave+Hospital/@16.8483681,74.5953008,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc122822f0933bd:0x18be53e140c930fd!8m2!3d16.8483681!4d74.5953008!16s%2Fg%2F1v2dzz4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "omkar-siddhi-dental-and-maxillofacial-surgery-centre-sangli",
@@ -8116,7 +8048,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Omkar+Siddhi+Dental+%26+Maxillofacial+Surgery+Centre/@16.8466711,74.597906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1232749ce52a3:0xd08e4a98563403f8!8m2!3d16.8466711!4d74.597906!16s%2Fg%2F11rd29103w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Omkar+Siddhi+Dental+%26+Maxillofacial+Surgery+Centre/@16.8466711,74.597906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1232749ce52a3:0xd08e4a98563403f8!8m2!3d16.8466711!4d74.597906!16s%2Fg%2F11rd29103w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8185,8 +8117,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Omkar+Siddhi+Dental+%26+Maxillofacial+Surgery+Centre/@16.8466711,74.597906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1232749ce52a3:0xd08e4a98563403f8!8m2!3d16.8466711!4d74.597906!16s%2Fg%2F11rd29103w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "orrchid-the-fertility-clinic-hospital-miraj-sangli-sangli-miraj-kupwad",
@@ -8235,7 +8166,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Orrchid+the+fertility+clinic+(hospital)+Miraj-Sangli/@16.8448604,74.5981193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1239d48d4f1c1:0xe907d2023e49203a!8m2!3d16.8448604!4d74.5981193!16s%2Fg%2F11j8hg1t60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orrchid+the+fertility+clinic+(hospital)+Miraj-Sangli/@16.8448604,74.5981193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1239d48d4f1c1:0xe907d2023e49203a!8m2!3d16.8448604!4d74.5981193!16s%2Fg%2F11j8hg1t60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8304,8 +8235,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Orrchid+the+fertility+clinic+(hospital)+Miraj-Sangli/@16.8448604,74.5981193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1239d48d4f1c1:0xe907d2023e49203a!8m2!3d16.8448604!4d74.5981193!16s%2Fg%2F11j8hg1t60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pathak-hospital-miraj-sangli-miraj-kupwad",
@@ -8354,7 +8284,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pathak+Hospital+Miraj/@16.824317,74.6510488,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b7ee036df1:0xbdefa56e13506f0c!8m2!3d16.824317!4d74.6510488!16s%2Fg%2F11g8z0b5wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pathak+Hospital+Miraj/@16.824317,74.6510488,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b7ee036df1:0xbdefa56e13506f0c!8m2!3d16.824317!4d74.6510488!16s%2Fg%2F11g8z0b5wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8423,8 +8353,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pathak+Hospital+Miraj/@16.824317,74.6510488,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b7ee036df1:0xbdefa56e13506f0c!8m2!3d16.824317!4d74.6510488!16s%2Fg%2F11g8z0b5wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patil-clinic-sangli-miraj-kupwad",
@@ -8470,7 +8399,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patil+Clinic/data=!4m7!3m6!1s0x3bc12300291da5d1:0x69a0a57759c9687d!8m2!3d16.8720376!4d74.6027087!16s%2Fg%2F11w4dk3x5z!19sChIJ0aUdKQAjwTsRfWjJWXeloGk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patil+Clinic/data=!4m7!3m6!1s0x3bc12300291da5d1:0x69a0a57759c9687d!8m2!3d16.8720376!4d74.6027087!16s%2Fg%2F11w4dk3x5z!19sChIJ0aUdKQAjwTsRfWjJWXeloGk?authuser=0&hl=en&rclk=1"
@@ -8536,11 +8465,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patil+Clinic/data=!4m7!3m6!1s0x3bc12300291da5d1:0x69a0a57759c9687d!8m2!3d16.8720376!4d74.6027087!16s%2Fg%2F11w4dk3x5z!19sChIJ0aUdKQAjwTsRfWjJWXeloGk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patil-hospital-sangli",
@@ -8588,7 +8516,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patil+Hospital/data=!4m7!3m6!1s0x3bc1185e50ee1bd3:0x7a4c0053311a150e!8m2!3d16.8432731!4d74.5673332!16s%2Fg%2F11hctr2b27!19sChIJ0xvuUF4YwTsRDhUaMVMATHo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patil+Hospital/data=!4m7!3m6!1s0x3bc1185e50ee1bd3:0x7a4c0053311a150e!8m2!3d16.8432731!4d74.5673332!16s%2Fg%2F11hctr2b27!19sChIJ0xvuUF4YwTsRDhUaMVMATHo?authuser=0&hl=en&rclk=1"
@@ -8654,11 +8582,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patil+Hospital/data=!4m7!3m6!1s0x3bc1185e50ee1bd3:0x7a4c0053311a150e!8m2!3d16.8432731!4d74.5673332!16s%2Fg%2F11hctr2b27!19sChIJ0xvuUF4YwTsRDhUaMVMATHo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "patil-hospital-sangli",
@@ -8707,7 +8634,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Patil+Hospital/data=!4m7!3m6!1s0x3bc1224e1d6c2655:0xdffbbd2272b46c57!8m2!3d16.85438!4d74.564171!16s%2Fg%2F1vxw6ql3!19sChIJVSZsHU4iwTsRV2y0ciK9-98?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patil+Hospital/data=!4m7!3m6!1s0x3bc1224e1d6c2655:0xdffbbd2272b46c57!8m2!3d16.85438!4d74.564171!16s%2Fg%2F1vxw6ql3!19sChIJVSZsHU4iwTsRV2y0ciK9-98?authuser=0&hl=en&rclk=1"
@@ -8773,11 +8700,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Patil+Hospital/data=!4m7!3m6!1s0x3bc1224e1d6c2655:0xdffbbd2272b46c57!8m2!3d16.85438!4d74.564171!16s%2Fg%2F1vxw6ql3!19sChIJVSZsHU4iwTsRV2y0ciK9-98?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pattanshetti-dental-and-maxillofacial-hospital-sangli-miraj-kupwad",
@@ -8826,7 +8752,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pattanshetti+Dental+and+Maxillofacial+Hospital/@16.85105,74.5739933,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11868e1752105:0xfee35d911b6e734c!8m2!3d16.85105!4d74.5739933!16s%2Fg%2F11bwy_4lpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pattanshetti+Dental+and+Maxillofacial+Hospital/@16.85105,74.5739933,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11868e1752105:0xfee35d911b6e734c!8m2!3d16.85105!4d74.5739933!16s%2Fg%2F11bwy_4lpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8892,11 +8818,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pattanshetti+Dental+and+Maxillofacial+Hospital/@16.85105,74.5739933,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11868e1752105:0xfee35d911b6e734c!8m2!3d16.85105!4d74.5739933!16s%2Fg%2F11bwy_4lpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "platina-medical-and-dental-clinic-sangli",
@@ -8944,7 +8869,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PLATINA+MEDICAL+AND+DENTAL+CLINIC/@16.8594042,74.5977892,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119e7be364ded:0xfadcfe3c390548d7!8m2!3d16.8594042!4d74.5977892!16s%2Fg%2F11wfy55rq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PLATINA+MEDICAL+AND+DENTAL+CLINIC/@16.8594042,74.5977892,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119e7be364ded:0xfadcfe3c390548d7!8m2!3d16.8594042!4d74.5977892!16s%2Fg%2F11wfy55rq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9013,8 +8938,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PLATINA+MEDICAL+AND+DENTAL+CLINIC/@16.8594042,74.5977892,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119e7be364ded:0xfadcfe3c390548d7!8m2!3d16.8594042!4d74.5977892!16s%2Fg%2F11wfy55rq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prajakta-hospital-sangli",
@@ -9062,7 +8986,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prajakta+Hospital/@16.8538322,74.578846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fa1149e3d:0x561c38c6a94157b4!8m2!3d16.8538322!4d74.578846!16s%2Fg%2F1tslh53c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prajakta+Hospital/@16.8538322,74.578846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fa1149e3d:0x561c38c6a94157b4!8m2!3d16.8538322!4d74.578846!16s%2Fg%2F1tslh53c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9128,11 +9052,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prajakta+Hospital/@16.8538322,74.578846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fa1149e3d:0x561c38c6a94157b4!8m2!3d16.8538322!4d74.578846!16s%2Fg%2F1tslh53c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prajakta-maternity-and-surgical-hospital-sangli-miraj-kupwad",
@@ -9181,7 +9104,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prajakta+Maternity+%26+Surgical+Hospital/@16.8538233,74.5786349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119e02d0aa70f:0x74eeaa65062100a6!8m2!3d16.8538233!4d74.5786349!16s%2Fg%2F11rhqp6lgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prajakta+Maternity+%26+Surgical+Hospital/@16.8538233,74.5786349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119e02d0aa70f:0x74eeaa65062100a6!8m2!3d16.8538233!4d74.5786349!16s%2Fg%2F11rhqp6lgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9250,8 +9173,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prajakta+Maternity+%26+Surgical+Hospital/@16.8538233,74.5786349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119e02d0aa70f:0x74eeaa65062100a6!8m2!3d16.8538233!4d74.5786349!16s%2Fg%2F11rhqp6lgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pratibha-digestive-and-endoscopy-centre-sangli",
@@ -9302,7 +9224,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pratibha+Digestive+%26+Endoscopy+Centre/data=!4m7!3m6!1s0x3bc11868ee301751:0xce9f7d7e0f63c1d1!8m2!3d16.8538172!4d74.5734153!16s%2Fg%2F11c2pjhbf3!19sChIJURcw7mgYwTsR0cFjD359n84?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pratibha+Digestive+%26+Endoscopy+Centre/data=!4m7!3m6!1s0x3bc11868ee301751:0xce9f7d7e0f63c1d1!8m2!3d16.8538172!4d74.5734153!16s%2Fg%2F11c2pjhbf3!19sChIJURcw7mgYwTsR0cFjD359n84?authuser=0&hl=en&rclk=1"
@@ -9368,11 +9290,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pratibha+Digestive+%26+Endoscopy+Centre/data=!4m7!3m6!1s0x3bc11868ee301751:0xce9f7d7e0f63c1d1!8m2!3d16.8538172!4d74.5734153!16s%2Fg%2F11c2pjhbf3!19sChIJURcw7mgYwTsR0cFjD359n84?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pratibha-institute-of-gastroenterology-sangli",
@@ -9422,7 +9343,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pratibha+Institute+of+Gastroenterology/data=!4m7!3m6!1s0x3bc11868efcf5913:0x383c645a7324048b!8m2!3d16.8538022!4d74.5734878!16s%2Fg%2F11c5bqcd3_!19sChIJE1nP72gYwTsRiwQkc1pkPDg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pratibha+Institute+of+Gastroenterology/data=!4m7!3m6!1s0x3bc11868efcf5913:0x383c645a7324048b!8m2!3d16.8538022!4d74.5734878!16s%2Fg%2F11c5bqcd3_!19sChIJE1nP72gYwTsRiwQkc1pkPDg?authuser=0&hl=en&rclk=1"
@@ -9491,8 +9412,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pratibha+Institute+of+Gastroenterology/data=!4m7!3m6!1s0x3bc11868efcf5913:0x383c645a7324048b!8m2!3d16.8538022!4d74.5734878!16s%2Fg%2F11c5bqcd3_!19sChIJE1nP72gYwTsRiwQkc1pkPDg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "presize-clinic-for-robotic-surgery-weight-loss-bariatric-surgery-hernia-gallstones-laparoscopic-surgery-g-i-disorders-indira-nagar",
@@ -9541,7 +9461,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Presize+Clinic+For+Robotic+Surgery,+Weight+Loss,+Bariatric+Surgery,+Hernia,+Gallstones,+Laparoscopic+Surgery+,G.I+Disorders/data=!4m7!3m6!1s0x3bc11866ed754d87:0x2ba9e8891d13904b!8m2!3d16.8480835!4d74.5741005!16s%2Fg%2F11b63g4hrw!19sChIJh0117WYYwTsRS5ATHYnoqSs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Presize+Clinic+For+Robotic+Surgery,+Weight+Loss,+Bariatric+Surgery,+Hernia,+Gallstones,+Laparoscopic+Surgery+,G.I+Disorders/data=!4m7!3m6!1s0x3bc11866ed754d87:0x2ba9e8891d13904b!8m2!3d16.8480835!4d74.5741005!16s%2Fg%2F11b63g4hrw!19sChIJh0117WYYwTsRS5ATHYnoqSs?authuser=0&hl=en&rclk=1"
@@ -9607,11 +9527,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Presize+Clinic+For+Robotic+Surgery,+Weight+Loss,+Bariatric+Surgery,+Hernia,+Gallstones,+Laparoscopic+Surgery+,G.I+Disorders/data=!4m7!3m6!1s0x3bc11866ed754d87:0x2ba9e8891d13904b!8m2!3d16.8480835!4d74.5741005!16s%2Fg%2F11b63g4hrw!19sChIJh0117WYYwTsRS5ATHYnoqSs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "radhagovind-hospital-sangli-miraj-kupwad",
@@ -9659,7 +9578,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Radhagovind+Hospital/@16.8436968,74.5585892,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11859e7a4c7b1:0xa1ba23b50a57fcb2!8m2!3d16.8436968!4d74.5585892!16s%2Fg%2F11c1tt6tjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radhagovind+Hospital/@16.8436968,74.5585892,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11859e7a4c7b1:0xa1ba23b50a57fcb2!8m2!3d16.8436968!4d74.5585892!16s%2Fg%2F11c1tt6tjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9728,8 +9647,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Radhagovind+Hospital/@16.8436968,74.5585892,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11859e7a4c7b1:0xa1ba23b50a57fcb2!8m2!3d16.8436968!4d74.5585892!16s%2Fg%2F11c1tt6tjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rahman-foundation-nomani-hospital-sangli",
@@ -9777,7 +9695,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rahman+Foundation+Nomani+Hospital/@16.8533821,74.5739154,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119b0d32d18c7:0xb231f92191d7725b!8m2!3d16.8533821!4d74.5739154!16s%2Fg%2F11k9t3b1v2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rahman+Foundation+Nomani+Hospital/@16.8533821,74.5739154,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119b0d32d18c7:0xb231f92191d7725b!8m2!3d16.8533821!4d74.5739154!16s%2Fg%2F11k9t3b1v2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9846,8 +9764,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rahman+Foundation+Nomani+Hospital/@16.8533821,74.5739154,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119b0d32d18c7:0xb231f92191d7725b!8m2!3d16.8533821!4d74.5739154!16s%2Fg%2F11k9t3b1v2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "reinvent-skin-and-hair-clinic-sangli",
@@ -9896,7 +9813,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Reinvent+Skin+%26+Hair+Clinic/data=!4m7!3m6!1s0x3bc123ce4b2cc501:0xc23834a48fb361dc!8m2!3d16.8424891!4d74.6108085!16s%2Fg%2F11t9t4rnct!19sChIJAcUsS84jwTsR3GGzj6Q0OMI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Reinvent+Skin+%26+Hair+Clinic/data=!4m7!3m6!1s0x3bc123ce4b2cc501:0xc23834a48fb361dc!8m2!3d16.8424891!4d74.6108085!16s%2Fg%2F11t9t4rnct!19sChIJAcUsS84jwTsR3GGzj6Q0OMI?authuser=0&hl=en&rclk=1"
@@ -9965,8 +9882,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Reinvent+Skin+%26+Hair+Clinic/data=!4m7!3m6!1s0x3bc123ce4b2cc501:0xc23834a48fb361dc!8m2!3d16.8424891!4d74.6108085!16s%2Fg%2F11t9t4rnct!19sChIJAcUsS84jwTsR3GGzj6Q0OMI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "roy-clinic-sangli-expert-care-for-plies-fissure-fistula-sangli",
@@ -10014,7 +9930,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Roy+Clinic+Sangli:+Expert+care+for+Plies,+Fissure,+Fistula+!/@16.8557091,74.5689934,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1193ea7c71af5:0x7e9fe31b711becef!8m2!3d16.8557091!4d74.5689934!16s%2Fg%2F11lhtmb6w6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Roy+Clinic+Sangli:+Expert+care+for+Plies,+Fissure,+Fistula+!/@16.8557091,74.5689934,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1193ea7c71af5:0x7e9fe31b711becef!8m2!3d16.8557091!4d74.5689934!16s%2Fg%2F11lhtmb6w6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10080,11 +9996,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Roy+Clinic+Sangli:+Expert+care+for+Plies,+Fissure,+Fistula+!/@16.8557091,74.5689934,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1193ea7c71af5:0x7e9fe31b711becef!8m2!3d16.8557091!4d74.5689934!16s%2Fg%2F11lhtmb6w6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-tippanawar-skin-care-cosmetic-and-research-center-sangli",
@@ -10134,7 +10049,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S+Tippanawar+Skin+Care+Cosmetic+%26+Research+Center/@16.8534492,74.5795392,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119daa8c02961:0xa68117ee727d34f2!8m2!3d16.8534492!4d74.5795392!16s%2Fg%2F11g6xr8srr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+Tippanawar+Skin+Care+Cosmetic+%26+Research+Center/@16.8534492,74.5795392,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119daa8c02961:0xa68117ee727d34f2!8m2!3d16.8534492!4d74.5795392!16s%2Fg%2F11g6xr8srr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10203,8 +10118,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S+Tippanawar+Skin+Care+Cosmetic+%26+Research+Center/@16.8534492,74.5795392,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119daa8c02961:0xa68117ee727d34f2!8m2!3d16.8534492!4d74.5795392!16s%2Fg%2F11g6xr8srr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sachin-hospital-infertility-and-gynecology-miraj-shivaji-nagar",
@@ -10254,7 +10168,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sachin+Hospital+(infertility+and+gynecology)+Miraj/@16.8228694,74.6439477,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cc84774859:0x7e89df1aef83648e!8m2!3d16.8228694!4d74.6439477!16s%2Fg%2F11bvv69t0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sachin+Hospital+(infertility+and+gynecology)+Miraj/@16.8228694,74.6439477,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cc84774859:0x7e89df1aef83648e!8m2!3d16.8228694!4d74.6439477!16s%2Fg%2F11bvv69t0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10323,8 +10237,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sachin+Hospital+(infertility+and+gynecology)+Miraj/@16.8228694,74.6439477,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cc84774859:0x7e89df1aef83648e!8m2!3d16.8228694!4d74.6439477!16s%2Fg%2F11bvv69t0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sagare-clinic-near-bapat-balvidyamandir",
@@ -10373,7 +10286,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sagare+Clinic/data=!4m7!3m6!1s0x3bc1197d6e9c1e75:0x93dcb4d4845c33a1!8m2!3d16.8562449!4d74.5638837!16s%2Fg%2F11qpk74wkf!19sChIJdR6cbn0ZwTsRoTNchNS03JM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sagare+Clinic/data=!4m7!3m6!1s0x3bc1197d6e9c1e75:0x93dcb4d4845c33a1!8m2!3d16.8562449!4d74.5638837!16s%2Fg%2F11qpk74wkf!19sChIJdR6cbn0ZwTsRoTNchNS03JM?authuser=0&hl=en&rclk=1"
@@ -10439,11 +10352,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sagare+Clinic/data=!4m7!3m6!1s0x3bc1197d6e9c1e75:0x93dcb4d4845c33a1!8m2!3d16.8562449!4d74.5638837!16s%2Fg%2F11qpk74wkf!19sChIJdR6cbn0ZwTsRoTNchNS03JM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sangli-sangli",
@@ -10491,7 +10403,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sangli/data=!4m7!3m6!1s0x3bc119007695077f:0xf4f0c1ecc087adbb!8m2!3d16.8532777!4d74.5718804!16s%2Fg%2F11whp9tc0p!19sChIJfweVdgAZwTsRu62HwOzB8PQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sangli/data=!4m7!3m6!1s0x3bc119007695077f:0xf4f0c1ecc087adbb!8m2!3d16.8532777!4d74.5718804!16s%2Fg%2F11whp9tc0p!19sChIJfweVdgAZwTsRu62HwOzB8PQ?authuser=0&hl=en&rclk=1"
@@ -10557,11 +10469,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sangli/data=!4m7!3m6!1s0x3bc119007695077f:0xf4f0c1ecc087adbb!8m2!3d16.8532777!4d74.5718804!16s%2Fg%2F11whp9tc0p!19sChIJfweVdgAZwTsRu62HwOzB8PQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeev-neurosurgical-centre-sangli-miraj-kupwad",
@@ -10610,7 +10521,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeev+Neurosurgical+centre/@16.8299092,74.6392153,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1230064c9cb5f:0x32f2f414fb11753c!8m2!3d16.8299092!4d74.6392153!16s%2Fg%2F11w4fyhzz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeev+Neurosurgical+centre/@16.8299092,74.6392153,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1230064c9cb5f:0x32f2f414fb11753c!8m2!3d16.8299092!4d74.6392153!16s%2Fg%2F11w4fyhzz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10679,8 +10590,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeev+Neurosurgical+centre/@16.8299092,74.6392153,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1230064c9cb5f:0x32f2f414fb11753c!8m2!3d16.8299092!4d74.6392153!16s%2Fg%2F11w4fyhzz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevani-hospital-sangli-miraj-kupwad",
@@ -10728,7 +10638,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevani+Hospital/@16.8468688,74.5922612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187f4efef20d:0xa447fba9ea405908!8m2!3d16.8468688!4d74.5922612!16s%2Fg%2F1hm3rnhcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Hospital/@16.8468688,74.5922612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187f4efef20d:0xa447fba9ea405908!8m2!3d16.8468688!4d74.5922612!16s%2Fg%2F1hm3rnhcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10794,11 +10704,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevani+Hospital/@16.8468688,74.5922612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187f4efef20d:0xa447fba9ea405908!8m2!3d16.8468688!4d74.5922612!16s%2Fg%2F1hm3rnhcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevkumars-hospital-sangli-miraj-kupwad",
@@ -10844,7 +10753,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevkumars+Hospital/data=!4m7!3m6!1s0x3bc1234b2c1aa457:0x152ea67c0ce80e71!8m2!3d16.8518162!4d74.6029347!16s%2Fg%2F11h3dp2v06!19sChIJV6QaLEsjwTsRcQ7oDHymLhU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevkumars+Hospital/data=!4m7!3m6!1s0x3bc1234b2c1aa457:0x152ea67c0ce80e71!8m2!3d16.8518162!4d74.6029347!16s%2Fg%2F11h3dp2v06!19sChIJV6QaLEsjwTsRcQ7oDHymLhU?authuser=0&hl=en&rclk=1"
@@ -10910,11 +10819,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevkumars+Hospital/data=!4m7!3m6!1s0x3bc1234b2c1aa457:0x152ea67c0ce80e71!8m2!3d16.8518162!4d74.6029347!16s%2Fg%2F11h3dp2v06!19sChIJV6QaLEsjwTsRcQ7oDHymLhU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjivani-dental-clinic-and-implant-centre-sangli-miraj-kupwad",
@@ -10962,7 +10870,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SANJIVANI+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@16.871074,74.6219891,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123e761285ac1:0xf634b69714f4c69!8m2!3d16.871074!4d74.6219891!16s%2Fg%2F11x71kgx9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SANJIVANI+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@16.871074,74.6219891,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123e761285ac1:0xf634b69714f4c69!8m2!3d16.871074!4d74.6219891!16s%2Fg%2F11x71kgx9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11028,11 +10936,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SANJIVANI+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@16.871074,74.6219891,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123e761285ac1:0xf634b69714f4c69!8m2!3d16.871074!4d74.6219891!16s%2Fg%2F11x71kgx9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarvamangal-hospital-sangli-miraj-kupwad",
@@ -11081,7 +10988,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarvamangal+Hospital/data=!4m7!3m6!1s0x3bc123b2b69eb473:0x9006a2bc05f69cb6!8m2!3d16.8321487!4d74.640183!16s%2Fg%2F11bw5x14jx!19sChIJc7SetrIjwTsRtpz2BbyiBpA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarvamangal+Hospital/data=!4m7!3m6!1s0x3bc123b2b69eb473:0x9006a2bc05f69cb6!8m2!3d16.8321487!4d74.640183!16s%2Fg%2F11bw5x14jx!19sChIJc7SetrIjwTsRtpz2BbyiBpA?authuser=0&hl=en&rclk=1"
@@ -11150,8 +11057,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarvamangal+Hospital/data=!4m7!3m6!1s0x3bc123b2b69eb473:0x9006a2bc05f69cb6!8m2!3d16.8321487!4d74.640183!16s%2Fg%2F11bw5x14jx!19sChIJc7SetrIjwTsRtpz2BbyiBpA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarvhit-hospital-and-mrc-sangli-miraj-kupwad",
@@ -11199,7 +11105,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarvhit+Hospital+and+MRC/@16.8546653,74.5770159,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186f1f1b00eb:0xea194c3343927600!8m2!3d16.8546653!4d74.5770159!16s%2Fg%2F1tjt0cp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarvhit+Hospital+and+MRC/@16.8546653,74.5770159,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186f1f1b00eb:0xea194c3343927600!8m2!3d16.8546653!4d74.5770159!16s%2Fg%2F1tjt0cp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11268,8 +11174,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarvhit+Hospital+and+MRC/@16.8546653,74.5770159,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186f1f1b00eb:0xea194c3343927600!8m2!3d16.8546653!4d74.5770159!16s%2Fg%2F1tjt0cp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sawardekar-hospital-sangli",
@@ -11317,7 +11222,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sawardekar+Hospital/data=!4m7!3m6!1s0x3bc122818cdf115d:0xf56d69a855be31d3!8m2!3d16.8470581!4d74.594743!16s%2Fg%2F1hm65gf5g!19sChIJXRHfjIEiwTsR0zG-VahpbfU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sawardekar+Hospital/data=!4m7!3m6!1s0x3bc122818cdf115d:0xf56d69a855be31d3!8m2!3d16.8470581!4d74.594743!16s%2Fg%2F1hm65gf5g!19sChIJXRHfjIEiwTsR0zG-VahpbfU?authuser=0&hl=en&rclk=1"
@@ -11383,11 +11288,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sawardekar+Hospital/data=!4m7!3m6!1s0x3bc122818cdf115d:0xf56d69a855be31d3!8m2!3d16.8470581!4d74.594743!16s%2Fg%2F1hm65gf5g!19sChIJXRHfjIEiwTsR0zG-VahpbfU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shamshree-maternity-and-surgical-sangli",
@@ -11435,7 +11339,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shamshree+Maternity+%26+Surgical/@16.853809,74.565716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118430bdeb94f:0x79c4dda929caa31a!8m2!3d16.853809!4d74.565716!16s%2Fg%2F11bzsd3sf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shamshree+Maternity+%26+Surgical/@16.853809,74.565716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118430bdeb94f:0x79c4dda929caa31a!8m2!3d16.853809!4d74.565716!16s%2Fg%2F11bzsd3sf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11504,8 +11408,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shamshree+Maternity+%26+Surgical/@16.853809,74.565716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118430bdeb94f:0x79c4dda929caa31a!8m2!3d16.853809!4d74.565716!16s%2Fg%2F11bzsd3sf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shanti-saroj-hospital-sangli",
@@ -11553,7 +11456,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shanti+Saroj+Hospital/@16.8435603,74.6095648,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123681e9c1731:0xbf3eefb9d6fef012!8m2!3d16.8435603!4d74.6095648!16s%2Fg%2F11f6npj1zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Saroj+Hospital/@16.8435603,74.6095648,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123681e9c1731:0xbf3eefb9d6fef012!8m2!3d16.8435603!4d74.6095648!16s%2Fg%2F11f6npj1zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11619,11 +11522,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shanti+Saroj+Hospital/@16.8435603,74.6095648,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123681e9c1731:0xbf3eefb9d6fef012!8m2!3d16.8435603!4d74.6095648!16s%2Fg%2F11f6npj1zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sharada-dental-hospital-sangli-miraj-kupwad",
@@ -11671,7 +11573,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sharada+Dental+Hospital/@16.831303,74.6406057,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b2d7371b97:0xf45e2a5212920bd2!8m2!3d16.831303!4d74.6406057!16s%2Fg%2F11hcfq8jt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharada+Dental+Hospital/@16.831303,74.6406057,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b2d7371b97:0xf45e2a5212920bd2!8m2!3d16.831303!4d74.6406057!16s%2Fg%2F11hcfq8jt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11740,8 +11642,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sharada+Dental+Hospital/@16.831303,74.6406057,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b2d7371b97:0xf45e2a5212920bd2!8m2!3d16.831303!4d74.6406057!16s%2Fg%2F11hcfq8jt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shikhare-hospital-sangli-miraj-kupwad",
@@ -11789,7 +11690,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shikhare+Hospital/@16.8491857,74.5622369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1185b146376d1:0xa0554145171c1218!8m2!3d16.8491857!4d74.5622369!16s%2Fg%2F11hcds3w56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shikhare+Hospital/@16.8491857,74.5622369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1185b146376d1:0xa0554145171c1218!8m2!3d16.8491857!4d74.5622369!16s%2Fg%2F11hcds3w56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11855,11 +11756,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shikhare+Hospital/@16.8491857,74.5622369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1185b146376d1:0xa0554145171c1218!8m2!3d16.8491857!4d74.5622369!16s%2Fg%2F11hcds3w56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shinde-s-multispeacility-dental-clinic-sangli",
@@ -11907,7 +11807,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shinde's+Multispeacility+Dental+Clinic/@16.8459184,74.5765506,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11863f73b0465:0xb80cd798865e606d!8m2!3d16.8459184!4d74.5765506!16s%2Fg%2F11c5bjl3rk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shinde's+Multispeacility+Dental+Clinic/@16.8459184,74.5765506,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11863f73b0465:0xb80cd798865e606d!8m2!3d16.8459184!4d74.5765506!16s%2Fg%2F11c5bjl3rk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11976,8 +11876,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shinde's+Multispeacility+Dental+Clinic/@16.8459184,74.5765506,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11863f73b0465:0xb80cd798865e606d!8m2!3d16.8459184!4d74.5765506!16s%2Fg%2F11c5bjl3rk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shintre-hospital-sangli",
@@ -12026,7 +11925,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shintre+Hospital/@16.8534042,74.5734991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11868ec8a57bf:0x531d57c125425dcd!8m2!3d16.8534042!4d74.5734991!16s%2Fg%2F1td4hkrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shintre+Hospital/@16.8534042,74.5734991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11868ec8a57bf:0x531d57c125425dcd!8m2!3d16.8534042!4d74.5734991!16s%2Fg%2F1td4hkrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12095,8 +11994,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shintre+Hospital/@16.8534042,74.5734991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11868ec8a57bf:0x531d57c125425dcd!8m2!3d16.8534042!4d74.5734991!16s%2Fg%2F1td4hkrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiv-cancer-institute-miraj-sangli-miraj-kupwad",
@@ -12144,7 +12042,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiv+Cancer+Institute,+Miraj/@16.8302336,74.6385859,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224ce84764ff:0x726e9b1704397ba9!8m2!3d16.8302336!4d74.6385859!16s%2Fg%2F11bxb9nv2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Cancer+Institute,+Miraj/@16.8302336,74.6385859,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224ce84764ff:0x726e9b1704397ba9!8m2!3d16.8302336!4d74.6385859!16s%2Fg%2F11bxb9nv2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12213,8 +12111,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiv+Cancer+Institute,+Miraj/@16.8302336,74.6385859,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224ce84764ff:0x726e9b1704397ba9!8m2!3d16.8302336!4d74.6385859!16s%2Fg%2F11bxb9nv2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivannavar-hospital-miraj-sangli-miraj-kupwad",
@@ -12262,7 +12159,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivannavar+hospital+miraj/@16.8322746,74.6388334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224d47163db3:0xb5c6f2a9a80008ce!8m2!3d16.8322746!4d74.6388334!16s%2Fg%2F11cn3f9928?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivannavar+hospital+miraj/@16.8322746,74.6388334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224d47163db3:0xb5c6f2a9a80008ce!8m2!3d16.8322746!4d74.6388334!16s%2Fg%2F11cn3f9928?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12331,8 +12228,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivannavar+hospital+miraj/@16.8322746,74.6388334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224d47163db3:0xb5c6f2a9a80008ce!8m2!3d16.8322746!4d74.6388334!16s%2Fg%2F11cn3f9928?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shivneri-hospital-sangli",
@@ -12380,7 +12276,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shivneri+hospital/data=!4m7!3m6!1s0x3bc11868c5f608b5:0xdc7c3d780806d34!8m2!3d16.8538349!4d74.5750021!16s%2Fg%2F1tcx5g9g!19sChIJtQj2xWgYwTsRNG2AgNfDxw0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivneri+hospital/data=!4m7!3m6!1s0x3bc11868c5f608b5:0xdc7c3d780806d34!8m2!3d16.8538349!4d74.5750021!16s%2Fg%2F1tcx5g9g!19sChIJtQj2xWgYwTsRNG2AgNfDxw0?authuser=0&hl=en&rclk=1"
@@ -12449,8 +12345,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shivneri+hospital/data=!4m7!3m6!1s0x3bc11868c5f608b5:0xdc7c3d780806d34!8m2!3d16.8538349!4d74.5750021!16s%2Fg%2F1tcx5g9g!19sChIJtQj2xWgYwTsRNG2AgNfDxw0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-hospital-b-d-pujari-sangli-miraj-kupwad",
@@ -12498,7 +12393,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Hospital+B.D+Pujari/@16.8220017,74.6412222,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123caa323d5df:0x2775795b8a2dcd2d!8m2!3d16.8220017!4d74.6412222!16s%2Fg%2F11bxc75g21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Hospital+B.D+Pujari/@16.8220017,74.6412222,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123caa323d5df:0x2775795b8a2dcd2d!8m2!3d16.8220017!4d74.6412222!16s%2Fg%2F11bxc75g21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12567,8 +12462,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Hospital+B.D+Pujari/@16.8220017,74.6412222,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123caa323d5df:0x2775795b8a2dcd2d!8m2!3d16.8220017!4d74.6412222!16s%2Fg%2F11bxc75g21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-maternity-and-surgical-hospital-sangli-miraj-kupwad",
@@ -12614,7 +12508,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Maternity+And+Surgical+Hospital/data=!4m7!3m6!1s0x3bc119cc629c687d:0xecaf173880e9defa!8m2!3d16.851775!4d74.5812653!16s%2Fg%2F11fhtvz75c!19sChIJfWicYswZwTsR-t7pgDgXr-w?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Maternity+And+Surgical+Hospital/data=!4m7!3m6!1s0x3bc119cc629c687d:0xecaf173880e9defa!8m2!3d16.851775!4d74.5812653!16s%2Fg%2F11fhtvz75c!19sChIJfWicYswZwTsR-t7pgDgXr-w?authuser=0&hl=en&rclk=1"
@@ -12680,11 +12574,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Maternity+And+Surgical+Hospital/data=!4m7!3m6!1s0x3bc119cc629c687d:0xecaf173880e9defa!8m2!3d16.851775!4d74.5812653!16s%2Fg%2F11fhtvz75c!19sChIJfWicYswZwTsR-t7pgDgXr-w?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-sai-heart-center-sangli",
@@ -12734,7 +12627,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHREE+SAI+HEART+CENTER/@16.8539156,74.5739326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119a2a08caea7:0x65018e7f8a4b1e85!8m2!3d16.8539156!4d74.5739326!16s%2Fg%2F11fq9y2qhd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+SAI+HEART+CENTER/@16.8539156,74.5739326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119a2a08caea7:0x65018e7f8a4b1e85!8m2!3d16.8539156!4d74.5739326!16s%2Fg%2F11fq9y2qhd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12803,8 +12696,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHREE+SAI+HEART+CENTER/@16.8539156,74.5739326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119a2a08caea7:0x65018e7f8a4b1e85!8m2!3d16.8539156!4d74.5739326!16s%2Fg%2F11fq9y2qhd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-siddhivinayak-ganapati-cancer-hospital-sangli-miraj-kupwad",
@@ -12853,7 +12745,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Siddhivinayak+Ganapati+Cancer+Hospital/data=!4m7!3m6!1s0x3bc122520bf2f85b:0xbf9eacdb9958297a!8m2!3d16.8335598!4d74.6355269!16s%2Fg%2F11bx51xn_w!19sChIJW_jyC1IiwTsReilYmdusnr8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Siddhivinayak+Ganapati+Cancer+Hospital/data=!4m7!3m6!1s0x3bc122520bf2f85b:0xbf9eacdb9958297a!8m2!3d16.8335598!4d74.6355269!16s%2Fg%2F11bx51xn_w!19sChIJW_jyC1IiwTsReilYmdusnr8?authuser=0&hl=en&rclk=1"
@@ -12922,8 +12814,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Siddhivinayak+Ganapati+Cancer+Hospital/data=!4m7!3m6!1s0x3bc122520bf2f85b:0xbf9eacdb9958297a!8m2!3d16.8335598!4d74.6355269!16s%2Fg%2F11bx51xn_w!19sChIJW_jyC1IiwTsReilYmdusnr8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shreekala-maternity-and-surgical-hospital-south-shivaji-nagar",
@@ -12971,7 +12862,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shreekala+Maternity+and+Surgical+Hospital/@16.8516229,74.5811518,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119beedd0ed1f:0x908950786694fb8!8m2!3d16.8516229!4d74.5811518!16s%2Fg%2F11l_fv4050?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreekala+Maternity+and+Surgical+Hospital/@16.8516229,74.5811518,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119beedd0ed1f:0x908950786694fb8!8m2!3d16.8516229!4d74.5811518!16s%2Fg%2F11l_fv4050?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13037,11 +12928,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shreekala+Maternity+and+Surgical+Hospital/@16.8516229,74.5811518,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119beedd0ed1f:0x908950786694fb8!8m2!3d16.8516229!4d74.5811518!16s%2Fg%2F11l_fv4050?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-mallikarjun-dental-hospital-miraj-sangli-top-dentist-top-orthodontic-clinic-and-best-root-canal-center-in-miraj-sangli-miraj",
@@ -13091,7 +12981,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Mallikarjun+Dental+Hospital+Miraj+Sangli+Top+Dentist+%2FTop+Orthodontic+clinic+and+Best+Root+canal+center+in+Miraj+Sangli/@16.8291453,74.6392655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cb7720f697:0x1b95f177bfbfa917!8m2!3d16.8291453!4d74.6392655!16s%2Fg%2F11c5_9lcy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Mallikarjun+Dental+Hospital+Miraj+Sangli+Top+Dentist+%2FTop+Orthodontic+clinic+and+Best+Root+canal+center+in+Miraj+Sangli/@16.8291453,74.6392655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cb7720f697:0x1b95f177bfbfa917!8m2!3d16.8291453!4d74.6392655!16s%2Fg%2F11c5_9lcy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13157,11 +13047,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Mallikarjun+Dental+Hospital+Miraj+Sangli+Top+Dentist+%2FTop+Orthodontic+clinic+and+Best+Root+canal+center+in+Miraj+Sangli/@16.8291453,74.6392655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123cb7720f697:0x1b95f177bfbfa917!8m2!3d16.8291453!4d74.6392655!16s%2Fg%2F11c5_9lcy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-samarth-heart-care-centre-and-diagnostic-centre-sangli",
@@ -13210,7 +13099,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Samarth+Heart+Care+centre+and+diagnostic+centre/@16.8466161,74.5967433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc12360d0320d5f:0x994f8743ef92fbd3!8m2!3d16.8466161!4d74.5967433!16s%2Fg%2F11qnhz5mw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Samarth+Heart+Care+centre+and+diagnostic+centre/@16.8466161,74.5967433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc12360d0320d5f:0x994f8743ef92fbd3!8m2!3d16.8466161!4d74.5967433!16s%2Fg%2F11qnhz5mw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13279,8 +13168,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Samarth+Heart+Care+centre+and+diagnostic+centre/@16.8466161,74.5967433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc12360d0320d5f:0x994f8743ef92fbd3!8m2!3d16.8466161!4d74.5967433!16s%2Fg%2F11qnhz5mw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-venkatesh-surgical-co-sangli",
@@ -13329,7 +13217,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Venkatesh+Surgical+Co/@16.85438,74.564171,13z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224e1d6c2655:0x6005bdd77a4a4976!8m2!3d16.85438!4d74.564171!16s%2Fg%2F1tf9lq6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Venkatesh+Surgical+Co/@16.85438,74.564171,13z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224e1d6c2655:0x6005bdd77a4a4976!8m2!3d16.85438!4d74.564171!16s%2Fg%2F1tf9lq6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13395,11 +13283,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Venkatesh+Surgical+Co/@16.85438,74.564171,13z/data=!3m1!4b1!4m6!3m5!1s0x3bc1224e1d6c2655:0x6005bdd77a4a4976!8m2!3d16.85438!4d74.564171!16s%2Fg%2F1tf9lq6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shushrusha-hospital-mangalwar-peth",
@@ -13448,7 +13335,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shushrusha+Hospital/@16.8303854,74.6463465,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123e9f2f2a7b7:0x51ba0be6956157ee!8m2!3d16.8303854!4d74.6463465!16s%2Fg%2F11gxf9pvg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shushrusha+Hospital/@16.8303854,74.6463465,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123e9f2f2a7b7:0x51ba0be6956157ee!8m2!3d16.8303854!4d74.6463465!16s%2Fg%2F11gxf9pvg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13517,8 +13404,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shushrusha+Hospital/@16.8303854,74.6463465,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123e9f2f2a7b7:0x51ba0be6956157ee!8m2!3d16.8303854!4d74.6463465!16s%2Fg%2F11gxf9pvg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "silver-leaf-dental-and-orthodontic-clinic-sangli-miraj-kupwad",
@@ -13567,7 +13453,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SILVER+LEAF+DENTAL+AND+ORTHODONTIC+CLINIC/@16.847414,74.6112781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123076d7ffd15:0x3d049a648a61ed58!8m2!3d16.847414!4d74.6112781!16s%2Fg%2F11vwvhnj6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SILVER+LEAF+DENTAL+AND+ORTHODONTIC+CLINIC/@16.847414,74.6112781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123076d7ffd15:0x3d049a648a61ed58!8m2!3d16.847414!4d74.6112781!16s%2Fg%2F11vwvhnj6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13636,8 +13522,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SILVER+LEAF+DENTAL+AND+ORTHODONTIC+CLINIC/@16.847414,74.6112781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123076d7ffd15:0x3d049a648a61ed58!8m2!3d16.847414!4d74.6112781!16s%2Fg%2F11vwvhnj6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sjkct-s-paediatric-surgery-center-and-pg-institute-sangli-sangli",
@@ -13686,7 +13571,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SJKCT%27S+Paediatric+Surgery+Center+%26+PG+Institute+Sangli/data=!4m7!3m6!1s0x3bc12282184ef2a7:0x347b994a8d320a85!8m2!3d16.8482581!4d74.5945491!16s%2Fg%2F11dzw5hz0k!19sChIJp_JOGIIiwTsRhQoyjUqZezQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SJKCT%27S+Paediatric+Surgery+Center+%26+PG+Institute+Sangli/data=!4m7!3m6!1s0x3bc12282184ef2a7:0x347b994a8d320a85!8m2!3d16.8482581!4d74.5945491!16s%2Fg%2F11dzw5hz0k!19sChIJp_JOGIIiwTsRhQoyjUqZezQ?authuser=0&hl=en&rclk=1"
@@ -13752,11 +13637,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SJKCT%27S+Paediatric+Surgery+Center+%26+PG+Institute+Sangli/data=!4m7!3m6!1s0x3bc12282184ef2a7:0x347b994a8d320a85!8m2!3d16.8482581!4d74.5945491!16s%2Fg%2F11dzw5hz0k!19sChIJp_JOGIIiwTsRhQoyjUqZezQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-pro-dental-clinic-south-shivaji-nagar",
@@ -13804,7 +13688,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+Pro+Dental+clinic/@16.854847,74.5756903,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11965004c7257:0x1a62bc05900c6e7d!8m2!3d16.854847!4d74.5756903!16s%2Fg%2F11y5p24z43?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Pro+Dental+clinic/@16.854847,74.5756903,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11965004c7257:0x1a62bc05900c6e7d!8m2!3d16.854847!4d74.5756903!16s%2Fg%2F11y5p24z43?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13870,11 +13754,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+Pro+Dental+clinic/@16.854847,74.5756903,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11965004c7257:0x1a62bc05900c6e7d!8m2!3d16.854847!4d74.5756903!16s%2Fg%2F11y5p24z43?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-z-dental-clinic-sangli-miraj-kupwad",
@@ -13922,7 +13805,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile'z+Dental+Clinic/@16.8488539,74.588365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11879696e78dd:0xf013601dc1eef4e!8m2!3d16.8488539!4d74.588365!16s%2Fg%2F1262d5tmj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile'z+Dental+Clinic/@16.8488539,74.588365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11879696e78dd:0xf013601dc1eef4e!8m2!3d16.8488539!4d74.588365!16s%2Fg%2F1262d5tmj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13991,8 +13874,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile'z+Dental+Clinic/@16.8488539,74.588365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11879696e78dd:0xf013601dc1eef4e!8m2!3d16.8488539!4d74.588365!16s%2Fg%2F1262d5tmj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smilekraft-dental-clinic-and-implant-centre-sangli",
@@ -14040,7 +13922,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smilekraft+Dental+Clinic+and+Implant+Centre/@16.8455723,74.5820421,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187cdd44d65f:0x4d01fcb5492cc971!8m2!3d16.8455723!4d74.5820421!16s%2Fg%2F11g7_c32hf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilekraft+Dental+Clinic+and+Implant+Centre/@16.8455723,74.5820421,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187cdd44d65f:0x4d01fcb5492cc971!8m2!3d16.8455723!4d74.5820421!16s%2Fg%2F11g7_c32hf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14109,8 +13991,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smilekraft+Dental+Clinic+and+Implant+Centre/@16.8455723,74.5820421,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1187cdd44d65f:0x4d01fcb5492cc971!8m2!3d16.8455723!4d74.5820421!16s%2Fg%2F11g7_c32hf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smiles-and-roots-dental-clinic-and-research-center-sangli-best-dental-care-by-the-best-dentists-khanbhag",
@@ -14159,7 +14040,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smiles+and+Roots+Dental+Clinic+and+Research+Center,+Sangli+%7C+Best+dental+care+by+the+Best+dentists/@16.8533894,74.5775302,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186f6d1db3c3:0x4b1ad2d44bbb4185!8m2!3d16.8533894!4d74.5775302!16s%2Fg%2F11gbnl835g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smiles+and+Roots+Dental+Clinic+and+Research+Center,+Sangli+%7C+Best+dental+care+by+the+Best+dentists/@16.8533894,74.5775302,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186f6d1db3c3:0x4b1ad2d44bbb4185!8m2!3d16.8533894!4d74.5775302!16s%2Fg%2F11gbnl835g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14225,11 +14106,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smiles+and+Roots+Dental+Clinic+and+Research+Center,+Sangli+%7C+Best+dental+care+by+the+Best+dentists/@16.8533894,74.5775302,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186f6d1db3c3:0x4b1ad2d44bbb4185!8m2!3d16.8533894!4d74.5775302!16s%2Fg%2F11gbnl835g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smilodent-the-dental-expert-root-canal-implants-best-dentist-in-sangli-dental-clinic-top-dentist-in-sangli-sangli",
@@ -14275,7 +14155,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smilodent+-+The+Dental+Expert+%7C+Root+Canal+%7C+Implants+%7C+Best+Dentist+in+Sangli+%7C+Dental+Clinic%7C+Top+Dentist+in+Sangli/@16.8614363,74.5761792,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1198912be16f9:0xdf1881e3a5f98835!8m2!3d16.8614363!4d74.5761792!16s%2Fg%2F11xry7lzs1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilodent+-+The+Dental+Expert+%7C+Root+Canal+%7C+Implants+%7C+Best+Dentist+in+Sangli+%7C+Dental+Clinic%7C+Top+Dentist+in+Sangli/@16.8614363,74.5761792,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1198912be16f9:0xdf1881e3a5f98835!8m2!3d16.8614363!4d74.5761792!16s%2Fg%2F11xry7lzs1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14341,11 +14221,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smilodent+-+The+Dental+Expert+%7C+Root+Canal+%7C+Implants+%7C+Best+Dentist+in+Sangli+%7C+Dental+Clinic%7C+Top+Dentist+in+Sangli/@16.8614363,74.5761792,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1198912be16f9:0xdf1881e3a5f98835!8m2!3d16.8614363!4d74.5761792!16s%2Fg%2F11xry7lzs1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "somashekhar-hospital-sangli-miraj-kupwad",
@@ -14393,7 +14272,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Somashekhar+Hospital/@16.822901,74.643326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b58132a1c3:0xc51ac754a1e50073!8m2!3d16.822901!4d74.643326!16s%2Fg%2F11c3tycf4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Somashekhar+Hospital/@16.822901,74.643326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b58132a1c3:0xc51ac754a1e50073!8m2!3d16.822901!4d74.643326!16s%2Fg%2F11c3tycf4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14462,8 +14341,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Somashekhar+Hospital/@16.822901,74.643326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b58132a1c3:0xc51ac754a1e50073!8m2!3d16.822901!4d74.643326!16s%2Fg%2F11c3tycf4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sona-hospital-sangli-sangli",
@@ -14511,7 +14389,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sona+Hospital+Sangli/@16.866361,74.574154,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1199677c798e9:0xb2c81ce3c3fe12a0!8m2!3d16.866361!4d74.574154!16s%2Fg%2F11gmyy0n7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sona+Hospital+Sangli/@16.866361,74.574154,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1199677c798e9:0xb2c81ce3c3fe12a0!8m2!3d16.866361!4d74.574154!16s%2Fg%2F11gmyy0n7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14580,8 +14458,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sona+Hospital+Sangli/@16.866361,74.574154,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1199677c798e9:0xb2c81ce3c3fe12a0!8m2!3d16.866361!4d74.574154!16s%2Fg%2F11gmyy0n7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunrise-womens-hospital-sangli",
@@ -14630,7 +14507,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sunrise+womens+Hospital/@16.8298845,74.6430853,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1235b9f6b00af:0xce9e319f5b145a0c!8m2!3d16.8298845!4d74.6430853!16s%2Fg%2F11l2bx2bwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunrise+womens+Hospital/@16.8298845,74.6430853,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1235b9f6b00af:0xce9e319f5b145a0c!8m2!3d16.8298845!4d74.6430853!16s%2Fg%2F11l2bx2bwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14696,11 +14573,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sunrise+womens+Hospital/@16.8298845,74.6430853,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1235b9f6b00af:0xce9e319f5b145a0c!8m2!3d16.8298845!4d74.6430853!16s%2Fg%2F11l2bx2bwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surgical-world-civil-chouk-sangli-sangli",
@@ -14748,7 +14624,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surgical+World+Civil+Chouk+Sangli/data=!4m7!3m6!1s0x3bc11868e6fcafb7:0x9a993a3acd4fd6e3!8m2!3d16.8542719!4d74.5739232!16s%2Fg%2F11c2jpgc90!19sChIJt6_85mgYwTsR49ZPzTo6mZo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surgical+World+Civil+Chouk+Sangli/data=!4m7!3m6!1s0x3bc11868e6fcafb7:0x9a993a3acd4fd6e3!8m2!3d16.8542719!4d74.5739232!16s%2Fg%2F11c2jpgc90!19sChIJt6_85mgYwTsR49ZPzTo6mZo?authuser=0&hl=en&rclk=1"
@@ -14817,8 +14693,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surgical+World+Civil+Chouk+Sangli/data=!4m7!3m6!1s0x3bc11868e6fcafb7:0x9a993a3acd4fd6e3!8m2!3d16.8542719!4d74.5739232!16s%2Fg%2F11c2jpgc90!19sChIJt6_85mgYwTsR49ZPzTo6mZo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "susheel-maternity-and-gynaecological-hospital-miraj",
@@ -14866,7 +14741,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Susheel+Maternity+And+Gynaecological+Hospital/@16.8382191,74.6223938,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc122823c98dec1:0x6c89c20233e10f3d!8m2!3d16.8382191!4d74.6223938!16s%2Fg%2F11q2yk8d7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Susheel+Maternity+And+Gynaecological+Hospital/@16.8382191,74.6223938,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc122823c98dec1:0x6c89c20233e10f3d!8m2!3d16.8382191!4d74.6223938!16s%2Fg%2F11q2yk8d7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14932,11 +14807,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1,
+    "rating": 1.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Susheel+Maternity+And+Gynaecological+Hospital/@16.8382191,74.6223938,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc122823c98dec1:0x6c89c20233e10f3d!8m2!3d16.8382191!4d74.6223938!16s%2Fg%2F11q2yk8d7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sushil-ivf-the-fertility-center-sangli",
@@ -14986,7 +14860,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sushil+IVF+-+The+Fertility+Center/@16.8496859,74.5916151,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1191bc556eeab:0x46909a7510a04bb!8m2!3d16.8496859!4d74.5916151!16s%2Fg%2F11p5fxykjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sushil+IVF+-+The+Fertility+Center/@16.8496859,74.5916151,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1191bc556eeab:0x46909a7510a04bb!8m2!3d16.8496859!4d74.5916151!16s%2Fg%2F11p5fxykjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15055,8 +14929,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sushil+IVF+-+The+Fertility+Center/@16.8496859,74.5916151,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1191bc556eeab:0x46909a7510a04bb!8m2!3d16.8496859!4d74.5916151!16s%2Fg%2F11p5fxykjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sushil-maternity-hospital-sangli-sangli-miraj-kupwad",
@@ -15105,7 +14978,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sushil+Maternity+Hospital,+Sangli/@16.849726,74.5916312,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11878f2dc9cb9:0xa28c50b59e457d2a!8m2!3d16.849726!4d74.5916312!16s%2Fg%2F11c2q45y8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sushil+Maternity+Hospital,+Sangli/@16.849726,74.5916312,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11878f2dc9cb9:0xa28c50b59e457d2a!8m2!3d16.849726!4d74.5916312!16s%2Fg%2F11c2q45y8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15174,8 +15047,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sushil+Maternity+Hospital,+Sangli/@16.849726,74.5916312,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11878f2dc9cb9:0xa28c50b59e457d2a!8m2!3d16.849726!4d74.5916312!16s%2Fg%2F11c2q45y8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sushruta-plastic-surgery-and-burns-hospital-sangli",
@@ -15223,7 +15095,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sushruta+Plastic+Surgery+%26+Burns+Hospital/data=!4m7!3m6!1s0x3bc11866f137c781:0x1e7db8351d4d1038!8m2!3d16.8485021!4d74.57378!16s%2Fg%2F11fylphjnp!19sChIJgcc38WYYwTsROBBNHTW4fR4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sushruta+Plastic+Surgery+%26+Burns+Hospital/data=!4m7!3m6!1s0x3bc11866f137c781:0x1e7db8351d4d1038!8m2!3d16.8485021!4d74.57378!16s%2Fg%2F11fylphjnp!19sChIJgcc38WYYwTsROBBNHTW4fR4?authuser=0&hl=en&rclk=1"
@@ -15292,8 +15164,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sushruta+Plastic+Surgery+%26+Burns+Hospital/data=!4m7!3m6!1s0x3bc11866f137c781:0x1e7db8351d4d1038!8m2!3d16.8485021!4d74.57378!16s%2Fg%2F11fylphjnp!19sChIJgcc38WYYwTsROBBNHTW4fR4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-spine-and-sports-physiotherapy-clinic-sangli",
@@ -15343,7 +15214,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S%C2%B2+Spine+and+Sports+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bc123264aaab949:0xd17268a01dc6e754!8m2!3d16.8483443!4d74.5944063!16s%2Fg%2F11h5rrdgx6!19sChIJSbmqSiYjwTsRVOfGHaBoctE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S%C2%B2+Spine+and+Sports+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bc123264aaab949:0xd17268a01dc6e754!8m2!3d16.8483443!4d74.5944063!16s%2Fg%2F11h5rrdgx6!19sChIJSbmqSiYjwTsRVOfGHaBoctE?authuser=0&hl=en&rclk=1"
@@ -15412,8 +15283,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S%C2%B2+Spine+and+Sports+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bc123264aaab949:0xd17268a01dc6e754!8m2!3d16.8483443!4d74.5944063!16s%2Fg%2F11h5rrdgx6!19sChIJSbmqSiYjwTsRVOfGHaBoctE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tamboli-urology-andrology-maternity-infertility-hospital-sangli-miraj-kupwad",
@@ -15463,7 +15333,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tamboli+Urology-Andrology-Maternity-Infertility+Hospital/data=!4m7!3m6!1s0x3bc123b3989d4539:0x486a44e4987baa39!8m2!3d16.8298125!4d74.6434375!16s%2Fg%2F11dfj3v7ms!19sChIJOUWdmLMjwTsROap7mOREakg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tamboli+Urology-Andrology-Maternity-Infertility+Hospital/data=!4m7!3m6!1s0x3bc123b3989d4539:0x486a44e4987baa39!8m2!3d16.8298125!4d74.6434375!16s%2Fg%2F11dfj3v7ms!19sChIJOUWdmLMjwTsROap7mOREakg?authuser=0&hl=en&rclk=1"
@@ -15532,8 +15402,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tamboli+Urology-Andrology-Maternity-Infertility+Hospital/data=!4m7!3m6!1s0x3bc123b3989d4539:0x486a44e4987baa39!8m2!3d16.8298125!4d74.6434375!16s%2Fg%2F11dfj3v7ms!19sChIJOUWdmLMjwTsROap7mOREakg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tirthraj-hospital-miraj-top-bone-and-joint-centre-best-sport-injury-and-joint-replacement-treatment-miraj",
@@ -15583,7 +15452,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tirthraj+Hospital+Miraj+%7C+Top+Bone+%26+Joint+Centre+%7C+Best+Sport+Injury+And+Joint+Replacement+Treatment/data=!4m7!3m6!1s0x3bc1230b62b631cf:0x692133bcbc39481c!8m2!3d16.8326886!4d74.6405519!16s%2Fg%2F11fx_5rlt4!19sChIJzzG2YgsjwTsRHEg5vLwzIWk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirthraj+Hospital+Miraj+%7C+Top+Bone+%26+Joint+Centre+%7C+Best+Sport+Injury+And+Joint+Replacement+Treatment/data=!4m7!3m6!1s0x3bc1230b62b631cf:0x692133bcbc39481c!8m2!3d16.8326886!4d74.6405519!16s%2Fg%2F11fx_5rlt4!19sChIJzzG2YgsjwTsRHEg5vLwzIWk?authuser=0&hl=en&rclk=1"
@@ -15652,8 +15521,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tirthraj+Hospital+Miraj+%7C+Top+Bone+%26+Joint+Centre+%7C+Best+Sport+Injury+And+Joint+Replacement+Treatment/data=!4m7!3m6!1s0x3bc1230b62b631cf:0x692133bcbc39481c!8m2!3d16.8326886!4d74.6405519!16s%2Fg%2F11fx_5rlt4!19sChIJzzG2YgsjwTsRHEg5vLwzIWk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "toothcare-dental-clinic-and-implant-centre-sangli",
@@ -15701,7 +15569,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ToothCare+dental+clinic+and+Implant+Centre/@16.853697,74.5723774,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119d775905e5d:0xa9177cad668372d7!8m2!3d16.853697!4d74.5723774!16s%2Fg%2F11xh211bs0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ToothCare+dental+clinic+and+Implant+Centre/@16.853697,74.5723774,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119d775905e5d:0xa9177cad668372d7!8m2!3d16.853697!4d74.5723774!16s%2Fg%2F11xh211bs0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15767,11 +15635,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ToothCare+dental+clinic+and+Implant+Centre/@16.853697,74.5723774,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119d775905e5d:0xa9177cad668372d7!8m2!3d16.853697!4d74.5723774!16s%2Fg%2F11xh211bs0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "unique-dental-and-implant-clinic-sangli-miraj-kupwad",
@@ -15819,7 +15686,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Unique+Dental+and+Implant+Clinic/@16.8524022,74.5735169,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118689aea7ae7:0xd73e40d2ef9937e9!8m2!3d16.8524022!4d74.5735169!16s%2Fg%2F11gd_jgn2b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unique+Dental+and+Implant+Clinic/@16.8524022,74.5735169,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118689aea7ae7:0xd73e40d2ef9937e9!8m2!3d16.8524022!4d74.5735169!16s%2Fg%2F11gd_jgn2b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15885,11 +15752,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Unique+Dental+and+Implant+Clinic/@16.8524022,74.5735169,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118689aea7ae7:0xd73e40d2ef9937e9!8m2!3d16.8524022!4d74.5735169!16s%2Fg%2F11gd_jgn2b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "unique-maxillofacial-and-dental-clinic-sangli-miraj-kupwad",
@@ -15939,7 +15805,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Unique+Maxillofacial+%26+Dental+Clinic/@16.8202454,74.6464953,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123c97f68ecfb:0x504bf72c52bd121e!8m2!3d16.8202454!4d74.6464953!16s%2Fg%2F11hcdv2t9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unique+Maxillofacial+%26+Dental+Clinic/@16.8202454,74.6464953,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123c97f68ecfb:0x504bf72c52bd121e!8m2!3d16.8202454!4d74.6464953!16s%2Fg%2F11hcdv2t9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16005,11 +15871,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Unique+Maxillofacial+%26+Dental+Clinic/@16.8202454,74.6464953,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123c97f68ecfb:0x504bf72c52bd121e!8m2!3d16.8202454!4d74.6464953!16s%2Fg%2F11hcdv2t9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "unity-hospital-sangli-miraj-kupwad",
@@ -16057,7 +15922,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Unity+Hospital/@16.8171766,74.6513432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123e8d25a9ad3:0xa3f8092b654c3ebf!8m2!3d16.8171766!4d74.6513432!16s%2Fg%2F11swmtn16w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unity+Hospital/@16.8171766,74.6513432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123e8d25a9ad3:0xa3f8092b654c3ebf!8m2!3d16.8171766!4d74.6513432!16s%2Fg%2F11swmtn16w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16126,8 +15991,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Unity+Hospital/@16.8171766,74.6513432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123e8d25a9ad3:0xa3f8092b654c3ebf!8m2!3d16.8171766!4d74.6513432!16s%2Fg%2F11swmtn16w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "usha-haematology-centre-sangli-miraj-kupwad",
@@ -16176,7 +16040,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Usha+Haematology+Centre/@16.8376112,74.6304928,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11842c1d5bb6b:0x84beedde92df3f68!8m2!3d16.8376112!4d74.6304928!16s%2Fg%2F11cskrxg4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Usha+Haematology+Centre/@16.8376112,74.6304928,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11842c1d5bb6b:0x84beedde92df3f68!8m2!3d16.8376112!4d74.6304928!16s%2Fg%2F11cskrxg4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16245,8 +16109,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Usha+Haematology+Centre/@16.8376112,74.6304928,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc11842c1d5bb6b:0x84beedde92df3f68!8m2!3d16.8376112!4d74.6304928!16s%2Fg%2F11cskrxg4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijapure-dental-clinic-sangli-best-dentist-in-sangli-dental-implant-root-canal-dentist-invisible-aligner-sangli-miraj-kupwad",
@@ -16295,7 +16158,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vijapure+Dental+Clinic+-+Sangli+Best+Dentist+in+Sangli+%7C+Dental+Implant+%7C+Root+Canal+Dentist+%7C+Invisible+Aligner/@16.8396117,74.6082515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc12289e55e8563:0xb52eecc411e00cb6!8m2!3d16.8396117!4d74.6082515!16s%2Fg%2F11hc_k7yw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijapure+Dental+Clinic+-+Sangli+Best+Dentist+in+Sangli+%7C+Dental+Implant+%7C+Root+Canal+Dentist+%7C+Invisible+Aligner/@16.8396117,74.6082515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc12289e55e8563:0xb52eecc411e00cb6!8m2!3d16.8396117!4d74.6082515!16s%2Fg%2F11hc_k7yw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16364,8 +16227,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vijapure+Dental+Clinic+-+Sangli+Best+Dentist+in+Sangli+%7C+Dental+Implant+%7C+Root+Canal+Dentist+%7C+Invisible+Aligner/@16.8396117,74.6082515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc12289e55e8563:0xb52eecc411e00cb6!8m2!3d16.8396117!4d74.6082515!16s%2Fg%2F11hc_k7yw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vishrambag-hospital-sangli",
@@ -16411,7 +16273,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vishrambag+Hospital/@16.8524192,74.5915695,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119006a5b3e53:0x72e9c29dd414150!8m2!3d16.8524192!4d74.5915695!16s%2Fg%2F11yjmxrvkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishrambag+Hospital/@16.8524192,74.5915695,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119006a5b3e53:0x72e9c29dd414150!8m2!3d16.8524192!4d74.5915695!16s%2Fg%2F11yjmxrvkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16477,11 +16339,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vishrambag+Hospital/@16.8524192,74.5915695,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc119006a5b3e53:0x72e9c29dd414150!8m2!3d16.8524192!4d74.5915695!16s%2Fg%2F11yjmxrvkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vishrambag-hospital-varicose-veins-treatment-in-sangli-endovenous-laser-treatment-in-sangli-sangli-miraj-kupwad",
@@ -16530,7 +16391,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vishrambag+Hospital+-+Varicose+Veins+Treatment+in+Sangli+%7C+Endovenous+Laser+Treatment+in+Sangli/data=!4m7!3m6!1s0x3bc11878f4e6d8ed:0x5045faec8700782f!8m2!3d16.8511973!4d74.5930397!16s%2Fg%2F11j007zywz!19sChIJ7djm9HgYwTsRL3gAh-z6RVA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishrambag+Hospital+-+Varicose+Veins+Treatment+in+Sangli+%7C+Endovenous+Laser+Treatment+in+Sangli/data=!4m7!3m6!1s0x3bc11878f4e6d8ed:0x5045faec8700782f!8m2!3d16.8511973!4d74.5930397!16s%2Fg%2F11j007zywz!19sChIJ7djm9HgYwTsRL3gAh-z6RVA?authuser=0&hl=en&rclk=1"
@@ -16599,8 +16460,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vishrambag+Hospital+-+Varicose+Veins+Treatment+in+Sangli+%7C+Endovenous+Laser+Treatment+in+Sangli/data=!4m7!3m6!1s0x3bc11878f4e6d8ed:0x5045faec8700782f!8m2!3d16.8511973!4d74.5930397!16s%2Fg%2F11j007zywz!19sChIJ7djm9HgYwTsRL3gAh-z6RVA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "walvekar-hospital-sangli",
@@ -16648,7 +16508,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Walvekar+Hospital/@16.8499118,74.5736296,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118664673893b:0x379abae2d1b8eaf4!8m2!3d16.8499118!4d74.5736296!16s%2Fg%2F1hdzs15xq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Walvekar+Hospital/@16.8499118,74.5736296,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118664673893b:0x379abae2d1b8eaf4!8m2!3d16.8499118!4d74.5736296!16s%2Fg%2F1hdzs15xq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16717,8 +16577,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Walvekar+Hospital/@16.8499118,74.5736296,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc118664673893b:0x379abae2d1b8eaf4!8m2!3d16.8499118!4d74.5736296!16s%2Fg%2F1hdzs15xq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "wanless-hospital-miraj-medical-center-miraj",
@@ -16767,7 +16626,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Wanless+Hospital,+Miraj+Medical+Center/@16.8320924,74.6454259,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b1889c845b:0xae137eadfb66a76!8m2!3d16.8320924!4d74.6454259!16s%2Fg%2F1v3dqktn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wanless+Hospital,+Miraj+Medical+Center/@16.8320924,74.6454259,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b1889c845b:0xae137eadfb66a76!8m2!3d16.8320924!4d74.6454259!16s%2Fg%2F1v3dqktn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16836,8 +16695,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Wanless+Hospital,+Miraj+Medical+Center/@16.8320924,74.6454259,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc123b1889c845b:0xae137eadfb66a76!8m2!3d16.8320924!4d74.6454259!16s%2Fg%2F1v3dqktn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "watwe-hospital-sangli",
@@ -16885,7 +16743,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Watwe+Hospital/@16.854091,74.57577,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fa25468b7:0x8c784836be299e98!8m2!3d16.854091!4d74.57577!16s%2Fg%2F11b6j9flqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Watwe+Hospital/@16.854091,74.57577,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fa25468b7:0x8c784836be299e98!8m2!3d16.854091!4d74.57577!16s%2Fg%2F11b6j9flqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16954,8 +16812,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Watwe+Hospital/@16.854091,74.57577,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186fa25468b7:0x8c784836be299e98!8m2!3d16.854091!4d74.57577!16s%2Fg%2F11b6j9flqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sangli",
@@ -17001,7 +16858,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%B8%E0%A5%81%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%A4+%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%B0%E0%A5%80+%E0%A4%86%E0%A4%A3%E0%A4%BF+%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%8D%E0%A4%B8+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/data=!4m7!3m6!1s0x3bc11900505ebd69:0x49a27c79e1fe79bd!8m2!3d16.8485021!4d74.57378!16s%2Fg%2F11ldvmv4x5!19sChIJab1eUAAZwTsRvXn-4Xl8okk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B8%E0%A5%81%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%A4+%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%B0%E0%A5%80+%E0%A4%86%E0%A4%A3%E0%A4%BF+%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%8D%E0%A4%B8+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/data=!4m7!3m6!1s0x3bc11900505ebd69:0x49a27c79e1fe79bd!8m2!3d16.8485021!4d74.57378!16s%2Fg%2F11ldvmv4x5!19sChIJab1eUAAZwTsRvXn-4Xl8okk?authuser=0&hl=en&rclk=1"
@@ -17067,11 +16924,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%B8%E0%A5%81%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%A4+%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%B0%E0%A5%80+%E0%A4%86%E0%A4%A3%E0%A4%BF+%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%8D%E0%A4%B8+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/data=!4m7!3m6!1s0x3bc11900505ebd69:0x49a27c79e1fe79bd!8m2!3d16.8485021!4d74.57378!16s%2Fg%2F11ldvmv4x5!19sChIJab1eUAAZwTsRvXn-4Xl8okk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sangli-sangli",
@@ -17120,7 +16976,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B2+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0-Sangli/@16.8426562,74.6108556,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc122839654f6af:0x61f537d380943b2b!8m2!3d16.8426562!4d74.6108556!16s%2Fg%2F11c1s8mdc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B2+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0-Sangli/@16.8426562,74.6108556,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc122839654f6af:0x61f537d380943b2b!8m2!3d16.8426562!4d74.6108556!16s%2Fg%2F11c1s8mdc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -17189,8 +17045,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B2+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0-Sangli/@16.8426562,74.6108556,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc122839654f6af:0x61f537d380943b2b!8m2!3d16.8426562!4d74.6108556!16s%2Fg%2F11c1s8mdc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sangli-root-canal-centre-best-dentist-in-sangli-dental-clinic-top-dentist-in-sangli-sangli-miraj-kupwad",
@@ -17239,7 +17094,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%9E%F0%9D%97%AE%F0%9D%97%B9%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6'%F0%9D%98%80+%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B9%F0%9D%98%86+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0,+Sangli+-+Root+Canal+Centre%7C+Best+Dentist+in+Sangli%7C+Dental+Clinic%7C+Top+Dentist+in+Sangli/@16.8519385,74.5722517,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186621a608c9:0xbe1124b76e31c2f5!8m2!3d16.8519385!4d74.5722517!16s%2Fg%2F11c6q7yztd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%9E%F0%9D%97%AE%F0%9D%97%B9%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6'%F0%9D%98%80+%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B9%F0%9D%98%86+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0,+Sangli+-+Root+Canal+Centre%7C+Best+Dentist+in+Sangli%7C+Dental+Clinic%7C+Top+Dentist+in+Sangli/@16.8519385,74.5722517,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186621a608c9:0xbe1124b76e31c2f5!8m2!3d16.8519385!4d74.5722517!16s%2Fg%2F11c6q7yztd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -17305,11 +17160,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%9E%F0%9D%97%AE%F0%9D%97%B9%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6'%F0%9D%98%80+%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B9%F0%9D%98%86+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0,+Sangli+-+Root+Canal+Centre%7C+Best+Dentist+in+Sangli%7C+Dental+Clinic%7C+Top+Dentist+in+Sangli/@16.8519385,74.5722517,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc1186621a608c9:0xbe1124b76e31c2f5!8m2!3d16.8519385!4d74.5722517!16s%2Fg%2F11c6q7yztd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-implants-cosmetic-dentistry-root-canal-best-dental-clinic-in-sangli-sangli",
@@ -17359,7 +17213,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF-Dental+Implants%7C+Cosmetic+Dentistry%7C+Root+Canal%7C+Best+Dental+Clinic+in+Sangli/@16.8492083,74.5967097,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc12283a6323189:0x321684be10f4a6d8!8m2!3d16.8492083!4d74.5967097!16s%2Fg%2F11gbldbh36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF-Dental+Implants%7C+Cosmetic+Dentistry%7C+Root+Canal%7C+Best+Dental+Clinic+in+Sangli/@16.8492083,74.5967097,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc12283a6323189:0x321684be10f4a6d8!8m2!3d16.8492083!4d74.5967097!16s%2Fg%2F11gbldbh36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -17428,7 +17282,6 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF-Dental+Implants%7C+Cosmetic+Dentistry%7C+Root+Canal%7C+Best+Dental+Clinic+in+Sangli/@16.8492083,74.5967097,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc12283a6323189:0x321684be10f4a6d8!8m2!3d16.8492083!4d74.5967097!16s%2Fg%2F11gbldbh36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   }
 ]

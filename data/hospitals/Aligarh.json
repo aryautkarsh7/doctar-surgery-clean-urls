@@ -46,7 +46,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/3+DOTS+DENTAL+CARE/data=!4m7!3m6!1s0x3974a59bf360ea07:0xe7754a50f6a5899c!8m2!3d27.9296884!4d78.0783656!16s%2Fg%2F11tn8rkltx!19sChIJB-pg85uldDkRnIml9lBKdec?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/3+DOTS+DENTAL+CARE/data=!4m7!3m6!1s0x3974a59bf360ea07:0xe7754a50f6a5899c!8m2!3d27.9296884!4d78.0783656!16s%2Fg%2F11tn8rkltx!19sChIJB-pg85uldDkRnIml9lBKdec?authuser=0&hl=en&rclk=1"
@@ -115,8 +115,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/3+DOTS+DENTAL+CARE/data=!4m7!3m6!1s0x3974a59bf360ea07:0xe7754a50f6a5899c!8m2!3d27.9296884!4d78.0783656!16s%2Fg%2F11tn8rkltx!19sChIJB-pg85uldDkRnIml9lBKdec?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "32-points-dental-clinic-aligarh",
@@ -164,7 +163,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/32+Points+Dental+Clinic/data=!4m7!3m6!1s0x3974a4e6ea0c751b:0x2d5c23fc02e50400!8m2!3d27.9128532!4d78.0839508!16s%2Fg%2F11b6h_3s15!19sChIJG3UM6uakdDkRAATlAvwjXC0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+Points+Dental+Clinic/data=!4m7!3m6!1s0x3974a4e6ea0c751b:0x2d5c23fc02e50400!8m2!3d27.9128532!4d78.0839508!16s%2Fg%2F11b6h_3s15!19sChIJG3UM6uakdDkRAATlAvwjXC0?authuser=0&hl=en&rclk=1"
@@ -233,8 +232,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/32+Points+Dental+Clinic/data=!4m7!3m6!1s0x3974a4e6ea0c751b:0x2d5c23fc02e50400!8m2!3d27.9128532!4d78.0839508!16s%2Fg%2F11b6h_3s15!19sChIJG3UM6uakdDkRAATlAvwjXC0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "a-r-health-care-aligarh",
@@ -282,7 +280,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/A+R+Health+Care/data=!4m7!3m6!1s0x3974a4e7bdfc7309:0x68ab3bf93e6bb4d9!8m2!3d27.9106345!4d78.0865583!16s%2Fg%2F11gd1s7k71!19sChIJCXP8veekdDkR2bRrPvk7q2g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+R+Health+Care/data=!4m7!3m6!1s0x3974a4e7bdfc7309:0x68ab3bf93e6bb4d9!8m2!3d27.9106345!4d78.0865583!16s%2Fg%2F11gd1s7k71!19sChIJCXP8veekdDkR2bRrPvk7q2g?authuser=0&hl=en&rclk=1"
@@ -348,11 +346,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/A+R+Health+Care/data=!4m7!3m6!1s0x3974a4e7bdfc7309:0x68ab3bf93e6bb4d9!8m2!3d27.9106345!4d78.0865583!16s%2Fg%2F11gd1s7k71!19sChIJCXP8veekdDkR2bRrPvk7q2g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "abhay-physiotherapy-and-spine-care-best-physiotherapist-in-aligarh-best-physiotherapy-clinic-aligarh",
@@ -403,7 +400,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Abhay+Physiotherapy+%26+Spine+care+%E0%A5%A4+Best+Physiotherapist+in+Aligarh+%7C+Best+Physiotherapy+Clinic+%7C/data=!4m7!3m6!1s0x3974a538249f26d3:0x3cabac7571eb3012!8m2!3d27.8971818!4d78.0949923!16s%2Fg%2F11h1hnhkbb!19sChIJ0yafJDildDkREjDrcXWsqzw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abhay+Physiotherapy+%26+Spine+care+%E0%A5%A4+Best+Physiotherapist+in+Aligarh+%7C+Best+Physiotherapy+Clinic+%7C/data=!4m7!3m6!1s0x3974a538249f26d3:0x3cabac7571eb3012!8m2!3d27.8971818!4d78.0949923!16s%2Fg%2F11h1hnhkbb!19sChIJ0yafJDildDkREjDrcXWsqzw?authuser=0&hl=en&rclk=1"
@@ -472,8 +469,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Abhay+Physiotherapy+%26+Spine+care+%E0%A5%A4+Best+Physiotherapist+in+Aligarh+%7C+Best+Physiotherapy+Clinic+%7C/data=!4m7!3m6!1s0x3974a538249f26d3:0x3cabac7571eb3012!8m2!3d27.8971818!4d78.0949923!16s%2Fg%2F11h1hnhkbb!19sChIJ0yafJDildDkREjDrcXWsqzw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ak-surgicals-aligarh",
@@ -521,7 +517,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/AK+surgicals/data=!4m7!3m6!1s0x3974a53c0bdb475f:0x9a117cc65c436888!8m2!3d27.8954976!4d78.0658915!16s%2Fg%2F11h5lhxhbh!19sChIJX0fbCzyldDkRiGhDXMZ8EZo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AK+surgicals/data=!4m7!3m6!1s0x3974a53c0bdb475f:0x9a117cc65c436888!8m2!3d27.8954976!4d78.0658915!16s%2Fg%2F11h5lhxhbh!19sChIJX0fbCzyldDkRiGhDXMZ8EZo?authuser=0&hl=en&rclk=1"
@@ -587,11 +583,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/AK+surgicals/data=!4m7!3m6!1s0x3974a53c0bdb475f:0x9a117cc65c436888!8m2!3d27.8954976!4d78.0658915!16s%2Fg%2F11h5lhxhbh!19sChIJX0fbCzyldDkRiGhDXMZ8EZo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "al-samad-hospital-aligarh",
@@ -639,7 +634,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Al-Samad+Hospital/data=!4m7!3m6!1s0x3974a533ca531715:0xe98bc472feb8e782!8m2!3d27.9377445!4d78.0828917!16s%2Fg%2F11fmw08jb9!19sChIJFRdTyjOldDkRgue4_nLEi-k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Al-Samad+Hospital/data=!4m7!3m6!1s0x3974a533ca531715:0xe98bc472feb8e782!8m2!3d27.9377445!4d78.0828917!16s%2Fg%2F11fmw08jb9!19sChIJFRdTyjOldDkRgue4_nLEi-k?authuser=0&hl=en&rclk=1"
@@ -708,8 +703,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Al-Samad+Hospital/data=!4m7!3m6!1s0x3974a533ca531715:0xe98bc472feb8e782!8m2!3d27.9377445!4d78.0828917!16s%2Fg%2F11fmw08jb9!19sChIJFRdTyjOldDkRgue4_nLEi-k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aligarh-clinic-heart-and-diabetes-centre-aligarh",
@@ -759,7 +753,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aligarh+Clinic-+Heart+%26+Diabetes+Centre/data=!4m7!3m6!1s0x3974a58aebabf131:0xb72f5a4ed1a6ed1!8m2!3d27.8897534!4d78.0705271!16s%2Fg%2F11sn_305y4!19sChIJMfGr64qldDkR0W4a7aT1cgs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aligarh+Clinic-+Heart+%26+Diabetes+Centre/data=!4m7!3m6!1s0x3974a58aebabf131:0xb72f5a4ed1a6ed1!8m2!3d27.8897534!4d78.0705271!16s%2Fg%2F11sn_305y4!19sChIJMfGr64qldDkR0W4a7aT1cgs?authuser=0&hl=en&rclk=1"
@@ -828,8 +822,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aligarh+Clinic-+Heart+%26+Diabetes+Centre/data=!4m7!3m6!1s0x3974a58aebabf131:0xb72f5a4ed1a6ed1!8m2!3d27.8897534!4d78.0705271!16s%2Fg%2F11sn_305y4!19sChIJMfGr64qldDkR0W4a7aT1cgs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aligarh-dental-clinic-aligarh",
@@ -877,7 +870,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aligarh+Dental+Clinic/data=!4m7!3m6!1s0x3974a55015eea389:0xae7c8496091c4fa6!8m2!3d27.9029092!4d78.0925715!16s%2Fg%2F11j1c1jz8v!19sChIJiaPuFVCldDkRpk8cCZaEfK4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aligarh+Dental+Clinic/data=!4m7!3m6!1s0x3974a55015eea389:0xae7c8496091c4fa6!8m2!3d27.9029092!4d78.0925715!16s%2Fg%2F11j1c1jz8v!19sChIJiaPuFVCldDkRpk8cCZaEfK4?authuser=0&hl=en&rclk=1"
@@ -946,8 +939,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aligarh+Dental+Clinic/data=!4m7!3m6!1s0x3974a55015eea389:0xae7c8496091c4fa6!8m2!3d27.9029092!4d78.0925715!16s%2Fg%2F11j1c1jz8v!19sChIJiaPuFVCldDkRpk8cCZaEfK4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aligarh-hospital-and-maternity-centre-aligarh",
@@ -997,7 +989,7 @@
       "Google rating 3.2",
       "24+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aligarh+Hospital+And+Maternity+Centre/data=!4m7!3m6!1s0x3974a4c230036be7:0x9b76593a77bfd3c2!8m2!3d27.9040969!4d78.0902355!16s%2Fg%2F1261hj464!19sChIJ52sDMMKkdDkRwtO_dzpZdps?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aligarh+Hospital+And+Maternity+Centre/data=!4m7!3m6!1s0x3974a4c230036be7:0x9b76593a77bfd3c2!8m2!3d27.9040969!4d78.0902355!16s%2Fg%2F1261hj464!19sChIJ52sDMMKkdDkRwtO_dzpZdps?authuser=0&hl=en&rclk=1"
@@ -1066,8 +1058,7 @@
     "rating": 3.2,
     "reviews": 24,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aligarh+Hospital+And+Maternity+Centre/data=!4m7!3m6!1s0x3974a4c230036be7:0x9b76593a77bfd3c2!8m2!3d27.9040969!4d78.0902355!16s%2Fg%2F1261hj464!19sChIJ52sDMMKkdDkRwtO_dzpZdps?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aligarh-surgical-traders-aligarh",
@@ -1113,7 +1104,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Aligarh+Surgical+Traders/data=!4m7!3m6!1s0x3974a5cd59e04dfd:0x4d3c995c6b38f8c3!8m2!3d27.9047358!4d78.0924526!16s%2Fg%2F11sqwk6tfh!19sChIJ_U3gWc2ldDkRw_g4a1yZPE0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aligarh+Surgical+Traders/data=!4m7!3m6!1s0x3974a5cd59e04dfd:0x4d3c995c6b38f8c3!8m2!3d27.9047358!4d78.0924526!16s%2Fg%2F11sqwk6tfh!19sChIJ_U3gWc2ldDkRw_g4a1yZPE0?authuser=0&hl=en&rclk=1"
@@ -1179,11 +1170,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Aligarh+Surgical+Traders/data=!4m7!3m6!1s0x3974a5cd59e04dfd:0x4d3c995c6b38f8c3!8m2!3d27.9047358!4d78.0924526!16s%2Fg%2F11sqwk6tfh!19sChIJ_U3gWc2ldDkRw_g4a1yZPE0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "american-oncology-institute-aligarh-uttar-pradesh-aligarh",
@@ -1232,7 +1222,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/American+Oncology+Institute,+Aligarh,+Uttar+Pradesh/data=!4m7!3m6!1s0x3974a307b8c18395:0x3c5daa75d7a64dcf!8m2!3d27.8537791!4d78.076231!16s%2Fg%2F11w307tryh!19sChIJlYPBuAejdDkRz02m13WqXTw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/American+Oncology+Institute,+Aligarh,+Uttar+Pradesh/data=!4m7!3m6!1s0x3974a307b8c18395:0x3c5daa75d7a64dcf!8m2!3d27.8537791!4d78.076231!16s%2Fg%2F11w307tryh!19sChIJlYPBuAejdDkRz02m13WqXTw?authuser=0&hl=en&rclk=1"
@@ -1298,11 +1288,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/American+Oncology+Institute,+Aligarh,+Uttar+Pradesh/data=!4m7!3m6!1s0x3974a307b8c18395:0x3c5daa75d7a64dcf!8m2!3d27.8537791!4d78.076231!16s%2Fg%2F11w307tryh!19sChIJlYPBuAejdDkRz02m13WqXTw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "amrit-nursing-home-aligarh",
@@ -1350,7 +1339,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Amrit+Nursing+Home/data=!4m7!3m6!1s0x3974a37b78243767:0xa5d0c2f8a73d4f0a!8m2!3d27.8666062!4d78.073871!16s%2Fg%2F11c54bd44g!19sChIJZzckeHujdDkRCk89p_jC0KU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrit+Nursing+Home/data=!4m7!3m6!1s0x3974a37b78243767:0xa5d0c2f8a73d4f0a!8m2!3d27.8666062!4d78.073871!16s%2Fg%2F11c54bd44g!19sChIJZzckeHujdDkRCk89p_jC0KU?authuser=0&hl=en&rclk=1"
@@ -1419,8 +1408,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Amrit+Nursing+Home/data=!4m7!3m6!1s0x3974a37b78243767:0xa5d0c2f8a73d4f0a!8m2!3d27.8666062!4d78.073871!16s%2Fg%2F11c54bd44g!19sChIJZzckeHujdDkRCk89p_jC0KU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anand-eye-center-aligarh",
@@ -1470,7 +1458,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Anand+Eye+Center/data=!4m7!3m6!1s0x3974a496ae6730a7:0x1ed8beaba29d475!8m2!3d27.8992658!4d78.0949352!16s%2Fg%2F1hm4g_kfs!19sChIJpzBnrpakdDkRddQpuuqL7QE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Eye+Center/data=!4m7!3m6!1s0x3974a496ae6730a7:0x1ed8beaba29d475!8m2!3d27.8992658!4d78.0949352!16s%2Fg%2F1hm4g_kfs!19sChIJpzBnrpakdDkRddQpuuqL7QE?authuser=0&hl=en&rclk=1"
@@ -1539,8 +1527,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Anand+Eye+Center/data=!4m7!3m6!1s0x3974a496ae6730a7:0x1ed8beaba29d475!8m2!3d27.8992658!4d78.0949352!16s%2Fg%2F1hm4g_kfs!19sChIJpzBnrpakdDkRddQpuuqL7QE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "anita-nursing-home-aligarh",
@@ -1590,7 +1577,7 @@
       "Google rating 3.1",
       "1+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ANITA+NURSING+HOME/data=!4m7!3m6!1s0x3974a596e687935b:0xac9074aaedd60f41!8m2!3d27.9125033!4d78.110632!16s%2Fg%2F11pc1ytshj!19sChIJW5OH5paldDkRQQ_W7ap0kKw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANITA+NURSING+HOME/data=!4m7!3m6!1s0x3974a596e687935b:0xac9074aaedd60f41!8m2!3d27.9125033!4d78.110632!16s%2Fg%2F11pc1ytshj!19sChIJW5OH5paldDkRQQ_W7ap0kKw?authuser=0&hl=en&rclk=1"
@@ -1659,8 +1646,7 @@
     "rating": 3.1,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ANITA+NURSING+HOME/data=!4m7!3m6!1s0x3974a596e687935b:0xac9074aaedd60f41!8m2!3d27.9125033!4d78.110632!16s%2Fg%2F11pc1ytshj!19sChIJW5OH5paldDkRQQ_W7ap0kKw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "antriksh-dental-clinic-aligarh",
@@ -1709,7 +1695,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Antriksh+Dental+Clinic/data=!4m7!3m6!1s0x3974a5c0c79ee701:0x5170c19d2b03a9b7!8m2!3d27.8948039!4d78.0916127!16s%2Fg%2F11ssrdglq2!19sChIJAeeex8CldDkRt6kDK53BcFE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Antriksh+Dental+Clinic/data=!4m7!3m6!1s0x3974a5c0c79ee701:0x5170c19d2b03a9b7!8m2!3d27.8948039!4d78.0916127!16s%2Fg%2F11ssrdglq2!19sChIJAeeex8CldDkRt6kDK53BcFE?authuser=0&hl=en&rclk=1"
@@ -1778,8 +1764,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Antriksh+Dental+Clinic/data=!4m7!3m6!1s0x3974a5c0c79ee701:0x5170c19d2b03a9b7!8m2!3d27.8948039!4d78.0916127!16s%2Fg%2F11ssrdglq2!19sChIJAeeex8CldDkRt6kDK53BcFE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-children-hospital-and-trauma-center-aligarh",
@@ -1828,7 +1813,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/APOLLO+CHILDREN+HOSPITAL+%26+TRAUMA+CENTER/data=!4m7!3m6!1s0x3974bd4e3bf204ed:0xc4b4121c6f86d6d4!8m2!3d27.8666973!4d78.1180382!16s%2Fg%2F11x1ypg9sb!19sChIJ7QTyO069dDkR1NaGbxwStMQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/APOLLO+CHILDREN+HOSPITAL+%26+TRAUMA+CENTER/data=!4m7!3m6!1s0x3974bd4e3bf204ed:0xc4b4121c6f86d6d4!8m2!3d27.8666973!4d78.1180382!16s%2Fg%2F11x1ypg9sb!19sChIJ7QTyO069dDkR1NaGbxwStMQ?authuser=0&hl=en&rclk=1"
@@ -1897,8 +1882,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/APOLLO+CHILDREN+HOSPITAL+%26+TRAUMA+CENTER/data=!4m7!3m6!1s0x3974bd4e3bf204ed:0xc4b4121c6f86d6d4!8m2!3d27.8666973!4d78.1180382!16s%2Fg%2F11x1ypg9sb!19sChIJ7QTyO069dDkR1NaGbxwStMQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "apollo-proton-therapy-in-aligarh-aligarh",
@@ -1947,7 +1931,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Aligarh/data=!4m7!3m6!1s0x3974a5186f8c8c39:0x925aaa578441c64c!8m2!3d27.89326!4d78.069561!16s%2Fg%2F11xtwffcpx!19sChIJOYyMbxildDkRTMZBhFeqWpI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Aligarh/data=!4m7!3m6!1s0x3974a5186f8c8c39:0x925aaa578441c64c!8m2!3d27.89326!4d78.069561!16s%2Fg%2F11xtwffcpx!19sChIJOYyMbxildDkRTMZBhFeqWpI?authuser=0&hl=en&rclk=1"
@@ -2013,11 +1997,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Aligarh/data=!4m7!3m6!1s0x3974a5186f8c8c39:0x925aaa578441c64c!8m2!3d27.89326!4d78.069561!16s%2Fg%2F11xtwffcpx!19sChIJOYyMbxildDkRTMZBhFeqWpI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aradhya-dental-clinic-and-implant-center-aligarh",
@@ -2065,7 +2048,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ARADHYA+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3974bb2cf8d1236f:0xc000b40f48e31059!8m2!3d27.9143476!4d78.1134794!16s%2Fg%2F11g6b235l_!19sChIJbyPR-Cy7dDkRWRDjSA-0AMA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ARADHYA+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3974bb2cf8d1236f:0xc000b40f48e31059!8m2!3d27.9143476!4d78.1134794!16s%2Fg%2F11g6b235l_!19sChIJbyPR-Cy7dDkRWRDjSA-0AMA?authuser=0&hl=en&rclk=1"
@@ -2134,8 +2117,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ARADHYA+DENTAL+CLINIC+AND+IMPLANT+CENTER/data=!4m7!3m6!1s0x3974bb2cf8d1236f:0xc000b40f48e31059!8m2!3d27.9143476!4d78.1134794!16s%2Fg%2F11g6b235l_!19sChIJbyPR-Cy7dDkRWRDjSA-0AMA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aradhya-hospital-aligarh",
@@ -2184,7 +2166,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ARADHYA+HOSPITAL/data=!4m7!3m6!1s0x3974bd9c8b5b23e7:0xd5172aa8039c0560!8m2!3d27.8630099!4d78.129585!16s%2Fg%2F11s0kv6jwk!19sChIJ5yNbi5y9dDkRYAWcA6gqF9U?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ARADHYA+HOSPITAL/data=!4m7!3m6!1s0x3974bd9c8b5b23e7:0xd5172aa8039c0560!8m2!3d27.8630099!4d78.129585!16s%2Fg%2F11s0kv6jwk!19sChIJ5yNbi5y9dDkRYAWcA6gqF9U?authuser=0&hl=en&rclk=1"
@@ -2253,8 +2235,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ARADHYA+HOSPITAL/data=!4m7!3m6!1s0x3974bd9c8b5b23e7:0xd5172aa8039c0560!8m2!3d27.8630099!4d78.129585!16s%2Fg%2F11s0kv6jwk!19sChIJ5yNbi5y9dDkRYAWcA6gqF9U?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asha-brain-and-spine-centre-aligarh",
@@ -2304,7 +2285,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asha+Brain+and+Spine+Centre/data=!4m7!3m6!1s0x3974a50064346e55:0x15e76df6f682129e!8m2!3d27.9030708!4d78.101113!16s%2Fg%2F11vr_gdf7m!19sChIJVW40ZACldDkRnhKC9vZt5xU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asha+Brain+and+Spine+Centre/data=!4m7!3m6!1s0x3974a50064346e55:0x15e76df6f682129e!8m2!3d27.9030708!4d78.101113!16s%2Fg%2F11vr_gdf7m!19sChIJVW40ZACldDkRnhKC9vZt5xU?authuser=0&hl=en&rclk=1"
@@ -2373,8 +2354,7 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asha+Brain+and+Spine+Centre/data=!4m7!3m6!1s0x3974a50064346e55:0x15e76df6f682129e!8m2!3d27.9030708!4d78.101113!16s%2Fg%2F11vr_gdf7m!19sChIJVW40ZACldDkRnhKC9vZt5xU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ashok-memorial-sukhsagar-hospital-aligarh",
@@ -2422,7 +2402,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ashok+Memorial+Sukhsagar+Hospital/data=!4m7!3m6!1s0x3974a4a7441f2305:0x74243a310b20e5d8!8m2!3d27.8770427!4d78.0945191!16s%2Fg%2F11cs1shk0h!19sChIJBSMfRKekdDkR2OUgCzE6JHQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashok+Memorial+Sukhsagar+Hospital/data=!4m7!3m6!1s0x3974a4a7441f2305:0x74243a310b20e5d8!8m2!3d27.8770427!4d78.0945191!16s%2Fg%2F11cs1shk0h!19sChIJBSMfRKekdDkR2OUgCzE6JHQ?authuser=0&hl=en&rclk=1"
@@ -2491,8 +2471,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ashok+Memorial+Sukhsagar+Hospital/data=!4m7!3m6!1s0x3974a4a7441f2305:0x74243a310b20e5d8!8m2!3d27.8770427!4d78.0945191!16s%2Fg%2F11cs1shk0h!19sChIJBSMfRKekdDkR2OUgCzE6JHQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "asian-medical-center-aligarh",
@@ -2541,7 +2520,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Asian+Medical+Center/data=!4m7!3m6!1s0x3974a4941e2abc35:0xf7b44c9ac83a0282!8m2!3d27.8913575!4d78.0834226!16s%2Fg%2F1hm61nbn5!19sChIJNbwqHpSkdDkRggI6yJpMtPc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Medical+Center/data=!4m7!3m6!1s0x3974a4941e2abc35:0xf7b44c9ac83a0282!8m2!3d27.8913575!4d78.0834226!16s%2Fg%2F1hm61nbn5!19sChIJNbwqHpSkdDkRggI6yJpMtPc?authuser=0&hl=en&rclk=1"
@@ -2610,8 +2589,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Asian+Medical+Center/data=!4m7!3m6!1s0x3974a4941e2abc35:0xf7b44c9ac83a0282!8m2!3d27.8913575!4d78.0834226!16s%2Fg%2F1hm61nbn5!19sChIJNbwqHpSkdDkRggI6yJpMtPc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "babybloom-ivf-best-ivf-center-in-aligarh-uttar-pradesh-aligarh",
@@ -2662,7 +2640,7 @@
       "8+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/BabyBloom+IVF+%28Best+IVF+Center+in+Aligarh%29+Uttar+Pradesh/data=!4m7!3m6!1s0x3974a5879f63f071:0x61babf99cdaaa07a!8m2!3d27.8813659!4d78.0867947!16s%2Fg%2F11w9r7c8tn!19sChIJcfBjn4eldDkReqCqzZm_umE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BabyBloom+IVF+%28Best+IVF+Center+in+Aligarh%29+Uttar+Pradesh/data=!4m7!3m6!1s0x3974a5879f63f071:0x61babf99cdaaa07a!8m2!3d27.8813659!4d78.0867947!16s%2Fg%2F11w9r7c8tn!19sChIJcfBjn4eldDkReqCqzZm_umE?authuser=0&hl=en&rclk=1"
@@ -2728,11 +2706,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 8,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/BabyBloom+IVF+%28Best+IVF+Center+in+Aligarh%29+Uttar+Pradesh/data=!4m7!3m6!1s0x3974a5879f63f071:0x61babf99cdaaa07a!8m2!3d27.8813659!4d78.0867947!16s%2Fg%2F11w9r7c8tn!19sChIJcfBjn4eldDkReqCqzZm_umE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "bhardwaj-dental-clinic-and-implant-centre-aligarh",
@@ -2780,7 +2757,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Bhardwaj+Dental+Clinic+%26+Implant+Centre/data=!4m7!3m6!1s0x3974a50ff0c44df3:0x1f62703f783ddb78!8m2!3d27.899795!4d78.0949549!16s%2Fg%2F11y5cw_hkw!19sChIJ803E8A-ldDkReNs9eD9wYh8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhardwaj+Dental+Clinic+%26+Implant+Centre/data=!4m7!3m6!1s0x3974a50ff0c44df3:0x1f62703f783ddb78!8m2!3d27.899795!4d78.0949549!16s%2Fg%2F11y5cw_hkw!19sChIJ803E8A-ldDkReNs9eD9wYh8?authuser=0&hl=en&rclk=1"
@@ -2846,11 +2823,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Bhardwaj+Dental+Clinic+%26+Implant+Centre/data=!4m7!3m6!1s0x3974a50ff0c44df3:0x1f62703f783ddb78!8m2!3d27.899795!4d78.0949549!16s%2Fg%2F11y5cw_hkw!19sChIJ803E8A-ldDkReNs9eD9wYh8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cardio-diabetic-and-surgical-centre-aligarh",
@@ -2896,7 +2872,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cardio+Diabetic+%26+Surgical+Centre/data=!4m7!3m6!1s0x3974a4e62bf7d2c7:0x50ba2b24691769c0!8m2!3d27.9090191!4d78.0848491!16s%2Fg%2F11tsjwpj56!19sChIJx9L3K-akdDkRwGkXaSQrulA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cardio+Diabetic+%26+Surgical+Centre/data=!4m7!3m6!1s0x3974a4e62bf7d2c7:0x50ba2b24691769c0!8m2!3d27.9090191!4d78.0848491!16s%2Fg%2F11tsjwpj56!19sChIJx9L3K-akdDkRwGkXaSQrulA?authuser=0&hl=en&rclk=1"
@@ -2962,11 +2938,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cardio+Diabetic+%26+Surgical+Centre/data=!4m7!3m6!1s0x3974a4e62bf7d2c7:0x50ba2b24691769c0!8m2!3d27.9090191!4d78.0848491!16s%2Fg%2F11tsjwpj56!19sChIJx9L3K-akdDkRwGkXaSQrulA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-care-hospital-aligarh",
@@ -3014,7 +2989,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Care+Hospital/data=!4m7!3m6!1s0x3974a54f32e7ede1:0xc7f0b362c7c74ee7!8m2!3d27.9037024!4d78.0935757!16s%2Fg%2F11rx3pyjlj!19sChIJ4e3nMk-ldDkR507Hx2Kz8Mc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Care+Hospital/data=!4m7!3m6!1s0x3974a54f32e7ede1:0xc7f0b362c7c74ee7!8m2!3d27.9037024!4d78.0935757!16s%2Fg%2F11rx3pyjlj!19sChIJ4e3nMk-ldDkR507Hx2Kz8Mc?authuser=0&hl=en&rclk=1"
@@ -3083,8 +3058,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Care+Hospital/data=!4m7!3m6!1s0x3974a54f32e7ede1:0xc7f0b362c7c74ee7!8m2!3d27.9037024!4d78.0935757!16s%2Fg%2F11rx3pyjlj!19sChIJ4e3nMk-ldDkR507Hx2Kz8Mc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "city-dental-aligarh",
@@ -3132,7 +3106,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/City+Dental/data=!4m7!3m6!1s0x3974a4ced636935d:0x444cfd9bc2dfa305!8m2!3d27.9049349!4d78.1023527!16s%2Fg%2F11ggt10lpt!19sChIJXZM21s6kdDkRBaPfwpv9TEQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Dental/data=!4m7!3m6!1s0x3974a4ced636935d:0x444cfd9bc2dfa305!8m2!3d27.9049349!4d78.1023527!16s%2Fg%2F11ggt10lpt!19sChIJXZM21s6kdDkRBaPfwpv9TEQ?authuser=0&hl=en&rclk=1"
@@ -3201,8 +3175,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/City+Dental/data=!4m7!3m6!1s0x3974a4ced636935d:0x444cfd9bc2dfa305!8m2!3d27.9049349!4d78.1023527!16s%2Fg%2F11ggt10lpt!19sChIJXZM21s6kdDkRBaPfwpv9TEQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmetic-surgery-and-laser-centre-aligarh",
@@ -3250,7 +3223,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cosmetic+Surgery+%26+Laser+Centre/data=!4m7!3m6!1s0x3974a4bf8348501d:0x2d78601404b8be5c!8m2!3d27.896995!4d78.0906584!16s%2Fg%2F11mxn1h1wt!19sChIJHVBIg7-kdDkRXL64BBRgeC0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmetic+Surgery+%26+Laser+Centre/data=!4m7!3m6!1s0x3974a4bf8348501d:0x2d78601404b8be5c!8m2!3d27.896995!4d78.0906584!16s%2Fg%2F11mxn1h1wt!19sChIJHVBIg7-kdDkRXL64BBRgeC0?authuser=0&hl=en&rclk=1"
@@ -3316,11 +3289,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cosmetic+Surgery+%26+Laser+Centre/data=!4m7!3m6!1s0x3974a4bf8348501d:0x2d78601404b8be5c!8m2!3d27.896995!4d78.0906584!16s%2Fg%2F11mxn1h1wt!19sChIJHVBIg7-kdDkRXL64BBRgeC0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cosmo-experts-clinics-aligarh-best-hair-transplant-clinic-aligarh",
@@ -3370,7 +3342,7 @@
       "2+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cosmo+Experts+Clinics+Aligarh+-+Best+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3974a56bb8446da5:0x2d0f0143e6a3ed08!8m2!3d27.8923503!4d78.0800731!16s%2Fg%2F11spvx1ygn!19sChIJpW1EuGuldDkRCO2j5kMBDy0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmo+Experts+Clinics+Aligarh+-+Best+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3974a56bb8446da5:0x2d0f0143e6a3ed08!8m2!3d27.8923503!4d78.0800731!16s%2Fg%2F11spvx1ygn!19sChIJpW1EuGuldDkRCO2j5kMBDy0?authuser=0&hl=en&rclk=1"
@@ -3439,8 +3411,7 @@
     "rating": 4.9,
     "reviews": 2,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cosmo+Experts+Clinics+Aligarh+-+Best+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3974a56bb8446da5:0x2d0f0143e6a3ed08!8m2!3d27.8923503!4d78.0800731!16s%2Fg%2F11spvx1ygn!19sChIJpW1EuGuldDkRCO2j5kMBDy0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "crown-dental-hub-aligarh",
@@ -3488,7 +3459,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Crown+Dental+Hub/data=!4m7!3m6!1s0x3974a506e35faa2f:0xf7ace1babf8fdb9d!8m2!3d27.8995199!4d78.0957064!16s%2Fg%2F11fj9g7d7t!19sChIJL6pf4waldDkRnduPv7rhrPc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Crown+Dental+Hub/data=!4m7!3m6!1s0x3974a506e35faa2f:0xf7ace1babf8fdb9d!8m2!3d27.8995199!4d78.0957064!16s%2Fg%2F11fj9g7d7t!19sChIJL6pf4waldDkRnduPv7rhrPc?authuser=0&hl=en&rclk=1"
@@ -3557,8 +3528,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Crown+Dental+Hub/data=!4m7!3m6!1s0x3974a506e35faa2f:0xf7ace1babf8fdb9d!8m2!3d27.8995199!4d78.0957064!16s%2Fg%2F11fj9g7d7t!19sChIJL6pf4waldDkRnduPv7rhrPc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "cutis-cosmetic-clinic-skin-and-hair-aligarh",
@@ -3606,7 +3576,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Cutis+Cosmetic+Clinic+%28Skin+and+Hair%29/data=!4m7!3m6!1s0x3974a490275dcbe7:0xfb8a2a0d963fee2e!8m2!3d27.8797395!4d78.073403!16s%2Fg%2F11c1r0mk4c!19sChIJ58tdJ5CkdDkRLu4_lg0qivs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cutis+Cosmetic+Clinic+%28Skin+and+Hair%29/data=!4m7!3m6!1s0x3974a490275dcbe7:0xfb8a2a0d963fee2e!8m2!3d27.8797395!4d78.073403!16s%2Fg%2F11c1r0mk4c!19sChIJ58tdJ5CkdDkRLu4_lg0qivs?authuser=0&hl=en&rclk=1"
@@ -3675,8 +3645,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Cutis+Cosmetic+Clinic+%28Skin+and+Hair%29/data=!4m7!3m6!1s0x3974a490275dcbe7:0xfb8a2a0d963fee2e!8m2!3d27.8797395!4d78.073403!16s%2Fg%2F11c1r0mk4c!19sChIJ58tdJ5CkdDkRLu4_lg0qivs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dcdc-kidney-care-aligarh",
@@ -3726,7 +3695,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DCDC+Kidney+Care/data=!4m7!3m6!1s0x3974a58324c6032f:0x53d39193ca282e57!8m2!3d27.891323!4d78.0831654!16s%2Fg%2F11lybjwbfb!19sChIJLwPGJIOldDkRVy4oypOR01M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DCDC+Kidney+Care/data=!4m7!3m6!1s0x3974a58324c6032f:0x53d39193ca282e57!8m2!3d27.891323!4d78.0831654!16s%2Fg%2F11lybjwbfb!19sChIJLwPGJIOldDkRVy4oypOR01M?authuser=0&hl=en&rclk=1"
@@ -3792,11 +3761,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DCDC+Kidney+Care/data=!4m7!3m6!1s0x3974a58324c6032f:0x53d39193ca282e57!8m2!3d27.891323!4d78.0831654!16s%2Fg%2F11lybjwbfb!19sChIJLwPGJIOldDkRVy4oypOR01M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "deeptihospital-aligarh",
@@ -3845,7 +3813,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Deeptihospital/data=!4m7!3m6!1s0x3974a57b12da456b:0xc86c4d589441987a!8m2!3d27.93176!4d78.087932!16s%2Fg%2F11v6t20cpd!19sChIJa0XaEnuldDkRephBlFhNbMg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deeptihospital/data=!4m7!3m6!1s0x3974a57b12da456b:0xc86c4d589441987a!8m2!3d27.93176!4d78.087932!16s%2Fg%2F11v6t20cpd!19sChIJa0XaEnuldDkRephBlFhNbMg?authuser=0&hl=en&rclk=1"
@@ -3914,8 +3882,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Deeptihospital/data=!4m7!3m6!1s0x3974a57b12da456b:0xc86c4d589441987a!8m2!3d27.93176!4d78.087932!16s%2Fg%2F11v6t20cpd!19sChIJa0XaEnuldDkRephBlFhNbMg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-cafe-com-aligarh",
@@ -3963,7 +3930,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dental+cafe+.+Com/data=!4m7!3m6!1s0x3974a539d03db123:0x5976ff23e65fc7ba!8m2!3d27.8858256!4d78.0807531!16s%2Fg%2F11shqds1l5!19sChIJI7E90DmldDkRusdf5iP_dlk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+cafe+.+Com/data=!4m7!3m6!1s0x3974a539d03db123:0x5976ff23e65fc7ba!8m2!3d27.8858256!4d78.0807531!16s%2Fg%2F11shqds1l5!19sChIJI7E90DmldDkRusdf5iP_dlk?authuser=0&hl=en&rclk=1"
@@ -4029,11 +3996,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dental+cafe+.+Com/data=!4m7!3m6!1s0x3974a539d03db123:0x5976ff23e65fc7ba!8m2!3d27.8858256!4d78.0807531!16s%2Fg%2F11shqds1l5!19sChIJI7E90DmldDkRusdf5iP_dlk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dental-care-centre-aligarh",
@@ -4081,7 +4047,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/dental+care+centre/data=!4m7!3m6!1s0x3974a5a453b1b1c1:0x82256c4780248b6b!8m2!3d27.8915915!4d78.0785511!16s%2Fg%2F11fmpyn5k5!19sChIJwbGxU6SldDkRa4skgEdsJYI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/dental+care+centre/data=!4m7!3m6!1s0x3974a5a453b1b1c1:0x82256c4780248b6b!8m2!3d27.8915915!4d78.0785511!16s%2Fg%2F11fmpyn5k5!19sChIJwbGxU6SldDkRa4skgEdsJYI?authuser=0&hl=en&rclk=1"
@@ -4150,8 +4116,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/dental+care+centre/data=!4m7!3m6!1s0x3974a5a453b1b1c1:0x82256c4780248b6b!8m2!3d27.8915915!4d78.0785511!16s%2Fg%2F11fmpyn5k5!19sChIJwbGxU6SldDkRa4skgEdsJYI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentino-center-of-advanced-dentistry-best-dentist-in-aligarh-best-dental-clinic-in-aligarh-aligarh",
@@ -4199,7 +4164,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dentino+-+Center+of+Advanced+Dentistry+%7C+Best+Dentist+in+Aligarh+%7C+Best+Dental+Clinic+in+Aligarh./data=!4m7!3m6!1s0x3974a5e9a55393eb:0xb482c3b10b6d1f95!8m2!3d27.9103213!4d78.0848077!16s%2Fg%2F11p_2f25_m!19sChIJ65NTpemldDkRlR9tC7HDgrQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentino+-+Center+of+Advanced+Dentistry+%7C+Best+Dentist+in+Aligarh+%7C+Best+Dental+Clinic+in+Aligarh./data=!4m7!3m6!1s0x3974a5e9a55393eb:0xb482c3b10b6d1f95!8m2!3d27.9103213!4d78.0848077!16s%2Fg%2F11p_2f25_m!19sChIJ65NTpemldDkRlR9tC7HDgrQ?authuser=0&hl=en&rclk=1"
@@ -4268,8 +4233,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dentino+-+Center+of+Advanced+Dentistry+%7C+Best+Dentist+in+Aligarh+%7C+Best+Dental+Clinic+in+Aligarh./data=!4m7!3m6!1s0x3974a5e9a55393eb:0xb482c3b10b6d1f95!8m2!3d27.9103213!4d78.0848077!16s%2Fg%2F11p_2f25_m!19sChIJ65NTpemldDkRlR9tC7HDgrQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentiva-dental-care-aligarh",
@@ -4319,7 +4283,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DENTIVA+DENTAL+CARE/data=!4m7!3m6!1s0x3974a5d7fe7c34ed:0x156b3c3df7d63de3!8m2!3d27.9300221!4d78.0784891!16s%2Fg%2F11t6wsh27_!19sChIJ7TR8_teldDkR4z3W9z08axU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTIVA+DENTAL+CARE/data=!4m7!3m6!1s0x3974a5d7fe7c34ed:0x156b3c3df7d63de3!8m2!3d27.9300221!4d78.0784891!16s%2Fg%2F11t6wsh27_!19sChIJ7TR8_teldDkR4z3W9z08axU?authuser=0&hl=en&rclk=1"
@@ -4388,8 +4352,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DENTIVA+DENTAL+CARE/data=!4m7!3m6!1s0x3974a5d7fe7c34ed:0x156b3c3df7d63de3!8m2!3d27.9300221!4d78.0784891!16s%2Fg%2F11t6wsh27_!19sChIJ7TR8_teldDkR4z3W9z08axU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dentrust-dental-clinic-aligarh",
@@ -4438,7 +4401,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dentrust+Dental+Clinic/data=!4m7!3m6!1s0x3974a5214c5d1f89:0x460b313422a1b1d6!8m2!3d27.9221572!4d78.0871694!16s%2Fg%2F11tmn23jvc!19sChIJiR9dTCGldDkR1rGhIjQxC0Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentrust+Dental+Clinic/data=!4m7!3m6!1s0x3974a5214c5d1f89:0x460b313422a1b1d6!8m2!3d27.9221572!4d78.0871694!16s%2Fg%2F11tmn23jvc!19sChIJiR9dTCGldDkR1rGhIjQxC0Y?authuser=0&hl=en&rclk=1"
@@ -4504,11 +4467,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dentrust+Dental+Clinic/data=!4m7!3m6!1s0x3974a5214c5d1f89:0x460b313422a1b1d6!8m2!3d27.9221572!4d78.0871694!16s%2Fg%2F11tmn23jvc!19sChIJiR9dTCGldDkR1rGhIjQxC0Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dev-hospital-aligarh",
@@ -4556,7 +4518,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dev+Hospital/data=!4m7!3m6!1s0x3974a4828fa20723:0x9489e061215178c!8m2!3d27.8739234!4d78.0743099!16s%2Fg%2F11c1rfl_9z!19sChIJIweij4KkdDkRjBcVEgaeSAk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dev+Hospital/data=!4m7!3m6!1s0x3974a4828fa20723:0x9489e061215178c!8m2!3d27.8739234!4d78.0743099!16s%2Fg%2F11c1rfl_9z!19sChIJIweij4KkdDkRjBcVEgaeSAk?authuser=0&hl=en&rclk=1"
@@ -4625,8 +4587,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dev+Hospital/data=!4m7!3m6!1s0x3974a4828fa20723:0x9489e061215178c!8m2!3d27.8739234!4d78.0743099!16s%2Fg%2F11c1rfl_9z!19sChIJIweij4KkdDkRjBcVEgaeSAk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "devatray-hospital-aligarh",
@@ -4674,7 +4635,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Devatray+Hospital/data=!4m7!3m6!1s0x3974a494236e927b:0xa1b343ab3d6d7e20!8m2!3d27.8918756!4d78.084029!16s%2Fg%2F1td0ldzn!19sChIJe5JuI5SkdDkRIH5tPatDs6E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devatray+Hospital/data=!4m7!3m6!1s0x3974a494236e927b:0xa1b343ab3d6d7e20!8m2!3d27.8918756!4d78.084029!16s%2Fg%2F1td0ldzn!19sChIJe5JuI5SkdDkRIH5tPatDs6E?authuser=0&hl=en&rclk=1"
@@ -4743,8 +4704,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Devatray+Hospital/data=!4m7!3m6!1s0x3974a494236e927b:0xa1b343ab3d6d7e20!8m2!3d27.8918756!4d78.084029!16s%2Fg%2F1td0ldzn!19sChIJe5JuI5SkdDkRIH5tPatDs6E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "diabetes-care-clinic-aligarh",
@@ -4795,7 +4755,7 @@
       "Google rating 3.0",
       "17+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Diabetes+Care+Clinic/data=!4m7!3m6!1s0x3974a4ef114ff0cf:0x92e59f57d719afba!8m2!3d27.9064281!4d78.0804827!16s%2Fg%2F11c1v09npp!19sChIJz_BPEe-kdDkRuq8Z11ef5ZI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diabetes+Care+Clinic/data=!4m7!3m6!1s0x3974a4ef114ff0cf:0x92e59f57d719afba!8m2!3d27.9064281!4d78.0804827!16s%2Fg%2F11c1v09npp!19sChIJz_BPEe-kdDkRuq8Z11ef5ZI?authuser=0&hl=en&rclk=1"
@@ -4861,11 +4821,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 17,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Diabetes+Care+Clinic/data=!4m7!3m6!1s0x3974a4ef114ff0cf:0x92e59f57d719afba!8m2!3d27.9064281!4d78.0804827!16s%2Fg%2F11c1v09npp!19sChIJz_BPEe-kdDkRuq8Z11ef5ZI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dialysis-center-maxfort-hospital-aligarh",
@@ -4915,7 +4874,7 @@
       "Google rating 5.0",
       "4+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dialysis+Center,+Maxfort+Hospital/data=!4m7!3m6!1s0x3974a5123b4848c7:0x4a22038e24a290e6!8m2!3d27.8961186!4d78.0918141!16s%2Fg%2F11h_66ng_5!19sChIJx0hIOxKldDkR5pCiJI4DIko?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dialysis+Center,+Maxfort+Hospital/data=!4m7!3m6!1s0x3974a5123b4848c7:0x4a22038e24a290e6!8m2!3d27.8961186!4d78.0918141!16s%2Fg%2F11h_66ng_5!19sChIJx0hIOxKldDkR5pCiJI4DIko?authuser=0&hl=en&rclk=1"
@@ -4981,11 +4940,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 4,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dialysis+Center,+Maxfort+Hospital/data=!4m7!3m6!1s0x3974a5123b4848c7:0x4a22038e24a290e6!8m2!3d27.8961186!4d78.0918141!16s%2Fg%2F11h_66ng_5!19sChIJx0hIOxKldDkR5pCiJI4DIko?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dinesh-sharma-hospital-aligarh",
@@ -5033,7 +4991,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Dinesh+Sharma+Hospital/data=!4m7!3m6!1s0x3974a529516f746d:0xf9a38ffb709fb221!8m2!3d27.9008388!4d78.0977723!16s%2Fg%2F11h69jt0ps!19sChIJbXRvUSmldDkRIbKfcPuPo_k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dinesh+Sharma+Hospital/data=!4m7!3m6!1s0x3974a529516f746d:0xf9a38ffb709fb221!8m2!3d27.9008388!4d78.0977723!16s%2Fg%2F11h69jt0ps!19sChIJbXRvUSmldDkRIbKfcPuPo_k?authuser=0&hl=en&rclk=1"
@@ -5102,8 +5060,7 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Dinesh+Sharma+Hospital/data=!4m7!3m6!1s0x3974a529516f746d:0xf9a38ffb709fb221!8m2!3d27.9008388!4d78.0977723!16s%2Fg%2F11h69jt0ps!19sChIJbXRvUSmldDkRIbKfcPuPo_k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "dmt-health-center-aligarh-piles-fissure-fistula-treatment-by-kshar-sutra-aligarh",
@@ -5151,7 +5108,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/DMT+HEALTH+CENTER+Aligarh+piles+fissure+fistula+treatment+by+kshar+sutra/data=!4m7!3m6!1s0x3974a542430b34d7:0x290b58c976dfc58!8m2!3d27.949897!4d78.0640431!16s%2Fg%2F11tp917x8y!19sChIJ1zQLQ0KldDkRWPxtl4y1kAI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DMT+HEALTH+CENTER+Aligarh+piles+fissure+fistula+treatment+by+kshar+sutra/data=!4m7!3m6!1s0x3974a542430b34d7:0x290b58c976dfc58!8m2!3d27.949897!4d78.0640431!16s%2Fg%2F11tp917x8y!19sChIJ1zQLQ0KldDkRWPxtl4y1kAI?authuser=0&hl=en&rclk=1"
@@ -5217,11 +5174,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/DMT+HEALTH+CENTER+Aligarh+piles+fissure+fistula+treatment+by+kshar+sutra/data=!4m7!3m6!1s0x3974a542430b34d7:0x290b58c976dfc58!8m2!3d27.949897!4d78.0640431!16s%2Fg%2F11tp917x8y!19sChIJ1zQLQ0KldDkRWPxtl4y1kAI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "firoz-hospital-aligarh",
@@ -5269,7 +5225,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/firoz+hospital/data=!4m7!3m6!1s0x3974a45e05aaaaab:0xf21f73d0d8537ad0!8m2!3d27.8958998!4d78.0596695!16s%2Fg%2F11fxwc1fyr!19sChIJq6qqBV6kdDkR0HpT2NBzH_I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/firoz+hospital/data=!4m7!3m6!1s0x3974a45e05aaaaab:0xf21f73d0d8537ad0!8m2!3d27.8958998!4d78.0596695!16s%2Fg%2F11fxwc1fyr!19sChIJq6qqBV6kdDkR0HpT2NBzH_I?authuser=0&hl=en&rclk=1"
@@ -5335,11 +5291,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/firoz+hospital/data=!4m7!3m6!1s0x3974a45e05aaaaab:0xf21f73d0d8537ad0!8m2!3d27.8958998!4d78.0596695!16s%2Fg%2F11fxwc1fyr!19sChIJq6qqBV6kdDkR0HpT2NBzH_I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "firoz-speciality-hospital-aligarh",
@@ -5388,7 +5343,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Firoz+Speciality+Hospital/data=!4m7!3m6!1s0x3974a4e73c373581:0x2fe0641196b6ccab!8m2!3d27.9133916!4d78.0856678!16s%2Fg%2F1tgfnjng!19sChIJgTU3POekdDkRq8y2lhFk4C8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Firoz+Speciality+Hospital/data=!4m7!3m6!1s0x3974a4e73c373581:0x2fe0641196b6ccab!8m2!3d27.9133916!4d78.0856678!16s%2Fg%2F1tgfnjng!19sChIJgTU3POekdDkRq8y2lhFk4C8?authuser=0&hl=en&rclk=1"
@@ -5457,8 +5412,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Firoz+Speciality+Hospital/data=!4m7!3m6!1s0x3974a4e73c373581:0x2fe0641196b6ccab!8m2!3d27.9133916!4d78.0856678!16s%2Fg%2F1tgfnjng!19sChIJgTU3POekdDkRq8y2lhFk4C8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gandhi-eye-hospital-aligarh",
@@ -5508,7 +5462,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gandhi+Eye+Hospital/data=!4m7!3m6!1s0x3974a496c674d595:0x86ba42faff0321ea!8m2!3d27.8893828!4d78.0834098!16s%2Fg%2F1ttyv46_!19sChIJldV0xpakdDkR6iED__pCuoY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gandhi+Eye+Hospital/data=!4m7!3m6!1s0x3974a496c674d595:0x86ba42faff0321ea!8m2!3d27.8893828!4d78.0834098!16s%2Fg%2F1ttyv46_!19sChIJldV0xpakdDkR6iED__pCuoY?authuser=0&hl=en&rclk=1"
@@ -5577,8 +5531,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gandhi+Eye+Hospital/data=!4m7!3m6!1s0x3974a496c674d595:0x86ba42faff0321ea!8m2!3d27.8893828!4d78.0834098!16s%2Fg%2F1ttyv46_!19sChIJldV0xpakdDkR6iED__pCuoY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "garg-dental-care-dental-implants-best-dental-clinic-best-dentist-in-aligarh-aligarh",
@@ -5628,7 +5581,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GARG+DENTAL+CARE+-+Dental+Implants+%2F+Best+dental+clinic+%2F+Best+dentist+in+Aligarh/data=!4m7!3m6!1s0x3974a49167e9662f:0x277c2da010e14bba!8m2!3d27.895831!4d78.098379!16s%2Fg%2F11cjsf8drf!19sChIJL2bpZ5GkdDkRukvhEKAtfCc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GARG+DENTAL+CARE+-+Dental+Implants+%2F+Best+dental+clinic+%2F+Best+dentist+in+Aligarh/data=!4m7!3m6!1s0x3974a49167e9662f:0x277c2da010e14bba!8m2!3d27.895831!4d78.098379!16s%2Fg%2F11cjsf8drf!19sChIJL2bpZ5GkdDkRukvhEKAtfCc?authuser=0&hl=en&rclk=1"
@@ -5697,8 +5650,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GARG+DENTAL+CARE+-+Dental+Implants+%2F+Best+dental+clinic+%2F+Best+dentist+in+Aligarh/data=!4m7!3m6!1s0x3974a49167e9662f:0x277c2da010e14bba!8m2!3d27.895831!4d78.098379!16s%2Fg%2F11cjsf8drf!19sChIJL2bpZ5GkdDkRukvhEKAtfCc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gulistan-dental-care-aligarh",
@@ -5746,7 +5698,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Gulistan+Dental+Care/data=!4m7!3m6!1s0x3974a549bcd70dc7:0x53940e3e0cf1e5c8!8m2!3d27.9438398!4d78.0842579!16s%2Fg%2F11t6tk6x1f!19sChIJxw3XvEmldDkRyOXxDD4OlFM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gulistan+Dental+Care/data=!4m7!3m6!1s0x3974a549bcd70dc7:0x53940e3e0cf1e5c8!8m2!3d27.9438398!4d78.0842579!16s%2Fg%2F11t6tk6x1f!19sChIJxw3XvEmldDkRyOXxDD4OlFM?authuser=0&hl=en&rclk=1"
@@ -5815,8 +5767,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Gulistan+Dental+Care/data=!4m7!3m6!1s0x3974a549bcd70dc7:0x53940e3e0cf1e5c8!8m2!3d27.9438398!4d78.0842579!16s%2Fg%2F11t6tk6x1f!19sChIJxw3XvEmldDkRyOXxDD4OlFM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "gupta-s-dental-care-aligarh",
@@ -5864,7 +5815,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/GUPTA%27S+DENTAL+CARE/data=!4m7!3m6!1s0x3974a485ffe0c06b:0xe64d4206001db395!8m2!3d27.894172!4d78.0566085!16s%2Fg%2F11c6s6gks_!19sChIJa8Dg_4WkdDkRlbMdAAZCTeY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GUPTA%27S+DENTAL+CARE/data=!4m7!3m6!1s0x3974a485ffe0c06b:0xe64d4206001db395!8m2!3d27.894172!4d78.0566085!16s%2Fg%2F11c6s6gks_!19sChIJa8Dg_4WkdDkRlbMdAAZCTeY?authuser=0&hl=en&rclk=1"
@@ -5933,8 +5884,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/GUPTA%27S+DENTAL+CARE/data=!4m7!3m6!1s0x3974a485ffe0c06b:0xe64d4206001db395!8m2!3d27.894172!4d78.0566085!16s%2Fg%2F11c6s6gks_!19sChIJa8Dg_4WkdDkRlbMdAAZCTeY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "heart-and-chest-hospital-aligarh",
@@ -5984,7 +5934,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HEART+AND+CHEST+HOSPITAL/data=!4m7!3m6!1s0x3974a5a2b7e85411:0xedec8124f281efb3!8m2!3d27.8913239!4d78.0831544!16s%2Fg%2F11sv_2lyzf!19sChIJEVTot6KldDkRs--B8iSB7O0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HEART+AND+CHEST+HOSPITAL/data=!4m7!3m6!1s0x3974a5a2b7e85411:0xedec8124f281efb3!8m2!3d27.8913239!4d78.0831544!16s%2Fg%2F11sv_2lyzf!19sChIJEVTot6KldDkRs--B8iSB7O0?authuser=0&hl=en&rclk=1"
@@ -6053,8 +6003,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HEART+AND+CHEST+HOSPITAL/data=!4m7!3m6!1s0x3974a5a2b7e85411:0xedec8124f281efb3!8m2!3d27.8913239!4d78.0831544!16s%2Fg%2F11sv_2lyzf!19sChIJEVTot6KldDkRs--B8iSB7O0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "hind-hospital-and-research-centre-aligarh",
@@ -6102,7 +6051,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/HIND+HOSPITAL+%26+RESEARCH+CENTRE/data=!4m7!3m6!1s0x3974a5bc6fcbd763:0x9df1029c0592d1f3!8m2!3d27.9361193!4d78.0669939!16s%2Fg%2F11fstg8s1v!19sChIJY9fLb7yldDkR89GSBZwC8Z0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HIND+HOSPITAL+%26+RESEARCH+CENTRE/data=!4m7!3m6!1s0x3974a5bc6fcbd763:0x9df1029c0592d1f3!8m2!3d27.9361193!4d78.0669939!16s%2Fg%2F11fstg8s1v!19sChIJY9fLb7yldDkR89GSBZwC8Z0?authuser=0&hl=en&rclk=1"
@@ -6171,8 +6120,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/HIND+HOSPITAL+%26+RESEARCH+CENTRE/data=!4m7!3m6!1s0x3974a5bc6fcbd763:0x9df1029c0592d1f3!8m2!3d27.9361193!4d78.0669939!16s%2Fg%2F11fstg8s1v!19sChIJY9fLb7yldDkR89GSBZwC8Z0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indian-hospital-and-child-care-aligarh",
@@ -6221,7 +6169,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indian+Hospital+%26+Child+Care/data=!4m7!3m6!1s0x3974b79bcf1c76c7:0x6949ba904bc1f9f1!8m2!3d28.0431867!4d78.2852662!16s%2Fg%2F11y766qr39!19sChIJx3Ycz5u3dDkR8fnBS5C6SWk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indian+Hospital+%26+Child+Care/data=!4m7!3m6!1s0x3974b79bcf1c76c7:0x6949ba904bc1f9f1!8m2!3d28.0431867!4d78.2852662!16s%2Fg%2F11y766qr39!19sChIJx3Ycz5u3dDkR8fnBS5C6SWk?authuser=0&hl=en&rclk=1"
@@ -6287,11 +6235,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indian+Hospital+%26+Child+Care/data=!4m7!3m6!1s0x3974b79bcf1c76c7:0x6949ba904bc1f9f1!8m2!3d28.0431867!4d78.2852662!16s%2Fg%2F11y766qr39!19sChIJx3Ycz5u3dDkR8fnBS5C6SWk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-aligarh-best-ivf-centre-aligarh",
@@ -6341,7 +6288,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Aligarh+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3974a5c11d6f9cd9:0x8945f2ff81de3e3c!8m2!3d27.8950765!4d78.0908121!16s%2Fg%2F11fphcbhh_!19sChIJ2ZxvHcGldDkRPD7egf_yRYk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Aligarh+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3974a5c11d6f9cd9:0x8945f2ff81de3e3c!8m2!3d27.8950765!4d78.0908121!16s%2Fg%2F11fphcbhh_!19sChIJ2ZxvHcGldDkRPD7egf_yRYk?authuser=0&hl=en&rclk=1"
@@ -6410,8 +6357,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Aligarh+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3974a5c11d6f9cd9:0x8945f2ff81de3e3c!8m2!3d27.8950765!4d78.0908121!16s%2Fg%2F11fphcbhh_!19sChIJ2ZxvHcGldDkRPD7egf_yRYk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "indira-ivf-ravi-test-tube-baby-centre-aligarh-best-ivf-and-laproscopy-center-aligarh",
@@ -6462,7 +6408,7 @@
       "75+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Indira+IVF+Ravi+Test+Tube+Baby+Centre+Aligarh-+Best+IVF+%26+Laproscopy+center/data=!4m7!3m6!1s0x3974a5a2fa96b59d:0xa8868c79b79264de!8m2!3d27.8950587!4d78.0907993!16s%2Fg%2F11fpjw_9vq!19sChIJnbWW-qKldDkR3mSSt3mMhqg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Ravi+Test+Tube+Baby+Centre+Aligarh-+Best+IVF+%26+Laproscopy+center/data=!4m7!3m6!1s0x3974a5a2fa96b59d:0xa8868c79b79264de!8m2!3d27.8950587!4d78.0907993!16s%2Fg%2F11fpjw_9vq!19sChIJnbWW-qKldDkR3mSSt3mMhqg?authuser=0&hl=en&rclk=1"
@@ -6528,11 +6474,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 75,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Indira+IVF+Ravi+Test+Tube+Baby+Centre+Aligarh-+Best+IVF+%26+Laproscopy+center/data=!4m7!3m6!1s0x3974a5a2fa96b59d:0xa8868c79b79264de!8m2!3d27.8950587!4d78.0907993!16s%2Fg%2F11fpjw_9vq!19sChIJnbWW-qKldDkR3mSSt3mMhqg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-dhara-hospital-aligarh-aligarh",
@@ -6580,7 +6525,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Dhara+Hospital,+Aligarh/data=!4m7!3m6!1s0x3974a49a7364065f:0xbfa7d957d2c6da98!8m2!3d27.8848483!4d78.0807251!16s%2Fg%2F11cjj09xps!19sChIJXwZkc5qkdDkRmNrG0lfZp78?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Dhara+Hospital,+Aligarh/data=!4m7!3m6!1s0x3974a49a7364065f:0xbfa7d957d2c6da98!8m2!3d27.8848483!4d78.0807251!16s%2Fg%2F11cjj09xps!19sChIJXwZkc5qkdDkRmNrG0lfZp78?authuser=0&hl=en&rclk=1"
@@ -6649,8 +6594,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Dhara+Hospital,+Aligarh/data=!4m7!3m6!1s0x3974a49a7364065f:0xbfa7d957d2c6da98!8m2!3d27.8848483!4d78.0807251!16s%2Fg%2F11cjj09xps!19sChIJXwZkc5qkdDkRmNrG0lfZp78?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-jyoti-chikitsalaya-aligarh",
@@ -6696,7 +6640,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Jyoti+Chikitsalaya/data=!4m7!3m6!1s0x3974a351f94a49cb:0x4eb9871f7110814d!8m2!3d27.8668434!4d78.0984627!16s%2Fg%2F11qsnjrds6!19sChIJy0lK-VGjdDkRTYEQcR-HuU4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Jyoti+Chikitsalaya/data=!4m7!3m6!1s0x3974a351f94a49cb:0x4eb9871f7110814d!8m2!3d27.8668434!4d78.0984627!16s%2Fg%2F11qsnjrds6!19sChIJy0lK-VGjdDkRTYEQcR-HuU4?authuser=0&hl=en&rclk=1"
@@ -6762,11 +6706,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Jyoti+Chikitsalaya/data=!4m7!3m6!1s0x3974a351f94a49cb:0x4eb9871f7110814d!8m2!3d27.8668434!4d78.0984627!16s%2Fg%2F11qsnjrds6!19sChIJy0lK-VGjdDkRTYEQcR-HuU4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "jeevan-speciality-hospital-and-test-tube-baby-centre-aligarh",
@@ -6816,7 +6759,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Jeevan+Speciality+Hospital+and+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x3974a49a2ae4e463:0x491f279694946dda!8m2!3d27.8825153!4d78.0821743!16s%2Fg%2F1wfvl1x1!19sChIJY-TkKpqkdDkR2m2UlJYnH0k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Speciality+Hospital+and+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x3974a49a2ae4e463:0x491f279694946dda!8m2!3d27.8825153!4d78.0821743!16s%2Fg%2F1wfvl1x1!19sChIJY-TkKpqkdDkR2m2UlJYnH0k?authuser=0&hl=en&rclk=1"
@@ -6885,8 +6828,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Jeevan+Speciality+Hospital+and+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x3974a49a2ae4e463:0x491f279694946dda!8m2!3d27.8825153!4d78.0821743!16s%2Fg%2F1wfvl1x1!19sChIJY-TkKpqkdDkR2m2UlJYnH0k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "k-k-hospital-aligarh",
@@ -6936,7 +6878,7 @@
       "1+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/K+K+Hospital/data=!4m7!3m6!1s0x3974a4bf7331a591:0x7f396d06afdab252!8m2!3d27.896273!4d78.091346!16s%2Fg%2F1hhx54wx4!19sChIJkaUxc7-kdDkRUrLarwZtOX8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K+K+Hospital/data=!4m7!3m6!1s0x3974a4bf7331a591:0x7f396d06afdab252!8m2!3d27.896273!4d78.091346!16s%2Fg%2F1hhx54wx4!19sChIJkaUxc7-kdDkRUrLarwZtOX8?authuser=0&hl=en&rclk=1"
@@ -7005,8 +6947,7 @@
     "rating": 4.8,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/K+K+Hospital/data=!4m7!3m6!1s0x3974a4bf7331a591:0x7f396d06afdab252!8m2!3d27.896273!4d78.091346!16s%2Fg%2F1hhx54wx4!19sChIJkaUxc7-kdDkRUrLarwZtOX8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "k-k-physiotherapy-and-orthocare-center-aligarh",
@@ -7056,7 +6997,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/K+K+Physiotherapy+%26+Orthocare+Center/data=!4m7!3m6!1s0x3974a4bfebcb3495:0x989383cfbbe8e6f8!8m2!3d27.8961824!4d78.0906728!16s%2Fg%2F11g6978ct0!19sChIJlTTL67-kdDkR-Obou8-Dk5g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K+K+Physiotherapy+%26+Orthocare+Center/data=!4m7!3m6!1s0x3974a4bfebcb3495:0x989383cfbbe8e6f8!8m2!3d27.8961824!4d78.0906728!16s%2Fg%2F11g6978ct0!19sChIJlTTL67-kdDkR-Obou8-Dk5g?authuser=0&hl=en&rclk=1"
@@ -7125,8 +7066,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/K+K+Physiotherapy+%26+Orthocare+Center/data=!4m7!3m6!1s0x3974a4bfebcb3495:0x989383cfbbe8e6f8!8m2!3d27.8961824!4d78.0906728!16s%2Fg%2F11g6978ct0!19sChIJlTTL67-kdDkR-Obou8-Dk5g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kilkari-hospital-aligarh",
@@ -7177,7 +7117,7 @@
       "91+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kilkari+Hospital/data=!4m7!3m6!1s0x3974a4c6e6a1c4ff:0xf8ffb5b9ae62bbeb!8m2!3d27.900811!4d78.0939167!16s%2Fg%2F11c5489bh_!19sChIJ_8Sh5sakdDkR67tirrm1__g?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kilkari+Hospital/data=!4m7!3m6!1s0x3974a4c6e6a1c4ff:0xf8ffb5b9ae62bbeb!8m2!3d27.900811!4d78.0939167!16s%2Fg%2F11c5489bh_!19sChIJ_8Sh5sakdDkR67tirrm1__g?authuser=0&hl=en&rclk=1"
@@ -7246,8 +7186,7 @@
     "rating": 3.7,
     "reviews": 91,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kilkari+Hospital/data=!4m7!3m6!1s0x3974a4c6e6a1c4ff:0xf8ffb5b9ae62bbeb!8m2!3d27.900811!4d78.0939167!16s%2Fg%2F11c5489bh_!19sChIJ_8Sh5sakdDkR67tirrm1__g?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "krishna-hospital-aligarh",
@@ -7295,7 +7234,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x3974a493b08949ed:0x9adaacc460599c75!8m2!3d27.8932395!4d78.0804368!16s%2Fg%2F1hm2tr4c9!19sChIJ7UmJsJOkdDkRdZxZYMSs2po?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x3974a493b08949ed:0x9adaacc460599c75!8m2!3d27.8932395!4d78.0804368!16s%2Fg%2F1hm2tr4c9!19sChIJ7UmJsJOkdDkRdZxZYMSs2po?authuser=0&hl=en&rclk=1"
@@ -7364,8 +7303,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x3974a493b08949ed:0x9adaacc460599c75!8m2!3d27.8932395!4d78.0804368!16s%2Fg%2F1hm2tr4c9!19sChIJ7UmJsJOkdDkRdZxZYMSs2po?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "kumar-nursing-home-aligarh",
@@ -7415,7 +7353,7 @@
       "14+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Kumar+Nursing+Home/data=!4m7!3m6!1s0x3974a491192d450d:0x380ce74ac6cc19c1!8m2!3d27.8884423!4d78.0806521!16s%2Fg%2F1hc8j2wqk!19sChIJDUUtGZGkdDkRwRnMxkrnDDg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kumar+Nursing+Home/data=!4m7!3m6!1s0x3974a491192d450d:0x380ce74ac6cc19c1!8m2!3d27.8884423!4d78.0806521!16s%2Fg%2F1hc8j2wqk!19sChIJDUUtGZGkdDkRwRnMxkrnDDg?authuser=0&hl=en&rclk=1"
@@ -7481,11 +7419,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3,
+    "rating": 3.0,
     "reviews": 14,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Kumar+Nursing+Home/data=!4m7!3m6!1s0x3974a491192d450d:0x380ce74ac6cc19c1!8m2!3d27.8884423!4d78.0806521!16s%2Fg%2F1hc8j2wqk!19sChIJDUUtGZGkdDkRwRnMxkrnDDg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lj-memorial-hospital-aligarh",
@@ -7533,7 +7470,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/LJ+Memorial+Hospital/data=!4m7!3m6!1s0x3974a50990f63c3d:0x8ec15a919ed4f595!8m2!3d27.891219!4d78.0712828!16s%2Fg%2F11h70pjcpc!19sChIJPTz2kAmldDkRlfXUnpFawY4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LJ+Memorial+Hospital/data=!4m7!3m6!1s0x3974a50990f63c3d:0x8ec15a919ed4f595!8m2!3d27.891219!4d78.0712828!16s%2Fg%2F11h70pjcpc!19sChIJPTz2kAmldDkRlfXUnpFawY4?authuser=0&hl=en&rclk=1"
@@ -7602,8 +7539,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/LJ+Memorial+Hospital/data=!4m7!3m6!1s0x3974a50990f63c3d:0x8ec15a919ed4f595!8m2!3d27.891219!4d78.0712828!16s%2Fg%2F11h70pjcpc!19sChIJPTz2kAmldDkRlfXUnpFawY4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lohchab-nursing-home-aligarh",
@@ -7651,7 +7587,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lohchab+Nursing+Home/data=!4m7!3m6!1s0x3974a4bfc83e5a83:0xa318b2540e81d349!8m2!3d27.8952487!4d78.0893639!16s%2Fg%2F1hhxdtgjz!19sChIJg1o-yL-kdDkRSdOBDlSyGKM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lohchab+Nursing+Home/data=!4m7!3m6!1s0x3974a4bfc83e5a83:0xa318b2540e81d349!8m2!3d27.8952487!4d78.0893639!16s%2Fg%2F1hhxdtgjz!19sChIJg1o-yL-kdDkRSdOBDlSyGKM?authuser=0&hl=en&rclk=1"
@@ -7720,8 +7656,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lohchab+Nursing+Home/data=!4m7!3m6!1s0x3974a4bfc83e5a83:0xa318b2540e81d349!8m2!3d27.8952487!4d78.0893639!16s%2Fg%2F1hhxdtgjz!19sChIJg1o-yL-kdDkRSdOBDlSyGKM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "lucky-bhavya-hospital-critical-care-and-laparoscopy-centre-aligarh",
@@ -7770,7 +7705,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Lucky+Bhavya+Hospital,+Critical+Care+%26+Laparoscopy+Centre/data=!4m7!3m6!1s0x3974a357a6c1f46f:0xd00b034194331024!8m2!3d27.8711245!4d78.1068546!16s%2Fg%2F11ggbnrnkn!19sChIJb_TBplejdDkRJBAzlEEDC9A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lucky+Bhavya+Hospital,+Critical+Care+%26+Laparoscopy+Centre/data=!4m7!3m6!1s0x3974a357a6c1f46f:0xd00b034194331024!8m2!3d27.8711245!4d78.1068546!16s%2Fg%2F11ggbnrnkn!19sChIJb_TBplejdDkRJBAzlEEDC9A?authuser=0&hl=en&rclk=1"
@@ -7836,11 +7771,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Lucky+Bhavya+Hospital,+Critical+Care+%26+Laparoscopy+Centre/data=!4m7!3m6!1s0x3974a357a6c1f46f:0xd00b034194331024!8m2!3d27.8711245!4d78.1068546!16s%2Fg%2F11ggbnrnkn!19sChIJb_TBplejdDkRJBAzlEEDC9A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "m-y-hospital-aligarh",
@@ -7889,7 +7823,7 @@
       "Google rating 4.4",
       "1+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/M.Y.+Hospital/data=!4m7!3m6!1s0x3974a56b28a538dd:0x5a41a1aa369aad47!8m2!3d27.9439458!4d78.0846537!16s%2Fg%2F11b64sqh8_!19sChIJ3TilKGuldDkRR62aNqqhQVo?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.Y.+Hospital/data=!4m7!3m6!1s0x3974a56b28a538dd:0x5a41a1aa369aad47!8m2!3d27.9439458!4d78.0846537!16s%2Fg%2F11b64sqh8_!19sChIJ3TilKGuldDkRR62aNqqhQVo?authuser=0&hl=en&rclk=1"
@@ -7958,8 +7892,7 @@
     "rating": 4.4,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/M.Y.+Hospital/data=!4m7!3m6!1s0x3974a56b28a538dd:0x5a41a1aa369aad47!8m2!3d27.9439458!4d78.0846537!16s%2Fg%2F11b64sqh8_!19sChIJ3TilKGuldDkRR62aNqqhQVo?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mahi-medical-centre-aligarh",
@@ -8007,7 +7940,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mahi+Medical+Centre/data=!4m7!3m6!1s0x3974a46ad75d5597:0x3b10b20707854d0f!8m2!3d27.8906999!4d78.043031!16s%2Fg%2F11bwnxv_mh!19sChIJl1Vd12qkdDkRD02FBweyEDs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahi+Medical+Centre/data=!4m7!3m6!1s0x3974a46ad75d5597:0x3b10b20707854d0f!8m2!3d27.8906999!4d78.043031!16s%2Fg%2F11bwnxv_mh!19sChIJl1Vd12qkdDkRD02FBweyEDs?authuser=0&hl=en&rclk=1"
@@ -8076,8 +8009,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mahi+Medical+Centre/data=!4m7!3m6!1s0x3974a46ad75d5597:0x3b10b20707854d0f!8m2!3d27.8906999!4d78.043031!16s%2Fg%2F11bwnxv_mh!19sChIJl1Vd12qkdDkRD02FBweyEDs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mairaj-hospital-aligarh",
@@ -8125,7 +8057,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mairaj+Hospital/data=!4m7!3m6!1s0x3974a455780b9917:0x76e59aff04eb3852!8m2!3d27.9155626!4d78.0645561!16s%2Fg%2F124sy5nc6!19sChIJF5kLeFWkdDkRUjjrBP-a5XY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mairaj+Hospital/data=!4m7!3m6!1s0x3974a455780b9917:0x76e59aff04eb3852!8m2!3d27.9155626!4d78.0645561!16s%2Fg%2F124sy5nc6!19sChIJF5kLeFWkdDkRUjjrBP-a5XY?authuser=0&hl=en&rclk=1"
@@ -8194,8 +8126,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mairaj+Hospital/data=!4m7!3m6!1s0x3974a455780b9917:0x76e59aff04eb3852!8m2!3d27.9155626!4d78.0645561!16s%2Fg%2F124sy5nc6!19sChIJF5kLeFWkdDkRUjjrBP-a5XY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "malik-hospital-aligarh",
@@ -8244,7 +8175,7 @@
       "Google rating 4.5",
       "2+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Malik+Hospital/data=!4m7!3m6!1s0x3974a31dd97eb109:0x8ef40950e9bf2ef!8m2!3d27.9331875!4d78.0870625!16s%2Fg%2F11ss6xxq2k!19sChIJCbF-2R2jdDkR7_KbDpVA7wg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malik+Hospital/data=!4m7!3m6!1s0x3974a31dd97eb109:0x8ef40950e9bf2ef!8m2!3d27.9331875!4d78.0870625!16s%2Fg%2F11ss6xxq2k!19sChIJCbF-2R2jdDkR7_KbDpVA7wg?authuser=0&hl=en&rclk=1"
@@ -8313,8 +8244,7 @@
     "rating": 4.5,
     "reviews": 2,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Malik+Hospital/data=!4m7!3m6!1s0x3974a31dd97eb109:0x8ef40950e9bf2ef!8m2!3d27.9331875!4d78.0870625!16s%2Fg%2F11ss6xxq2k!19sChIJCbF-2R2jdDkR7_KbDpVA7wg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mamta-dental-care-aligarh",
@@ -8362,7 +8292,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mamta+Dental+Care/data=!4m7!3m6!1s0x3974a5a4883cdb37:0x4417799df082f116!8m2!3d27.878308!4d78.0855123!16s%2Fg%2F11vz8h2gtj!19sChIJN9s8iKSldDkRFvGC8J15F0Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mamta+Dental+Care/data=!4m7!3m6!1s0x3974a5a4883cdb37:0x4417799df082f116!8m2!3d27.878308!4d78.0855123!16s%2Fg%2F11vz8h2gtj!19sChIJN9s8iKSldDkRFvGC8J15F0Q?authuser=0&hl=en&rclk=1"
@@ -8431,8 +8361,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mamta+Dental+Care/data=!4m7!3m6!1s0x3974a5a4883cdb37:0x4417799df082f116!8m2!3d27.878308!4d78.0855123!16s%2Fg%2F11vz8h2gtj!19sChIJN9s8iKSldDkRFvGC8J15F0Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mannat-hospital-aligarh",
@@ -8480,7 +8409,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mannat+hospital/data=!4m7!3m6!1s0x3974a520a6ae583d:0x52fff815141abaa3!8m2!3d27.9198277!4d78.0674896!16s%2Fg%2F11h3qbk0l3!19sChIJPViupiCldDkRo7oaFBX4_1I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mannat+hospital/data=!4m7!3m6!1s0x3974a520a6ae583d:0x52fff815141abaa3!8m2!3d27.9198277!4d78.0674896!16s%2Fg%2F11h3qbk0l3!19sChIJPViupiCldDkRo7oaFBX4_1I?authuser=0&hl=en&rclk=1"
@@ -8549,8 +8478,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mannat+hospital/data=!4m7!3m6!1s0x3974a520a6ae583d:0x52fff815141abaa3!8m2!3d27.9198277!4d78.0674896!16s%2Fg%2F11h3qbk0l3!19sChIJPViupiCldDkRo7oaFBX4_1I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "matra-chhaya-clinic-and-nursing-home-aligarh",
@@ -8601,7 +8529,7 @@
       "19+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MATRA+CHHAYA+CLINIC+AND+NURSING+HOME/data=!4m7!3m6!1s0x3974a494053cd0d3:0x3e4ba33e275d9ed6!8m2!3d27.891781!4d78.082932!16s%2Fg%2F1tfv3jp9!19sChIJ09A8BZSkdDkR1p5dJz6jSz4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MATRA+CHHAYA+CLINIC+AND+NURSING+HOME/data=!4m7!3m6!1s0x3974a494053cd0d3:0x3e4ba33e275d9ed6!8m2!3d27.891781!4d78.082932!16s%2Fg%2F1tfv3jp9!19sChIJ09A8BZSkdDkR1p5dJz6jSz4?authuser=0&hl=en&rclk=1"
@@ -8670,8 +8598,7 @@
     "rating": 4.1,
     "reviews": 19,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MATRA+CHHAYA+CLINIC+AND+NURSING+HOME/data=!4m7!3m6!1s0x3974a494053cd0d3:0x3e4ba33e275d9ed6!8m2!3d27.891781!4d78.082932!16s%2Fg%2F1tfv3jp9!19sChIJ09A8BZSkdDkR1p5dJz6jSz4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "maxfort-dental-care-aligarh",
@@ -8719,7 +8646,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Maxfort+Dental+Care/data=!4m7!3m6!1s0x3974a598bd498bc1:0x2c965553b2067c59!8m2!3d27.8965502!4d78.0912739!16s%2Fg%2F11mtmgymj4!19sChIJwYtJvZildDkRWXwGslNVliw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxfort+Dental+Care/data=!4m7!3m6!1s0x3974a598bd498bc1:0x2c965553b2067c59!8m2!3d27.8965502!4d78.0912739!16s%2Fg%2F11mtmgymj4!19sChIJwYtJvZildDkRWXwGslNVliw?authuser=0&hl=en&rclk=1"
@@ -8785,11 +8712,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Maxfort+Dental+Care/data=!4m7!3m6!1s0x3974a598bd498bc1:0x2c965553b2067c59!8m2!3d27.8965502!4d78.0912739!16s%2Fg%2F11mtmgymj4!19sChIJwYtJvZildDkRWXwGslNVliw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "medha-hospital-aligarh",
@@ -8838,7 +8764,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Medha+Hospital/data=!4m7!3m6!1s0x3974a4a0c9038d69:0xb0bb3d9af324cdb1!8m2!3d27.876503!4d78.0932938!16s%2Fg%2F11h0f0tkw!19sChIJaY0DyaCkdDkRsc0k85o9u7A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medha+Hospital/data=!4m7!3m6!1s0x3974a4a0c9038d69:0xb0bb3d9af324cdb1!8m2!3d27.876503!4d78.0932938!16s%2Fg%2F11h0f0tkw!19sChIJaY0DyaCkdDkRsc0k85o9u7A?authuser=0&hl=en&rclk=1"
@@ -8907,8 +8833,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Medha+Hospital/data=!4m7!3m6!1s0x3974a4a0c9038d69:0xb0bb3d9af324cdb1!8m2!3d27.876503!4d78.0932938!16s%2Fg%2F11h0f0tkw!19sChIJaY0DyaCkdDkRsc0k85o9u7A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mediclinic-aligarh",
@@ -8954,7 +8879,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/MEDICLINIC/data=!4m7!3m6!1s0x3974a517ea01b58d:0xe4e18d96a258c4d!8m2!3d27.9333646!4d78.0870374!16s%2Fg%2F11tk1xrypx!19sChIJjbUB6heldDkRTYwlatkYTg4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEDICLINIC/data=!4m7!3m6!1s0x3974a517ea01b58d:0xe4e18d96a258c4d!8m2!3d27.9333646!4d78.0870374!16s%2Fg%2F11tk1xrypx!19sChIJjbUB6heldDkRTYwlatkYTg4?authuser=0&hl=en&rclk=1"
@@ -9020,11 +8945,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/MEDICLINIC/data=!4m7!3m6!1s0x3974a517ea01b58d:0xe4e18d96a258c4d!8m2!3d27.9333646!4d78.0870374!16s%2Fg%2F11tk1xrypx!19sChIJjbUB6heldDkRTYwlatkYTg4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mithraj-hospital-aligarh",
@@ -9072,7 +8996,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mithraj+Hospital/data=!4m7!3m6!1s0x3974bb30ff33824b:0x2ce2faa766faa43c!8m2!3d27.9037359!4d78.1006138!16s%2Fg%2F11s7t89xk_!19sChIJS4Iz_zC7dDkRPKT6Zqf64iw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mithraj+Hospital/data=!4m7!3m6!1s0x3974bb30ff33824b:0x2ce2faa766faa43c!8m2!3d27.9037359!4d78.1006138!16s%2Fg%2F11s7t89xk_!19sChIJS4Iz_zC7dDkRPKT6Zqf64iw?authuser=0&hl=en&rclk=1"
@@ -9141,8 +9065,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mithraj+Hospital/data=!4m7!3m6!1s0x3974bb30ff33824b:0x2ce2faa766faa43c!8m2!3d27.9037359!4d78.1006138!16s%2Fg%2F11s7t89xk_!19sChIJS4Iz_zC7dDkRPKT6Zqf64iw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mittal-physiotherapy-and-aesthetic-clinic-aligarh",
@@ -9192,7 +9115,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mittal+Physiotherapy+and+Aesthetic+Clinic/data=!4m7!3m6!1s0x3974a4920a3295ff:0x612b37938e6eeb6f!8m2!3d27.8919186!4d78.0766908!16s%2Fg%2F1tf6f0ys!19sChIJ_5UyCpKkdDkRb-tujpM3K2E?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mittal+Physiotherapy+and+Aesthetic+Clinic/data=!4m7!3m6!1s0x3974a4920a3295ff:0x612b37938e6eeb6f!8m2!3d27.8919186!4d78.0766908!16s%2Fg%2F1tf6f0ys!19sChIJ_5UyCpKkdDkRb-tujpM3K2E?authuser=0&hl=en&rclk=1"
@@ -9261,8 +9184,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mittal+Physiotherapy+and+Aesthetic+Clinic/data=!4m7!3m6!1s0x3974a4920a3295ff:0x612b37938e6eeb6f!8m2!3d27.8919186!4d78.0766908!16s%2Fg%2F1tf6f0ys!19sChIJ_5UyCpKkdDkRb-tujpM3K2E?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "mubarak-dental-clinic-aligarh",
@@ -9311,7 +9233,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Mubarak+Dental+Clinic/data=!4m7!3m6!1s0x3974a4c27d7302e3:0xf532ee295c55128b!8m2!3d27.9058353!4d78.0886105!16s%2Fg%2F11b6pthntm!19sChIJ4wJzfcKkdDkRixJVXCnuMvU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mubarak+Dental+Clinic/data=!4m7!3m6!1s0x3974a4c27d7302e3:0xf532ee295c55128b!8m2!3d27.9058353!4d78.0886105!16s%2Fg%2F11b6pthntm!19sChIJ4wJzfcKkdDkRixJVXCnuMvU?authuser=0&hl=en&rclk=1"
@@ -9380,8 +9302,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Mubarak+Dental+Clinic/data=!4m7!3m6!1s0x3974a4c27d7302e3:0xf532ee295c55128b!8m2!3d27.9058353!4d78.0886105!16s%2Fg%2F11b6pthntm!19sChIJ4wJzfcKkdDkRixJVXCnuMvU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "musa-hospital-aligarh",
@@ -9431,7 +9352,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Musa+Hospital/data=!4m7!3m6!1s0x3974a51ccacb7acb:0xb40434d3f195cf5e!8m2!3d27.9444149!4d78.0830768!16s%2Fg%2F11hblz__nm!19sChIJy3rLyhyldDkRXs-V8dM0BLQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Musa+Hospital/data=!4m7!3m6!1s0x3974a51ccacb7acb:0xb40434d3f195cf5e!8m2!3d27.9444149!4d78.0830768!16s%2Fg%2F11hblz__nm!19sChIJy3rLyhyldDkRXs-V8dM0BLQ?authuser=0&hl=en&rclk=1"
@@ -9500,8 +9421,7 @@
     "rating": 4.1,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Musa+Hospital/data=!4m7!3m6!1s0x3974a51ccacb7acb:0xb40434d3f195cf5e!8m2!3d27.9444149!4d78.0830768!16s%2Fg%2F11hblz__nm!19sChIJy3rLyhyldDkRXs-V8dM0BLQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "nephroplus-dialysis-clinic-in-aligarh-aligarh",
@@ -9552,7 +9472,7 @@
       "11+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+Clinic+in+Aligarh/data=!4m7!3m6!1s0x3974a34ba5603be5:0xc3a3215a1746ed7!8m2!3d27.8537699!4d78.0763748!16s%2Fg%2F11vhz8gkbs!19sChIJ5TtgpUujdDkR1250oRUyOgw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+Clinic+in+Aligarh/data=!4m7!3m6!1s0x3974a34ba5603be5:0xc3a3215a1746ed7!8m2!3d27.8537699!4d78.0763748!16s%2Fg%2F11vhz8gkbs!19sChIJ5TtgpUujdDkR1250oRUyOgw?authuser=0&hl=en&rclk=1"
@@ -9618,11 +9538,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 11,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+Clinic+in+Aligarh/data=!4m7!3m6!1s0x3974a34ba5603be5:0xc3a3215a1746ed7!8m2!3d27.8537699!4d78.0763748!16s%2Fg%2F11vhz8gkbs!19sChIJ5TtgpUujdDkR1250oRUyOgw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "new-muskan-azra-hospital-aligarh",
@@ -9670,7 +9589,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/New+Muskan+Azra+Hospital/data=!4m7!3m6!1s0x3974a5941d89cac1:0xf9ab0d125534ff2!8m2!3d27.877263!4d78.0462651!16s%2Fg%2F11t9kj6lvw!19sChIJwcqJHZSldDkR8k9TJdGwmg8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Muskan+Azra+Hospital/data=!4m7!3m6!1s0x3974a5941d89cac1:0xf9ab0d125534ff2!8m2!3d27.877263!4d78.0462651!16s%2Fg%2F11t9kj6lvw!19sChIJwcqJHZSldDkR8k9TJdGwmg8?authuser=0&hl=en&rclk=1"
@@ -9736,11 +9655,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/New+Muskan+Azra+Hospital/data=!4m7!3m6!1s0x3974a5941d89cac1:0xf9ab0d125534ff2!8m2!3d27.877263!4d78.0462651!16s%2Fg%2F11t9kj6lvw!19sChIJwcqJHZSldDkR8k9TJdGwmg8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "odontoverse-dental-clinic-and-implant-center-aligarh",
@@ -9788,7 +9706,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Odontoverse+Dental+Clinic+%26+Implant+Center/data=!4m7!3m6!1s0x3974a5d9be843f89:0x9d3e6e4789f4872d!8m2!3d27.9426182!4d78.0838188!16s%2Fg%2F11s34mk1j4!19sChIJiT-EvtmldDkRLYf0iUduPp0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Odontoverse+Dental+Clinic+%26+Implant+Center/data=!4m7!3m6!1s0x3974a5d9be843f89:0x9d3e6e4789f4872d!8m2!3d27.9426182!4d78.0838188!16s%2Fg%2F11s34mk1j4!19sChIJiT-EvtmldDkRLYf0iUduPp0?authuser=0&hl=en&rclk=1"
@@ -9854,11 +9772,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Odontoverse+Dental+Clinic+%26+Implant+Center/data=!4m7!3m6!1s0x3974a5d9be843f89:0x9d3e6e4789f4872d!8m2!3d27.9426182!4d78.0838188!16s%2Fg%2F11s34mk1j4!19sChIJiT-EvtmldDkRLYf0iUduPp0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oplus-eecp-heart-center-aligarh-best-eecp-in-aligarh-eecp-in-aligarh-eecp-treatment-in-aligarh-aligarh",
@@ -9907,7 +9824,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oplus+EECP+Heart+Center+Aligarh+%7C+BEST+EECP+IN+ALIGARH+%7C+EECP+IN+ALIGARH+%7C+EECP+TREATMENT+IN+ALIGARH/data=!4m7!3m6!1s0x3974a529fb9b7cfb:0xf8216003dcdc8627!8m2!3d27.9132998!4d78.0426868!16s%2Fg%2F11jq2d1hdd!19sChIJ-3yb-ymldDkRJ4bc3ANgIfg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oplus+EECP+Heart+Center+Aligarh+%7C+BEST+EECP+IN+ALIGARH+%7C+EECP+IN+ALIGARH+%7C+EECP+TREATMENT+IN+ALIGARH/data=!4m7!3m6!1s0x3974a529fb9b7cfb:0xf8216003dcdc8627!8m2!3d27.9132998!4d78.0426868!16s%2Fg%2F11jq2d1hdd!19sChIJ-3yb-ymldDkRJ4bc3ANgIfg?authuser=0&hl=en&rclk=1"
@@ -9973,11 +9890,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oplus+EECP+Heart+Center+Aligarh+%7C+BEST+EECP+IN+ALIGARH+%7C+EECP+IN+ALIGARH+%7C+EECP+TREATMENT+IN+ALIGARH/data=!4m7!3m6!1s0x3974a529fb9b7cfb:0xf8216003dcdc8627!8m2!3d27.9132998!4d78.0426868!16s%2Fg%2F11jq2d1hdd!19sChIJ-3yb-ymldDkRJ4bc3ANgIfg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "oro-dental-aligarh",
@@ -10025,7 +9941,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Oro+dental/data=!4m7!3m6!1s0x3974a59abed701a5:0x331aa3fc79dfdf2c!8m2!3d27.9062794!4d78.0822701!16s%2Fg%2F11sq1md63f!19sChIJpQHXvpqldDkRLN_fefyjGjM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oro+dental/data=!4m7!3m6!1s0x3974a59abed701a5:0x331aa3fc79dfdf2c!8m2!3d27.9062794!4d78.0822701!16s%2Fg%2F11sq1md63f!19sChIJpQHXvpqldDkRLN_fefyjGjM?authuser=0&hl=en&rclk=1"
@@ -10091,11 +10007,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Oro+dental/data=!4m7!3m6!1s0x3974a59abed701a5:0x331aa3fc79dfdf2c!8m2!3d27.9062794!4d78.0822701!16s%2Fg%2F11sq1md63f!19sChIJpQHXvpqldDkRLN_fefyjGjM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "p-k-hospital-aligarh-aligarh",
@@ -10143,7 +10058,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/P.k+hospital+Aligarh/data=!4m7!3m6!1s0x3974a5a7fed1fe07:0x43c3e30bb0b6598a!8m2!3d27.8900237!4d78.0327048!16s%2Fg%2F11l2llb0q_!19sChIJB_7R_qeldDkRilm2sAvjw0M?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/P.k+hospital+Aligarh/data=!4m7!3m6!1s0x3974a5a7fed1fe07:0x43c3e30bb0b6598a!8m2!3d27.8900237!4d78.0327048!16s%2Fg%2F11l2llb0q_!19sChIJB_7R_qeldDkRilm2sAvjw0M?authuser=0&hl=en&rclk=1"
@@ -10212,8 +10127,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/P.k+hospital+Aligarh/data=!4m7!3m6!1s0x3974a5a7fed1fe07:0x43c3e30bb0b6598a!8m2!3d27.8900237!4d78.0327048!16s%2Fg%2F11l2llb0q_!19sChIJB_7R_qeldDkRilm2sAvjw0M?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "paliwal-dental-clinic-aligarh",
@@ -10261,7 +10175,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Paliwal+Dental+Clinic/data=!4m7!3m6!1s0x3974a4ea95fdd5bb:0x1e8bab26e5b63d1e!8m2!3d27.8987661!4d78.0869331!16s%2Fg%2F11c5822p0v!19sChIJu9X9leqkdDkRHj225Sarix4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paliwal+Dental+Clinic/data=!4m7!3m6!1s0x3974a4ea95fdd5bb:0x1e8bab26e5b63d1e!8m2!3d27.8987661!4d78.0869331!16s%2Fg%2F11c5822p0v!19sChIJu9X9leqkdDkRHj225Sarix4?authuser=0&hl=en&rclk=1"
@@ -10327,11 +10241,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Paliwal+Dental+Clinic/data=!4m7!3m6!1s0x3974a4ea95fdd5bb:0x1e8bab26e5b63d1e!8m2!3d27.8987661!4d78.0869331!16s%2Fg%2F11c5822p0v!19sChIJu9X9leqkdDkRHj225Sarix4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pari-hospital-aligarh",
@@ -10381,7 +10294,7 @@
       "9+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pari+hospital/data=!4m7!3m6!1s0x3974a4a617e85567:0x12872554b287736!8m2!3d27.8776039!4d78.0978566!16s%2Fg%2F11gbff8v0w!19sChIJZ1XoF6akdDkRNncoS1VyKAE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pari+hospital/data=!4m7!3m6!1s0x3974a4a617e85567:0x12872554b287736!8m2!3d27.8776039!4d78.0978566!16s%2Fg%2F11gbff8v0w!19sChIJZ1XoF6akdDkRNncoS1VyKAE?authuser=0&hl=en&rclk=1"
@@ -10450,8 +10363,7 @@
     "rating": 3.8,
     "reviews": 9,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pari+hospital/data=!4m7!3m6!1s0x3974a4a617e85567:0x12872554b287736!8m2!3d27.8776039!4d78.0978566!16s%2Fg%2F11gbff8v0w!19sChIJZ1XoF6akdDkRNncoS1VyKAE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pearl-dental-clinic-aligarh",
@@ -10499,7 +10411,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/PEARL+DENTAL+CLINIC/data=!4m7!3m6!1s0x3974a37c383ee09d:0x48415501a7460271!8m2!3d27.869221!4d78.072194!16s%2Fg%2F1td23vh6!19sChIJneA-OHyjdDkRcQJGpwFVQUg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PEARL+DENTAL+CLINIC/data=!4m7!3m6!1s0x3974a37c383ee09d:0x48415501a7460271!8m2!3d27.869221!4d78.072194!16s%2Fg%2F1td23vh6!19sChIJneA-OHyjdDkRcQJGpwFVQUg?authuser=0&hl=en&rclk=1"
@@ -10568,8 +10480,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/PEARL+DENTAL+CLINIC/data=!4m7!3m6!1s0x3974a37c383ee09d:0x48415501a7460271!8m2!3d27.869221!4d78.072194!16s%2Fg%2F1td23vh6!19sChIJneA-OHyjdDkRcQJGpwFVQUg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prasad-hospital-aligarh",
@@ -10617,7 +10528,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prasad+Hospital/data=!4m7!3m6!1s0x3974a370f590e43d:0x660b5890bc4ce5e4!8m2!3d27.8598041!4d78.0736972!16s%2Fg%2F11b7x_x53t!19sChIJPeSQ9XCjdDkR5OVMvJBYC2Y?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prasad+Hospital/data=!4m7!3m6!1s0x3974a370f590e43d:0x660b5890bc4ce5e4!8m2!3d27.8598041!4d78.0736972!16s%2Fg%2F11b7x_x53t!19sChIJPeSQ9XCjdDkR5OVMvJBYC2Y?authuser=0&hl=en&rclk=1"
@@ -10686,8 +10597,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prasad+Hospital/data=!4m7!3m6!1s0x3974a370f590e43d:0x660b5890bc4ce5e4!8m2!3d27.8598041!4d78.0736972!16s%2Fg%2F11b7x_x53t!19sChIJPeSQ9XCjdDkR5OVMvJBYC2Y?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "prem-healthcare-center-aligarh",
@@ -10735,7 +10645,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Prem+Healthcare+Center/data=!4m7!3m6!1s0x3974a534b9983573:0xfe93ecb7aed16ec9!8m2!3d27.8828457!4d78.0576273!16s%2Fg%2F11y1yfvg2s!19sChIJczWYuTSldDkRyW7Rrrfsk_4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prem+Healthcare+Center/data=!4m7!3m6!1s0x3974a534b9983573:0xfe93ecb7aed16ec9!8m2!3d27.8828457!4d78.0576273!16s%2Fg%2F11y1yfvg2s!19sChIJczWYuTSldDkRyW7Rrrfsk_4?authuser=0&hl=en&rclk=1"
@@ -10804,8 +10714,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Prem+Healthcare+Center/data=!4m7!3m6!1s0x3974a534b9983573:0xfe93ecb7aed16ec9!8m2!3d27.8828457!4d78.0576273!16s%2Fg%2F11y1yfvg2s!19sChIJczWYuTSldDkRyW7Rrrfsk_4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pt-deendayal-upadhyay-joint-hospital-aligarh-aligarh",
@@ -10855,7 +10764,7 @@
       "Google rating 3.9",
       "3+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pt.+Deendayal+Upadhyay+Joint+Hospital+Aligarh/data=!4m7!3m6!1s0x3974a4c7165409cb:0xa2ac7226e63bbc15!8m2!3d27.9049694!4d78.0992041!16s%2Fg%2F11f4zgfdcf!19sChIJywlUFsekdDkRFbw75iZyrKI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pt.+Deendayal+Upadhyay+Joint+Hospital+Aligarh/data=!4m7!3m6!1s0x3974a4c7165409cb:0xa2ac7226e63bbc15!8m2!3d27.9049694!4d78.0992041!16s%2Fg%2F11f4zgfdcf!19sChIJywlUFsekdDkRFbw75iZyrKI?authuser=0&hl=en&rclk=1"
@@ -10924,8 +10833,7 @@
     "rating": 3.9,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pt.+Deendayal+Upadhyay+Joint+Hospital+Aligarh/data=!4m7!3m6!1s0x3974a4c7165409cb:0xa2ac7226e63bbc15!8m2!3d27.9049694!4d78.0992041!16s%2Fg%2F11f4zgfdcf!19sChIJywlUFsekdDkRFbw75iZyrKI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "pushpanjali-maternity-and-laproscopy-centre-aligarh",
@@ -10973,7 +10881,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Pushpanjali+Maternity+And+Laproscopy+Centre/data=!4m7!3m6!1s0x3974a52f16da26df:0xe6c03715b6f412ab!8m2!3d27.8989496!4d78.0952724!16s%2Fg%2F11gr3594ng!19sChIJ3ybaFi-ldDkRqxL0thU3wOY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pushpanjali+Maternity+And+Laproscopy+Centre/data=!4m7!3m6!1s0x3974a52f16da26df:0xe6c03715b6f412ab!8m2!3d27.8989496!4d78.0952724!16s%2Fg%2F11gr3594ng!19sChIJ3ybaFi-ldDkRqxL0thU3wOY?authuser=0&hl=en&rclk=1"
@@ -11042,8 +10950,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Pushpanjali+Maternity+And+Laproscopy+Centre/data=!4m7!3m6!1s0x3974a52f16da26df:0xe6c03715b6f412ab!8m2!3d27.8989496!4d78.0952724!16s%2Fg%2F11gr3594ng!19sChIJ3ybaFi-ldDkRqxL0thU3wOY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "r-k-memorial-hospital-aligarh",
@@ -11091,7 +10998,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/R+K+Memorial+Hospital/@27.9435794,78.0870122,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a5a0060bf3af:0x69197d9592aead49!8m2!3d27.9435794!4d78.0870122!16s%2Fg%2F11yh1nhvll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+K+Memorial+Hospital/@27.9435794,78.0870122,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a5a0060bf3af:0x69197d9592aead49!8m2!3d27.9435794!4d78.0870122!16s%2Fg%2F11yh1nhvll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -11160,8 +11067,7 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/R+K+Memorial+Hospital/@27.9435794,78.0870122,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a5a0060bf3af:0x69197d9592aead49!8m2!3d27.9435794!4d78.0870122!16s%2Fg%2F11yh1nhvll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "radiant-smiles-dental-clinic-aligarh",
@@ -11209,7 +11115,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Radiant+smiles+dental+clinic/data=!4m7!3m6!1s0x3974a4e6ef9d3319:0xe1906e800eab3d7f!8m2!3d27.912368!4d78.0844084!16s%2Fg%2F11f4v1g9tw!19sChIJGTOd7-akdDkRfz2rDoBukOE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiant+smiles+dental+clinic/data=!4m7!3m6!1s0x3974a4e6ef9d3319:0xe1906e800eab3d7f!8m2!3d27.912368!4d78.0844084!16s%2Fg%2F11f4v1g9tw!19sChIJGTOd7-akdDkRfz2rDoBukOE?authuser=0&hl=en&rclk=1"
@@ -11278,8 +11184,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Radiant+smiles+dental+clinic/data=!4m7!3m6!1s0x3974a4e6ef9d3319:0xe1906e800eab3d7f!8m2!3d27.912368!4d78.0844084!16s%2Fg%2F11f4v1g9tw!19sChIJGTOd7-akdDkRfz2rDoBukOE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "radiotherapy-opd-cancer-opd-aligarh",
@@ -11328,7 +11233,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Radiotherapy+OPD+%28Cancer+OPD%29/data=!4m7!3m6!1s0x3974a50c3449ed4f:0x6ed73450652466d!8m2!3d27.9169361!4d78.0885029!16s%2Fg%2F11kbt2bbz6!19sChIJT-1JNAyldDkRbUZSBkVz7QY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiotherapy+OPD+%28Cancer+OPD%29/data=!4m7!3m6!1s0x3974a50c3449ed4f:0x6ed73450652466d!8m2!3d27.9169361!4d78.0885029!16s%2Fg%2F11kbt2bbz6!19sChIJT-1JNAyldDkRbUZSBkVz7QY?authuser=0&hl=en&rclk=1"
@@ -11397,8 +11302,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Radiotherapy+OPD+%28Cancer+OPD%29/data=!4m7!3m6!1s0x3974a50c3449ed4f:0x6ed73450652466d!8m2!3d27.9169361!4d78.0885029!16s%2Fg%2F11kbt2bbz6!19sChIJT-1JNAyldDkRbUZSBkVz7QY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rafiq-dental-clinic-aligarh",
@@ -11447,7 +11351,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rafiq+Dental+Clinic/data=!4m7!3m6!1s0x3974a5121d0b8a6f:0xfe8b3806802aa3f8!8m2!3d27.9130625!4d78.0689375!16s%2Fg%2F11h64gpwb9!19sChIJb4oLHRKldDkR-KMqgAY4i_4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rafiq+Dental+Clinic/data=!4m7!3m6!1s0x3974a5121d0b8a6f:0xfe8b3806802aa3f8!8m2!3d27.9130625!4d78.0689375!16s%2Fg%2F11h64gpwb9!19sChIJb4oLHRKldDkR-KMqgAY4i_4?authuser=0&hl=en&rclk=1"
@@ -11516,8 +11420,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rafiq+Dental+Clinic/data=!4m7!3m6!1s0x3974a5121d0b8a6f:0xfe8b3806802aa3f8!8m2!3d27.9130625!4d78.0689375!16s%2Fg%2F11h64gpwb9!19sChIJb4oLHRKldDkR-KMqgAY4i_4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rainbow-hospital-aligarh",
@@ -11566,7 +11469,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rainbow+Hospital/data=!4m7!3m6!1s0x3974a490992086f3:0xca8f19e7cbe57034!8m2!3d27.8856019!4d78.0808651!16s%2Fg%2F11btvb94cd!19sChIJ84YgmZCkdDkRNHDly-cZj8o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rainbow+Hospital/data=!4m7!3m6!1s0x3974a490992086f3:0xca8f19e7cbe57034!8m2!3d27.8856019!4d78.0808651!16s%2Fg%2F11btvb94cd!19sChIJ84YgmZCkdDkRNHDly-cZj8o?authuser=0&hl=en&rclk=1"
@@ -11635,8 +11538,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rainbow+Hospital/data=!4m7!3m6!1s0x3974a490992086f3:0xca8f19e7cbe57034!8m2!3d27.8856019!4d78.0808651!16s%2Fg%2F11btvb94cd!19sChIJ84YgmZCkdDkRNHDly-cZj8o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rajul-nursing-home-pvt-and-umeed-ivf-centre-pulmonologist-in-aligarh-ivf-in-aligarh-orthopedist-in-aligarh-radiologist-aligarh",
@@ -11686,7 +11588,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rajul+Nursing+Home+Pvt+%26+Umeed+IVF+Centre+-+Pulmonologist+in+Aligarh+%7C+IVF+in+Aligarh+%7C+Orthopedist+in+Aligarh+%7C+Radiologist/data=!4m7!3m6!1s0x3974a37c1e03e041:0xf4e36eb92bb2dd7a!8m2!3d27.8686208!4d78.0712357!16s%2Fg%2F11d_87m1nw!19sChIJQeADHnyjdDkRet2yK7lu4_Q?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajul+Nursing+Home+Pvt+%26+Umeed+IVF+Centre+-+Pulmonologist+in+Aligarh+%7C+IVF+in+Aligarh+%7C+Orthopedist+in+Aligarh+%7C+Radiologist/data=!4m7!3m6!1s0x3974a37c1e03e041:0xf4e36eb92bb2dd7a!8m2!3d27.8686208!4d78.0712357!16s%2Fg%2F11d_87m1nw!19sChIJQeADHnyjdDkRet2yK7lu4_Q?authuser=0&hl=en&rclk=1"
@@ -11755,8 +11657,7 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rajul+Nursing+Home+Pvt+%26+Umeed+IVF+Centre+-+Pulmonologist+in+Aligarh+%7C+IVF+in+Aligarh+%7C+Orthopedist+in+Aligarh+%7C+Radiologist/data=!4m7!3m6!1s0x3974a37c1e03e041:0xf4e36eb92bb2dd7a!8m2!3d27.8686208!4d78.0712357!16s%2Fg%2F11d_87m1nw!19sChIJQeADHnyjdDkRet2yK7lu4_Q?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ranjana-hospital-aligarh",
@@ -11804,7 +11705,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Ranjana+hospital/data=!4m7!3m6!1s0x3974a37cb8abfe6d:0xb9297d664d4d1e83!8m2!3d27.8685405!4d78.07621!16s%2Fg%2F11sqk85hh2!19sChIJbf6ruHyjdDkRgx5NTWZ9Kbk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ranjana+hospital/data=!4m7!3m6!1s0x3974a37cb8abfe6d:0xb9297d664d4d1e83!8m2!3d27.8685405!4d78.07621!16s%2Fg%2F11sqk85hh2!19sChIJbf6ruHyjdDkRgx5NTWZ9Kbk?authuser=0&hl=en&rclk=1"
@@ -11873,8 +11774,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Ranjana+hospital/data=!4m7!3m6!1s0x3974a37cb8abfe6d:0xb9297d664d4d1e83!8m2!3d27.8685405!4d78.07621!16s%2Fg%2F11sqk85hh2!19sChIJbf6ruHyjdDkRgx5NTWZ9Kbk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rashmi-nursing-home-aligarh",
@@ -11922,7 +11822,7 @@
     "metrics": [
       "Google rating 2.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rashmi+Nursing+Home/@27.8976153,78.0942515,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a4b8af8fc66d:0xf59b50a06d44f922!8m2!3d27.8976153!4d78.0942515!16s%2Fg%2F11b8y_gccb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rashmi+Nursing+Home/@27.8976153,78.0942515,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a4b8af8fc66d:0xf59b50a06d44f922!8m2!3d27.8976153!4d78.0942515!16s%2Fg%2F11b8y_gccb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -11991,8 +11891,7 @@
     "rating": 2.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rashmi+Nursing+Home/@27.8976153,78.0942515,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a4b8af8fc66d:0xf59b50a06d44f922!8m2!3d27.8976153!4d78.0942515!16s%2Fg%2F11b8y_gccb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rawat-hospital-aligarh",
@@ -12040,7 +11939,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Rawat+Hospital/data=!4m7!3m6!1s0x3974a37bf81f159b:0x3c8283ce2a4a44bb!8m2!3d27.8670182!4d78.0715952!16s%2Fg%2F11c54c8sd_!19sChIJmxUf-HujdDkRu0RKKs6Dgjw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rawat+Hospital/data=!4m7!3m6!1s0x3974a37bf81f159b:0x3c8283ce2a4a44bb!8m2!3d27.8670182!4d78.0715952!16s%2Fg%2F11c54c8sd_!19sChIJmxUf-HujdDkRu0RKKs6Dgjw?authuser=0&hl=en&rclk=1"
@@ -12109,8 +12008,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Rawat+Hospital/data=!4m7!3m6!1s0x3974a37bf81f159b:0x3c8283ce2a4a44bb!8m2!3d27.8670182!4d78.0715952!16s%2Fg%2F11c54c8sd_!19sChIJmxUf-HujdDkRu0RKKs6Dgjw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "renuka-city-hospital-and-stone-center-aligarh",
@@ -12158,7 +12056,7 @@
     "metrics": [
       "Google rating 2.6"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Renuka+City+Hospital+And+Stone+Center/data=!4m7!3m6!1s0x3974a37ea7d17fd3:0x7033abc12cdfe04f!8m2!3d27.8699621!4d78.0715496!16s%2Fg%2F11f3mbgpfk!19sChIJ03_Rp36jdDkRT-DfLMGrM3A?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renuka+City+Hospital+And+Stone+Center/data=!4m7!3m6!1s0x3974a37ea7d17fd3:0x7033abc12cdfe04f!8m2!3d27.8699621!4d78.0715496!16s%2Fg%2F11f3mbgpfk!19sChIJ03_Rp36jdDkRT-DfLMGrM3A?authuser=0&hl=en&rclk=1"
@@ -12227,8 +12125,7 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Renuka+City+Hospital+And+Stone+Center/data=!4m7!3m6!1s0x3974a37ea7d17fd3:0x7033abc12cdfe04f!8m2!3d27.8699621!4d78.0715496!16s%2Fg%2F11f3mbgpfk!19sChIJ03_Rp36jdDkRT-DfLMGrM3A?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "renuka-clinic-aligarh",
@@ -12276,7 +12173,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Renuka+Clinic/@27.8871354,78.073407,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a48f03ddadc5:0xeccbdb0f19744870!8m2!3d27.8871354!4d78.073407!16s%2Fg%2F1vj5ymhs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renuka+Clinic/@27.8871354,78.073407,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a48f03ddadc5:0xeccbdb0f19744870!8m2!3d27.8871354!4d78.073407!16s%2Fg%2F1vj5ymhs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -12342,11 +12239,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Renuka+Clinic/@27.8871354,78.073407,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a48f03ddadc5:0xeccbdb0f19744870!8m2!3d27.8871354!4d78.073407!16s%2Fg%2F1vj5ymhs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "rome-dental-care-and-implant-center-1-aligarh",
@@ -12395,7 +12291,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/ROME+DENTAL+CARE+%26+IMPLANT+CENTER-1/data=!4m7!3m6!1s0x3974a49014d86d49:0x813c3fcbe35c1014!8m2!3d27.8867683!4d78.0783433!16s%2Fg%2F11f_1j44_z!19sChIJSW3YFJCkdDkRFBBc48s_PIE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ROME+DENTAL+CARE+%26+IMPLANT+CENTER-1/data=!4m7!3m6!1s0x3974a49014d86d49:0x813c3fcbe35c1014!8m2!3d27.8867683!4d78.0783433!16s%2Fg%2F11f_1j44_z!19sChIJSW3YFJCkdDkRFBBc48s_PIE?authuser=0&hl=en&rclk=1"
@@ -12464,8 +12360,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/ROME+DENTAL+CARE+%26+IMPLANT+CENTER-1/data=!4m7!3m6!1s0x3974a49014d86d49:0x813c3fcbe35c1014!8m2!3d27.8867683!4d78.0783433!16s%2Fg%2F11f_1j44_z!19sChIJSW3YFJCkdDkRFBBc48s_PIE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-s-memorial-hospital-aligarh",
@@ -12514,7 +12409,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S+S+Memorial+Hospital/data=!4m7!3m6!1s0x3974a5723d173b17:0x5ae76e1d5dc5e7de!8m2!3d27.9361658!4d78.0849518!16s%2Fg%2F11ks5mnlwk!19sChIJFzsXPXKldDkR3ufFXR1u51o?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+S+Memorial+Hospital/data=!4m7!3m6!1s0x3974a5723d173b17:0x5ae76e1d5dc5e7de!8m2!3d27.9361658!4d78.0849518!16s%2Fg%2F11ks5mnlwk!19sChIJFzsXPXKldDkR3ufFXR1u51o?authuser=0&hl=en&rclk=1"
@@ -12580,11 +12475,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S+S+Memorial+Hospital/data=!4m7!3m6!1s0x3974a5723d173b17:0x5ae76e1d5dc5e7de!8m2!3d27.9361658!4d78.0849518!16s%2Fg%2F11ks5mnlwk!19sChIJFzsXPXKldDkR3ufFXR1u51o?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-k-memorial-hospital-aligarh",
@@ -12634,7 +12528,7 @@
       "11+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S.K.+Memorial+Hospital/data=!4m7!3m6!1s0x3974a554acd46a3f:0x98a0e1e57eee31ec!8m2!3d27.912453!4d78.0987973!16s%2Fg%2F11st8fwgcb!19sChIJP2rUrFSldDkR7DHufuXhoJg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.K.+Memorial+Hospital/data=!4m7!3m6!1s0x3974a554acd46a3f:0x98a0e1e57eee31ec!8m2!3d27.912453!4d78.0987973!16s%2Fg%2F11st8fwgcb!19sChIJP2rUrFSldDkR7DHufuXhoJg?authuser=0&hl=en&rclk=1"
@@ -12703,8 +12597,7 @@
     "rating": 4.6,
     "reviews": 11,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S.K.+Memorial+Hospital/data=!4m7!3m6!1s0x3974a554acd46a3f:0x98a0e1e57eee31ec!8m2!3d27.912453!4d78.0987973!16s%2Fg%2F11st8fwgcb!19sChIJP2rUrFSldDkR7DHufuXhoJg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "s-n-hospital-aligarh",
@@ -12753,7 +12646,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/S.N.+Hospital/data=!4m7!3m6!1s0x3974a4604d339f03:0xd05a546453faeac6!8m2!3d27.8914874!4d78.0631456!16s%2Fg%2F11gfcyps6d!19sChIJA58zTWCkdDkRxur6U2RUWtA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.N.+Hospital/data=!4m7!3m6!1s0x3974a4604d339f03:0xd05a546453faeac6!8m2!3d27.8914874!4d78.0631456!16s%2Fg%2F11gfcyps6d!19sChIJA58zTWCkdDkRxur6U2RUWtA?authuser=0&hl=en&rclk=1"
@@ -12822,8 +12715,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/S.N.+Hospital/data=!4m7!3m6!1s0x3974a4604d339f03:0xd05a546453faeac6!8m2!3d27.8914874!4d78.0631456!16s%2Fg%2F11gfcyps6d!19sChIJA58zTWCkdDkRxur6U2RUWtA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "saaol-heart-center-aligarh",
@@ -12873,7 +12765,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Saaol+Heart+Center/data=!4m7!3m6!1s0x3974a55ce42683d3:0x23e91d9e963fa159!8m2!3d27.8966882!4d78.0896046!16s%2Fg%2F11fjbkr2_0!19sChIJ04Mm5FyldDkRWaE_lp4d6SM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+Heart+Center/data=!4m7!3m6!1s0x3974a55ce42683d3:0x23e91d9e963fa159!8m2!3d27.8966882!4d78.0896046!16s%2Fg%2F11fjbkr2_0!19sChIJ04Mm5FyldDkRWaE_lp4d6SM?authuser=0&hl=en&rclk=1"
@@ -12942,8 +12834,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Saaol+Heart+Center/data=!4m7!3m6!1s0x3974a55ce42683d3:0x23e91d9e963fa159!8m2!3d27.8966882!4d78.0896046!16s%2Fg%2F11fjbkr2_0!19sChIJ04Mm5FyldDkRWaE_lp4d6SM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevani-hospital-aligarh",
@@ -12991,7 +12882,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevani+Hospital/data=!4m7!3m6!1s0x3974a4c8a8cd8907:0xb57ed648c1e8f580!8m2!3d27.9037968!4d78.0999387!16s%2Fg%2F1hc28pbqz!19sChIJB4nNqMikdDkRgPXowUjWfrU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Hospital/data=!4m7!3m6!1s0x3974a4c8a8cd8907:0xb57ed648c1e8f580!8m2!3d27.9037968!4d78.0999387!16s%2Fg%2F1hc28pbqz!19sChIJB4nNqMikdDkRgPXowUjWfrU?authuser=0&hl=en&rclk=1"
@@ -13060,8 +12951,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevani+Hospital/data=!4m7!3m6!1s0x3974a4c8a8cd8907:0xb57ed648c1e8f580!8m2!3d27.9037968!4d78.0999387!16s%2Fg%2F1hc28pbqz!19sChIJB4nNqMikdDkRgPXowUjWfrU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sanjeevni-hospital-aligarh",
@@ -13109,7 +12999,7 @@
     "metrics": [
       "Google rating 2.4"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sanjeevni+Hospital/data=!4m7!3m6!1s0x3974a297ed3253b3:0xcf253396a1c0d7de!8m2!3d27.7966975!4d78.0866086!16s%2Fg%2F11cn9348d_!19sChIJs1My7ZeidDkR3tfAoZYzJc8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevni+Hospital/data=!4m7!3m6!1s0x3974a297ed3253b3:0xcf253396a1c0d7de!8m2!3d27.7966975!4d78.0866086!16s%2Fg%2F11cn9348d_!19sChIJs1My7ZeidDkR3tfAoZYzJc8?authuser=0&hl=en&rclk=1"
@@ -13178,8 +13068,7 @@
     "rating": 2.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sanjeevni+Hospital/data=!4m7!3m6!1s0x3974a297ed3253b3:0xcf253396a1c0d7de!8m2!3d27.7966975!4d78.0866086!16s%2Fg%2F11cn9348d_!19sChIJs1My7ZeidDkR3tfAoZYzJc8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarmesh-hospital-aligarh",
@@ -13229,7 +13118,7 @@
       "Google rating 4.0",
       "6+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarmesh+Hospital/data=!4m7!3m6!1s0x3974a49a18eb04b1:0xbcf98e64e85e8692!8m2!3d27.887203!4d78.0798682!16s%2Fg%2F11f3nm47lq!19sChIJsQTrGJqkdDkRkoZe6GSO-bw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarmesh+Hospital/data=!4m7!3m6!1s0x3974a49a18eb04b1:0xbcf98e64e85e8692!8m2!3d27.887203!4d78.0798682!16s%2Fg%2F11f3nm47lq!19sChIJsQTrGJqkdDkRkoZe6GSO-bw?authuser=0&hl=en&rclk=1"
@@ -13295,11 +13184,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4,
+    "rating": 4.0,
     "reviews": 6,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarmesh+Hospital/data=!4m7!3m6!1s0x3974a49a18eb04b1:0xbcf98e64e85e8692!8m2!3d27.887203!4d78.0798682!16s%2Fg%2F11f3nm47lq!19sChIJsQTrGJqkdDkRkoZe6GSO-bw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sarvoday-hospital-aligarh",
@@ -13347,7 +13235,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sarvoday+hospital/@27.8907485,78.0325063,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a537c2d85447:0x7237680e1dd8ab59!8m2!3d27.8907485!4d78.0325063!16s%2Fg%2F11mvgm72s7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarvoday+hospital/@27.8907485,78.0325063,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a537c2d85447:0x7237680e1dd8ab59!8m2!3d27.8907485!4d78.0325063!16s%2Fg%2F11mvgm72s7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -13416,8 +13304,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sarvoday+hospital/@27.8907485,78.0325063,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a537c2d85447:0x7237680e1dd8ab59!8m2!3d27.8907485!4d78.0325063!16s%2Fg%2F11mvgm72s7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "satyam-dental-care-best-dental-clinic-in-aligarh-opposite-khirni-gate-police-chawki-hathras-adda-aligarh-aligarh",
@@ -13466,7 +13353,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Satyam+dental+care+,+Best+dental+clinic+in+Aligarh+opposite+khirni+gate+police+chawki+hathras+adda+Aligarh/data=!4m7!3m6!1s0x3974a482ea381b85:0xd47035c9e654bfd5!8m2!3d27.8749785!4d78.0751096!16s%2Fg%2F11c46568n3!19sChIJhRs46oKkdDkR1b9U5sk1cNQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyam+dental+care+,+Best+dental+clinic+in+Aligarh+opposite+khirni+gate+police+chawki+hathras+adda+Aligarh/data=!4m7!3m6!1s0x3974a482ea381b85:0xd47035c9e654bfd5!8m2!3d27.8749785!4d78.0751096!16s%2Fg%2F11c46568n3!19sChIJhRs46oKkdDkR1b9U5sk1cNQ?authuser=0&hl=en&rclk=1"
@@ -13535,8 +13422,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Satyam+dental+care+,+Best+dental+clinic+in+Aligarh+opposite+khirni+gate+police+chawki+hathras+adda+Aligarh/data=!4m7!3m6!1s0x3974a482ea381b85:0xd47035c9e654bfd5!8m2!3d27.8749785!4d78.0751096!16s%2Fg%2F11c46568n3!19sChIJhRs46oKkdDkR1b9U5sk1cNQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sehgal-nursing-home-aligarh",
@@ -13586,7 +13472,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sehgal+Nursing+Home/data=!4m7!3m6!1s0x3974a494057ca5f7:0xdbc61bf79bf96cdd!8m2!3d27.8917435!4d78.08285!16s%2Fg%2F11b7xs3h28!19sChIJ96V8BZSkdDkR3Wz5m_cbxts?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sehgal+Nursing+Home/data=!4m7!3m6!1s0x3974a494057ca5f7:0xdbc61bf79bf96cdd!8m2!3d27.8917435!4d78.08285!16s%2Fg%2F11b7xs3h28!19sChIJ96V8BZSkdDkR3Wz5m_cbxts?authuser=0&hl=en&rclk=1"
@@ -13655,8 +13541,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sehgal+Nursing+Home/data=!4m7!3m6!1s0x3974a494057ca5f7:0xdbc61bf79bf96cdd!8m2!3d27.8917435!4d78.08285!16s%2Fg%2F11b7xs3h28!19sChIJ96V8BZSkdDkR3Wz5m_cbxts?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "servio-dialysis-clinex-private-limited-aligarh",
@@ -13703,7 +13588,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Servio+Dialysis+CLINEX+Private+Limited/data=!4m7!3m6!1s0x3974a57b835643b5:0xa6d416337d4af3b5!8m2!3d27.9054933!4d78.1016547!16s%2Fg%2F11jzwdjt92!19sChIJtUNWg3uldDkRtfNKfTMW1KY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Servio+Dialysis+CLINEX+Private+Limited/data=!4m7!3m6!1s0x3974a57b835643b5:0xa6d416337d4af3b5!8m2!3d27.9054933!4d78.1016547!16s%2Fg%2F11jzwdjt92!19sChIJtUNWg3uldDkRtfNKfTMW1KY?authuser=0&hl=en&rclk=1"
@@ -13769,11 +13654,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Servio+Dialysis+CLINEX+Private+Limited/data=!4m7!3m6!1s0x3974a57b835643b5:0xa6d416337d4af3b5!8m2!3d27.9054933!4d78.1016547!16s%2Fg%2F11jzwdjt92!19sChIJtUNWg3uldDkRtfNKfTMW1KY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shantilata-clinic-aligarh",
@@ -13821,7 +13705,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shantilata+Clinic/data=!4m7!3m6!1s0x3974bb2aba9eee7d:0x7872dce34d5f733e!8m2!3d27.9119273!4d78.1147274!16s%2Fg%2F11h0thkt8k!19sChIJfe6euiq7dDkRPnNfTePccng?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shantilata+Clinic/data=!4m7!3m6!1s0x3974bb2aba9eee7d:0x7872dce34d5f733e!8m2!3d27.9119273!4d78.1147274!16s%2Fg%2F11h0thkt8k!19sChIJfe6euiq7dDkRPnNfTePccng?authuser=0&hl=en&rclk=1"
@@ -13890,8 +13774,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shantilata+Clinic/data=!4m7!3m6!1s0x3974bb2aba9eee7d:0x7872dce34d5f733e!8m2!3d27.9119273!4d78.1147274!16s%2Fg%2F11h0thkt8k!19sChIJfe6euiq7dDkRPnNfTePccng?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shekhar-sarraf-memorial-hospital-aligarh",
@@ -13941,7 +13824,7 @@
       "1+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shekhar+Sarraf+Memorial+Hospital/data=!4m7!3m6!1s0x3974a3726f81a68f:0xae3fd2a9ab6d11ed!8m2!3d27.8537791!4d78.076231!16s%2Fg%2F1hm5q717t!19sChIJj6aBb3KjdDkR7RFtq6nSP64?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shekhar+Sarraf+Memorial+Hospital/data=!4m7!3m6!1s0x3974a3726f81a68f:0xae3fd2a9ab6d11ed!8m2!3d27.8537791!4d78.076231!16s%2Fg%2F1hm5q717t!19sChIJj6aBb3KjdDkR7RFtq6nSP64?authuser=0&hl=en&rclk=1"
@@ -14010,8 +13893,7 @@
     "rating": 4.6,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shekhar+Sarraf+Memorial+Hospital/data=!4m7!3m6!1s0x3974a3726f81a68f:0xae3fd2a9ab6d11ed!8m2!3d27.8537791!4d78.076231!16s%2Fg%2F1hm5q717t!19sChIJj6aBb3KjdDkR7RFtq6nSP64?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sherwani-therapy-center-pvt-ltd-aligarh",
@@ -14060,7 +13942,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sherwani+Therapy+Center+Pvt+Ltd/data=!4m7!3m6!1s0x3974a52331eb306d:0x6c76b4c9b68e9a7d!8m2!3d27.9456091!4d78.0857803!16s%2Fg%2F11qwwx00kg!19sChIJbTDrMSOldDkRfZqOtsm0dmw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sherwani+Therapy+Center+Pvt+Ltd/data=!4m7!3m6!1s0x3974a52331eb306d:0x6c76b4c9b68e9a7d!8m2!3d27.9456091!4d78.0857803!16s%2Fg%2F11qwwx00kg!19sChIJbTDrMSOldDkRfZqOtsm0dmw?authuser=0&hl=en&rclk=1"
@@ -14129,8 +14011,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sherwani+Therapy+Center+Pvt+Ltd/data=!4m7!3m6!1s0x3974a52331eb306d:0x6c76b4c9b68e9a7d!8m2!3d27.9456091!4d78.0857803!16s%2Fg%2F11qwwx00kg!19sChIJbTDrMSOldDkRfZqOtsm0dmw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shifa-dental-clinic-aligarh",
@@ -14178,7 +14059,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shifa+Dental+Clinic/data=!4m7!3m6!1s0x3974a4e656de8af3:0x27a449e5afd07077!8m2!3d27.91125!4d78.0846508!16s%2Fg%2F1261n8r13!19sChIJ84reVuakdDkRd3DQr-VJpCc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shifa+Dental+Clinic/data=!4m7!3m6!1s0x3974a4e656de8af3:0x27a449e5afd07077!8m2!3d27.91125!4d78.0846508!16s%2Fg%2F1261n8r13!19sChIJ84reVuakdDkRd3DQr-VJpCc?authuser=0&hl=en&rclk=1"
@@ -14247,8 +14128,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shifa+Dental+Clinic/data=!4m7!3m6!1s0x3974a4e656de8af3:0x27a449e5afd07077!8m2!3d27.91125!4d78.0846508!16s%2Fg%2F1261n8r13!19sChIJ84reVuakdDkRd3DQr-VJpCc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiv-mahima-hospital-icu-and-nicu-critical-care-centre-aligarh-aligarh",
@@ -14297,7 +14177,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiv+Mahima+Hospital+ICU+and+NICU+Critical+care+centre+Aligarh/@27.8575134,78.1462153,17z/data=!3m1!4b1!4m6!3m5!1s0x3974bd1a8402e8b3:0x2b8ddbff3cf01453!8m2!3d27.8575134!4d78.1462153!16s%2Fg%2F11x600nr07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Mahima+Hospital+ICU+and+NICU+Critical+care+centre+Aligarh/@27.8575134,78.1462153,17z/data=!3m1!4b1!4m6!3m5!1s0x3974bd1a8402e8b3:0x2b8ddbff3cf01453!8m2!3d27.8575134!4d78.1462153!16s%2Fg%2F11x600nr07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -14363,11 +14243,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiv+Mahima+Hospital+ICU+and+NICU+Critical+care+centre+Aligarh/@27.8575134,78.1462153,17z/data=!3m1!4b1!4m6!3m5!1s0x3974bd1a8402e8b3:0x2b8ddbff3cf01453!8m2!3d27.8575134!4d78.1462153!16s%2Fg%2F11x600nr07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shiva-nursing-home-and-medical-centre-aligarh",
@@ -14415,7 +14294,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shiva+Nursing+Home+and+medical+centre/data=!4m7!3m6!1s0x3974a490ccead54f:0x1ede2c04e6adfcca!8m2!3d27.8872508!4d78.0822241!16s%2Fg%2F11cs4h_yyn!19sChIJT9XqzJCkdDkRyvyt5gQs3h4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiva+Nursing+Home+and+medical+centre/data=!4m7!3m6!1s0x3974a490ccead54f:0x1ede2c04e6adfcca!8m2!3d27.8872508!4d78.0822241!16s%2Fg%2F11cs4h_yyn!19sChIJT9XqzJCkdDkRyvyt5gQs3h4?authuser=0&hl=en&rclk=1"
@@ -14484,8 +14363,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shiva+Nursing+Home+and+medical+centre/data=!4m7!3m6!1s0x3974a490ccead54f:0x1ede2c04e6adfcca!8m2!3d27.8872508!4d78.0822241!16s%2Fg%2F11cs4h_yyn!19sChIJT9XqzJCkdDkRyvyt5gQs3h4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shree-radha-rani-hospital-aligarh",
@@ -14533,7 +14411,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shree+Radha+Rani+Hospital/data=!4m7!3m6!1s0x3974a3542311d0db:0x13ae8efd34f844ba!8m2!3d27.8716334!4d78.1057579!16s%2Fg%2F11f15mlxsb!19sChIJ29ARI1SjdDkRukT4NP2OrhM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Radha+Rani+Hospital/data=!4m7!3m6!1s0x3974a3542311d0db:0x13ae8efd34f844ba!8m2!3d27.8716334!4d78.1057579!16s%2Fg%2F11f15mlxsb!19sChIJ29ARI1SjdDkRukT4NP2OrhM?authuser=0&hl=en&rclk=1"
@@ -14602,8 +14480,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shree+Radha+Rani+Hospital/data=!4m7!3m6!1s0x3974a3542311d0db:0x13ae8efd34f844ba!8m2!3d27.8716334!4d78.1057579!16s%2Fg%2F11f15mlxsb!19sChIJ29ARI1SjdDkRukT4NP2OrhM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-kedarnath-hospital-aligarh",
@@ -14651,7 +14528,7 @@
     "metrics": [
       "Google rating 2.6"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Kedarnath+Hospital/@27.8990183,78.0631965,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a45f10f86459:0x7a942f9ef55cf88d!8m2!3d27.8990183!4d78.0631965!16s%2Fg%2F11c1tgpdf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Kedarnath+Hospital/@27.8990183,78.0631965,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a45f10f86459:0x7a942f9ef55cf88d!8m2!3d27.8990183!4d78.0631965!16s%2Fg%2F11c1tgpdf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -14720,8 +14597,7 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Kedarnath+Hospital/@27.8990183,78.0631965,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a45f10f86459:0x7a942f9ef55cf88d!8m2!3d27.8990183!4d78.0631965!16s%2Fg%2F11c1tgpdf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shri-radha-rani-hospital-dialysis-center-aligarh",
@@ -14771,7 +14647,7 @@
       "Google rating 4.4",
       "11+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Shri+Radha+Rani+hospital+Dialysis+center/data=!4m7!3m6!1s0x3974a3b734a35a15:0xee6f78451775cd34!8m2!3d27.8713657!4d78.1075931!16s%2Fg%2F11x1ps4fh1!19sChIJFVqjNLejdDkRNM11F0V4b-4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Radha+Rani+hospital+Dialysis+center/data=!4m7!3m6!1s0x3974a3b734a35a15:0xee6f78451775cd34!8m2!3d27.8713657!4d78.1075931!16s%2Fg%2F11x1ps4fh1!19sChIJFVqjNLejdDkRNM11F0V4b-4?authuser=0&hl=en&rclk=1"
@@ -14840,8 +14716,7 @@
     "rating": 4.4,
     "reviews": 11,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Shri+Radha+Rani+hospital+Dialysis+center/data=!4m7!3m6!1s0x3974a3b734a35a15:0xee6f78451775cd34!8m2!3d27.8713657!4d78.1075931!16s%2Fg%2F11x1ps4fh1!19sChIJFVqjNLejdDkRNM11F0V4b-4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "shubham-hospital-aligarh",
@@ -14890,7 +14765,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SHUBHAM+HOSPITAL/data=!4m7!3m6!1s0x3974a5cccc907c1f:0xb13d1e007feb9902!8m2!3d27.9159309!4d78.0348475!16s%2Fg%2F1tl9k_17!19sChIJH3yQzMyldDkRApnrfwAePbE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHUBHAM+HOSPITAL/data=!4m7!3m6!1s0x3974a5cccc907c1f:0xb13d1e007feb9902!8m2!3d27.9159309!4d78.0348475!16s%2Fg%2F1tl9k_17!19sChIJH3yQzMyldDkRApnrfwAePbE?authuser=0&hl=en&rclk=1"
@@ -14959,8 +14834,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SHUBHAM+HOSPITAL/data=!4m7!3m6!1s0x3974a5cccc907c1f:0xb13d1e007feb9902!8m2!3d27.9159309!4d78.0348475!16s%2Fg%2F1tl9k_17!19sChIJH3yQzMyldDkRApnrfwAePbE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sidra-hospital-and-kidney-care-centre-aligarh",
@@ -15009,7 +14883,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sidra+Hospital+%26+Kidney+Care+Centre/data=!4m7!3m6!1s0x3974a4eede03bc1d:0x733a0f18ec19a50f!8m2!3d27.9399459!4d78.0846821!16s%2Fg%2F11c5421yb8!19sChIJHbwD3u6kdDkRD6UZ7BgPOnM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sidra+Hospital+%26+Kidney+Care+Centre/data=!4m7!3m6!1s0x3974a4eede03bc1d:0x733a0f18ec19a50f!8m2!3d27.9399459!4d78.0846821!16s%2Fg%2F11c5421yb8!19sChIJHbwD3u6kdDkRD6UZ7BgPOnM?authuser=0&hl=en&rclk=1"
@@ -15078,8 +14952,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sidra+Hospital+%26+Kidney+Care+Centre/data=!4m7!3m6!1s0x3974a4eede03bc1d:0x733a0f18ec19a50f!8m2!3d27.9399459!4d78.0846821!16s%2Fg%2F11c5421yb8!19sChIJHbwD3u6kdDkRD6UZ7BgPOnM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sidra-hospital-and-kidney-care-centre-aligarh",
@@ -15126,7 +14999,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sidra+Hospital+%26+Kidney+Care+Centre/@27.8907246,78.0825207,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a496ac818dc7:0xfea3b766e065afa3!8m2!3d27.8907246!4d78.0825207!16s%2Fg%2F11h7rr14v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sidra+Hospital+%26+Kidney+Care+Centre/@27.8907246,78.0825207,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a496ac818dc7:0xfea3b766e065afa3!8m2!3d27.8907246!4d78.0825207!16s%2Fg%2F11h7rr14v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -15192,11 +15065,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sidra+Hospital+%26+Kidney+Care+Centre/@27.8907246,78.0825207,17z/data=!3m1!4b1!4m6!3m5!1s0x3974a496ac818dc7:0xfea3b766e065afa3!8m2!3d27.8907246!4d78.0825207!16s%2Fg%2F11h7rr14v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sjd-hospital-and-critical-care-centre-aligarh",
@@ -15246,7 +15118,7 @@
       "1+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SJD+Hospital+%26+Critical+Care+Centre/data=!4m7!3m6!1s0x3974a3536814ca99:0xf7d482bd58964855!8m2!3d27.8696988!4d78.1093767!16s%2Fg%2F11c5431rpz!19sChIJmcoUaFOjdDkRVUiWWL2C1Pc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SJD+Hospital+%26+Critical+Care+Centre/data=!4m7!3m6!1s0x3974a3536814ca99:0xf7d482bd58964855!8m2!3d27.8696988!4d78.1093767!16s%2Fg%2F11c5431rpz!19sChIJmcoUaFOjdDkRVUiWWL2C1Pc?authuser=0&hl=en&rclk=1"
@@ -15315,8 +15187,7 @@
     "rating": 3.6,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SJD+Hospital+%26+Critical+Care+Centre/data=!4m7!3m6!1s0x3974a3536814ca99:0xf7d482bd58964855!8m2!3d27.8696988!4d78.1093767!16s%2Fg%2F11c5431rpz!19sChIJmcoUaFOjdDkRVUiWWL2C1Pc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-again-dental-asthetic-and-laser-centre-aligarh",
@@ -15365,7 +15236,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SMILE+AGAIN+DENTAL+ASTHETIC+AND+LASER+CENTRE/data=!4m7!3m6!1s0x3974a503692fd413:0x8f04206d8f97ae98!8m2!3d27.9160747!4d78.0334319!16s%2Fg%2F11s1y1th86!19sChIJE9QvaQOldDkRmK6Xj20gBI8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+AGAIN+DENTAL+ASTHETIC+AND+LASER+CENTRE/data=!4m7!3m6!1s0x3974a503692fd413:0x8f04206d8f97ae98!8m2!3d27.9160747!4d78.0334319!16s%2Fg%2F11s1y1th86!19sChIJE9QvaQOldDkRmK6Xj20gBI8?authuser=0&hl=en&rclk=1"
@@ -15431,11 +15302,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SMILE+AGAIN+DENTAL+ASTHETIC+AND+LASER+CENTRE/data=!4m7!3m6!1s0x3974a503692fd413:0x8f04206d8f97ae98!8m2!3d27.9160747!4d78.0334319!16s%2Fg%2F11s1y1th86!19sChIJE9QvaQOldDkRmK6Xj20gBI8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "smile-dental-clinic-meera-complex-eith-chungi-aligarh-aligarh",
@@ -15484,7 +15354,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Smile+dental+clinic+meera+complex+eith+chungi+Aligarh/data=!4m7!3m6!1s0x3974a5b211187391:0xec42cd909e3d1fce!8m2!3d27.8754629!4d78.0946366!16s%2Fg%2F11rtybjp9w!19sChIJkXMYEbKldDkRzh89npDNQuw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+dental+clinic+meera+complex+eith+chungi+Aligarh/data=!4m7!3m6!1s0x3974a5b211187391:0xec42cd909e3d1fce!8m2!3d27.8754629!4d78.0946366!16s%2Fg%2F11rtybjp9w!19sChIJkXMYEbKldDkRzh89npDNQuw?authuser=0&hl=en&rclk=1"
@@ -15553,8 +15423,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Smile+dental+clinic+meera+complex+eith+chungi+Aligarh/data=!4m7!3m6!1s0x3974a5b211187391:0xec42cd909e3d1fce!8m2!3d27.8754629!4d78.0946366!16s%2Fg%2F11rtybjp9w!19sChIJkXMYEbKldDkRzh89npDNQuw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sudarshan-hospital-aligarh",
@@ -15602,7 +15471,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sudarshan+Hospital/data=!4m7!3m6!1s0x3974a4c6b7de8673:0x92c5bcedfa6a0c17!8m2!3d27.902294!4d78.0943286!16s%2Fg%2F1hc1l7kzt!19sChIJc4bet8akdDkRFwxq-u28xZI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudarshan+Hospital/data=!4m7!3m6!1s0x3974a4c6b7de8673:0x92c5bcedfa6a0c17!8m2!3d27.902294!4d78.0943286!16s%2Fg%2F1hc1l7kzt!19sChIJc4bet8akdDkRFwxq-u28xZI?authuser=0&hl=en&rclk=1"
@@ -15671,8 +15540,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sudarshan+Hospital/data=!4m7!3m6!1s0x3974a4c6b7de8673:0x92c5bcedfa6a0c17!8m2!3d27.902294!4d78.0943286!16s%2Fg%2F1hc1l7kzt!19sChIJc4bet8akdDkRFwxq-u28xZI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sumbul-hospital-b-r-khan-memorial-family-health-clinic-aligarh",
@@ -15720,7 +15588,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SUMBUL%27+hospital+B.R.+Khan+Memorial+Family+Health+Clinic/data=!4m7!3m6!1s0x3974a51a429f6c55:0x5b7964a0895db024!8m2!3d27.9299667!4d78.080236!16s%2Fg%2F1pp2x6k4w!19sChIJVWyfQhqldDkRJLBdiaBkeVs?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUMBUL%27+hospital+B.R.+Khan+Memorial+Family+Health+Clinic/data=!4m7!3m6!1s0x3974a51a429f6c55:0x5b7964a0895db024!8m2!3d27.9299667!4d78.080236!16s%2Fg%2F1pp2x6k4w!19sChIJVWyfQhqldDkRJLBdiaBkeVs?authuser=0&hl=en&rclk=1"
@@ -15789,8 +15657,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SUMBUL%27+hospital+B.R.+Khan+Memorial+Family+Health+Clinic/data=!4m7!3m6!1s0x3974a51a429f6c55:0x5b7964a0895db024!8m2!3d27.9299667!4d78.080236!16s%2Fg%2F1pp2x6k4w!19sChIJVWyfQhqldDkRJLBdiaBkeVs?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunrise-dental-clinic-and-child-dental-care-aligarh",
@@ -15839,7 +15706,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SUNRISE+Dental+Clinic+and+Child+Dental+Care/data=!4m7!3m6!1s0x3974a501f92560a1:0x37ff7dbfc43028c1!8m2!3d27.9061163!4d78.0805125!16s%2Fg%2F11q4bqth8q!19sChIJoWAl-QGldDkRwSgwxL99_zc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUNRISE+Dental+Clinic+and+Child+Dental+Care/data=!4m7!3m6!1s0x3974a501f92560a1:0x37ff7dbfc43028c1!8m2!3d27.9061163!4d78.0805125!16s%2Fg%2F11q4bqth8q!19sChIJoWAl-QGldDkRwSgwxL99_zc?authuser=0&hl=en&rclk=1"
@@ -15908,8 +15775,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SUNRISE+Dental+Clinic+and+Child+Dental+Care/data=!4m7!3m6!1s0x3974a501f92560a1:0x37ff7dbfc43028c1!8m2!3d27.9061163!4d78.0805125!16s%2Fg%2F11q4bqth8q!19sChIJoWAl-QGldDkRwSgwxL99_zc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunrise-hospital-aligarh",
@@ -15958,7 +15824,7 @@
       "Google rating 3.3",
       "9+ public reviews"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Sunrise+Hospital/data=!4m7!3m6!1s0x3974a4cf2b07cb09:0x2fa4a1117d286471!8m2!3d27.9045675!4d78.102034!16s%2Fg%2F11cs0r63gh!19sChIJCcsHK8-kdDkRcWQofRGhpC8?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunrise+Hospital/data=!4m7!3m6!1s0x3974a4cf2b07cb09:0x2fa4a1117d286471!8m2!3d27.9045675!4d78.102034!16s%2Fg%2F11cs0r63gh!19sChIJCcsHK8-kdDkRcWQofRGhpC8?authuser=0&hl=en&rclk=1"
@@ -16027,8 +15893,7 @@
     "rating": 3.3,
     "reviews": 9,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Sunrise+Hospital/data=!4m7!3m6!1s0x3974a4cf2b07cb09:0x2fa4a1117d286471!8m2!3d27.9045675!4d78.102034!16s%2Fg%2F11cs0r63gh!19sChIJCcsHK8-kdDkRcWQofRGhpC8?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "sunshine-dental-clinic-aligarh",
@@ -16078,7 +15943,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/SUNSHINE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3974a5cbf1f49d31:0x950aa240bd3980b0!8m2!3d27.8792151!4d78.0843317!16s%2Fg%2F11h1yv4t64!19sChIJMZ308culdDkRsIA5vUCiCpU?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUNSHINE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3974a5cbf1f49d31:0x950aa240bd3980b0!8m2!3d27.8792151!4d78.0843317!16s%2Fg%2F11h1yv4t64!19sChIJMZ308culdDkRsIA5vUCiCpU?authuser=0&hl=en&rclk=1"
@@ -16147,8 +16012,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/SUNSHINE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3974a5cbf1f49d31:0x950aa240bd3980b0!8m2!3d27.8792151!4d78.0843317!16s%2Fg%2F11h1yv4t64!19sChIJMZ308culdDkRsIA5vUCiCpU?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "surgery-ward-jnmc-aligarh",
@@ -16197,7 +16061,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Surgery+Ward+JNMC./data=!4m7!3m6!1s0x3974a4de2917a83f:0x28f7e466d958bc58!8m2!3d27.919068!4d78.0885619!16s%2Fg%2F124ycwpny!19sChIJP6gXKd6kdDkRWLxY2Wbk9yg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surgery+Ward+JNMC./data=!4m7!3m6!1s0x3974a4de2917a83f:0x28f7e466d958bc58!8m2!3d27.919068!4d78.0885619!16s%2Fg%2F124ycwpny!19sChIJP6gXKd6kdDkRWLxY2Wbk9yg?authuser=0&hl=en&rclk=1"
@@ -16266,8 +16130,7 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Surgery+Ward+JNMC./data=!4m7!3m6!1s0x3974a4de2917a83f:0x28f7e466d958bc58!8m2!3d27.919068!4d78.0885619!16s%2Fg%2F124ycwpny!19sChIJP6gXKd6kdDkRWLxY2Wbk9yg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-brain-and-spine-clinic-united-complex",
@@ -16315,7 +16178,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Brain+and+Spine+Clinic/data=!4m7!3m6!1s0x3974a500707ca19f:0xa1caeb8acbe46710!8m2!3d27.8756557!4d78.0753116!16s%2Fg%2F11myssx75l!19sChIJn6F8cACldDkREGfky4rryqE?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Brain+and+Spine+Clinic/data=!4m7!3m6!1s0x3974a500707ca19f:0xa1caeb8acbe46710!8m2!3d27.8756557!4d78.0753116!16s%2Fg%2F11myssx75l!19sChIJn6F8cACldDkREGfky4rryqE?authuser=0&hl=en&rclk=1"
@@ -16381,11 +16244,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Brain+and+Spine+Clinic/data=!4m7!3m6!1s0x3974a500707ca19f:0xa1caeb8acbe46710!8m2!3d27.8756557!4d78.0753116!16s%2Fg%2F11myssx75l!19sChIJn6F8cACldDkREGfky4rryqE?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-dental-world-aligarh",
@@ -16436,7 +16298,7 @@
       "153+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/THE+DENTAL+WORLD/data=!4m7!3m6!1s0x3974a4e6e83a7179:0xb0c478d5a3387710!8m2!3d27.9126617!4d78.0843533!16s%2Fg%2F11f5t7kftp!19sChIJeXE66OakdDkREHc4o9V4xLA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THE+DENTAL+WORLD/data=!4m7!3m6!1s0x3974a4e6e83a7179:0xb0c478d5a3387710!8m2!3d27.9126617!4d78.0843533!16s%2Fg%2F11f5t7kftp!19sChIJeXE66OakdDkREHc4o9V4xLA?authuser=0&hl=en&rclk=1"
@@ -16505,8 +16367,7 @@
     "rating": 4.3,
     "reviews": 153,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/THE+DENTAL+WORLD/data=!4m7!3m6!1s0x3974a4e6e83a7179:0xb0c478d5a3387710!8m2!3d27.9126617!4d78.0843533!16s%2Fg%2F11f5t7kftp!19sChIJeXE66OakdDkREHc4o9V4xLA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-family-dental-center-aligarh",
@@ -16557,7 +16418,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/The+Family+Dental+Center/data=!4m7!3m6!1s0x3974a491f553abd3:0xc6c928058d882b50!8m2!3d27.8906971!4d78.077989!16s%2Fg%2F1hc1nppxm!19sChIJ06tT9ZGkdDkRUCuIjQUoycY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Family+Dental+Center/data=!4m7!3m6!1s0x3974a491f553abd3:0xc6c928058d882b50!8m2!3d27.8906971!4d78.077989!16s%2Fg%2F1hc1nppxm!19sChIJ06tT9ZGkdDkRUCuIjQUoycY?authuser=0&hl=en&rclk=1"
@@ -16626,8 +16487,7 @@
     "rating": 4.9,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/The+Family+Dental+Center/data=!4m7!3m6!1s0x3974a491f553abd3:0xc6c928058d882b50!8m2!3d27.8906971!4d78.077989!16s%2Fg%2F1hc1nppxm!19sChIJ06tT9ZGkdDkRUCuIjQUoycY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-smilist-dental-care-studio-aligarh",
@@ -16675,7 +16535,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/THE+SMILIST+DENTAL+CARE+STUDIO/data=!4m7!3m6!1s0x3974a5d0ed8de993:0x764d01f5746696d6!8m2!3d27.8978473!4d78.0920348!16s%2Fg%2F11szfnq_gk!19sChIJk-mN7dCldDkR1pZmdPUBTXY?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THE+SMILIST+DENTAL+CARE+STUDIO/data=!4m7!3m6!1s0x3974a5d0ed8de993:0x764d01f5746696d6!8m2!3d27.8978473!4d78.0920348!16s%2Fg%2F11szfnq_gk!19sChIJk-mN7dCldDkR1pZmdPUBTXY?authuser=0&hl=en&rclk=1"
@@ -16744,8 +16604,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/THE+SMILIST+DENTAL+CARE+STUDIO/data=!4m7!3m6!1s0x3974a5d0ed8de993:0x764d01f5746696d6!8m2!3d27.8978473!4d78.0920348!16s%2Fg%2F11szfnq_gk!19sChIJk-mN7dCldDkR1pZmdPUBTXY?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "the-smilist-dental-care-studio-dr-krishna-kumar-varshney-bds-mds-prosthodontist-implantologist-cer-endodontist-and-g-dentist-aligarh",
@@ -16793,7 +16652,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/THE+SMILIST+DENTAL+CARE+STUDIO%7C%7CDr+Krishna+Kumar+Varshney+BDS,MDS%7C%7CProsthodontist,+Implantologist,Cer.Endodontist+%26+G.Dentist/data=!4m7!3m6!1s0x3974a4bf5c43fec5:0xd7120bca563de8ba!8m2!3d27.8979491!4d78.092046!16s%2Fg%2F11j19k7jw9!19sChIJxf5DXL-kdDkRuug9VsoLEtc?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THE+SMILIST+DENTAL+CARE+STUDIO%7C%7CDr+Krishna+Kumar+Varshney+BDS,MDS%7C%7CProsthodontist,+Implantologist,Cer.Endodontist+%26+G.Dentist/data=!4m7!3m6!1s0x3974a4bf5c43fec5:0xd7120bca563de8ba!8m2!3d27.8979491!4d78.092046!16s%2Fg%2F11j19k7jw9!19sChIJxf5DXL-kdDkRuug9VsoLEtc?authuser=0&hl=en&rclk=1"
@@ -16862,8 +16721,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/THE+SMILIST+DENTAL+CARE+STUDIO%7C%7CDr+Krishna+Kumar+Varshney+BDS,MDS%7C%7CProsthodontist,+Implantologist,Cer.Endodontist+%26+G.Dentist/data=!4m7!3m6!1s0x3974a4bf5c43fec5:0xd7120bca563de8ba!8m2!3d27.8979491!4d78.092046!16s%2Fg%2F11j19k7jw9!19sChIJxf5DXL-kdDkRuug9VsoLEtc?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "tiny-tots-dental-care-aligarh",
@@ -16911,7 +16769,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Tiny+tots+dental+care/data=!4m7!3m6!1s0x3974a5970295f54f:0x3329e75d448d8499!8m2!3d27.8972613!4d78.0901792!16s%2Fg%2F11l6df0qgk!19sChIJT_WVApeldDkRmYSNRF3nKTM?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tiny+tots+dental+care/data=!4m7!3m6!1s0x3974a5970295f54f:0x3329e75d448d8499!8m2!3d27.8972613!4d78.0901792!16s%2Fg%2F11l6df0qgk!19sChIJT_WVApeldDkRmYSNRF3nKTM?authuser=0&hl=en&rclk=1"
@@ -16977,11 +16835,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Tiny+tots+dental+care/data=!4m7!3m6!1s0x3974a5970295f54f:0x3329e75d448d8499!8m2!3d27.8972613!4d78.0901792!16s%2Fg%2F11l6df0qgk!19sChIJT_WVApeldDkRmYSNRF3nKTM?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "v-k-dental-clinic-aligarh",
@@ -17030,7 +16887,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/V.K.+Dental+Clinic/data=!4m7!3m6!1s0x3974a4911cab9bd9:0x34fe92b0614b4f26!8m2!3d27.8884042!4d78.0801741!16s%2Fg%2F11tn5cxpgp!19sChIJ2ZurHJGkdDkRJk9LYbCS_jQ?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V.K.+Dental+Clinic/data=!4m7!3m6!1s0x3974a4911cab9bd9:0x34fe92b0614b4f26!8m2!3d27.8884042!4d78.0801741!16s%2Fg%2F11tn5cxpgp!19sChIJ2ZurHJGkdDkRJk9LYbCS_jQ?authuser=0&hl=en&rclk=1"
@@ -17099,8 +16956,7 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/V.K.+Dental+Clinic/data=!4m7!3m6!1s0x3974a4911cab9bd9:0x34fe92b0614b4f26!8m2!3d27.8884042!4d78.0801741!16s%2Fg%2F11tn5cxpgp!19sChIJ2ZurHJGkdDkRJk9LYbCS_jQ?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vaqar-hospital-dhaurra-mafi",
@@ -17151,7 +17007,7 @@
       "62+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vaqar+Hospital/data=!4m7!3m6!1s0x3974a56ebe3628a7:0x97eab576e158291!8m2!3d27.9302201!4d78.0896576!16s%2Fg%2F11h64qq508!19sChIJpyg2vm6ldDkRkYIVblerfgk?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaqar+Hospital/data=!4m7!3m6!1s0x3974a56ebe3628a7:0x97eab576e158291!8m2!3d27.9302201!4d78.0896576!16s%2Fg%2F11h64qq508!19sChIJpyg2vm6ldDkRkYIVblerfgk?authuser=0&hl=en&rclk=1"
@@ -17220,8 +17076,7 @@
     "rating": 4.5,
     "reviews": 62,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vaqar+Hospital/data=!4m7!3m6!1s0x3974a56ebe3628a7:0x97eab576e158291!8m2!3d27.9302201!4d78.0896576!16s%2Fg%2F11h64qq508!19sChIJpyg2vm6ldDkRkYIVblerfgk?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vardan-hospital-aligarh",
@@ -17269,7 +17124,7 @@
     "metrics": [
       "Google rating 2.6"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vardan+Hospital/data=!4m7!3m6!1s0x3974a5fc78943545:0x2c60d22387d27f19!8m2!3d27.8910488!4d78.063448!16s%2Fg%2F11f9g_q5bc!19sChIJRTWUePyldDkRGX_ShyPSYCw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardan+Hospital/data=!4m7!3m6!1s0x3974a5fc78943545:0x2c60d22387d27f19!8m2!3d27.8910488!4d78.063448!16s%2Fg%2F11f9g_q5bc!19sChIJRTWUePyldDkRGX_ShyPSYCw?authuser=0&hl=en&rclk=1"
@@ -17338,8 +17193,7 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vardan+Hospital/data=!4m7!3m6!1s0x3974a5fc78943545:0x2c60d22387d27f19!8m2!3d27.8910488!4d78.063448!16s%2Fg%2F11f9g_q5bc!19sChIJRTWUePyldDkRGX_ShyPSYCw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "varun-hospital-aligarh",
@@ -17388,7 +17242,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Varun+Hospital/data=!4m7!3m6!1s0x3974a57428e96bc5:0xaeb2f5b217043b8d!8m2!3d27.8838427!4d78.0820166!16s%2Fg%2F11f6yvztck!19sChIJxWvpKHSldDkRjTsEF7L1sq4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varun+Hospital/data=!4m7!3m6!1s0x3974a57428e96bc5:0xaeb2f5b217043b8d!8m2!3d27.8838427!4d78.0820166!16s%2Fg%2F11f6yvztck!19sChIJxWvpKHSldDkRjTsEF7L1sq4?authuser=0&hl=en&rclk=1"
@@ -17457,8 +17311,7 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Varun+Hospital/data=!4m7!3m6!1s0x3974a57428e96bc5:0xaeb2f5b217043b8d!8m2!3d27.8838427!4d78.0820166!16s%2Fg%2F11f6yvztck!19sChIJxWvpKHSldDkRjTsEF7L1sq4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "ved-hospital-and-trauma-centre-aligarh",
@@ -17506,7 +17359,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/VED+HOSPITAL+AND+TRAUMA+CENTRE/data=!4m7!3m6!1s0x3974a55f15b957f9:0x8e3220bc803ddb02!8m2!3d27.8978514!4d78.0393935!16s%2Fg%2F11lg5znmzt!19sChIJ-Ve5FV-ldDkRAts9gLwgMo4?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VED+HOSPITAL+AND+TRAUMA+CENTRE/data=!4m7!3m6!1s0x3974a55f15b957f9:0x8e3220bc803ddb02!8m2!3d27.8978514!4d78.0393935!16s%2Fg%2F11lg5znmzt!19sChIJ-Ve5FV-ldDkRAts9gLwgMo4?authuser=0&hl=en&rclk=1"
@@ -17575,8 +17428,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/VED+HOSPITAL+AND+TRAUMA+CENTRE/data=!4m7!3m6!1s0x3974a55f15b957f9:0x8e3220bc803ddb02!8m2!3d27.8978514!4d78.0393935!16s%2Fg%2F11lg5znmzt!19sChIJ-Ve5FV-ldDkRAts9gLwgMo4?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vijay-dental-and-orthodontic-clinic-aiims-new-delhi-invisalign-specialist-aligarh",
@@ -17626,7 +17478,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vijay+dental+and+orthodontic+clinic,+AIIMS+New+Delhi,+Invisalign+specialist/data=!4m7!3m6!1s0x3974a5f7ab129935:0x92286f6829f745d2!8m2!3d27.8957224!4d78.0896955!16s%2Fg%2F11j2xfzpg_!19sChIJNZkSq_eldDkR0kX3KWhvKJI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijay+dental+and+orthodontic+clinic,+AIIMS+New+Delhi,+Invisalign+specialist/data=!4m7!3m6!1s0x3974a5f7ab129935:0x92286f6829f745d2!8m2!3d27.8957224!4d78.0896955!16s%2Fg%2F11j2xfzpg_!19sChIJNZkSq_eldDkR0kX3KWhvKJI?authuser=0&hl=en&rclk=1"
@@ -17695,8 +17547,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vijay+dental+and+orthodontic+clinic,+AIIMS+New+Delhi,+Invisalign+specialist/data=!4m7!3m6!1s0x3974a5f7ab129935:0x92286f6829f745d2!8m2!3d27.8957224!4d78.0896955!16s%2Fg%2F11j2xfzpg_!19sChIJNZkSq_eldDkR0kX3KWhvKJI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vinod-hospital-aligarh",
@@ -17744,7 +17595,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vinod+Hospital/data=!4m7!3m6!1s0x3974a336eff318b9:0x5e23de53070ce7a5!8m2!3d27.8704232!4d78.1061761!16s%2Fg%2F11sh486ky2!19sChIJuRjz7zajdDkRpecMB1PeI14?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinod+Hospital/data=!4m7!3m6!1s0x3974a336eff318b9:0x5e23de53070ce7a5!8m2!3d27.8704232!4d78.1061761!16s%2Fg%2F11sh486ky2!19sChIJuRjz7zajdDkRpecMB1PeI14?authuser=0&hl=en&rclk=1"
@@ -17813,8 +17664,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vinod+Hospital/data=!4m7!3m6!1s0x3974a336eff318b9:0x5e23de53070ce7a5!8m2!3d27.8704232!4d78.1061761!16s%2Fg%2F11sh486ky2!19sChIJuRjz7zajdDkRpecMB1PeI14?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vishwa-lekha-ent-clinic-aligarh",
@@ -17863,7 +17713,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vishwa+Lekha+ENT+Clinic/data=!4m7!3m6!1s0x3974a55e868df45b:0x1c1d042a3156c347!8m2!3d27.8835651!4d78.0812927!16s%2Fg%2F11ny0k7760!19sChIJW_SNhl6ldDkRR8NWMSoEHRw?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishwa+Lekha+ENT+Clinic/data=!4m7!3m6!1s0x3974a55e868df45b:0x1c1d042a3156c347!8m2!3d27.8835651!4d78.0812927!16s%2Fg%2F11ny0k7760!19sChIJW_SNhl6ldDkRR8NWMSoEHRw?authuser=0&hl=en&rclk=1"
@@ -17932,8 +17782,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vishwa+Lekha+ENT+Clinic/data=!4m7!3m6!1s0x3974a55e868df45b:0x1c1d042a3156c347!8m2!3d27.8835651!4d78.0812927!16s%2Fg%2F11ny0k7760!19sChIJW_SNhl6ldDkRR8NWMSoEHRw?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vital-apex-dental-care-aligarh",
@@ -17982,7 +17831,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vital+Apex+Dental+Care/data=!4m7!3m6!1s0x3974a55d06feac1b:0x925693b3f4ac9697!8m2!3d27.9304446!4d78.0889893!16s%2Fg%2F11t16ly0f9!19sChIJG6z-Bl2ldDkRl5as9LOTVpI?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vital+Apex+Dental+Care/data=!4m7!3m6!1s0x3974a55d06feac1b:0x925693b3f4ac9697!8m2!3d27.9304446!4d78.0889893!16s%2Fg%2F11t16ly0f9!19sChIJG6z-Bl2ldDkRl5as9LOTVpI?authuser=0&hl=en&rclk=1"
@@ -18048,11 +17897,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5,
+    "rating": 5.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vital+Apex+Dental+Care/data=!4m7!3m6!1s0x3974a55d06feac1b:0x925693b3f4ac9697!8m2!3d27.9304446!4d78.0889893!16s%2Fg%2F11t16ly0f9!19sChIJG6z-Bl2ldDkRl5as9LOTVpI?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vituscare-dialysis-centre-at-mithraj-hospital-aligarh",
@@ -18103,7 +17951,7 @@
       "1+ public reviews",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vituscare+Dialysis+Centre+At+Mithraj+Hospital/data=!4m7!3m6!1s0x3974b7dd227d751f:0x52ef5e2d4727edb2!8m2!3d28.0143212!4d78.2565325!16s%2Fg%2F11fl8ptdlk!19sChIJH3V9It23dDkRsu0nRy1e71I?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vituscare+Dialysis+Centre+At+Mithraj+Hospital/data=!4m7!3m6!1s0x3974b7dd227d751f:0x52ef5e2d4727edb2!8m2!3d28.0143212!4d78.2565325!16s%2Fg%2F11fl8ptdlk!19sChIJH3V9It23dDkRsu0nRy1e71I?authuser=0&hl=en&rclk=1"
@@ -18172,8 +18020,7 @@
     "rating": 4.6,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vituscare+Dialysis+Centre+At+Mithraj+Hospital/data=!4m7!3m6!1s0x3974b7dd227d751f:0x52ef5e2d4727edb2!8m2!3d28.0143212!4d78.2565325!16s%2Fg%2F11fl8ptdlk!19sChIJH3V9It23dDkRsu0nRy1e71I?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "vs-juneja-memorial-hospital-aligarh",
@@ -18221,7 +18068,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Vs+Juneja+Memorial+Hospital/data=!4m7!3m6!1s0x3974a4832403f01d:0xa0c03fc02b9dd761!8m2!3d27.8765517!4d78.0754298!16s%2Fg%2F11c2r4k3jr!19sChIJHfADJIOkdDkRYdedK8A_wKA?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vs+Juneja+Memorial+Hospital/data=!4m7!3m6!1s0x3974a4832403f01d:0xa0c03fc02b9dd761!8m2!3d27.8765517!4d78.0754298!16s%2Fg%2F11c2r4k3jr!19sChIJHfADJIOkdDkRYdedK8A_wKA?authuser=0&hl=en&rclk=1"
@@ -18290,8 +18137,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Vs+Juneja+Memorial+Hospital/data=!4m7!3m6!1s0x3974a4832403f01d:0xa0c03fc02b9dd761!8m2!3d27.8765517!4d78.0754298!16s%2Fg%2F11c2r4k3jr!19sChIJHfADJIOkdDkRYdedK8A_wKA?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "yashomati-hospital-aligarh",
@@ -18339,7 +18185,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
+    "image": "https://www.google.com/maps/place/Yashomati+Hospital/data=!4m7!3m6!1s0x3974bb2d1f302249:0x38cca02c4a7f6b00!8m2!3d27.9136257!4d78.1123856!16s%2Fg%2F11csq86s8g!19sChIJSSIwHy27dDkRAGt_SiygzDg?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashomati+Hospital/data=!4m7!3m6!1s0x3974bb2d1f302249:0x38cca02c4a7f6b00!8m2!3d27.9136257!4d78.1123856!16s%2Fg%2F11csq86s8g!19sChIJSSIwHy27dDkRAGt_SiygzDg?authuser=0&hl=en&rclk=1"
@@ -18408,8 +18254,7 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/Yashomati+Hospital/data=!4m7!3m6!1s0x3974bb2d1f302249:0x38cca02c4a7f6b00!8m2!3d27.9136257!4d78.1123856!16s%2Fg%2F11csq86s8g!19sChIJSSIwHy27dDkRAGt_SiygzDg?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aligarh",
@@ -18456,7 +18301,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%A8+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/data=!4m7!3m6!1s0x3974a57fb0530979:0xfd2e830b1dfcb866!8m2!3d27.877074!4d78.0972682!16s%2Fg%2F11v3pfn41d!19sChIJeQlTsH-ldDkRZrj8HQuDLv0?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%A8+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/data=!4m7!3m6!1s0x3974a57fb0530979:0xfd2e830b1dfcb866!8m2!3d27.877074!4d78.0972682!16s%2Fg%2F11v3pfn41d!19sChIJeQlTsH-ldDkRZrj8HQuDLv0?authuser=0&hl=en&rclk=1"
@@ -18522,11 +18367,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0,
+    "rating": 0.0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%A8+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/data=!4m7!3m6!1s0x3974a57fb0530979:0xfd2e830b1dfcb866!8m2!3d27.877074!4d78.0972682!16s%2Fg%2F11v3pfn41d!19sChIJeQlTsH-ldDkRZrj8HQuDLv0?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   },
   {
     "slug": "aligarh",
@@ -18575,7 +18419,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
+    "image": "https://www.google.com/maps/place/%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7+%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A5/data=!4m7!3m6!1s0x3974a300250b76b1:0xe9f3f80893f23aa8!8m2!3d27.8678737!4d78.0684128!16s%2Fg%2F11xfk7y1cj!19sChIJsXYLJQCjdDkRqDrykwj48-k?authuser=0&hl=en&rclk=1",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7+%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A5/data=!4m7!3m6!1s0x3974a300250b76b1:0xe9f3f80893f23aa8!8m2!3d27.8678737!4d78.0684128!16s%2Fg%2F11xfk7y1cj!19sChIJsXYLJQCjdDkRqDrykwj48-k?authuser=0&hl=en&rclk=1"
@@ -18644,7 +18488,6 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed",
-    "map_url": "https://www.google.com/maps/place/%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7+%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A5/data=!4m7!3m6!1s0x3974a300250b76b1:0xe9f3f80893f23aa8!8m2!3d27.8678737!4d78.0684128!16s%2Fg%2F11xfk7y1cj!19sChIJsXYLJQCjdDkRqDrykwj48-k?authuser=0&hl=en&rclk=1"
+    "hours": "Hours not publicly listed"
   }
 ]
