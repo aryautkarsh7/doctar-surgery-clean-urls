@@ -79,6 +79,12 @@ async function build() {
     console.log('Copied: data/');
   }
 
+  // Copy home screen section directory to dist
+  if (fs.existsSync('home screen section')) {
+    fs.cpSync('home screen section', 'dist/home screen section', { recursive: true });
+    console.log('Copied: home screen section/');
+  }
+
   console.log('Build complete!');
 }
 
