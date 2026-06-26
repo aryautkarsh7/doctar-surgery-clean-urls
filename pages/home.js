@@ -102,12 +102,12 @@
     ];
 
     const heroServices = [
-      { title: 'Find a Surgeon Near Me', sub: 'Expert surgeons near your location', img: 'images/hero-surgery.webp', icon: 'fa-solid fa-user-doctor', href: urlSurgeonsNearMe() },
+      { title: 'Find a Surgeon Near Me', sub: 'Expert surgeons near your location', img: 'images/hero-surgeon-near-me.png', icon: 'fa-solid fa-user-doctor', href: urlSurgeonsNearMe() },
       { title: 'Surgeries', sub: 'Safe & trusted procedures', img: 'images/service-general.webp', icon: 'fa-solid fa-scalpel', href: urlSurgeriesInCity(currentCity) },
-      { title: 'Hospital Near Me', sub: 'Best hospitals near you', img: 'images/service-cardiac.webp', icon: 'fa-solid fa-hospital', href: urlAllCategories() },
-      { title: 'Hospitals', sub: 'Top partner facilities', img: 'images/about-surgery.webp', icon: 'fa-solid fa-building-columns', href: urlHospitalsInCity(currentCity) },
-      { title: 'Pet Surgery Near Me', sub: 'Trusted veterinary surgeons', img: 'images/service-neuro.webp', icon: 'fa-solid fa-paw', href: urlPetSurgeryNearMe() },
-      { title: 'Pet Hospitals', sub: 'Pet care facilities near you', img: 'images/service-general.webp', icon: 'fa-solid fa-house-medical', href: urlPetHospitals(currentCity) },
+      { title: 'Hospital Near Me', sub: 'Best hospitals near you', img: 'images/hero-hospital-near-me.png', icon: 'fa-solid fa-hospital', href: urlAllCategories() },
+      { title: 'Hospitals', sub: 'Top partner facilities', img: 'images/hero-hospitals.png', icon: 'fa-solid fa-building-columns', href: urlHospitalsInCity(currentCity) },
+      { title: 'Pet Surgery Near Me', sub: 'Trusted veterinary surgeons', img: 'images/hero-pet-surgery.png', icon: 'fa-solid fa-paw', href: urlPetSurgeryNearMe() },
+      { title: 'Pet Hospitals', sub: 'Pet care facilities near you', img: 'images/hero-pet-hospitals.png', icon: 'fa-solid fa-house-medical', href: urlPetHospitals(currentCity) },
     ];
 
     let html = `
