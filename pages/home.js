@@ -357,7 +357,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
               ${featuredHospitals.map(hospital => `
                 <article class="fh-card${hospital.image ? '' : ' fh-img-failed'}" data-hospital-card="${hospital.slug}">
                   <div class="fh-card-media">
-                    <img src="${hospitalImageUrl(hospital, 400, 300)}" alt="${escapeHtmlAttr(hospital.name)}" onerror="this.onerror=null;this.closest('.fh-card').classList.add('fh-img-failed');this.src=hospitalPlaceholderImageUrl(this.alt,400,300)">
+                    <img src="${hospitalImageUrl(hospital, 400, 300)}" alt="${escapeHtmlAttr(hospital.name)}" onerror="this.onerror=null;this.closest('.fh-card').classList.add('fh-img-failed');this.src=window.hospitalPlaceholderImageUrl(this.alt,400,300)">
                     <div class="card-logo-slot is-empty" title="Hospital logo">
                       <i class="fa-solid fa-hospital"></i>
                     </div>
@@ -412,7 +412,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             ${featuredHospitals.map(hospital => `
               <a href="/specialities/s" class="hnm2-card">
                 <div class="hnm2-card-img">
-                  <img src="${hospitalImageUrl(hospital, 400, 300)}" alt="${escapeHtmlAttr(hospital.name)}" loading="lazy" onerror="this.src=hospitalPlaceholderImageUrl(this.alt,400,300)">
+                  <img src="${hospitalImageUrl(hospital, 400, 300)}" alt="${escapeHtmlAttr(hospital.name)}" loading="lazy" onerror="this.src=window.hospitalPlaceholderImageUrl(this.alt,400,300)">
                 </div>
                 <div class="hnm2-card-body">
                   <h3>${hospital.name}</h3>

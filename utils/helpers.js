@@ -86,13 +86,14 @@
       ['#be123c', '#fecdd3', '#fff1f2'],
       ['#7c2d12', '#fed7aa', '#fff7ed'],
       ['#4c1d95', '#ddd6fe', '#f5f3ff'],
-      ['#166534', '#bbf7d0', '#f0fdf4'],
-      ['#334155', '#cbd5e1', '#f8fafc'],
-      ['#9d174d', '#fbcfe8', '#fdf2f8']
+      ['#5d5fef', '#a5a6f6', '#f1f1fe'],
+      ['#0f172a', '#334155', '#f8fafc'],
+      ['#059669', '#34d399', '#ecfdf5'],
+      ['#b91c1c', '#f87171', '#fef2f2'],
+      ['#0284c7', '#38bdf8', '#f0f9ff'],
     ];
-    const colors = palettes[stableHash(label) % palettes.length];
-    const width = w || 800;
-    const height = h || 520;
+    const colors = palettes[hash % palettes.length];
+    
     const safeLabel = label
       .replace(/&/g, '&amp;')
       .replace(/</g, '&lt;')
@@ -101,7 +102,7 @@
       .slice(0, 58);
     const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-label="${safeLabel}"><defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="${colors[2]}"/><stop offset="1" stop-color="${colors[1]}"/></linearGradient></defs><rect width="${width}" height="${height}" fill="url(#g)"/><rect x="${Math.round(width * 0.08)}" y="${Math.round(height * 0.16)}" width="${Math.round(width * 0.84)}" height="${Math.round(height * 0.62)}" rx="28" fill="#ffffff" opacity="0.82"/><path d="M${Math.round(width * 0.2)} ${Math.round(height * 0.78)}h${Math.round(width * 0.6)}v${Math.round(height * 0.08)}H${Math.round(width * 0.2)}z" fill="${colors[0]}" opacity="0.14"/><circle cx="${Math.round(width * 0.5)}" cy="${Math.round(height * 0.38)}" r="${Math.round(Math.min(width, height) * 0.15)}" fill="${colors[0]}" opacity="0.95"/><rect x="${Math.round(width * 0.47)}" y="${Math.round(height * 0.27)}" width="${Math.round(width * 0.06)}" height="${Math.round(height * 0.22)}" rx="8" fill="#fff"/><rect x="${Math.round(width * 0.39)}" y="${Math.round(height * 0.35)}" width="${Math.round(width * 0.22)}" height="${Math.round(height * 0.06)}" rx="8" fill="#fff"/><text x="50%" y="${Math.round(height * 0.68)}" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="${Math.round(Math.min(width, height) * 0.13)}" font-weight="800" fill="${colors[0]}">${initials}</text></svg>`;
     return `data:image/svg+xml;base64,${btoa(unescape(encodeURIComponent(svg)))}`;
-  }
+  };
 
   function hospitalImageUrl(hospital, w, h) {
     const record = hospital || {};
@@ -438,3 +439,4 @@
     }
     canonical.setAttribute('href', url || window.location.href);
   };
+window.hospitalPlaceholderImageUrl = hospitalPlaceholderImageUrl;

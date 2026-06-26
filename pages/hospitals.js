@@ -66,7 +66,7 @@
 
       <section class="container hpp-hero">
         <div class="hpp-hero-media">
-          <img loading="lazy" src="${hospitalImageUrl(hospital, 960, 540)}" alt="${escapeHtmlAttr(hospital.name)}" onerror="this.src=hospitalPlaceholderImageUrl(this.alt,960,540)">
+          <img loading="lazy" src="${hospitalImageUrl(hospital, 960, 540)}" alt="${escapeHtmlAttr(hospital.name)}" onerror="this.src=window.hospitalPlaceholderImageUrl(this.alt,960,540)">
           <div class="hpp-hero-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
             ${hospital.logo
               ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.hpp-hero-logo-slot').classList.add('is-empty');this.remove();">`
@@ -540,7 +540,7 @@
           ` : `<div class="hl-list" id="hospitalsListView">` + hospitals.map((hospital, index) => `
             <article class="hl-card ${index === 0 ? 'is-highlighted' : ''}${hospital.image ? '' : ' hl-img-failed'}">
               <div class="hl-image-wrap">
-                <img src="${hospitalImageUrl(hospital, 420, 280)}" alt="${escapeHtmlAttr(hospital.name)}" loading="lazy" onerror="this.onerror=null;this.closest('.hl-card').classList.add('hl-img-failed');this.src=hospitalPlaceholderImageUrl(this.alt,420,280)">
+                <img src="${hospitalImageUrl(hospital, 420, 280)}" alt="${escapeHtmlAttr(hospital.name)}" loading="lazy" onerror="this.onerror=null;this.closest('.hl-card').classList.add('hl-img-failed');this.src=window.hospitalPlaceholderImageUrl(this.alt,420,280)">
                 <div class="card-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
                   ${hospital.logo
                     ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.card-logo-slot').classList.add('is-empty');this.remove();">`
@@ -719,7 +719,7 @@
       : `<div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px;">` + hospitals.map(h => `
           <a href="${urlHospital(h)}" style="display:block; background:#fff; border:1.5px solid #ECE6FF; border-radius:18px; overflow:hidden; text-decoration:none; color:inherit; box-shadow:0 2px 14px rgba(94,64,145,0.06);">
             <div style="height:150px; background:#f0ebff; overflow:hidden;">
-              <img loading="lazy" src="${hospitalImageUrl(h, 420, 280)}" alt="${escapeHtmlAttr(h.name)}" style="width:100%;height:100%;object-fit:cover;" onerror="this.src=hospitalPlaceholderImageUrl(this.alt,420,280)">
+              <img loading="lazy" src="${hospitalImageUrl(h, 420, 280)}" alt="${escapeHtmlAttr(h.name)}" style="width:100%;height:100%;object-fit:cover;" onerror="this.src=window.hospitalPlaceholderImageUrl(this.alt,420,280)">
             </div>
             <div style="padding:18px;">
               <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
