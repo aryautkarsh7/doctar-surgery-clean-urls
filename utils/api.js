@@ -238,75 +238,27 @@
         } catch(e) { console.warn('Failed to parse critical JSON', e); }
       }
 
-      // Apply city data (hospitals, doctors for current city) from local JSON
+      // Load doctors from doctor JSON (ONLY doctors, NOT hospitals)
       if (res2 && res2.ok) {
         try {
           const json2 = await res2.json();
           if (Array.isArray(json2)) {
             DOCTORS.length = 0;
             DOCTORS.push(...json2);
-            
-            const hMap = new Map();
-            json2.forEach(doc => {
-              if (Array.isArray(doc.hospitals)) {
-                doc.hospitals.forEach(h => {
-                  if (!hMap.has(h.name)) {
-                    hMap.set(h.name, { ...h, city: city });
-                  }
-                });
-              }
-            });
-            HOSPITALS.length = 0;
-            HOSPITALS.push(...Array.from(hMap.values()));
           }
         } catch(e) { console.warn('Failed to parse doctor JSON', e); }
       }
       
-      // Merge rich hospital data (use normalized names for matching)
+      // Load hospitals ONLY from hospital JSON (the sole source of truth)
       if (res3 && res3.ok) {
         try {
           const json3 = await res3.json();
           if (Array.isArray(json3) && json3.length > 0) {
-            const normalize = n => (n || '').trim().toLowerCase().replace(/[^a-z0-9]/g, '');
-            const existingMap = new Map(HOSPITALS.map(h => [normalize(h.name), h]));
-            json3.forEach(h => {
-               const key = normalize(h.name);
-               existingMap.set(key, { ...(existingMap.get(key) || {}), ...h, city: h.city || city });
-            });
             HOSPITALS.length = 0;
-            HOSPITALS.push(...Array.from(existingMap.values()));
+            HOSPITALS.push(...json3.map(h => ({ ...h, city: h.city || city })));
           }
         } catch(e) { console.warn('Failed to parse hospital JSON', e); }
       }
-
-      // Assign generic images to any hospital missing one (e.g. barebones ones from doctor data)
-      const STOCK_IMAGES = [
-        'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80',
-        'https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80',
-        'https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80',
-        'https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80',
-        'https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80',
-        'https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=800&q=80',
-        'https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&q=80',
-        'https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800&q=80',
-        'https://images.unsplash.com/photo-1504439468489-c8920d796a29?w=800&q=80',
-        'https://images.unsplash.com/photo-1530497610245-94d3c16cda28?w=800&q=80',
-        'https://images.unsplash.com/photo-1581595219315-a187dd40c322?w=800&q=80',
-        'https://images.unsplash.com/photo-1512678080530-7760d81faba6?w=800&q=80',
-        'https://images.unsplash.com/photo-1596541223130-5d31a73fb6c6?w=800&q=80',
-        'https://images.unsplash.com/photo-1583912267550-d6c2ac3196c0?w=800&q=80',
-        'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=800&q=80'
-      ];
-      HOSPITALS.forEach((h, i) => {
-        if (!h.image || h.image.includes('google.com/maps')) {
-          h.image = STOCK_IMAGES[i % STOCK_IMAGES.length];
-        }
-        if (!h.metrics || h.metrics.length === 0) h.metrics = ['Multi-speciality', 'Verified Facility'];
-        if (!h.services || h.services.length === 0) h.services = ['Expert Consultation', 'Diagnostics', '24/7 Support'];
-        if (!h.type) h.type = 'Advanced Surgical Clinic';
-        if (!h.rating) h.rating = 4.5;
-        if (!h.reviews) h.reviews = Math.floor(Math.random() * 500) + 100;
-      });
 
       console.log('✅ Remote data loaded for', city);
     } catch (err) {
@@ -328,73 +280,27 @@
         fetch(hospUrl, { cache: 'no-store' }).catch(() => null)
       ]);
 
+      // Load doctors from doctor JSON (ONLY doctors, NOT hospitals)
       if (res && res.ok) {
         try {
           const json = await res.json();
           if (Array.isArray(json)) {
             DOCTORS.length = 0;
             DOCTORS.push(...json);
-            
-            const hMap = new Map();
-            json.forEach(doc => {
-              if (Array.isArray(doc.hospitals)) {
-                doc.hospitals.forEach(h => {
-                  if (!hMap.has(h.name)) {
-                    hMap.set(h.name, { ...h, city: city });
-                  }
-                });
-              }
-            });
-            HOSPITALS.length = 0;
-            HOSPITALS.push(...Array.from(hMap.values()));
           }
         } catch(e) { console.warn('Failed to parse doctor JSON', e); }
       }
       
+      // Load hospitals ONLY from hospital JSON (the sole source of truth)
       if (resHosp && resHosp.ok) {
         try {
           const jsonHosp = await resHosp.json();
           if (Array.isArray(jsonHosp) && jsonHosp.length > 0) {
-            const normalize = n => (n || '').trim().toLowerCase().replace(/[^a-z0-9]/g, '');
-            const existingMap = new Map(HOSPITALS.map(h => [normalize(h.name), h]));
-            jsonHosp.forEach(h => {
-               const key = normalize(h.name);
-               existingMap.set(key, { ...(existingMap.get(key) || {}), ...h, city: h.city || city });
-            });
             HOSPITALS.length = 0;
-            HOSPITALS.push(...Array.from(existingMap.values()));
+            HOSPITALS.push(...jsonHosp.map(h => ({ ...h, city: h.city || city })));
           }
         } catch(e) { console.warn('Failed to parse hospital JSON', e); }
       }
-
-      // Assign generic images to any hospital missing one (e.g. barebones ones from doctor data)
-      const STOCK_IMAGES = [
-        'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80',
-        'https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80',
-        'https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80',
-        'https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80',
-        'https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80',
-        'https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=800&q=80',
-        'https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&q=80',
-        'https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800&q=80',
-        'https://images.unsplash.com/photo-1504439468489-c8920d796a29?w=800&q=80',
-        'https://images.unsplash.com/photo-1530497610245-94d3c16cda28?w=800&q=80',
-        'https://images.unsplash.com/photo-1581595219315-a187dd40c322?w=800&q=80',
-        'https://images.unsplash.com/photo-1512678080530-7760d81faba6?w=800&q=80',
-        'https://images.unsplash.com/photo-1596541223130-5d31a73fb6c6?w=800&q=80',
-        'https://images.unsplash.com/photo-1583912267550-d6c2ac3196c0?w=800&q=80',
-        'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=800&q=80'
-      ];
-      HOSPITALS.forEach((h, i) => {
-        if (!h.image || h.image.includes('google.com/maps')) {
-          h.image = STOCK_IMAGES[i % STOCK_IMAGES.length];
-        }
-        if (!h.metrics || h.metrics.length === 0) h.metrics = ['Multi-speciality', 'Verified Facility'];
-        if (!h.services || h.services.length === 0) h.services = ['Expert Consultation', 'Diagnostics', '24/7 Support'];
-        if (!h.type) h.type = 'Advanced Surgical Clinic';
-        if (!h.rating) h.rating = 4.5;
-        if (!h.reviews) h.reviews = Math.floor(Math.random() * 500) + 100;
-      });
 
       console.log('✅ City data reloaded for', city);
       if (typeof handleRoute === 'function') handleRoute();
