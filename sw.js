@@ -1,23 +1,8 @@
-const CACHE_NAME = 'doctar-v13';
+const CACHE_NAME = 'doctar-v14';
 const STATIC_ASSETS = [
   '/',
   '/styles.css',
-  '/main.js',
-  '/utils/helpers.js',
-  '/utils/api.js',
-  '/data.js',
-  '/components/sections.js',
-  '/components/footer-dynamic.js',
-  '/components/header.js',
-  '/components/booking-modal.js',
-  '/pages/blog.js',
-  '/pages/home.js',
-  '/pages/category.js',
-  '/pages/treatment.js',
-  '/pages/doctors.js',
-  '/pages/hospitals.js',
-  '/pages/search.js',
-  '/pages/pet.js',
+  '/bundle.js'
 ];
 
 self.addEventListener('install', e => {
