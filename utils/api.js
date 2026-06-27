@@ -226,21 +226,16 @@
       // Fetch critical data + city data in parallel so the page renders ONCE with full data.
       // Sequential fetching caused a double-render flicker (skeleton → empty → full).
       
-      const fileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + 'doctar.js';
-      const cityUrl = 'data/cities/' + fileName;
-      
-      const hospFileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + '.js';
-      const hospUrl = 'data/hospitals/' + hospFileName;
-      
       const controller = new AbortController();
       const fetchTimeout = setTimeout(() => controller.abort(), 3000);
 
-      const [res1, json2, json3] = await Promise.all([
+      const [res1, res2] = await Promise.all([
         fetch(API_BASE + '/api/data/critical', { cache: 'no-store', signal: controller.signal })
           .then(res => { clearTimeout(fetchTimeout); return res; })
           .catch(() => { clearTimeout(fetchTimeout); return null; }),
-        loadScriptData(cityUrl, 'DOCTAR_TEMP_CITY'),
-        loadScriptData(hospUrl, 'DOCTAR_TEMP_HOSP'),
+        fetch(API_BASE + '/api/data/city?city=' + encodeURIComponent(city), { cache: 'no-store', signal: controller.signal })
+          .then(res => { clearTimeout(fetchTimeout); return res; })
+          .catch(() => { clearTimeout(fetchTimeout); return null; }),
       ]);
 
       // Apply critical data (categories, treatments, subcategories, cities list)
@@ -274,20 +269,20 @@
         } catch(e) { console.warn('Failed to parse critical JSON', e); }
       }
 
-      // Load doctors from doctor JS
-      if (json2 && Array.isArray(json2)) {
+      // Apply city-specific data (doctors and hospitals)
+      if (res2 && res2.ok) {
         try {
-          DOCTORS.length = 0;
-          DOCTORS.push(...json2);
-        } catch(e) { console.warn('Failed to parse doctor data', e); }
-      }
-      
-      // Load hospitals from hospital JS
-      if (json3 && Array.isArray(json3) && json3.length > 0) {
-        try {
-          HOSPITALS.length = 0;
-          HOSPITALS.push(...json3.map(h => ({ ...h, city: h.city || city })));
-        } catch(e) { console.warn('Failed to parse hospital data', e); }
+          const cityJson = await res2.json();
+          const d2 = (cityJson && cityJson.data) || {};
+          if (Array.isArray(d2.doctors)) {
+            DOCTORS.length = 0;
+            DOCTORS.push(...d2.doctors);
+          }
+          if (Array.isArray(d2.hospitals)) {
+            HOSPITALS.length = 0;
+            HOSPITALS.push(...d2.hospitals.map(h => ({ ...h, city: h.city || city })));
+          }
+        } catch(e) { console.warn('Failed to parse city JSON', e); }
       }
 
       console.log('✅ Remote data loaded for', city);
@@ -299,31 +294,20 @@
   // Load city-specific data and re-render — used only when the user switches city.
   async function _loadCityData(city) {
     try {
-      const fileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + 'doctar.js';
-      const cityUrl = 'data/cities/' + fileName;
-      
-      const hospFileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + '.js';
-      const hospUrl = 'data/hospitals/' + hospFileName;
-      
-      const [json, jsonHosp] = await Promise.all([
-        loadScriptData(cityUrl, 'DOCTAR_TEMP_CITY'),
-        loadScriptData(hospUrl, 'DOCTAR_TEMP_HOSP')
-      ]);
-
-      // Load doctors from doctor JS
-      if (json && Array.isArray(json)) {
+      const res = await fetch(API_BASE + '/api/data/city?city=' + encodeURIComponent(city), { cache: 'no-store' });
+      if (res && res.ok) {
         try {
-          DOCTORS.length = 0;
-          DOCTORS.push(...json);
-        } catch(e) { console.warn('Failed to parse doctor data', e); }
-      }
-      
-      // Load hospitals from hospital JS
-      if (jsonHosp && Array.isArray(jsonHosp) && jsonHosp.length > 0) {
-        try {
-          HOSPITALS.length = 0;
-          HOSPITALS.push(...jsonHosp.map(h => ({ ...h, city: h.city || city })));
-        } catch(e) { console.warn('Failed to parse hospital data', e); }
+          const cityJson = await res.json();
+          const d2 = (cityJson && cityJson.data) || {};
+          if (Array.isArray(d2.doctors)) {
+            DOCTORS.length = 0;
+            DOCTORS.push(...d2.doctors);
+          }
+          if (Array.isArray(d2.hospitals)) {
+            HOSPITALS.length = 0;
+            HOSPITALS.push(...d2.hospitals.map(h => ({ ...h, city: h.city || city })));
+          }
+        } catch(e) { console.warn('Failed to parse city JSON', e); }
       }
 
 
